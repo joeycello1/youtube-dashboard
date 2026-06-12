@@ -1,6 +1,6 @@
 # Svelte + Vite
 
-This template should help get you started developing with Svelte in Vite. This line should trigger a new workflow.
+This template should help get you started developing with Svelte in Vite. I hope that this line will trigger a new workflow.
 
 ## Recommended IDE Setup  
 
