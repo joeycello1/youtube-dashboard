@@ -1,7 +1,5 @@
 <script>
-  
   import YouTubePlayer from './YouTubePlayer.svelte';
-  import { markWatched } from '../stores/watchedStore.js';
 
   export let video;
   export let onClose;
@@ -9,12 +7,26 @@
 
   let manualStart = true;
 
-  function skipVideo() {
-    manualStart = false; // skip is intentional
-    markWatched(video.videoId);
-    playNextVideo();
+  // Your real Web App URL
+  const WATCHED_WEBAPP_URL = "https://script.google.com/macros/s/AKfycbyW29beQAqTydTpvRDH5t0tQgz5NE5q6-47roDvHRMYxU2InC6Q60hYjrO2-5TLb2A/exec";
+
+  // Backend sync helper
+  function syncWatched(videoId) {
+    fetch(`${WATCHED_WEBAPP_URL}?action=markWatched&videoId=${videoId}`);
   }
 
+  function skipVideo() {
+    manualStart = false; // skip is intentional
+
+    // 1. Instant UI update
+    video.watched = true;
+
+    // 2. Backend sync (non-blocking)
+    syncWatched(video.videoId);
+
+    // 3. Move to next video
+    playNextVideo();
+  }
 </script>
 
 <div
@@ -31,10 +43,19 @@
   <YouTubePlayer
     videoId={video.videoId}
     on:ended={() => {
+      // If the user manually clicked the video, do NOT auto-skip
       if (manualStart) {
         manualStart = false;
-        return; // user clicked manually — do NOT skip
+        return;
       }
+
+      // 1. Instant UI update
+      video.watched = true;
+
+      // 2. Backend sync
+      syncWatched(video.videoId);
+
+      // 3. Move to next video
       playNextVideo();
     }}
   />

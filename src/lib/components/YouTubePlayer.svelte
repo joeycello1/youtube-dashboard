@@ -1,8 +1,13 @@
 <script>
   import { onMount, onDestroy, createEventDispatcher } from 'svelte';
-  import { markWatched } from '../stores/watchedStore.js';
 
   export let videoId;
+  
+  const WATCHED_WEBAPP_URL = "https://script.google.com/macros/s/AKfycbyW29beQAqTydTpvRDH5t0tQgz5NE5q6-47roDvHRMYxU2InC6Q60hYjrO2-5TLb2A/exec";
+
+  async function syncWatched(videoId) {
+    fetch(`${WATCHED_WEBAPP_URL}?action=markWatched&videoId=${videoId}`);
+  }
 
   let player;
   const dispatch = createEventDispatcher();
@@ -20,14 +25,14 @@
 
   function handleStateChange(event) {
     if (event.data === YT.PlayerState.ENDED) {
-      markWatched(videoId);
+      syncWatched(videoId);
       dispatch('ended');
     }
   }
 
   function handleError(event) {
     console.warn("YouTube error:", event.data);
-    markWatched(videoId);
+    syncWatched(videoId);
     dispatch('ended');
   }
 

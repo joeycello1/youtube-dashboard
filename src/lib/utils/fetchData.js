@@ -13,6 +13,7 @@ export async function loadDashboardData() {
     timestamp: new Date(v.timestamp),
     firstSeen: new Date(v.firstSeen),
     viewsPerHour48: viralMap.get(v.videoId) || 0,
+    watched: v.watched === true,
     keywords: v.keyword
       ? v.keyword.split(',').map(k => k.trim()).filter(Boolean)
       : []

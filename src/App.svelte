@@ -17,7 +17,6 @@
     sortMode,
     activeVideo
   } from './lib/stores/ui.js';
-  import { watched } from './lib/stores/watchedStore.js';
 
   // Utils
   import { loadDashboardData } from './lib/utils/fetchData.js';
@@ -53,7 +52,7 @@
 
     // RANDOM MODE
     if ($sortMode === 'random') {
-      const unwatched = filteredVideos.filter(v => !$watched.has(v.videoId));
+      const unwatched = filteredVideos.filter(v => !v.watched);
 
       // If everything is watched, fall back to full list
       const pool = unwatched.length > 0 ? unwatched : filteredVideos;
@@ -62,6 +61,7 @@
       activeVideo.set(pool[randomIndex]);
       return;
     }
+
 
     // NORMAL MODE
     const index = filteredVideos.findIndex(v => v.videoId === $activeVideo.videoId);

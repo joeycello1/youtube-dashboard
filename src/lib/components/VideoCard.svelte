@@ -1,12 +1,7 @@
 <script>
   export let video;
-
-  $: isWatched = $watched.has(video.videoId);
-
   export let onKeywordClick;
   export let onOpenVideo;
-  import { watched } from '../stores/watchedStore.js';
-
 </script>
 
 <div class="card">
@@ -23,8 +18,9 @@
 
   <h3 class="title">{video.title}</h3>
   <p class="channel">{video.channelName}</p>
-  {#if isWatched}<div class="watched-ribbon">WATCHED</div>{/if}
-  
+  {#if video.watched}
+    <div class="watched-ribbon">WATCHED</div>
+  {/if}
 
   <!-- Keyword chips -->
   <div class="chip-row">
