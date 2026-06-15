@@ -1,20 +1,24 @@
 {
   "videosPerChannel": [
     {
-      "channel": "Associated Press",
-      "count": 11
-    },
-    {
       "channel": "Reuters",
-      "count": 7
+      "count": 9
     },
     {
-      "channel": "Last Week Tonight",
-      "count": 6
+      "channel": "Associated Press",
+      "count": 10
     },
     {
       "channel": "MS NOW",
-      "count": 4
+      "count": 6
+    },
+    {
+      "channel": "The Hill",
+      "count": 5
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 7
     },
     {
       "channel": "Louis Rossmann",
@@ -23,10 +27,6 @@
     {
       "channel": "The Rest Is Science",
       "count": 5
-    },
-    {
-      "channel": "The Hill",
-      "count": 4
     },
     {
       "channel": "The Daily Show",
@@ -75,20 +75,24 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "Associated Press",
-      "count": 11
-    },
-    {
       "keyword": "Reuters",
-      "count": 7
+      "count": 9
     },
     {
-      "keyword": "Last Week Tonight",
-      "count": 6
+      "keyword": "Associated Press",
+      "count": 10
     },
     {
       "keyword": "MS NOW",
-      "count": 4
+      "count": 6
+    },
+    {
+      "keyword": "The Hill",
+      "count": 5
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 7
     },
     {
       "keyword": "Louis Rossmann",
@@ -97,10 +101,6 @@
     {
       "keyword": "The Rest Is Science",
       "count": 5
-    },
-    {
-      "keyword": "The Hill",
-      "count": 4
     },
     {
       "keyword": "The Daily Show, AI",
@@ -194,11 +194,11 @@
   "dailySummary": [
     {
       "date": "2026-06-15",
-      "videos": 10
+      "videos": 18
     },
     {
       "date": "2026-06-14",
-      "videos": 20
+      "videos": 17
     },
     {
       "date": "2026-06-13",
@@ -287,19 +287,23 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "Associated Press",
-      "matches": 11
-    },
-    {
       "keyword": "Reuters",
-      "matches": 7
+      "matches": 9
     },
     {
-      "keyword": "Last Week Tonight",
-      "matches": 3
+      "keyword": "Associated Press",
+      "matches": 10
     },
     {
       "keyword": "MS NOW",
+      "matches": 6
+    },
+    {
+      "keyword": "The Hill",
+      "matches": 5
+    },
+    {
+      "keyword": "Last Week Tonight",
       "matches": 4
     },
     {
@@ -309,10 +313,6 @@
     {
       "keyword": "The Rest Is Science",
       "matches": 2
-    },
-    {
-      "keyword": "The Hill",
-      "matches": 4
     },
     {
       "keyword": "The Daily Show, AI",
@@ -332,7 +332,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "The Daily Show",
@@ -357,260 +357,300 @@
   ],
   "mostViral48h": [
     {
+      "title": "UK & Makerfield Election: Last Week Tonight with John Oliver (HBO)",
+      "channel": "Last Week Tonight",
+      "videoId": "RZL_TctrNco",
+      "viewsPerHour": 31157,
+      "views": 191495,
+      "ageHours": 6.1
+    },
+    {
       "title": "S13 E15: Iran, FIFA & UK Elections: 6/14/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "FsUNze_X-QA",
-      "viewsPerHour": 24861,
-      "views": 191087,
-      "ageHours": 7.7
+      "viewsPerHour": 25732,
+      "views": 248260,
+      "ageHours": 9.6
     },
     {
       "title": "UFC Freedom 250 LIVE: Trump celebrates 80th birthday with White House fight",
       "channel": "Associated Press",
       "videoId": "0TktvuvUHmw",
-      "viewsPerHour": 16424,
+      "viewsPerHour": 13312,
       "views": 137783,
-      "ageHours": 8.4
+      "ageHours": 10.4
     },
     {
       "title": "Verizon CAN'T get away with this: I'll pay $10,000 of your legal fees out of pocket if you sue",
       "channel": "Louis Rossmann",
       "videoId": "9UKliRxYI14",
-      "viewsPerHour": 8188,
-      "views": 83743,
-      "ageHours": 10.2
+      "viewsPerHour": 7622,
+      "views": 92900,
+      "ageHours": 12.2
     },
     {
       "title": "Jon Stewart on Elmo’s Knicks Betrayal & Desi Lydic on Trump’s Iran Oil Heist | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "_f5ioBvQTVs",
-      "viewsPerHour": 6450,
-      "views": 294647,
-      "ageHours": 45.7
+      "viewsPerHour": 6313,
+      "views": 300760,
+      "ageHours": 47.6
     },
     {
       "title": "Anthropic CEO learns meaning of \"life comes at you fast\" ",
       "channel": "Louis Rossmann",
       "videoId": "ZL1GRDrDUww",
-      "viewsPerHour": 6173,
-      "views": 227508,
-      "ageHours": 36.9
+      "viewsPerHour": 5982,
+      "views": 232201,
+      "ageHours": 38.8
     },
     {
       "title": "Why Feet Are Weirder Than You Think",
       "channel": "The Rest Is Science",
       "videoId": "vREdbZtzJ2U",
-      "viewsPerHour": 4701,
-      "views": 64309,
-      "ageHours": 13.7
+      "viewsPerHour": 4555,
+      "views": 71253,
+      "ageHours": 15.6
     },
     {
       "title": "Trump attends UFC fight on White House lawn for 80th birthday celebration",
       "channel": "MS NOW",
       "videoId": "TlpTbuA1A0U",
-      "viewsPerHour": 3946,
+      "viewsPerHour": 3244,
       "views": 35791,
-      "ageHours": 9.1
+      "ageHours": 11
+    },
+    {
+      "title": "U.S. and Iran reach agreement to end war, negotiations continue ",
+      "channel": "MS NOW",
+      "videoId": "K3EOd5-xQiM",
+      "viewsPerHour": 2477,
+      "views": 6082,
+      "ageHours": 2.5
     },
     {
       "title": "Yet another peace deal announced…",
       "channel": "MS NOW",
       "videoId": "NYRRfSsePok",
-      "viewsPerHour": 2923,
+      "viewsPerHour": 2399,
       "views": 26264,
-      "ageHours": 9
+      "ageHours": 10.9
     },
     {
       "title": "UFC Freedom 250: LIVE outside the White House as fans gather",
       "channel": "Associated Press",
       "videoId": "YNfozjmXdNg",
-      "viewsPerHour": 2687,
+      "viewsPerHour": 2353,
       "views": 37154,
-      "ageHours": 13.8
+      "ageHours": 15.8
     },
     {
       "title": "BREAKING: Pakistani PM announces U.S.-Iran peace deal will be signed in Switzerland on Friday",
       "channel": "MS NOW",
       "videoId": "_xNMGoU4naI",
-      "viewsPerHour": 2579,
+      "viewsPerHour": 2232,
       "views": 32500,
-      "ageHours": 12.6
+      "ageHours": 14.6
     },
     {
       "title": "12 dead after plane taking people skydiving crashes in Missouri",
       "channel": "Associated Press",
       "videoId": "Ju6qVNi3w4I",
-      "viewsPerHour": 1532,
+      "viewsPerHour": 1331,
       "views": 19871,
-      "ageHours": 13
-    },
-    {
-      "title": "‘An effective end to the war’: Iranian expert on Trump’s announced deal with Iran",
-      "channel": "MS NOW",
-      "videoId": "PVjc0sayh8c",
-      "viewsPerHour": 1299,
-      "views": 11719,
-      "ageHours": 9
+      "ageHours": 14.9
     },
     {
       "title": "The Dreame X40 Ultra is the worst vacuum money can buy",
       "channel": "Louis Rossmann",
       "videoId": "cxwK1glWtXI",
-      "viewsPerHour": 1198,
-      "views": 38063,
-      "ageHours": 31.8
+      "viewsPerHour": 1146,
+      "views": 38630,
+      "ageHours": 33.7
     },
     {
-      "title": "Celebrations erupt in New York after Knicks win first NBA championship in 53 years",
-      "channel": "Associated Press",
-      "videoId": "Z7QHyvCO31c",
-      "viewsPerHour": 1079,
-      "views": 29520,
-      "ageHours": 27.4
+      "title": "‘An effective end to the war’: Iranian expert on Trump’s announced deal with Iran",
+      "channel": "MS NOW",
+      "videoId": "PVjc0sayh8c",
+      "viewsPerHour": 1067,
+      "views": 11719,
+      "ageHours": 11
+    },
+    {
+      "title": "MS NOW Highlights - June 14",
+      "channel": "MS NOW",
+      "videoId": "xuW789a6pq8",
+      "viewsPerHour": 761,
+      "views": 2011,
+      "ageHours": 2.6
     },
     {
       "title": "Trump arrives at UFC Freedom 250 fight at the White House on 80th birthday",
       "channel": "Associated Press",
       "videoId": "PjEzzAdW8tw",
-      "viewsPerHour": 654,
+      "viewsPerHour": 510,
       "views": 4539,
-      "ageHours": 6.9
+      "ageHours": 8.9
     },
     {
       "title": "Donald Trump celebrates 80th birthday with UFC show on White House lawn",
       "channel": "Associated Press",
       "videoId": "mmQXpDYW3cQ",
-      "viewsPerHour": 496,
+      "viewsPerHour": 376,
       "views": 3064,
-      "ageHours": 6.2
+      "ageHours": 8.1
     },
     {
       "title": "Tesla set on fire, UN office's windows smashed in anti-G7 march",
       "channel": "Reuters",
       "videoId": "reI9I1t_TDQ",
-      "viewsPerHour": 401,
+      "viewsPerHour": 352,
       "views": 5672,
-      "ageHours": 14.1
+      "ageHours": 16.1
+    },
+    {
+      "title": "LIVE: G7 summit 2026 in France",
+      "channel": "Associated Press",
+      "videoId": "AGq8eygjMFY",
+      "viewsPerHour": 289,
+      "views": 1628,
+      "ageHours": 5.6
     },
     {
       "title": "Sen. Capito optimistic Trump will secure Iran nuclear deal and reopen Strait of Hormuz | NEWSNATION",
       "channel": "The Hill",
       "videoId": "j2t9-7hMV_s",
-      "viewsPerHour": 313,
+      "viewsPerHour": 280,
       "views": 5172,
-      "ageHours": 16.5
+      "ageHours": 18.5
     },
     {
       "title": "Smoke rises as Israel strikes a suburb in Beirut, Lebanon",
       "channel": "Associated Press",
       "videoId": "8OVGEJa5eSw",
-      "viewsPerHour": 238,
+      "viewsPerHour": 208,
       "views": 3168,
-      "ageHours": 13.3
-    },
-    {
-      "title": "LIVE: New York Knicks fans celebrate after NBA championship win",
-      "channel": "Associated Press",
-      "videoId": "dXs0-ZUtEXc",
-      "viewsPerHour": 207,
-      "views": 5515,
-      "ageHours": 26.6
+      "ageHours": 15.3
     },
     {
       "title": "Algae turns Reflecting Pool green despite renovation plan",
       "channel": "Reuters",
       "videoId": "PHYaitX1N98",
-      "viewsPerHour": 199,
+      "viewsPerHour": 155,
       "views": 1369,
-      "ageHours": 6.9
+      "ageHours": 8.8
     },
     {
       "title": "Stocks surge, oil tumbles after news of Iran-US deal",
       "channel": "Reuters",
       "videoId": "2_SBoFgP98E",
-      "viewsPerHour": 189,
+      "viewsPerHour": 148,
       "views": 1358,
-      "ageHours": 7.2
+      "ageHours": 9.2
+    },
+    {
+      "title": "LIVE: Strait of Hormuz vessel traffic as Trump says deal with Iran is 'complete'",
+      "channel": "Reuters",
+      "videoId": "Oet9fA6LJdw",
+      "viewsPerHour": 146,
+      "views": 451,
+      "ageHours": 3.1
     },
     {
       "title": "Germany vs Curaçao: LIVE watch party for FIFA World Cup 2026",
       "channel": "Associated Press",
       "videoId": "HIKfBBA1-hE",
-      "viewsPerHour": 156,
+      "viewsPerHour": 144,
       "views": 3468,
-      "ageHours": 22.2
+      "ageHours": 24.2
     },
     {
       "title": "Twelve people killed in Missouri plane crash, aircraft operator says",
       "channel": "Reuters",
       "videoId": "hpQg36jVXs8",
-      "viewsPerHour": 113,
+      "viewsPerHour": 97,
       "views": 1391,
-      "ageHours": 12.3
+      "ageHours": 14.3
+    },
+    {
+      "title": "US & Iran closer to peace deal, James Carville says Dems have high hopes in midterms | HILL SUNDAY",
+      "channel": "The Hill",
+      "videoId": "R5iWBiQn-EI",
+      "viewsPerHour": 96,
+      "views": 444,
+      "ageHours": 4.6
     },
     {
       "title": "Israel says it struck Hezbollah targets in Beirut's southern suburbs",
       "channel": "Reuters",
       "videoId": "sBiiDUXApeA",
-      "viewsPerHour": 94,
+      "viewsPerHour": 85,
       "views": 1772,
-      "ageHours": 18.8
+      "ageHours": 20.7
     },
     {
       "title": "Knicks Win NBA Title After 53 Years | Reuters World News",
       "channel": "Reuters",
       "videoId": "OVS8Z2TOuqQ",
-      "viewsPerHour": 82,
+      "viewsPerHour": 74,
       "views": 1654,
-      "ageHours": 20.3
+      "ageHours": 22.3
+    },
+    {
+      "title": "Protesters clash with police in Geneva ahead of G7 summit in France",
+      "channel": "Associated Press",
+      "videoId": "d4Vje2sN6oY",
+      "viewsPerHour": 55,
+      "views": 119,
+      "ageHours": 2.1
     },
     {
       "title": "Former Vice President Mike Pence Warns: ‘No Deal Is Better Than a Bad Deal’ With Iran | NEWSNATION",
       "channel": "The Hill",
       "videoId": "FdWI1X6VIg8",
-      "viewsPerHour": 37,
+      "viewsPerHour": 33,
       "views": 580,
-      "ageHours": 15.7
+      "ageHours": 17.7
     },
     {
       "title": "British Royals attend Trooping the Colour parade for King's official birthday",
       "channel": "Associated Press",
       "videoId": "vCpDlcN0EqM",
-      "viewsPerHour": 28,
+      "viewsPerHour": 26,
       "views": 539,
-      "ageHours": 19.1
+      "ageHours": 21.1
     },
     {
       "title": "Carville Predicts Surprise Democratic Opportunities in Mississippi and Kansas | NEWSNATION",
       "channel": "The Hill",
       "videoId": "gSBGknT6JK8",
-      "viewsPerHour": 27,
+      "viewsPerHour": 24,
       "views": 415,
-      "ageHours": 15.5
-    },
-    {
-      "title": "Tens of thousands march through Rome in rival anti and pro-migration rallies",
-      "channel": "Associated Press",
-      "videoId": "N-GCL6-_aLg",
-      "viewsPerHour": 13,
-      "views": 320,
-      "ageHours": 24.7
+      "ageHours": 17.4
     },
     {
       "title": "Trump pursues ambitious Washington revamp drawing mixed reactions",
       "channel": "Reuters",
       "videoId": "WL5kNmJnP4g",
-      "viewsPerHour": 12,
+      "viewsPerHour": 10,
       "views": 147,
-      "ageHours": 12.4
+      "ageHours": 14.4
     },
     {
       "title": "Elon Musk ENCOURAGES Belfast protests; Trump Admin LAUNCHES denaturalization push | RISING",
       "channel": "The Hill",
       "videoId": "t-NnG2civw0",
-      "viewsPerHour": 10,
+      "viewsPerHour": 9,
       "views": 209,
-      "ageHours": 20.7
+      "ageHours": 22.6
+    },
+    {
+      "title": "Historic Kyiv monastery ablaze as Russian strikes kill several",
+      "channel": "Reuters",
+      "videoId": "8F6v4tI_Krw",
+      "viewsPerHour": 2,
+      "views": 4,
+      "ageHours": 1.9
     }
   ]
 }
