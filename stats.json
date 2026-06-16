@@ -1,24 +1,28 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
-      "count": 8
+      "channel": "Associated Press",
+      "count": 6
     },
     {
       "channel": "Reuters",
       "count": 8
     },
     {
-      "channel": "Associated Press",
-      "count": 7
+      "channel": "MS NOW",
+      "count": 8
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 14
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 10
     },
     {
       "channel": "Louis Rossmann",
       "count": 22
-    },
-    {
-      "channel": "MS NOW",
-      "count": 7
     },
     {
       "channel": "Conan O'Brien",
@@ -35,10 +39,6 @@
     {
       "channel": "Real Stories",
       "count": 15
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 11
     },
     {
       "channel": "The Interview",
@@ -71,28 +71,32 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "PBS NewsHour",
-      "count": 8
+      "keyword": "Associated Press",
+      "count": 6
     },
     {
       "keyword": "Reuters",
-      "count": 7
+      "count": 6
     },
     {
-      "keyword": "Associated Press",
-      "count": 7
+      "keyword": "MS NOW",
+      "count": 8
+    },
+    {
+      "keyword": "Reuters, AI",
+      "count": 2
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 12
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 10
     },
     {
       "keyword": "Louis Rossmann",
       "count": 18
-    },
-    {
-      "keyword": "MS NOW",
-      "count": 7
-    },
-    {
-      "keyword": "Reuters, AI",
-      "count": 1
     },
     {
       "keyword": "Louis Rossmann, AI",
@@ -129,10 +133,6 @@
     {
       "keyword": "testimony, UFO, Giza",
       "count": 1
-    },
-    {
-      "keyword": "The Daily Show",
-      "count": 9
     },
     {
       "keyword": "NOVA",
@@ -197,8 +197,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-06-16",
+      "videos": 10
+    },
+    {
       "date": "2026-06-15",
-      "videos": 36
+      "videos": 31
     },
     {
       "date": "2026-06-14",
@@ -303,28 +307,32 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
-      "matches": 8
+      "keyword": "Associated Press",
+      "matches": 6
     },
     {
       "keyword": "Reuters",
-      "matches": 7
+      "matches": 6
     },
     {
-      "keyword": "Associated Press",
-      "matches": 7
+      "keyword": "MS NOW",
+      "matches": 8
+    },
+    {
+      "keyword": "Reuters, AI",
+      "matches": 2
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 12
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 10
     },
     {
       "keyword": "Louis Rossmann",
       "matches": 9
-    },
-    {
-      "keyword": "MS NOW",
-      "matches": 7
-    },
-    {
-      "keyword": "Reuters, AI",
-      "matches": 1
     },
     {
       "keyword": "Louis Rossmann, AI",
@@ -363,10 +371,6 @@
       "matches": 1
     },
     {
-      "keyword": "The Daily Show",
-      "matches": 9
-    },
-    {
       "keyword": "NOVA",
       "matches": 2
     },
@@ -385,260 +389,316 @@
   ],
   "mostViral48h": [
     {
+      "title": "NYC's Joyous Knicks Victory Celebration vs. Trump's Joyless White House UFC Fight | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "ZsAQ_B7zVJI",
+      "viewsPerHour": 135217,
+      "views": 1160506,
+      "ageHours": 8.6
+    },
+    {
       "title": "UK & Makerfield Election: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "RZL_TctrNco",
-      "viewsPerHour": 34365,
-      "views": 965935,
-      "ageHours": 28.1
+      "viewsPerHour": 33405,
+      "views": 972556,
+      "ageHours": 29.1
     },
     {
       "title": "S13 E15: Iran, FIFA & UK Elections: 6/14/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "FsUNze_X-QA",
-      "viewsPerHour": 17137,
-      "views": 541690,
-      "ageHours": 31.6
+      "viewsPerHour": 16773,
+      "views": 547084,
+      "ageHours": 32.6
+    },
+    {
+      "title": "PBS News Hour full episode, June 15, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "HcSS5vz1PQ8",
+      "viewsPerHour": 9371,
+      "views": 110219,
+      "ageHours": 11.8
+    },
+    {
+      "title": "Senator Raphael Warnock - Faith, Politics, and \"The Crooked Places Made Straight\" | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "4kYixqen93U",
+      "viewsPerHour": 6064,
+      "views": 49211,
+      "ageHours": 8.1
+    },
+    {
+      "title": "‘A piece of paper they can’t even show us’: Breaking down Trump's so-called 'deal' with Iran",
+      "channel": "MS NOW",
+      "videoId": "FRxZNlw3Qf8",
+      "viewsPerHour": 6036,
+      "views": 34007,
+      "ageHours": 5.6
     },
     {
       "title": "Verizon CAN'T get away with this: I'll pay $10,000 of your legal fees out of pocket if you sue",
       "channel": "Louis Rossmann",
       "videoId": "9UKliRxYI14",
-      "viewsPerHour": 4883,
-      "views": 166767,
-      "ageHours": 34.2
+      "viewsPerHour": 4771,
+      "views": 167750,
+      "ageHours": 35.2
+    },
+    {
+      "title": "Knicks Championship Sparks NY Joyfest, UFC Comes to White House & Trump Heads to G7 | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "HzI5o6mwAI0",
+      "viewsPerHour": 3955,
+      "views": 41972,
+      "ageHours": 10.6
     },
     {
       "title": "Atsuko Okatsuka (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "dCyVg4CNUZU",
-      "viewsPerHour": 3791,
-      "views": 89493,
-      "ageHours": 23.6
+      "viewsPerHour": 3688,
+      "views": 90785,
+      "ageHours": 24.6
     },
     {
       "title": "Why Feet Are Weirder Than You Think",
       "channel": "The Rest Is Science",
       "videoId": "vREdbZtzJ2U",
-      "viewsPerHour": 3517,
-      "views": 132265,
-      "ageHours": 37.6
+      "viewsPerHour": 3458,
+      "views": 133497,
+      "ageHours": 38.6
     },
     {
       "title": "UK surveys on social media laws are BULL💩",
       "channel": "Louis Rossmann",
       "videoId": "ICwMUfQg7mc",
-      "viewsPerHour": 3459,
-      "views": 42102,
-      "ageHours": 12.2
+      "viewsPerHour": 3448,
+      "views": 45435,
+      "ageHours": 13.2
+    },
+    {
+      "title": "Trump faces MAJOR questions about Iran agreement at G7 Summit",
+      "channel": "MS NOW",
+      "videoId": "m53fm7zU6fA",
+      "viewsPerHour": 3237,
+      "views": 4590,
+      "ageHours": 1.4
     },
     {
       "title": "Denver removed flock & auto theft went DOWN! AI spying is bull💩 & does NOT stop crime! ",
       "channel": "Louis Rossmann",
       "videoId": "7sCeGt6Axp0",
-      "viewsPerHour": 3281,
-      "views": 70197,
-      "ageHours": 21.4
+      "viewsPerHour": 3160,
+      "views": 70776,
+      "ageHours": 22.4
     },
     {
       "title": "LIVE: Donald Trump's name OFF Kennedy Center, waiting for public reveal - DAY 3",
       "channel": "MS NOW",
       "videoId": "BoRR7K3LrYQ",
-      "viewsPerHour": 2050,
+      "viewsPerHour": 1961,
       "views": 45162,
-      "ageHours": 22
+      "ageHours": 23
     },
     {
       "title": "BOMBSHELL: Trump and Stephen Miller conjured EXTREME plan to suspend constitutional right, per NYT",
       "channel": "MS NOW",
       "videoId": "A_DjyHY45nI",
-      "viewsPerHour": 1689,
+      "viewsPerHour": 1561,
       "views": 20689,
-      "ageHours": 12.2
+      "ageHours": 13.3
     },
     {
       "title": "LIVE: Trump and Macron hold bilateral meeting after U.S. and Iran agree to deal to end fighting",
       "channel": "MS NOW",
       "videoId": "M5pf2uq51UA",
-      "viewsPerHour": 1243,
+      "viewsPerHour": 1178,
       "views": 22759,
-      "ageHours": 18.3
+      "ageHours": 19.3
+    },
+    {
+      "title": "WATCH LIVE: Senate meets to vote on judicial nominee",
+      "channel": "PBS NewsHour",
+      "videoId": "DGH6E4kOrAs",
+      "viewsPerHour": 721,
+      "views": 8297,
+      "ageHours": 11.5
     },
     {
       "title": "Will be a 'long time' before European allies trust U.S. again after Iran: Applebaum",
       "channel": "MS NOW",
       "videoId": "tM1nmQMVVOY",
-      "viewsPerHour": 723,
+      "viewsPerHour": 672,
       "views": 9561,
-      "ageHours": 13.2
+      "ageHours": 14.2
+    },
+    {
+      "title": "Dem GA Gov candidate says Trump too focused on 2020: 'I think it's going to be reflected in Nov.'",
+      "channel": "MS NOW",
+      "videoId": "9VTwnfFO6FA",
+      "viewsPerHour": 423,
+      "views": 2269,
+      "ageHours": 5.4
     },
     {
       "title": "PBS News Hour live episode, June 15, 2026",
       "channel": "PBS NewsHour",
       "videoId": "JbLnK09qOJg",
-      "viewsPerHour": 329,
+      "viewsPerHour": 306,
       "views": 4385,
-      "ageHours": 13.3
+      "ageHours": 14.3
     },
     {
       "title": "Did Trump just make everyone pay for his birthday party?' The Group Chat answers viewer questions",
       "channel": "MS NOW",
       "videoId": "rLSqwA3su-E",
-      "viewsPerHour": 313,
+      "viewsPerHour": 297,
       "views": 5829,
-      "ageHours": 18.6
+      "ageHours": 19.6
     },
     {
       "title": "Louis Theroux Explores Open Marriages and Polyamory In America",
       "channel": "Real Stories",
       "videoId": "bAsVTqUHXpY",
-      "viewsPerHour": 299,
-      "views": 11528,
-      "ageHours": 38.6
+      "viewsPerHour": 292,
+      "views": 11574,
+      "ageHours": 39.6
     },
     {
-      "title": "U.S. and Iran reach agreement to end war, negotiations continue ",
-      "channel": "MS NOW",
-      "videoId": "K3EOd5-xQiM",
-      "viewsPerHour": 249,
-      "views": 6082,
-      "ageHours": 24.4
+      "title": "Russian Tu-22M3 bomber crashes during training flight in Siberia",
+      "channel": "Associated Press",
+      "videoId": "Lokeg8i-4Lw",
+      "viewsPerHour": 244,
+      "views": 272,
+      "ageHours": 1.1
     },
     {
       "title": "Newsom accuses Trump of directing politically motivated investigation",
       "channel": "Reuters",
       "videoId": "NJKuP_IZtyw",
-      "viewsPerHour": 229,
+      "viewsPerHour": 213,
       "views": 2969,
-      "ageHours": 12.9
+      "ageHours": 13.9
     },
     {
       "title": "WATCH LIVE: Trump meets with French President Macron during G7 summit",
       "channel": "PBS NewsHour",
       "videoId": "kQGK7Z33b7c",
-      "viewsPerHour": 155,
+      "viewsPerHour": 147,
       "views": 2832,
-      "ageHours": 18.3
+      "ageHours": 19.3
     },
     {
       "title": "Dermatologist explains benefits of newly approved sunscreen ingredient",
       "channel": "PBS NewsHour",
       "videoId": "bzUn9iH-D2I",
-      "viewsPerHour": 147,
+      "viewsPerHour": 136,
       "views": 1695,
-      "ageHours": 11.5
+      "ageHours": 12.5
     },
     {
-      "title": "U.S.-Iran deal a 'strategic defeat' for Israel, Middle East expert says",
-      "channel": "PBS NewsHour",
-      "videoId": "6Ec9dVJv190",
-      "viewsPerHour": 96,
-      "views": 1151,
-      "ageHours": 12
+      "title": "LIVE: Reuters Institute Digital News Report 2026 Global Launch Event",
+      "channel": "Reuters",
+      "videoId": "PguiKaxV24M",
+      "viewsPerHour": 112,
+      "views": 136,
+      "ageHours": 1.2
+    },
+    {
+      "title": "LIVE: Reuters NEXT Europe summit in London",
+      "channel": "Reuters",
+      "videoId": "wnfQ7BWCrwY",
+      "viewsPerHour": 103,
+      "views": 355,
+      "ageHours": 3.4
     },
     {
       "title": "LIVE: Fans arrive at Atlanta Stadium for Spain vs Cape Verde",
       "channel": "Reuters",
       "videoId": "Vsfs3jn5TL8",
-      "viewsPerHour": 95,
+      "viewsPerHour": 91,
       "views": 1979,
-      "ageHours": 20.8
+      "ageHours": 21.8
+    },
+    {
+      "title": "U.S.-Iran deal a 'strategic defeat' for Israel, Middle East expert says",
+      "channel": "PBS NewsHour",
+      "videoId": "6Ec9dVJv190",
+      "viewsPerHour": 89,
+      "views": 1151,
+      "ageHours": 13
     },
     {
       "title": "B-52 bomber crashes after takeoff at US military base in California",
       "channel": "Associated Press",
       "videoId": "uUL-ApL8Sps",
-      "viewsPerHour": 92,
+      "viewsPerHour": 85,
       "views": 1151,
-      "ageHours": 12.5
-    },
-    {
-      "title": "MS NOW Highlights - June 14",
-      "channel": "MS NOW",
-      "videoId": "xuW789a6pq8",
-      "viewsPerHour": 82,
-      "views": 2011,
-      "ageHours": 24.6
-    },
-    {
-      "title": "LIVE: G7 summit 2026 in France",
-      "channel": "Associated Press",
-      "videoId": "AGq8eygjMFY",
-      "viewsPerHour": 59,
-      "views": 1628,
-      "ageHours": 27.6
+      "ageHours": 13.5
     },
     {
       "title": "Scotland fans celebrate first FIFA World Cup win in 36 years with bagpipes in Boston",
       "channel": "Associated Press",
       "videoId": "i6MoB60jX10",
-      "viewsPerHour": 51,
+      "viewsPerHour": 49,
       "views": 1028,
-      "ageHours": 20.1
+      "ageHours": 21.1
     },
     {
       "title": "Trump arrives at G7 summit in France after announcing US and Iran deal",
       "channel": "Associated Press",
       "videoId": "slfuKr9oDXY",
-      "viewsPerHour": 48,
+      "viewsPerHour": 45,
       "views": 881,
-      "ageHours": 18.5
+      "ageHours": 19.5
     },
     {
       "title": "Reflecting Pool turns green again days after Trump's renovation",
       "channel": "Associated Press",
       "videoId": "osRG8pADzSc",
-      "viewsPerHour": 46,
+      "viewsPerHour": 43,
       "views": 558,
-      "ageHours": 12
+      "ageHours": 13
     },
     {
       "title": "New book explores America's history of celebrating freedom while excluding millions",
       "channel": "PBS NewsHour",
       "videoId": "Pwauw8ErIpw",
-      "viewsPerHour": 20,
+      "viewsPerHour": 19,
       "views": 229,
-      "ageHours": 11.3
+      "ageHours": 12.3
     },
     {
       "title": "LIVE: UK technology minister speaks after under-16 social media ban",
       "channel": "Reuters",
       "videoId": "-g-pQcbM_M0",
-      "viewsPerHour": 18,
+      "viewsPerHour": 17,
       "views": 356,
-      "ageHours": 19.6
-    },
-    {
-      "title": "LIVE: Strait of Hormuz vessel traffic as Trump says deal with Iran is 'complete'",
-      "channel": "Reuters",
-      "videoId": "Oet9fA6LJdw",
-      "viewsPerHour": 18,
-      "views": 451,
-      "ageHours": 25.1
+      "ageHours": 20.6
     },
     {
       "title": "Fox agrees to buy streaming platform Roku in a $22 billion deal",
       "channel": "Associated Press",
       "videoId": "3DHa6k9vqCM",
-      "viewsPerHour": 16,
+      "viewsPerHour": 15,
       "views": 289,
-      "ageHours": 18
+      "ageHours": 19.1
     },
     {
       "title": "Monica McNutt reflects on the decades-long wait for a Knicks championship",
       "channel": "PBS NewsHour",
       "videoId": "-D40MKvQQDM",
-      "viewsPerHour": 13,
+      "viewsPerHour": 12,
       "views": 144,
-      "ageHours": 11.2
+      "ageHours": 12.2
     },
     {
       "title": "Gazans voice frustration over their exclusion from US-Iran deal",
       "channel": "Reuters",
       "videoId": "9XisXUusS_4",
-      "viewsPerHour": 8,
+      "viewsPerHour": 7,
       "views": 108,
-      "ageHours": 13.4
+      "ageHours": 14.4
     },
     {
       "title": "News Wrap: Newsom says Trump ordering DOJ investigate him and wife",
@@ -646,23 +706,15 @@
       "videoId": "cS8gBvmgUfw",
       "viewsPerHour": 6,
       "views": 71,
-      "ageHours": 11.8
-    },
-    {
-      "title": "Protesters clash with police in Geneva ahead of G7 summit in France",
-      "channel": "Associated Press",
-      "videoId": "d4Vje2sN6oY",
-      "viewsPerHour": 5,
-      "views": 119,
-      "ageHours": 24.1
+      "ageHours": 12.8
     },
     {
       "title": "Wall Street rallies, Dow ends with record on US-Iran deal",
       "channel": "Reuters",
       "videoId": "k7nfznVGcZE",
-      "viewsPerHour": 5,
+      "viewsPerHour": 4,
       "views": 54,
-      "ageHours": 11.3
+      "ageHours": 12.3
     },
     {
       "title": "Sectors Up Close: Consumer stocks balance the AI trade",
@@ -670,15 +722,7 @@
       "videoId": "2IVUwrApnIs",
       "viewsPerHour": 3,
       "views": 53,
-      "ageHours": 18.7
-    },
-    {
-      "title": "Historic Kyiv monastery ablaze as Russian strikes kill several",
-      "channel": "Reuters",
-      "videoId": "8F6v4tI_Krw",
-      "viewsPerHour": 0,
-      "views": 4,
-      "ageHours": 23.9
+      "ageHours": 19.8
     },
     {
       "title": "WATCH LIVE: Trump joins official leaders' greeting at G7 summit in France",
@@ -686,7 +730,7 @@
       "videoId": "Hru3vUOB2ig",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 20.4
+      "ageHours": 21.4
     }
   ]
 }
