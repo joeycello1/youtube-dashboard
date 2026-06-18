@@ -332,7 +332,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "matches": 12
+      "matches": 11
     },
     {
       "keyword": "The Daily Show, AI",
@@ -344,7 +344,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "matches": 12
+      "matches": 11
     },
     {
       "keyword": "PBS NewsHour, AI",
@@ -393,332 +393,316 @@
   ],
   "mostViral48h": [
     {
-      "title": "NYC's Joyous Knicks Victory Celebration vs. Trump's Joyless White House UFC Fight | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "ZsAQ_B7zVJI",
-      "viewsPerHour": 65834,
-      "views": 3132310,
-      "ageHours": 47.6
-    },
-    {
       "title": "Trump Autopens the Iran Deal, Lands a Res at G7 Summit & Spawns an Algae Conspiracy | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ICRtJp3AN1Q",
-      "viewsPerHour": 63139,
+      "viewsPerHour": 58394,
       "views": 1550826,
-      "ageHours": 24.6
-    },
-    {
-      "title": "England vs. Croatia: LIVE watch party of 2026 FIFA World Cup",
-      "channel": "Associated Press",
-      "videoId": "xTvx1vdUT_k",
-      "viewsPerHour": 20132,
-      "views": 89596,
-      "ageHours": 4.5
+      "ageHours": 26.6
     },
     {
       "title": "For DOGE’d Government Workers, Public Service Is the Best Revenge | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "W2Lld2djZBw",
-      "viewsPerHour": 17524,
+      "viewsPerHour": 15490,
       "views": 266406,
-      "ageHours": 15.2
+      "ageHours": 17.2
+    },
+    {
+      "title": "England vs. Croatia: LIVE watch party of 2026 FIFA World Cup",
+      "channel": "Associated Press",
+      "videoId": "xTvx1vdUT_k",
+      "viewsPerHour": 13898,
+      "views": 89596,
+      "ageHours": 6.4
     },
     {
       "title": "Jon Stewart & Team Talk AI, Fox News, the Writing Process and MAGA Rallies – FYC | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "oLoXaZoeCoE",
-      "viewsPerHour": 16070,
+      "viewsPerHour": 13015,
       "views": 136685,
-      "ageHours": 8.5
+      "ageHours": 10.5
     },
     {
       "title": "I need to rant, Anthropic is worse than my high school's drug dealer",
       "channel": "Louis Rossmann",
       "videoId": "2lfMtyXCNKg",
-      "viewsPerHour": 6855,
+      "viewsPerHour": 6427,
       "views": 205529,
-      "ageHours": 30
-    },
-    {
-      "title": "OUT OF IT': Trump wanders off, looks lost in front of world leaders at G7 Summit",
-      "channel": "MS NOW",
-      "videoId": "FEcD7bisXpc",
-      "viewsPerHour": 6139,
-      "views": 30827,
-      "ageHours": 5
+      "ageHours": 32
     },
     {
       "title": "Fender guitar CEO is a case study in spotting manipulative psychopaths",
       "channel": "Louis Rossmann",
       "videoId": "aHDFXX-Py8Y",
-      "viewsPerHour": 4862,
+      "viewsPerHour": 4490,
       "views": 117218,
-      "ageHours": 24.1
+      "ageHours": 26.1
     },
     {
-      "title": "Senator Raphael Warnock - Faith, Politics, and \"The Crooked Places Made Straight\" | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "4kYixqen93U",
-      "viewsPerHour": 4061,
-      "views": 191330,
-      "ageHours": 47.1
+      "title": "OUT OF IT': Trump wanders off, looks lost in front of world leaders at G7 Summit",
+      "channel": "MS NOW",
+      "videoId": "FEcD7bisXpc",
+      "viewsPerHour": 4393,
+      "views": 30827,
+      "ageHours": 7
     },
     {
       "title": "StopKillingGames is \"dead\" ? Tf it is, now GET BACK TO WORK!",
       "channel": "Louis Rossmann",
       "videoId": "MX1b8mF5-rY",
-      "viewsPerHour": 4009,
+      "viewsPerHour": 3048,
       "views": 25372,
-      "ageHours": 6.3
+      "ageHours": 8.3
     },
     {
       "title": "PBS News Hour full episode, June 16, 2026",
       "channel": "PBS NewsHour",
       "videoId": "2ZusVt5Jbac",
-      "viewsPerHour": 2979,
+      "viewsPerHour": 2775,
       "views": 80839,
-      "ageHours": 27.1
-    },
-    {
-      "title": "BREAKING: Georgia Republicans BUCK Trump redistricting hopes, hand Dems BIG WIN",
-      "channel": "MS NOW",
-      "videoId": "Jy9wzyA4QQY",
-      "viewsPerHour": 2799,
-      "views": 11993,
-      "ageHours": 4.3
+      "ageHours": 29.1
     },
     {
       "title": "Britt Lower - “I Will Find You” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "BJwSzGiDGss",
-      "viewsPerHour": 2168,
+      "viewsPerHour": 1995,
       "views": 50095,
-      "ageHours": 23.1
+      "ageHours": 25.1
     },
     {
-      "title": "Revisiting UK Social Media laws, visiting California to record 3D printer hearing",
-      "channel": "Louis Rossmann",
-      "videoId": "II489FpdWsc",
-      "viewsPerHour": 1582,
-      "views": 19944,
-      "ageHours": 12.6
+      "title": "BREAKING: Georgia Republicans BUCK Trump redistricting hopes, hand Dems BIG WIN",
+      "channel": "MS NOW",
+      "videoId": "Jy9wzyA4QQY",
+      "viewsPerHour": 1909,
+      "views": 11993,
+      "ageHours": 6.3
     },
     {
       "title": "Sona Is Shocked By Conan & Gourley's Last Wishes | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "lPbkuZVe2vI",
-      "viewsPerHour": 1495,
+      "viewsPerHour": 1416,
       "views": 53256,
-      "ageHours": 35.6
+      "ageHours": 37.6
+    },
+    {
+      "title": "Revisiting UK Social Media laws, visiting California to record 3D printer hearing",
+      "channel": "Louis Rossmann",
+      "videoId": "II489FpdWsc",
+      "viewsPerHour": 1366,
+      "views": 19944,
+      "ageHours": 14.6
     },
     {
       "title": "Trump says he feels 'very bad' for Lebanon and Israel 'could behave better'",
       "channel": "Associated Press",
       "videoId": "x4MmvCHF8EI",
-      "viewsPerHour": 1300,
+      "viewsPerHour": 909,
       "views": 6027,
-      "ageHours": 4.6
-    },
-    {
-      "title": "PBS News Hour live episode, June 17, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "xAOJy-fymsA",
-      "viewsPerHour": 890,
-      "views": 4349,
-      "ageHours": 4.9
+      "ageHours": 6.6
     },
     {
       "title": "Not as good as the Obama-era deal': What we know so far about the Iran deal",
       "channel": "MS NOW",
       "videoId": "hTj8RnFKD6c",
-      "viewsPerHour": 836,
+      "viewsPerHour": 704,
       "views": 8936,
-      "ageHours": 10.7
+      "ageHours": 12.7
     },
     {
-      "title": "Henry Winkler (Full Episode) | Where Everybody Knows Your Name",
-      "channel": "Conan O'Brien",
-      "videoId": "-NtE0TGIPvU",
-      "viewsPerHour": 704,
-      "views": 10287,
-      "ageHours": 14.6
+      "title": "PBS News Hour live episode, June 17, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "xAOJy-fymsA",
+      "viewsPerHour": 632,
+      "views": 4349,
+      "ageHours": 6.9
     },
     {
       "title": "LIVE: President Trump holds press conference as questions surround Iran war",
       "channel": "MS NOW",
       "videoId": "p-U6Jw8VJjQ",
-      "viewsPerHour": 681,
+      "viewsPerHour": 624,
       "views": 15042,
-      "ageHours": 22.1
+      "ageHours": 24.1
+    },
+    {
+      "title": "Henry Winkler (Full Episode) | Where Everybody Knows Your Name",
+      "channel": "Conan O'Brien",
+      "videoId": "-NtE0TGIPvU",
+      "viewsPerHour": 619,
+      "views": 10287,
+      "ageHours": 16.6
     },
     {
       "title": "LIVE: Fans gather to watch England play Croatia at the World Cup ⚽",
       "channel": "Reuters",
       "videoId": "0WAw8mTPIqE",
-      "viewsPerHour": 648,
+      "viewsPerHour": 439,
       "views": 2722,
-      "ageHours": 4.2
-    },
-    {
-      "title": "Atsuko Okatsuka's High School Cheer Squad Fought The Flag Team | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "YutW1NZLqKM",
-      "viewsPerHour": 404,
-      "views": 4689,
-      "ageHours": 11.6
+      "ageHours": 6.2
     },
     {
       "title": "Anthropic disables new AI model after White House security directive",
       "channel": "PBS NewsHour",
       "videoId": "gVRlGg8WbXc",
-      "viewsPerHour": 396,
+      "viewsPerHour": 369,
       "views": 10920,
-      "ageHours": 27.6
+      "ageHours": 29.6
+    },
+    {
+      "title": "Atsuko Okatsuka's High School Cheer Squad Fought The Flag Team | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "YutW1NZLqKM",
+      "viewsPerHour": 345,
+      "views": 4689,
+      "ageHours": 13.6
     },
     {
       "title": "Atsuko Okatsuka Explains Her Commitment To The Bowl Cut | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "2W6p9w6XQu8",
-      "viewsPerHour": 286,
+      "viewsPerHour": 272,
       "views": 11025,
-      "ageHours": 38.6
+      "ageHours": 40.6
     },
     {
       "title": "Trump DEFENDS Iran deal, reveals few new details as G7 wraps up",
       "channel": "MS NOW",
       "videoId": "NpSwp-z_h20",
-      "viewsPerHour": 272,
+      "viewsPerHour": 242,
       "views": 4394,
-      "ageHours": 16.1
+      "ageHours": 18.1
     },
     {
       "title": "WATCH LIVE: Trump holds news conference as G7 summit in France wraps up",
       "channel": "PBS NewsHour",
       "videoId": "QdzW-L89oBU",
-      "viewsPerHour": 271,
+      "viewsPerHour": 235,
       "views": 3564,
-      "ageHours": 13.2
+      "ageHours": 15.2
     },
     {
       "title": "Surviving Iraq and Afghanistan's Most Brutal Battlefields",
       "channel": "Real Stories",
       "videoId": "tz-OS2pol5k",
-      "viewsPerHour": 151,
+      "viewsPerHour": 142,
       "views": 5210,
-      "ageHours": 34.6
+      "ageHours": 36.6
     },
     {
       "title": "LIVE: Fans arrive for Portugal v DR Congo World Cup match",
       "channel": "Reuters",
       "videoId": "xGuqOevU7rA",
-      "viewsPerHour": 111,
+      "viewsPerHour": 95,
       "views": 1276,
-      "ageHours": 11.4
+      "ageHours": 13.4
     },
     {
       "title": "Shockoe Institute explores enduring impact of slavery and how to expand freedom today",
       "channel": "PBS NewsHour",
       "videoId": "Mi2aacHDf00",
-      "viewsPerHour": 100,
+      "viewsPerHour": 93,
       "views": 2750,
-      "ageHours": 27.5
+      "ageHours": 29.5
     },
     {
       "title": "Trump again defends Bill Pulte as acting director of national intelligence",
       "channel": "Associated Press",
       "videoId": "wvkOfuZsJig",
-      "viewsPerHour": 90,
+      "viewsPerHour": 76,
       "views": 942,
-      "ageHours": 10.5
-    },
-    {
-      "title": "News Wrap: Tropical Storm Arthur brings flooding threat to Gulf Coast",
-      "channel": "PBS NewsHour",
-      "videoId": "NYwpX_Q1uto",
-      "viewsPerHour": 67,
-      "views": 259,
-      "ageHours": 3.9
-    },
-    {
-      "title": "Trump wants 'control of everything,' GOP strategist says as Congress faces pressure",
-      "channel": "PBS NewsHour",
-      "videoId": "lauWSk8JCBU",
-      "viewsPerHour": 57,
-      "views": 223,
-      "ageHours": 3.9
+      "ageHours": 12.5
     },
     {
       "title": "Keisha Lance Bottoms SLAMS ‘MAGA’ rival in Georgia Governor race",
       "channel": "MS NOW",
       "videoId": "1jbqX4HLpYA",
-      "viewsPerHour": 56,
+      "viewsPerHour": 47,
       "views": 561,
-      "ageHours": 10
+      "ageHours": 12
+    },
+    {
+      "title": "News Wrap: Tropical Storm Arthur brings flooding threat to Gulf Coast",
+      "channel": "PBS NewsHour",
+      "videoId": "NYwpX_Q1uto",
+      "viewsPerHour": 44,
+      "views": 259,
+      "ageHours": 5.9
+    },
+    {
+      "title": "Trump wants 'control of everything,' GOP strategist says as Congress faces pressure",
+      "channel": "PBS NewsHour",
+      "videoId": "lauWSk8JCBU",
+      "viewsPerHour": 38,
+      "views": 223,
+      "ageHours": 5.9
     },
     {
       "title": "Trump on USMCA trade pact: 'I'd rather have it terminated'",
       "channel": "Reuters",
       "videoId": "JxOVByrr4mw",
-      "viewsPerHour": 39,
+      "viewsPerHour": 27,
       "views": 188,
-      "ageHours": 4.8
+      "ageHours": 6.8
     },
     {
       "title": "LIVE: Jeff Bezos speaks at VivaTech conference in Paris",
       "channel": "Associated Press",
       "videoId": "ho_ZmwgvDdM",
-      "viewsPerHour": 28,
+      "viewsPerHour": 25,
       "views": 465,
-      "ageHours": 16.6
+      "ageHours": 18.6
     },
     {
       "title": "Trump on whether the Iran deal will be signed Friday: 'You never know'",
       "channel": "Associated Press",
       "videoId": "JhR9FND8N8A",
-      "viewsPerHour": 25,
+      "viewsPerHour": 21,
       "views": 250,
-      "ageHours": 9.8
+      "ageHours": 11.8
     },
     {
       "title": "Vietnam police rescue hundreds of cats from being eaten in bust on animal theft ring",
       "channel": "Associated Press",
       "videoId": "ClsAiU4Qz7M",
-      "viewsPerHour": 15,
+      "viewsPerHour": 14,
       "views": 250,
-      "ageHours": 16.4
+      "ageHours": 18.4
     },
     {
       "title": "WATCH LIVE: Warner speaks after Senate cancels Clayton confirmation hearing under Trump pressure",
       "channel": "PBS NewsHour",
       "videoId": "JqilVqgSvT8",
-      "viewsPerHour": 12,
+      "viewsPerHour": 10,
       "views": 122,
-      "ageHours": 10
+      "ageHours": 12
     },
     {
       "title": "Market Talk: Warsh's Fed won't 'lay its cards on the table'",
       "channel": "Reuters",
       "videoId": "Fn0FNTD7aIk",
-      "viewsPerHour": 11,
+      "viewsPerHour": 8,
       "views": 55,
-      "ageHours": 4.9
+      "ageHours": 6.9
     },
     {
       "title": "G7 leaders walk on eggshells around Trump | Reuters World News",
       "channel": "Reuters",
       "videoId": "Y1GIOrcQHjg",
-      "viewsPerHour": 6,
+      "viewsPerHour": 5,
       "views": 91,
-      "ageHours": 15.9
+      "ageHours": 17.9
     },
     {
       "title": "Albania protesters demand reforms to 'whole system'",
       "channel": "Reuters",
       "videoId": "dyOuJRLlKNc",
-      "viewsPerHour": 4,
+      "viewsPerHour": 3,
       "views": 64,
-      "ageHours": 16.3
+      "ageHours": 18.3
     },
     {
       "title": "WATCH LIVE: Vance delivers remarks on Trump administration's crackdown on crime and fraud",
@@ -726,7 +710,7 @@
       "videoId": "U6TdNqt6xGg",
       "viewsPerHour": 3,
       "views": 35,
-      "ageHours": 11.8
+      "ageHours": 13.8
     },
     {
       "title": "BMW shares slide on China, Iran war profit warning",
@@ -734,7 +718,7 @@
       "videoId": "YXguYFM8_Ho",
       "viewsPerHour": 1,
       "views": 20,
-      "ageHours": 15.7
+      "ageHours": 17.7
     },
     {
       "title": "LIVE: Trump speaks at the end of the G7 summit in France",
@@ -742,7 +726,7 @@
       "videoId": "0mcjYtQZLJE",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 17.2
+      "ageHours": 19.2
     }
   ]
 }
