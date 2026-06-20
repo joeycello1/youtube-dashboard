@@ -1,28 +1,32 @@
 {
   "videosPerChannel": [
     {
+      "channel": "Real Stories",
+      "count": 18
+    },
+    {
       "channel": "MS NOW",
-      "count": 5
+      "count": 6
     },
     {
       "channel": "Louis Rossmann",
-      "count": 29
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 5
-    },
-    {
-      "channel": "Area 52",
-      "count": 5
+      "count": 30
     },
     {
       "channel": "The Daily Show",
       "count": 16
     },
     {
+      "channel": "PBS NewsHour",
+      "count": 4
+    },
+    {
+      "channel": "Area 52",
+      "count": 5
+    },
+    {
       "channel": "Conan O'Brien",
-      "count": 16
+      "count": 14
     },
     {
       "channel": "Associated Press",
@@ -39,10 +43,6 @@
     {
       "channel": "More Perfect Union",
       "count": 5
-    },
-    {
-      "channel": "Real Stories",
-      "count": 17
     },
     {
       "channel": "Last Week Tonight",
@@ -71,8 +71,24 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "Real Stories",
+      "count": 11
+    },
+    {
+      "keyword": "MS NOW, testimony",
+      "count": 1
+    },
+    {
       "keyword": "MS NOW",
       "count": 5
+    },
+    {
+      "keyword": "Louis Rossmann, AI",
+      "count": 2
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 15
     },
     {
       "keyword": "Louis Rossmann, Samsung",
@@ -80,7 +96,7 @@
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 5
+      "count": 4
     },
     {
       "keyword": "Louis Rossmann",
@@ -91,12 +107,8 @@
       "count": 2
     },
     {
-      "keyword": "The Daily Show",
-      "count": 14
-    },
-    {
       "keyword": "Conan O'Brien",
-      "count": 16
+      "count": 14
     },
     {
       "keyword": "Associated Press",
@@ -140,14 +152,6 @@
     },
     {
       "keyword": "The Daily Show, AI",
-      "count": 2
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 10
-    },
-    {
-      "keyword": "Louis Rossmann, AI",
       "count": 1
     },
     {
@@ -206,11 +210,11 @@
   "dailySummary": [
     {
       "date": "2026-06-20",
-      "videos": 4
+      "videos": 10
     },
     {
       "date": "2026-06-19",
-      "videos": 13
+      "videos": 10
     },
     {
       "date": "2026-06-18",
@@ -234,7 +238,7 @@
     },
     {
       "date": "2026-06-13",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-06-12",
@@ -266,7 +270,7 @@
     },
     {
       "date": "2026-06-05",
-      "videos": 7
+      "videos": 5
     },
     {
       "date": "2026-06-04",
@@ -331,8 +335,24 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "Real Stories",
+      "matches": 2
+    },
+    {
+      "keyword": "MS NOW, testimony",
+      "matches": 1
+    },
+    {
       "keyword": "MS NOW",
       "matches": 5
+    },
+    {
+      "keyword": "Louis Rossmann, AI",
+      "matches": 2
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 15
     },
     {
       "keyword": "Louis Rossmann, Samsung",
@@ -340,7 +360,7 @@
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "Louis Rossmann",
@@ -349,10 +369,6 @@
     {
       "keyword": "UFO",
       "matches": 1
-    },
-    {
-      "keyword": "The Daily Show",
-      "matches": 14
     },
     {
       "keyword": "Conan O'Brien",
@@ -401,14 +417,6 @@
     {
       "keyword": "The Daily Show, AI",
       "matches": 1
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 1
-    },
-    {
-      "keyword": "Louis Rossmann, AI",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -416,169 +424,193 @@
       "title": "Trump Deal Lets Iran Keep Missile Arsenal and $400 Billion & Republicans Lash Out | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "fVg3Cm6MEys",
-      "viewsPerHour": 35037,
-      "views": 1353193,
-      "ageHours": 38.6
+      "viewsPerHour": 33614,
+      "views": 1367213,
+      "ageHours": 40.7
+    },
+    {
+      "title": "Jon on Knicks Win vs. UFC Fight, Klepper on JD Vance's Book Tour & NY Knicks Parade | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "_WgidSMiYSs",
+      "viewsPerHour": 15029,
+      "views": 85036,
+      "ageHours": 5.7
     },
     {
       "title": "Triumph the Insult Comic Dog Gets Knicks Fans Fired Up at NYC's Ticker-Tape Parade | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "0pkHIVtitA4",
-      "viewsPerHour": 14686,
-      "views": 404906,
-      "ageHours": 27.6
+      "viewsPerHour": 14080,
+      "views": 417078,
+      "ageHours": 29.6
     },
     {
-      "title": "We Went To Nebraska. What We Found Could Unrig The Economy.",
-      "channel": "More Perfect Union",
-      "videoId": "Cb6xjJf42_c",
-      "viewsPerHour": 7187,
-      "views": 339889,
-      "ageHours": 47.3
+      "title": "‘He’s had to settle’: Trump’s peace deal with Iran called into question after Israel strikes Lebanon",
+      "channel": "MS NOW",
+      "videoId": "YlpR-qOp9hI",
+      "viewsPerHour": 7582,
+      "views": 37687,
+      "ageHours": 5
     },
     {
       "title": "Volkswagen app blocks GrapheneOS for \"security\", but works with unpatched 3 year old Android...",
       "channel": "Louis Rossmann",
       "videoId": "JLDszIQhA20",
-      "viewsPerHour": 6318,
-      "views": 92896,
-      "ageHours": 14.7
+      "viewsPerHour": 6084,
+      "views": 101933,
+      "ageHours": 16.8
     },
     {
       "title": "UFO Researcher Details The STRANGEST Alien Encounters - Preston Dennett | DEBRIEFED ep 93",
       "channel": "Area 52",
       "videoId": "Mz3MBWz8R-o",
-      "viewsPerHour": 5998,
-      "views": 147598,
-      "ageHours": 24.6
+      "viewsPerHour": 5764,
+      "views": 153670,
+      "ageHours": 26.7
+    },
+    {
+      "title": "LG AI television will \"listen to me and care for me\" 🤡🖕🖕🖕AI bubble needs to pop",
+      "channel": "Louis Rossmann",
+      "videoId": "L2mdimfvIDs",
+      "viewsPerHour": 5030,
+      "views": 23668,
+      "ageHours": 4.7
+    },
+    {
+      "title": "‘Brink of constitutional crisis’: DOJ declines to end $1.8B ‘anti-weaponization’ fund in writing",
+      "channel": "MS NOW",
+      "videoId": "E7VcHoZS-k8",
+      "viewsPerHour": 3011,
+      "views": 9554,
+      "ageHours": 3.2
     },
     {
       "title": "Ubisoft uses DMCA to kill slopsmith game; send it to us so we can host it, UBISOFT WILL NOT BEAT US",
       "channel": "Louis Rossmann",
       "videoId": "bgVlEgV27ow",
-      "viewsPerHour": 3017,
-      "views": 135040,
-      "ageHours": 44.8
+      "viewsPerHour": 2954,
+      "views": 138265,
+      "ageHours": 46.8
     },
     {
       "title": "PBS News Hour full episode, June 19, 2026",
       "channel": "PBS NewsHour",
       "videoId": "y33OAfxnidY",
-      "viewsPerHour": 2458,
+      "viewsPerHour": 2195,
       "views": 42168,
-      "ageHours": 17.2
+      "ageHours": 19.2
     },
     {
       "title": "Desi Lydic on How \"Foxsplains\" Came to Be - After the Cut | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Y-02vtfm0jw",
-      "viewsPerHour": 2241,
-      "views": 96606,
-      "ageHours": 43.1
+      "viewsPerHour": 2190,
+      "views": 98914,
+      "ageHours": 45.2
+    },
+    {
+      "title": "MS NOW Highlights - June 19",
+      "channel": "MS NOW",
+      "videoId": "VoHuqEV2-RA",
+      "viewsPerHour": 1909,
+      "views": 7595,
+      "ageHours": 4
     },
     {
       "title": "Buy a good camera before you're old & ugly; I validate your bad financial decision",
       "channel": "Louis Rossmann",
       "videoId": "kEEqUxLmBpY",
-      "viewsPerHour": 1745,
-      "views": 40880,
-      "ageHours": 23.4
+      "viewsPerHour": 1651,
+      "views": 42061,
+      "ageHours": 25.5
     },
     {
       "title": "Johnny Knoxville - \"Jackass: Best and Last\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "uL9fPAvZgMY",
-      "viewsPerHour": 1565,
-      "views": 58078,
-      "ageHours": 37.1
+      "viewsPerHour": 1508,
+      "views": 59069,
+      "ageHours": 39.2
     },
     {
       "title": "Sona Wants Conan & Gourley To Grow Mustaches | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Sn_8tyKePYY",
-      "viewsPerHour": 1345,
-      "views": 38489,
-      "ageHours": 28.6
+      "viewsPerHour": 1288,
+      "views": 39489,
+      "ageHours": 30.7
+    },
+    {
+      "title": "Surviving America's Most Extreme Prison for Children",
+      "channel": "Real Stories",
+      "videoId": "qqtZe-DZWAc",
+      "viewsPerHour": 713,
+      "views": 1895,
+      "ageHours": 2.7
     },
     {
       "title": "“THEY WERE EXTRACTING THE SOUL LIKE AN OYSTER FROM ITS SHELL”",
       "channel": "Jeremy Corbell",
       "videoId": "O6dzUSQBSW4",
-      "viewsPerHour": 246,
-      "views": 10578,
-      "ageHours": 43.1
+      "viewsPerHour": 237,
+      "views": 10690,
+      "ageHours": 45.1
     },
     {
       "title": "PBS News Hour live episode, June 19, 2026",
       "channel": "PBS NewsHour",
       "videoId": "9tNllOKGRY8",
-      "viewsPerHour": 227,
+      "viewsPerHour": 205,
       "views": 4373,
-      "ageHours": 19.3
-    },
-    {
-      "title": "I think the President is gonna LOSE': Dave Aronberg on upcoming Supreme Court cases",
-      "channel": "MS NOW",
-      "videoId": "N2d__Tt7-JU",
-      "viewsPerHour": 167,
-      "views": 4084,
-      "ageHours": 24.5
+      "ageHours": 21.3
     },
     {
       "title": "LIVE: Trump holds a Medal of Honor ceremony",
       "channel": "Associated Press",
       "videoId": "iYJ38kQrts4",
-      "viewsPerHour": 158,
+      "viewsPerHour": 151,
       "views": 6836,
-      "ageHours": 43.2
+      "ageHours": 45.2
     },
     {
       "title": "MS NOW EXCLUSIVE | An insider's guide to the replica of President Obama's Oval Office",
       "channel": "MS NOW",
       "videoId": "UWf70wmjeGY",
-      "viewsPerHour": 75,
+      "viewsPerHour": 64,
       "views": 911,
-      "ageHours": 12.2
+      "ageHours": 14.3
     },
     {
       "title": " ‘Underbelly of this fragile experiment’: Commemorating Juneteenth as Trump attacks civil rights",
       "channel": "MS NOW",
       "videoId": "10p4USOAsO4",
-      "viewsPerHour": 22,
+      "viewsPerHour": 19,
       "views": 262,
-      "ageHours": 11.9
-    },
-    {
-      "title": "Ryan Holiday's Juneteenth Reading List",
-      "channel": "MS NOW",
-      "videoId": "jc46JyoKxTQ",
-      "viewsPerHour": 17,
-      "views": 427,
-      "ageHours": 24.8
+      "ageHours": 13.9
     },
     {
       "title": "Obama says Americans want to ‘turn towards each other again, not further away’",
       "channel": "Associated Press",
       "videoId": "AXSFXeNgCp8",
-      "viewsPerHour": 17,
+      "viewsPerHour": 16,
       "views": 724,
-      "ageHours": 42.1
+      "ageHours": 44.2
     },
     {
       "title": "Research shows weight-loss drugs may also reduce cancer risk",
       "channel": "PBS NewsHour",
       "videoId": "UXN6S0ML0MA",
-      "viewsPerHour": 16,
+      "viewsPerHour": 14,
       "views": 289,
-      "ageHours": 18
+      "ageHours": 20
     },
     {
       "title": "How the Obama Presidential Center offers a new vision for presidential legacies",
       "channel": "PBS NewsHour",
       "videoId": "Yom-Qo49O2E",
-      "viewsPerHour": 12,
+      "viewsPerHour": 11,
       "views": 218,
-      "ageHours": 17.9
+      "ageHours": 20
     },
     {
       "title": "LIVE: Canadians in Niagara Falls watch World Cup game against Qatar",
@@ -586,7 +618,7 @@
       "videoId": "ZeCmO3fQnqA",
       "viewsPerHour": 5,
       "views": 236,
-      "ageHours": 43
+      "ageHours": 45.1
     },
     {
       "title": "The return of the Velshi Banned Book Club",
@@ -594,15 +626,7 @@
       "videoId": "6XBaMkSDMG0",
       "viewsPerHour": 1,
       "views": 12,
-      "ageHours": 11.8
-    },
-    {
-      "title": "Why some Russians are breaking with Putin as Ukraine war drags on",
-      "channel": "PBS NewsHour",
-      "videoId": "_92WZ3Up0Nw",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 26.9
+      "ageHours": 13.8
     }
   ]
 }
