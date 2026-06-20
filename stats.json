@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 8
+      "count": 5
     },
     {
       "channel": "Louis Rossmann",
@@ -72,7 +72,7 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 8
+      "count": 5
     },
     {
       "keyword": "Louis Rossmann, Samsung",
@@ -210,7 +210,7 @@
     },
     {
       "date": "2026-06-19",
-      "videos": 16
+      "videos": 13
     },
     {
       "date": "2026-06-18",
@@ -332,7 +332,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 8
+      "matches": 5
     },
     {
       "keyword": "Louis Rossmann, Samsung",
@@ -416,257 +416,217 @@
       "title": "Trump Deal Lets Iran Keep Missile Arsenal and $400 Billion & Republicans Lash Out | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "fVg3Cm6MEys",
-      "viewsPerHour": 40122,
-      "views": 1308951,
-      "ageHours": 32.6
+      "viewsPerHour": 38202,
+      "views": 1322485,
+      "ageHours": 34.6
     },
     {
       "title": "Triumph the Insult Comic Dog Gets Knicks Fans Fired Up at NYC's Ticker-Tape Parade | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "0pkHIVtitA4",
-      "viewsPerHour": 17289,
-      "views": 372998,
-      "ageHours": 21.6
+      "viewsPerHour": 16269,
+      "views": 383414,
+      "ageHours": 23.6
     },
     {
       "title": "We Went To Nebraska. What We Found Could Unrig The Economy.",
       "channel": "More Perfect Union",
       "videoId": "Cb6xjJf42_c",
-      "viewsPerHour": 7389,
-      "views": 305107,
-      "ageHours": 41.3
-    },
-    {
-      "title": "UFO Researcher Details The STRANGEST Alien Encounters - Preston Dennett | DEBRIEFED ep 93",
-      "channel": "Area 52",
-      "videoId": "Mz3MBWz8R-o",
-      "viewsPerHour": 7002,
-      "views": 130316,
-      "ageHours": 18.6
+      "viewsPerHour": 7230,
+      "views": 312974,
+      "ageHours": 43.3
     },
     {
       "title": "Volkswagen app blocks GrapheneOS for \"security\", but works with unpatched 3 year old Android...",
       "channel": "Louis Rossmann",
       "videoId": "JLDszIQhA20",
-      "viewsPerHour": 6729,
-      "views": 58579,
-      "ageHours": 8.7
+      "viewsPerHour": 6653,
+      "views": 71178,
+      "ageHours": 10.7
     },
     {
-      "title": "Jon Stewart: Knicks Fan Since Day One | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "7EB22nGNdow",
-      "viewsPerHour": 4196,
-      "views": 195591,
-      "ageHours": 46.6
-    },
-    {
-      "title": "PBS News Hour full episode, June 19, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "y33OAfxnidY",
-      "viewsPerHour": 3779,
-      "views": 42168,
-      "ageHours": 11.2
+      "title": "UFO Researcher Details The STRANGEST Alien Encounters - Preston Dennett | DEBRIEFED ep 93",
+      "channel": "Area 52",
+      "videoId": "Mz3MBWz8R-o",
+      "viewsPerHour": 6589,
+      "views": 135766,
+      "ageHours": 20.6
     },
     {
       "title": "Russell Crowe & Blockbuster: Last Week Tonight with John Oliver (Bonus Segments)",
       "channel": "Last Week Tonight",
       "videoId": "8qUxl3rl53M",
-      "viewsPerHour": 3668,
-      "views": 156309,
-      "ageHours": 42.6
+      "viewsPerHour": 3554,
+      "views": 158541,
+      "ageHours": 44.6
+    },
+    {
+      "title": "PBS News Hour full episode, June 19, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "y33OAfxnidY",
+      "viewsPerHour": 3206,
+      "views": 42168,
+      "ageHours": 13.2
     },
     {
       "title": "Ubisoft uses DMCA to kill slopsmith game; send it to us so we can host it, UBISOFT WILL NOT BEAT US",
       "channel": "Louis Rossmann",
       "videoId": "bgVlEgV27ow",
-      "viewsPerHour": 3275,
-      "views": 126947,
-      "ageHours": 38.8
+      "viewsPerHour": 3181,
+      "views": 129642,
+      "ageHours": 40.8
     },
     {
       "title": "Desi Lydic on How \"Foxsplains\" Came to Be - After the Cut | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Y-02vtfm0jw",
-      "viewsPerHour": 2461,
-      "views": 91357,
-      "ageHours": 37.1
+      "viewsPerHour": 2373,
+      "views": 92791,
+      "ageHours": 39.1
     },
     {
       "title": "Buy a good camera before you're old & ugly; I validate your bad financial decision",
       "channel": "Louis Rossmann",
       "videoId": "kEEqUxLmBpY",
-      "viewsPerHour": 2065,
-      "views": 35985,
-      "ageHours": 17.4
+      "viewsPerHour": 1951,
+      "views": 37890,
+      "ageHours": 19.4
     },
     {
       "title": "Jon Stewart & Conan Debate The Origin Of The Mashed Potato Tower | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "uWGRoZ_NHqY",
-      "viewsPerHour": 1815,
-      "views": 79157,
-      "ageHours": 43.6
+      "viewsPerHour": 1764,
+      "views": 80426,
+      "ageHours": 45.6
     },
     {
       "title": "Johnny Knoxville - \"Jackass: Best and Last\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "uL9fPAvZgMY",
-      "viewsPerHour": 1776,
-      "views": 55243,
-      "ageHours": 31.1
+      "viewsPerHour": 1696,
+      "views": 56161,
+      "ageHours": 33.1
     },
     {
       "title": "Sona Wants Conan & Gourley To Grow Mustaches | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Sn_8tyKePYY",
-      "viewsPerHour": 1585,
-      "views": 35836,
-      "ageHours": 22.6
+      "viewsPerHour": 1491,
+      "views": 36687,
+      "ageHours": 24.6
     },
     {
       "title": "Louis Theroux: Life Inside America's Best School For Autistic Kids",
       "channel": "Real Stories",
       "videoId": "gbJi6b_tgdg",
-      "viewsPerHour": 1495,
-      "views": 63712,
-      "ageHours": 42.6
+      "viewsPerHour": 1442,
+      "views": 64318,
+      "ageHours": 44.6
     },
     {
       "title": "NHI Extracting Our Souls - Whitley Strieber on 70 Years Of Contact",
       "channel": "Jeremy Corbell",
       "videoId": "YiNznVZ5ciY",
-      "viewsPerHour": 1212,
-      "views": 54645,
-      "ageHours": 45.1
-    },
-    {
-      "title": "Conan Tormented Sona With The CONAN Blimp | Conan O'Brien Needs A Fan",
-      "channel": "Conan O'Brien",
-      "videoId": "IK2uHbkzmj4",
-      "viewsPerHour": 551,
-      "views": 25688,
-      "ageHours": 46.6
-    },
-    {
-      "title": "The Last Word with Lawrence O'Donnell - June 18 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "nmer5OGVPtk",
-      "viewsPerHour": 487,
-      "views": 14178,
-      "ageHours": 29.1
-    },
-    {
-      "title": "Obama tells the history of the famous 'arc of the moral universe' quote",
-      "channel": "MS NOW",
-      "videoId": "bY0EOyL8jHI",
-      "viewsPerHour": 376,
-      "views": 11120,
-      "ageHours": 29.6
+      "viewsPerHour": 1175,
+      "views": 55314,
+      "ageHours": 47.1
     },
     {
       "title": "PBS News Hour live episode, June 19, 2026",
       "channel": "PBS NewsHour",
       "videoId": "9tNllOKGRY8",
-      "viewsPerHour": 329,
+      "viewsPerHour": 286,
       "views": 4373,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "“THEY WERE EXTRACTING THE SOUL LIKE AN OYSTER FROM ITS SHELL”",
       "channel": "Jeremy Corbell",
       "videoId": "O6dzUSQBSW4",
-      "viewsPerHour": 278,
-      "views": 10286,
-      "ageHours": 37.1
-    },
-    {
-      "title": "Vance delays Switzerland trip for Iran talks as Israel strikes Lebanon overnight",
-      "channel": "MS NOW",
-      "videoId": "t7D5OQ2aKSk",
-      "viewsPerHour": 271,
-      "views": 6608,
-      "ageHours": 24.4
+      "viewsPerHour": 268,
+      "views": 10449,
+      "ageHours": 39.1
     },
     {
       "title": "LIVE: White House press briefing with JD Vance",
       "channel": "Associated Press",
       "videoId": "5Vcy3uKgrWM",
-      "viewsPerHour": 253,
+      "viewsPerHour": 242,
       "views": 10716,
-      "ageHours": 42.3
+      "ageHours": 44.3
     },
     {
       "title": "I think the President is gonna LOSE': Dave Aronberg on upcoming Supreme Court cases",
       "channel": "MS NOW",
       "videoId": "N2d__Tt7-JU",
-      "viewsPerHour": 221,
+      "viewsPerHour": 200,
       "views": 4084,
-      "ageHours": 18.5
+      "ageHours": 20.5
     },
     {
       "title": "LIVE: Trump holds a Medal of Honor ceremony",
       "channel": "Associated Press",
       "videoId": "iYJ38kQrts4",
-      "viewsPerHour": 184,
+      "viewsPerHour": 175,
       "views": 6836,
-      "ageHours": 37.2
+      "ageHours": 39.2
     },
     {
       "title": "MS NOW EXCLUSIVE | An insider's guide to the replica of President Obama's Oval Office",
       "channel": "MS NOW",
       "videoId": "UWf70wmjeGY",
-      "viewsPerHour": 147,
+      "viewsPerHour": 111,
       "views": 911,
-      "ageHours": 6.2
+      "ageHours": 8.2
     },
     {
       "title": " ‘Underbelly of this fragile experiment’: Commemorating Juneteenth as Trump attacks civil rights",
       "channel": "MS NOW",
       "videoId": "10p4USOAsO4",
-      "viewsPerHour": 45,
+      "viewsPerHour": 33,
       "views": 262,
-      "ageHours": 5.9
+      "ageHours": 7.9
     },
     {
       "title": "Research shows weight-loss drugs may also reduce cancer risk",
       "channel": "PBS NewsHour",
       "videoId": "UXN6S0ML0MA",
-      "viewsPerHour": 24,
+      "viewsPerHour": 21,
       "views": 289,
-      "ageHours": 12
+      "ageHours": 14
     },
     {
       "title": "Ryan Holiday's Juneteenth Reading List",
       "channel": "MS NOW",
       "videoId": "jc46JyoKxTQ",
-      "viewsPerHour": 23,
+      "viewsPerHour": 21,
       "views": 427,
-      "ageHours": 18.8
+      "ageHours": 20.8
     },
     {
       "title": "Ukraine hits an oil refinery in Moscow in major drone attack on Russia",
       "channel": "Associated Press",
       "videoId": "igxezz8YESw",
-      "viewsPerHour": 21,
+      "viewsPerHour": 20,
       "views": 880,
-      "ageHours": 42
+      "ageHours": 44
     },
     {
       "title": "Obama says Americans want to ‘turn towards each other again, not further away’",
       "channel": "Associated Press",
       "videoId": "AXSFXeNgCp8",
-      "viewsPerHour": 20,
+      "viewsPerHour": 19,
       "views": 724,
-      "ageHours": 36.1
+      "ageHours": 38.1
     },
     {
       "title": "How the Obama Presidential Center offers a new vision for presidential legacies",
       "channel": "PBS NewsHour",
       "videoId": "Yom-Qo49O2E",
-      "viewsPerHour": 18,
+      "viewsPerHour": 16,
       "views": 218,
-      "ageHours": 11.9
+      "ageHours": 13.9
     },
     {
       "title": "LIVE: New Yorkers celebrate Knicks win at City Hall",
@@ -674,15 +634,15 @@
       "videoId": "cLa0oJ2XtlM",
       "viewsPerHour": 15,
       "views": 648,
-      "ageHours": 42.6
+      "ageHours": 44.6
     },
     {
       "title": "LIVE: EU leaders take part in summit in Brussels",
       "channel": "Reuters",
       "videoId": "HNkg-RMwTt8",
-      "viewsPerHour": 11,
+      "viewsPerHour": 10,
       "views": 474,
-      "ageHours": 44.4
+      "ageHours": 46.4
     },
     {
       "title": "LIVE: Obama Presidential Center dedication ceremony",
@@ -690,7 +650,7 @@
       "videoId": "EROweDWRodA",
       "viewsPerHour": 9,
       "views": 401,
-      "ageHours": 42.4
+      "ageHours": 44.4
     },
     {
       "title": "LIVE: Canadians in Niagara Falls watch World Cup game against Qatar",
@@ -698,7 +658,7 @@
       "videoId": "ZeCmO3fQnqA",
       "viewsPerHour": 6,
       "views": 236,
-      "ageHours": 37
+      "ageHours": 39
     },
     {
       "title": "The return of the Velshi Banned Book Club",
@@ -706,7 +666,7 @@
       "videoId": "6XBaMkSDMG0",
       "viewsPerHour": 2,
       "views": 12,
-      "ageHours": 5.8
+      "ageHours": 7.8
     },
     {
       "title": "Why some Russians are breaking with Putin as Ukraine war drags on",
@@ -714,7 +674,7 @@
       "videoId": "_92WZ3Up0Nw",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 20.9
+      "ageHours": 22.9
     }
   ]
 }
