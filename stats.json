@@ -1,12 +1,12 @@
 {
   "videosPerChannel": [
     {
-      "channel": "Real Stories",
-      "count": 18
+      "channel": "MS NOW",
+      "count": 9
     },
     {
-      "channel": "MS NOW",
-      "count": 6
+      "channel": "Real Stories",
+      "count": 18
     },
     {
       "channel": "Louis Rossmann",
@@ -18,7 +18,7 @@
     },
     {
       "channel": "PBS NewsHour",
-      "count": 4
+      "count": 1
     },
     {
       "channel": "Area 52",
@@ -71,16 +71,16 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "MS NOW",
+      "count": 8
+    },
+    {
       "keyword": "Real Stories",
       "count": 11
     },
     {
       "keyword": "MS NOW, testimony",
       "count": 1
-    },
-    {
-      "keyword": "MS NOW",
-      "count": 5
     },
     {
       "keyword": "Louis Rossmann, AI",
@@ -96,7 +96,7 @@
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 4
+      "count": 1
     },
     {
       "keyword": "Louis Rossmann",
@@ -210,11 +210,11 @@
   "dailySummary": [
     {
       "date": "2026-06-20",
-      "videos": 10
+      "videos": 13
     },
     {
       "date": "2026-06-19",
-      "videos": 10
+      "videos": 7
     },
     {
       "date": "2026-06-18",
@@ -335,16 +335,16 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "MS NOW",
+      "matches": 8
+    },
+    {
       "keyword": "Real Stories",
       "matches": 2
     },
     {
       "keyword": "MS NOW, testimony",
       "matches": 1
-    },
-    {
-      "keyword": "MS NOW",
-      "matches": 5
     },
     {
       "keyword": "Louis Rossmann, AI",
@@ -360,7 +360,7 @@
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 4
+      "matches": 1
     },
     {
       "keyword": "Louis Rossmann",
@@ -424,153 +424,153 @@
       "title": "Trump Deal Lets Iran Keep Missile Arsenal and $400 Billion & Republicans Lash Out | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "fVg3Cm6MEys",
-      "viewsPerHour": 31182,
-      "views": 1391597,
-      "ageHours": 44.6
+      "viewsPerHour": 30065,
+      "views": 1401655,
+      "ageHours": 46.6
     },
     {
       "title": "Jon on Knicks Win vs. UFC Fight, Klepper on JD Vance's Book Tour & NY Knicks Parade | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "_WgidSMiYSs",
-      "viewsPerHour": 14582,
-      "views": 140178,
-      "ageHours": 9.6
+      "viewsPerHour": 13723,
+      "views": 159248,
+      "ageHours": 11.6
     },
     {
       "title": "Triumph the Insult Comic Dog Gets Knicks Fans Fired Up at NYC's Ticker-Tape Parade | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "0pkHIVtitA4",
-      "viewsPerHour": 12919,
-      "views": 433778,
-      "ageHours": 33.6
-    },
-    {
-      "title": "Volkswagen app blocks GrapheneOS for \"security\", but works with unpatched 3 year old Android...",
-      "channel": "Louis Rossmann",
-      "videoId": "JLDszIQhA20",
-      "viewsPerHour": 5423,
-      "views": 112302,
-      "ageHours": 20.7
+      "viewsPerHour": 12481,
+      "views": 443946,
+      "ageHours": 35.6
     },
     {
       "title": "UFO Researcher Details The STRANGEST Alien Encounters - Preston Dennett | DEBRIEFED ep 93",
       "channel": "Area 52",
       "videoId": "Mz3MBWz8R-o",
-      "viewsPerHour": 5366,
-      "views": 164273,
-      "ageHours": 30.6
+      "viewsPerHour": 5189,
+      "views": 169215,
+      "ageHours": 32.6
+    },
+    {
+      "title": "Volkswagen app blocks GrapheneOS for \"security\", but works with unpatched 3 year old Android...",
+      "channel": "Louis Rossmann",
+      "videoId": "JLDszIQhA20",
+      "viewsPerHour": 5144,
+      "views": 116769,
+      "ageHours": 22.7
     },
     {
       "title": "LG AI television will \"listen to me and care for me\" 🤡🖕🖕🖕AI bubble needs to pop",
       "channel": "Louis Rossmann",
       "videoId": "L2mdimfvIDs",
-      "viewsPerHour": 4335,
-      "views": 37540,
-      "ageHours": 8.7
+      "viewsPerHour": 3991,
+      "views": 42515,
+      "ageHours": 10.7
     },
     {
       "title": "‘He’s had to settle’: Trump’s peace deal with Iran called into question after Israel strikes Lebanon",
       "channel": "MS NOW",
       "videoId": "YlpR-qOp9hI",
-      "viewsPerHour": 4222,
+      "viewsPerHour": 3452,
       "views": 37687,
-      "ageHours": 8.9
+      "ageHours": 10.9
+    },
+    {
+      "title": "‘Long way from being fully open’: John Kirby breaks down status of Hormuz Strait amid disputes",
+      "channel": "MS NOW",
+      "videoId": "LB-ktb4MDQM",
+      "viewsPerHour": 2326,
+      "views": 8067,
+      "ageHours": 3.5
     },
     {
       "title": "PBS News Hour full episode, June 19, 2026",
       "channel": "PBS NewsHour",
       "videoId": "y33OAfxnidY",
-      "viewsPerHour": 1821,
+      "viewsPerHour": 1676,
       "views": 42168,
-      "ageHours": 23.2
+      "ageHours": 25.2
     },
     {
       "title": "Buy a good camera before you're old & ugly; I validate your bad financial decision",
       "channel": "Louis Rossmann",
       "videoId": "kEEqUxLmBpY",
-      "viewsPerHour": 1495,
-      "views": 43995,
-      "ageHours": 29.4
+      "viewsPerHour": 1454,
+      "views": 45693,
+      "ageHours": 31.4
     },
     {
       "title": "Johnny Knoxville - \"Jackass: Best and Last\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "uL9fPAvZgMY",
-      "viewsPerHour": 1424,
-      "views": 61398,
-      "ageHours": 43.1
-    },
-    {
-      "title": "‘Brink of constitutional crisis’: DOJ declines to end $1.8B ‘anti-weaponization’ fund in writing",
-      "channel": "MS NOW",
-      "videoId": "E7VcHoZS-k8",
-      "viewsPerHour": 1340,
-      "views": 9554,
-      "ageHours": 7.1
+      "viewsPerHour": 1389,
+      "views": 62639,
+      "ageHours": 45.1
     },
     {
       "title": "Sona Wants Conan & Gourley To Grow Mustaches | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Sn_8tyKePYY",
-      "viewsPerHour": 1190,
-      "views": 41199,
-      "ageHours": 34.6
+      "viewsPerHour": 1149,
+      "views": 42046,
+      "ageHours": 36.6
+    },
+    {
+      "title": "‘Brink of constitutional crisis’: DOJ declines to end $1.8B ‘anti-weaponization’ fund in writing",
+      "channel": "MS NOW",
+      "videoId": "E7VcHoZS-k8",
+      "viewsPerHour": 1048,
+      "views": 9554,
+      "ageHours": 9.1
     },
     {
       "title": "Surviving America's Most Extreme Prison for Children",
       "channel": "Real Stories",
       "videoId": "qqtZe-DZWAc",
-      "viewsPerHour": 988,
-      "views": 6534,
-      "ageHours": 6.6
+      "viewsPerHour": 963,
+      "views": 8287,
+      "ageHours": 8.6
     },
     {
       "title": "MS NOW Highlights - June 19",
       "channel": "MS NOW",
       "videoId": "VoHuqEV2-RA",
-      "viewsPerHour": 957,
+      "viewsPerHour": 765,
       "views": 7595,
-      "ageHours": 7.9
+      "ageHours": 9.9
     },
     {
-      "title": "PBS News Hour live episode, June 19, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "9tNllOKGRY8",
-      "viewsPerHour": 173,
-      "views": 4373,
-      "ageHours": 25.3
+      "title": "Senate is ‘very competitive’ but Democrats need things to ‘fall just right’: Larry Sabato",
+      "channel": "MS NOW",
+      "videoId": "Wyo4nXhXU2A",
+      "viewsPerHour": 399,
+      "views": 1364,
+      "ageHours": 3.4
+    },
+    {
+      "title": "The outstanding Supreme Court cases you need to know about before its term ends",
+      "channel": "MS NOW",
+      "videoId": "MmZMgF4ADH0",
+      "viewsPerHour": 266,
+      "views": 917,
+      "ageHours": 3.4
     },
     {
       "title": "MS NOW EXCLUSIVE | An insider's guide to the replica of President Obama's Oval Office",
       "channel": "MS NOW",
       "videoId": "UWf70wmjeGY",
-      "viewsPerHour": 50,
+      "viewsPerHour": 45,
       "views": 911,
-      "ageHours": 18.2
+      "ageHours": 20.2
     },
     {
       "title": " ‘Underbelly of this fragile experiment’: Commemorating Juneteenth as Trump attacks civil rights",
       "channel": "MS NOW",
       "videoId": "10p4USOAsO4",
-      "viewsPerHour": 15,
+      "viewsPerHour": 13,
       "views": 262,
-      "ageHours": 17.9
-    },
-    {
-      "title": "Research shows weight-loss drugs may also reduce cancer risk",
-      "channel": "PBS NewsHour",
-      "videoId": "UXN6S0ML0MA",
-      "viewsPerHour": 12,
-      "views": 289,
-      "ageHours": 24
-    },
-    {
-      "title": "How the Obama Presidential Center offers a new vision for presidential legacies",
-      "channel": "PBS NewsHour",
-      "videoId": "Yom-Qo49O2E",
-      "viewsPerHour": 9,
-      "views": 218,
-      "ageHours": 23.9
+      "ageHours": 19.9
     },
     {
       "title": "The return of the Velshi Banned Book Club",
@@ -578,7 +578,7 @@
       "videoId": "6XBaMkSDMG0",
       "viewsPerHour": 1,
       "views": 12,
-      "ageHours": 17.8
+      "ageHours": 19.8
     }
   ]
 }
