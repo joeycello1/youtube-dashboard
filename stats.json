@@ -21,6 +21,10 @@
       "count": 5
     },
     {
+      "channel": "Jonathan Pie",
+      "count": 4
+    },
+    {
       "channel": "Conan O'Brien",
       "count": 14
     },
@@ -55,6 +59,10 @@
     {
       "channel": "The Rest Is Science",
       "count": 4
+    },
+    {
+      "channel": "Inside AI",
+      "count": 3
     },
     {
       "channel": "The Interview",
@@ -99,6 +107,10 @@
       "count": 2
     },
     {
+      "keyword": "Jonathan Pie",
+      "count": 4
+    },
+    {
       "keyword": "Conan O'Brien",
       "count": 14
     },
@@ -136,7 +148,7 @@
     },
     {
       "keyword": "AI",
-      "count": 5
+      "count": 8
     },
     {
       "keyword": "The Rest Is Science",
@@ -210,7 +222,7 @@
     },
     {
       "date": "2026-06-19",
-      "videos": 6
+      "videos": 7
     },
     {
       "date": "2026-06-18",
@@ -230,7 +242,7 @@
     },
     {
       "date": "2026-06-14",
-      "videos": 3
+      "videos": 5
     },
     {
       "date": "2026-06-13",
@@ -327,6 +339,22 @@
     {
       "date": "2026-05-15",
       "videos": 1
+    },
+    {
+      "date": "2026-05-14",
+      "videos": 1
+    },
+    {
+      "date": "2026-04-30",
+      "videos": 1
+    },
+    {
+      "date": "2026-04-09",
+      "videos": 1
+    },
+    {
+      "date": "2026-03-03",
+      "videos": 1
     }
   ],
   "topKeywordsWeek": [
@@ -361,6 +389,10 @@
     {
       "keyword": "UFO",
       "matches": 1
+    },
+    {
+      "keyword": "Jonathan Pie",
+      "matches": 2
     },
     {
       "keyword": "Conan O'Brien",
@@ -400,7 +432,7 @@
     },
     {
       "keyword": "AI",
-      "matches": 1
+      "matches": 2
     },
     {
       "keyword": "The Rest Is Science",
@@ -416,137 +448,137 @@
       "title": "Jon on Knicks Win vs. UFC Fight, Klepper on JD Vance's Book Tour & NY Knicks Parade | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "_WgidSMiYSs",
-      "viewsPerHour": 12444,
-      "views": 268848,
-      "ageHours": 21.6
+      "viewsPerHour": 11996,
+      "views": 279358,
+      "ageHours": 23.3
     },
     {
       "title": "Triumph the Insult Comic Dog Gets Knicks Fans Fired Up at NYC's Ticker-Tape Parade | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "0pkHIVtitA4",
-      "viewsPerHour": 10859,
-      "views": 494844,
-      "ageHours": 45.6
+      "viewsPerHour": 10554,
+      "views": 498707,
+      "ageHours": 47.3
+    },
+    {
+      "title": "Trump The Peacemaker",
+      "channel": "Jonathan Pie",
+      "videoId": "ndkFtUKLNZY",
+      "viewsPerHour": 6054,
+      "views": 270971,
+      "ageHours": 44.8
     },
     {
       "title": "UFO Researcher Details The STRANGEST Alien Encounters - Preston Dennett | DEBRIEFED ep 93",
       "channel": "Area 52",
       "videoId": "Mz3MBWz8R-o",
-      "viewsPerHour": 4452,
-      "views": 189683,
-      "ageHours": 42.6
+      "viewsPerHour": 4339,
+      "views": 192164,
+      "ageHours": 44.3
     },
     {
       "title": "Volkswagen app blocks GrapheneOS for \"security\", but works with unpatched 3 year old Android...",
       "channel": "Louis Rossmann",
       "videoId": "JLDszIQhA20",
-      "viewsPerHour": 4027,
-      "views": 131696,
-      "ageHours": 32.7
+      "viewsPerHour": 3900,
+      "views": 134110,
+      "ageHours": 34.4
     },
     {
       "title": "LG AI television will \"listen to me and care for me\" 🤡🖕🖕🖕AI bubble needs to pop",
       "channel": "Louis Rossmann",
       "videoId": "L2mdimfvIDs",
-      "viewsPerHour": 2882,
-      "views": 59524,
-      "ageHours": 20.7
+      "viewsPerHour": 2789,
+      "views": 62292,
+      "ageHours": 22.3
     },
     {
       "title": "‘He’s had to settle’: Trump’s peace deal with Iran called into question after Israel strikes Lebanon",
       "channel": "MS NOW",
       "videoId": "YlpR-qOp9hI",
-      "viewsPerHour": 1802,
+      "viewsPerHour": 1668,
       "views": 37687,
-      "ageHours": 20.9
-    },
-    {
-      "title": "Trump wielding ‘power for the sake of oppression,’ says former congressman",
-      "channel": "MS NOW",
-      "videoId": "7WJvgd_tukk",
-      "viewsPerHour": 1471,
-      "views": 10774,
-      "ageHours": 7.3
+      "ageHours": 22.6
     },
     {
       "title": "Buy a good camera before you're old & ugly; I validate your bad financial decision",
       "channel": "Louis Rossmann",
       "videoId": "kEEqUxLmBpY",
-      "viewsPerHour": 1240,
-      "views": 51357,
-      "ageHours": 41.4
+      "viewsPerHour": 1206,
+      "views": 51976,
+      "ageHours": 43.1
     },
     {
-      "title": "Sona Wants Conan & Gourley To Grow Mustaches | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "Sn_8tyKePYY",
-      "viewsPerHour": 996,
-      "views": 46403,
-      "ageHours": 46.6
+      "title": "Trump wielding ‘power for the sake of oppression,’ says former congressman",
+      "channel": "MS NOW",
+      "videoId": "7WJvgd_tukk",
+      "viewsPerHour": 1196,
+      "views": 10774,
+      "ageHours": 9
     },
     {
       "title": "Surviving America's Most Extreme Prison for Children",
       "channel": "Real Stories",
       "videoId": "qqtZe-DZWAc",
-      "viewsPerHour": 666,
-      "views": 12395,
-      "ageHours": 18.6
+      "viewsPerHour": 629,
+      "views": 12755,
+      "ageHours": 20.3
     },
     {
       "title": "‘Long way from being fully open’: John Kirby breaks down status of Hormuz Strait amid disputes",
       "channel": "MS NOW",
       "videoId": "LB-ktb4MDQM",
-      "viewsPerHour": 599,
+      "viewsPerHour": 532,
       "views": 8067,
-      "ageHours": 13.5
+      "ageHours": 15.2
     },
     {
       "title": "‘Brink of constitutional crisis’: DOJ declines to end $1.8B ‘anti-weaponization’ fund in writing",
       "channel": "MS NOW",
       "videoId": "E7VcHoZS-k8",
-      "viewsPerHour": 500,
+      "viewsPerHour": 459,
       "views": 9554,
-      "ageHours": 19.1
+      "ageHours": 20.8
     },
     {
       "title": "MS NOW Highlights - June 19",
       "channel": "MS NOW",
       "videoId": "VoHuqEV2-RA",
-      "viewsPerHour": 381,
+      "viewsPerHour": 352,
       "views": 7595,
-      "ageHours": 19.9
+      "ageHours": 21.6
     },
     {
       "title": "“Help us!” 10,000-bed ICE facility rattles Trump-friendly Georgia town",
       "channel": "MS NOW",
       "videoId": "lYl8i2siCtM",
-      "viewsPerHour": 369,
+      "viewsPerHour": 300,
       "views": 2721,
-      "ageHours": 7.4
+      "ageHours": 9.1
     },
     {
       "title": "\"They call me 'No-PAC Jack'\": Schlossberg on why he is DIFFERENT than the other NY-12 candidates",
       "channel": "MS NOW",
       "videoId": "rdPtb9jkMLY",
-      "viewsPerHour": 131,
+      "viewsPerHour": 105,
       "views": 889,
-      "ageHours": 6.8
+      "ageHours": 8.5
     },
     {
       "title": "Senate is ‘very competitive’ but Democrats need things to ‘fall just right’: Larry Sabato",
       "channel": "MS NOW",
       "videoId": "Wyo4nXhXU2A",
-      "viewsPerHour": 102,
+      "viewsPerHour": 90,
       "views": 1364,
-      "ageHours": 13.4
+      "ageHours": 15.1
     },
     {
       "title": "The outstanding Supreme Court cases you need to know about before its term ends",
       "channel": "MS NOW",
       "videoId": "MmZMgF4ADH0",
-      "viewsPerHour": 68,
+      "viewsPerHour": 61,
       "views": 917,
-      "ageHours": 13.4
+      "ageHours": 15.1
     }
   ]
 }
