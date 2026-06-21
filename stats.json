@@ -17,10 +17,6 @@
       "count": 16
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 1
-    },
-    {
       "channel": "Area 52",
       "count": 5
     },
@@ -92,10 +88,6 @@
     },
     {
       "keyword": "Louis Rossmann, Samsung",
-      "count": 1
-    },
-    {
-      "keyword": "PBS NewsHour",
       "count": 1
     },
     {
@@ -209,12 +201,16 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-06-21",
+      "videos": 3
+    },
+    {
       "date": "2026-06-20",
-      "videos": 13
+      "videos": 10
     },
     {
       "date": "2026-06-19",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-06-18",
@@ -359,10 +355,6 @@
       "matches": 1
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 1
-    },
-    {
       "keyword": "Louis Rossmann",
       "matches": 8
     },
@@ -424,145 +416,137 @@
       "title": "Jon on Knicks Win vs. UFC Fight, Klepper on JD Vance's Book Tour & NY Knicks Parade | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "_WgidSMiYSs",
-      "viewsPerHour": 13240,
-      "views": 206642,
-      "ageHours": 15.6
+      "viewsPerHour": 13133,
+      "views": 231246,
+      "ageHours": 17.6
     },
     {
       "title": "Triumph the Insult Comic Dog Gets Knicks Fans Fired Up at NYC's Ticker-Tape Parade | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "0pkHIVtitA4",
-      "viewsPerHour": 11818,
-      "views": 467659,
-      "ageHours": 39.6
+      "viewsPerHour": 11524,
+      "views": 479069,
+      "ageHours": 41.6
     },
     {
       "title": "UFO Researcher Details The STRANGEST Alien Encounters - Preston Dennett | DEBRIEFED ep 93",
       "channel": "Area 52",
       "videoId": "Mz3MBWz8R-o",
-      "viewsPerHour": 4855,
-      "views": 177726,
-      "ageHours": 36.6
+      "viewsPerHour": 4709,
+      "views": 181821,
+      "ageHours": 38.6
     },
     {
       "title": "Volkswagen app blocks GrapheneOS for \"security\", but works with unpatched 3 year old Android...",
       "channel": "Louis Rossmann",
       "videoId": "JLDszIQhA20",
-      "viewsPerHour": 4621,
-      "views": 123394,
-      "ageHours": 26.7
+      "viewsPerHour": 4366,
+      "views": 125327,
+      "ageHours": 28.7
+    },
+    {
+      "title": "Trump wielding ‘power for the sake of oppression,’ says former congressman",
+      "channel": "MS NOW",
+      "videoId": "7WJvgd_tukk",
+      "viewsPerHour": 3236,
+      "views": 10774,
+      "ageHours": 3.3
     },
     {
       "title": "LG AI television will \"listen to me and care for me\" 🤡🖕🖕🖕AI bubble needs to pop",
       "channel": "Louis Rossmann",
       "videoId": "L2mdimfvIDs",
-      "viewsPerHour": 3380,
-      "views": 49537,
-      "ageHours": 14.7
+      "viewsPerHour": 3157,
+      "views": 52583,
+      "ageHours": 16.7
     },
     {
       "title": "‘He’s had to settle’: Trump’s peace deal with Iran called into question after Israel strikes Lebanon",
       "channel": "MS NOW",
       "videoId": "YlpR-qOp9hI",
-      "viewsPerHour": 2526,
+      "viewsPerHour": 2227,
       "views": 37687,
-      "ageHours": 14.9
-    },
-    {
-      "title": "PBS News Hour full episode, June 19, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "y33OAfxnidY",
-      "viewsPerHour": 1446,
-      "views": 42168,
-      "ageHours": 29.2
+      "ageHours": 16.9
     },
     {
       "title": "Buy a good camera before you're old & ugly; I validate your bad financial decision",
       "channel": "Louis Rossmann",
       "videoId": "kEEqUxLmBpY",
-      "viewsPerHour": 1367,
-      "views": 48432,
-      "ageHours": 35.4
+      "viewsPerHour": 1324,
+      "views": 49566,
+      "ageHours": 37.4
     },
     {
       "title": "Sona Wants Conan & Gourley To Grow Mustaches | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Sn_8tyKePYY",
-      "viewsPerHour": 1084,
-      "views": 44010,
-      "ageHours": 40.6
+      "viewsPerHour": 1055,
+      "views": 44946,
+      "ageHours": 42.6
     },
     {
       "title": "‘Long way from being fully open’: John Kirby breaks down status of Hormuz Strait amid disputes",
       "channel": "MS NOW",
       "videoId": "LB-ktb4MDQM",
-      "viewsPerHour": 1080,
+      "viewsPerHour": 852,
       "views": 8067,
-      "ageHours": 7.5
+      "ageHours": 9.5
+    },
+    {
+      "title": "“Help us!” 10,000-bed ICE facility rattles Trump-friendly Georgia town",
+      "channel": "MS NOW",
+      "videoId": "lYl8i2siCtM",
+      "viewsPerHour": 804,
+      "views": 2721,
+      "ageHours": 3.4
     },
     {
       "title": "Surviving America's Most Extreme Prison for Children",
       "channel": "Real Stories",
       "videoId": "qqtZe-DZWAc",
-      "viewsPerHour": 816,
-      "views": 10283,
-      "ageHours": 12.6
+      "viewsPerHour": 758,
+      "views": 11070,
+      "ageHours": 14.6
     },
     {
       "title": "‘Brink of constitutional crisis’: DOJ declines to end $1.8B ‘anti-weaponization’ fund in writing",
       "channel": "MS NOW",
       "videoId": "E7VcHoZS-k8",
-      "viewsPerHour": 728,
+      "viewsPerHour": 632,
       "views": 9554,
-      "ageHours": 13.1
+      "ageHours": 15.1
     },
     {
       "title": "MS NOW Highlights - June 19",
       "channel": "MS NOW",
       "videoId": "VoHuqEV2-RA",
-      "viewsPerHour": 545,
+      "viewsPerHour": 477,
       "views": 7595,
-      "ageHours": 13.9
+      "ageHours": 15.9
+    },
+    {
+      "title": "\"They call me 'No-PAC Jack'\": Schlossberg on why he is DIFFERENT than the other NY-12 candidates",
+      "channel": "MS NOW",
+      "videoId": "rdPtb9jkMLY",
+      "viewsPerHour": 318,
+      "views": 889,
+      "ageHours": 2.8
     },
     {
       "title": "Senate is ‘very competitive’ but Democrats need things to ‘fall just right’: Larry Sabato",
       "channel": "MS NOW",
       "videoId": "Wyo4nXhXU2A",
-      "viewsPerHour": 184,
+      "viewsPerHour": 145,
       "views": 1364,
-      "ageHours": 7.4
+      "ageHours": 9.4
     },
     {
       "title": "The outstanding Supreme Court cases you need to know about before its term ends",
       "channel": "MS NOW",
       "videoId": "MmZMgF4ADH0",
-      "viewsPerHour": 123,
+      "viewsPerHour": 97,
       "views": 917,
-      "ageHours": 7.5
-    },
-    {
-      "title": "MS NOW EXCLUSIVE | An insider's guide to the replica of President Obama's Oval Office",
-      "channel": "MS NOW",
-      "videoId": "UWf70wmjeGY",
-      "viewsPerHour": 38,
-      "views": 911,
-      "ageHours": 24.2
-    },
-    {
-      "title": " ‘Underbelly of this fragile experiment’: Commemorating Juneteenth as Trump attacks civil rights",
-      "channel": "MS NOW",
-      "videoId": "10p4USOAsO4",
-      "viewsPerHour": 11,
-      "views": 262,
-      "ageHours": 23.9
-    },
-    {
-      "title": "The return of the Velshi Banned Book Club",
-      "channel": "MS NOW",
-      "videoId": "6XBaMkSDMG0",
-      "viewsPerHour": 1,
-      "views": 12,
-      "ageHours": 23.8
+      "ageHours": 9.5
     }
   ]
 }
