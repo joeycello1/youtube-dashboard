@@ -2,11 +2,15 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 9
+      "count": 7
+    },
+    {
+      "channel": "The Rest Is Science",
+      "count": 5
     },
     {
       "channel": "Real Stories",
-      "count": 18
+      "count": 19
     },
     {
       "channel": "Louis Rossmann",
@@ -38,7 +42,7 @@
     },
     {
       "channel": "Jeremy Corbell",
-      "count": 6
+      "count": 4
     },
     {
       "channel": "More Perfect Union",
@@ -57,10 +61,6 @@
       "count": 6
     },
     {
-      "channel": "The Rest Is Science",
-      "count": 4
-    },
-    {
       "channel": "Inside AI",
       "count": 3
     },
@@ -76,7 +76,15 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 9
+      "count": 7
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "keyword": "Real Stories, Louis Theroux",
+      "count": 7
     },
     {
       "keyword": "Real Stories",
@@ -127,10 +135,6 @@
       "count": 5
     },
     {
-      "keyword": "Real Stories, Louis Theroux",
-      "count": 6
-    },
-    {
       "keyword": "Last Week Tonight",
       "count": 7
     },
@@ -145,10 +149,6 @@
     {
       "keyword": "AI",
       "count": 8
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "count": 4
     },
     {
       "keyword": "The Daily Show, AI",
@@ -176,7 +176,7 @@
     },
     {
       "keyword": "Corbell, UFO, George Knapp",
-      "count": 2
+      "count": 1
     },
     {
       "keyword": "AI, AGI, artificial intelligence",
@@ -199,10 +199,6 @@
       "count": 1
     },
     {
-      "keyword": "Corbell, UFO, whistleblower, testimony, UAP",
-      "count": 1
-    },
-    {
       "keyword": "Corbell, AARO, UAP, UFO, whistleblower",
       "count": 1
     }
@@ -210,11 +206,11 @@
   "dailySummary": [
     {
       "date": "2026-06-21",
-      "videos": 6
+      "videos": 9
     },
     {
       "date": "2026-06-20",
-      "videos": 7
+      "videos": 4
     },
     {
       "date": "2026-06-19",
@@ -326,7 +322,7 @@
     },
     {
       "date": "2026-05-22",
-      "videos": 3
+      "videos": 1
     },
     {
       "date": "2026-05-16",
@@ -356,7 +352,15 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 9
+      "matches": 7
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "matches": 2
+    },
+    {
+      "keyword": "Real Stories, Louis Theroux",
+      "matches": 2
     },
     {
       "keyword": "Real Stories",
@@ -376,7 +380,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "UFO",
@@ -407,10 +411,6 @@
       "matches": 1
     },
     {
-      "keyword": "Real Stories, Louis Theroux",
-      "matches": 1
-    },
-    {
       "keyword": "Last Week Tonight",
       "matches": 3
     },
@@ -427,10 +427,6 @@
       "matches": 1
     },
     {
-      "keyword": "The Rest Is Science",
-      "matches": 1
-    },
-    {
       "keyword": "The Daily Show, AI",
       "matches": 1
     }
@@ -440,105 +436,105 @@
       "title": "Jon on Knicks Win vs. UFC Fight, Klepper on JD Vance's Book Tour & NY Knicks Parade | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "_WgidSMiYSs",
-      "viewsPerHour": 9992,
-      "views": 335758,
-      "ageHours": 33.6
+      "viewsPerHour": 9776,
+      "views": 348040,
+      "ageHours": 35.6
+    },
+    {
+      "title": "A Paleontology Of The Future",
+      "channel": "The Rest Is Science",
+      "videoId": "gzceRyInKHk",
+      "viewsPerHour": 5113,
+      "views": 18394,
+      "ageHours": 3.6
+    },
+    {
+      "title": "Louis Theroux Meets Terminally Ill Patients That Are Choosing Death",
+      "channel": "Real Stories",
+      "videoId": "Z6zPEig8Sk0",
+      "viewsPerHour": 4073,
+      "views": 26893,
+      "ageHours": 6.6
+    },
+    {
+      "title": "‘Unhinged!’: Trump spends hundreds of millions on personal battle against U.S. wind farms",
+      "channel": "MS NOW",
+      "videoId": "-RoyH5q-5k0",
+      "viewsPerHour": 3693,
+      "views": 12780,
+      "ageHours": 3.5
     },
     {
       "title": "Volkswagen app blocks GrapheneOS for \"security\", but works with unpatched 3 year old Android...",
       "channel": "Louis Rossmann",
       "videoId": "JLDszIQhA20",
-      "viewsPerHour": 3166,
-      "views": 141526,
-      "ageHours": 44.7
-    },
-    {
-      "title": "Trump feuds with Italian PM as Iran peace talks loom",
-      "channel": "MS NOW",
-      "videoId": "hd6OHdvOzq4",
-      "viewsPerHour": 2691,
-      "views": 20470,
-      "ageHours": 7.6
-    },
-    {
-      "title": "‘Bibi does not want this deal’: U.S. peace talks set after Iran closes Strait of Hormuz",
-      "channel": "MS NOW",
-      "videoId": "JM2Ti8VCI1A",
-      "viewsPerHour": 2318,
-      "views": 17580,
-      "ageHours": 7.6
+      "viewsPerHour": 3069,
+      "views": 143332,
+      "ageHours": 46.7
     },
     {
       "title": "LG AI television will \"listen to me and care for me\" 🤡🖕🖕🖕AI bubble needs to pop",
       "channel": "Louis Rossmann",
       "videoId": "L2mdimfvIDs",
-      "viewsPerHour": 2215,
-      "views": 72315,
-      "ageHours": 32.6
+      "viewsPerHour": 2143,
+      "views": 74249,
+      "ageHours": 34.6
+    },
+    {
+      "title": "Trump feuds with Italian PM as Iran peace talks loom",
+      "channel": "MS NOW",
+      "videoId": "hd6OHdvOzq4",
+      "viewsPerHour": 2131,
+      "views": 20470,
+      "ageHours": 9.6
+    },
+    {
+      "title": "‘Bibi does not want this deal’: U.S. peace talks set after Iran closes Strait of Hormuz",
+      "channel": "MS NOW",
+      "videoId": "JM2Ti8VCI1A",
+      "viewsPerHour": 1835,
+      "views": 17580,
+      "ageHours": 9.6
     },
     {
       "title": "Inside U.S.-Iran peace talks as Vance touts optimism and ‘great progress’",
       "channel": "MS NOW",
       "videoId": "LTHeOyo14Lc",
-      "viewsPerHour": 779,
+      "viewsPerHour": 617,
       "views": 5958,
-      "ageHours": 7.7
+      "ageHours": 9.6
     },
     {
       "title": "Trump wielding ‘power for the sake of oppression,’ says former congressman",
       "channel": "MS NOW",
       "videoId": "7WJvgd_tukk",
-      "viewsPerHour": 558,
+      "viewsPerHour": 505,
       "views": 10774,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "Surviving America's Most Extreme Prison for Children",
       "channel": "Real Stories",
       "videoId": "qqtZe-DZWAc",
-      "viewsPerHour": 501,
-      "views": 15321,
-      "ageHours": 30.6
-    },
-    {
-      "title": "‘Long way from being fully open’: John Kirby breaks down status of Hormuz Strait amid disputes",
-      "channel": "MS NOW",
-      "videoId": "LB-ktb4MDQM",
-      "viewsPerHour": 317,
-      "views": 8067,
-      "ageHours": 25.5
+      "viewsPerHour": 502,
+      "views": 16377,
+      "ageHours": 32.6
     },
     {
       "title": "“Help us!” 10,000-bed ICE facility rattles Trump-friendly Georgia town",
       "channel": "MS NOW",
       "videoId": "lYl8i2siCtM",
-      "viewsPerHour": 140,
+      "viewsPerHour": 127,
       "views": 2721,
-      "ageHours": 19.4
-    },
-    {
-      "title": "Senate is ‘very competitive’ but Democrats need things to ‘fall just right’: Larry Sabato",
-      "channel": "MS NOW",
-      "videoId": "Wyo4nXhXU2A",
-      "viewsPerHour": 54,
-      "views": 1364,
-      "ageHours": 25.4
+      "ageHours": 21.4
     },
     {
       "title": "\"They call me 'No-PAC Jack'\": Schlossberg on why he is DIFFERENT than the other NY-12 candidates",
       "channel": "MS NOW",
       "videoId": "rdPtb9jkMLY",
-      "viewsPerHour": 47,
+      "viewsPerHour": 43,
       "views": 889,
-      "ageHours": 18.8
-    },
-    {
-      "title": "The outstanding Supreme Court cases you need to know about before its term ends",
-      "channel": "MS NOW",
-      "videoId": "MmZMgF4ADH0",
-      "viewsPerHour": 36,
-      "views": 917,
-      "ageHours": 25.4
+      "ageHours": 20.8
     }
   ]
 }
