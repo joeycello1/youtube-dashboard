@@ -6,7 +6,7 @@
     },
     {
       "channel": "MS NOW",
-      "count": 10
+      "count": 7
     },
     {
       "channel": "Louis Rossmann",
@@ -18,7 +18,7 @@
     },
     {
       "channel": "Last Week Tonight",
-      "count": 9
+      "count": 8
     },
     {
       "channel": "The Rest Is Science",
@@ -30,7 +30,7 @@
     },
     {
       "channel": "The Daily Show",
-      "count": 16
+      "count": 13
     },
     {
       "channel": "Area 52",
@@ -84,7 +84,7 @@
     },
     {
       "keyword": "MS NOW",
-      "count": 9
+      "count": 6
     },
     {
       "keyword": "MS NOW, AI",
@@ -100,7 +100,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "count": 9
+      "count": 8
     },
     {
       "keyword": "The Rest Is Science",
@@ -120,7 +120,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "count": 15
+      "count": 12
     },
     {
       "keyword": "Louis Rossmann, Samsung",
@@ -218,7 +218,7 @@
   "dailySummary": [
     {
       "date": "2026-06-22",
-      "videos": 20
+      "videos": 17
     },
     {
       "date": "2026-06-21",
@@ -242,7 +242,7 @@
     },
     {
       "date": "2026-06-16",
-      "videos": 7
+      "videos": 4
     },
     {
       "date": "2026-06-15",
@@ -274,7 +274,7 @@
     },
     {
       "date": "2026-06-08",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-06-07",
@@ -372,7 +372,7 @@
     },
     {
       "keyword": "MS NOW",
-      "matches": 9
+      "matches": 6
     },
     {
       "keyword": "MS NOW, AI",
@@ -460,169 +460,145 @@
       "title": "Feral Hogs: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "pGazYSkFFMw",
-      "viewsPerHour": 52434,
+      "viewsPerHour": 48064,
       "views": 1159293,
-      "ageHours": 22.1
+      "ageHours": 24.1
     },
     {
       "title": "S13 E16: Iran Peace Deal & Feral Hogs: 6/21/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "PscLPIHmuNw",
-      "viewsPerHour": 19377,
+      "viewsPerHour": 17967,
       "views": 496318,
-      "ageHours": 25.6
+      "ageHours": 27.6
     },
     {
       "title": "Swiss newspaper calls me \"technically ignorant\", I tear Daniel Schurter to shreds",
       "channel": "Louis Rossmann",
       "videoId": "AA658IFkKa8",
-      "viewsPerHour": 6995,
+      "viewsPerHour": 6172,
       "views": 105504,
-      "ageHours": 15.1
-    },
-    {
-      "title": "As THIN SKINNED and narcissistic as they come': Nicolle CALLS OUT Trump for tirade against press",
-      "channel": "MS NOW",
-      "videoId": "VLIs5_h8sUQ",
-      "viewsPerHour": 4392,
-      "views": 29026,
-      "ageHours": 6.6
+      "ageHours": 17.1
     },
     {
       "title": "A Paleontology Of The Future",
       "channel": "The Rest Is Science",
       "videoId": "gzceRyInKHk",
-      "viewsPerHour": 3762,
+      "viewsPerHour": 3537,
       "views": 118917,
-      "ageHours": 31.6
+      "ageHours": 33.6
+    },
+    {
+      "title": "As THIN SKINNED and narcissistic as they come': Nicolle CALLS OUT Trump for tirade against press",
+      "channel": "MS NOW",
+      "videoId": "VLIs5_h8sUQ",
+      "viewsPerHour": 3367,
+      "views": 29026,
+      "ageHours": 8.6
     },
     {
       "title": "If you thought flock was bad, check out Leonardo SignalTrace - this is stalking on a whole new level",
       "channel": "Louis Rossmann",
       "videoId": "eLxVdNKkjy4",
-      "viewsPerHour": 2909,
+      "viewsPerHour": 2710,
       "views": 79683,
-      "ageHours": 27.4
-    },
-    {
-      "title": "‘You’ve already played your biggest card’: Ayman Mohyeldin on Trump’s new threats to Iran",
-      "channel": "MS NOW",
-      "videoId": "Sr8DGhE9z8w",
-      "viewsPerHour": 2548,
-      "views": 68209,
-      "ageHours": 26.8
+      "ageHours": 29.4
     },
     {
       "title": "Louis Theroux Meets Terminally Ill Patients That Are Choosing Death",
       "channel": "Real Stories",
       "videoId": "Z6zPEig8Sk0",
-      "viewsPerHour": 2439,
+      "viewsPerHour": 2305,
       "views": 84425,
-      "ageHours": 34.6
+      "ageHours": 36.6
     },
     {
       "title": "Josh Groban (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Plq6OgKSvag",
-      "viewsPerHour": 2276,
+      "viewsPerHour": 2043,
       "views": 40077,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
       "title": "Felt like another Bernie Madoff deal': Trump QUASHED criminal probe into fraudster's clemency",
       "channel": "MS NOW",
       "videoId": "FjK4Yd8EE1k",
-      "viewsPerHour": 1316,
+      "viewsPerHour": 1016,
       "views": 8949,
-      "ageHours": 6.8
+      "ageHours": 8.8
     },
     {
       "title": "Makes you question what type of economic reports Trump's been getting': GOP strategist",
       "channel": "MS NOW",
       "videoId": "K8JwbuygOtk",
-      "viewsPerHour": 1082,
+      "viewsPerHour": 849,
       "views": 7947,
-      "ageHours": 7.3
+      "ageHours": 9.4
     },
     {
       "title": "PBS News Hour live episode, June 22, 2026",
       "channel": "PBS NewsHour",
       "videoId": "_FZ8iYcPXdw",
-      "viewsPerHour": 600,
+      "viewsPerHour": 470,
       "views": 4367,
-      "ageHours": 7.3
+      "ageHours": 9.3
     },
     {
       "title": "Rise of the new oligarchs': Sykes calls AI CEOs treated as heads of state at G7 'terrifying'",
       "channel": "MS NOW",
       "videoId": "pGG15I3zP-w",
-      "viewsPerHour": 316,
+      "viewsPerHour": 275,
       "views": 4261,
-      "ageHours": 13.5
+      "ageHours": 15.5
     },
     {
       "title": "WATCH: Vance says talks with Iranian officials set 'good foundation' for a deal to end war",
       "channel": "PBS NewsHour",
       "videoId": "DrWfqsSQD9Q",
-      "viewsPerHour": 302,
+      "viewsPerHour": 262,
       "views": 3984,
-      "ageHours": 13.2
-    },
-    {
-      "title": "‘Wake-up call’: Brexit turns 10 as another UK leader might be heading for the exit",
-      "channel": "MS NOW",
-      "videoId": "V60akt4yZLo",
-      "viewsPerHour": 289,
-      "views": 7718,
-      "ageHours": 26.7
+      "ageHours": 15.2
     },
     {
       "title": "Five-term Fed Chair Alan Greenspan dies at 100",
       "channel": "MS NOW",
       "videoId": "GOeGy9_Fhdo",
-      "viewsPerHour": 263,
+      "viewsPerHour": 229,
       "views": 3492,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "BREAKING: UK Prime Minister Keir Starmer RESIGNS",
       "channel": "MS NOW",
       "videoId": "Id4vVY3hOtg",
-      "viewsPerHour": 244,
+      "viewsPerHour": 220,
       "views": 4523,
-      "ageHours": 18.5
+      "ageHours": 20.5
     },
     {
       "title": "Trump’s THREATS complicate U.S.-Iran negotiations",
       "channel": "MS NOW",
       "videoId": "0EzkBxK9nfg",
-      "viewsPerHour": 238,
+      "viewsPerHour": 214,
       "views": 4289,
-      "ageHours": 18
+      "ageHours": 20
     },
     {
       "title": "Plagued by algae and peeling paint, Reflecting Pool set to undergo more repairs",
       "channel": "PBS NewsHour",
       "videoId": "xZ7NmtJ6x4Q",
-      "viewsPerHour": 236,
+      "viewsPerHour": 177,
       "views": 1417,
-      "ageHours": 6
+      "ageHours": 8
     },
     {
       "title": "New Justice Department memo questions decades of protections for people with disabilities",
       "channel": "PBS NewsHour",
       "videoId": "cWV6LABu0T0",
-      "viewsPerHour": 30,
+      "viewsPerHour": 22,
       "views": 176,
-      "ageHours": 5.8
-    },
-    {
-      "title": "Stolen milestone: Hear a father’s story of deportation, detainment and missing his son’s birth.",
-      "channel": "MS NOW",
-      "videoId": "gJO7Md842mI",
-      "viewsPerHour": 27,
-      "views": 716,
-      "ageHours": 26.7
+      "ageHours": 7.8
     },
     {
       "title": "WATCH LIVE: Senate votes on bipartisan housing affordability bill",
@@ -630,7 +606,7 @@
       "videoId": "_v8FuGbfcKM",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 13.1
+      "ageHours": 15.1
     }
   ]
 }
