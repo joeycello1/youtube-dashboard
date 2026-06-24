@@ -1,24 +1,28 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 8
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 35
+    },
+    {
       "channel": "MS NOW",
-      "count": 9
+      "count": 8
+    },
+    {
+      "channel": "More Perfect Union",
+      "count": 6
     },
     {
       "channel": "Real Stories",
       "count": 20
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 8
-    },
-    {
       "channel": "Conan O'Brien",
       "count": 16
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 34
     },
     {
       "channel": "The Daily Show",
@@ -53,10 +57,6 @@
       "count": 4
     },
     {
-      "channel": "More Perfect Union",
-      "count": 5
-    },
-    {
       "channel": "NOVA",
       "count": 7
     },
@@ -79,24 +79,28 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "PBS NewsHour",
+      "count": 8
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 29
+    },
+    {
       "keyword": "MS NOW",
-      "count": 9
+      "count": 8
+    },
+    {
+      "keyword": "More Perfect Union",
+      "count": 6
     },
     {
       "keyword": "Real Stories",
       "count": 12
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 8
-    },
-    {
       "keyword": "Conan O'Brien",
       "count": 16
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 28
     },
     {
       "keyword": "The Daily Show",
@@ -141,10 +145,6 @@
     {
       "keyword": "Corbell, George Knapp",
       "count": 1
-    },
-    {
-      "keyword": "More Perfect Union",
-      "count": 5
     },
     {
       "keyword": "Corbell, UFO",
@@ -214,11 +214,11 @@
   "dailySummary": [
     {
       "date": "2026-06-23",
-      "videos": 16
+      "videos": 23
     },
     {
       "date": "2026-06-22",
-      "videos": 14
+      "videos": 8
     },
     {
       "date": "2026-06-21",
@@ -367,24 +367,28 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour",
+      "matches": 8
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 10
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 9
+      "matches": 8
+    },
+    {
+      "keyword": "More Perfect Union",
+      "matches": 2
     },
     {
       "keyword": "Real Stories",
       "matches": 2
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 8
-    },
-    {
       "keyword": "Conan O'Brien",
       "matches": 8
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 9
     },
     {
       "keyword": "The Daily Show",
@@ -431,10 +435,6 @@
       "matches": 1
     },
     {
-      "keyword": "More Perfect Union",
-      "matches": 1
-    },
-    {
       "keyword": "Corbell, UFO",
       "matches": 1
     },
@@ -456,241 +456,249 @@
       "title": "Trump Sends Vance to Concede to Iran & Reflecting Pool Is Filled with Corruption | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "GZrA_EvmzhI",
-      "viewsPerHour": 147316,
-      "views": 2879965,
-      "ageHours": 19.5
+      "viewsPerHour": 141293,
+      "views": 3044475,
+      "ageHours": 21.5
     },
     {
       "title": "Feral Hogs: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "pGazYSkFFMw",
-      "viewsPerHour": 38299,
-      "views": 1536243,
-      "ageHours": 40.1
+      "viewsPerHour": 37133,
+      "views": 1563671,
+      "ageHours": 42.1
     },
     {
       "title": "Maggie Haberman & Jonathan Swan - On “Regime Change” & Inside The Trump Presidency | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "xdmdGTrJ2nI",
-      "viewsPerHour": 35812,
-      "views": 680507,
-      "ageHours": 19
+      "viewsPerHour": 35235,
+      "views": 739932,
+      "ageHours": 21
     },
     {
       "title": "S13 E16: Iran Peace Deal & Feral Hogs: 6/21/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "PscLPIHmuNw",
-      "viewsPerHour": 13598,
-      "views": 593100,
-      "ageHours": 43.6
+      "viewsPerHour": 13208,
+      "views": 602468,
+      "ageHours": 45.6
+    },
+    {
+      "title": "How Millions of Americans Got Tricked Into Using a Bank That Isn't a Bank",
+      "channel": "More Perfect Union",
+      "videoId": "hiE7NvONU5U",
+      "viewsPerHour": 12803,
+      "views": 65095,
+      "ageHours": 5.1
+    },
+    {
+      "title": "{RESUMED} WILL CALIFORNIA KILL 3D PRINTING",
+      "channel": "Louis Rossmann",
+      "videoId": "bdNHNr7zZQ8",
+      "viewsPerHour": 5812,
+      "views": 11808,
+      "ageHours": 2
     },
     {
       "title": "Swiss newspaper calls me \"technically ignorant\", I tear Daniel Schurter to shreds",
       "channel": "Louis Rossmann",
       "videoId": "AA658IFkKa8",
-      "viewsPerHour": 4783,
-      "views": 158237,
-      "ageHours": 33.1
+      "viewsPerHour": 4586,
+      "views": 160880,
+      "ageHours": 35.1
     },
     {
       "title": "Conan Reacts To His \"Toy Story 5\" Smarty Pants Toy | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "aFAyb3dlMuA",
-      "viewsPerHour": 4327,
-      "views": 45939,
-      "ageHours": 10.6
+      "viewsPerHour": 4343,
+      "views": 54780,
+      "ageHours": 12.6
+    },
+    {
+      "title": "Relentless, UN-AMERICAN': Trump escalates attacks on the First Amendment to STARTLING new level",
+      "channel": "MS NOW",
+      "videoId": "-3ReOZ5vg3U",
+      "viewsPerHour": 4226,
+      "views": 10702,
+      "ageHours": 2.5
     },
     {
       "title": "Tamara Keith and Amy Walter on new rifts between Trump and GOP leaders over Iran",
       "channel": "PBS NewsHour",
       "videoId": "q0pC-21wtPs",
-      "viewsPerHour": 3602,
+      "viewsPerHour": 3315,
       "views": 83139,
-      "ageHours": 23.1
+      "ageHours": 25.1
     },
     {
       "title": "D.C. Reflecting Pool Gets Nastier, Vance Gets Cringier & Iran War Has World on Edge | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "S7AREiYHLzg",
-      "viewsPerHour": 3312,
-      "views": 69518,
-      "ageHours": 21
+      "viewsPerHour": 3174,
+      "views": 72961,
+      "ageHours": 23
     },
     {
       "title": "PBS News Hour full episode, June 22, 2026",
       "channel": "PBS NewsHour",
       "videoId": "Z_jByzA1wx4",
-      "viewsPerHour": 2394,
+      "viewsPerHour": 2202,
       "views": 54964,
-      "ageHours": 23
+      "ageHours": 25
+    },
+    {
+      "title": "Trump’s Epstein 'tell': DOJ helping trafficker’s ONLY convicted co-conspirator",
+      "channel": "MS NOW",
+      "videoId": "oxGdOJ9_dxQ",
+      "viewsPerHour": 2042,
+      "views": 6305,
+      "ageHours": 3.1
     },
     {
       "title": "If you thought flock was bad, check out Leonardo SignalTrace - this is stalking on a whole new level",
       "channel": "Louis Rossmann",
       "videoId": "eLxVdNKkjy4",
-      "viewsPerHour": 2021,
-      "views": 91741,
-      "ageHours": 45.4
-    },
-    {
-      "title": "LIVE FROM CALIFORNIA SENATE: 3D printer blocking tech bill",
-      "channel": "Louis Rossmann",
-      "videoId": "uDgksA8aAfU",
-      "viewsPerHour": 1839,
-      "views": 31106,
-      "ageHours": 16.9
+      "viewsPerHour": 1960,
+      "views": 92908,
+      "ageHours": 47.4
     },
     {
       "title": "Josh Groban (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Plq6OgKSvag",
-      "viewsPerHour": 1697,
-      "views": 60425,
-      "ageHours": 35.6
+      "viewsPerHour": 1646,
+      "views": 61884,
+      "ageHours": 37.6
+    },
+    {
+      "title": "LIVE FROM CALIFORNIA SENATE: 3D printer blocking tech bill",
+      "channel": "Louis Rossmann",
+      "videoId": "uDgksA8aAfU",
+      "viewsPerHour": 1645,
+      "views": 31106,
+      "ageHours": 18.9
+    },
+    {
+      "title": "PBS News Hour live episode, June 23, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "ar6iovNnVxE",
+      "viewsPerHour": 1400,
+      "views": 4375,
+      "ageHours": 3.1
     },
     {
       "title": "LIVE: See Trump’s Reflecting Pool DISASTER as crews race to fix MESS",
       "channel": "MS NOW",
       "videoId": "Gngep8YGt00",
-      "viewsPerHour": 1692,
+      "viewsPerHour": 1364,
       "views": 14061,
-      "ageHours": 8.3
+      "ageHours": 10.3
     },
     {
       "title": "Trump's pet projects leave Washington TRASHED",
       "channel": "MS NOW",
       "videoId": "i_6KAAX1EWw",
-      "viewsPerHour": 1498,
+      "viewsPerHour": 1341,
       "views": 25579,
-      "ageHours": 17.1
-    },
-    {
-      "title": "As THIN SKINNED and narcissistic as they come': Nicolle CALLS OUT Trump for tirade against press",
-      "channel": "MS NOW",
-      "videoId": "VLIs5_h8sUQ",
-      "viewsPerHour": 1179,
-      "views": 29026,
-      "ageHours": 24.6
+      "ageHours": 19.1
     },
     {
       "title": "We're going on tour ",
       "channel": "Louis Rossmann",
       "videoId": "rr-_zZnvGg4",
-      "viewsPerHour": 491,
-      "views": 10825,
-      "ageHours": 22
+      "viewsPerHour": 465,
+      "views": 11173,
+      "ageHours": 24
     },
     {
       "title": "“Lipstick on a very ugly pig”: How JD Vance became the public face of Trump’s Iran deal",
       "channel": "MS NOW",
       "videoId": "onNLiw_U5_w",
-      "viewsPerHour": 465,
+      "viewsPerHour": 401,
       "views": 5804,
-      "ageHours": 12.5
+      "ageHours": 14.5
     },
     {
-      "title": "Felt like another Bernie Madoff deal': Trump QUASHED criminal probe into fraudster's clemency",
-      "channel": "MS NOW",
-      "videoId": "FjK4Yd8EE1k",
-      "viewsPerHour": 361,
-      "views": 8949,
-      "ageHours": 24.8
-    },
-    {
-      "title": "WATCH LIVE: Blanche, RFK Jr. join other officials to tout latest actions to address healthcare fraud",
+      "title": "News Wrap: Supreme Court sides with Trump administration in deportations case",
       "channel": "PBS NewsHour",
-      "videoId": "aNdIva099WE",
-      "viewsPerHour": 355,
-      "views": 2433,
-      "ageHours": 6.8
-    },
-    {
-      "title": "Vance or Rubio? Two men 'vying to see' who is Trump's favorite: Fmr. Rep. Riggleman",
-      "channel": "MS NOW",
-      "videoId": "HIcsR8vX4uk",
-      "viewsPerHour": 321,
-      "views": 2031,
-      "ageHours": 6.3
-    },
-    {
-      "title": "Makes you question what type of economic reports Trump's been getting': GOP strategist",
-      "channel": "MS NOW",
-      "videoId": "K8JwbuygOtk",
-      "viewsPerHour": 314,
-      "views": 7947,
-      "ageHours": 25.3
+      "videoId": "XESEYOHciEk",
+      "viewsPerHour": 331,
+      "views": 679,
+      "ageHours": 2.1
     },
     {
       "title": "Josh Groban Almost Turned Down The Chance To Sing With Céline Dion | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "FLwScV--iKc",
-      "viewsPerHour": 311,
-      "views": 2370,
-      "ageHours": 7.6
+      "viewsPerHour": 304,
+      "views": 2918,
+      "ageHours": 9.6
+    },
+    {
+      "title": "WATCH LIVE: Blanche, RFK Jr. join other officials to tout latest actions to address healthcare fraud",
+      "channel": "PBS NewsHour",
+      "videoId": "aNdIva099WE",
+      "viewsPerHour": 275,
+      "views": 2433,
+      "ageHours": 8.8
+    },
+    {
+      "title": "Vance or Rubio? Two men 'vying to see' who is Trump's favorite: Fmr. Rep. Riggleman",
+      "channel": "MS NOW",
+      "videoId": "HIcsR8vX4uk",
+      "viewsPerHour": 244,
+      "views": 2031,
+      "ageHours": 8.3
     },
     {
       "title": "The Rachel Maddow Show - June 22 | Audio Only",
       "channel": "MS NOW",
       "videoId": "MCRka5YJGCo",
-      "viewsPerHour": 257,
+      "viewsPerHour": 226,
       "views": 3755,
-      "ageHours": 14.6
+      "ageHours": 16.6
     },
     {
       "title": "The scientist and his family tracking melting glaciers for nearly half a century",
       "channel": "PBS NewsHour",
       "videoId": "tNXLhEcK6ho",
-      "viewsPerHour": 199,
+      "viewsPerHour": 183,
       "views": 4599,
-      "ageHours": 23.1
-    },
-    {
-      "title": "PBS News Hour live episode, June 22, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "_FZ8iYcPXdw",
-      "viewsPerHour": 173,
-      "views": 4367,
-      "ageHours": 25.3
+      "ageHours": 25.1
     },
     {
       "title": "The Weightlifter His Country Wants You to Forget",
       "channel": "Real Stories",
       "videoId": "Z-Hnx_X3QPY",
-      "viewsPerHour": 131,
-      "views": 866,
-      "ageHours": 6.6
+      "viewsPerHour": 132,
+      "views": 1134,
+      "ageHours": 8.6
     },
     {
       "title": "WATCH LIVE: House considers final approval of landmark housing affordability bill",
       "channel": "PBS NewsHour",
       "videoId": "m6RQNFhkAHg",
-      "viewsPerHour": 101,
+      "viewsPerHour": 80,
       "views": 747,
-      "ageHours": 7.4
+      "ageHours": 9.4
+    },
+    {
+      "title": "A decade after Brexit, UK voters reflect on decision to break from European Union",
+      "channel": "PBS NewsHour",
+      "videoId": "ORpw_FIZu58",
+      "viewsPerHour": 77,
+      "views": 144,
+      "ageHours": 1.9
     },
     {
       "title": "Haberman and Swan detail Trump’s RETRIBUTION campaign and how the goal is “PAIN”",
       "channel": "MS NOW",
       "videoId": "NY8oRfRG-Y8",
-      "viewsPerHour": 60,
+      "viewsPerHour": 45,
       "views": 352,
-      "ageHours": 5.8
-    },
-    {
-      "title": "Plagued by algae and peeling paint, Reflecting Pool set to undergo more repairs",
-      "channel": "PBS NewsHour",
-      "videoId": "xZ7NmtJ6x4Q",
-      "viewsPerHour": 59,
-      "views": 1417,
-      "ageHours": 24
-    },
-    {
-      "title": "New Justice Department memo questions decades of protections for people with disabilities",
-      "channel": "PBS NewsHour",
-      "videoId": "cWV6LABu0T0",
-      "viewsPerHour": 7,
-      "views": 176,
-      "ageHours": 23.8
+      "ageHours": 7.8
     }
   ]
 }
