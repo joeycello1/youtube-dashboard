@@ -345,51 +345,6 @@
     "watched": false
   },
   {
-    "timestamp": "2026-06-22T23:39:27.000Z",
-    "firstSeen": "2026-06-23T10:56:35.003Z",
-    "title": "PBS News Hour full episode, June 22, 2026",
-    "videoUrl": "https://www.youtube.com/watch?v=Z_jByzA1wx4",
-    "channelName": "PBS NewsHour",
-    "summary": "Monday on the News Hour, the U.S. temporarily lifts sanctions on Iran as Vance says Tehran will allow U.N. nuclear inspectors back into the country. A look at the U.K.’s uncertain political future after Starmer resigns as prime minister. The life and legacy of the late Fed Chair Alan Greenspan. Plus",
-    "keyword": "PBS NewsHour",
-    "thumbnail": "https://i3.ytimg.com/vi/Z_jByzA1wx4/hqdefault.jpg",
-    "views": 54964,
-    "ratingAvg": 5,
-    "videoCategory": "NEWS",
-    "videoId": "Z_jByzA1wx4",
-    "watched": false
-  },
-  {
-    "timestamp": "2026-06-22T23:32:14.000Z",
-    "firstSeen": "2026-06-23T10:56:35.178Z",
-    "title": "Tamara Keith and Amy Walter on new rifts between Trump and GOP leaders over Iran",
-    "videoUrl": "https://www.youtube.com/watch?v=q0pC-21wtPs",
-    "channelName": "PBS NewsHour",
-    "summary": "NPR’s Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Nick Schifrin to discuss the latest political news, including new cracks in Trump’s relationship with GOP leaders on Capitol Hill opened by the Iran war, and Democrats facing their own family feud as New York’s prima",
-    "keyword": "PBS NewsHour",
-    "thumbnail": "https://i2.ytimg.com/vi/q0pC-21wtPs/hqdefault.jpg",
-    "views": 83139,
-    "ratingAvg": 5,
-    "videoCategory": "NEWS",
-    "videoId": "q0pC-21wtPs",
-    "watched": false
-  },
-  {
-    "timestamp": "2026-06-22T23:28:27.000Z",
-    "firstSeen": "2026-06-23T10:56:35.411Z",
-    "title": "The scientist and his family tracking melting glaciers for nearly half a century",
-    "videoUrl": "https://www.youtube.com/watch?v=tNXLhEcK6ho",
-    "channelName": "PBS NewsHour",
-    "summary": "The world’s glaciers are receding at an alarming rate, losing more than a trillion tons of ice a year. Fueled in part by climate change, it’s driving sea levels higher, which could threaten coastal communities around the world. One man, alongside his family, has seen the melt firsthand every year fo",
-    "keyword": "PBS NewsHour",
-    "thumbnail": "https://i1.ytimg.com/vi/tNXLhEcK6ho/hqdefault.jpg",
-    "views": 4599,
-    "ratingAvg": 5,
-    "videoCategory": "NEWS",
-    "videoId": "tNXLhEcK6ho",
-    "watched": false
-  },
-  {
     "timestamp": "2026-06-22T13:31:59.000Z",
     "firstSeen": "2026-06-22T16:57:11.867Z",
     "title": "Swiss newspaper calls me \"technically ignorant\", I tear Daniel Schurter to shreds",
@@ -582,7 +537,7 @@
     "ratingAvg": 5,
     "videoCategory": "UAP",
     "videoId": "Mz3MBWz8R-o",
-    "watched": false
+    "watched": true
   },
   {
     "timestamp": "2026-06-19T15:32:06.000Z",
@@ -1185,21 +1140,6 @@
     "watched": false
   },
   {
-    "timestamp": "2026-06-17T03:30:20.000Z",
-    "firstSeen": "2026-06-17T10:57:10.651Z",
-    "title": "Britt Lower - “I Will Find You” | The Daily Show",
-    "videoUrl": "https://www.youtube.com/watch?v=BJwSzGiDGss",
-    "channelName": "The Daily Show",
-    "summary": "Britt Lower sits down with Jordan Klepper to discuss her new Netflix series, “I Will Find You,” which she stars in alongside Sam Worthington. She attributes her on-screen chemistry with Worthington to their shared birthday and breaks down how she prepared for the role as a boots-on-the-ground report",
-    "keyword": "The Daily Show",
-    "thumbnail": "https://i3.ytimg.com/vi/BJwSzGiDGss/hqdefault.jpg",
-    "views": 60179,
-    "ratingAvg": 5,
-    "videoCategory": "ENT",
-    "videoId": "BJwSzGiDGss",
-    "watched": false
-  },
-  {
     "timestamp": "2026-06-17T02:30:26.000Z",
     "firstSeen": "2026-06-17T10:56:50.933Z",
     "title": "Fender guitar CEO is a case study in spotting manipulative psychopaths",
@@ -1212,21 +1152,6 @@
     "ratingAvg": 5,
     "videoCategory": "TECH",
     "videoId": "aHDFXX-Py8Y",
-    "watched": false
-  },
-  {
-    "timestamp": "2026-06-17T02:03:11.000Z",
-    "firstSeen": "2026-06-17T10:57:10.893Z",
-    "title": "Trump Autopens the Iran Deal, Lands a Res at G7 Summit & Spawns an Algae Conspiracy | The Daily Show",
-    "videoUrl": "https://www.youtube.com/watch?v=ICRtJp3AN1Q",
-    "channelName": "The Daily Show",
-    "summary": "The president showed up at the G7 summit to get presents and show off his finally final peace agreement with Iran, while planning to ditch the signing ceremony in favor of a dinner at his ultimate Pinterest inspo, Versailles. Plus, Trump’s $14 million project to fix the Lincoln Memorial Reflecting P",
-    "keyword": "The Daily Show",
-    "thumbnail": "https://i2.ytimg.com/vi/ICRtJp3AN1Q/hqdefault.jpg",
-    "views": 1747869,
-    "ratingAvg": 5,
-    "videoCategory": "ENT",
-    "videoId": "ICRtJp3AN1Q",
     "watched": false
   },
   {
@@ -2378,7 +2303,7 @@
     "summary": "Why are UFOs invisible to our current sensors? In this video, we dive into the intersection of evolutionary biology, biosemiotics, and the theories of Jacques Vallée and Donald Hoffman to explain the 'Control System' hypothesis. What is the UFO phenomenon, where does it come from, why is it here — a",
     "keyword": "UFO, UAP",
     "thumbnail": "https://i4.ytimg.com/vi/kSrKGS_UrhI/hqdefault.jpg",
-    "views": 49209,
+    "views": 49249,
     "ratingAvg": 5,
     "videoCategory": "UAP",
     "videoId": "kSrKGS_UrhI",
