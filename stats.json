@@ -392,7 +392,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "matches": 14
+      "matches": 13
     },
     {
       "keyword": "AI",
@@ -429,18 +429,6 @@
     {
       "keyword": "Jonathan Pie",
       "matches": 1
-    },
-    {
-      "keyword": "Associated Press",
-      "matches": 2
-    },
-    {
-      "keyword": "Reuters",
-      "matches": 1
-    },
-    {
-      "keyword": "Corbell, George Knapp",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -448,225 +436,217 @@
       "title": "Billionaire's WARNING: I'm SELLING Everything. The Crash Is Already Here!",
       "channel": "Diary of a CEO",
       "videoId": "32u5T6lO8qk",
-      "viewsPerHour": 123088,
-      "views": 1674554,
-      "ageHours": 13.6
+      "viewsPerHour": 125346,
+      "views": 1956132,
+      "ageHours": 15.6
     },
     {
       "title": "Mamdani’s Endorsements Sweep NY Primaries & World Cup Fans Can’t Get Enough Ranch | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "DQK8YqgbEsY",
-      "viewsPerHour": 58814,
-      "views": 1094728,
-      "ageHours": 18.6
+      "viewsPerHour": 55468,
+      "views": 1143453,
+      "ageHours": 20.6
     },
     {
       "title": "Trump Tries to Catch Reflecting Pool “Vandals” & Miami Gets a Scottish Takeover | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "GTHrD1LULcM",
-      "viewsPerHour": 41674,
-      "views": 1774961,
-      "ageHours": 42.6
+      "viewsPerHour": 40268,
+      "views": 1795684,
+      "ageHours": 44.6
     },
     {
       "title": "Offshoring Comes for Jobs at Brass Instrument Plant & Troy Iwata Goes Sad Trombone | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "cuSwyhQcHP0",
-      "viewsPerHour": 10336,
-      "views": 94163,
-      "ageHours": 9.1
+      "viewsPerHour": 9960,
+      "views": 110674,
+      "ageHours": 11.1
     },
     {
       "title": "UK Satire Law: Last Week Tonight with John Oliver (Bonus Segment)",
       "channel": "Last Week Tonight",
       "videoId": "fQhfUkJjoPM",
-      "viewsPerHour": 7994,
-      "views": 36793,
-      "ageHours": 4.6
+      "viewsPerHour": 8275,
+      "views": 54646,
+      "ageHours": 6.6
     },
     {
       "title": "Conan & Sona In Morocco (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "qDy5tKk8Cnk",
-      "viewsPerHour": 6549,
-      "views": 56386,
-      "ageHours": 8.6
+      "viewsPerHour": 6437,
+      "views": 68304,
+      "ageHours": 10.6
     },
     {
       "title": "Lewis Black Tackles Dangerous Exercise Trends, from Sword Yoga to Pistols & Pilates | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "mzbkV5yk9jI",
-      "viewsPerHour": 6414,
-      "views": 212480,
-      "ageHours": 33.1
+      "viewsPerHour": 6172,
+      "views": 216808,
+      "ageHours": 35.1
     },
     {
       "title": "Anthropic starts ID verification: this will get worse due to politics & complacency",
       "channel": "Louis Rossmann",
       "videoId": "ZswoGCiWggM",
-      "viewsPerHour": 5635,
-      "views": 40365,
-      "ageHours": 7.2
+      "viewsPerHour": 5351,
+      "views": 49042,
+      "ageHours": 9.2
     },
     {
       "title": "PBS News Hour full episode, June 24, 2026",
       "channel": "PBS NewsHour",
       "videoId": "LGvmo1LDg4A",
-      "viewsPerHour": 4125,
+      "viewsPerHour": 3762,
       "views": 85376,
-      "ageHours": 20.7
+      "ageHours": 22.7
     },
     {
       "title": "Will A 25 Year Old Space Pen Still Write?",
       "channel": "The Rest Is Science",
       "videoId": "3ALAF1_Kz7I",
-      "viewsPerHour": 3855,
-      "views": 82983,
-      "ageHours": 21.5
+      "viewsPerHour": 3722,
+      "views": 87578,
+      "ageHours": 23.5
     },
     {
       "title": "Jay Pharoah - “The Odyssey” & “The Quiz with Balls” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "FvzmpFmfzQ8",
-      "viewsPerHour": 2812,
-      "views": 48121,
-      "ageHours": 17.1
+      "viewsPerHour": 2661,
+      "views": 50853,
+      "ageHours": 19.1
     },
     {
       "title": "Meet the man working to save 3D Printing in California: David Tobin [FULL HIGH QUALITY]",
       "channel": "Louis Rossmann",
       "videoId": "sue88CXzPcQ",
-      "viewsPerHour": 1520,
-      "views": 23603,
-      "ageHours": 15.5
+      "viewsPerHour": 1485,
+      "views": 26041,
+      "ageHours": 17.5
     },
     {
       "title": "Lou Diamond Phillips - Honoring Indigenous Talent in “Gangland” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Lv7O9yuDjcY",
-      "viewsPerHour": 1431,
-      "views": 58776,
-      "ageHours": 41.1
+      "viewsPerHour": 1393,
+      "views": 60005,
+      "ageHours": 43.1
     },
     {
       "title": "Emilia Clarke Doesn't Get Recognized By \"Game Of Thrones\" Fans | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "fbST5CPCpYk",
-      "viewsPerHour": 1159,
-      "views": 6495,
-      "ageHours": 5.6
+      "viewsPerHour": 1127,
+      "views": 8572,
+      "ageHours": 7.6
     },
     {
       "title": "WATCH LIVE: Mullin testifies before House committee on DHS oversight",
       "channel": "PBS NewsHour",
       "videoId": "_crJisVrhoc",
-      "viewsPerHour": 1043,
+      "viewsPerHour": 708,
       "views": 4412,
-      "ageHours": 4.2
-    },
-    {
-      "title": "America lost': Immigration attorney slams SCOTUS TPS ruling",
-      "channel": "MS NOW",
-      "videoId": "igsIGl7jZUE",
-      "viewsPerHour": 863,
-      "views": 3734,
-      "ageHours": 4.3
+      "ageHours": 6.2
     },
     {
       "title": "‘LUNATIC!”: Trump cancels signing bipartisan housing bill sparking CHAOS and name-calling",
       "channel": "MS NOW",
       "videoId": "7TZwUI2ZoMM",
-      "viewsPerHour": 758,
+      "viewsPerHour": 637,
       "views": 8009,
-      "ageHours": 10.6
+      "ageHours": 12.6
+    },
+    {
+      "title": "America lost': Immigration attorney slams SCOTUS TPS ruling",
+      "channel": "MS NOW",
+      "videoId": "igsIGl7jZUE",
+      "viewsPerHour": 590,
+      "views": 3734,
+      "ageHours": 6.3
     },
     {
       "title": "Trump makes CONCERNING post thanking Americans for 'HIGHEST' poll numbers despite tanking approvals",
       "channel": "MS NOW",
       "videoId": "CHWiRrayQFw",
-      "viewsPerHour": 553,
+      "viewsPerHour": 507,
       "views": 12198,
-      "ageHours": 22
+      "ageHours": 24
     },
     {
       "title": "Edward Norton (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "OyyZRj4r43Q",
-      "viewsPerHour": 392,
-      "views": 12768,
-      "ageHours": 32.6
+      "viewsPerHour": 381,
+      "views": 13196,
+      "ageHours": 34.6
     },
     {
       "title": "Conan Subtly Auditions For The Next \"Jackass\" Movie | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ji-msMh385c",
-      "viewsPerHour": 346,
-      "views": 10238,
-      "ageHours": 29.6
+      "viewsPerHour": 335,
+      "views": 10595,
+      "ageHours": 31.6
     },
     {
       "title": "WATCH LIVE: Trump speaks at rally kicking off Great American State Fair",
       "channel": "PBS NewsHour",
       "videoId": "9jH_JKrJLdo",
-      "viewsPerHour": 339,
+      "viewsPerHour": 307,
       "views": 6481,
-      "ageHours": 19.1
+      "ageHours": 21.1
     },
     {
       "title": "\"Sinister guy with sinister motives\": New Trump BOMBSHELLS revealed",
       "channel": "MS NOW",
       "videoId": "aHw2t7iSTl8",
-      "viewsPerHour": 326,
+      "viewsPerHour": 216,
       "views": 1283,
-      "ageHours": 3.9
-    },
-    {
-      "title": "{RESUMED} WILL CALIFORNIA KILL 3D PRINTING",
-      "channel": "Louis Rossmann",
-      "videoId": "bdNHNr7zZQ8",
-      "viewsPerHour": 257,
-      "views": 11808,
-      "ageHours": 46
+      "ageHours": 5.9
     },
     {
       "title": "WATCH LIVE: House Freedom Caucus pushes for action on Save America Act",
       "channel": "PBS NewsHour",
       "videoId": "qLMJAJC7MBI",
-      "viewsPerHour": 238,
+      "viewsPerHour": 176,
       "views": 1357,
-      "ageHours": 5.7
+      "ageHours": 7.7
     },
     {
       "title": "PBS News Hour live episode, June 24, 2026",
       "channel": "PBS NewsHour",
       "videoId": "oH_-OqMsh6M",
-      "viewsPerHour": 187,
+      "viewsPerHour": 172,
       "views": 4371,
-      "ageHours": 23.4
+      "ageHours": 25.4
     },
     {
       "title": "Walter Isaacson on what he calls 'The Greatest Sentence Ever Written'",
       "channel": "PBS NewsHour",
       "videoId": "712ma53kkjQ",
-      "viewsPerHour": 162,
+      "viewsPerHour": 148,
       "views": 3459,
-      "ageHours": 21.4
+      "ageHours": 23.4
     },
     {
       "title": "MS NOW Highlights - June 25",
       "channel": "MS NOW",
       "videoId": "h5mIzKjfR4Y",
-      "viewsPerHour": 95,
+      "viewsPerHour": 79,
       "views": 963,
-      "ageHours": 10.1
+      "ageHours": 12.1
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - June 24 | Audio Only",
       "channel": "MS NOW",
       "videoId": "tIH3s48pm40",
-      "viewsPerHour": 78,
+      "viewsPerHour": 65,
       "views": 792,
-      "ageHours": 10.1
+      "ageHours": 12.1
     },
     {
       "title": "How the Trump administration is trying to reshape how elections are run",
@@ -674,7 +654,7 @@
       "videoId": "PuXjU8WKCA0",
       "viewsPerHour": 6,
       "views": 140,
-      "ageHours": 21.9
+      "ageHours": 23.9
     },
     {
       "title": "News Wrap: During Gulf nations tour, Rubio stresses Strait of Hormuz must remain open",
@@ -682,7 +662,7 @@
       "videoId": "DqBziUDnZcM",
       "viewsPerHour": 0,
       "views": 8,
-      "ageHours": 21.8
+      "ageHours": 23.8
     }
   ]
 }
