@@ -424,11 +424,11 @@
     },
     {
       "keyword": "Associated Press",
-      "matches": 6
+      "matches": 4
     },
     {
       "keyword": "Reuters",
-      "matches": 7
+      "matches": 4
     },
     {
       "keyword": "Corbell, George Knapp",
@@ -437,10 +437,6 @@
     {
       "keyword": "Corbell, UFO",
       "matches": 1
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -448,161 +444,161 @@
       "title": "Trump Tries to Catch Reflecting Pool “Vandals” & Miami Gets a Scottish Takeover | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "GTHrD1LULcM",
-      "viewsPerHour": 54706,
-      "views": 1674083,
-      "ageHours": 30.6
+      "viewsPerHour": 51732,
+      "views": 1686169,
+      "ageHours": 32.6
     },
     {
       "title": "How Millions of Americans Got Tricked Into Using a Bank That Isn't a Bank",
       "channel": "More Perfect Union",
       "videoId": "hiE7NvONU5U",
-      "viewsPerHour": 15650,
-      "views": 580476,
-      "ageHours": 37.1
+      "viewsPerHour": 15020,
+      "views": 587033,
+      "ageHours": 39.1
     },
     {
       "title": "Lewis Black Tackles Dangerous Exercise Trends, from Sword Yoga to Pistols & Pilates | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "mzbkV5yk9jI",
-      "viewsPerHour": 8675,
-      "views": 183363,
-      "ageHours": 21.1
+      "viewsPerHour": 8143,
+      "views": 188360,
+      "ageHours": 23.1
     },
     {
       "title": "Conan Reacts To His \"Toy Story 5\" Smarty Pants Toy | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "aFAyb3dlMuA",
-      "viewsPerHour": 2516,
-      "views": 112264,
-      "ageHours": 44.6
+      "viewsPerHour": 2432,
+      "views": 113385,
+      "ageHours": 46.6
     },
     {
       "title": "Lou Diamond Phillips - Honoring Indigenous Talent in “Gangland” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Lv7O9yuDjcY",
-      "viewsPerHour": 1821,
-      "views": 52995,
-      "ageHours": 29.1
+      "viewsPerHour": 1724,
+      "views": 53592,
+      "ageHours": 31.1
     },
     {
       "title": "Trump makes CONCERNING post thanking Americans for 'HIGHEST' poll numbers despite tanking approvals",
       "channel": "MS NOW",
       "videoId": "CHWiRrayQFw",
-      "viewsPerHour": 1213,
+      "viewsPerHour": 1013,
       "views": 12198,
-      "ageHours": 10.1
+      "ageHours": 12
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - June 23 | Audio Only",
       "channel": "MS NOW",
       "videoId": "QJl35Av4St0",
-      "viewsPerHour": 519,
+      "viewsPerHour": 484,
       "views": 14331,
-      "ageHours": 27.6
+      "ageHours": 29.6
     },
     {
       "title": "Edward Norton (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "OyyZRj4r43Q",
-      "viewsPerHour": 496,
-      "views": 10236,
-      "ageHours": 20.6
+      "viewsPerHour": 468,
+      "views": 10578,
+      "ageHours": 22.6
     },
     {
       "title": "Conan Subtly Auditions For The Next \"Jackass\" Movie | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ji-msMh385c",
-      "viewsPerHour": 484,
-      "views": 8521,
-      "ageHours": 17.6
-    },
-    {
-      "title": "PBS News Hour live episode, June 24, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "oH_-OqMsh6M",
-      "viewsPerHour": 384,
-      "views": 4371,
-      "ageHours": 11.4
+      "viewsPerHour": 450,
+      "views": 8823,
+      "ageHours": 19.6
     },
     {
       "title": "{RESUMED} WILL CALIFORNIA KILL 3D PRINTING",
       "channel": "Louis Rossmann",
       "videoId": "bdNHNr7zZQ8",
-      "viewsPerHour": 347,
+      "viewsPerHour": 328,
       "views": 11808,
-      "ageHours": 34
+      "ageHours": 36
+    },
+    {
+      "title": "PBS News Hour live episode, June 24, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "oH_-OqMsh6M",
+      "viewsPerHour": 327,
+      "views": 4371,
+      "ageHours": 13.4
     },
     {
       "title": "WATCH LIVE: House Democratic leaders hold briefing after progressive surge in NY primary races",
       "channel": "PBS NewsHour",
       "videoId": "50UzLMZvl6k",
-      "viewsPerHour": 179,
+      "viewsPerHour": 161,
       "views": 3092,
-      "ageHours": 17.2
-    },
-    {
-      "title": "WATCH: Johnson responds to Trump abruptly cancelling signing of landmark housing bill",
-      "channel": "PBS NewsHour",
-      "videoId": "2t-fBSGBvkY",
-      "viewsPerHour": 171,
-      "views": 2904,
-      "ageHours": 17
+      "ageHours": 19.2
     },
     {
       "title": "Josh Groban Almost Turned Down The Chance To Sing With Céline Dion | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "FLwScV--iKc",
-      "viewsPerHour": 160,
-      "views": 6665,
-      "ageHours": 41.6
+      "viewsPerHour": 155,
+      "views": 6755,
+      "ageHours": 43.6
+    },
+    {
+      "title": "WATCH: Johnson responds to Trump abruptly cancelling signing of landmark housing bill",
+      "channel": "PBS NewsHour",
+      "videoId": "2t-fBSGBvkY",
+      "viewsPerHour": 153,
+      "views": 2904,
+      "ageHours": 19
     },
     {
       "title": "Mamdani-backed candidates sweep NYC primaries",
       "channel": "MS NOW",
       "videoId": "jwffyJJ5hLE",
-      "viewsPerHour": 132,
+      "viewsPerHour": 121,
       "views": 2928,
-      "ageHours": 22.2
+      "ageHours": 24.2
     },
     {
       "title": "WATCH LIVE: House GOP leaders hold news conference after passing housing affordability bill",
       "channel": "PBS NewsHour",
       "videoId": "2Ci9VKQQQ70",
-      "viewsPerHour": 78,
+      "viewsPerHour": 70,
       "views": 1373,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "The Weightlifter His Country Wants You to Forget",
       "channel": "Real Stories",
       "videoId": "Z-Hnx_X3QPY",
-      "viewsPerHour": 61,
-      "views": 2491,
-      "ageHours": 40.6
+      "viewsPerHour": 59,
+      "views": 2523,
+      "ageHours": 42.6
     },
     {
       "title": "Lincoln, FDR & Eleanor Roosevelt: The New Republic’s MOST Influential Americans",
       "channel": "MS NOW",
       "videoId": "f5iEes4M_Ps",
-      "viewsPerHour": 34,
+      "viewsPerHour": 31,
       "views": 562,
-      "ageHours": 16.3
+      "ageHours": 18.3
     },
     {
       "title": "How the Trump administration is trying to reshape how elections are run",
       "channel": "PBS NewsHour",
       "videoId": "PuXjU8WKCA0",
-      "viewsPerHour": 14,
+      "viewsPerHour": 12,
       "views": 140,
-      "ageHours": 9.9
+      "ageHours": 11.9
     },
     {
       "title": "Voters 'need to see' changes on Gaza and corporate PACs: Brad Lander on how Dems can win House",
       "channel": "MS NOW",
       "videoId": "EO6zMERMBwc",
-      "viewsPerHour": 7,
+      "viewsPerHour": 6,
       "views": 111,
-      "ageHours": 15.8
+      "ageHours": 17.8
     },
     {
       "title": "Brad Lander: Will be one of the Jewish congressmen who 'fights the hardest for Palestinian rights'",
@@ -610,7 +606,7 @@
       "videoId": "6KlHj5rkoI8",
       "viewsPerHour": 2,
       "views": 33,
-      "ageHours": 15.7
+      "ageHours": 17.7
     },
     {
       "title": "News Wrap: During Gulf nations tour, Rubio stresses Strait of Hormuz must remain open",
@@ -618,7 +614,7 @@
       "videoId": "DqBziUDnZcM",
       "viewsPerHour": 1,
       "views": 8,
-      "ageHours": 9.8
+      "ageHours": 11.8
     },
     {
       "title": "Who Is The Greatest Film Duo of All Time? | Bley's Arcade",
@@ -626,7 +622,7 @@
       "videoId": "xfN5AX23v5Y",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 36.5
+      "ageHours": 38.5
     }
   ]
 }
