@@ -1,12 +1,20 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 8
+    },
+    {
       "channel": "MS NOW",
       "count": 6
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 8
+      "channel": "Real Stories",
+      "count": 21
+    },
+    {
+      "channel": "More Perfect Union",
+      "count": 7
     },
     {
       "channel": "Last Week Tonight",
@@ -22,7 +30,7 @@
     },
     {
       "channel": "The Daily Show",
-      "count": 14
+      "count": 13
     },
     {
       "channel": "Diary of a CEO",
@@ -31,14 +39,6 @@
     {
       "channel": "The Rest Is Science",
       "count": 5
-    },
-    {
-      "channel": "More Perfect Union",
-      "count": 6
-    },
-    {
-      "channel": "Real Stories",
-      "count": 20
     },
     {
       "channel": "Area 52",
@@ -79,12 +79,20 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "PBS NewsHour",
+      "count": 8
+    },
+    {
       "keyword": "MS NOW",
       "count": 6
     },
     {
-      "keyword": "PBS NewsHour",
+      "keyword": "Real Stories, Louis Theroux",
       "count": 8
+    },
+    {
+      "keyword": "More Perfect Union",
+      "count": 7
     },
     {
       "keyword": "Last Week Tonight",
@@ -100,7 +108,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "count": 14
+      "count": 13
     },
     {
       "keyword": "AI",
@@ -111,16 +119,8 @@
       "count": 5
     },
     {
-      "keyword": "More Perfect Union",
-      "count": 6
-    },
-    {
       "keyword": "Real Stories",
       "count": 12
-    },
-    {
-      "keyword": "Real Stories, Louis Theroux",
-      "count": 7
     },
     {
       "keyword": "Louis Rossmann, AI",
@@ -210,11 +210,11 @@
   "dailySummary": [
     {
       "date": "2026-06-25",
-      "videos": 17
+      "videos": 23
     },
     {
       "date": "2026-06-24",
-      "videos": 12
+      "videos": 8
     },
     {
       "date": "2026-06-23",
@@ -238,7 +238,7 @@
     },
     {
       "date": "2026-06-18",
-      "videos": 24
+      "videos": 23
     },
     {
       "date": "2026-06-17",
@@ -371,12 +371,20 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour",
+      "matches": 8
+    },
+    {
       "keyword": "MS NOW",
       "matches": 6
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 8
+      "keyword": "Real Stories, Louis Theroux",
+      "matches": 2
+    },
+    {
+      "keyword": "More Perfect Union",
+      "matches": 2
     },
     {
       "keyword": "Last Week Tonight",
@@ -403,16 +411,8 @@
       "matches": 2
     },
     {
-      "keyword": "More Perfect Union",
-      "matches": 1
-    },
-    {
       "keyword": "Real Stories",
       "matches": 2
-    },
-    {
-      "keyword": "Real Stories, Louis Theroux",
-      "matches": 1
     },
     {
       "keyword": "Louis Rossmann, AI",
@@ -436,233 +436,249 @@
       "title": "Billionaire's WARNING: I'm SELLING Everything. The Crash Is Already Here!",
       "channel": "Diary of a CEO",
       "videoId": "32u5T6lO8qk",
-      "viewsPerHour": 125346,
-      "views": 1956132,
-      "ageHours": 15.6
+      "viewsPerHour": 122821,
+      "views": 2163216,
+      "ageHours": 17.6
     },
     {
       "title": "Mamdani’s Endorsements Sweep NY Primaries & World Cup Fans Can’t Get Enough Ranch | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "DQK8YqgbEsY",
-      "viewsPerHour": 55468,
-      "views": 1143453,
-      "ageHours": 20.6
+      "viewsPerHour": 52446,
+      "views": 1186408,
+      "ageHours": 22.6
     },
     {
       "title": "Trump Tries to Catch Reflecting Pool “Vandals” & Miami Gets a Scottish Takeover | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "GTHrD1LULcM",
-      "viewsPerHour": 40268,
-      "views": 1795684,
-      "ageHours": 44.6
+      "viewsPerHour": 38936,
+      "views": 1814444,
+      "ageHours": 46.6
     },
     {
       "title": "Offshoring Comes for Jobs at Brass Instrument Plant & Troy Iwata Goes Sad Trombone | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "cuSwyhQcHP0",
-      "viewsPerHour": 9960,
-      "views": 110674,
-      "ageHours": 11.1
+      "viewsPerHour": 9400,
+      "views": 123308,
+      "ageHours": 13.1
+    },
+    {
+      "title": "We Uncovered A New Government Watchlist. Are You Their Next Target?",
+      "channel": "More Perfect Union",
+      "videoId": "RafuYcUolY4",
+      "viewsPerHour": 8906,
+      "views": 67751,
+      "ageHours": 7.6
     },
     {
       "title": "UK Satire Law: Last Week Tonight with John Oliver (Bonus Segment)",
       "channel": "Last Week Tonight",
       "videoId": "fQhfUkJjoPM",
-      "viewsPerHour": 8275,
-      "views": 54646,
-      "ageHours": 6.6
+      "viewsPerHour": 8335,
+      "views": 71768,
+      "ageHours": 8.6
     },
     {
       "title": "Conan & Sona In Morocco (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "qDy5tKk8Cnk",
-      "viewsPerHour": 6437,
-      "views": 68304,
-      "ageHours": 10.6
+      "viewsPerHour": 6295,
+      "views": 79435,
+      "ageHours": 12.6
     },
     {
       "title": "Lewis Black Tackles Dangerous Exercise Trends, from Sword Yoga to Pistols & Pilates | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "mzbkV5yk9jI",
-      "viewsPerHour": 6172,
-      "views": 216808,
-      "ageHours": 35.1
+      "viewsPerHour": 5945,
+      "views": 220763,
+      "ageHours": 37.1
     },
     {
       "title": "Anthropic starts ID verification: this will get worse due to politics & complacency",
       "channel": "Louis Rossmann",
       "videoId": "ZswoGCiWggM",
-      "viewsPerHour": 5351,
-      "views": 49042,
-      "ageHours": 9.2
-    },
-    {
-      "title": "PBS News Hour full episode, June 24, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "LGvmo1LDg4A",
-      "viewsPerHour": 3762,
-      "views": 85376,
-      "ageHours": 22.7
+      "viewsPerHour": 4939,
+      "views": 55178,
+      "ageHours": 11.2
     },
     {
       "title": "Will A 25 Year Old Space Pen Still Write?",
       "channel": "The Rest Is Science",
       "videoId": "3ALAF1_Kz7I",
-      "viewsPerHour": 3722,
-      "views": 87578,
-      "ageHours": 23.5
+      "viewsPerHour": 3625,
+      "views": 92555,
+      "ageHours": 25.5
+    },
+    {
+      "title": "PBS News Hour full episode, June 24, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "LGvmo1LDg4A",
+      "viewsPerHour": 3456,
+      "views": 85376,
+      "ageHours": 24.7
     },
     {
       "title": "Jay Pharoah - “The Odyssey” & “The Quiz with Balls” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "FvzmpFmfzQ8",
-      "viewsPerHour": 2661,
-      "views": 50853,
-      "ageHours": 19.1
+      "viewsPerHour": 2503,
+      "views": 52863,
+      "ageHours": 21.1
     },
     {
       "title": "Meet the man working to save 3D Printing in California: David Tobin [FULL HIGH QUALITY]",
       "channel": "Louis Rossmann",
       "videoId": "sue88CXzPcQ",
-      "viewsPerHour": 1485,
-      "views": 26041,
-      "ageHours": 17.5
+      "viewsPerHour": 1410,
+      "views": 27548,
+      "ageHours": 19.5
+    },
+    {
+      "title": "Louis Theroux Explores America's Million Dollar Newborn Baby Adoption Capital",
+      "channel": "Real Stories",
+      "videoId": "zBZ3WGrm4AM",
+      "viewsPerHour": 1390,
+      "views": 9195,
+      "ageHours": 6.6
     },
     {
       "title": "Lou Diamond Phillips - Honoring Indigenous Talent in “Gangland” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Lv7O9yuDjcY",
-      "viewsPerHour": 1393,
-      "views": 60005,
-      "ageHours": 43.1
+      "viewsPerHour": 1351,
+      "views": 60938,
+      "ageHours": 45.1
+    },
+    {
+      "title": "PBS News Hour live episode, June 25, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "jedR_8wu824",
+      "viewsPerHour": 1240,
+      "views": 4392,
+      "ageHours": 3.5
     },
     {
       "title": "Emilia Clarke Doesn't Get Recognized By \"Game Of Thrones\" Fans | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "fbST5CPCpYk",
-      "viewsPerHour": 1127,
-      "views": 8572,
-      "ageHours": 7.6
-    },
-    {
-      "title": "WATCH LIVE: Mullin testifies before House committee on DHS oversight",
-      "channel": "PBS NewsHour",
-      "videoId": "_crJisVrhoc",
-      "viewsPerHour": 708,
-      "views": 4412,
-      "ageHours": 6.2
+      "viewsPerHour": 1065,
+      "views": 10238,
+      "ageHours": 9.6
     },
     {
       "title": "‘LUNATIC!”: Trump cancels signing bipartisan housing bill sparking CHAOS and name-calling",
       "channel": "MS NOW",
       "videoId": "7TZwUI2ZoMM",
-      "viewsPerHour": 637,
+      "viewsPerHour": 550,
       "views": 8009,
-      "ageHours": 12.6
+      "ageHours": 14.6
+    },
+    {
+      "title": "WATCH LIVE: Mullin testifies before House committee on DHS oversight",
+      "channel": "PBS NewsHour",
+      "videoId": "_crJisVrhoc",
+      "viewsPerHour": 536,
+      "views": 4412,
+      "ageHours": 8.2
     },
     {
       "title": "America lost': Immigration attorney slams SCOTUS TPS ruling",
       "channel": "MS NOW",
       "videoId": "igsIGl7jZUE",
-      "viewsPerHour": 590,
+      "viewsPerHour": 448,
       "views": 3734,
-      "ageHours": 6.3
-    },
-    {
-      "title": "Trump makes CONCERNING post thanking Americans for 'HIGHEST' poll numbers despite tanking approvals",
-      "channel": "MS NOW",
-      "videoId": "CHWiRrayQFw",
-      "viewsPerHour": 507,
-      "views": 12198,
-      "ageHours": 24
+      "ageHours": 8.3
     },
     {
       "title": "Edward Norton (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "OyyZRj4r43Q",
-      "viewsPerHour": 381,
-      "views": 13196,
-      "ageHours": 34.6
+      "viewsPerHour": 370,
+      "views": 13560,
+      "ageHours": 36.6
     },
     {
       "title": "Conan Subtly Auditions For The Next \"Jackass\" Movie | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ji-msMh385c",
-      "viewsPerHour": 335,
-      "views": 10595,
-      "ageHours": 31.6
+      "viewsPerHour": 325,
+      "views": 10910,
+      "ageHours": 33.6
     },
     {
       "title": "WATCH LIVE: Trump speaks at rally kicking off Great American State Fair",
       "channel": "PBS NewsHour",
       "videoId": "9jH_JKrJLdo",
-      "viewsPerHour": 307,
+      "viewsPerHour": 280,
       "views": 6481,
-      "ageHours": 21.1
+      "ageHours": 23.1
     },
     {
       "title": "\"Sinister guy with sinister motives\": New Trump BOMBSHELLS revealed",
       "channel": "MS NOW",
       "videoId": "aHw2t7iSTl8",
-      "viewsPerHour": 216,
+      "viewsPerHour": 162,
       "views": 1283,
-      "ageHours": 5.9
+      "ageHours": 7.9
     },
     {
       "title": "WATCH LIVE: House Freedom Caucus pushes for action on Save America Act",
       "channel": "PBS NewsHour",
       "videoId": "qLMJAJC7MBI",
-      "viewsPerHour": 176,
+      "viewsPerHour": 140,
       "views": 1357,
-      "ageHours": 7.7
-    },
-    {
-      "title": "PBS News Hour live episode, June 24, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "oH_-OqMsh6M",
-      "viewsPerHour": 172,
-      "views": 4371,
-      "ageHours": 25.4
+      "ageHours": 9.7
     },
     {
       "title": "Walter Isaacson on what he calls 'The Greatest Sentence Ever Written'",
       "channel": "PBS NewsHour",
       "videoId": "712ma53kkjQ",
-      "viewsPerHour": 148,
+      "viewsPerHour": 136,
       "views": 3459,
-      "ageHours": 23.4
+      "ageHours": 25.4
+    },
+    {
+      "title": "Tracee Ellis Ross on making her Broadway debut in 'Every Brilliant Thing'",
+      "channel": "MS NOW",
+      "videoId": "TFgG7sz6Zjk",
+      "viewsPerHour": 74,
+      "views": 168,
+      "ageHours": 2.3
     },
     {
       "title": "MS NOW Highlights - June 25",
       "channel": "MS NOW",
       "videoId": "h5mIzKjfR4Y",
-      "viewsPerHour": 79,
+      "viewsPerHour": 68,
       "views": 963,
-      "ageHours": 12.1
+      "ageHours": 14.1
+    },
+    {
+      "title": "What science tells us about the health risks of Roundup",
+      "channel": "PBS NewsHour",
+      "videoId": "CCjt4eoQak8",
+      "viewsPerHour": 67,
+      "views": 128,
+      "ageHours": 1.9
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - June 24 | Audio Only",
       "channel": "MS NOW",
       "videoId": "tIH3s48pm40",
-      "viewsPerHour": 65,
+      "viewsPerHour": 56,
       "views": 792,
-      "ageHours": 12.1
+      "ageHours": 14.2
     },
     {
-      "title": "How the Trump administration is trying to reshape how elections are run",
+      "title": "U.S. moves to reassure Gulf allies after latest Strait of Hormuz shutdown",
       "channel": "PBS NewsHour",
-      "videoId": "PuXjU8WKCA0",
-      "viewsPerHour": 6,
-      "views": 140,
-      "ageHours": 23.9
-    },
-    {
-      "title": "News Wrap: During Gulf nations tour, Rubio stresses Strait of Hormuz must remain open",
-      "channel": "PBS NewsHour",
-      "videoId": "DqBziUDnZcM",
-      "viewsPerHour": 0,
-      "views": 8,
-      "ageHours": 23.8
+      "videoId": "bGfJ01fkmtk",
+      "viewsPerHour": 53,
+      "views": 93,
+      "ageHours": 1.8
     }
   ]
 }
