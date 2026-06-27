@@ -1,20 +1,20 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
+      "channel": "MS NOW",
       "count": 9
     },
     {
-      "channel": "MS NOW",
-      "count": 6
+      "channel": "PBS NewsHour",
+      "count": 8
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 24
     },
     {
       "channel": "Conan O'Brien",
       "count": 15
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 23
     },
     {
       "channel": "Area 52",
@@ -79,28 +79,24 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "MS NOW",
+      "count": 9
+    },
+    {
       "keyword": "PBS NewsHour",
       "count": 8
     },
     {
-      "keyword": "MS NOW",
-      "count": 6
+      "keyword": "Louis Rossmann",
+      "count": 21
     },
     {
       "keyword": "Conan O'Brien",
       "count": 15
     },
     {
-      "keyword": "Louis Rossmann",
-      "count": 20
-    },
-    {
       "keyword": "UFO",
       "count": 3
-    },
-    {
-      "keyword": "PBS NewsHour, AI, artificial intelligence",
-      "count": 1
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -197,12 +193,16 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-06-27",
+      "videos": 5
+    },
+    {
       "date": "2026-06-26",
-      "videos": 19
+      "videos": 18
     },
     {
       "date": "2026-06-25",
-      "videos": 12
+      "videos": 11
     },
     {
       "date": "2026-06-24",
@@ -359,27 +359,23 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "MS NOW",
+      "matches": 9
+    },
+    {
       "keyword": "PBS NewsHour",
       "matches": 8
     },
     {
-      "keyword": "MS NOW",
-      "matches": 6
+      "keyword": "Louis Rossmann",
+      "matches": 10
     },
     {
       "keyword": "Conan O'Brien",
       "matches": 10
     },
     {
-      "keyword": "Louis Rossmann",
-      "matches": 9
-    },
-    {
       "keyword": "UFO",
-      "matches": 1
-    },
-    {
-      "keyword": "PBS NewsHour, AI, artificial intelligence",
       "matches": 1
     },
     {
@@ -420,225 +416,241 @@
       "title": "Billionaire's WARNING: I'm SELLING Everything. The Crash Is Already Here!",
       "channel": "Diary of a CEO",
       "videoId": "32u5T6lO8qk",
-      "viewsPerHour": 88810,
-      "views": 4023380,
-      "ageHours": 45.3
+      "viewsPerHour": 86990,
+      "views": 4113209,
+      "ageHours": 47.3
     },
     {
       "title": "Bob Lazar & Travis Walton Meet for the First Time - The Flying Saucer Diner",
       "channel": "Area 52",
       "videoId": "vxumcYKCt-M",
-      "viewsPerHour": 26299,
-      "views": 323627,
-      "ageHours": 12.3
+      "viewsPerHour": 25984,
+      "views": 371207,
+      "ageHours": 14.3
     },
     {
       "title": "Offshoring Comes for Jobs at Brass Instrument Plant & Troy Iwata Goes Sad Trombone | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "cuSwyhQcHP0",
-      "viewsPerHour": 6244,
-      "views": 254807,
-      "ageHours": 40.8
+      "viewsPerHour": 6035,
+      "views": 258238,
+      "ageHours": 42.8
     },
     {
       "title": "UK Satire Law: Last Week Tonight with John Oliver (Bonus Segment)",
       "channel": "Last Week Tonight",
       "videoId": "fQhfUkJjoPM",
-      "viewsPerHour": 5973,
-      "views": 216832,
-      "ageHours": 36.3
+      "viewsPerHour": 5867,
+      "views": 224585,
+      "ageHours": 38.3
     },
     {
       "title": "Conan Reacts To TikTok Thirst Edits Of His \"Toy Story 5\" Character | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "CaTj8KxatM0",
-      "viewsPerHour": 4750,
-      "views": 30204,
-      "ageHours": 6.4
+      "viewsPerHour": 4714,
+      "views": 39304,
+      "ageHours": 8.3
     },
     {
       "title": "We Uncovered A New Government Watchlist. Are You Their Next Target?",
       "channel": "More Perfect Union",
       "videoId": "RafuYcUolY4",
-      "viewsPerHour": 4397,
-      "views": 155194,
-      "ageHours": 35.3
+      "viewsPerHour": 4228,
+      "views": 157608,
+      "ageHours": 37.3
     },
     {
-      "title": "Google search lies by default: this is worse than useless...",
-      "channel": "Louis Rossmann",
-      "videoId": "u3E8OkebOqo",
-      "viewsPerHour": 4155,
-      "views": 38143,
-      "ageHours": 9.2
+      "title": "PBS News Hour full episode, June 26, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "6ZkkII3fhM4",
+      "viewsPerHour": 4044,
+      "views": 23271,
+      "ageHours": 5.8
     },
     {
       "title": "Conan & Sona In Morocco (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "qDy5tKk8Cnk",
-      "viewsPerHour": 3933,
-      "views": 158535,
-      "ageHours": 40.3
+      "viewsPerHour": 3842,
+      "views": 162478,
+      "ageHours": 42.3
+    },
+    {
+      "title": "Google search lies by default: this is worse than useless...",
+      "channel": "Louis Rossmann",
+      "videoId": "u3E8OkebOqo",
+      "viewsPerHour": 3748,
+      "views": 41834,
+      "ageHours": 11.2
+    },
+    {
+      "title": "Taylor Texas City park becomes a Datacenter: what the f",
+      "channel": "Louis Rossmann",
+      "videoId": "_r_OBG4Qijw",
+      "viewsPerHour": 3227,
+      "views": 23804,
+      "ageHours": 7.4
     },
     {
       "title": "Anthropic starts ID verification: this will get worse due to politics & complacency",
       "channel": "Louis Rossmann",
       "videoId": "ZswoGCiWggM",
-      "viewsPerHour": 2371,
-      "views": 92127,
-      "ageHours": 38.9
+      "viewsPerHour": 2270,
+      "views": 92720,
+      "ageHours": 40.8
     },
     {
       "title": "Sona Scammed Conan Into Taking Her To Morocco | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Az9klFKUVvU",
-      "viewsPerHour": 2226,
-      "views": 36290,
-      "ageHours": 16.3
+      "viewsPerHour": 2083,
+      "views": 38075,
+      "ageHours": 18.3
     },
     {
-      "title": "News Wrap: NPS official claims Reflecting Pool liner cut with knife or razor",
-      "channel": "PBS NewsHour",
-      "videoId": "n7It7sAEqfE",
-      "viewsPerHour": 1799,
-      "views": 51187,
-      "ageHours": 28.4
+      "title": "MS NOW EXCLUSIVE | AOC warns Dems on new progressive candidates: Hear them out.",
+      "channel": "MS NOW",
+      "videoId": "r_Du_-vrQXU",
+      "viewsPerHour": 1861,
+      "views": 3331,
+      "ageHours": 1.8
     },
     {
       "title": "Dark soul': Nicolle and Tim Miller SLAM Megyn Kelly for CHEERING removal of Haitian migrants",
       "channel": "MS NOW",
       "videoId": "WvsgPpeOHpg",
-      "viewsPerHour": 1392,
+      "viewsPerHour": 1067,
       "views": 9060,
-      "ageHours": 6.5
-    },
-    {
-      "title": "PBS News Hour full episode, June 25, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "Dcg-xPDCVAg",
-      "viewsPerHour": 1118,
-      "views": 31132,
-      "ageHours": 27.9
-    },
-    {
-      "title": "Meet the man working to save 3D Printing in California: David Tobin [FULL HIGH QUALITY]",
-      "channel": "Louis Rossmann",
-      "videoId": "sue88CXzPcQ",
-      "viewsPerHour": 924,
-      "views": 43659,
-      "ageHours": 47.2
+      "ageHours": 8.5
     },
     {
       "title": "Louis Theroux Explores America's Million Dollar Newborn Baby Adoption Capital",
       "channel": "Real Stories",
       "videoId": "zBZ3WGrm4AM",
-      "viewsPerHour": 788,
-      "views": 27048,
-      "ageHours": 34.3
+      "viewsPerHour": 781,
+      "views": 28348,
+      "ageHours": 36.3
     },
     {
       "title": "Emilia Clarke Doesn't Get Recognized By \"Game Of Thrones\" Fans | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "fbST5CPCpYk",
-      "viewsPerHour": 748,
-      "views": 27919,
-      "ageHours": 37.3
+      "viewsPerHour": 738,
+      "views": 28985,
+      "ageHours": 39.3
     },
     {
       "title": "3D printer talk in the park with awesome people",
       "channel": "Louis Rossmann",
       "videoId": "sxPjuJzqJnk",
-      "viewsPerHour": 690,
-      "views": 11496,
-      "ageHours": 16.7
+      "viewsPerHour": 637,
+      "views": 11865,
+      "ageHours": 18.6
+    },
+    {
+      "title": "Capehart: A day that showed the ‘pinnacle of what America could be’",
+      "channel": "MS NOW",
+      "videoId": "BhoqOgGSSns",
+      "viewsPerHour": 533,
+      "views": 1176,
+      "ageHours": 2.2
     },
     {
       "title": "PBS News Hour live episode, June 26, 2026",
       "channel": "PBS NewsHour",
       "videoId": "Z9rlfhR6EcM",
-      "viewsPerHour": 617,
+      "viewsPerHour": 478,
       "views": 4220,
-      "ageHours": 6.8
+      "ageHours": 8.8
+    },
+    {
+      "title": "Vance accidentally admits that Trump is way worse than Nixon",
+      "channel": "MS NOW",
+      "videoId": "3CwbYwvJ4ds",
+      "viewsPerHour": 430,
+      "views": 696,
+      "ageHours": 1.6
+    },
+    {
+      "title": "Remembering Tony Brown",
+      "channel": "PBS NewsHour",
+      "videoId": "V_G2EL-XKUk",
+      "viewsPerHour": 252,
+      "views": 1402,
+      "ageHours": 5.6
     },
     {
       "title": "Trump’s Iran war has 'struggling' American farmers fearing bankruptcy",
       "channel": "MS NOW",
       "videoId": "x5AippgkDt8",
-      "viewsPerHour": 185,
+      "viewsPerHour": 139,
       "views": 1100,
-      "ageHours": 6
+      "ageHours": 7.9
     },
     {
       "title": "U.S. strikes Iran after drones targets cargo ship in Strait of Hormuz",
       "channel": "PBS NewsHour",
       "videoId": "yX6cmr3vi6Q",
-      "viewsPerHour": 163,
+      "viewsPerHour": 121,
       "views": 936,
-      "ageHours": 5.7
+      "ageHours": 7.7
     },
     {
       "title": "WATCH LIVE: Faith and Freedom Coalition Policy Conference features Trump administration officials",
       "channel": "PBS NewsHour",
       "videoId": "PB_ZDlDWBms",
-      "viewsPerHour": 107,
+      "viewsPerHour": 94,
       "views": 1584,
-      "ageHours": 14.8
+      "ageHours": 16.8
     },
     {
       "title": "ICE protesters sentenced to up to 100 years in prison by Trump-appointed judge",
       "channel": "MS NOW",
       "videoId": "ncD66jfeSVc",
-      "viewsPerHour": 101,
+      "viewsPerHour": 86,
       "views": 1173,
-      "ageHours": 11.7
+      "ageHours": 13.6
     },
     {
       "title": "Trump's TPS policy is a 'job killer' and bad for Ohio, Gov. DeWine says",
       "channel": "PBS NewsHour",
       "videoId": "c5BxWOOK0qs",
-      "viewsPerHour": 70,
+      "viewsPerHour": 52,
       "views": 406,
-      "ageHours": 5.8
-    },
-    {
-      "title": "WATCH: Trump hosts Rose Garden dinner for American farmers and ranchers",
-      "channel": "PBS NewsHour",
-      "videoId": "5o50lXTiXfY",
-      "viewsPerHour": 55,
-      "views": 1489,
-      "ageHours": 27.1
+      "ageHours": 7.8
     },
     {
       "title": "Behind Trump’s last-ditch effort to pass a voter suppression bill",
       "channel": "MS NOW",
       "videoId": "ktXnaEANMAE",
-      "viewsPerHour": 39,
+      "viewsPerHour": 35,
       "views": 681,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
       "title": "Trump’s Supreme Court immigration wins “puts people in JEOPARDY”: Rep. Pappas",
       "channel": "MS NOW",
       "videoId": "rid7RIlWZrU",
-      "viewsPerHour": 37,
+      "viewsPerHour": 33,
       "views": 651,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
       "title": "MS NOW Highlights - June 25",
       "channel": "MS NOW",
       "videoId": "PxDS6Ige5sE",
-      "viewsPerHour": 21,
+      "viewsPerHour": 19,
       "views": 372,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
       "title": "WATCH: Dr. Oz speaks at Faith and Freedom Coalition Policy Conference",
       "channel": "PBS NewsHour",
       "videoId": "Am3zqv7qNzw",
-      "viewsPerHour": 13,
+      "viewsPerHour": 12,
       "views": 183,
-      "ageHours": 13.8
+      "ageHours": 15.8
     },
     {
       "title": "How the Iran war and peace talks are straining the U.S.-Israel alliance",
@@ -646,7 +658,7 @@
       "videoId": "9fukRfsO2mY",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 12.5
+      "ageHours": 14.5
     }
   ]
 }
