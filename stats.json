@@ -1,60 +1,8 @@
 {
   "videosPerChannel": [
     {
-      "channel": "Area 52",
-      "count": 6
-    },
-    {
-      "channel": "Chris Lehto",
-      "count": 1
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 15
-    },
-    {
-      "channel": "Diary of a CEO",
-      "count": 2
-    },
-    {
-      "channel": "Inside AI",
-      "count": 3
-    },
-    {
-      "channel": "Jeremy Corbell",
-      "count": 4
-    },
-    {
-      "channel": "Jonathan Pie",
-      "count": 4
-    },
-    {
-      "channel": "Last Week Tonight",
-      "count": 6
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 24
-    },
-    {
-      "channel": "More Perfect Union",
-      "count": 7
-    },
-    {
       "channel": "MS NOW",
-      "count": 8
-    },
-    {
-      "channel": "NOVA",
-      "count": 7
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 8
-    },
-    {
-      "channel": "Real Stories",
-      "count": 21
+      "count": 9
     },
     {
       "channel": "The Daily Show",
@@ -62,41 +10,129 @@
     },
     {
       "channel": "The Interview",
+      "count": 6
+    },
+    {
+      "channel": "PBS NewsHour",
       "count": 5
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 24
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 13
+    },
+    {
+      "channel": "Area 52",
+      "count": 6
+    },
+    {
+      "channel": "Real Stories",
+      "count": 21
+    },
+    {
+      "channel": "More Perfect Union",
+      "count": 7
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 6
+    },
+    {
+      "channel": "Diary of a CEO",
+      "count": 2
     },
     {
       "channel": "The Rest Is Science",
       "count": 4
+    },
+    {
+      "channel": "Jonathan Pie",
+      "count": 4
+    },
+    {
+      "channel": "Jeremy Corbell",
+      "count": 4
+    },
+    {
+      "channel": "NOVA",
+      "count": 7
+    },
+    {
+      "channel": "Inside AI",
+      "count": 3
+    },
+    {
+      "channel": "Chris Lehto",
+      "count": 1
     }
   ],
   "keywordFrequency": [
+    {
+      "keyword": "MS NOW",
+      "count": 9
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 10
+    },
+    {
+      "keyword": "The Interview",
+      "count": 6
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 5
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 21
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 13
+    },
     {
       "keyword": "UFO",
       "count": 3
     },
     {
-      "keyword": "testimony, UFO, Giza",
-      "count": 1
+      "keyword": "Real Stories, Louis Theroux",
+      "count": 8
     },
     {
-      "keyword": "anomalous, UFO",
-      "count": 1
+      "keyword": "More Perfect Union",
+      "count": 7
     },
     {
-      "keyword": "Corbell, AARO, UAP, UFO, whistleblower",
-      "count": 1
-    },
-    {
-      "keyword": "UFO, UAP",
-      "count": 1
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 15
+      "keyword": "Last Week Tonight",
+      "count": 6
     },
     {
       "keyword": "AI",
       "count": 5
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "count": 4
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 12
+    },
+    {
+      "keyword": "Louis Rossmann, AI",
+      "count": 2
+    },
+    {
+      "keyword": "Louis Rossmann, Samsung",
+      "count": 1
+    },
+    {
+      "keyword": "Jonathan Pie",
+      "count": 4
     },
     {
       "keyword": "Corbell, George Knapp",
@@ -104,6 +140,18 @@
     },
     {
       "keyword": "Corbell, UFO",
+      "count": 1
+    },
+    {
+      "keyword": "NOVA",
+      "count": 7
+    },
+    {
+      "keyword": "testimony, UFO, Giza",
+      "count": 1
+    },
+    {
+      "keyword": "Real Stories, UFO",
       "count": 1
     },
     {
@@ -115,94 +163,26 @@
       "count": 1
     },
     {
-      "keyword": "Jonathan Pie",
-      "count": 4
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "count": 6
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 21
-    },
-    {
-      "keyword": "Louis Rossmann, AI",
-      "count": 2
-    },
-    {
-      "keyword": "Louis Rossmann, Samsung",
+      "keyword": "anomalous, UFO",
       "count": 1
     },
     {
-      "keyword": "More Perfect Union",
-      "count": 7
-    },
-    {
-      "keyword": "MS NOW",
-      "count": 8
-    },
-    {
-      "keyword": "NOVA",
-      "count": 7
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 8
-    },
-    {
-      "keyword": "Real Stories, Louis Theroux",
-      "count": 8
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 12
-    },
-    {
-      "keyword": "Real Stories, UFO",
+      "keyword": "UFO, UAP",
       "count": 1
     },
     {
-      "keyword": "The Daily Show",
-      "count": 10
-    },
-    {
-      "keyword": "The Interview",
-      "count": 5
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "count": 4
+      "keyword": "Corbell, AARO, UAP, UFO, whistleblower",
+      "count": 1
     }
   ],
   "dailySummary": [
     {
+      "date": "2026-06-27",
+      "videos": 11
+    },
+    {
       "date": "2026-06-26",
-      "videos": 15
-    },
-    {
-      "date": "2026-06-19",
-      "videos": 4
-    },
-    {
-      "date": "2026-06-12",
-      "videos": 1
-    },
-    {
-      "date": "2026-06-05",
-      "videos": 3
-    },
-    {
-      "date": "2026-05-29",
-      "videos": 2
-    },
-    {
-      "date": "2026-05-15",
-      "videos": 1
-    },
-    {
-      "date": "2026-05-25",
-      "videos": 1
+      "videos": 11
     },
     {
       "date": "2026-06-25",
@@ -221,43 +201,23 @@
       "videos": 5
     },
     {
+      "date": "2026-06-21",
+      "videos": 2
+    },
+    {
+      "date": "2026-06-20",
+      "videos": 3
+    },
+    {
+      "date": "2026-06-19",
+      "videos": 4
+    },
+    {
       "date": "2026-06-18",
       "videos": 10
     },
     {
       "date": "2026-06-17",
-      "videos": 6
-    },
-    {
-      "date": "2026-06-14",
-      "videos": 5
-    },
-    {
-      "date": "2026-04-09",
-      "videos": 1
-    },
-    {
-      "date": "2026-03-03",
-      "videos": 1
-    },
-    {
-      "date": "2026-06-04",
-      "videos": 2
-    },
-    {
-      "date": "2026-05-14",
-      "videos": 1
-    },
-    {
-      "date": "2026-04-30",
-      "videos": 1
-    },
-    {
-      "date": "2026-06-15",
-      "videos": 5
-    },
-    {
-      "date": "2026-06-20",
       "videos": 4
     },
     {
@@ -265,8 +225,24 @@
       "videos": 2
     },
     {
+      "date": "2026-06-15",
+      "videos": 5
+    },
+    {
+      "date": "2026-06-14",
+      "videos": 5
+    },
+    {
       "date": "2026-06-13",
       "videos": 4
+    },
+    {
+      "date": "2026-06-12",
+      "videos": 1
+    },
+    {
+      "date": "2026-06-11",
+      "videos": 2
     },
     {
       "date": "2026-06-10",
@@ -277,15 +253,19 @@
       "videos": 3
     },
     {
-      "date": "2026-06-02",
+      "date": "2026-06-07",
       "videos": 2
     },
     {
-      "date": "2026-06-27",
-      "videos": 7
+      "date": "2026-06-06",
+      "videos": 1
     },
     {
-      "date": "2026-06-11",
+      "date": "2026-06-05",
+      "videos": 3
+    },
+    {
+      "date": "2026-06-04",
       "videos": 2
     },
     {
@@ -293,8 +273,20 @@
       "videos": 1
     },
     {
+      "date": "2026-06-02",
+      "videos": 2
+    },
+    {
       "date": "2026-06-01",
       "videos": 1
+    },
+    {
+      "date": "2026-05-31",
+      "videos": 1
+    },
+    {
+      "date": "2026-05-29",
+      "videos": 2
     },
     {
       "date": "2026-05-28",
@@ -305,23 +297,11 @@
       "videos": 1
     },
     {
-      "date": "2026-06-21",
-      "videos": 2
-    },
-    {
-      "date": "2026-06-07",
-      "videos": 2
-    },
-    {
-      "date": "2026-06-06",
-      "videos": 1
-    },
-    {
-      "date": "2026-05-31",
-      "videos": 1
-    },
-    {
       "date": "2026-05-26",
+      "videos": 1
+    },
+    {
+      "date": "2026-05-25",
       "videos": 1
     },
     {
@@ -329,260 +309,268 @@
       "videos": 1
     },
     {
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "videos": 1
     },
     {
-      "date": "2026-05-23",
+      "date": "2026-05-22",
       "videos": 1
     },
     {
       "date": "2026-05-16",
       "videos": 1
+    },
+    {
+      "date": "2026-05-15",
+      "videos": 1
+    },
+    {
+      "date": "2026-05-14",
+      "videos": 1
+    },
+    {
+      "date": "2026-04-30",
+      "videos": 1
+    },
+    {
+      "date": "2026-04-09",
+      "videos": 1
+    },
+    {
+      "date": "2026-03-03",
+      "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "UFO",
-      "matches": 1
+      "keyword": "MS NOW",
+      "matches": 9
     },
     {
-      "keyword": "Conan O'Brien",
+      "keyword": "The Daily Show",
       "matches": 10
     },
     {
-      "keyword": "AI",
+      "keyword": "The Interview",
       "matches": 1
     },
     {
-      "keyword": "Last Week Tonight",
-      "matches": 3
+      "keyword": "PBS NewsHour",
+      "matches": 5
     },
     {
       "keyword": "Louis Rossmann",
       "matches": 10
     },
     {
-      "keyword": "More Perfect Union",
-      "matches": 2
+      "keyword": "Conan O'Brien",
+      "matches": 10
     },
     {
-      "keyword": "MS NOW",
-      "matches": 8
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 8
+      "keyword": "UFO",
+      "matches": 1
     },
     {
       "keyword": "Real Stories, Louis Theroux",
       "matches": 2
     },
     {
-      "keyword": "Real Stories",
-      "matches": 1
+      "keyword": "More Perfect Union",
+      "matches": 2
     },
     {
-      "keyword": "The Daily Show",
-      "matches": 9
+      "keyword": "Last Week Tonight",
+      "matches": 3
+    },
+    {
+      "keyword": "AI",
+      "matches": 1
     },
     {
       "keyword": "The Rest Is Science",
       "matches": 2
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 1
     }
   ],
   "mostViral48h": [
     {
+      "title": "Jon Stewart on the Botched Iran Deal & Josh Johnson on Trump's Reflecting Pool War | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "nskLO6fSRDw",
+      "viewsPerHour": 34766,
+      "views": 183882,
+      "ageHours": 5.3
+    },
+    {
       "title": "Bob Lazar & Travis Walton Meet for the First Time - The Flying Saucer Diner",
       "channel": "Area 52",
       "videoId": "vxumcYKCt-M",
-      "viewsPerHour": 21809,
-      "views": 529868,
-      "ageHours": 24.3
+      "viewsPerHour": 20911,
+      "views": 549827,
+      "ageHours": 26.3
     },
     {
       "title": "Report ties Trump's GREEN POOL GOOP to his UFC birthday bash",
       "channel": "MS NOW",
       "videoId": "pyXi0_sSnvQ",
-      "viewsPerHour": 9047,
+      "viewsPerHour": 7657,
       "views": 99563,
-      "ageHours": 11
-    },
-    {
-      "title": "We Uncovered A New Government Watchlist. Are You Their Next Target?",
-      "channel": "More Perfect Union",
-      "videoId": "RafuYcUolY4",
-      "viewsPerHour": 3584,
-      "views": 169471,
-      "ageHours": 47.3
+      "ageHours": 13
     },
     {
       "title": "Conan Reacts To TikTok Thirst Edits Of His \"Toy Story 5\" Character | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "CaTj8KxatM0",
-      "viewsPerHour": 2998,
+      "viewsPerHour": 2704,
       "views": 55006,
-      "ageHours": 18.3
+      "ageHours": 20.3
     },
     {
       "title": "Google search lies by default: this is worse than useless...",
       "channel": "Louis Rossmann",
       "videoId": "u3E8OkebOqo",
-      "viewsPerHour": 2470,
+      "viewsPerHour": 2257,
       "views": 52299,
-      "ageHours": 21.2
+      "ageHours": 23.2
     },
     {
       "title": "Taylor Texas City park becomes a Datacenter: what the f",
       "channel": "Louis Rossmann",
       "videoId": "_r_OBG4Qijw",
-      "viewsPerHour": 2250,
+      "viewsPerHour": 2018,
       "views": 39128,
-      "ageHours": 17.4
+      "ageHours": 19.4
     },
     {
-      "title": "PBS News Hour full episode, June 26, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "6ZkkII3fhM4",
-      "viewsPerHour": 1476,
-      "views": 23271,
-      "ageHours": 15.8
+      "title": "‘Fear of cultural replacement at the heart of MAGA’: SCOTUS rules against protections for migrants",
+      "channel": "MS NOW",
+      "videoId": "uKRbtWoW05Y",
+      "viewsPerHour": 1465,
+      "views": 3767,
+      "ageHours": 2.6
     },
     {
       "title": "Sona Scammed Conan Into Taking Her To Morocco | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Az9klFKUVvU",
-      "viewsPerHour": 1467,
+      "viewsPerHour": 1371,
       "views": 41518,
-      "ageHours": 28.3
+      "ageHours": 30.3
+    },
+    {
+      "title": "PBS News Hour full episode, June 26, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "6ZkkII3fhM4",
+      "viewsPerHour": 1310,
+      "views": 23271,
+      "ageHours": 17.8
+    },
+    {
+      "title": "Robby Hoffman: Growing Up Poor Never Leaves You | The Interview",
+      "channel": "The Interview",
+      "videoId": "GNPDXbpaXlE",
+      "viewsPerHour": 1250,
+      "views": 6939,
+      "ageHours": 5.5
+    },
+    {
+      "title": "‘We need this help’: Mayors stress importance of bipartisan housing bill as Trump refuses to sign it",
+      "channel": "MS NOW",
+      "videoId": "11SaynecZZ4",
+      "viewsPerHour": 836,
+      "views": 2140,
+      "ageHours": 2.6
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - June 26 | Audio Only",
       "channel": "MS NOW",
       "videoId": "E39W34UFm3M",
-      "viewsPerHour": 727,
+      "viewsPerHour": 618,
       "views": 8238,
-      "ageHours": 11.3
-    },
-    {
-      "title": "Louis Theroux Explores America's Million Dollar Newborn Baby Adoption Capital",
-      "channel": "Real Stories",
-      "videoId": "zBZ3WGrm4AM",
-      "viewsPerHour": 678,
-      "views": 31385,
-      "ageHours": 46.3
+      "ageHours": 13.3
     },
     {
       "title": "Dark soul': Nicolle and Tim Miller SLAM Megyn Kelly for CHEERING removal of Haitian migrants",
       "channel": "MS NOW",
       "videoId": "WvsgPpeOHpg",
-      "viewsPerHour": 490,
+      "viewsPerHour": 442,
       "views": 9060,
-      "ageHours": 18.5
+      "ageHours": 20.5
     },
     {
       "title": "3D printer talk in the park with awesome people",
       "channel": "Louis Rossmann",
       "videoId": "sxPjuJzqJnk",
-      "viewsPerHour": 445,
+      "viewsPerHour": 416,
       "views": 12738,
-      "ageHours": 28.6
+      "ageHours": 30.6
     },
     {
       "title": "MS NOW EXCLUSIVE | AOC warns Dems on new progressive candidates: Hear them out.",
       "channel": "MS NOW",
       "videoId": "r_Du_-vrQXU",
-      "viewsPerHour": 282,
+      "viewsPerHour": 241,
       "views": 3331,
-      "ageHours": 11.8
+      "ageHours": 13.8
     },
     {
       "title": "PBS News Hour live episode, June 26, 2026",
       "channel": "PBS NewsHour",
       "videoId": "Z9rlfhR6EcM",
-      "viewsPerHour": 224,
+      "viewsPerHour": 203,
       "views": 4220,
-      "ageHours": 18.8
+      "ageHours": 20.8
     },
     {
       "title": "Capehart: A day that showed the ‘pinnacle of what America could be’",
       "channel": "MS NOW",
       "videoId": "BhoqOgGSSns",
-      "viewsPerHour": 96,
+      "viewsPerHour": 83,
       "views": 1176,
-      "ageHours": 12.2
+      "ageHours": 14.2
     },
     {
       "title": "Remembering Tony Brown",
       "channel": "PBS NewsHour",
       "videoId": "V_G2EL-XKUk",
-      "viewsPerHour": 90,
+      "viewsPerHour": 80,
       "views": 1402,
-      "ageHours": 15.6
+      "ageHours": 17.6
     },
     {
       "title": "Trump’s Iran war has 'struggling' American farmers fearing bankruptcy",
       "channel": "MS NOW",
       "videoId": "x5AippgkDt8",
-      "viewsPerHour": 61,
+      "viewsPerHour": 55,
       "views": 1100,
-      "ageHours": 17.9
+      "ageHours": 19.9
     },
     {
       "title": "Vance accidentally admits that Trump is way worse than Nixon",
       "channel": "MS NOW",
       "videoId": "3CwbYwvJ4ds",
-      "viewsPerHour": 60,
+      "viewsPerHour": 51,
       "views": 696,
-      "ageHours": 11.6
-    },
-    {
-      "title": "WATCH LIVE: Faith and Freedom Coalition Policy Conference features Trump administration officials",
-      "channel": "PBS NewsHour",
-      "videoId": "PB_ZDlDWBms",
-      "viewsPerHour": 59,
-      "views": 1584,
-      "ageHours": 26.8
+      "ageHours": 13.6
     },
     {
       "title": "U.S. strikes Iran after drones targets cargo ship in Strait of Hormuz",
       "channel": "PBS NewsHour",
       "videoId": "yX6cmr3vi6Q",
-      "viewsPerHour": 53,
+      "viewsPerHour": 47,
       "views": 936,
-      "ageHours": 17.7
-    },
-    {
-      "title": "ICE protesters sentenced to up to 100 years in prison by Trump-appointed judge",
-      "channel": "MS NOW",
-      "videoId": "ncD66jfeSVc",
-      "viewsPerHour": 50,
-      "views": 1173,
-      "ageHours": 23.6
+      "ageHours": 19.7
     },
     {
       "title": "Trump's TPS policy is a 'job killer' and bad for Ohio, Gov. DeWine says",
       "channel": "PBS NewsHour",
       "videoId": "c5BxWOOK0qs",
-      "viewsPerHour": 23,
+      "viewsPerHour": 21,
       "views": 406,
-      "ageHours": 17.8
-    },
-    {
-      "title": "WATCH: Dr. Oz speaks at Faith and Freedom Coalition Policy Conference",
-      "channel": "PBS NewsHour",
-      "videoId": "Am3zqv7qNzw",
-      "viewsPerHour": 7,
-      "views": 183,
-      "ageHours": 25.8
-    },
-    {
-      "title": "How the Iran war and peace talks are straining the U.S.-Israel alliance",
-      "channel": "PBS NewsHour",
-      "videoId": "9fukRfsO2mY",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 24.5
+      "ageHours": 19.8
     }
   ]
 }
