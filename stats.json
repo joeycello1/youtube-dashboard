@@ -1,8 +1,16 @@
 {
   "videosPerChannel": [
     {
+      "channel": "Last Week Tonight",
+      "count": 7
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 25
+    },
+    {
       "channel": "MS NOW",
-      "count": 5
+      "count": 6
     },
     {
       "channel": "The Rest Is Science",
@@ -11,10 +19,6 @@
     {
       "channel": "Real Stories",
       "count": 23
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 25
     },
     {
       "channel": "The Daily Show",
@@ -35,10 +39,6 @@
     {
       "channel": "More Perfect Union",
       "count": 7
-    },
-    {
-      "channel": "Last Week Tonight",
-      "count": 6
     },
     {
       "channel": "Diary of a CEO",
@@ -67,8 +67,16 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "Last Week Tonight",
+      "count": 7
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 20
+    },
+    {
       "keyword": "MS NOW",
-      "count": 5
+      "count": 6
     },
     {
       "keyword": "The Rest Is Science",
@@ -81,10 +89,6 @@
     {
       "keyword": "Louis Rossmann, AI",
       "count": 4
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 20
     },
     {
       "keyword": "Real Stories",
@@ -109,10 +113,6 @@
     {
       "keyword": "More Perfect Union",
       "count": 7
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "count": 6
     },
     {
       "keyword": "AI",
@@ -168,6 +168,10 @@
     }
   ],
   "dailySummary": [
+    {
+      "date": "2026-06-29",
+      "videos": 3
+    },
     {
       "date": "2026-06-28",
       "videos": 10
@@ -226,7 +230,7 @@
     },
     {
       "date": "2026-06-14",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-06-13",
@@ -339,8 +343,16 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "Last Week Tonight",
+      "matches": 3
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 11
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 5
+      "matches": 6
     },
     {
       "keyword": "The Rest Is Science",
@@ -353,10 +365,6 @@
     {
       "keyword": "Louis Rossmann, AI",
       "matches": 2
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 10
     },
     {
       "keyword": "Real Stories",
@@ -383,110 +391,130 @@
       "matches": 2
     },
     {
-      "keyword": "Last Week Tonight",
-      "matches": 2
-    },
-    {
       "keyword": "AI",
       "matches": 1
     }
   ],
   "mostViral48h": [
     {
+      "title": "S13 E17: Trump’s Reflecting Pool, Redistricting & Soaps: 6/28/26: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "UGRLw4DSCyk",
+      "viewsPerHour": 24317,
+      "views": 79813,
+      "ageHours": 3.3
+    },
+    {
       "title": "Jon Stewart on the Botched Iran Deal & Josh Johnson on Trump's Reflecting Pool War | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "nskLO6fSRDw",
-      "viewsPerHour": 18628,
-      "views": 732000,
-      "ageHours": 39.3
+      "viewsPerHour": 18351,
+      "views": 757439,
+      "ageHours": 41.3
+    },
+    {
+      "title": "Sony stole what you purchased AGAIN: piracy is COMPLETELY JUSTIFIED",
+      "channel": "Louis Rossmann",
+      "videoId": "LYxmRaRRdc0",
+      "viewsPerHour": 7958,
+      "views": 36371,
+      "ageHours": 4.6
     },
     {
       "title": "The Audio Illusion That Proves We Don’t Experience Reality ",
       "channel": "The Rest Is Science",
       "videoId": "McHEDgBrN7w",
-      "viewsPerHour": 6823,
-      "views": 49804,
-      "ageHours": 7.3
+      "viewsPerHour": 6734,
+      "views": 62485,
+      "ageHours": 9.3
     },
     {
-      "title": "BREAKING: CENTCOM confirms U.S. strikes on Iran after cargo ship attack in Strait of Hormuz",
+      "title": "EXCLUSIVE: Barack Obama in his own words | MS NOW FULL INTERVIEW",
       "channel": "MS NOW",
-      "videoId": "RsBdR0DrcxY",
-      "viewsPerHour": 3050,
-      "views": 85205,
-      "ageHours": 27.9
+      "videoId": "yvYCzh0BcmM",
+      "viewsPerHour": 3587,
+      "views": 26112,
+      "ageHours": 7.3
     },
     {
       "title": "Robby Hoffman: Growing Up Poor Never Leaves You | The Interview",
       "channel": "The Interview",
       "videoId": "GNPDXbpaXlE",
-      "viewsPerHour": 1642,
-      "views": 64960,
-      "ageHours": 39.6
+      "viewsPerHour": 1633,
+      "views": 67819,
+      "ageHours": 41.5
+    },
+    {
+      "title": "EXCLUSIVE: Michelle Obama in her own words | MS NOW FULL INTERVIEW",
+      "channel": "MS NOW",
+      "videoId": "wKw0G29X8Ic",
+      "viewsPerHour": 1395,
+      "views": 8759,
+      "ageHours": 6.3
     },
     {
       "title": "Louis Theroux Explores America's Strangest City Full Of Dangerous Dogs",
       "channel": "Real Stories",
       "videoId": "P-1bQuWh3EM",
-      "viewsPerHour": 1150,
-      "views": 11842,
-      "ageHours": 10.3
+      "viewsPerHour": 1103,
+      "views": 13546,
+      "ageHours": 12.3
     },
     {
       "title": "Blueprint datacenter astroturfs my comment section with AI bots ??? 🤣",
       "channel": "Louis Rossmann",
       "videoId": "CDPRBsuHGK8",
-      "viewsPerHour": 561,
+      "viewsPerHour": 513,
       "views": 11692,
-      "ageHours": 20.8
+      "ageHours": 22.8
     },
     {
       "title": "“OUTRAGEOUS” Rep. Ro Khanna on DOJ stonewalling with Epstein files",
       "channel": "MS NOW",
       "videoId": "Orna8Sm2QKE",
-      "viewsPerHour": 465,
+      "viewsPerHour": 354,
       "views": 2954,
-      "ageHours": 6.4
-    },
-    {
-      "title": "“I don’t get it!” Ta-Nehisi Coates BAFFLED by centrist Dems’ opposition to progressives",
-      "channel": "MS NOW",
-      "videoId": "RjM1gX3UR18",
-      "viewsPerHour": 293,
-      "views": 1866,
-      "ageHours": 6.4
+      "ageHours": 8.3
     },
     {
       "title": "Blueprint datacenter has AI bots in my comments section?? 😂😂😂",
       "channel": "Louis Rossmann",
       "videoId": "Q0Y52gE5Cx4",
-      "viewsPerHour": 288,
+      "viewsPerHour": 268,
       "views": 7445,
-      "ageHours": 25.8
+      "ageHours": 27.8
     },
     {
       "title": "‘Completely unconstitutional’: Top Dem launches effort to end Trump's \"anti-weaponization\" fund",
       "channel": "MS NOW",
       "videoId": "XaMJyrCIAys",
-      "viewsPerHour": 277,
+      "viewsPerHour": 241,
       "views": 3588,
-      "ageHours": 12.9
+      "ageHours": 14.9
+    },
+    {
+      "title": "“I don’t get it!” Ta-Nehisi Coates BAFFLED by centrist Dems’ opposition to progressives",
+      "channel": "MS NOW",
+      "videoId": "RjM1gX3UR18",
+      "viewsPerHour": 224,
+      "views": 1866,
+      "ageHours": 8.3
     },
     {
       "title": "Where his priorities are’: Trump focused on DC pet projects as inflation hits 3-year high",
       "channel": "MS NOW",
       "videoId": "Z_yZaRTAWnU",
-      "viewsPerHour": 252,
+      "viewsPerHour": 218,
       "views": 3252,
-      "ageHours": 12.9
+      "ageHours": 14.9
     },
     {
       "title": "How To Stop The Hidden Damage of Your Sleepless Nights",
       "channel": "Real Stories",
       "videoId": "LRQwFwJtEjo",
-      "viewsPerHour": 52,
-      "views": 1795,
-      "ageHours": 34.3
+      "viewsPerHour": 50,
+      "views": 1828,
+      "ageHours": 36.3
     },
     {
       "title": "Live from California Senate - will Bloomberg's astroturfing ruin 3D Printing?",
@@ -494,7 +522,7 @@
       "videoId": "6pT31haQ_3U",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 27.4
+      "ageHours": 29.4
     }
   ]
 }
