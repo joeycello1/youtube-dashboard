@@ -5,12 +5,16 @@
       "count": 5
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 26
+      "channel": "The Rest Is Science",
+      "count": 5
     },
     {
       "channel": "Real Stories",
-      "count": 22
+      "count": 23
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 25
     },
     {
       "channel": "The Daily Show",
@@ -41,10 +45,6 @@
       "count": 2
     },
     {
-      "channel": "The Rest Is Science",
-      "count": 4
-    },
-    {
       "channel": "Jonathan Pie",
       "count": 4
     },
@@ -71,12 +71,20 @@
       "count": 5
     },
     {
+      "keyword": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "keyword": "Real Stories, Louis Theroux",
+      "count": 9
+    },
+    {
       "keyword": "Louis Rossmann, AI",
       "count": 4
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 21
+      "count": 20
     },
     {
       "keyword": "Real Stories",
@@ -99,10 +107,6 @@
       "count": 3
     },
     {
-      "keyword": "Real Stories, Louis Theroux",
-      "count": 8
-    },
-    {
       "keyword": "More Perfect Union",
       "count": 7
     },
@@ -113,10 +117,6 @@
     {
       "keyword": "AI",
       "count": 5
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "count": 4
     },
     {
       "keyword": "Louis Rossmann, Samsung",
@@ -170,11 +170,11 @@
   "dailySummary": [
     {
       "date": "2026-06-28",
-      "videos": 6
+      "videos": 10
     },
     {
       "date": "2026-06-27",
-      "videos": 5
+      "videos": 3
     },
     {
       "date": "2026-06-26",
@@ -230,7 +230,7 @@
     },
     {
       "date": "2026-06-13",
-      "videos": 3
+      "videos": 2
     },
     {
       "date": "2026-06-12",
@@ -343,6 +343,14 @@
       "matches": 5
     },
     {
+      "keyword": "The Rest Is Science",
+      "matches": 2
+    },
+    {
+      "keyword": "Real Stories, Louis Theroux",
+      "matches": 2
+    },
+    {
       "keyword": "Louis Rossmann, AI",
       "matches": 2
     },
@@ -371,10 +379,6 @@
       "matches": 1
     },
     {
-      "keyword": "Real Stories, Louis Theroux",
-      "matches": 1
-    },
-    {
       "keyword": "More Perfect Union",
       "matches": 2
     },
@@ -385,10 +389,6 @@
     {
       "keyword": "AI",
       "matches": 1
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -396,89 +396,97 @@
       "title": "Jon Stewart on the Botched Iran Deal & Josh Johnson on Trump's Reflecting Pool War | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "nskLO6fSRDw",
-      "viewsPerHour": 20169,
-      "views": 671417,
-      "ageHours": 33.3
+      "viewsPerHour": 19532,
+      "views": 689141,
+      "ageHours": 35.3
+    },
+    {
+      "title": "The Audio Illusion That Proves We Don’t Experience Reality ",
+      "channel": "The Rest Is Science",
+      "videoId": "McHEDgBrN7w",
+      "viewsPerHour": 6703,
+      "views": 22023,
+      "ageHours": 3.3
     },
     {
       "title": "BREAKING: CENTCOM confirms U.S. strikes on Iran after cargo ship attack in Strait of Hormuz",
       "channel": "MS NOW",
       "videoId": "RsBdR0DrcxY",
-      "viewsPerHour": 3885,
+      "viewsPerHour": 3561,
       "views": 85205,
-      "ageHours": 21.9
+      "ageHours": 23.9
     },
     {
       "title": "Robby Hoffman: Growing Up Poor Never Leaves You | The Interview",
       "channel": "The Interview",
       "videoId": "GNPDXbpaXlE",
-      "viewsPerHour": 1644,
-      "views": 55169,
-      "ageHours": 33.6
+      "viewsPerHour": 1637,
+      "views": 58198,
+      "ageHours": 35.5
     },
     {
-      "title": "Taylor Texas City park becomes a Datacenter: what the f",
-      "channel": "Louis Rossmann",
-      "videoId": "_r_OBG4Qijw",
-      "viewsPerHour": 826,
-      "views": 39128,
-      "ageHours": 47.4
+      "title": "“OUTRAGEOUS” Rep. Ro Khanna on DOJ stonewalling with Epstein files",
+      "channel": "MS NOW",
+      "videoId": "Orna8Sm2QKE",
+      "viewsPerHour": 1260,
+      "views": 2954,
+      "ageHours": 2.3
+    },
+    {
+      "title": "Louis Theroux Explores America's Strangest City Full Of Dangerous Dogs",
+      "channel": "Real Stories",
+      "videoId": "P-1bQuWh3EM",
+      "viewsPerHour": 1156,
+      "views": 7263,
+      "ageHours": 6.3
+    },
+    {
+      "title": "“I don’t get it!” Ta-Nehisi Coates BAFFLED by centrist Dems’ opposition to progressives",
+      "channel": "MS NOW",
+      "videoId": "RjM1gX3UR18",
+      "viewsPerHour": 795,
+      "views": 1866,
+      "ageHours": 2.3
     },
     {
       "title": "Blueprint datacenter astroturfs my comment section with AI bots ??? 🤣",
       "channel": "Louis Rossmann",
       "videoId": "CDPRBsuHGK8",
-      "viewsPerHour": 789,
+      "viewsPerHour": 695,
       "views": 11692,
-      "ageHours": 14.8
+      "ageHours": 16.8
     },
     {
       "title": "‘Completely unconstitutional’: Top Dem launches effort to end Trump's \"anti-weaponization\" fund",
       "channel": "MS NOW",
       "videoId": "XaMJyrCIAys",
-      "viewsPerHour": 518,
+      "viewsPerHour": 402,
       "views": 3588,
-      "ageHours": 6.9
+      "ageHours": 8.9
     },
     {
       "title": "Where his priorities are’: Trump focused on DC pet projects as inflation hits 3-year high",
       "channel": "MS NOW",
       "videoId": "Z_yZaRTAWnU",
-      "viewsPerHour": 470,
+      "viewsPerHour": 365,
       "views": 3252,
-      "ageHours": 6.9
+      "ageHours": 8.9
     },
     {
       "title": "Blueprint datacenter has AI bots in my comments section?? 😂😂😂",
       "channel": "Louis Rossmann",
       "videoId": "Q0Y52gE5Cx4",
-      "viewsPerHour": 376,
+      "viewsPerHour": 341,
       "views": 7445,
-      "ageHours": 19.8
-    },
-    {
-      "title": "Federal judge blocks Trump's election order, former prosecutor explains what's next",
-      "channel": "MS NOW",
-      "videoId": "VFy0L2nboOI",
-      "viewsPerHour": 104,
-      "views": 2503,
-      "ageHours": 24
+      "ageHours": 21.8
     },
     {
       "title": "How To Stop The Hidden Damage of Your Sleepless Nights",
       "channel": "Real Stories",
       "videoId": "LRQwFwJtEjo",
-      "viewsPerHour": 58,
-      "views": 1650,
-      "ageHours": 28.3
-    },
-    {
-      "title": "Could the Iran ceasefire collapse? Dem Rep. weighs in on fragile agreement",
-      "channel": "MS NOW",
-      "videoId": "qinUmDGKs0k",
-      "viewsPerHour": 48,
-      "views": 1148,
-      "ageHours": 24
+      "viewsPerHour": 56,
+      "views": 1697,
+      "ageHours": 30.3
     },
     {
       "title": "Live from California Senate - will Bloomberg's astroturfing ruin 3D Printing?",
@@ -486,7 +494,7 @@
       "videoId": "6pT31haQ_3U",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 21.4
+      "ageHours": 23.4
     }
   ]
 }
