@@ -2,7 +2,19 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 9
+      "count": 10
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 1
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 11
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 11
     },
     {
       "channel": "Louis Rossmann",
@@ -21,16 +33,8 @@
       "count": 23
     },
     {
-      "channel": "The Daily Show",
-      "count": 10
-    },
-    {
       "channel": "The Interview",
       "count": 6
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 11
     },
     {
       "channel": "Area 52",
@@ -46,7 +50,7 @@
     },
     {
       "channel": "Jonathan Pie",
-      "count": 4
+      "count": 3
     },
     {
       "channel": "Jeremy Corbell",
@@ -68,7 +72,19 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 9
+      "count": 10
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 1
+    },
+    {
+      "keyword": "The Daily Show, AI",
+      "count": 1
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 11
     },
     {
       "keyword": "Louis Rossmann",
@@ -103,10 +119,6 @@
       "count": 6
     },
     {
-      "keyword": "Conan O'Brien",
-      "count": 11
-    },
-    {
       "keyword": "UFO",
       "count": 3
     },
@@ -124,7 +136,7 @@
     },
     {
       "keyword": "Jonathan Pie",
-      "count": 4
+      "count": 3
     },
     {
       "keyword": "Corbell, George Knapp",
@@ -170,11 +182,11 @@
   "dailySummary": [
     {
       "date": "2026-06-29",
-      "videos": 8
+      "videos": 14
     },
     {
       "date": "2026-06-28",
-      "videos": 10
+      "videos": 8
     },
     {
       "date": "2026-06-27",
@@ -210,7 +222,7 @@
     },
     {
       "date": "2026-06-19",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-06-18",
@@ -329,10 +341,6 @@
       "videos": 1
     },
     {
-      "date": "2026-04-30",
-      "videos": 1
-    },
-    {
       "date": "2026-04-09",
       "videos": 1
     },
@@ -344,7 +352,19 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 9
+      "matches": 10
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 1
+    },
+    {
+      "keyword": "The Daily Show, AI",
+      "matches": 1
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 10
     },
     {
       "keyword": "Louis Rossmann",
@@ -379,10 +399,6 @@
       "matches": 1
     },
     {
-      "keyword": "Conan O'Brien",
-      "matches": 9
-    },
-    {
       "keyword": "UFO",
       "matches": 1
     },
@@ -400,145 +416,169 @@
       "title": "Redistricting: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "x9U71_dAEC8",
-      "viewsPerHour": 47611,
-      "views": 465918,
-      "ageHours": 9.8
+      "viewsPerHour": 51642,
+      "views": 610499,
+      "ageHours": 11.8
     },
     {
       "title": "S13 E17: Trump’s Reflecting Pool, Redistricting & Soaps: 6/28/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "UGRLw4DSCyk",
-      "viewsPerHour": 31964,
-      "views": 424613,
-      "ageHours": 13.3
+      "viewsPerHour": 31213,
+      "views": 478187,
+      "ageHours": 15.3
     },
     {
       "title": "The Audio Illusion That Proves We Don’t Experience Reality ",
       "channel": "The Rest Is Science",
       "videoId": "McHEDgBrN7w",
-      "viewsPerHour": 5885,
-      "views": 113461,
-      "ageHours": 19.3
+      "viewsPerHour": 5740,
+      "views": 122351,
+      "ageHours": 21.3
+    },
+    {
+      "title": "Grace Kuhlenschmidt Says “Tech Yeah!” to Ordained Robot Monks & AI Mark Zuckerberg | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "204P57yI0Ww",
+      "viewsPerHour": 5549,
+      "views": 29519,
+      "ageHours": 5.3
+    },
+    {
+      "title": "Eric Andre (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "gOk4xKn-ucE",
+      "viewsPerHour": 2785,
+      "views": 20372,
+      "ageHours": 7.3
+    },
+    {
+      "title": "Trump reacts to Cook ruling: We will take action immediately",
+      "channel": "MS NOW",
+      "videoId": "5kS2askHBTU",
+      "viewsPerHour": 2709,
+      "views": 6060,
+      "ageHours": 2.2
     },
     {
       "title": "Sony stole what you purchased AGAIN: piracy is COMPLETELY JUSTIFIED",
       "channel": "Louis Rossmann",
       "videoId": "LYxmRaRRdc0",
-      "viewsPerHour": 2496,
+      "viewsPerHour": 2190,
       "views": 36371,
-      "ageHours": 14.6
+      "ageHours": 16.6
+    },
+    {
+      "title": "Sotomayor 'visibly angry' over court's ruling president can fire independent agency heads",
+      "channel": "MS NOW",
+      "videoId": "q_wPTAmCDhQ",
+      "viewsPerHour": 1876,
+      "views": 4212,
+      "ageHours": 2.2
     },
     {
       "title": "EXCLUSIVE: Barack Obama in his own words | MS NOW FULL INTERVIEW",
       "channel": "MS NOW",
       "videoId": "yvYCzh0BcmM",
-      "viewsPerHour": 1511,
+      "viewsPerHour": 1352,
       "views": 26112,
-      "ageHours": 17.3
+      "ageHours": 19.3
     },
     {
-      "title": "Maddow: Advice on DEFIANCE in the age of Trump",
-      "channel": "MS NOW",
-      "videoId": "6PQCw1Bf83o",
-      "viewsPerHour": 888,
-      "views": 5579,
-      "ageHours": 6.3
+      "title": "WATCH LIVE: UN Human Rights Council hears updates on Belarus, Myanmar and Nicaragua",
+      "channel": "PBS NewsHour",
+      "videoId": "WB7veWWpCDc",
+      "viewsPerHour": 878,
+      "views": 2687,
+      "ageHours": 3.1
     },
     {
       "title": "Louis Theroux Explores America's Strangest City Full Of Dangerous Dogs",
       "channel": "Real Stories",
       "videoId": "P-1bQuWh3EM",
-      "viewsPerHour": 721,
-      "views": 16070,
-      "ageHours": 22.3
+      "viewsPerHour": 695,
+      "views": 16908,
+      "ageHours": 24.3
+    },
+    {
+      "title": "Maddow: Advice on DEFIANCE in the age of Trump",
+      "channel": "MS NOW",
+      "videoId": "6PQCw1Bf83o",
+      "viewsPerHour": 670,
+      "views": 5579,
+      "ageHours": 8.3
     },
     {
       "title": "SHOW UP IN PERSON 8:30 AM TUESDAY IN SACRAMENTO TO SAVE 3D PRINTING! ALL OF YOU. YES THAT MEANS YOU!",
       "channel": "Louis Rossmann",
       "videoId": "vSU6QZO_rHM",
-      "viewsPerHour": 626,
+      "viewsPerHour": 497,
       "views": 4902,
-      "ageHours": 7.8
+      "ageHours": 9.9
     },
     {
       "title": "EXCLUSIVE: Michelle Obama in her own words | MS NOW FULL INTERVIEW",
       "channel": "MS NOW",
       "videoId": "wKw0G29X8Ic",
-      "viewsPerHour": 538,
+      "viewsPerHour": 478,
       "views": 8759,
-      "ageHours": 16.3
+      "ageHours": 18.3
     },
     {
       "title": "U.S. and Iran agree to resume talks, stop fighting in the Strait of Hormuz",
       "channel": "MS NOW",
       "videoId": "qj92SjcZRRk",
-      "viewsPerHour": 477,
+      "viewsPerHour": 362,
       "views": 3033,
-      "ageHours": 6.4
+      "ageHours": 8.4
     },
     {
       "title": "Blueprint datacenter astroturfs my comment section with AI bots ??? 🤣",
       "channel": "Louis Rossmann",
       "videoId": "CDPRBsuHGK8",
-      "viewsPerHour": 356,
+      "viewsPerHour": 336,
       "views": 11692,
-      "ageHours": 32.8
-    },
-    {
-      "title": "Trump names new ICE Director nominee",
-      "channel": "MS NOW",
-      "videoId": "Uo07spz4fps",
-      "viewsPerHour": 222,
-      "views": 1322,
-      "ageHours": 6
+      "ageHours": 34.8
     },
     {
       "title": "Blueprint datacenter has AI bots in my comments section?? 😂😂😂",
       "channel": "Louis Rossmann",
       "videoId": "Q0Y52gE5Cx4",
-      "viewsPerHour": 197,
+      "viewsPerHour": 187,
       "views": 7445,
-      "ageHours": 37.8
+      "ageHours": 39.8
+    },
+    {
+      "title": "Trump names new ICE Director nominee",
+      "channel": "MS NOW",
+      "videoId": "Uo07spz4fps",
+      "viewsPerHour": 165,
+      "views": 1322,
+      "ageHours": 8
     },
     {
       "title": "“OUTRAGEOUS” Rep. Ro Khanna on DOJ stonewalling with Epstein files",
       "channel": "MS NOW",
       "videoId": "Orna8Sm2QKE",
-      "viewsPerHour": 161,
+      "viewsPerHour": 145,
       "views": 2954,
-      "ageHours": 18.3
+      "ageHours": 20.4
     },
     {
-      "title": "‘Completely unconstitutional’: Top Dem launches effort to end Trump's \"anti-weaponization\" fund",
+      "title": "The RISKS for Democratic candidates over the Israel-Gaza “litmus test”",
       "channel": "MS NOW",
-      "videoId": "XaMJyrCIAys",
-      "viewsPerHour": 144,
-      "views": 3588,
-      "ageHours": 24.9
-    },
-    {
-      "title": "Where his priorities are’: Trump focused on DC pet projects as inflation hits 3-year high",
-      "channel": "MS NOW",
-      "videoId": "Z_yZaRTAWnU",
-      "viewsPerHour": 131,
-      "views": 3252,
-      "ageHours": 24.9
+      "videoId": "9LCrwxKxhxY",
+      "viewsPerHour": 104,
+      "views": 174,
+      "ageHours": 1.7
     },
     {
       "title": "“I don’t get it!” Ta-Nehisi Coates BAFFLED by centrist Dems’ opposition to progressives",
       "channel": "MS NOW",
       "videoId": "RjM1gX3UR18",
-      "viewsPerHour": 102,
+      "viewsPerHour": 92,
       "views": 1866,
-      "ageHours": 18.3
-    },
-    {
-      "title": "How To Stop The Hidden Damage of Your Sleepless Nights",
-      "channel": "Real Stories",
-      "videoId": "LRQwFwJtEjo",
-      "viewsPerHour": 42,
-      "views": 1946,
-      "ageHours": 46.3
+      "ageHours": 20.4
     },
     {
       "title": "Live from California Senate - will Bloomberg's astroturfing ruin 3D Printing?",
@@ -546,7 +586,7 @@
       "videoId": "6pT31haQ_3U",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 39.4
+      "ageHours": 41.4
     }
   ]
 }
