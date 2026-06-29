@@ -384,7 +384,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "matches": 3
+      "matches": 2
     },
     {
       "keyword": "AI",
@@ -396,97 +396,97 @@
       "title": "Jon Stewart on the Botched Iran Deal & Josh Johnson on Trump's Reflecting Pool War | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "nskLO6fSRDw",
-      "viewsPerHour": 19016,
-      "views": 708795,
-      "ageHours": 37.3
+      "viewsPerHour": 18628,
+      "views": 732000,
+      "ageHours": 39.3
     },
     {
       "title": "The Audio Illusion That Proves We Don’t Experience Reality ",
       "channel": "The Rest Is Science",
       "videoId": "McHEDgBrN7w",
-      "viewsPerHour": 6987,
-      "views": 36870,
-      "ageHours": 5.3
+      "viewsPerHour": 6823,
+      "views": 49804,
+      "ageHours": 7.3
     },
     {
       "title": "BREAKING: CENTCOM confirms U.S. strikes on Iran after cargo ship attack in Strait of Hormuz",
       "channel": "MS NOW",
       "videoId": "RsBdR0DrcxY",
-      "viewsPerHour": 3287,
+      "viewsPerHour": 3050,
       "views": 85205,
-      "ageHours": 25.9
+      "ageHours": 27.9
     },
     {
       "title": "Robby Hoffman: Growing Up Poor Never Leaves You | The Interview",
       "channel": "The Interview",
       "videoId": "GNPDXbpaXlE",
-      "viewsPerHour": 1636,
-      "views": 61399,
-      "ageHours": 37.5
+      "viewsPerHour": 1642,
+      "views": 64960,
+      "ageHours": 39.6
     },
     {
       "title": "Louis Theroux Explores America's Strangest City Full Of Dangerous Dogs",
       "channel": "Real Stories",
       "videoId": "P-1bQuWh3EM",
-      "viewsPerHour": 1183,
-      "views": 9790,
-      "ageHours": 8.3
-    },
-    {
-      "title": "“OUTRAGEOUS” Rep. Ro Khanna on DOJ stonewalling with Epstein files",
-      "channel": "MS NOW",
-      "videoId": "Orna8Sm2QKE",
-      "viewsPerHour": 681,
-      "views": 2954,
-      "ageHours": 4.3
+      "viewsPerHour": 1150,
+      "views": 11842,
+      "ageHours": 10.3
     },
     {
       "title": "Blueprint datacenter astroturfs my comment section with AI bots ??? 🤣",
       "channel": "Louis Rossmann",
       "videoId": "CDPRBsuHGK8",
-      "viewsPerHour": 622,
+      "viewsPerHour": 561,
       "views": 11692,
-      "ageHours": 18.8
+      "ageHours": 20.8
+    },
+    {
+      "title": "“OUTRAGEOUS” Rep. Ro Khanna on DOJ stonewalling with Epstein files",
+      "channel": "MS NOW",
+      "videoId": "Orna8Sm2QKE",
+      "viewsPerHour": 465,
+      "views": 2954,
+      "ageHours": 6.4
     },
     {
       "title": "“I don’t get it!” Ta-Nehisi Coates BAFFLED by centrist Dems’ opposition to progressives",
       "channel": "MS NOW",
       "videoId": "RjM1gX3UR18",
-      "viewsPerHour": 430,
+      "viewsPerHour": 293,
       "views": 1866,
-      "ageHours": 4.3
-    },
-    {
-      "title": "‘Completely unconstitutional’: Top Dem launches effort to end Trump's \"anti-weaponization\" fund",
-      "channel": "MS NOW",
-      "videoId": "XaMJyrCIAys",
-      "viewsPerHour": 329,
-      "views": 3588,
-      "ageHours": 10.9
+      "ageHours": 6.4
     },
     {
       "title": "Blueprint datacenter has AI bots in my comments section?? 😂😂😂",
       "channel": "Louis Rossmann",
       "videoId": "Q0Y52gE5Cx4",
-      "viewsPerHour": 313,
+      "viewsPerHour": 288,
       "views": 7445,
-      "ageHours": 23.8
+      "ageHours": 25.8
+    },
+    {
+      "title": "‘Completely unconstitutional’: Top Dem launches effort to end Trump's \"anti-weaponization\" fund",
+      "channel": "MS NOW",
+      "videoId": "XaMJyrCIAys",
+      "viewsPerHour": 277,
+      "views": 3588,
+      "ageHours": 12.9
     },
     {
       "title": "Where his priorities are’: Trump focused on DC pet projects as inflation hits 3-year high",
       "channel": "MS NOW",
       "videoId": "Z_yZaRTAWnU",
-      "viewsPerHour": 298,
+      "viewsPerHour": 252,
       "views": 3252,
-      "ageHours": 10.9
+      "ageHours": 12.9
     },
     {
       "title": "How To Stop The Hidden Damage of Your Sleepless Nights",
       "channel": "Real Stories",
       "videoId": "LRQwFwJtEjo",
-      "viewsPerHour": 53,
-      "views": 1720,
-      "ageHours": 32.3
+      "viewsPerHour": 52,
+      "views": 1795,
+      "ageHours": 34.3
     },
     {
       "title": "Live from California Senate - will Bloomberg's astroturfing ruin 3D Printing?",
@@ -494,7 +494,7 @@
       "videoId": "6pT31haQ_3U",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 25.4
+      "ageHours": 27.4
     }
   ]
 }
