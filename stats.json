@@ -1,12 +1,12 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
-      "count": 4
-    },
-    {
       "channel": "MS NOW",
       "count": 8
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 7
     },
     {
       "channel": "More Perfect Union",
@@ -26,7 +26,7 @@
     },
     {
       "channel": "Last Week Tonight",
-      "count": 7
+      "count": 6
     },
     {
       "channel": "The Rest Is Science",
@@ -71,12 +71,12 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "PBS NewsHour",
-      "count": 4
-    },
-    {
       "keyword": "MS NOW",
       "count": 8
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 7
     },
     {
       "keyword": "More Perfect Union",
@@ -96,7 +96,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "count": 7
+      "count": 6
     },
     {
       "keyword": "The Rest Is Science",
@@ -181,6 +181,10 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-06-30",
+      "videos": 3
+    },
+    {
       "date": "2026-06-29",
       "videos": 19
     },
@@ -238,7 +242,7 @@
     },
     {
       "date": "2026-06-15",
-      "videos": 3
+      "videos": 2
     },
     {
       "date": "2026-06-14",
@@ -351,12 +355,12 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
-      "matches": 4
-    },
-    {
       "keyword": "MS NOW",
       "matches": 8
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 7
     },
     {
       "keyword": "More Perfect Union",
@@ -368,7 +372,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 10
+      "matches": 9
     },
     {
       "keyword": "Louis Rossmann",
@@ -416,161 +420,185 @@
       "title": "Redistricting: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "x9U71_dAEC8",
-      "viewsPerHour": 39079,
-      "views": 1085805,
-      "ageHours": 27.8
+      "viewsPerHour": 36795,
+      "views": 1096480,
+      "ageHours": 29.8
     },
     {
       "title": "S13 E17: Trump’s Reflecting Pool, Redistricting & Soaps: 6/28/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "UGRLw4DSCyk",
-      "viewsPerHour": 21203,
-      "views": 663314,
-      "ageHours": 31.3
+      "viewsPerHour": 20308,
+      "views": 676211,
+      "ageHours": 33.3
     },
     {
       "title": "Peter Thiel's Plan To Replace Democracy (And Profit Off What Comes Next)",
       "channel": "More Perfect Union",
       "videoId": "6iLf2h_fo-w",
-      "viewsPerHour": 11100,
-      "views": 186666,
-      "ageHours": 16.8
+      "viewsPerHour": 10286,
+      "views": 193696,
+      "ageHours": 18.8
+    },
+    {
+      "title": "PBS News Hour full episode, June 29, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "QBBgpulBeAw",
+      "viewsPerHour": 5652,
+      "views": 72574,
+      "ageHours": 12.8
+    },
+    {
+      "title": "Tamara Keith and Amy Walter on Trump's focus on the SAVE Act",
+      "channel": "PBS NewsHour",
+      "videoId": "QDE1gQR6a7w",
+      "viewsPerHour": 5596,
+      "views": 73688,
+      "ageHours": 13.2
     },
     {
       "title": "The Audio Illusion That Proves We Don’t Experience Reality ",
       "channel": "The Rest Is Science",
       "videoId": "McHEDgBrN7w",
-      "viewsPerHour": 4603,
-      "views": 171603,
-      "ageHours": 37.3
+      "viewsPerHour": 4441,
+      "views": 174519,
+      "ageHours": 39.3
     },
     {
       "title": "Grace Kuhlenschmidt Says “Tech Yeah!” to Ordained Robot Monks & AI Mark Zuckerberg | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "204P57yI0Ww",
-      "viewsPerHour": 4328,
-      "views": 92110,
-      "ageHours": 21.3
+      "viewsPerHour": 4176,
+      "views": 97302,
+      "ageHours": 23.3
     },
     {
       "title": "Trump FLIPS OUT online after his 'Great American State Fair' FLOPS, draws painfully small turnout",
       "channel": "MS NOW",
       "videoId": "rPOHg5qeJy8",
-      "viewsPerHour": 3676,
+      "viewsPerHour": 3154,
       "views": 44680,
-      "ageHours": 12.2
+      "ageHours": 14.2
+    },
+    {
+      "title": "How Trump's billionaires show the danger of his corruption",
+      "channel": "MS NOW",
+      "videoId": "kE7tOXZuSj4",
+      "viewsPerHour": 1994,
+      "views": 10551,
+      "ageHours": 5.3
+    },
+    {
+      "title": "Trump wins MORE Executive Power with Supreme Court ruling—Birthright Citizenship up next",
+      "channel": "MS NOW",
+      "videoId": "H9KCpz_icVU",
+      "viewsPerHour": 1662,
+      "views": 3586,
+      "ageHours": 2.2
     },
     {
       "title": "Sony stole what you purchased AGAIN: piracy is COMPLETELY JUSTIFIED",
       "channel": "Louis Rossmann",
       "videoId": "LYxmRaRRdc0",
-      "viewsPerHour": 1117,
+      "viewsPerHour": 1052,
       "views": 36371,
-      "ageHours": 32.6
+      "ageHours": 34.6
     },
     {
       "title": "Eric Andre (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "gOk4xKn-ucE",
-      "viewsPerHour": 875,
+      "viewsPerHour": 805,
       "views": 20372,
-      "ageHours": 23.3
+      "ageHours": 25.3
+    },
+    {
+      "title": "The Rachel Maddow Show - June 29 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "_F8xfk0dWHA",
+      "viewsPerHour": 583,
+      "views": 1336,
+      "ageHours": 2.3
     },
     {
       "title": "Louis Theroux Explores America's Strangest City Full Of Dangerous Dogs",
       "channel": "Real Stories",
       "videoId": "P-1bQuWh3EM",
-      "viewsPerHour": 557,
-      "views": 22431,
-      "ageHours": 40.3
+      "viewsPerHour": 533,
+      "views": 22542,
+      "ageHours": 42.3
     },
     {
       "title": "Trump humbled by typically loyal SCOTUS after they SMACK DOWN his appeal, costing him millions",
       "channel": "MS NOW",
       "videoId": "jnPrVOILR_M",
-      "viewsPerHour": 443,
+      "viewsPerHour": 383,
       "views": 5736,
-      "ageHours": 12.9
+      "ageHours": 15
     },
     {
       "title": "Trump reacts to Cook ruling: We will take action immediately",
       "channel": "MS NOW",
       "videoId": "5kS2askHBTU",
-      "viewsPerHour": 333,
+      "viewsPerHour": 300,
       "views": 6060,
-      "ageHours": 18.2
+      "ageHours": 20.2
     },
     {
       "title": "PBS News Hour live episode, June 29, 2026",
       "channel": "PBS NewsHour",
       "videoId": "_JInlFqmvFA",
-      "viewsPerHour": 324,
+      "viewsPerHour": 281,
       "views": 4218,
-      "ageHours": 13
+      "ageHours": 15
     },
     {
       "title": "Sotomayor 'visibly angry' over court's ruling president can fire independent agency heads",
       "channel": "MS NOW",
       "videoId": "q_wPTAmCDhQ",
-      "viewsPerHour": 231,
+      "viewsPerHour": 208,
       "views": 4212,
-      "ageHours": 18.2
-    },
-    {
-      "title": "Maddow: Advice on DEFIANCE in the age of Trump",
-      "channel": "MS NOW",
-      "videoId": "6PQCw1Bf83o",
-      "viewsPerHour": 230,
-      "views": 5579,
-      "ageHours": 24.3
+      "ageHours": 20.2
     },
     {
       "title": "SHOW UP IN PERSON 8:30 AM TUESDAY IN SACRAMENTO TO SAVE 3D PRINTING! ALL OF YOU. YES THAT MEANS YOU!",
       "channel": "Louis Rossmann",
       "videoId": "vSU6QZO_rHM",
-      "viewsPerHour": 190,
+      "viewsPerHour": 176,
       "views": 4902,
-      "ageHours": 25.8
+      "ageHours": 27.8
     },
     {
       "title": "WATCH LIVE: House Rules Committee considers National Defense Authorization Act",
       "channel": "PBS NewsHour",
       "videoId": "3lWyKh9pSRA",
-      "viewsPerHour": 149,
+      "viewsPerHour": 133,
       "views": 2491,
-      "ageHours": 16.8
+      "ageHours": 18.8
     },
     {
       "title": "WATCH LIVE: UN Human Rights Council hears updates on Belarus, Myanmar and Nicaragua",
       "channel": "PBS NewsHour",
       "videoId": "WB7veWWpCDc",
-      "viewsPerHour": 141,
+      "viewsPerHour": 128,
       "views": 2687,
-      "ageHours": 19
+      "ageHours": 21
     },
     {
-      "title": "U.S. and Iran agree to resume talks, stop fighting in the Strait of Hormuz",
-      "channel": "MS NOW",
-      "videoId": "qj92SjcZRRk",
-      "viewsPerHour": 125,
-      "views": 3033,
-      "ageHours": 24.4
-    },
-    {
-      "title": "Trump names new ICE Director nominee",
-      "channel": "MS NOW",
-      "videoId": "Uo07spz4fps",
-      "viewsPerHour": 55,
-      "views": 1322,
-      "ageHours": 24
+      "title": "Willy Vlautin on spotlighting working-class American life in his novels and music",
+      "channel": "PBS NewsHour",
+      "videoId": "eYDrb3Ci57c",
+      "viewsPerHour": 119,
+      "views": 1556,
+      "ageHours": 13
     },
     {
       "title": "The RISKS for Democratic candidates over the Israel-Gaza “litmus test”",
       "channel": "MS NOW",
       "videoId": "9LCrwxKxhxY",
-      "viewsPerHour": 10,
+      "viewsPerHour": 9,
       "views": 174,
-      "ageHours": 17.6
+      "ageHours": 19.7
     },
     {
       "title": "American Dream slipping out of reach for many DACA recipients, new report finds",
@@ -578,7 +606,7 @@
       "videoId": "_Dv0iktYmyY",
       "viewsPerHour": 1,
       "views": 10,
-      "ageHours": 11.5
+      "ageHours": 13.5
     }
   ]
 }
