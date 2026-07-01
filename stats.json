@@ -1,12 +1,12 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
-      "count": 4
-    },
-    {
       "channel": "MS NOW",
       "count": 9
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 6
     },
     {
       "channel": "Conan O'Brien",
@@ -71,12 +71,12 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "PBS NewsHour",
-      "count": 4
-    },
-    {
       "keyword": "MS NOW",
       "count": 9
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 6
     },
     {
       "keyword": "Conan O'Brien",
@@ -181,8 +181,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-07-01",
+      "videos": 3
+    },
+    {
       "date": "2026-06-30",
-      "videos": 16
+      "videos": 15
     },
     {
       "date": "2026-06-29",
@@ -351,16 +355,16 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
-      "matches": 4
-    },
-    {
       "keyword": "MS NOW",
       "matches": 9
     },
     {
+      "keyword": "PBS NewsHour",
+      "matches": 6
+    },
+    {
       "keyword": "Conan O'Brien",
-      "matches": 9
+      "matches": 8
     },
     {
       "keyword": "Real Stories",
@@ -396,7 +400,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "The Interview",
@@ -416,145 +420,153 @@
       "title": "Peter Thiel's Plan To Replace Democracy (And Profit Off What Comes Next)",
       "channel": "More Perfect Union",
       "videoId": "6iLf2h_fo-w",
-      "viewsPerHour": 8231,
-      "views": 335984,
-      "ageHours": 40.8
+      "viewsPerHour": 8100,
+      "views": 347026,
+      "ageHours": 42.8
+    },
+    {
+      "title": "PBS News Hour full episode, June 30, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "RHlf46c_PrU",
+      "viewsPerHour": 4886,
+      "views": 61658,
+      "ageHours": 12.6
     },
     {
       "title": "Grace Kuhlenschmidt Says “Tech Yeah!” to Ordained Robot Monks & AI Mark Zuckerberg | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "204P57yI0Ww",
-      "viewsPerHour": 3434,
-      "views": 155512,
-      "ageHours": 45.3
+      "viewsPerHour": 3337,
+      "views": 157860,
+      "ageHours": 47.3
+    },
+    {
+      "title": "Trump is TOO FOCUSED on “SAVE Act”: Report",
+      "channel": "MS NOW",
+      "videoId": "BRDmm-X_ZAE",
+      "viewsPerHour": 1775,
+      "views": 3801,
+      "ageHours": 2.1
+    },
+    {
+      "title": "Melat Kiros defeats Rep. Diana DeGette in Colorado Democratic primary",
+      "channel": "MS NOW",
+      "videoId": "Jqbq8ak2X6E",
+      "viewsPerHour": 1119,
+      "views": 2162,
+      "ageHours": 1.9
     },
     {
       "title": "Conan's Audio Engineer Eduardo Shares His World Cup Predictions | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "1RFHp-F6d0E",
-      "viewsPerHour": 738,
+      "viewsPerHour": 676,
       "views": 16438,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "LIVE: GOP Rep. Tom Kean returns to Congress after mystery illness, months-long absence",
       "channel": "MS NOW",
       "videoId": "URFZBUIcK3s",
-      "viewsPerHour": 679,
+      "viewsPerHour": 613,
       "views": 12760,
-      "ageHours": 18.8
+      "ageHours": 20.8
     },
     {
       "title": "Nicolle: 'In Donald Trump's America, NONE OF US can afford to be complacent'",
       "channel": "MS NOW",
       "videoId": "XAm8zF54NgI",
-      "viewsPerHour": 475,
+      "viewsPerHour": 406,
       "views": 5687,
-      "ageHours": 12
+      "ageHours": 14
     },
     {
-      "title": "Eric Andre (Full Episode) | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "gOk4xKn-ucE",
-      "viewsPerHour": 431,
-      "views": 20372,
-      "ageHours": 47.3
-    },
-    {
-      "title": "How Trump's billionaires show the danger of his corruption",
+      "title": "MS NOW Highlights - June 30",
       "channel": "MS NOW",
-      "videoId": "kE7tOXZuSj4",
-      "viewsPerHour": 387,
-      "views": 10551,
-      "ageHours": 27.3
+      "videoId": "QbqpJU7ythk",
+      "viewsPerHour": 293,
+      "views": 561,
+      "ageHours": 1.9
     },
     {
       "title": "PBS News Hour full episode, June 30, 2026",
       "channel": "PBS NewsHour",
       "videoId": "lVnVd6lOTPI",
-      "viewsPerHour": 326,
+      "viewsPerHour": 282,
       "views": 4199,
-      "ageHours": 12.9
+      "ageHours": 14.9
+    },
+    {
+      "title": "Dave Portnoy and Amna Nawaz discuss media and controversies on 'Settle In'",
+      "channel": "PBS NewsHour",
+      "videoId": "OfJVOpFUOeA",
+      "viewsPerHour": 231,
+      "views": 2953,
+      "ageHours": 12.8
     },
     {
       "title": "Key Democrat SLAMS White House: \"NO CLEAR PATH\" for legal immigration",
       "channel": "MS NOW",
       "videoId": "fhJ2zYzYe88",
-      "viewsPerHour": 199,
+      "viewsPerHour": 179,
       "views": 3713,
-      "ageHours": 18.7
+      "ageHours": 20.7
     },
     {
       "title": "Trump's LATEST stock purchase IN THE MILLIONS raises more ethics questions",
       "channel": "MS NOW",
       "videoId": "_0MdtQLj8-I",
-      "viewsPerHour": 181,
+      "viewsPerHour": 162,
       "views": 3246,
-      "ageHours": 18
+      "ageHours": 20
     },
     {
       "title": "Eric Andre Quit Bragging About Injuries When He Met \"Jackass\" Crew | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "zvvF3S2RWBA",
-      "viewsPerHour": 157,
+      "viewsPerHour": 138,
       "views": 2397,
-      "ageHours": 15.3
-    },
-    {
-      "title": "Trump wins MORE Executive Power with Supreme Court ruling—Birthright Citizenship up next",
-      "channel": "MS NOW",
-      "videoId": "H9KCpz_icVU",
-      "viewsPerHour": 149,
-      "views": 3586,
-      "ageHours": 24.1
-    },
-    {
-      "title": "Pro-Trump Supreme Court bends the knee to Republicans AGAIN with BLATANT anti-constitution move",
-      "channel": "MS NOW",
-      "videoId": "HnehA7436Qk",
-      "viewsPerHour": 130,
-      "views": 1510,
-      "ageHours": 11.7
+      "ageHours": 17.3
     },
     {
       "title": "WATCH LIVE: Rep. Tom Kean Jr. says he was absent from Congress while recovering from depression",
       "channel": "PBS NewsHour",
       "videoId": "8h3RpDy6EdY",
-      "viewsPerHour": 125,
+      "viewsPerHour": 114,
       "views": 2649,
-      "ageHours": 21.2
+      "ageHours": 23.2
+    },
+    {
+      "title": "Pro-Trump Supreme Court bends the knee to Republicans AGAIN with BLATANT anti-constitution move",
+      "channel": "MS NOW",
+      "videoId": "HnehA7436Qk",
+      "viewsPerHour": 110,
+      "views": 1510,
+      "ageHours": 13.7
     },
     {
       "title": "Eye Of The Beholder: The Story Of Looking With Mark Cousins",
       "channel": "Real Stories",
       "videoId": "kfa4Vud7Ojk",
-      "viewsPerHour": 78,
-      "views": 1431,
-      "ageHours": 18.3
-    },
-    {
-      "title": "The Rachel Maddow Show - June 29 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "_F8xfk0dWHA",
-      "viewsPerHour": 55,
-      "views": 1336,
-      "ageHours": 24.3
+      "viewsPerHour": 72,
+      "views": 1462,
+      "ageHours": 20.3
     },
     {
       "title": "Trump's response to the landmark Supreme Court rulings and what's next",
       "channel": "PBS NewsHour",
       "videoId": "MgE4x7vs7hk",
-      "viewsPerHour": 38,
+      "viewsPerHour": 32,
       "views": 438,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "Andrew Tate’s 'Empire of Abuse' with Heidi Blake and Chris Hayes",
       "channel": "MS NOW",
       "videoId": "fyXbhsrb4Rs",
-      "viewsPerHour": 33,
+      "viewsPerHour": 29,
       "views": 394,
-      "ageHours": 11.8
+      "ageHours": 13.8
     },
     {
       "title": "Rescue efforts continue, but hopes of finding earthquake survivors fade in Venezuela",
@@ -562,7 +574,7 @@
       "videoId": "cdGz1xbY-vY",
       "viewsPerHour": 0,
       "views": 1,
-      "ageHours": 11.5
+      "ageHours": 13.5
     }
   ]
 }
