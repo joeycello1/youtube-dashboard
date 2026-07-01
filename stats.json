@@ -2,35 +2,35 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
+      "count": 8
+    },
+    {
+      "channel": "More Perfect Union",
       "count": 9
     },
     {
       "channel": "PBS NewsHour",
-      "count": 6
+      "count": 7
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 7
     },
     {
       "channel": "Conan O'Brien",
-      "count": 13
-    },
-    {
-      "channel": "Real Stories",
-      "count": 24
-    },
-    {
-      "channel": "More Perfect Union",
-      "count": 8
+      "count": 15
     },
     {
       "channel": "The Daily Show",
       "count": 6
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 23
+      "channel": "Real Stories",
+      "count": 24
     },
     {
-      "channel": "Last Week Tonight",
-      "count": 6
+      "channel": "Louis Rossmann",
+      "count": 23
     },
     {
       "channel": "The Rest Is Science",
@@ -72,23 +72,31 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
+      "count": 8
+    },
+    {
+      "keyword": "More Perfect Union",
       "count": 9
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 6
+      "count": 7
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 7
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 13
+      "count": 15
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 5
     },
     {
       "keyword": "Real Stories",
       "count": 14
-    },
-    {
-      "keyword": "More Perfect Union",
-      "count": 8
     },
     {
       "keyword": "The Daily Show, AI",
@@ -97,10 +105,6 @@
     {
       "keyword": "Louis Rossmann",
       "count": 19
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "count": 6
     },
     {
       "keyword": "The Rest Is Science",
@@ -113,10 +117,6 @@
     {
       "keyword": "Louis Rossmann, AI",
       "count": 3
-    },
-    {
-      "keyword": "The Daily Show",
-      "count": 5
     },
     {
       "keyword": "The Interview",
@@ -182,11 +182,11 @@
   "dailySummary": [
     {
       "date": "2026-07-01",
-      "videos": 3
+      "videos": 12
     },
     {
       "date": "2026-06-30",
-      "videos": 15
+      "videos": 11
     },
     {
       "date": "2026-06-29",
@@ -210,7 +210,7 @@
     },
     {
       "date": "2026-06-24",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-06-23",
@@ -356,22 +356,30 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 9
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 6
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 7
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 2
+      "matches": 8
     },
     {
       "keyword": "More Perfect Union",
+      "matches": 3
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 7
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 4
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 9
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 5
+    },
+    {
+      "keyword": "Real Stories",
       "matches": 2
     },
     {
@@ -381,10 +389,6 @@
     {
       "keyword": "Louis Rossmann",
       "matches": 8
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "matches": 3
     },
     {
       "keyword": "The Rest Is Science",
@@ -397,10 +401,6 @@
     {
       "keyword": "Louis Rossmann, AI",
       "matches": 2
-    },
-    {
-      "keyword": "The Daily Show",
-      "matches": 4
     },
     {
       "keyword": "The Interview",
@@ -417,148 +417,180 @@
   ],
   "mostViral48h": [
     {
-      "title": "Peter Thiel's Plan To Replace Democracy (And Profit Off What Comes Next)",
+      "title": "The Daily Show Celebrates 250 Years of America, and Maybe 250 More? | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "lMk2nH3DqtE",
+      "viewsPerHour": 83273,
+      "views": 441962,
+      "ageHours": 5.3
+    },
+    {
+      "title": "Scranton's Train Set: Last Week Tonight with John Oliver (Bonus Segments)",
+      "channel": "Last Week Tonight",
+      "videoId": "S0OiT5GOXaY",
+      "viewsPerHour": 7691,
+      "views": 17758,
+      "ageHours": 2.3
+    },
+    {
+      "title": "We Investigated $1 Billion in Waste Hidden in Arizona's Education Budget",
       "channel": "More Perfect Union",
-      "videoId": "6iLf2h_fo-w",
-      "viewsPerHour": 8179,
-      "views": 383043,
-      "ageHours": 46.8
+      "videoId": "JpmIaajDfcM",
+      "viewsPerHour": 7054,
+      "views": 14892,
+      "ageHours": 2.1
     },
     {
       "title": "PBS News Hour full episode, June 30, 2026",
       "channel": "PBS NewsHour",
       "videoId": "RHlf46c_PrU",
-      "viewsPerHour": 3713,
+      "viewsPerHour": 3312,
       "views": 61658,
-      "ageHours": 16.6
+      "ageHours": 18.6
     },
     {
-      "title": "Trump is TOO FOCUSED on “SAVE Act”: Report",
+      "title": "Conan Unboxes “Toy Story 5” Merch (Preview) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "TwOm72hG_7U",
+      "viewsPerHour": 1118,
+      "views": 3703,
+      "ageHours": 3.3
+    },
+    {
+      "title": "Melania Trump is “as American as I am”: Anand Giridharadas on birthright citizenship",
       "channel": "MS NOW",
-      "videoId": "BRDmm-X_ZAE",
-      "viewsPerHour": 620,
-      "views": 3801,
-      "ageHours": 6.1
+      "videoId": "74gvxAFQ6H8",
+      "viewsPerHour": 835,
+      "views": 1582,
+      "ageHours": 1.9
     },
     {
       "title": "Conan's Audio Engineer Eduardo Shares His World Cup Predictions | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "1RFHp-F6d0E",
-      "viewsPerHour": 581,
+      "viewsPerHour": 542,
       "views": 16438,
-      "ageHours": 28.3
+      "ageHours": 30.3
     },
     {
-      "title": "LIVE: GOP Rep. Tom Kean returns to Congress after mystery illness, months-long absence",
+      "title": "Trump is TOO FOCUSED on “SAVE Act”: Report",
       "channel": "MS NOW",
-      "videoId": "URFZBUIcK3s",
-      "viewsPerHour": 515,
-      "views": 12760,
-      "ageHours": 24.8
+      "videoId": "BRDmm-X_ZAE",
+      "viewsPerHour": 467,
+      "views": 3801,
+      "ageHours": 8.1
     },
     {
-      "title": "Melat Kiros defeats Rep. Diana DeGette in Colorado Democratic primary",
-      "channel": "MS NOW",
-      "videoId": "Jqbq8ak2X6E",
-      "viewsPerHour": 365,
-      "views": 2162,
-      "ageHours": 5.9
+      "title": "WATCH LIVE: Blanche, DOJ officials announce Tren de Aragua operation outcome",
+      "channel": "PBS NewsHour",
+      "videoId": "KW7VDsdlXuM",
+      "viewsPerHour": 315,
+      "views": 704,
+      "ageHours": 2.2
     },
     {
       "title": "Nicolle: 'In Donald Trump's America, NONE OF US can afford to be complacent'",
       "channel": "MS NOW",
       "videoId": "XAm8zF54NgI",
-      "viewsPerHour": 316,
+      "viewsPerHour": 284,
       "views": 5687,
-      "ageHours": 18
+      "ageHours": 20
+    },
+    {
+      "title": "Melat Kiros defeats Rep. Diana DeGette in Colorado Democratic primary",
+      "channel": "MS NOW",
+      "videoId": "Jqbq8ak2X6E",
+      "viewsPerHour": 273,
+      "views": 2162,
+      "ageHours": 7.9
     },
     {
       "title": "PBS News Hour full episode, June 30, 2026",
       "channel": "PBS NewsHour",
       "videoId": "lVnVd6lOTPI",
-      "viewsPerHour": 222,
+      "viewsPerHour": 201,
       "views": 4199,
-      "ageHours": 18.9
+      "ageHours": 20.9
+    },
+    {
+      "title": "Alfre Woodard (Full Episode) | Where Everybody Knows Your Name",
+      "channel": "Conan O'Brien",
+      "videoId": "Yoqh2P2MyOM",
+      "viewsPerHour": 197,
+      "views": 1241,
+      "ageHours": 6.3
+    },
+    {
+      "title": "WATCH LIVE: Vance marks 250 years of military history at Naval Air Station Oceana in Virginia Beach",
+      "channel": "PBS NewsHour",
+      "videoId": "hOCjtra23B4",
+      "viewsPerHour": 174,
+      "views": 395,
+      "ageHours": 2.3
     },
     {
       "title": "Dave Portnoy and Amna Nawaz discuss media and controversies on 'Settle In'",
       "channel": "PBS NewsHour",
       "videoId": "OfJVOpFUOeA",
-      "viewsPerHour": 176,
+      "viewsPerHour": 157,
       "views": 2953,
-      "ageHours": 16.8
-    },
-    {
-      "title": "Key Democrat SLAMS White House: \"NO CLEAR PATH\" for legal immigration",
-      "channel": "MS NOW",
-      "videoId": "fhJ2zYzYe88",
-      "viewsPerHour": 150,
-      "views": 3713,
-      "ageHours": 24.7
-    },
-    {
-      "title": "Trump's LATEST stock purchase IN THE MILLIONS raises more ethics questions",
-      "channel": "MS NOW",
-      "videoId": "_0MdtQLj8-I",
-      "viewsPerHour": 135,
-      "views": 3246,
-      "ageHours": 24
+      "ageHours": 18.8
     },
     {
       "title": "Eric Andre Quit Bragging About Injuries When He Met \"Jackass\" Crew | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "zvvF3S2RWBA",
-      "viewsPerHour": 113,
+      "viewsPerHour": 103,
       "views": 2397,
-      "ageHours": 21.3
-    },
-    {
-      "title": "WATCH LIVE: Rep. Tom Kean Jr. says he was absent from Congress while recovering from depression",
-      "channel": "PBS NewsHour",
-      "videoId": "8h3RpDy6EdY",
-      "viewsPerHour": 97,
-      "views": 2649,
-      "ageHours": 27.2
-    },
-    {
-      "title": "MS NOW Highlights - June 30",
-      "channel": "MS NOW",
-      "videoId": "QbqpJU7ythk",
-      "viewsPerHour": 95,
-      "views": 561,
-      "ageHours": 5.9
+      "ageHours": 23.3
     },
     {
       "title": "Pro-Trump Supreme Court bends the knee to Republicans AGAIN with BLATANT anti-constitution move",
       "channel": "MS NOW",
       "videoId": "HnehA7436Qk",
-      "viewsPerHour": 85,
+      "viewsPerHour": 77,
       "views": 1510,
-      "ageHours": 17.7
+      "ageHours": 19.7
+    },
+    {
+      "title": "MS NOW Highlights - June 30",
+      "channel": "MS NOW",
+      "videoId": "QbqpJU7ythk",
+      "viewsPerHour": 71,
+      "views": 561,
+      "ageHours": 7.9
     },
     {
       "title": "Eye Of The Beholder: The Story Of Looking With Mark Cousins",
       "channel": "Real Stories",
       "videoId": "kfa4Vud7Ojk",
-      "viewsPerHour": 64,
-      "views": 1553,
-      "ageHours": 24.3
+      "viewsPerHour": 61,
+      "views": 1617,
+      "ageHours": 26.3
     },
     {
       "title": "Trump's response to the landmark Supreme Court rulings and what's next",
       "channel": "PBS NewsHour",
       "videoId": "MgE4x7vs7hk",
-      "viewsPerHour": 25,
+      "viewsPerHour": 22,
       "views": 438,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
       "title": "Andrew Tate’s 'Empire of Abuse' with Heidi Blake and Chris Hayes",
       "channel": "MS NOW",
       "videoId": "fyXbhsrb4Rs",
-      "viewsPerHour": 22,
+      "viewsPerHour": 20,
       "views": 394,
-      "ageHours": 17.8
+      "ageHours": 19.8
+    },
+    {
+      "title": "LIVE: Two people climb to the top of the Empire State Building",
+      "channel": "MS NOW",
+      "videoId": "uoNUksTaFo4",
+      "viewsPerHour": 16,
+      "views": 24,
+      "ageHours": 1.5
     },
     {
       "title": "Rescue efforts continue, but hopes of finding earthquake survivors fade in Venezuela",
@@ -566,7 +598,7 @@
       "videoId": "cdGz1xbY-vY",
       "viewsPerHour": 0,
       "views": 1,
-      "ageHours": 17.5
+      "ageHours": 19.5
     }
   ]
 }
