@@ -1,12 +1,20 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
-      "count": 5
+      "channel": "MS NOW",
+      "count": 7
     },
     {
-      "channel": "MS NOW",
+      "channel": "NOVA",
       "count": 8
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 6
+    },
+    {
+      "channel": "The Rest Is Science",
+      "count": 5
     },
     {
       "channel": "More Perfect Union",
@@ -33,10 +41,6 @@
       "count": 21
     },
     {
-      "channel": "The Rest Is Science",
-      "count": 4
-    },
-    {
       "channel": "The Interview",
       "count": 6
     },
@@ -57,10 +61,6 @@
       "count": 4
     },
     {
-      "channel": "NOVA",
-      "count": 7
-    },
-    {
       "channel": "Inside AI",
       "count": 2
     },
@@ -71,12 +71,20 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "PBS NewsHour",
-      "count": 5
+      "keyword": "MS NOW",
+      "count": 7
     },
     {
-      "keyword": "MS NOW",
+      "keyword": "NOVA",
       "count": 8
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 6
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "count": 5
     },
     {
       "keyword": "More Perfect Union",
@@ -105,10 +113,6 @@
     {
       "keyword": "Louis Rossmann",
       "count": 17
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "count": 4
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -147,10 +151,6 @@
       "count": 1
     },
     {
-      "keyword": "NOVA",
-      "count": 7
-    },
-    {
       "keyword": "testimony, UFO, Giza",
       "count": 1
     },
@@ -181,8 +181,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-07-02",
+      "videos": 3
+    },
+    {
       "date": "2026-07-01",
-      "videos": 18
+      "videos": 17
     },
     {
       "date": "2026-06-30",
@@ -351,12 +355,20 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
-      "matches": 5
+      "keyword": "MS NOW",
+      "matches": 7
     },
     {
-      "keyword": "MS NOW",
-      "matches": 8
+      "keyword": "NOVA",
+      "matches": 1
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 6
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "matches": 2
     },
     {
       "keyword": "More Perfect Union",
@@ -368,11 +380,11 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 9
+      "matches": 8
     },
     {
       "keyword": "The Daily Show",
-      "matches": 3
+      "matches": 2
     },
     {
       "keyword": "Real Stories",
@@ -385,10 +397,6 @@
     {
       "keyword": "Louis Rossmann",
       "matches": 7
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "matches": 1
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -412,161 +420,169 @@
       "title": "The Daily Show Celebrates 250 Years of America, and Maybe 250 More? | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "lMk2nH3DqtE",
-      "viewsPerHour": 71782,
-      "views": 1529631,
-      "ageHours": 21.3
+      "viewsPerHour": 67930,
+      "views": 1581993,
+      "ageHours": 23.3
     },
     {
       "title": "We Investigated $1 Billion in Waste Hidden in Arizona's Education Budget",
       "channel": "More Perfect Union",
       "videoId": "JpmIaajDfcM",
-      "viewsPerHour": 7401,
-      "views": 134050,
-      "ageHours": 18.1
+      "viewsPerHour": 6957,
+      "views": 139790,
+      "ageHours": 20.1
+    },
+    {
+      "title": "PBS News Hour full episode, July 1, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "tR5QdzSC0WU",
+      "viewsPerHour": 6799,
+      "views": 87002,
+      "ageHours": 12.8
     },
     {
       "title": "Scranton's Train Set: Last Week Tonight with John Oliver (Bonus Segments)",
       "channel": "Last Week Tonight",
       "videoId": "S0OiT5GOXaY",
-      "viewsPerHour": 7188,
-      "views": 131628,
-      "ageHours": 18.3
+      "viewsPerHour": 6695,
+      "views": 135835,
+      "ageHours": 20.3
+    },
+    {
+      "title": "The Most Dangerous Rock in Hannah's Collection",
+      "channel": "The Rest Is Science",
+      "videoId": "TawMXnHPeLc",
+      "viewsPerHour": 5481,
+      "views": 72341,
+      "ageHours": 13.2
+    },
+    {
+      "title": "‘Beyond belief’: Trump’s rationale for $1.4 BILLION crypto earnings, Qatari plane raises eyebrows",
+      "channel": "MS NOW",
+      "videoId": "nL7PGaPdnbQ",
+      "viewsPerHour": 3026,
+      "views": 19250,
+      "ageHours": 6.4
     },
     {
       "title": "MS NOW EXCLUSIVE: Former CIA Director targeted by Trump SPEAKS OUT after SUING Trump and DOJ",
       "channel": "MS NOW",
       "videoId": "5qPLu4w4d0U",
-      "viewsPerHour": 1017,
+      "viewsPerHour": 878,
       "views": 12667,
-      "ageHours": 12.5
+      "ageHours": 14.4
     },
     {
       "title": "House GOP rebellion jeopardizes members' top priorities as Speaker Johnson starts recess early",
       "channel": "MS NOW",
       "videoId": "qR9Q2giKtDY",
-      "viewsPerHour": 546,
+      "viewsPerHour": 470,
       "views": 6674,
-      "ageHours": 12.2
+      "ageHours": 14.2
     },
     {
-      "title": "Conan's Audio Engineer Eduardo Shares His World Cup Predictions | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "1RFHp-F6d0E",
-      "viewsPerHour": 355,
-      "views": 16438,
-      "ageHours": 46.3
+      "title": "U.S., Iran agree to more talks as Trump weighs ‘ALL OUT WAR’",
+      "channel": "MS NOW",
+      "videoId": "oV5ELLnPaaQ",
+      "viewsPerHour": 345,
+      "views": 610,
+      "ageHours": 1.8
     },
     {
       "title": "PBS News Hour live episode, July 1, 2026",
       "channel": "PBS NewsHour",
       "videoId": "_5QUjoRQHd4",
-      "viewsPerHour": 322,
+      "viewsPerHour": 280,
       "views": 4274,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "TACKY, ego-driven': Nicolle roasts Trump for ANNOYING his own base with vanity project OBSESSION",
       "channel": "MS NOW",
       "videoId": "S_YH2VzicrE",
-      "viewsPerHour": 320,
+      "viewsPerHour": 274,
       "views": 3779,
-      "ageHours": 11.8
+      "ageHours": 13.8
     },
     {
       "title": "Conan Unboxes “Toy Story 5” Merch (Preview) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "TwOm72hG_7U",
-      "viewsPerHour": 192,
+      "viewsPerHour": 174,
       "views": 3703,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
-      "title": "Trump is TOO FOCUSED on “SAVE Act”: Report",
-      "channel": "MS NOW",
-      "videoId": "BRDmm-X_ZAE",
-      "viewsPerHour": 157,
-      "views": 3801,
-      "ageHours": 24.1
-    },
-    {
-      "title": "Melat Kiros defeats Rep. Diana DeGette in Colorado Democratic primary",
-      "channel": "MS NOW",
-      "videoId": "Jqbq8ak2X6E",
-      "viewsPerHour": 90,
-      "views": 2162,
-      "ageHours": 23.9
+      "title": "Interview: From T. rex to Birds with Steve Brusatte | Particles of Thought",
+      "channel": "NOVA",
+      "videoId": "_p6tMvlLqdk",
+      "viewsPerHour": 158,
+      "views": 361,
+      "ageHours": 2.3
     },
     {
       "title": "Melania Trump is “as American as I am”: Anand Giridharadas on birthright citizenship",
       "channel": "MS NOW",
       "videoId": "74gvxAFQ6H8",
-      "viewsPerHour": 88,
+      "viewsPerHour": 80,
       "views": 1582,
-      "ageHours": 17.9
+      "ageHours": 19.9
     },
     {
       "title": "Eric Andre Quit Bragging About Injuries When He Met \"Jackass\" Crew | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "zvvF3S2RWBA",
-      "viewsPerHour": 61,
+      "viewsPerHour": 58,
       "views": 2397,
-      "ageHours": 39.3
-    },
-    {
-      "title": "We're not stopping': Virginia rescue team searches for quake survivors in Venezuela",
-      "channel": "PBS NewsHour",
-      "videoId": "dF5OApafl-I",
-      "viewsPerHour": 57,
-      "views": 670,
-      "ageHours": 11.7
+      "ageHours": 41.3
     },
     {
       "title": "Alfre Woodard (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "Yoqh2P2MyOM",
-      "viewsPerHour": 56,
+      "viewsPerHour": 51,
       "views": 1241,
-      "ageHours": 22.3
+      "ageHours": 24.3
+    },
+    {
+      "title": "We're not stopping': Virginia rescue team searches for quake survivors in Venezuela",
+      "channel": "PBS NewsHour",
+      "videoId": "dF5OApafl-I",
+      "viewsPerHour": 49,
+      "views": 670,
+      "ageHours": 13.7
     },
     {
       "title": "Millions of Americans face dangerous temperatures as heat wave bears down",
       "channel": "PBS NewsHour",
       "videoId": "pryFRXwmZuY",
-      "viewsPerHour": 52,
+      "viewsPerHour": 44,
       "views": 604,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "Eye Of The Beholder: The Story Of Looking With Mark Cousins",
       "channel": "Real Stories",
       "videoId": "kfa4Vud7Ojk",
-      "viewsPerHour": 45,
-      "views": 1904,
-      "ageHours": 42.3
+      "viewsPerHour": 44,
+      "views": 1934,
+      "ageHours": 44.3
     },
     {
       "title": "WATCH LIVE: Blanche, DOJ officials announce Tren de Aragua operation outcome",
       "channel": "PBS NewsHour",
       "videoId": "KW7VDsdlXuM",
-      "viewsPerHour": 39,
+      "viewsPerHour": 35,
       "views": 704,
-      "ageHours": 18.2
-    },
-    {
-      "title": "MS NOW Highlights - June 30",
-      "channel": "MS NOW",
-      "videoId": "QbqpJU7ythk",
-      "viewsPerHour": 23,
-      "views": 561,
-      "ageHours": 23.9
+      "ageHours": 20.2
     },
     {
       "title": "WATCH LIVE: Vance marks 250 years of military history at Naval Air Station Oceana in Virginia Beach",
       "channel": "PBS NewsHour",
       "videoId": "hOCjtra23B4",
-      "viewsPerHour": 22,
+      "viewsPerHour": 20,
       "views": 395,
-      "ageHours": 18.3
+      "ageHours": 20.3
     },
     {
       "title": "LIVE: Two people climb to the top of the Empire State Building",
@@ -574,7 +590,7 @@
       "videoId": "uoNUksTaFo4",
       "viewsPerHour": 1,
       "views": 24,
-      "ageHours": 17.5
+      "ageHours": 19.5
     }
   ]
 }
