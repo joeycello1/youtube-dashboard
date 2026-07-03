@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 9
+      "count": 10
     },
     {
       "channel": "Louis Rossmann",
@@ -50,7 +50,7 @@
     },
     {
       "channel": "Diary of a CEO",
-      "count": 2
+      "count": 1
     },
     {
       "channel": "Jonathan Pie",
@@ -70,6 +70,10 @@
     }
   ],
   "keywordFrequency": [
+    {
+      "keyword": "MS NOW, The Interview",
+      "count": 1
+    },
     {
       "keyword": "MS NOW",
       "count": 9
@@ -136,7 +140,7 @@
     },
     {
       "keyword": "AI",
-      "count": 4
+      "count": 3
     },
     {
       "keyword": "Louis Rossmann, Samsung",
@@ -186,11 +190,11 @@
   "dailySummary": [
     {
       "date": "2026-07-03",
-      "videos": 4
+      "videos": 7
     },
     {
       "date": "2026-07-02",
-      "videos": 18
+      "videos": 16
     },
     {
       "date": "2026-07-01",
@@ -246,7 +250,7 @@
     },
     {
       "date": "2026-06-18",
-      "videos": 8
+      "videos": 7
     },
     {
       "date": "2026-06-16",
@@ -359,12 +363,16 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "MS NOW, The Interview",
+      "matches": 1
+    },
+    {
       "keyword": "MS NOW",
       "matches": 9
     },
     {
       "keyword": "Louis Rossmann",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "PBS NewsHour",
@@ -380,7 +388,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "NOVA",
@@ -428,225 +436,225 @@
       "title": "The Daily Show Celebrates 250 Years of America, and Maybe 250 More? | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "lMk2nH3DqtE",
-      "viewsPerHour": 46138,
-      "views": 2089562,
-      "ageHours": 45.3
+      "viewsPerHour": 44580,
+      "views": 2108485,
+      "ageHours": 47.3
     },
     {
       "title": "We Investigated $1 Billion in Waste Hidden in Arizona's Education Budget",
       "channel": "More Perfect Union",
       "videoId": "JpmIaajDfcM",
-      "viewsPerHour": 5803,
-      "views": 244283,
-      "ageHours": 42.1
+      "viewsPerHour": 5610,
+      "views": 247426,
+      "ageHours": 44.1
     },
     {
       "title": "Scranton's Train Set: Last Week Tonight with John Oliver (Bonus Segments)",
       "channel": "Last Week Tonight",
       "videoId": "S0OiT5GOXaY",
-      "viewsPerHour": 4688,
-      "views": 198260,
-      "ageHours": 42.3
+      "viewsPerHour": 4521,
+      "views": 200291,
+      "ageHours": 44.3
+    },
+    {
+      "title": " ‘Actions of a traitor’: Trump escalates assault on voting rights as midterms near",
+      "channel": "MS NOW",
+      "videoId": "HX7NnxJQtp0",
+      "viewsPerHour": 4364,
+      "views": 31618,
+      "ageHours": 7.2
     },
     {
       "title": "The Most Dangerous Rock in Hannah's Collection",
       "channel": "The Rest Is Science",
       "videoId": "TawMXnHPeLc",
-      "viewsPerHour": 4273,
-      "views": 150402,
-      "ageHours": 35.2
+      "viewsPerHour": 4128,
+      "views": 153572,
+      "ageHours": 37.2
     },
     {
       "title": "StopKillingGames: Jennifer Gibbons tells senators running Minecraft server is ILLEGAL",
       "channel": "Louis Rossmann",
       "videoId": "e4Y9Wzp-wwg",
-      "viewsPerHour": 3971,
+      "viewsPerHour": 3383,
       "views": 45896,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "PBS News Hour full episode, July 2, 2026",
       "channel": "PBS NewsHour",
       "videoId": "JD-tWcUzops",
-      "viewsPerHour": 3660,
+      "viewsPerHour": 3082,
       "views": 39225,
-      "ageHours": 10.7
+      "ageHours": 12.7
+    },
+    {
+      "title": "Trump boasts of plan to 'pardon everyone': report",
+      "channel": "MS NOW",
+      "videoId": "isb_soQz98g",
+      "viewsPerHour": 3042,
+      "views": 22463,
+      "ageHours": 7.4
+    },
+    {
+      "title": "MS NOW hosts react to Jack Smith’s EXCLUSIVE interview with Nicolle Wallace | COMPILATION",
+      "channel": "MS NOW",
+      "videoId": "ndNpWuH6sOU",
+      "viewsPerHour": 2710,
+      "views": 18711,
+      "ageHours": 6.9
     },
     {
       "title": "Nicolle: Trump is already using his 'dangerous and insidious' lies to challenge midterm elections",
       "channel": "MS NOW",
       "videoId": "yv089TMj_I0",
-      "viewsPerHour": 1642,
+      "viewsPerHour": 1422,
       "views": 21270,
-      "ageHours": 13
+      "ageHours": 15
     },
     {
       "title": "California votes to ruin 3D printing right after voting against StopKillingGames 🤦🤦🤦🤦🤦",
       "channel": "Louis Rossmann",
       "videoId": "_GIigWnNRVg",
-      "viewsPerHour": 1564,
+      "viewsPerHour": 1273,
       "views": 13698,
-      "ageHours": 8.8
+      "ageHours": 10.8
     },
     {
       "title": "Conan Vs. Edibles Pt. III | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "GgjBvS9yC8I",
-      "viewsPerHour": 1265,
+      "viewsPerHour": 1160,
       "views": 28187,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "Louis Theroux Explores The Extremely High Cost Of End Of Life Care in America",
       "channel": "Real Stories",
       "videoId": "lLflXHVWcqQ",
-      "viewsPerHour": 1126,
-      "views": 18341,
-      "ageHours": 16.3
-    },
-    {
-      "title": "‘Beyond belief’: Trump’s rationale for $1.4 BILLION crypto earnings, Qatari plane raises eyebrows",
-      "channel": "MS NOW",
-      "videoId": "nL7PGaPdnbQ",
-      "viewsPerHour": 679,
-      "views": 19250,
-      "ageHours": 28.4
+      "viewsPerHour": 1021,
+      "views": 18676,
+      "ageHours": 18.3
     },
     {
       "title": "PBS News Hour live episode, July 2, 2026",
       "channel": "PBS NewsHour",
       "videoId": "8VZoHsNBsGc",
-      "viewsPerHour": 319,
+      "viewsPerHour": 277,
       "views": 4216,
-      "ageHours": 13.2
+      "ageHours": 15.2
     },
     {
       "title": "A look at America's founding from the room where independence was declared",
       "channel": "PBS NewsHour",
       "videoId": "n0hMASeVhU4",
-      "viewsPerHour": 280,
+      "viewsPerHour": 237,
       "views": 3097,
-      "ageHours": 11.1
+      "ageHours": 13.1
     },
     {
       "title": "Attack on the rule of law': Nicolle’s instant reaction to EXCLUSIVE Jack Smith interview",
       "channel": "MS NOW",
       "videoId": "VrykQmKjxsQ",
-      "viewsPerHour": 274,
+      "viewsPerHour": 234,
       "views": 3213,
-      "ageHours": 11.7
+      "ageHours": 13.7
     },
     {
       "title": "Tom Hanks Feels Competitive About Being Conan’s Friend | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Ih_Fypqec8I",
-      "viewsPerHour": 225,
+      "viewsPerHour": 204,
       "views": 4334,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "Trump 'HIJACKED' America 250th celebration, used to it to 'enrich himself': Report",
       "channel": "MS NOW",
       "videoId": "OHpjpFz-jG0",
-      "viewsPerHour": 218,
+      "viewsPerHour": 196,
       "views": 3912,
-      "ageHours": 17.9
-    },
-    {
-      "title": "Hard-fought win raises hopes for U.S. in World Cup",
-      "channel": "PBS NewsHour",
-      "videoId": "CEVtKJpXAgs",
-      "viewsPerHour": 146,
-      "views": 1626,
-      "ageHours": 11.2
+      "ageHours": 19.9
     },
     {
       "title": "Interview: From T. rex to Birds with Steve Brusatte | Particles of Thought",
       "channel": "NOVA",
       "videoId": "_p6tMvlLqdk",
-      "viewsPerHour": 145,
-      "views": 3531,
-      "ageHours": 24.3
+      "viewsPerHour": 137,
+      "views": 3593,
+      "ageHours": 26.3
+    },
+    {
+      "title": "Hard-fought win raises hopes for U.S. in World Cup",
+      "channel": "PBS NewsHour",
+      "videoId": "CEVtKJpXAgs",
+      "viewsPerHour": 123,
+      "views": 1626,
+      "ageHours": 13.2
     },
     {
       "title": "Josh Turek: ‘Iowans are ready for change and the winds of change are here’",
       "channel": "MS NOW",
       "videoId": "ynBitQevshc",
-      "viewsPerHour": 128,
+      "viewsPerHour": 98,
       "views": 835,
-      "ageHours": 6.5
+      "ageHours": 8.5
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - July 2 | Audio Only",
       "channel": "MS NOW",
       "videoId": "IsYUzw8Zubc",
-      "viewsPerHour": 125,
+      "viewsPerHour": 94,
       "views": 742,
-      "ageHours": 5.9
+      "ageHours": 7.9
     },
     {
       "title": "Conan Unboxes “Toy Story 5” Merch (Preview) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "TwOm72hG_7U",
-      "viewsPerHour": 86,
+      "viewsPerHour": 82,
       "views": 3703,
-      "ageHours": 43.3
+      "ageHours": 45.3
     },
     {
       "title": "“There are no easy answers to inflation”: Insana on economic frustrations ahead of the midterms",
       "channel": "MS NOW",
       "videoId": "Rl8490IMxo0",
-      "viewsPerHour": 77,
+      "viewsPerHour": 70,
       "views": 1415,
-      "ageHours": 18.3
+      "ageHours": 20.3
     },
     {
       "title": "Unlocks everything': Democratic socialist says Democrats should swear off corporate money",
       "channel": "MS NOW",
       "videoId": "g86Q6a81JGU",
-      "viewsPerHour": 56,
+      "viewsPerHour": 41,
       "views": 315,
-      "ageHours": 5.7
-    },
-    {
-      "title": "Alfre Woodard (Full Episode) | Where Everybody Knows Your Name",
-      "channel": "Conan O'Brien",
-      "videoId": "Yoqh2P2MyOM",
-      "viewsPerHour": 27,
-      "views": 1241,
-      "ageHours": 46.3
-    },
-    {
-      "title": "U.S., Iran agree to more talks as Trump weighs ‘ALL OUT WAR’",
-      "channel": "MS NOW",
-      "videoId": "oV5ELLnPaaQ",
-      "viewsPerHour": 26,
-      "views": 610,
-      "ageHours": 23.8
+      "ageHours": 7.7
     },
     {
       "title": "How George Washington shaped America",
       "channel": "PBS NewsHour",
       "videoId": "DCT1kpVhnJU",
-      "viewsPerHour": 13,
+      "viewsPerHour": 11,
       "views": 236,
-      "ageHours": 18.7
+      "ageHours": 20.7
     },
     {
       "title": "As Venezuela crisis deepens, Chef José Andrés feeds earthquake survivors and search teams",
       "channel": "PBS NewsHour",
       "videoId": "2SAuhCv0pdA",
-      "viewsPerHour": 12,
+      "viewsPerHour": 10,
       "views": 142,
-      "ageHours": 11.7
+      "ageHours": 13.7
     },
     {
       "title": "How legal battles across the country could complicate the midterms",
       "channel": "PBS NewsHour",
       "videoId": "WoWSRQrOUjk",
-      "viewsPerHour": 4,
+      "viewsPerHour": 3,
       "views": 41,
-      "ageHours": 11.6
+      "ageHours": 13.6
     }
   ]
 }
