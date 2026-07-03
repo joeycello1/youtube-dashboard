@@ -425,204 +425,176 @@
     {
       "keyword": "The Interview",
       "matches": 1
-    },
-    {
-      "keyword": "UFO",
-      "matches": 1
     }
   ],
   "mostViral48h": [
     {
-      "title": "We Investigated $1 Billion in Waste Hidden in Arizona's Education Budget",
-      "channel": "More Perfect Union",
-      "videoId": "JpmIaajDfcM",
-      "viewsPerHour": 5515,
-      "views": 254199,
-      "ageHours": 46.1
-    },
-    {
-      "title": "Scranton's Train Set: Last Week Tonight with John Oliver (Bonus Segments)",
-      "channel": "Last Week Tonight",
-      "videoId": "S0OiT5GOXaY",
-      "viewsPerHour": 4398,
-      "views": 203574,
-      "ageHours": 46.3
-    },
-    {
       "title": "The Most Dangerous Rock in Hannah's Collection",
       "channel": "The Rest Is Science",
       "videoId": "TawMXnHPeLc",
-      "viewsPerHour": 4006,
-      "views": 157025,
-      "ageHours": 39.2
+      "viewsPerHour": 3905,
+      "views": 160890,
+      "ageHours": 41.2
     },
     {
       "title": " ‘Actions of a traitor’: Trump escalates assault on voting rights as midterms near",
       "channel": "MS NOW",
       "videoId": "HX7NnxJQtp0",
-      "viewsPerHour": 3423,
+      "viewsPerHour": 2812,
       "views": 31618,
-      "ageHours": 9.2
+      "ageHours": 11.2
     },
     {
       "title": "StopKillingGames: Jennifer Gibbons tells senators running Minecraft server is ILLEGAL",
       "channel": "Louis Rossmann",
       "videoId": "e4Y9Wzp-wwg",
-      "viewsPerHour": 2950,
+      "viewsPerHour": 2613,
       "views": 45896,
-      "ageHours": 15.6
+      "ageHours": 17.6
     },
     {
       "title": "PBS News Hour full episode, July 2, 2026",
       "channel": "PBS NewsHour",
       "videoId": "JD-tWcUzops",
-      "viewsPerHour": 2665,
+      "viewsPerHour": 2346,
       "views": 39225,
-      "ageHours": 14.7
+      "ageHours": 16.7
     },
     {
       "title": "Trump boasts of plan to 'pardon everyone': report",
       "channel": "MS NOW",
       "videoId": "isb_soQz98g",
-      "viewsPerHour": 2396,
+      "viewsPerHour": 1974,
       "views": 22463,
-      "ageHours": 9.4
+      "ageHours": 11.4
     },
     {
       "title": "MS NOW hosts react to Jack Smith’s EXCLUSIVE interview with Nicolle Wallace | COMPILATION",
       "channel": "MS NOW",
       "videoId": "ndNpWuH6sOU",
-      "viewsPerHour": 2104,
+      "viewsPerHour": 1716,
       "views": 18711,
-      "ageHours": 8.9
+      "ageHours": 10.9
     },
     {
       "title": "Nicolle: Trump is already using his 'dangerous and insidious' lies to challenge midterm elections",
       "channel": "MS NOW",
       "videoId": "yv089TMj_I0",
-      "viewsPerHour": 1255,
+      "viewsPerHour": 1122,
       "views": 21270,
-      "ageHours": 17
-    },
-    {
-      "title": "California votes to ruin 3D printing right after voting against StopKillingGames 🤦🤦🤦🤦🤦",
-      "channel": "Louis Rossmann",
-      "videoId": "_GIigWnNRVg",
-      "viewsPerHour": 1074,
-      "views": 13698,
-      "ageHours": 12.8
+      "ageHours": 19
     },
     {
       "title": "Conan Vs. Edibles Pt. III | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "GgjBvS9yC8I",
-      "viewsPerHour": 1072,
+      "viewsPerHour": 996,
       "views": 28187,
-      "ageHours": 26.3
+      "ageHours": 28.3
+    },
+    {
+      "title": "California votes to ruin 3D printing right after voting against StopKillingGames 🤦🤦🤦🤦🤦",
+      "channel": "Louis Rossmann",
+      "videoId": "_GIigWnNRVg",
+      "viewsPerHour": 928,
+      "views": 13698,
+      "ageHours": 14.8
     },
     {
       "title": "Louis Theroux Explores The Extremely High Cost Of End Of Life Care in America",
       "channel": "Real Stories",
       "videoId": "lLflXHVWcqQ",
-      "viewsPerHour": 941,
-      "views": 19097,
-      "ageHours": 20.3
+      "viewsPerHour": 885,
+      "views": 19730,
+      "ageHours": 22.3
     },
     {
       "title": "PBS News Hour live episode, July 2, 2026",
       "channel": "PBS NewsHour",
       "videoId": "8VZoHsNBsGc",
-      "viewsPerHour": 245,
+      "viewsPerHour": 219,
       "views": 4216,
-      "ageHours": 17.2
-    },
-    {
-      "title": "A look at America's founding from the room where independence was declared",
-      "channel": "PBS NewsHour",
-      "videoId": "n0hMASeVhU4",
-      "viewsPerHour": 205,
-      "views": 3097,
-      "ageHours": 15.1
+      "ageHours": 19.2
     },
     {
       "title": "Attack on the rule of law': Nicolle’s instant reaction to EXCLUSIVE Jack Smith interview",
       "channel": "MS NOW",
       "videoId": "VrykQmKjxsQ",
-      "viewsPerHour": 204,
+      "viewsPerHour": 181,
       "views": 3213,
-      "ageHours": 15.7
+      "ageHours": 17.7
+    },
+    {
+      "title": "A look at America's founding from the room where independence was declared",
+      "channel": "PBS NewsHour",
+      "videoId": "n0hMASeVhU4",
+      "viewsPerHour": 181,
+      "views": 3097,
+      "ageHours": 17.1
     },
     {
       "title": "Tom Hanks Feels Competitive About Being Conan’s Friend | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Ih_Fypqec8I",
-      "viewsPerHour": 186,
+      "viewsPerHour": 171,
       "views": 4334,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "Trump 'HIJACKED' America 250th celebration, used to it to 'enrich himself': Report",
       "channel": "MS NOW",
       "videoId": "OHpjpFz-jG0",
-      "viewsPerHour": 178,
+      "viewsPerHour": 163,
       "views": 3912,
-      "ageHours": 21.9
+      "ageHours": 23.9
     },
     {
       "title": "Interview: From T. rex to Birds with Steve Brusatte | Particles of Thought",
       "channel": "NOVA",
       "videoId": "_p6tMvlLqdk",
-      "viewsPerHour": 134,
-      "views": 3793,
-      "ageHours": 28.3
+      "viewsPerHour": 135,
+      "views": 4096,
+      "ageHours": 30.3
     },
     {
       "title": "Hard-fought win raises hopes for U.S. in World Cup",
       "channel": "PBS NewsHour",
       "videoId": "CEVtKJpXAgs",
-      "viewsPerHour": 107,
+      "viewsPerHour": 95,
       "views": 1626,
-      "ageHours": 15.2
+      "ageHours": 17.2
     },
     {
       "title": "Josh Turek: ‘Iowans are ready for change and the winds of change are here’",
       "channel": "MS NOW",
       "videoId": "ynBitQevshc",
-      "viewsPerHour": 79,
+      "viewsPerHour": 67,
       "views": 835,
-      "ageHours": 10.5
-    },
-    {
-      "title": "Conan Unboxes “Toy Story 5” Merch (Preview) | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "TwOm72hG_7U",
-      "viewsPerHour": 78,
-      "views": 3703,
-      "ageHours": 47.3
+      "ageHours": 12.5
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - July 2 | Audio Only",
       "channel": "MS NOW",
       "videoId": "IsYUzw8Zubc",
-      "viewsPerHour": 75,
+      "viewsPerHour": 62,
       "views": 742,
-      "ageHours": 9.9
+      "ageHours": 11.9
     },
     {
       "title": "“There are no easy answers to inflation”: Insana on economic frustrations ahead of the midterms",
       "channel": "MS NOW",
       "videoId": "Rl8490IMxo0",
-      "viewsPerHour": 63,
+      "viewsPerHour": 58,
       "views": 1415,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "Unlocks everything': Democratic socialist says Democrats should swear off corporate money",
       "channel": "MS NOW",
       "videoId": "g86Q6a81JGU",
-      "viewsPerHour": 33,
+      "viewsPerHour": 27,
       "views": 315,
-      "ageHours": 9.6
+      "ageHours": 11.7
     },
     {
       "title": "How George Washington shaped America",
@@ -630,23 +602,23 @@
       "videoId": "DCT1kpVhnJU",
       "viewsPerHour": 10,
       "views": 236,
-      "ageHours": 22.7
+      "ageHours": 24.7
     },
     {
       "title": "As Venezuela crisis deepens, Chef José Andrés feeds earthquake survivors and search teams",
       "channel": "PBS NewsHour",
       "videoId": "2SAuhCv0pdA",
-      "viewsPerHour": 9,
+      "viewsPerHour": 8,
       "views": 142,
-      "ageHours": 15.7
+      "ageHours": 17.7
     },
     {
       "title": "How legal battles across the country could complicate the midterms",
       "channel": "PBS NewsHour",
       "videoId": "WoWSRQrOUjk",
-      "viewsPerHour": 3,
+      "viewsPerHour": 2,
       "views": 41,
-      "ageHours": 15.6
+      "ageHours": 17.6
     }
   ]
 }
