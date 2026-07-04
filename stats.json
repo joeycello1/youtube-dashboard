@@ -1,16 +1,28 @@
 {
   "videosPerChannel": [
     {
-      "channel": "Louis Rossmann",
-      "count": 24
-    },
-    {
       "channel": "MS NOW",
       "count": 6
     },
     {
+      "channel": "Real Stories",
+      "count": 26
+    },
+    {
       "channel": "PBS NewsHour",
-      "count": 5
+      "count": 4
+    },
+    {
+      "channel": "Jonathan Pie",
+      "count": 4
+    },
+    {
+      "channel": "The Interview",
+      "count": 7
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 24
     },
     {
       "channel": "Chris Lehto",
@@ -22,11 +34,7 @@
     },
     {
       "channel": "Conan O'Brien",
-      "count": 15
-    },
-    {
-      "channel": "Real Stories",
-      "count": 25
+      "count": 13
     },
     {
       "channel": "NOVA",
@@ -46,19 +54,11 @@
     },
     {
       "channel": "The Daily Show",
-      "count": 3
-    },
-    {
-      "channel": "The Interview",
-      "count": 6
+      "count": 2
     },
     {
       "channel": "Diary of a CEO",
       "count": 1
-    },
-    {
-      "channel": "Jonathan Pie",
-      "count": 3
     },
     {
       "channel": "Jeremy Corbell",
@@ -71,16 +71,28 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "Louis Rossmann",
-      "count": 20
-    },
-    {
       "keyword": "MS NOW",
       "count": 6
     },
     {
+      "keyword": "Real Stories",
+      "count": 15
+    },
+    {
       "keyword": "PBS NewsHour",
-      "count": 5
+      "count": 4
+    },
+    {
+      "keyword": "Jonathan Pie",
+      "count": 4
+    },
+    {
+      "keyword": "The Interview, AI",
+      "count": 1
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 20
     },
     {
       "keyword": "UAP",
@@ -92,7 +104,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 14
+      "count": 12
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -120,11 +132,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "count": 2
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 14
+      "count": 1
     },
     {
       "keyword": "The Daily Show, AI",
@@ -149,10 +157,6 @@
     {
       "keyword": "Louis Rossmann, Samsung",
       "count": 1
-    },
-    {
-      "keyword": "Jonathan Pie",
-      "count": 3
     },
     {
       "keyword": "Corbell, George Knapp",
@@ -194,11 +198,11 @@
   "dailySummary": [
     {
       "date": "2026-07-04",
-      "videos": 5
+      "videos": 10
     },
     {
       "date": "2026-07-03",
-      "videos": 15
+      "videos": 12
     },
     {
       "date": "2026-07-02",
@@ -222,7 +226,7 @@
     },
     {
       "date": "2026-06-27",
-      "videos": 3
+      "videos": 2
     },
     {
       "date": "2026-06-26",
@@ -234,7 +238,7 @@
     },
     {
       "date": "2026-06-24",
-      "videos": 3
+      "videos": 1
     },
     {
       "date": "2026-06-23",
@@ -371,16 +375,28 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "Louis Rossmann",
-      "matches": 9
-    },
-    {
       "keyword": "MS NOW",
       "matches": 6
     },
     {
+      "keyword": "Real Stories",
+      "matches": 2
+    },
+    {
       "keyword": "PBS NewsHour",
-      "matches": 5
+      "matches": 4
+    },
+    {
+      "keyword": "Jonathan Pie",
+      "matches": 1
+    },
+    {
+      "keyword": "The Interview, AI",
+      "matches": 1
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 9
     },
     {
       "keyword": "UAP",
@@ -423,10 +439,6 @@
       "matches": 1
     },
     {
-      "keyword": "Real Stories",
-      "matches": 2
-    },
-    {
       "keyword": "The Daily Show, AI",
       "matches": 1
     },
@@ -437,164 +449,172 @@
   ],
   "mostViral48h": [
     {
+      "title": "Parade of ships sail on New York harbor for America's 250th",
+      "channel": "MS NOW",
+      "videoId": "5XRnwoBIKX8",
+      "viewsPerHour": 14896,
+      "views": 28993,
+      "ageHours": 1.9
+    },
+    {
       "title": "He Encountered Beings at the Nuclear Missile Facility - Mario Woods | ep. 94",
       "channel": "Area 52",
       "videoId": "ua4dNq1vK2A",
-      "viewsPerHour": 8205,
-      "views": 199244,
-      "ageHours": 24.3
+      "viewsPerHour": 8122,
+      "views": 213486,
+      "ageHours": 26.3
+    },
+    {
+      "title": "F***ing the country up...but with added charisma!",
+      "channel": "Jonathan Pie",
+      "videoId": "C-YRH8_KLHA",
+      "viewsPerHour": 1958,
+      "views": 9374,
+      "ageHours": 4.8
+    },
+    {
+      "title": "WATCH: Trump speaks at Mount Rushmore to kick off America’s 250th anniversary",
+      "channel": "PBS NewsHour",
+      "videoId": "sk6BeFOe8P8",
+      "viewsPerHour": 1645,
+      "views": 4690,
+      "ageHours": 2.9
     },
     {
       "title": "StopKillingGames: Jennifer Gibbons tells senators running Minecraft server is ILLEGAL",
       "channel": "Louis Rossmann",
       "videoId": "e4Y9Wzp-wwg",
-      "viewsPerHour": 1104,
+      "viewsPerHour": 1054,
       "views": 45896,
-      "ageHours": 41.6
+      "ageHours": 43.6
     },
     {
       "title": "Playstation stops providing physical games; this means nothing. Your enemy is DRM, not digital media",
       "channel": "Louis Rossmann",
       "videoId": "aLOy4o9ODTg",
-      "viewsPerHour": 1053,
+      "viewsPerHour": 960,
       "views": 21783,
-      "ageHours": 20.7
+      "ageHours": 22.7
     },
     {
       "title": "StopKillingGames took the ESA's bait; don't let Jennifer Gibbons off the hook & DON'T FALL FOR THIS!",
       "channel": "Louis Rossmann",
       "videoId": "xvbP8C68XFU",
-      "viewsPerHour": 869,
+      "viewsPerHour": 773,
       "views": 14116,
-      "ageHours": 16.3
+      "ageHours": 18.2
     },
     {
       "title": "Physna, the company pushing state-mandated 3D printer spyware, is partnered with Palantir 🤡 🤦",
       "channel": "Louis Rossmann",
       "videoId": "N5KsXvSiVgY",
-      "viewsPerHour": 864,
+      "viewsPerHour": 704,
       "views": 7606,
-      "ageHours": 8.8
+      "ageHours": 10.8
     },
     {
       "title": "How Trump played his followers for 'SUCKERS' and grabbed big bucks for himself",
       "channel": "MS NOW",
       "videoId": "TZcpWTlbN_s",
-      "viewsPerHour": 699,
+      "viewsPerHour": 606,
       "views": 9177,
-      "ageHours": 13.1
-    },
-    {
-      "title": "Louis Theroux Explores The Extremely High Cost Of End Of Life Care in America",
-      "channel": "Real Stories",
-      "videoId": "lLflXHVWcqQ",
-      "viewsPerHour": 678,
-      "views": 31362,
-      "ageHours": 46.3
+      "ageHours": 15.1
     },
     {
       "title": "Trump's corruption, weak morals raise concern about expected 'pardoning blitz'",
       "channel": "MS NOW",
       "videoId": "PyuMPSxTzYg",
-      "viewsPerHour": 581,
+      "viewsPerHour": 504,
       "views": 7556,
-      "ageHours": 13
+      "ageHours": 15
     },
     {
       "title": "New candidate has the best shot yet at booting 'swamp creature' Lindsey Graham",
       "channel": "MS NOW",
       "videoId": "8LVUxp_nBEA",
-      "viewsPerHour": 547,
+      "viewsPerHour": 475,
       "views": 7192,
-      "ageHours": 13.2
+      "ageHours": 15.2
+    },
+    {
+      "title": "Can You Learn to Be Happy? Yes, Says This Yale Scientist. | The Interview",
+      "channel": "The Interview",
+      "videoId": "8Xxwq7uGibY",
+      "viewsPerHour": 348,
+      "views": 1927,
+      "ageHours": 5.5
     },
     {
       "title": "California votes to ruin 3D printing right after voting against StopKillingGames 🤦🤦🤦🤦🤦",
       "channel": "Louis Rossmann",
       "videoId": "_GIigWnNRVg",
-      "viewsPerHour": 353,
+      "viewsPerHour": 336,
       "views": 13698,
-      "ageHours": 38.8
-    },
-    {
-      "title": "The David Tobin show; saving 3D printing from Rebecca Bauer-Kahan",
-      "channel": "Louis Rossmann",
-      "videoId": "3dTxuifcbZA",
-      "viewsPerHour": 259,
-      "views": 7197,
-      "ageHours": 27.7
-    },
-    {
-      "title": "‘We are being robbed’: Trump turns America’s 250th into a tribute to himself",
-      "channel": "MS NOW",
-      "videoId": "i1JuPAfzBYQ",
-      "viewsPerHour": 258,
-      "views": 4611,
-      "ageHours": 17.8
+      "ageHours": 40.8
     },
     {
       "title": "Alien Civilizations Don't Die — They Grow Up  Here's the Pattern",
       "channel": "Chris Lehto",
       "videoId": "fu-3rdm83Ck",
-      "viewsPerHour": 255,
-      "views": 4921,
-      "ageHours": 19.3
+      "viewsPerHour": 244,
+      "views": 5202,
+      "ageHours": 21.3
+    },
+    {
+      "title": "The David Tobin show; saving 3D printing from Rebecca Bauer-Kahan",
+      "channel": "Louis Rossmann",
+      "videoId": "3dTxuifcbZA",
+      "viewsPerHour": 242,
+      "views": 7197,
+      "ageHours": 29.7
+    },
+    {
+      "title": "‘We are being robbed’: Trump turns America’s 250th into a tribute to himself",
+      "channel": "MS NOW",
+      "videoId": "i1JuPAfzBYQ",
+      "viewsPerHour": 232,
+      "views": 4611,
+      "ageHours": 19.8
     },
     {
       "title": "PBS News Hour live episode, July 3, 2026",
       "channel": "PBS NewsHour",
       "videoId": "CpZYk02pdT8",
-      "viewsPerHour": 222,
+      "viewsPerHour": 201,
       "views": 4219,
-      "ageHours": 19
+      "ageHours": 21
     },
     {
       "title": "Scarred For Life (with special guest Sona Movsesian) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "dMZFOKZooqU",
-      "viewsPerHour": 209,
+      "viewsPerHour": 196,
       "views": 5921,
-      "ageHours": 28.3
+      "ageHours": 30.3
+    },
+    {
+      "title": "The Real Marty Supreme: Life and Times of a Ping Pong Hustler",
+      "channel": "Real Stories",
+      "videoId": "c1H8FIQdnd0",
+      "viewsPerHour": 94,
+      "views": 216,
+      "ageHours": 2.3
     },
     {
       "title": "John Cena Accidentally Gave Eric Andre A Concussion | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Z90IimEhh9w",
-      "viewsPerHour": 68,
+      "viewsPerHour": 63,
       "views": 1710,
-      "ageHours": 25.3
-    },
-    {
-      "title": "WATCH: NYC Mayor Mamdani delivers address at America’s 250th anniversary",
-      "channel": "PBS NewsHour",
-      "videoId": "Yvegxy2e-20",
-      "viewsPerHour": 57,
-      "views": 1377,
-      "ageHours": 24.3
+      "ageHours": 27.3
     },
     {
       "title": "Trump’s America250 takeover sparks corruption allegations",
       "channel": "MS NOW",
       "videoId": "0jUNH7wExRs",
-      "viewsPerHour": 39,
+      "viewsPerHour": 35,
       "views": 683,
-      "ageHours": 17.6
-    },
-    {
-      "title": "WATCH: 5 pieces of U.S. military history you may not know",
-      "channel": "PBS NewsHour",
-      "videoId": "dltCqV5X4YI",
-      "viewsPerHour": 26,
-      "views": 703,
-      "ageHours": 27.3
-    },
-    {
-      "title": "Trump's D.C. renovations paid for with National Park Service funds",
-      "channel": "MS NOW",
-      "videoId": "f47z-drzX_0",
-      "viewsPerHour": 16,
-      "views": 385,
-      "ageHours": 23.6
+      "ageHours": 19.6
     },
     {
       "title": "How climate change and rising seas endanger historic sites like Jamestown, Virginia",
@@ -602,7 +622,7 @@
       "videoId": "csogW7MUQkk",
       "viewsPerHour": 0,
       "views": 4,
-      "ageHours": 17.5
+      "ageHours": 19.5
     },
     {
       "title": "One year since deadly flood at Camp Mystic, parents push for better safety standards",
@@ -610,7 +630,7 @@
       "videoId": "MjAOG4V4yIY",
       "viewsPerHour": 0,
       "views": 3,
-      "ageHours": 17.5
+      "ageHours": 19.5
     }
   ]
 }
