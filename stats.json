@@ -420,7 +420,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "Real Stories",
@@ -433,10 +433,6 @@
     {
       "keyword": "Louis Rossmann, AI",
       "matches": 2
-    },
-    {
-      "keyword": "The Interview",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -444,169 +440,169 @@
       "title": "He Encountered Beings at the Nuclear Missile Facility - Mario Woods | ep. 94",
       "channel": "Area 52",
       "videoId": "ua4dNq1vK2A",
-      "viewsPerHour": 8875,
-      "views": 180077,
-      "ageHours": 20.3
-    },
-    {
-      "title": "Physna, the company pushing state-mandated 3D printer spyware, is partnered with Palantir 🤡 🤦",
-      "channel": "Louis Rossmann",
-      "videoId": "N5KsXvSiVgY",
-      "viewsPerHour": 1583,
-      "views": 7606,
-      "ageHours": 4.8
+      "viewsPerHour": 8476,
+      "views": 188895,
+      "ageHours": 22.3
     },
     {
       "title": "Playstation stops providing physical games; this means nothing. Your enemy is DRM, not digital media",
       "channel": "Louis Rossmann",
       "videoId": "aLOy4o9ODTg",
-      "viewsPerHour": 1305,
+      "viewsPerHour": 1165,
       "views": 21783,
-      "ageHours": 16.7
+      "ageHours": 18.7
     },
     {
       "title": "StopKillingGames: Jennifer Gibbons tells senators running Minecraft server is ILLEGAL",
       "channel": "Louis Rossmann",
       "videoId": "e4Y9Wzp-wwg",
-      "viewsPerHour": 1222,
+      "viewsPerHour": 1160,
       "views": 45896,
-      "ageHours": 37.6
+      "ageHours": 39.6
+    },
+    {
+      "title": "Physna, the company pushing state-mandated 3D printer spyware, is partnered with Palantir 🤡 🤦",
+      "channel": "Louis Rossmann",
+      "videoId": "N5KsXvSiVgY",
+      "viewsPerHour": 1118,
+      "views": 7606,
+      "ageHours": 6.8
     },
     {
       "title": "StopKillingGames took the ESA's bait; don't let Jennifer Gibbons off the hook & DON'T FALL FOR THIS!",
       "channel": "Louis Rossmann",
       "videoId": "xvbP8C68XFU",
-      "viewsPerHour": 1152,
+      "viewsPerHour": 991,
       "views": 14116,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "How Trump played his followers for 'SUCKERS' and grabbed big bucks for himself",
       "channel": "MS NOW",
       "videoId": "TZcpWTlbN_s",
-      "viewsPerHour": 1004,
+      "viewsPerHour": 824,
       "views": 9177,
-      "ageHours": 9.1
-    },
-    {
-      "title": "Trump's corruption, weak morals raise concern about expected 'pardoning blitz'",
-      "channel": "MS NOW",
-      "videoId": "PyuMPSxTzYg",
-      "viewsPerHour": 838,
-      "views": 7556,
-      "ageHours": 9
-    },
-    {
-      "title": "New candidate has the best shot yet at booting 'swamp creature' Lindsey Graham",
-      "channel": "MS NOW",
-      "videoId": "8LVUxp_nBEA",
-      "viewsPerHour": 785,
-      "views": 7192,
-      "ageHours": 9.2
+      "ageHours": 11.1
     },
     {
       "title": "Louis Theroux Explores The Extremely High Cost Of End Of Life Care in America",
       "channel": "Real Stories",
       "videoId": "lLflXHVWcqQ",
-      "viewsPerHour": 733,
-      "views": 30982,
-      "ageHours": 42.3
+      "viewsPerHour": 703,
+      "views": 31122,
+      "ageHours": 44.3
+    },
+    {
+      "title": "Trump's corruption, weak morals raise concern about expected 'pardoning blitz'",
+      "channel": "MS NOW",
+      "videoId": "PyuMPSxTzYg",
+      "viewsPerHour": 686,
+      "views": 7556,
+      "ageHours": 11
+    },
+    {
+      "title": "New candidate has the best shot yet at booting 'swamp creature' Lindsey Graham",
+      "channel": "MS NOW",
+      "videoId": "8LVUxp_nBEA",
+      "viewsPerHour": 645,
+      "views": 7192,
+      "ageHours": 11.2
     },
     {
       "title": "California votes to ruin 3D printing right after voting against StopKillingGames 🤦🤦🤦🤦🤦",
       "channel": "Louis Rossmann",
       "videoId": "_GIigWnNRVg",
-      "viewsPerHour": 394,
+      "viewsPerHour": 373,
       "views": 13698,
-      "ageHours": 34.8
+      "ageHours": 36.8
     },
     {
       "title": "‘We are being robbed’: Trump turns America’s 250th into a tribute to himself",
       "channel": "MS NOW",
       "videoId": "i1JuPAfzBYQ",
-      "viewsPerHour": 333,
+      "viewsPerHour": 291,
       "views": 4611,
-      "ageHours": 13.9
+      "ageHours": 15.8
     },
     {
       "title": "The David Tobin show; saving 3D printing from Rebecca Bauer-Kahan",
       "channel": "Louis Rossmann",
       "videoId": "3dTxuifcbZA",
-      "viewsPerHour": 303,
+      "viewsPerHour": 280,
       "views": 7197,
-      "ageHours": 23.7
+      "ageHours": 25.7
     },
     {
       "title": "Alien Civilizations Don't Die — They Grow Up  Here's the Pattern",
       "channel": "Chris Lehto",
       "videoId": "fu-3rdm83Ck",
-      "viewsPerHour": 290,
-      "views": 4437,
-      "ageHours": 15.3
+      "viewsPerHour": 271,
+      "views": 4677,
+      "ageHours": 17.3
     },
     {
       "title": "PBS News Hour live episode, July 3, 2026",
       "channel": "PBS NewsHour",
       "videoId": "CpZYk02pdT8",
-      "viewsPerHour": 281,
+      "viewsPerHour": 248,
       "views": 4219,
-      "ageHours": 15
+      "ageHours": 17
     },
     {
       "title": "Scarred For Life (with special guest Sona Movsesian) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "dMZFOKZooqU",
-      "viewsPerHour": 244,
+      "viewsPerHour": 225,
       "views": 5921,
-      "ageHours": 24.3
+      "ageHours": 26.3
     },
     {
       "title": "Tom Hanks Feels Competitive About Being Conan’s Friend | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Ih_Fypqec8I",
-      "viewsPerHour": 96,
+      "viewsPerHour": 92,
       "views": 4334,
-      "ageHours": 45.3
+      "ageHours": 47.3
     },
     {
       "title": "John Cena Accidentally Gave Eric Andre A Concussion | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Z90IimEhh9w",
-      "viewsPerHour": 80,
+      "viewsPerHour": 73,
       "views": 1710,
-      "ageHours": 21.3
+      "ageHours": 23.3
     },
     {
       "title": "WATCH: NYC Mayor Mamdani delivers address at America’s 250th anniversary",
       "channel": "PBS NewsHour",
       "videoId": "Yvegxy2e-20",
-      "viewsPerHour": 68,
+      "viewsPerHour": 62,
       "views": 1377,
-      "ageHours": 20.3
+      "ageHours": 22.3
     },
     {
       "title": "Trump’s America250 takeover sparks corruption allegations",
       "channel": "MS NOW",
       "videoId": "0jUNH7wExRs",
-      "viewsPerHour": 50,
+      "viewsPerHour": 44,
       "views": 683,
-      "ageHours": 13.6
+      "ageHours": 15.6
     },
     {
       "title": "WATCH: 5 pieces of U.S. military history you may not know",
       "channel": "PBS NewsHour",
       "videoId": "dltCqV5X4YI",
-      "viewsPerHour": 30,
+      "viewsPerHour": 28,
       "views": 703,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "Trump's D.C. renovations paid for with National Park Service funds",
       "channel": "MS NOW",
       "videoId": "f47z-drzX_0",
-      "viewsPerHour": 20,
+      "viewsPerHour": 18,
       "views": 385,
-      "ageHours": 19.6
+      "ageHours": 21.6
     },
     {
       "title": "How climate change and rising seas endanger historic sites like Jamestown, Virginia",
@@ -614,7 +610,7 @@
       "videoId": "csogW7MUQkk",
       "viewsPerHour": 0,
       "views": 4,
-      "ageHours": 13.5
+      "ageHours": 15.5
     },
     {
       "title": "One year since deadly flood at Camp Mystic, parents push for better safety standards",
@@ -622,7 +618,7 @@
       "videoId": "MjAOG4V4yIY",
       "viewsPerHour": 0,
       "views": 3,
-      "ageHours": 13.5
+      "ageHours": 15.5
     }
   ]
 }
