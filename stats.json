@@ -1,20 +1,20 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
-      "count": 8
-    },
-    {
       "channel": "MS NOW",
       "count": 9
     },
     {
-      "channel": "Chris Lehto",
-      "count": 2
+      "channel": "Louis Rossmann",
+      "count": 23
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 22
+      "channel": "PBS NewsHour",
+      "count": 5
+    },
+    {
+      "channel": "Chris Lehto",
+      "count": 2
     },
     {
       "channel": "Area 52",
@@ -71,20 +71,20 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "PBS NewsHour",
-      "count": 8
-    },
-    {
       "keyword": "MS NOW",
       "count": 8
     },
     {
-      "keyword": "UAP",
-      "count": 1
+      "keyword": "Louis Rossmann",
+      "count": 19
     },
     {
-      "keyword": "Louis Rossmann",
-      "count": 18
+      "keyword": "PBS NewsHour",
+      "count": 5
+    },
+    {
+      "keyword": "UAP",
+      "count": 1
     },
     {
       "keyword": "UAP, UFO",
@@ -197,12 +197,16 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-07-04",
+      "videos": 4
+    },
+    {
       "date": "2026-07-03",
-      "videos": 21
+      "videos": 18
     },
     {
       "date": "2026-07-02",
-      "videos": 8
+      "videos": 5
     },
     {
       "date": "2026-07-01",
@@ -371,20 +375,20 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
-      "matches": 8
-    },
-    {
       "keyword": "MS NOW",
       "matches": 8
     },
     {
-      "keyword": "UAP",
-      "matches": 1
+      "keyword": "Louis Rossmann",
+      "matches": 8
     },
     {
-      "keyword": "Louis Rossmann",
-      "matches": 7
+      "keyword": "PBS NewsHour",
+      "matches": 5
+    },
+    {
+      "keyword": "UAP",
+      "matches": 1
     },
     {
       "keyword": "UAP, UFO",
@@ -448,217 +452,201 @@
       "title": "He Encountered Beings at the Nuclear Missile Facility - Mario Woods | ep. 94",
       "channel": "Area 52",
       "videoId": "ua4dNq1vK2A",
-      "viewsPerHour": 9417,
-      "views": 115648,
-      "ageHours": 12.3
+      "viewsPerHour": 9405,
+      "views": 134345,
+      "ageHours": 14.3
+    },
+    {
+      "title": "How Trump played his followers for 'SUCKERS' and grabbed big bucks for himself",
+      "channel": "MS NOW",
+      "videoId": "TZcpWTlbN_s",
+      "viewsPerHour": 2930,
+      "views": 9177,
+      "ageHours": 3.1
+    },
+    {
+      "title": "Trump's corruption, weak morals raise concern about expected 'pardoning blitz'",
+      "channel": "MS NOW",
+      "videoId": "PyuMPSxTzYg",
+      "viewsPerHour": 2513,
+      "views": 7556,
+      "ageHours": 3
+    },
+    {
+      "title": "New candidate has the best shot yet at booting 'swamp creature' Lindsey Graham",
+      "channel": "MS NOW",
+      "videoId": "8LVUxp_nBEA",
+      "viewsPerHour": 2279,
+      "views": 7192,
+      "ageHours": 3.2
+    },
+    {
+      "title": "StopKillingGames took the ESA's bait; don't let Jennifer Gibbons off the hook & DON'T FALL FOR THIS!",
+      "channel": "Louis Rossmann",
+      "videoId": "xvbP8C68XFU",
+      "viewsPerHour": 2258,
+      "views": 14116,
+      "ageHours": 6.3
     },
     {
       "title": "Playstation stops providing physical games; this means nothing. Your enemy is DRM, not digital media",
       "channel": "Louis Rossmann",
       "videoId": "aLOy4o9ODTg",
-      "viewsPerHour": 2507,
+      "viewsPerHour": 2037,
       "views": 21783,
-      "ageHours": 8.7
+      "ageHours": 10.7
     },
     {
       "title": "StopKillingGames: Jennifer Gibbons tells senators running Minecraft server is ILLEGAL",
       "channel": "Louis Rossmann",
       "videoId": "e4Y9Wzp-wwg",
-      "viewsPerHour": 1553,
+      "viewsPerHour": 1454,
       "views": 45896,
-      "ageHours": 29.6
-    },
-    {
-      "title": "PBS News Hour full episode, July 2, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "JD-tWcUzops",
-      "viewsPerHour": 1366,
-      "views": 39225,
-      "ageHours": 28.7
+      "ageHours": 31.6
     },
     {
       "title": " ‘Actions of a traitor’: Trump escalates assault on voting rights as midterms near",
       "channel": "MS NOW",
       "videoId": "HX7NnxJQtp0",
-      "viewsPerHour": 1361,
+      "viewsPerHour": 1253,
       "views": 31618,
-      "ageHours": 23.2
+      "ageHours": 25.2
     },
     {
       "title": "Trump boasts of plan to 'pardon everyone': report",
       "channel": "MS NOW",
       "videoId": "isb_soQz98g",
-      "viewsPerHour": 961,
+      "viewsPerHour": 885,
       "views": 22463,
-      "ageHours": 23.4
+      "ageHours": 25.4
     },
     {
       "title": "Louis Theroux Explores The Extremely High Cost Of End Of Life Care in America",
       "channel": "Real Stories",
       "videoId": "lLflXHVWcqQ",
-      "viewsPerHour": 831,
-      "views": 28481,
-      "ageHours": 34.3
+      "viewsPerHour": 816,
+      "views": 29628,
+      "ageHours": 36.3
     },
     {
       "title": "MS NOW hosts react to Jack Smith’s EXCLUSIVE interview with Nicolle Wallace | COMPILATION",
       "channel": "MS NOW",
       "videoId": "ndNpWuH6sOU",
-      "viewsPerHour": 817,
+      "viewsPerHour": 752,
       "views": 18711,
-      "ageHours": 22.9
-    },
-    {
-      "title": "‘We are being robbed’: Trump turns America’s 250th into a tribute to himself",
-      "channel": "MS NOW",
-      "videoId": "i1JuPAfzBYQ",
-      "viewsPerHour": 789,
-      "views": 4611,
-      "ageHours": 5.8
+      "ageHours": 24.9
     },
     {
       "title": "Conan Vs. Edibles Pt. III | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "GgjBvS9yC8I",
-      "viewsPerHour": 700,
+      "viewsPerHour": 667,
       "views": 28187,
-      "ageHours": 40.3
+      "ageHours": 42.3
     },
     {
-      "title": "PBS News Hour live episode, July 3, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "CpZYk02pdT8",
-      "viewsPerHour": 604,
-      "views": 4219,
-      "ageHours": 7
+      "title": "‘We are being robbed’: Trump turns America’s 250th into a tribute to himself",
+      "channel": "MS NOW",
+      "videoId": "i1JuPAfzBYQ",
+      "viewsPerHour": 588,
+      "views": 4611,
+      "ageHours": 7.8
     },
     {
       "title": "California votes to ruin 3D printing right after voting against StopKillingGames 🤦🤦🤦🤦🤦",
       "channel": "Louis Rossmann",
       "videoId": "_GIigWnNRVg",
-      "viewsPerHour": 512,
+      "viewsPerHour": 476,
       "views": 13698,
-      "ageHours": 26.8
+      "ageHours": 28.8
+    },
+    {
+      "title": "PBS News Hour live episode, July 3, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "CpZYk02pdT8",
+      "viewsPerHour": 469,
+      "views": 4219,
+      "ageHours": 9
     },
     {
       "title": "The David Tobin show; saving 3D printing from Rebecca Bauer-Kahan",
       "channel": "Louis Rossmann",
       "videoId": "3dTxuifcbZA",
-      "viewsPerHour": 457,
+      "viewsPerHour": 406,
       "views": 7197,
-      "ageHours": 15.7
+      "ageHours": 17.7
     },
     {
       "title": "Alien Civilizations Don't Die — They Grow Up  Here's the Pattern",
       "channel": "Chris Lehto",
       "videoId": "fu-3rdm83Ck",
-      "viewsPerHour": 417,
-      "views": 3034,
-      "ageHours": 7.3
+      "viewsPerHour": 383,
+      "views": 3554,
+      "ageHours": 9.3
     },
     {
       "title": "Scarred For Life (with special guest Sona Movsesian) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "dMZFOKZooqU",
-      "viewsPerHour": 364,
+      "viewsPerHour": 324,
       "views": 5921,
-      "ageHours": 16.3
+      "ageHours": 18.3
     },
     {
       "title": "Interview: From T. rex to Birds with Steve Brusatte | Particles of Thought",
       "channel": "NOVA",
       "videoId": "_p6tMvlLqdk",
       "viewsPerHour": 134,
-      "views": 5650,
-      "ageHours": 42.3
+      "views": 5935,
+      "ageHours": 44.3
     },
     {
       "title": "John Cena Accidentally Gave Eric Andre A Concussion | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Z90IimEhh9w",
-      "viewsPerHour": 129,
+      "viewsPerHour": 112,
       "views": 1710,
-      "ageHours": 13.3
-    },
-    {
-      "title": "Trump’s America250 takeover sparks corruption allegations",
-      "channel": "MS NOW",
-      "videoId": "0jUNH7wExRs",
-      "viewsPerHour": 122,
-      "views": 683,
-      "ageHours": 5.6
+      "ageHours": 15.3
     },
     {
       "title": "Tom Hanks Feels Competitive About Being Conan’s Friend | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Ih_Fypqec8I",
-      "viewsPerHour": 116,
+      "viewsPerHour": 110,
       "views": 4334,
-      "ageHours": 37.3
+      "ageHours": 39.3
     },
     {
       "title": "WATCH: NYC Mayor Mamdani delivers address at America’s 250th anniversary",
       "channel": "PBS NewsHour",
       "videoId": "Yvegxy2e-20",
-      "viewsPerHour": 112,
+      "viewsPerHour": 96,
       "views": 1377,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
-      "title": "A look at America's founding from the room where independence was declared",
-      "channel": "PBS NewsHour",
-      "videoId": "n0hMASeVhU4",
-      "viewsPerHour": 107,
-      "views": 3097,
-      "ageHours": 29.1
-    },
-    {
-      "title": "Hard-fought win raises hopes for U.S. in World Cup",
-      "channel": "PBS NewsHour",
-      "videoId": "CEVtKJpXAgs",
-      "viewsPerHour": 56,
-      "views": 1626,
-      "ageHours": 29.2
+      "title": "Trump’s America250 takeover sparks corruption allegations",
+      "channel": "MS NOW",
+      "videoId": "0jUNH7wExRs",
+      "viewsPerHour": 90,
+      "views": 683,
+      "ageHours": 7.6
     },
     {
       "title": "WATCH: 5 pieces of U.S. military history you may not know",
       "channel": "PBS NewsHour",
       "videoId": "dltCqV5X4YI",
-      "viewsPerHour": 46,
+      "viewsPerHour": 41,
       "views": 703,
-      "ageHours": 15.3
-    },
-    {
-      "title": "Josh Turek: ‘Iowans are ready for change and the winds of change are here’",
-      "channel": "MS NOW",
-      "videoId": "ynBitQevshc",
-      "viewsPerHour": 34,
-      "views": 835,
-      "ageHours": 24.5
+      "ageHours": 17.3
     },
     {
       "title": "Trump's D.C. renovations paid for with National Park Service funds",
       "channel": "MS NOW",
       "videoId": "f47z-drzX_0",
-      "viewsPerHour": 33,
+      "viewsPerHour": 28,
       "views": 385,
-      "ageHours": 11.6
-    },
-    {
-      "title": "The Last Word with Lawrence O'Donnell - July 2 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "IsYUzw8Zubc",
-      "viewsPerHour": 31,
-      "views": 742,
-      "ageHours": 23.9
-    },
-    {
-      "title": "Unlocks everything': Democratic socialist says Democrats should swear off corporate money",
-      "channel": "MS NOW",
-      "videoId": "g86Q6a81JGU",
-      "viewsPerHour": 13,
-      "views": 315,
-      "ageHours": 23.6
+      "ageHours": 13.6
     },
     {
       "title": "How climate change and rising seas endanger historic sites like Jamestown, Virginia",
@@ -666,15 +654,15 @@
       "videoId": "csogW7MUQkk",
       "viewsPerHour": 1,
       "views": 4,
-      "ageHours": 5.5
+      "ageHours": 7.5
     },
     {
       "title": "One year since deadly flood at Camp Mystic, parents push for better safety standards",
       "channel": "PBS NewsHour",
       "videoId": "MjAOG4V4yIY",
-      "viewsPerHour": 1,
+      "viewsPerHour": 0,
       "views": 3,
-      "ageHours": 5.5
+      "ageHours": 7.5
     }
   ]
 }
