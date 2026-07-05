@@ -1,12 +1,12 @@
 {
   "videosPerChannel": [
     {
-      "channel": "Louis Rossmann",
-      "count": 25
+      "channel": "MS NOW",
+      "count": 3
     },
     {
-      "channel": "MS NOW",
-      "count": 2
+      "channel": "Louis Rossmann",
+      "count": 25
     },
     {
       "channel": "Real Stories",
@@ -71,16 +71,16 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "MS NOW",
+      "count": 3
+    },
+    {
       "keyword": "Louis Rossmann, AI",
       "count": 4
     },
     {
       "keyword": "Louis Rossmann",
       "count": 21
-    },
-    {
-      "keyword": "MS NOW",
-      "count": 2
     },
     {
       "keyword": "Real Stories",
@@ -186,7 +186,7 @@
   "dailySummary": [
     {
       "date": "2026-07-05",
-      "videos": 1
+      "videos": 2
     },
     {
       "date": "2026-07-04",
@@ -367,16 +367,16 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "MS NOW",
+      "matches": 3
+    },
+    {
       "keyword": "Louis Rossmann, AI",
       "matches": 1
     },
     {
       "keyword": "Louis Rossmann",
       "matches": 10
-    },
-    {
-      "keyword": "MS NOW",
-      "matches": 2
     },
     {
       "keyword": "Real Stories",
@@ -444,137 +444,137 @@
       "title": "He Encountered Beings at the Nuclear Missile Facility - Mario Woods | ep. 94",
       "channel": "Area 52",
       "videoId": "ua4dNq1vK2A",
-      "viewsPerHour": 6996,
-      "views": 295833,
-      "ageHours": 42.3
+      "viewsPerHour": 6835,
+      "views": 302711,
+      "ageHours": 44.3
     },
     {
       "title": "Parade of ships sail on New York harbor for America's 250th",
       "channel": "MS NOW",
       "videoId": "5XRnwoBIKX8",
-      "viewsPerHour": 1616,
+      "viewsPerHour": 1453,
       "views": 28993,
-      "ageHours": 17.9
+      "ageHours": 19.9
+    },
+    {
+      "title": "MS NOW Highlights - July 4",
+      "channel": "MS NOW",
+      "videoId": "vukcBU27ljE",
+      "viewsPerHour": 1227,
+      "views": 2803,
+      "ageHours": 2.3
     },
     {
       "title": "3D printer manufacturers are cowards",
       "channel": "Louis Rossmann",
       "videoId": "FmQjBpDJ1FE",
-      "viewsPerHour": 1144,
+      "viewsPerHour": 966,
       "views": 12405,
-      "ageHours": 10.8
+      "ageHours": 12.8
     },
     {
       "title": "F***ing the country up...but with added charisma!",
       "channel": "Jonathan Pie",
       "videoId": "C-YRH8_KLHA",
-      "viewsPerHour": 947,
-      "views": 19695,
-      "ageHours": 20.8
+      "viewsPerHour": 900,
+      "views": 20509,
+      "ageHours": 22.8
     },
     {
       "title": "Austin City Councilman Mike Siegel: live interview to discuss surveillance cameras",
       "channel": "Louis Rossmann",
       "videoId": "qmU1l-ZbR0M",
-      "viewsPerHour": 692,
+      "viewsPerHour": 579,
       "views": 7065,
-      "ageHours": 10.2
+      "ageHours": 12.2
     },
     {
       "title": "Playstation stops providing physical games; this means nothing. Your enemy is DRM, not digital media",
       "channel": "Louis Rossmann",
       "videoId": "aLOy4o9ODTg",
-      "viewsPerHour": 563,
+      "viewsPerHour": 535,
       "views": 21783,
-      "ageHours": 38.7
+      "ageHours": 40.7
     },
     {
       "title": "Senator Perez admits she's clueless on 3D print bill & votes for it anyway 🤦‍♂️ stop this trainwreck",
       "channel": "Louis Rossmann",
       "videoId": "LKCQbWuAzsM",
-      "viewsPerHour": 552,
+      "viewsPerHour": 481,
       "views": 7422,
-      "ageHours": 13.4
+      "ageHours": 15.4
     },
     {
       "title": "StopKillingGames took the ESA's bait; don't let Jennifer Gibbons off the hook & DON'T FALL FOR THIS!",
       "channel": "Louis Rossmann",
       "videoId": "xvbP8C68XFU",
-      "viewsPerHour": 412,
+      "viewsPerHour": 389,
       "views": 14116,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
       "title": "Physna, the company pushing state-mandated 3D printer spyware, is partnered with Palantir 🤡 🤦",
       "channel": "Louis Rossmann",
       "videoId": "N5KsXvSiVgY",
-      "viewsPerHour": 284,
+      "viewsPerHour": 264,
       "views": 7606,
-      "ageHours": 26.8
-    },
-    {
-      "title": "Let’s choose FAITH' Gov. Wes Moore gives America 250th address focused on PATRIOTISM",
-      "channel": "MS NOW",
-      "videoId": "EHUqp2DfMEE",
-      "viewsPerHour": 257,
-      "views": 3527,
-      "ageHours": 13.7
+      "ageHours": 28.8
     },
     {
       "title": "Can You Learn to Be Happy? Yes, Says This Yale Scientist. | The Interview",
       "channel": "The Interview",
       "videoId": "8Xxwq7uGibY",
-      "viewsPerHour": 257,
-      "views": 5527,
-      "ageHours": 21.5
+      "viewsPerHour": 244,
+      "views": 5748,
+      "ageHours": 23.5
     },
     {
       "title": "WATCH: Trump speaks at Mount Rushmore to kick off America’s 250th anniversary",
       "channel": "PBS NewsHour",
       "videoId": "sk6BeFOe8P8",
-      "viewsPerHour": 249,
+      "viewsPerHour": 225,
       "views": 4690,
-      "ageHours": 18.9
+      "ageHours": 20.9
+    },
+    {
+      "title": "Let’s choose FAITH' Gov. Wes Moore gives America 250th address focused on PATRIOTISM",
+      "channel": "MS NOW",
+      "videoId": "EHUqp2DfMEE",
+      "viewsPerHour": 224,
+      "views": 3527,
+      "ageHours": 15.7
     },
     {
       "title": "Alien Civilizations Don't Die — They Grow Up  Here's the Pattern",
       "channel": "Chris Lehto",
       "videoId": "fu-3rdm83Ck",
-      "viewsPerHour": 206,
-      "views": 7680,
-      "ageHours": 37.3
+      "viewsPerHour": 199,
+      "views": 7812,
+      "ageHours": 39.3
     },
     {
       "title": "The David Tobin show; saving 3D printing from Rebecca Bauer-Kahan",
       "channel": "Louis Rossmann",
       "videoId": "3dTxuifcbZA",
-      "viewsPerHour": 157,
+      "viewsPerHour": 151,
       "views": 7197,
-      "ageHours": 45.7
-    },
-    {
-      "title": "Scarred For Life (with special guest Sona Movsesian) | Bley's Arcade",
-      "channel": "Conan O'Brien",
-      "videoId": "dMZFOKZooqU",
-      "viewsPerHour": 128,
-      "views": 5921,
-      "ageHours": 46.3
+      "ageHours": 47.7
     },
     {
       "title": "The Real Marty Supreme: Life and Times of a Ping Pong Hustler",
       "channel": "Real Stories",
       "videoId": "c1H8FIQdnd0",
-      "viewsPerHour": 58,
-      "views": 1056,
-      "ageHours": 18.3
+      "viewsPerHour": 54,
+      "views": 1086,
+      "ageHours": 20.3
     },
     {
       "title": "John Cena Accidentally Gave Eric Andre A Concussion | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Z90IimEhh9w",
-      "viewsPerHour": 40,
+      "viewsPerHour": 38,
       "views": 1710,
-      "ageHours": 43.3
+      "ageHours": 45.3
     }
   ]
 }
