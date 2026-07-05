@@ -5,16 +5,16 @@
       "count": 3
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 25
-    },
-    {
       "channel": "Real Stories",
-      "count": 26
+      "count": 27
     },
     {
       "channel": "PBS NewsHour",
       "count": 1
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 24
     },
     {
       "channel": "Jonathan Pie",
@@ -34,7 +34,7 @@
     },
     {
       "channel": "Conan O'Brien",
-      "count": 13
+      "count": 11
     },
     {
       "channel": "NOVA",
@@ -75,8 +75,16 @@
       "count": 3
     },
     {
+      "keyword": "Real Stories, Louis Theroux",
+      "count": 11
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 1
+    },
+    {
       "keyword": "Louis Rossmann, AI",
-      "count": 4
+      "count": 3
     },
     {
       "keyword": "Louis Rossmann",
@@ -85,10 +93,6 @@
     {
       "keyword": "Real Stories",
       "count": 15
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 1
     },
     {
       "keyword": "Jonathan Pie",
@@ -108,10 +112,6 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 12
-    },
-    {
-      "keyword": "Real Stories, Louis Theroux",
       "count": 10
     },
     {
@@ -186,11 +186,11 @@
   "dailySummary": [
     {
       "date": "2026-07-05",
-      "videos": 2
+      "videos": 5
     },
     {
       "date": "2026-07-04",
-      "videos": 10
+      "videos": 8
     },
     {
       "date": "2026-07-03",
@@ -226,7 +226,7 @@
     },
     {
       "date": "2026-06-25",
-      "videos": 8
+      "videos": 6
     },
     {
       "date": "2026-06-24",
@@ -246,7 +246,7 @@
     },
     {
       "date": "2026-06-20",
-      "videos": 2
+      "videos": 1
     },
     {
       "date": "2026-06-19",
@@ -371,6 +371,14 @@
       "matches": 3
     },
     {
+      "keyword": "Real Stories, Louis Theroux",
+      "matches": 2
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 1
+    },
+    {
       "keyword": "Louis Rossmann, AI",
       "matches": 1
     },
@@ -381,10 +389,6 @@
     {
       "keyword": "Real Stories",
       "matches": 2
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 1
     },
     {
       "keyword": "Jonathan Pie",
@@ -405,10 +409,6 @@
     {
       "keyword": "Conan O'Brien",
       "matches": 8
-    },
-    {
-      "keyword": "Real Stories, Louis Theroux",
-      "matches": 2
     },
     {
       "keyword": "Conan O'Brien, The Interview",
@@ -441,116 +441,124 @@
   ],
   "mostViral48h": [
     {
-      "title": "Parade of ships sail on New York harbor for America's 250th",
+      "title": "WATCH: Trump delivers keynote address at ‘Salute to America 250’ event on the National Mall",
+      "channel": "PBS NewsHour",
+      "videoId": "ePpWctZvxxs",
+      "viewsPerHour": 1612,
+      "views": 4053,
+      "ageHours": 2.5
+    },
+    {
+      "title": "Louis Theroux Goes Behind Closed Doors To ExploLegal Sex Work",
+      "channel": "Real Stories",
+      "videoId": "kPl-b7coKLU",
+      "viewsPerHour": 1130,
+      "views": 2583,
+      "ageHours": 2.3
+    },
+    {
+      "title": "‘Say what now?’: Bessent dismisses Trump conflict of interest concerns",
       "channel": "MS NOW",
-      "videoId": "5XRnwoBIKX8",
-      "viewsPerHour": 1210,
-      "views": 28993,
-      "ageHours": 24
+      "videoId": "7qjQXX1Nf1Q",
+      "viewsPerHour": 1017,
+      "views": 2133,
+      "ageHours": 2.1
     },
     {
       "title": "F***ing the country up...but with added charisma!",
       "channel": "Jonathan Pie",
       "videoId": "C-YRH8_KLHA",
-      "viewsPerHour": 823,
-      "views": 22044,
-      "ageHours": 26.8
+      "viewsPerHour": 793,
+      "views": 22816,
+      "ageHours": 28.8
     },
     {
       "title": "3D printer manufacturers are cowards",
       "channel": "Louis Rossmann",
       "videoId": "FmQjBpDJ1FE",
-      "viewsPerHour": 736,
+      "viewsPerHour": 658,
       "views": 12405,
-      "ageHours": 16.8
+      "ageHours": 18.8
     },
     {
       "title": "Playstation stops providing physical games; this means nothing. Your enemy is DRM, not digital media",
       "channel": "Louis Rossmann",
       "videoId": "aLOy4o9ODTg",
-      "viewsPerHour": 487,
+      "viewsPerHour": 467,
       "views": 21783,
-      "ageHours": 44.7
-    },
-    {
-      "title": "MS NOW Highlights - July 4",
-      "channel": "MS NOW",
-      "videoId": "vukcBU27ljE",
-      "viewsPerHour": 446,
-      "views": 2803,
-      "ageHours": 6.3
+      "ageHours": 46.7
     },
     {
       "title": "Austin City Councilman Mike Siegel: live interview to discuss surveillance cameras",
       "channel": "Louis Rossmann",
       "videoId": "qmU1l-ZbR0M",
-      "viewsPerHour": 436,
+      "viewsPerHour": 388,
       "views": 7065,
-      "ageHours": 16.2
+      "ageHours": 18.2
     },
     {
       "title": "Senator Perez admits she's clueless on 3D print bill & votes for it anyway 🤦‍♂️ stop this trainwreck",
       "channel": "Louis Rossmann",
       "videoId": "LKCQbWuAzsM",
-      "viewsPerHour": 382,
+      "viewsPerHour": 346,
       "views": 7422,
-      "ageHours": 19.4
+      "ageHours": 21.4
+    },
+    {
+      "title": "MS NOW Highlights - July 4",
+      "channel": "MS NOW",
+      "videoId": "vukcBU27ljE",
+      "viewsPerHour": 338,
+      "views": 2803,
+      "ageHours": 8.3
     },
     {
       "title": "StopKillingGames took the ESA's bait; don't let Jennifer Gibbons off the hook & DON'T FALL FOR THIS!",
       "channel": "Louis Rossmann",
       "videoId": "xvbP8C68XFU",
-      "viewsPerHour": 351,
+      "viewsPerHour": 334,
       "views": 14116,
-      "ageHours": 40.3
+      "ageHours": 42.2
     },
     {
       "title": "Can You Learn to Be Happy? Yes, Says This Yale Scientist. | The Interview",
       "channel": "The Interview",
       "videoId": "8Xxwq7uGibY",
-      "viewsPerHour": 249,
-      "views": 6847,
-      "ageHours": 27.5
+      "viewsPerHour": 260,
+      "views": 7670,
+      "ageHours": 29.5
     },
     {
       "title": "Physna, the company pushing state-mandated 3D printer spyware, is partnered with Palantir 🤡 🤦",
       "channel": "Louis Rossmann",
       "videoId": "N5KsXvSiVgY",
-      "viewsPerHour": 232,
+      "viewsPerHour": 219,
       "views": 7606,
-      "ageHours": 32.8
-    },
-    {
-      "title": "WATCH: Trump speaks at Mount Rushmore to kick off America’s 250th anniversary",
-      "channel": "PBS NewsHour",
-      "videoId": "sk6BeFOe8P8",
-      "viewsPerHour": 189,
-      "views": 4690,
-      "ageHours": 24.9
+      "ageHours": 34.8
     },
     {
       "title": "Alien Civilizations Don't Die — They Grow Up  Here's the Pattern",
       "channel": "Chris Lehto",
       "videoId": "fu-3rdm83Ck",
-      "viewsPerHour": 185,
-      "views": 8022,
-      "ageHours": 43.3
+      "viewsPerHour": 179,
+      "views": 8084,
+      "ageHours": 45.3
     },
     {
       "title": "Let’s choose FAITH' Gov. Wes Moore gives America 250th address focused on PATRIOTISM",
       "channel": "MS NOW",
       "videoId": "EHUqp2DfMEE",
-      "viewsPerHour": 179,
+      "viewsPerHour": 162,
       "views": 3527,
-      "ageHours": 19.7
+      "ageHours": 21.7
     },
     {
       "title": "The Real Marty Supreme: Life and Times of a Ping Pong Hustler",
       "channel": "Real Stories",
       "videoId": "c1H8FIQdnd0",
-      "viewsPerHour": 46,
-      "views": 1122,
-      "ageHours": 24.3
+      "viewsPerHour": 43,
+      "views": 1138,
+      "ageHours": 26.3
     }
   ]
 }
