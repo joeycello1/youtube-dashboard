@@ -437,10 +437,6 @@
     {
       "keyword": "The Daily Show",
       "matches": 1
-    },
-    {
-      "keyword": "The Daily Show, AI",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -448,129 +444,113 @@
       "title": "Your Brain Invents Pain. Here's Why.",
       "channel": "The Rest Is Science",
       "videoId": "EY3sF6Cf72Q",
-      "viewsPerHour": 5100,
-      "views": 77959,
-      "ageHours": 15.3
+      "viewsPerHour": 5012,
+      "views": 86645,
+      "ageHours": 17.3
     },
     {
       "title": "Australia teaches Amazon the meaning of the word \"contract\" ",
       "channel": "Louis Rossmann",
       "videoId": "DV2-GLJ2FnM",
-      "viewsPerHour": 2107,
+      "viewsPerHour": 1758,
       "views": 21296,
-      "ageHours": 10.1
+      "ageHours": 12.1
     },
     {
       "title": "Louis Theroux Goes Behind Closed Doors To ExploLegal Sex Work",
       "channel": "Real Stories",
       "videoId": "kPl-b7coKLU",
-      "viewsPerHour": 1533,
-      "views": 31110,
-      "ageHours": 20.3
-    },
-    {
-      "title": "Trump mixes patriotism and partisanship in polarizing July 4th speech",
-      "channel": "MS NOW",
-      "videoId": "X-aWU9xoreA",
-      "viewsPerHour": 994,
-      "views": 2043,
-      "ageHours": 2.1
+      "viewsPerHour": 1424,
+      "views": 31740,
+      "ageHours": 22.3
     },
     {
       "title": "Who is really in the room when Trump makes decisions? New book reveals all",
       "channel": "MS NOW",
       "videoId": "-f0C37gQPNI",
-      "viewsPerHour": 831,
+      "viewsPerHour": 736,
       "views": 12875,
-      "ageHours": 15.5
+      "ageHours": 17.5
     },
     {
       "title": "Tehran erupts in chants of ‘revenge’ during Iran Supreme Leader’s funeral",
       "channel": "MS NOW",
       "videoId": "KxDJyNqBeaA",
-      "viewsPerHour": 781,
+      "viewsPerHour": 691,
       "views": 12056,
-      "ageHours": 15.4
+      "ageHours": 17.4
     },
     {
       "title": "MS NOW Highlights - July 5",
       "channel": "MS NOW",
       "videoId": "l8CbDwny98Y",
-      "viewsPerHour": 660,
+      "viewsPerHour": 553,
       "views": 6794,
-      "ageHours": 10.3
+      "ageHours": 12.3
     },
     {
-      "title": "F***ing the country up...but with added charisma!",
-      "channel": "Jonathan Pie",
-      "videoId": "C-YRH8_KLHA",
-      "viewsPerHour": 554,
-      "views": 25919,
-      "ageHours": 46.8
+      "title": "Trump mixes patriotism and partisanship in polarizing July 4th speech",
+      "channel": "MS NOW",
+      "videoId": "X-aWU9xoreA",
+      "viewsPerHour": 503,
+      "views": 2043,
+      "ageHours": 4.1
     },
     {
       "title": "3D printer manufacturers are cowards",
       "channel": "Louis Rossmann",
       "videoId": "FmQjBpDJ1FE",
-      "viewsPerHour": 337,
+      "viewsPerHour": 319,
       "views": 12405,
-      "ageHours": 36.8
-    },
-    {
-      "title": "Can You Learn to Be Happy? Yes, Says This Yale Scientist. | The Interview",
-      "channel": "The Interview",
-      "videoId": "8Xxwq7uGibY",
-      "viewsPerHour": 261,
-      "views": 12395,
-      "ageHours": 47.5
-    },
-    {
-      "title": "WATCH: Trump delivers keynote address at ‘Salute to America 250’ event on the National Mall",
-      "channel": "PBS NewsHour",
-      "videoId": "ePpWctZvxxs",
-      "viewsPerHour": 198,
-      "views": 4053,
-      "ageHours": 20.5
+      "ageHours": 38.8
     },
     {
       "title": "Austin City Councilman Mike Siegel: live interview to discuss surveillance cameras",
       "channel": "Louis Rossmann",
       "videoId": "qmU1l-ZbR0M",
-      "viewsPerHour": 195,
+      "viewsPerHour": 185,
       "views": 7065,
-      "ageHours": 36.2
+      "ageHours": 38.2
+    },
+    {
+      "title": "WATCH: Trump delivers keynote address at ‘Salute to America 250’ event on the National Mall",
+      "channel": "PBS NewsHour",
+      "videoId": "ePpWctZvxxs",
+      "viewsPerHour": 180,
+      "views": 4053,
+      "ageHours": 22.5
     },
     {
       "title": "Senator Perez admits she's clueless on 3D print bill & votes for it anyway 🤦‍♂️ stop this trainwreck",
       "channel": "Louis Rossmann",
       "videoId": "LKCQbWuAzsM",
-      "viewsPerHour": 188,
+      "viewsPerHour": 179,
       "views": 7422,
-      "ageHours": 39.4
+      "ageHours": 41.4
     },
     {
       "title": "‘Say what now?’: Bessent dismisses Trump conflict of interest concerns",
       "channel": "MS NOW",
       "videoId": "7qjQXX1Nf1Q",
-      "viewsPerHour": 106,
+      "viewsPerHour": 97,
       "views": 2133,
-      "ageHours": 20.1
+      "ageHours": 22.1
     },
     {
       "title": "President Trump's July 4 speech turns into attack on communism",
       "channel": "MS NOW",
       "videoId": "Fc7RFefCWl8",
-      "viewsPerHour": 55,
+      "viewsPerHour": 49,
       "views": 848,
-      "ageHours": 15.5
+      "ageHours": 17.5
     },
     {
       "title": "The Real Marty Supreme: Life and Times of a Ping Pong Hustler",
       "channel": "Real Stories",
       "videoId": "c1H8FIQdnd0",
-      "viewsPerHour": 33,
-      "views": 1444,
-      "ageHours": 44.3
+      "viewsPerHour": 31,
+      "views": 1452,
+      "ageHours": 46.3
     },
     {
       "title": "A Farmer Donated a Park for $10, The City Sold it to a Data Center for $10M. Show Up Thursday 6 PM!",
@@ -578,7 +558,7 @@
       "videoId": "M0Fp9xAUp5k",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 8.7
+      "ageHours": 10.7
     }
   ]
 }
