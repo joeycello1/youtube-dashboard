@@ -2,7 +2,15 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 6
+      "count": 8
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 3
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 11
     },
     {
       "channel": "Louis Rossmann",
@@ -15,10 +23,6 @@
     {
       "channel": "Real Stories",
       "count": 27
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 1
     },
     {
       "channel": "Jonathan Pie",
@@ -37,10 +41,6 @@
       "count": 7
     },
     {
-      "channel": "Conan O'Brien",
-      "count": 11
-    },
-    {
       "channel": "NOVA",
       "count": 8
     },
@@ -54,7 +54,7 @@
     },
     {
       "channel": "The Daily Show",
-      "count": 2
+      "count": 1
     },
     {
       "channel": "Diary of a CEO",
@@ -72,7 +72,15 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 8
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 3
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 10
     },
     {
       "keyword": "Louis Rossmann",
@@ -85,10 +93,6 @@
     {
       "keyword": "Real Stories, Louis Theroux",
       "count": 11
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 1
     },
     {
       "keyword": "Louis Rossmann, AI",
@@ -115,10 +119,6 @@
       "count": 1
     },
     {
-      "keyword": "Conan O'Brien",
-      "count": 10
-    },
-    {
       "keyword": "Conan O'Brien, The Interview",
       "count": 1
     },
@@ -136,10 +136,6 @@
     },
     {
       "keyword": "The Daily Show",
-      "count": 1
-    },
-    {
-      "keyword": "The Daily Show, AI",
       "count": 1
     },
     {
@@ -186,11 +182,11 @@
   "dailySummary": [
     {
       "date": "2026-07-06",
-      "videos": 4
+      "videos": 11
     },
     {
       "date": "2026-07-05",
-      "videos": 8
+      "videos": 6
     },
     {
       "date": "2026-07-04",
@@ -214,7 +210,7 @@
     },
     {
       "date": "2026-06-29",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-06-28",
@@ -226,7 +222,7 @@
     },
     {
       "date": "2026-06-26",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-06-25",
@@ -372,7 +368,15 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 8
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 3
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
     },
     {
       "keyword": "Louis Rossmann",
@@ -385,10 +389,6 @@
     {
       "keyword": "Real Stories, Louis Theroux",
       "matches": 2
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 1
     },
     {
       "keyword": "Louis Rossmann, AI",
@@ -415,10 +415,6 @@
       "matches": 1
     },
     {
-      "keyword": "Conan O'Brien",
-      "matches": 7
-    },
-    {
       "keyword": "Conan O'Brien, The Interview",
       "matches": 1
     },
@@ -428,7 +424,7 @@
     },
     {
       "keyword": "More Perfect Union",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "Last Week Tonight",
@@ -441,108 +437,148 @@
   ],
   "mostViral48h": [
     {
+      "title": "LIVE: President Trump speaks at the White House",
+      "channel": "MS NOW",
+      "videoId": "4BmfvJEN6k4",
+      "viewsPerHour": 6278,
+      "views": 11180,
+      "ageHours": 1.8
+    },
+    {
       "title": "Your Brain Invents Pain. Here's Why.",
       "channel": "The Rest Is Science",
       "videoId": "EY3sF6Cf72Q",
-      "viewsPerHour": 4945,
-      "views": 95338,
-      "ageHours": 19.3
+      "viewsPerHour": 4835,
+      "views": 102981,
+      "ageHours": 21.3
+    },
+    {
+      "title": "Preliminary hearing begins in case against Charlie Kirk's alleged killer",
+      "channel": "MS NOW",
+      "videoId": "G3Ky93mmGJ4",
+      "viewsPerHour": 3364,
+      "views": 18545,
+      "ageHours": 5.5
+    },
+    {
+      "title": "Danny McBride Returns (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "6zsWND3Awcs",
+      "viewsPerHour": 2457,
+      "views": 17945,
+      "ageHours": 7.3
     },
     {
       "title": "Australia teaches Amazon the meaning of the word \"contract\" ",
       "channel": "Louis Rossmann",
       "videoId": "DV2-GLJ2FnM",
-      "viewsPerHour": 1510,
+      "viewsPerHour": 1321,
       "views": 21296,
-      "ageHours": 14.1
+      "ageHours": 16.1
     },
     {
       "title": "Louis Theroux Goes Behind Closed Doors To ExploLegal Sex Work",
       "channel": "Real Stories",
       "videoId": "kPl-b7coKLU",
-      "viewsPerHour": 1345,
-      "views": 32670,
-      "ageHours": 24.3
+      "viewsPerHour": 1293,
+      "views": 34015,
+      "ageHours": 26.3
+    },
+    {
+      "title": "Michigan Primary SHAKE-UP: What McMorrow QUITTING the race means for Democrats",
+      "channel": "MS NOW",
+      "videoId": "R5D5IQba2Qg",
+      "viewsPerHour": 1197,
+      "views": 2416,
+      "ageHours": 2
     },
     {
       "title": "Who is really in the room when Trump makes decisions? New book reveals all",
       "channel": "MS NOW",
       "videoId": "-f0C37gQPNI",
-      "viewsPerHour": 661,
+      "viewsPerHour": 599,
       "views": 12875,
-      "ageHours": 19.5
+      "ageHours": 21.5
     },
     {
       "title": "Tehran erupts in chants of ‘revenge’ during Iran Supreme Leader’s funeral",
       "channel": "MS NOW",
       "videoId": "KxDJyNqBeaA",
-      "viewsPerHour": 620,
+      "viewsPerHour": 562,
       "views": 12056,
-      "ageHours": 19.4
+      "ageHours": 21.5
+    },
+    {
+      "title": "WATCH: Trump praises 'really brilliant decision' on Balogun's red card after he called Infantino",
+      "channel": "PBS NewsHour",
+      "videoId": "Qs9srDjQT_k",
+      "viewsPerHour": 508,
+      "views": 1602,
+      "ageHours": 3.2
+    },
+    {
+      "title": "WATCH: Trump says he 'had nothing to do with the decision' to remove Balogun's red card",
+      "channel": "PBS NewsHour",
+      "videoId": "4QxvC016ZtI",
+      "viewsPerHour": 453,
+      "views": 1245,
+      "ageHours": 2.8
     },
     {
       "title": "MS NOW Highlights - July 5",
       "channel": "MS NOW",
       "videoId": "l8CbDwny98Y",
-      "viewsPerHour": 476,
+      "viewsPerHour": 417,
       "views": 6794,
-      "ageHours": 14.3
-    },
-    {
-      "title": "Trump mixes patriotism and partisanship in polarizing July 4th speech",
-      "channel": "MS NOW",
-      "videoId": "X-aWU9xoreA",
-      "viewsPerHour": 338,
-      "views": 2043,
-      "ageHours": 6
+      "ageHours": 16.3
     },
     {
       "title": "3D printer manufacturers are cowards",
       "channel": "Louis Rossmann",
       "videoId": "FmQjBpDJ1FE",
-      "viewsPerHour": 304,
+      "viewsPerHour": 289,
       "views": 12405,
-      "ageHours": 40.8
+      "ageHours": 42.9
+    },
+    {
+      "title": "Trump mixes patriotism and partisanship in polarizing July 4th speech",
+      "channel": "MS NOW",
+      "videoId": "X-aWU9xoreA",
+      "viewsPerHour": 253,
+      "views": 2043,
+      "ageHours": 8.1
     },
     {
       "title": "Austin City Councilman Mike Siegel: live interview to discuss surveillance cameras",
       "channel": "Louis Rossmann",
       "videoId": "qmU1l-ZbR0M",
-      "viewsPerHour": 176,
+      "viewsPerHour": 167,
       "views": 7065,
-      "ageHours": 40.2
+      "ageHours": 42.2
     },
     {
       "title": "Senator Perez admits she's clueless on 3D print bill & votes for it anyway 🤦‍♂️ stop this trainwreck",
       "channel": "Louis Rossmann",
       "videoId": "LKCQbWuAzsM",
-      "viewsPerHour": 171,
+      "viewsPerHour": 163,
       "views": 7422,
-      "ageHours": 43.4
+      "ageHours": 45.5
     },
     {
-      "title": "WATCH: Trump delivers keynote address at ‘Salute to America 250’ event on the National Mall",
+      "title": "WATCH: Trump says he never talks to his kids about his investments but 'I think I'm allowed to'",
       "channel": "PBS NewsHour",
-      "videoId": "ePpWctZvxxs",
-      "viewsPerHour": 165,
-      "views": 4053,
-      "ageHours": 24.5
-    },
-    {
-      "title": "‘Say what now?’: Bessent dismisses Trump conflict of interest concerns",
-      "channel": "MS NOW",
-      "videoId": "7qjQXX1Nf1Q",
-      "viewsPerHour": 89,
-      "views": 2133,
-      "ageHours": 24.1
+      "videoId": "YYZJXO0fU4M",
+      "viewsPerHour": 157,
+      "views": 416,
+      "ageHours": 2.6
     },
     {
       "title": "President Trump's July 4 speech turns into attack on communism",
       "channel": "MS NOW",
       "videoId": "Fc7RFefCWl8",
-      "viewsPerHour": 44,
+      "viewsPerHour": 39,
       "views": 848,
-      "ageHours": 19.5
+      "ageHours": 21.5
     },
     {
       "title": "A Farmer Donated a Park for $10, The City Sold it to a Data Center for $10M. Show Up Thursday 6 PM!",
@@ -550,7 +586,7 @@
       "videoId": "M0Fp9xAUp5k",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 12.7
+      "ageHours": 14.7
     }
   ]
 }
