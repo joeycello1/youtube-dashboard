@@ -1,12 +1,12 @@
 {
   "videosPerChannel": [
     {
-      "channel": "Louis Rossmann",
-      "count": 26
-    },
-    {
       "channel": "MS NOW",
       "count": 6
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 26
     },
     {
       "channel": "The Rest Is Science",
@@ -71,12 +71,12 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "Louis Rossmann",
-      "count": 23
-    },
-    {
       "keyword": "MS NOW",
       "count": 6
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 23
     },
     {
       "keyword": "The Rest Is Science",
@@ -186,11 +186,11 @@
   "dailySummary": [
     {
       "date": "2026-07-06",
-      "videos": 3
+      "videos": 4
     },
     {
       "date": "2026-07-05",
-      "videos": 9
+      "videos": 8
     },
     {
       "date": "2026-07-04",
@@ -371,12 +371,12 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "Louis Rossmann",
-      "matches": 10
-    },
-    {
       "keyword": "MS NOW",
       "matches": 6
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 10
     },
     {
       "keyword": "The Rest Is Science",
@@ -416,7 +416,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "Conan O'Brien, The Interview",
@@ -448,129 +448,129 @@
       "title": "Your Brain Invents Pain. Here's Why.",
       "channel": "The Rest Is Science",
       "videoId": "EY3sF6Cf72Q",
-      "viewsPerHour": 5182,
-      "views": 68899,
-      "ageHours": 13.3
+      "viewsPerHour": 5100,
+      "views": 77959,
+      "ageHours": 15.3
     },
     {
       "title": "Australia teaches Amazon the meaning of the word \"contract\" ",
       "channel": "Louis Rossmann",
       "videoId": "DV2-GLJ2FnM",
-      "viewsPerHour": 2623,
+      "viewsPerHour": 2107,
       "views": 21296,
-      "ageHours": 8.1
+      "ageHours": 10.1
     },
     {
       "title": "Louis Theroux Goes Behind Closed Doors To ExploLegal Sex Work",
       "channel": "Real Stories",
       "videoId": "kPl-b7coKLU",
-      "viewsPerHour": 1667,
-      "views": 30507,
-      "ageHours": 18.3
+      "viewsPerHour": 1533,
+      "views": 31110,
+      "ageHours": 20.3
+    },
+    {
+      "title": "Trump mixes patriotism and partisanship in polarizing July 4th speech",
+      "channel": "MS NOW",
+      "videoId": "X-aWU9xoreA",
+      "viewsPerHour": 994,
+      "views": 2043,
+      "ageHours": 2.1
     },
     {
       "title": "Who is really in the room when Trump makes decisions? New book reveals all",
       "channel": "MS NOW",
       "videoId": "-f0C37gQPNI",
-      "viewsPerHour": 954,
+      "viewsPerHour": 831,
       "views": 12875,
-      "ageHours": 13.5
+      "ageHours": 15.5
     },
     {
       "title": "Tehran erupts in chants of ‘revenge’ during Iran Supreme Leader’s funeral",
       "channel": "MS NOW",
       "videoId": "KxDJyNqBeaA",
-      "viewsPerHour": 896,
+      "viewsPerHour": 781,
       "views": 12056,
-      "ageHours": 13.5
+      "ageHours": 15.4
     },
     {
       "title": "MS NOW Highlights - July 5",
       "channel": "MS NOW",
       "videoId": "l8CbDwny98Y",
-      "viewsPerHour": 818,
+      "viewsPerHour": 660,
       "views": 6794,
-      "ageHours": 8.3
+      "ageHours": 10.3
     },
     {
       "title": "F***ing the country up...but with added charisma!",
       "channel": "Jonathan Pie",
       "videoId": "C-YRH8_KLHA",
-      "viewsPerHour": 572,
-      "views": 25618,
-      "ageHours": 44.8
+      "viewsPerHour": 554,
+      "views": 25919,
+      "ageHours": 46.8
     },
     {
       "title": "3D printer manufacturers are cowards",
       "channel": "Louis Rossmann",
       "videoId": "FmQjBpDJ1FE",
-      "viewsPerHour": 356,
+      "viewsPerHour": 337,
       "views": 12405,
-      "ageHours": 34.9
+      "ageHours": 36.8
     },
     {
       "title": "Can You Learn to Be Happy? Yes, Says This Yale Scientist. | The Interview",
       "channel": "The Interview",
       "videoId": "8Xxwq7uGibY",
-      "viewsPerHour": 265,
-      "views": 12086,
-      "ageHours": 45.6
+      "viewsPerHour": 261,
+      "views": 12395,
+      "ageHours": 47.5
     },
     {
       "title": "WATCH: Trump delivers keynote address at ‘Salute to America 250’ event on the National Mall",
       "channel": "PBS NewsHour",
       "videoId": "ePpWctZvxxs",
-      "viewsPerHour": 219,
+      "viewsPerHour": 198,
       "views": 4053,
-      "ageHours": 18.5
+      "ageHours": 20.5
     },
     {
       "title": "Austin City Councilman Mike Siegel: live interview to discuss surveillance cameras",
       "channel": "Louis Rossmann",
       "videoId": "qmU1l-ZbR0M",
-      "viewsPerHour": 206,
+      "viewsPerHour": 195,
       "views": 7065,
-      "ageHours": 34.2
+      "ageHours": 36.2
     },
     {
       "title": "Senator Perez admits she's clueless on 3D print bill & votes for it anyway 🤦‍♂️ stop this trainwreck",
       "channel": "Louis Rossmann",
       "videoId": "LKCQbWuAzsM",
-      "viewsPerHour": 198,
+      "viewsPerHour": 188,
       "views": 7422,
-      "ageHours": 37.5
+      "ageHours": 39.4
     },
     {
       "title": "‘Say what now?’: Bessent dismisses Trump conflict of interest concerns",
       "channel": "MS NOW",
       "videoId": "7qjQXX1Nf1Q",
-      "viewsPerHour": 118,
+      "viewsPerHour": 106,
       "views": 2133,
-      "ageHours": 18.1
-    },
-    {
-      "title": "MS NOW Highlights - July 4",
-      "channel": "MS NOW",
-      "videoId": "vukcBU27ljE",
-      "viewsPerHour": 115,
-      "views": 2803,
-      "ageHours": 24.3
+      "ageHours": 20.1
     },
     {
       "title": "President Trump's July 4 speech turns into attack on communism",
       "channel": "MS NOW",
       "videoId": "Fc7RFefCWl8",
-      "viewsPerHour": 63,
+      "viewsPerHour": 55,
       "views": 848,
-      "ageHours": 13.5
+      "ageHours": 15.5
     },
     {
       "title": "The Real Marty Supreme: Life and Times of a Ping Pong Hustler",
       "channel": "Real Stories",
       "videoId": "c1H8FIQdnd0",
-      "viewsPerHour": 34,
-      "views": 1428,
-      "ageHours": 42.3
+      "viewsPerHour": 33,
+      "views": 1444,
+      "ageHours": 44.3
     },
     {
       "title": "A Farmer Donated a Park for $10, The City Sold it to a Data Center for $10M. Show Up Thursday 6 PM!",
@@ -578,7 +578,7 @@
       "videoId": "M0Fp9xAUp5k",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 6.7
+      "ageHours": 8.7
     }
   ]
 }
