@@ -2,15 +2,15 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 9
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 6
+      "count": 11
     },
     {
       "channel": "Louis Rossmann",
-      "count": 26
+      "count": 27
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 9
     },
     {
       "channel": "Conan O'Brien",
@@ -50,7 +50,7 @@
     },
     {
       "channel": "Last Week Tonight",
-      "count": 5
+      "count": 4
     },
     {
       "channel": "The Daily Show",
@@ -72,15 +72,15 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 9
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 6
+      "count": 11
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 23
+      "count": 24
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 9
     },
     {
       "keyword": "Conan O'Brien",
@@ -132,7 +132,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "count": 5
+      "count": 4
     },
     {
       "keyword": "The Daily Show",
@@ -182,11 +182,11 @@
   "dailySummary": [
     {
       "date": "2026-07-07",
-      "videos": 3
+      "videos": 7
     },
     {
       "date": "2026-07-06",
-      "videos": 16
+      "videos": 18
     },
     {
       "date": "2026-07-05",
@@ -242,7 +242,7 @@
     },
     {
       "date": "2026-06-22",
-      "videos": 2
+      "videos": 1
     },
     {
       "date": "2026-06-21",
@@ -372,19 +372,19 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 9
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 6
-    },
-    {
-      "keyword": "Louis Rossmann",
       "matches": 11
     },
     {
+      "keyword": "Louis Rossmann",
+      "matches": 12
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 9
+    },
+    {
       "keyword": "Conan O'Brien",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "The Rest Is Science",
@@ -441,164 +441,212 @@
   ],
   "mostViral48h": [
     {
+      "title": "Trump secures status as historic laughing stock after hogging America 250 spotlight",
+      "channel": "MS NOW",
+      "videoId": "olqYyTLYfKg",
+      "viewsPerHour": 13981,
+      "views": 85331,
+      "ageHours": 6.1
+    },
+    {
+      "title": "PBS News Hour full episode, July 6, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "bI7h_0s5UkY",
+      "viewsPerHour": 5856,
+      "views": 74666,
+      "ageHours": 12.7
+    },
+    {
       "title": "Your Brain Invents Pain. Here's Why.",
       "channel": "The Rest Is Science",
       "videoId": "EY3sF6Cf72Q",
-      "viewsPerHour": 4013,
-      "views": 149653,
-      "ageHours": 37.3
+      "viewsPerHour": 3897,
+      "views": 153175,
+      "ageHours": 39.3
+    },
+    {
+      "title": "Autodesk expects customers to investigate themselves: \"it's in the EULA\" ",
+      "channel": "Louis Rossmann",
+      "videoId": "17T2fZSgGsU",
+      "viewsPerHour": 3613,
+      "views": 41592,
+      "ageHours": 11.5
+    },
+    {
+      "title": "Trump neglects to mention July 4 phone call with Putin",
+      "channel": "MS NOW",
+      "videoId": "pPlm_J1Cr_c",
+      "viewsPerHour": 2204,
+      "views": 11968,
+      "ageHours": 5.4
     },
     {
       "title": "Preliminary hearing begins in case against Charlie Kirk's alleged killer",
       "channel": "MS NOW",
       "videoId": "d4CIsSabmnY",
-      "viewsPerHour": 2345,
+      "viewsPerHour": 2081,
       "views": 37261,
-      "ageHours": 15.9
+      "ageHours": 17.9
     },
     {
       "title": "Lawrence: JD Vance’s old accusation of Trump being ‘cultural heroin’ was on display this weekend",
       "channel": "MS NOW",
       "videoId": "y2aH7TR4Zvc",
-      "viewsPerHour": 1773,
+      "viewsPerHour": 1355,
       "views": 11590,
-      "ageHours": 6.5
+      "ageHours": 8.6
     },
     {
       "title": "Louis Theroux Goes Behind Closed Doors To ExploLegal Sex Work",
       "channel": "Real Stories",
       "videoId": "kPl-b7coKLU",
-      "viewsPerHour": 1177,
-      "views": 49791,
-      "ageHours": 42.3
+      "viewsPerHour": 1138,
+      "views": 50400,
+      "ageHours": 44.3
     },
     {
       "title": "Preliminary hearing begins in case against Charlie Kirk's alleged killer",
       "channel": "MS NOW",
       "videoId": "G3Ky93mmGJ4",
-      "viewsPerHour": 862,
+      "viewsPerHour": 789,
       "views": 18545,
-      "ageHours": 21.5
+      "ageHours": 23.5
     },
     {
       "title": "Danny McBride Returns (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "6zsWND3Awcs",
-      "viewsPerHour": 770,
+      "viewsPerHour": 709,
       "views": 17945,
-      "ageHours": 23.3
+      "ageHours": 25.3
+    },
+    {
+      "title": "BOMBSHELL: New Graham Platner sexual assault allegation reported by Politico",
+      "channel": "MS NOW",
+      "videoId": "DxJleVHSJkM",
+      "viewsPerHour": 643,
+      "views": 1182,
+      "ageHours": 1.8
     },
     {
       "title": "Australia teaches Amazon the meaning of the word \"contract\" ",
       "channel": "Louis Rossmann",
       "videoId": "DV2-GLJ2FnM",
-      "viewsPerHour": 663,
+      "viewsPerHour": 624,
       "views": 21296,
-      "ageHours": 32.1
+      "ageHours": 34.1
+    },
+    {
+      "title": "What to know as ticks spread to new regions and bring new threats",
+      "channel": "PBS NewsHour",
+      "videoId": "2miW1AFBGGs",
+      "viewsPerHour": 594,
+      "views": 7800,
+      "ageHours": 13.1
     },
     {
       "title": "LIVE: President Trump speaks at the White House",
       "channel": "MS NOW",
       "videoId": "4BmfvJEN6k4",
-      "viewsPerHour": 629,
+      "viewsPerHour": 565,
       "views": 11180,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "Automakers lobby against domestic violence victims 6 years after implying mechanics are rapists",
       "channel": "Louis Rossmann",
       "videoId": "omSOcqHqeKI",
-      "viewsPerHour": 425,
+      "viewsPerHour": 365,
       "views": 5255,
-      "ageHours": 12.4
+      "ageHours": 14.4
     },
     {
       "title": "PBS News Hour live episode, July 6, 2026",
       "channel": "PBS NewsHour",
       "videoId": "H7YpKnYD8DU",
-      "viewsPerHour": 308,
+      "viewsPerHour": 268,
       "views": 4225,
-      "ageHours": 13.7
+      "ageHours": 15.7
+    },
+    {
+      "title": "Adam Met's Brief But Spectacular take on building fan-based movements",
+      "channel": "PBS NewsHour",
+      "videoId": "RweJoKMVb-w",
+      "viewsPerHour": 144,
+      "views": 1868,
+      "ageHours": 13
     },
     {
       "title": "Michigan Primary SHAKE-UP: What McMorrow QUITTING the race means for Democrats",
       "channel": "MS NOW",
       "videoId": "R5D5IQba2Qg",
-      "viewsPerHour": 134,
+      "viewsPerHour": 121,
       "views": 2416,
-      "ageHours": 18
-    },
-    {
-      "title": "‘Prepared to stand up to the president’: Mich. Sec. of State slams Trump’s latest election attacks",
-      "channel": "MS NOW",
-      "videoId": "KIy3Onv98gM",
-      "viewsPerHour": 103,
-      "views": 619,
-      "ageHours": 6
+      "ageHours": 20
     },
     {
       "title": "Trump & Musk’s aid cuts are costing lives, former USAID boss Samantha Power says",
       "channel": "MS NOW",
       "videoId": "pkFFOY0eVpE",
-      "viewsPerHour": 102,
+      "viewsPerHour": 77,
       "views": 641,
-      "ageHours": 6.3
+      "ageHours": 8.3
     },
     {
-      "title": "Trump mixes patriotism and partisanship in polarizing July 4th speech",
+      "title": "‘Prepared to stand up to the president’: Mich. Sec. of State slams Trump’s latest election attacks",
       "channel": "MS NOW",
-      "videoId": "X-aWU9xoreA",
-      "viewsPerHour": 85,
-      "views": 2043,
-      "ageHours": 24.1
+      "videoId": "KIy3Onv98gM",
+      "viewsPerHour": 77,
+      "views": 619,
+      "ageHours": 8
     },
     {
       "title": "WATCH: Trump praises 'really brilliant decision' on Balogun's red card after he called Infantino",
       "channel": "PBS NewsHour",
       "videoId": "Qs9srDjQT_k",
-      "viewsPerHour": 84,
+      "viewsPerHour": 76,
       "views": 1602,
-      "ageHours": 19.1
+      "ageHours": 21.2
     },
     {
       "title": "WATCH: Trump says he 'had nothing to do with the decision' to remove Balogun's red card",
       "channel": "PBS NewsHour",
       "videoId": "4QxvC016ZtI",
-      "viewsPerHour": 66,
+      "viewsPerHour": 60,
       "views": 1245,
-      "ageHours": 18.7
+      "ageHours": 20.8
     },
     {
       "title": "Trump's DERANGED OBSESSION with Obamas continues with FAKE and racist post",
       "channel": "MS NOW",
       "videoId": "r_64XY54T7A",
-      "viewsPerHour": 52,
+      "viewsPerHour": 44,
       "views": 602,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "News Wrap: Funeral held for Iran's late Supreme Leader",
       "channel": "PBS NewsHour",
       "videoId": "0m3L6fjXfX0",
-      "viewsPerHour": 27,
+      "viewsPerHour": 23,
       "views": 317,
-      "ageHours": 11.7
+      "ageHours": 13.7
     },
     {
       "title": "WATCH: Trump says he never talks to his kids about his investments but 'I think I'm allowed to'",
       "channel": "PBS NewsHour",
       "videoId": "YYZJXO0fU4M",
-      "viewsPerHour": 22,
+      "viewsPerHour": 20,
       "views": 416,
-      "ageHours": 18.6
+      "ageHours": 20.7
     },
     {
       "title": "Who could benefit the most from Trump's investment accounts for children",
       "channel": "PBS NewsHour",
       "videoId": "G74KiZE5Vx4",
-      "viewsPerHour": 8,
+      "viewsPerHour": 7,
       "views": 90,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "A Farmer Donated a Park for $10, The City Sold it to a Data Center for $10M. Show Up Thursday 6 PM!",
@@ -606,7 +654,7 @@
       "videoId": "M0Fp9xAUp5k",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 30.7
+      "ageHours": 32.7
     }
   ]
 }
