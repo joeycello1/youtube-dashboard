@@ -1,16 +1,16 @@
 {
   "videosPerChannel": [
     {
+      "channel": "MS NOW",
+      "count": 9
+    },
+    {
       "channel": "PBS NewsHour",
       "count": 6
     },
     {
-      "channel": "MS NOW",
-      "count": 7
-    },
-    {
       "channel": "Louis Rossmann",
-      "count": 27
+      "count": 26
     },
     {
       "channel": "Conan O'Brien",
@@ -50,7 +50,7 @@
     },
     {
       "channel": "Last Week Tonight",
-      "count": 6
+      "count": 5
     },
     {
       "channel": "The Daily Show",
@@ -71,16 +71,16 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "MS NOW",
+      "count": 9
+    },
+    {
       "keyword": "PBS NewsHour",
       "count": 6
     },
     {
-      "keyword": "MS NOW",
-      "count": 7
-    },
-    {
       "keyword": "Louis Rossmann",
-      "count": 24
+      "count": 23
     },
     {
       "keyword": "Conan O'Brien",
@@ -132,7 +132,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "count": 6
+      "count": 5
     },
     {
       "keyword": "The Daily Show",
@@ -181,8 +181,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-07-07",
+      "videos": 3
+    },
+    {
       "date": "2026-07-06",
-      "videos": 17
+      "videos": 16
     },
     {
       "date": "2026-07-05",
@@ -238,7 +242,7 @@
     },
     {
       "date": "2026-06-22",
-      "videos": 4
+      "videos": 2
     },
     {
       "date": "2026-06-21",
@@ -367,12 +371,12 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
-      "matches": 6
+      "keyword": "MS NOW",
+      "matches": 9
     },
     {
-      "keyword": "MS NOW",
-      "matches": 7
+      "keyword": "PBS NewsHour",
+      "matches": 6
     },
     {
       "keyword": "Louis Rossmann",
@@ -437,148 +441,164 @@
   ],
   "mostViral48h": [
     {
+      "title": "Lawrence: JD Vance’s old accusation of Trump being ‘cultural heroin’ was on display this weekend",
+      "channel": "MS NOW",
+      "videoId": "y2aH7TR4Zvc",
+      "viewsPerHour": 4568,
+      "views": 11590,
+      "ageHours": 2.5
+    },
+    {
       "title": "Your Brain Invents Pain. Here's Why.",
       "channel": "The Rest Is Science",
       "videoId": "EY3sF6Cf72Q",
-      "viewsPerHour": 4050,
+      "viewsPerHour": 3805,
       "views": 126667,
-      "ageHours": 31.3
+      "ageHours": 33.3
     },
     {
       "title": "Preliminary hearing begins in case against Charlie Kirk's alleged killer",
       "channel": "MS NOW",
       "videoId": "d4CIsSabmnY",
-      "viewsPerHour": 3772,
+      "viewsPerHour": 3135,
       "views": 37261,
-      "ageHours": 9.9
-    },
-    {
-      "title": "Preliminary hearing begins in case against Charlie Kirk's alleged killer",
-      "channel": "MS NOW",
-      "videoId": "G3Ky93mmGJ4",
-      "viewsPerHour": 1197,
-      "views": 18545,
-      "ageHours": 15.5
+      "ageHours": 11.9
     },
     {
       "title": "Louis Theroux Goes Behind Closed Doors To ExploLegal Sex Work",
       "channel": "Real Stories",
       "videoId": "kPl-b7coKLU",
-      "viewsPerHour": 1166,
+      "viewsPerHour": 1105,
       "views": 42302,
-      "ageHours": 36.3
+      "ageHours": 38.3
+    },
+    {
+      "title": "Preliminary hearing begins in case against Charlie Kirk's alleged killer",
+      "channel": "MS NOW",
+      "videoId": "G3Ky93mmGJ4",
+      "viewsPerHour": 1060,
+      "views": 18545,
+      "ageHours": 17.5
     },
     {
       "title": "Danny McBride Returns (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "6zsWND3Awcs",
-      "viewsPerHour": 1038,
+      "viewsPerHour": 930,
       "views": 17945,
-      "ageHours": 17.3
+      "ageHours": 19.3
     },
     {
       "title": "LIVE: President Trump speaks at the White House",
       "channel": "MS NOW",
       "videoId": "4BmfvJEN6k4",
-      "viewsPerHour": 951,
+      "viewsPerHour": 812,
       "views": 11180,
-      "ageHours": 11.8
-    },
-    {
-      "title": "Automakers lobby against domestic violence victims 6 years after implying mechanics are rapists",
-      "channel": "Louis Rossmann",
-      "videoId": "omSOcqHqeKI",
-      "viewsPerHour": 826,
-      "views": 5255,
-      "ageHours": 6.4
+      "ageHours": 13.8
     },
     {
       "title": "Australia teaches Amazon the meaning of the word \"contract\" ",
       "channel": "Louis Rossmann",
       "videoId": "DV2-GLJ2FnM",
-      "viewsPerHour": 816,
+      "viewsPerHour": 758,
       "views": 21296,
-      "ageHours": 26.1
+      "ageHours": 28.1
+    },
+    {
+      "title": "Automakers lobby against domestic violence victims 6 years after implying mechanics are rapists",
+      "channel": "Louis Rossmann",
+      "videoId": "omSOcqHqeKI",
+      "viewsPerHour": 628,
+      "views": 5255,
+      "ageHours": 8.4
     },
     {
       "title": "PBS News Hour live episode, July 6, 2026",
       "channel": "PBS NewsHour",
       "videoId": "H7YpKnYD8DU",
-      "viewsPerHour": 547,
+      "viewsPerHour": 434,
       "views": 4225,
-      "ageHours": 7.7
+      "ageHours": 9.7
     },
     {
-      "title": "MS NOW Highlights - July 5",
+      "title": "‘Prepared to stand up to the president’: Mich. Sec. of State slams Trump’s latest election attacks",
       "channel": "MS NOW",
-      "videoId": "l8CbDwny98Y",
-      "viewsPerHour": 258,
-      "views": 6794,
-      "ageHours": 26.3
+      "videoId": "KIy3Onv98gM",
+      "viewsPerHour": 305,
+      "views": 619,
+      "ageHours": 2
+    },
+    {
+      "title": "Trump & Musk’s aid cuts are costing lives, former USAID boss Samantha Power says",
+      "channel": "MS NOW",
+      "videoId": "pkFFOY0eVpE",
+      "viewsPerHour": 278,
+      "views": 641,
+      "ageHours": 2.3
     },
     {
       "title": "Michigan Primary SHAKE-UP: What McMorrow QUITTING the race means for Democrats",
       "channel": "MS NOW",
       "videoId": "R5D5IQba2Qg",
-      "viewsPerHour": 201,
+      "viewsPerHour": 172,
       "views": 2416,
-      "ageHours": 12
+      "ageHours": 14
     },
     {
       "title": "WATCH: Trump praises 'really brilliant decision' on Balogun's red card after he called Infantino",
       "channel": "PBS NewsHour",
       "videoId": "Qs9srDjQT_k",
-      "viewsPerHour": 122,
+      "viewsPerHour": 106,
       "views": 1602,
-      "ageHours": 13.1
+      "ageHours": 15.1
     },
     {
       "title": "Trump mixes patriotism and partisanship in polarizing July 4th speech",
       "channel": "MS NOW",
       "videoId": "X-aWU9xoreA",
-      "viewsPerHour": 113,
+      "viewsPerHour": 102,
       "views": 2043,
-      "ageHours": 18
-    },
-    {
-      "title": "Trump's DERANGED OBSESSION with Obamas continues with FAKE and racist post",
-      "channel": "MS NOW",
-      "videoId": "r_64XY54T7A",
-      "viewsPerHour": 108,
-      "views": 602,
-      "ageHours": 5.6
+      "ageHours": 20.1
     },
     {
       "title": "WATCH: Trump says he 'had nothing to do with the decision' to remove Balogun's red card",
       "channel": "PBS NewsHour",
       "videoId": "4QxvC016ZtI",
-      "viewsPerHour": 98,
+      "viewsPerHour": 84,
       "views": 1245,
-      "ageHours": 12.7
+      "ageHours": 14.7
+    },
+    {
+      "title": "Trump's DERANGED OBSESSION with Obamas continues with FAKE and racist post",
+      "channel": "MS NOW",
+      "videoId": "r_64XY54T7A",
+      "viewsPerHour": 80,
+      "views": 602,
+      "ageHours": 7.6
     },
     {
       "title": "News Wrap: Funeral held for Iran's late Supreme Leader",
       "channel": "PBS NewsHour",
       "videoId": "0m3L6fjXfX0",
-      "viewsPerHour": 56,
+      "viewsPerHour": 41,
       "views": 317,
-      "ageHours": 5.6
+      "ageHours": 7.7
     },
     {
       "title": "WATCH: Trump says he never talks to his kids about his investments but 'I think I'm allowed to'",
       "channel": "PBS NewsHour",
       "videoId": "YYZJXO0fU4M",
-      "viewsPerHour": 33,
+      "viewsPerHour": 28,
       "views": 416,
-      "ageHours": 12.6
+      "ageHours": 14.6
     },
     {
       "title": "Who could benefit the most from Trump's investment accounts for children",
       "channel": "PBS NewsHour",
       "videoId": "G74KiZE5Vx4",
-      "viewsPerHour": 16,
+      "viewsPerHour": 12,
       "views": 90,
-      "ageHours": 5.6
+      "ageHours": 7.6
     },
     {
       "title": "A Farmer Donated a Park for $10, The City Sold it to a Data Center for $10M. Show Up Thursday 6 PM!",
@@ -586,7 +606,7 @@
       "videoId": "M0Fp9xAUp5k",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 24.7
+      "ageHours": 26.7
     }
   ]
 }
