@@ -1,24 +1,28 @@
 {
   "videosPerChannel": [
     {
-      "channel": "MS NOW",
-      "count": 7
+      "channel": "PBS NewsHour",
+      "count": 9
     },
     {
-      "channel": "Jonathan Pie",
-      "count": 5
+      "channel": "MS NOW",
+      "count": 8
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 14
     },
     {
       "channel": "The Daily Show",
       "count": 3
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 26
+      "channel": "Jonathan Pie",
+      "count": 5
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 7
+      "channel": "Louis Rossmann",
+      "count": 26
     },
     {
       "channel": "NOVA",
@@ -31,10 +35,6 @@
     {
       "channel": "Real Stories",
       "count": 28
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 12
     },
     {
       "channel": "The Rest Is Science",
@@ -71,8 +71,20 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "PBS NewsHour",
+      "count": 9
+    },
+    {
       "keyword": "MS NOW",
-      "count": 7
+      "count": 8
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 13
+    },
+    {
+      "keyword": "The Daily Show, AI",
+      "count": 1
     },
     {
       "keyword": "Jonathan Pie",
@@ -80,15 +92,11 @@
     },
     {
       "keyword": "The Daily Show",
-      "count": 3
+      "count": 2
     },
     {
       "keyword": "Louis Rossmann",
       "count": 23
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 7
     },
     {
       "keyword": "NOVA",
@@ -101,10 +109,6 @@
     {
       "keyword": "Real Stories",
       "count": 16
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 11
     },
     {
       "keyword": "The Rest Is Science",
@@ -186,11 +190,11 @@
   "dailySummary": [
     {
       "date": "2026-07-08",
-      "videos": 6
+      "videos": 15
     },
     {
       "date": "2026-07-07",
-      "videos": 19
+      "videos": 16
     },
     {
       "date": "2026-07-06",
@@ -214,7 +218,7 @@
     },
     {
       "date": "2026-07-01",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-06-30",
@@ -375,8 +379,20 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour",
+      "matches": 9
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 7
+      "matches": 8
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
+    },
+    {
+      "keyword": "The Daily Show, AI",
+      "matches": 1
     },
     {
       "keyword": "Jonathan Pie",
@@ -391,10 +407,6 @@
       "matches": 14
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 7
-    },
-    {
       "keyword": "NOVA",
       "matches": 2
     },
@@ -405,10 +417,6 @@
     {
       "keyword": "Real Stories",
       "matches": 2
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 6
     },
     {
       "keyword": "The Rest Is Science",
@@ -444,209 +452,257 @@
       "title": "Trump Meddles in USA World Cup Game & America's 250th Takes a Nosedive | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "i9EJPcb36ws",
-      "viewsPerHour": 99188,
-      "views": 1414200,
-      "ageHours": 14.3
+      "viewsPerHour": 95452,
+      "views": 1553427,
+      "ageHours": 16.3
+    },
+    {
+      "title": "President Trump holds a press conference after he says ceasefire with Iran is over",
+      "channel": "MS NOW",
+      "videoId": "-QcXUOJ1csY",
+      "viewsPerHour": 18563,
+      "views": 27376,
+      "ageHours": 1.5
     },
     {
       "title": "Farage Vs The Establishment",
       "channel": "Jonathan Pie",
       "videoId": "5TeLKNgpty0",
-      "viewsPerHour": 15845,
-      "views": 97101,
-      "ageHours": 6.1
+      "viewsPerHour": 17321,
+      "views": 141072,
+      "ageHours": 8.1
     },
     {
       "title": "We Talked to a Trump Whistleblower. What He Saw Will Shock You.",
       "channel": "More Perfect Union",
       "videoId": "f3o4nCfmGco",
-      "viewsPerHour": 15200,
-      "views": 345996,
-      "ageHours": 22.8
+      "viewsPerHour": 14941,
+      "views": 370228,
+      "ageHours": 24.8
+    },
+    {
+      "title": "Tech Yeah: AI Actress Gets Feature Film & Robo Toilets Bring the Bathroom to You | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "dfcg3h6_0f8",
+      "viewsPerHour": 8092,
+      "views": 54958,
+      "ageHours": 6.8
+    },
+    {
+      "title": "WATCH LIVE:  Trump holds news conference at NATO summit in Turkey",
+      "channel": "PBS NewsHour",
+      "videoId": "kUZNdAxrzN0",
+      "viewsPerHour": 2677,
+      "views": 3939,
+      "ageHours": 1.5
     },
     {
       "title": "PBS News Hour full episode, July 7, 2026",
       "channel": "PBS NewsHour",
       "videoId": "5cAQleLBGxc",
-      "viewsPerHour": 2366,
+      "viewsPerHour": 2110,
       "views": 39414,
-      "ageHours": 16.7
+      "ageHours": 18.7
     },
     {
       "title": "Ann M. Martin & Ronny Chieng Celebrate 40 Years of “The Baby-Sitters Club\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "QaVf2CwyZjY",
-      "viewsPerHour": 2083,
-      "views": 26683,
-      "ageHours": 12.8
+      "viewsPerHour": 2049,
+      "views": 30374,
+      "ageHours": 14.8
     },
     {
       "title": "Autodesk expects customers to investigate themselves: \"it's in the EULA\" ",
       "channel": "Louis Rossmann",
       "videoId": "17T2fZSgGsU",
-      "viewsPerHour": 1053,
+      "viewsPerHour": 1002,
       "views": 41592,
-      "ageHours": 39.5
+      "ageHours": 41.5
     },
     {
       "title": "Fake support is worse than real opposition, what I learned watching SKG California ",
       "channel": "Louis Rossmann",
       "videoId": "Oi9aze2-SyQ",
-      "viewsPerHour": 993,
+      "viewsPerHour": 884,
       "views": 16284,
-      "ageHours": 16.4
+      "ageHours": 18.4
+    },
+    {
+      "title": "Danny McBride Was Nervous To Pitch Halloween Reboot To John Carpenter | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "4au3HJwtsmc",
+      "viewsPerHour": 576,
+      "views": 1908,
+      "ageHours": 3.3
     },
     {
       "title": "The Grossest Job in Antarctica | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "sQIQcKtNjMo",
-      "viewsPerHour": 549,
-      "views": 11093,
-      "ageHours": 20.2
+      "viewsPerHour": 522,
+      "views": 11610,
+      "ageHours": 22.2
     },
     {
       "title": "Matt Gourley Weighs In On Aaron Bleyaert's Tax Scam | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "aQ29i_FM1eo",
-      "viewsPerHour": 506,
+      "viewsPerHour": 472,
       "views": 14311,
-      "ageHours": 28.3
+      "ageHours": 30.3
     },
     {
-      "title": "Trump says ceasefire is 'OVER', U.S. launches strikes on Iran",
+      "title": "WATCH: Trump says NATO member countries 'making big changes' to increase defense spending",
+      "channel": "PBS NewsHour",
+      "videoId": "n-MlL2k3V0k",
+      "viewsPerHour": 338,
+      "views": 673,
+      "ageHours": 2
+    },
+    {
+      "title": "What is the game plan now?': Fmr. Amb. slams Iran war as 'complete disaster'",
       "channel": "MS NOW",
-      "videoId": "UcUxuwsLSfQ",
-      "viewsPerHour": 415,
-      "views": 2373,
-      "ageHours": 5.7
+      "videoId": "-IyzDI0iFIA",
+      "viewsPerHour": 337,
+      "views": 567,
+      "ageHours": 1.7
     },
     {
       "title": "CITY OF TAYLOR TX; SHOW UP 6 PM THURSDAY! bots raided my comments; you got my attention now",
       "channel": "Louis Rossmann",
       "videoId": "3HHQ9UFvvKs",
-      "viewsPerHour": 352,
+      "viewsPerHour": 317,
       "views": 6445,
-      "ageHours": 18.3
+      "ageHours": 20.3
     },
     {
-      "title": "Trump on Memorandum of Understanding with Iran: ‘I think it’s over’",
+      "title": "Trump says ceasefire is 'OVER', U.S. launches strikes on Iran",
       "channel": "MS NOW",
-      "videoId": "KTKzBMOv_8Y",
-      "viewsPerHour": 239,
-      "views": 1403,
-      "ageHours": 5.9
+      "videoId": "UcUxuwsLSfQ",
+      "viewsPerHour": 307,
+      "views": 2373,
+      "ageHours": 7.7
+    },
+    {
+      "title": "Candice Bergen (Full Episode) | Where Everybody Knows Your Name",
+      "channel": "Conan O'Brien",
+      "videoId": "va3bIffsPec",
+      "viewsPerHour": 270,
+      "views": 1703,
+      "ageHours": 6.3
     },
     {
       "title": "PBS News Hour live episode, July 7, 2026",
       "channel": "PBS NewsHour",
       "videoId": "K4exdvWmjVE",
-      "viewsPerHour": 228,
+      "viewsPerHour": 206,
       "views": 4299,
-      "ageHours": 18.9
+      "ageHours": 20.9
+    },
+    {
+      "title": "Trump on Memorandum of Understanding with Iran: ‘I think it’s over’",
+      "channel": "MS NOW",
+      "videoId": "KTKzBMOv_8Y",
+      "viewsPerHour": 178,
+      "views": 1403,
+      "ageHours": 7.9
     },
     {
       "title": "Automakers lobby against domestic violence victims 6 years after implying mechanics are rapists",
       "channel": "Louis Rossmann",
       "videoId": "omSOcqHqeKI",
-      "viewsPerHour": 124,
+      "viewsPerHour": 118,
       "views": 5255,
-      "ageHours": 42.4
+      "ageHours": 44.4
     },
     {
       "title": "Trump's EEOC abandons key tool for combating workplace discrimination",
       "channel": "PBS NewsHour",
       "videoId": "cO_iqoBC6cU",
-      "viewsPerHour": 98,
+      "viewsPerHour": 88,
       "views": 1682,
-      "ageHours": 17.2
-    },
-    {
-      "title": "WATCH LIVE: Mamdani gives update as Manhattan buildings evacuated over high-rise collapse risk",
-      "channel": "PBS NewsHour",
-      "videoId": "_uG7eon8QCc",
-      "viewsPerHour": 86,
-      "views": 2189,
-      "ageHours": 25.3
-    },
-    {
-      "title": "MS NOW Highlights - July 7",
-      "channel": "MS NOW",
-      "videoId": "x2RlwzyKx7c",
-      "viewsPerHour": 80,
-      "views": 469,
-      "ageHours": 5.9
+      "ageHours": 19.2
     },
     {
       "title": "How hospitals are using the arts to help patients recover",
       "channel": "PBS NewsHour",
       "videoId": "aWbgqG8z0oA",
-      "viewsPerHour": 74,
+      "viewsPerHour": 66,
       "views": 1266,
-      "ageHours": 17.1
+      "ageHours": 19.1
     },
     {
       "title": "Tibetan Refugees: The Hardest Fight For Justice After 70 Years Of Exile",
       "channel": "Real Stories",
       "videoId": "Uvv-BaRkPyY",
-      "viewsPerHour": 68,
-      "views": 1647,
-      "ageHours": 24.3
+      "viewsPerHour": 65,
+      "views": 1719,
+      "ageHours": 26.3
+    },
+    {
+      "title": "MS NOW Highlights - July 7",
+      "channel": "MS NOW",
+      "videoId": "x2RlwzyKx7c",
+      "viewsPerHour": 59,
+      "views": 469,
+      "ageHours": 7.9
     },
     {
       "title": "Trump’s 6-3 MAGA Court takes ‘SLEDGEHAMMER’ to the Constitution: Chris Hayes & Strict Scrutiny panel",
       "channel": "MS NOW",
       "videoId": "Q68BV7PObsg",
-      "viewsPerHour": 57,
+      "viewsPerHour": 51,
       "views": 1012,
-      "ageHours": 17.9
+      "ageHours": 19.9
     },
     {
       "title": "At NATO summit, Trump pressures allies on loyalty, defense spending and Greenland",
       "channel": "PBS NewsHour",
       "videoId": "nGzlpiwdNMY",
-      "viewsPerHour": 57,
+      "viewsPerHour": 51,
       "views": 1007,
-      "ageHours": 17.8
+      "ageHours": 19.8
+    },
+    {
+      "title": "Can a Democratic socialist win in a swing state? This progressive in Wisconsin thinks so",
+      "channel": "MS NOW",
+      "videoId": "-9dY_AcgVR8",
+      "viewsPerHour": 48,
+      "views": 82,
+      "ageHours": 1.7
     },
     {
       "title": "Danny McBride Felt Underdressed On Vacation With Walton Goggins | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "-AZUpKtP_wA",
-      "viewsPerHour": 50,
+      "viewsPerHour": 47,
       "views": 1277,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
-      "title": "Trump keeps 'threats on the table' to keep other leaders 'off balance': Fmr. NATO Amb.",
-      "channel": "MS NOW",
-      "videoId": "XNqadpHqzHI",
-      "viewsPerHour": 49,
-      "views": 1163,
-      "ageHours": 23.8
-    },
-    {
-      "title": "Why weren't previous Graham Platner allegations 'DISQUALIFYING'?: Elise Jordan",
-      "channel": "MS NOW",
-      "videoId": "iTrOim3nUNQ",
-      "viewsPerHour": 30,
-      "views": 716,
-      "ageHours": 23.7
+      "title": "WATCH: Trump says he is Iran's 'No. 1 target'",
+      "channel": "PBS NewsHour",
+      "videoId": "PZq5JgsXJf4",
+      "viewsPerHour": 28,
+      "views": 46,
+      "ageHours": 1.6
     },
     {
       "title": "News Wrap: Judge rejects Trump's attempt to collect Georgia election worker info",
       "channel": "PBS NewsHour",
       "videoId": "sJNXwTAOB1w",
-      "viewsPerHour": 25,
+      "viewsPerHour": 23,
       "views": 445,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "Shocking and GALLING': Nicolle SLAMS Trump White House for BIZARRE attacks on Smithsonian",
       "channel": "MS NOW",
       "videoId": "DjgPO-ZN_ko",
-      "viewsPerHour": 22,
+      "viewsPerHour": 20,
       "views": 392,
-      "ageHours": 17.6
+      "ageHours": 19.6
     }
   ]
 }
