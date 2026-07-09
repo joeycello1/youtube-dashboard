@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "PBS NewsHour",
-      "count": 9
+      "count": 6
     },
     {
       "channel": "MS NOW",
@@ -72,7 +72,7 @@
   "keywordFrequency": [
     {
       "keyword": "PBS NewsHour",
-      "count": 9
+      "count": 6
     },
     {
       "keyword": "MS NOW",
@@ -194,7 +194,7 @@
     },
     {
       "date": "2026-07-07",
-      "videos": 11
+      "videos": 8
     },
     {
       "date": "2026-07-06",
@@ -380,7 +380,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "PBS NewsHour",
-      "matches": 9
+      "matches": 6
     },
     {
       "keyword": "MS NOW",
@@ -452,257 +452,233 @@
       "title": "Trump Meddles in USA World Cup Game & America's 250th Takes a Nosedive | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "i9EJPcb36ws",
-      "viewsPerHour": 73921,
+      "viewsPerHour": 68698,
       "views": 1940397,
-      "ageHours": 26.2
+      "ageHours": 28.2
     },
     {
       "title": "We Talked to a Trump Whistleblower. What He Saw Will Shock You.",
       "channel": "More Perfect Union",
       "videoId": "f3o4nCfmGco",
-      "viewsPerHour": 14116,
+      "viewsPerHour": 13350,
       "views": 490606,
-      "ageHours": 34.8
+      "ageHours": 36.7
     },
     {
       "title": "Farage Vs The Establishment",
       "channel": "Jonathan Pie",
       "videoId": "5TeLKNgpty0",
-      "viewsPerHour": 12836,
+      "viewsPerHour": 11563,
       "views": 232590,
-      "ageHours": 18.1
+      "ageHours": 20.1
     },
     {
       "title": "Tech Yeah: AI Actress Gets Feature Film & Robo Toilets Bring the Bathroom to You | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "dfcg3h6_0f8",
-      "viewsPerHour": 6565,
+      "viewsPerHour": 5867,
       "views": 110080,
-      "ageHours": 16.8
-    },
-    {
-      "title": "Day 3: Preliminary hearing continues in case against Charlie Kirk's alleged killer",
-      "channel": "MS NOW",
-      "videoId": "oO49SIEb8aw",
-      "viewsPerHour": 2559,
-      "views": 14491,
-      "ageHours": 5.7
+      "ageHours": 18.8
     },
     {
       "title": "President Trump holds a press conference after he says ceasefire with Iran is over",
       "channel": "MS NOW",
       "videoId": "-QcXUOJ1csY",
-      "viewsPerHour": 2391,
+      "viewsPerHour": 2036,
       "views": 27376,
-      "ageHours": 11.4
+      "ageHours": 13.4
+    },
+    {
+      "title": "Day 3: Preliminary hearing continues in case against Charlie Kirk's alleged killer",
+      "channel": "MS NOW",
+      "videoId": "oO49SIEb8aw",
+      "viewsPerHour": 1892,
+      "views": 14491,
+      "ageHours": 7.7
     },
     {
       "title": "Speech Graphics ups price from $1000 to $35000/yr after revoking perpetual licenses; TOTAL SCUMBAGS!",
       "channel": "Louis Rossmann",
       "videoId": "V-XnBl0X7Pw",
-      "viewsPerHour": 2088,
+      "viewsPerHour": 1614,
       "views": 14188,
-      "ageHours": 6.8
-    },
-    {
-      "title": "BLACKMAIL: Trump administration to WITHHOLD anti-terror funding in attempt to RIG elections",
-      "channel": "MS NOW",
-      "videoId": "r978vO2yW-Q",
-      "viewsPerHour": 1823,
-      "views": 11294,
-      "ageHours": 6.2
+      "ageHours": 8.8
     },
     {
       "title": "Ann M. Martin & Ronny Chieng Celebrate 40 Years of “The Baby-Sitters Club\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "QaVf2CwyZjY",
-      "viewsPerHour": 1662,
+      "viewsPerHour": 1538,
       "views": 41227,
-      "ageHours": 24.8
+      "ageHours": 26.8
     },
     {
-      "title": "PBS News Hour full episode, July 7, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "5cAQleLBGxc",
-      "viewsPerHour": 1376,
-      "views": 39414,
-      "ageHours": 28.7
-    },
-    {
-      "title": "PBS News Hour live episode, July 8, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "MA65MaiOzBg",
-      "viewsPerHour": 620,
-      "views": 4224,
-      "ageHours": 6.8
+      "title": "BLACKMAIL: Trump administration to WITHHOLD anti-terror funding in attempt to RIG elections",
+      "channel": "MS NOW",
+      "videoId": "r978vO2yW-Q",
+      "viewsPerHour": 1379,
+      "views": 11294,
+      "ageHours": 8.2
     },
     {
       "title": "Fake support is worse than real opposition, what I learned watching SKG California ",
       "channel": "Louis Rossmann",
       "videoId": "Oi9aze2-SyQ",
-      "viewsPerHour": 574,
+      "viewsPerHour": 536,
       "views": 16284,
-      "ageHours": 28.4
+      "ageHours": 30.4
+    },
+    {
+      "title": "PBS News Hour live episode, July 8, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "MA65MaiOzBg",
+      "viewsPerHour": 480,
+      "views": 4224,
+      "ageHours": 8.8
     },
     {
       "title": "The Grossest Job in Antarctica | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "sQIQcKtNjMo",
-      "viewsPerHour": 455,
+      "viewsPerHour": 428,
       "views": 14653,
-      "ageHours": 32.2
+      "ageHours": 34.2
     },
     {
       "title": "Matt Gourley Weighs In On Aaron Bleyaert's Tax Scam | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "aQ29i_FM1eo",
-      "viewsPerHour": 355,
+      "viewsPerHour": 338,
       "views": 14311,
-      "ageHours": 40.3
+      "ageHours": 42.3
     },
     {
       "title": "WATCH LIVE:  Trump holds news conference at NATO summit in Turkey",
       "channel": "PBS NewsHour",
       "videoId": "kUZNdAxrzN0",
-      "viewsPerHour": 344,
+      "viewsPerHour": 293,
       "views": 3939,
-      "ageHours": 11.4
+      "ageHours": 13.4
     },
     {
       "title": "Suffer your humiliation and MOVE ON': Nicolle roasts Trump after he gets OWNED by courts",
       "channel": "MS NOW",
       "videoId": "xYLiIBRDS1M",
-      "viewsPerHour": 309,
+      "viewsPerHour": 229,
       "views": 1763,
-      "ageHours": 5.7
+      "ageHours": 7.7
     },
     {
       "title": "CITY OF TAYLOR TX; SHOW UP 6 PM THURSDAY! bots raided my comments; you got my attention now",
       "channel": "Louis Rossmann",
       "videoId": "3HHQ9UFvvKs",
-      "viewsPerHour": 213,
+      "viewsPerHour": 200,
       "views": 6445,
-      "ageHours": 30.3
+      "ageHours": 32.3
     },
     {
       "title": "Danny McBride Was Nervous To Pitch Halloween Reboot To John Carpenter | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "4au3HJwtsmc",
-      "viewsPerHour": 144,
+      "viewsPerHour": 125,
       "views": 1908,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "Trump says ceasefire is 'OVER', U.S. launches strikes on Iran",
       "channel": "MS NOW",
       "videoId": "UcUxuwsLSfQ",
-      "viewsPerHour": 134,
+      "viewsPerHour": 120,
       "views": 2373,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "Candice Bergen (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "va3bIffsPec",
-      "viewsPerHour": 105,
+      "viewsPerHour": 93,
       "views": 1703,
-      "ageHours": 16.3
-    },
-    {
-      "title": "News Wrap: Judge orders $5.8M paid to E. Jean Carroll in Trump sex abuse, defamation case",
-      "channel": "PBS NewsHour",
-      "videoId": "LNZ_m5OW4M8",
-      "viewsPerHour": 87,
-      "views": 492,
-      "ageHours": 5.7
+      "ageHours": 18.3
     },
     {
       "title": "Trump on Memorandum of Understanding with Iran: ‘I think it’s over’",
       "channel": "MS NOW",
       "videoId": "KTKzBMOv_8Y",
-      "viewsPerHour": 79,
+      "viewsPerHour": 71,
       "views": 1403,
-      "ageHours": 17.9
+      "ageHours": 19.8
     },
     {
-      "title": "Trump's EEOC abandons key tool for combating workplace discrimination",
+      "title": "News Wrap: Judge orders $5.8M paid to E. Jean Carroll in Trump sex abuse, defamation case",
       "channel": "PBS NewsHour",
-      "videoId": "cO_iqoBC6cU",
-      "viewsPerHour": 58,
-      "views": 1682,
-      "ageHours": 29.2
-    },
-    {
-      "title": "WATCH: Trump says NATO member countries 'making big changes' to increase defense spending",
-      "channel": "PBS NewsHour",
-      "videoId": "n-MlL2k3V0k",
-      "viewsPerHour": 56,
-      "views": 673,
-      "ageHours": 12
+      "videoId": "LNZ_m5OW4M8",
+      "viewsPerHour": 64,
+      "views": 492,
+      "ageHours": 7.7
     },
     {
       "title": "Tibetan Refugees: The Hardest Fight For Justice After 70 Years Of Exile",
       "channel": "Real Stories",
       "videoId": "Uvv-BaRkPyY",
-      "viewsPerHour": 56,
+      "viewsPerHour": 53,
       "views": 2021,
-      "ageHours": 36.3
+      "ageHours": 38.3
+    },
+    {
+      "title": "WATCH: Trump says NATO member countries 'making big changes' to increase defense spending",
+      "channel": "PBS NewsHour",
+      "videoId": "n-MlL2k3V0k",
+      "viewsPerHour": 48,
+      "views": 673,
+      "ageHours": 14
     },
     {
       "title": "What is the game plan now?': Fmr. Amb. slams Iran war as 'complete disaster'",
       "channel": "MS NOW",
       "videoId": "-IyzDI0iFIA",
-      "viewsPerHour": 49,
+      "viewsPerHour": 42,
       "views": 567,
-      "ageHours": 11.7
-    },
-    {
-      "title": "How hospitals are using the arts to help patients recover",
-      "channel": "PBS NewsHour",
-      "videoId": "aWbgqG8z0oA",
-      "viewsPerHour": 44,
-      "views": 1266,
-      "ageHours": 29
+      "ageHours": 13.7
     },
     {
       "title": "Danny McBride Felt Underdressed On Vacation With Walton Goggins | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "-AZUpKtP_wA",
-      "viewsPerHour": 34,
+      "viewsPerHour": 33,
       "views": 1277,
-      "ageHours": 37.3
+      "ageHours": 39.3
     },
     {
       "title": "MS NOW Highlights - July 7",
       "channel": "MS NOW",
       "videoId": "x2RlwzyKx7c",
-      "viewsPerHour": 26,
+      "viewsPerHour": 24,
       "views": 469,
-      "ageHours": 17.9
+      "ageHours": 19.9
     },
     {
       "title": "DOJ threatens to arrest state election officials if noncitizens vote",
       "channel": "PBS NewsHour",
       "videoId": "0SEyGF6Ynzo",
-      "viewsPerHour": 8,
+      "viewsPerHour": 6,
       "views": 46,
-      "ageHours": 5.5
+      "ageHours": 7.5
     },
     {
       "title": "Can a Democratic socialist win in a swing state? This progressive in Wisconsin thinks so",
       "channel": "MS NOW",
       "videoId": "-9dY_AcgVR8",
-      "viewsPerHour": 7,
+      "viewsPerHour": 6,
       "views": 82,
-      "ageHours": 11.7
+      "ageHours": 13.7
     },
     {
       "title": "WATCH: Trump says he is Iran's 'No. 1 target'",
       "channel": "PBS NewsHour",
       "videoId": "PZq5JgsXJf4",
-      "viewsPerHour": 4,
+      "viewsPerHour": 3,
       "views": 46,
-      "ageHours": 11.6
+      "ageHours": 13.6
     }
   ]
 }
