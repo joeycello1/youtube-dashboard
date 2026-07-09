@@ -1,32 +1,32 @@
 {
   "videosPerChannel": [
     {
-      "channel": "Diary of a CEO",
-      "count": 2
-    },
-    {
-      "channel": "The Daily Show",
+      "channel": "MS NOW",
       "count": 5
     },
     {
+      "channel": "Conan O'Brien",
+      "count": 15
+    },
+    {
       "channel": "PBS NewsHour",
-      "count": 8
+      "count": 6
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 6
+    },
+    {
+      "channel": "Diary of a CEO",
+      "count": 2
     },
     {
       "channel": "The Rest Is Science",
       "count": 5
     },
     {
-      "channel": "MS NOW",
-      "count": 6
-    },
-    {
       "channel": "Louis Rossmann",
       "count": 26
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 14
     },
     {
       "channel": "Jonathan Pie",
@@ -71,32 +71,32 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "AI, UFO",
-      "count": 1
+      "keyword": "MS NOW",
+      "count": 5
     },
     {
-      "keyword": "The Daily Show",
-      "count": 4
+      "keyword": "Conan O'Brien",
+      "count": 14
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 8
+      "count": 6
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 5
+    },
+    {
+      "keyword": "AI, UFO",
+      "count": 1
     },
     {
       "keyword": "The Rest Is Science",
       "count": 5
     },
     {
-      "keyword": "MS NOW",
-      "count": 6
-    },
-    {
       "keyword": "Louis Rossmann",
       "count": 23
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 13
     },
     {
       "keyword": "The Daily Show, AI",
@@ -194,11 +194,11 @@
   "dailySummary": [
     {
       "date": "2026-07-09",
-      "videos": 4
+      "videos": 10
     },
     {
       "date": "2026-07-08",
-      "videos": 21
+      "videos": 15
     },
     {
       "date": "2026-07-07",
@@ -234,7 +234,7 @@
     },
     {
       "date": "2026-06-29",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-06-28",
@@ -387,32 +387,32 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "AI, UFO",
-      "matches": 1
+      "keyword": "MS NOW",
+      "matches": 5
     },
     {
-      "keyword": "The Daily Show",
-      "matches": 4
+      "keyword": "Conan O'Brien",
+      "matches": 9
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 8
+      "matches": 6
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 5
+    },
+    {
+      "keyword": "AI, UFO",
+      "matches": 1
     },
     {
       "keyword": "The Rest Is Science",
       "matches": 2
     },
     {
-      "keyword": "MS NOW",
-      "matches": 6
-    },
-    {
       "keyword": "Louis Rossmann",
       "matches": 15
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 7
     },
     {
       "keyword": "The Daily Show, AI",
@@ -436,7 +436,7 @@
     },
     {
       "keyword": "Real Stories, Louis Theroux",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "Louis Rossmann, AI",
@@ -460,233 +460,225 @@
       "title": "Trump Declares Iran Ceasefire \"Over\" & Goes No-Contact with Spain | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "YpTRbj5mtcM",
-      "viewsPerHour": 136421,
-      "views": 1947825,
-      "ageHours": 14.3
+      "viewsPerHour": 130988,
+      "views": 2132195,
+      "ageHours": 16.3
+    },
+    {
+      "title": "GOP Scrambles to Assure Everyone That Mitch McConnell Is Alive | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "RQNrPxiSJoE",
+      "viewsPerHour": 67903,
+      "views": 451855,
+      "ageHours": 6.7
     },
     {
       "title": "Trump Meddles in USA World Cup Game & America's 250th Takes a Nosedive | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "i9EJPcb36ws",
-      "viewsPerHour": 58462,
-      "views": 2236214,
-      "ageHours": 38.3
+      "viewsPerHour": 56281,
+      "views": 2265322,
+      "ageHours": 40.3
     },
     {
       "title": "Neil deGrasse Tyson: The Alien Whistleblowers Changed His Mind",
       "channel": "Diary of a CEO",
       "videoId": "PHpsdIHpLUE",
-      "viewsPerHour": 24920,
-      "views": 231557,
-      "ageHours": 9.3
-    },
-    {
-      "title": "We Talked to a Trump Whistleblower. What He Saw Will Shock You.",
-      "channel": "More Perfect Union",
-      "videoId": "f3o4nCfmGco",
-      "viewsPerHour": 13458,
-      "views": 629214,
-      "ageHours": 46.8
+      "viewsPerHour": 27071,
+      "views": 305682,
+      "ageHours": 11.3
     },
     {
       "title": "Farage Vs The Establishment",
       "channel": "Jonathan Pie",
       "videoId": "5TeLKNgpty0",
-      "viewsPerHour": 9389,
-      "views": 282811,
-      "ageHours": 30.1
-    },
-    {
-      "title": "Tech Yeah: AI Actress Gets Feature Film & Robo Toilets Bring the Bathroom to You | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "dfcg3h6_0f8",
-      "viewsPerHour": 5489,
-      "views": 157920,
-      "ageHours": 28.8
+      "viewsPerHour": 9073,
+      "views": 291420,
+      "ageHours": 32.1
     },
     {
       "title": "Mayor Aftab Pureval - Leading Cincinnati with a Politics of Understanding | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "admmSESBNl4",
-      "viewsPerHour": 5411,
-      "views": 69178,
-      "ageHours": 12.8
+      "viewsPerHour": 5252,
+      "views": 77645,
+      "ageHours": 14.8
+    },
+    {
+      "title": "Tech Yeah: AI Actress Gets Feature Film & Robo Toilets Bring the Bathroom to You | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "dfcg3h6_0f8",
+      "viewsPerHour": 5214,
+      "views": 160409,
+      "ageHours": 30.8
     },
     {
       "title": "PBS News Hour full episode, July 8, 2026",
       "channel": "PBS NewsHour",
       "videoId": "Kprr6bCiHeo",
-      "viewsPerHour": 4962,
+      "viewsPerHour": 4409,
       "views": 79050,
-      "ageHours": 15.9
+      "ageHours": 17.9
     },
     {
       "title": "An Honest Dad Ranking",
       "channel": "The Rest Is Science",
       "videoId": "HOl8NyPV6HI",
-      "viewsPerHour": 4042,
-      "views": 69529,
-      "ageHours": 17.2
+      "viewsPerHour": 3923,
+      "views": 75332,
+      "ageHours": 19.2
     },
     {
       "title": "As living costs soar, more retirees head back to work",
       "channel": "PBS NewsHour",
       "videoId": "LZEbgh4Vq4c",
-      "viewsPerHour": 1944,
+      "viewsPerHour": 1734,
       "views": 32075,
-      "ageHours": 16.5
+      "ageHours": 18.5
+    },
+    {
+      "title": "Conan, Sona, & Gourley React To Wedding Speech Horror Stories | Conan O'Brien Needs A Fan",
+      "channel": "Conan O'Brien",
+      "videoId": "CGrm95oWC_s",
+      "viewsPerHour": 1362,
+      "views": 8558,
+      "ageHours": 6.3
     },
     {
       "title": "Ann M. Martin & Ronny Chieng Celebrate 40 Years of “The Baby-Sitters Club\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "QaVf2CwyZjY",
-      "viewsPerHour": 1362,
-      "views": 50113,
-      "ageHours": 36.8
-    },
-    {
-      "title": "President Trump holds a press conference after he says ceasefire with Iran is over",
-      "channel": "MS NOW",
-      "videoId": "-QcXUOJ1csY",
-      "viewsPerHour": 1167,
-      "views": 27376,
-      "ageHours": 23.5
+      "viewsPerHour": 1308,
+      "views": 50771,
+      "ageHours": 38.8
     },
     {
       "title": "Day 3: Preliminary hearing continues in case against Charlie Kirk's alleged killer",
       "channel": "MS NOW",
       "videoId": "oO49SIEb8aw",
-      "viewsPerHour": 820,
+      "viewsPerHour": 737,
       "views": 14491,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "Speech Graphics ups price from $1000 to $35000/yr after revoking perpetual licenses; TOTAL SCUMBAGS!",
       "channel": "Louis Rossmann",
       "videoId": "V-XnBl0X7Pw",
-      "viewsPerHour": 755,
+      "viewsPerHour": 682,
       "views": 14188,
-      "ageHours": 18.8
+      "ageHours": 20.8
+    },
+    {
+      "title": "WATCH: Attorney for former Olympian says it's 'not a crime to touch' Reflecting Pool",
+      "channel": "PBS NewsHour",
+      "videoId": "hRNEu8356bk",
+      "viewsPerHour": 656,
+      "views": 2486,
+      "ageHours": 3.8
+    },
+    {
+      "title": "A man emailed DHS criticizing its immigration crackdown – 5 months later agents knocked on his door",
+      "channel": "MS NOW",
+      "videoId": "N7nwN-tRJxI",
+      "viewsPerHour": 598,
+      "views": 1037,
+      "ageHours": 1.7
+    },
+    {
+      "title": "LIVE: Day 4: Preliminary hearing continues in case against Charlie Kirk's alleged killer",
+      "channel": "MS NOW",
+      "videoId": "O4jf4QRWKGY",
+      "viewsPerHour": 565,
+      "views": 9077,
+      "ageHours": 16.1
     },
     {
       "title": "BLACKMAIL: Trump administration to WITHHOLD anti-terror funding in attempt to RIG elections",
       "channel": "MS NOW",
       "videoId": "r978vO2yW-Q",
-      "viewsPerHour": 621,
+      "viewsPerHour": 559,
       "views": 11294,
-      "ageHours": 18.2
+      "ageHours": 20.2
     },
     {
       "title": "The Grossest Job in Antarctica | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "sQIQcKtNjMo",
-      "viewsPerHour": 439,
-      "views": 19400,
-      "ageHours": 44.2
+      "viewsPerHour": 428,
+      "views": 19760,
+      "ageHours": 46.2
     },
     {
       "title": "Fake support is worse than real opposition, what I learned watching SKG California ",
       "channel": "Louis Rossmann",
       "videoId": "Oi9aze2-SyQ",
-      "viewsPerHour": 403,
+      "viewsPerHour": 384,
       "views": 16284,
-      "ageHours": 40.4
+      "ageHours": 42.4
+    },
+    {
+      "title": "Marshawn Lynch Calls The NFL The \"No Fun League\" | CONAN on TBS",
+      "channel": "Conan O'Brien",
+      "videoId": "bkz6Xiho-vE",
+      "viewsPerHour": 237,
+      "views": 782,
+      "ageHours": 3.3
     },
     {
       "title": "PBS News Hour live episode, July 8, 2026",
       "channel": "PBS NewsHour",
       "videoId": "MA65MaiOzBg",
-      "viewsPerHour": 225,
+      "viewsPerHour": 203,
       "views": 4224,
-      "ageHours": 18.8
-    },
-    {
-      "title": "WATCH LIVE:  Trump holds news conference at NATO summit in Turkey",
-      "channel": "PBS NewsHour",
-      "videoId": "kUZNdAxrzN0",
-      "viewsPerHour": 168,
-      "views": 3939,
-      "ageHours": 23.4
+      "ageHours": 20.8
     },
     {
       "title": "CITY OF TAYLOR TX; SHOW UP 6 PM THURSDAY! bots raided my comments; you got my attention now",
       "channel": "Louis Rossmann",
       "videoId": "3HHQ9UFvvKs",
-      "viewsPerHour": 152,
+      "viewsPerHour": 145,
       "views": 6445,
-      "ageHours": 42.3
+      "ageHours": 44.3
     },
     {
       "title": "Suffer your humiliation and MOVE ON': Nicolle roasts Trump after he gets OWNED by courts",
       "channel": "MS NOW",
       "videoId": "xYLiIBRDS1M",
-      "viewsPerHour": 100,
+      "viewsPerHour": 89,
       "views": 1763,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "Danny McBride Was Nervous To Pitch Halloween Reboot To John Carpenter | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "4au3HJwtsmc",
-      "viewsPerHour": 75,
+      "viewsPerHour": 70,
       "views": 1908,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
       "title": "Candice Bergen (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "va3bIffsPec",
-      "viewsPerHour": 60,
+      "viewsPerHour": 56,
       "views": 1703,
-      "ageHours": 28.3
-    },
-    {
-      "title": "WATCH: Trump says NATO member countries 'making big changes' to increase defense spending",
-      "channel": "PBS NewsHour",
-      "videoId": "n-MlL2k3V0k",
-      "viewsPerHour": 28,
-      "views": 673,
-      "ageHours": 24
+      "ageHours": 30.3
     },
     {
       "title": "News Wrap: Judge orders $5.8M paid to E. Jean Carroll in Trump sex abuse, defamation case",
       "channel": "PBS NewsHour",
       "videoId": "LNZ_m5OW4M8",
-      "viewsPerHour": 28,
+      "viewsPerHour": 25,
       "views": 492,
-      "ageHours": 17.7
-    },
-    {
-      "title": "What is the game plan now?': Fmr. Amb. slams Iran war as 'complete disaster'",
-      "channel": "MS NOW",
-      "videoId": "-IyzDI0iFIA",
-      "viewsPerHour": 24,
-      "views": 567,
-      "ageHours": 23.7
-    },
-    {
-      "title": "Can a Democratic socialist win in a swing state? This progressive in Wisconsin thinks so",
-      "channel": "MS NOW",
-      "videoId": "-9dY_AcgVR8",
-      "viewsPerHour": 3,
-      "views": 82,
-      "ageHours": 23.7
+      "ageHours": 19.7
     },
     {
       "title": "DOJ threatens to arrest state election officials if noncitizens vote",
       "channel": "PBS NewsHour",
       "videoId": "0SEyGF6Ynzo",
-      "viewsPerHour": 3,
-      "views": 46,
-      "ageHours": 17.5
-    },
-    {
-      "title": "WATCH: Trump says he is Iran's 'No. 1 target'",
-      "channel": "PBS NewsHour",
-      "videoId": "PZq5JgsXJf4",
       "viewsPerHour": 2,
       "views": 46,
-      "ageHours": 23.6
+      "ageHours": 19.5
     }
   ]
 }
