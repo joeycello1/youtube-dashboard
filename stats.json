@@ -2,11 +2,11 @@
   "videosPerChannel": [
     {
       "channel": "PBS NewsHour",
-      "count": 6
+      "count": 4
     },
     {
       "channel": "MS NOW",
-      "count": 4
+      "count": 3
     },
     {
       "channel": "Real Stories",
@@ -30,7 +30,7 @@
     },
     {
       "channel": "The Rest Is Science",
-      "count": 5
+      "count": 4
     },
     {
       "channel": "Louis Rossmann",
@@ -72,11 +72,11 @@
   "keywordFrequency": [
     {
       "keyword": "PBS NewsHour",
-      "count": 6
+      "count": 4
     },
     {
       "keyword": "MS NOW",
-      "count": 4
+      "count": 3
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -100,7 +100,7 @@
     },
     {
       "keyword": "The Rest Is Science",
-      "count": 5
+      "count": 4
     },
     {
       "keyword": "Louis Rossmann",
@@ -194,11 +194,11 @@
   "dailySummary": [
     {
       "date": "2026-07-09",
-      "videos": 17
+      "videos": 15
     },
     {
       "date": "2026-07-08",
-      "videos": 9
+      "videos": 8
     },
     {
       "date": "2026-07-07",
@@ -251,10 +251,6 @@
     {
       "date": "2026-06-25",
       "videos": 6
-    },
-    {
-      "date": "2026-06-24",
-      "videos": 1
     },
     {
       "date": "2026-06-23",
@@ -388,11 +384,11 @@
   "topKeywordsWeek": [
     {
       "keyword": "PBS NewsHour",
-      "matches": 6
+      "matches": 4
     },
     {
       "keyword": "MS NOW",
-      "matches": 4
+      "matches": 3
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -464,193 +460,169 @@
       "title": "Trump Declares Iran Ceasefire \"Over\" & Goes No-Contact with Spain | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "YpTRbj5mtcM",
-      "viewsPerHour": 97499,
+      "viewsPerHour": 90588,
       "views": 2561823,
-      "ageHours": 26.3
+      "ageHours": 28.3
     },
     {
       "title": "GOP Scrambles to Assure Everyone That Mitch McConnell Is Alive | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "RQNrPxiSJoE",
-      "viewsPerHour": 49336,
+      "viewsPerHour": 44035,
       "views": 821542,
-      "ageHours": 16.7
+      "ageHours": 18.7
     },
     {
       "title": "Neil deGrasse Tyson: The Alien Whistleblowers Changed His Mind",
       "channel": "Diary of a CEO",
       "videoId": "PHpsdIHpLUE",
-      "viewsPerHour": 25753,
+      "viewsPerHour": 23537,
       "views": 548271,
-      "ageHours": 21.3
-    },
-    {
-      "title": "I Investigated The Most Corrupt Government Contracts. Two Names Kept Popping Up.",
-      "channel": "More Perfect Union",
-      "videoId": "8RmetXulhdI",
-      "viewsPerHour": 8194,
-      "views": 80448,
-      "ageHours": 9.8
+      "ageHours": 23.3
     },
     {
       "title": "Farage Vs The Establishment",
       "channel": "Jonathan Pie",
       "videoId": "5TeLKNgpty0",
-      "viewsPerHour": 7651,
+      "viewsPerHour": 7304,
       "views": 322261,
-      "ageHours": 42.1
+      "ageHours": 44.1
+    },
+    {
+      "title": "I Investigated The Most Corrupt Government Contracts. Two Names Kept Popping Up.",
+      "channel": "More Perfect Union",
+      "videoId": "8RmetXulhdI",
+      "viewsPerHour": 6805,
+      "views": 80448,
+      "ageHours": 11.8
     },
     {
       "title": "Tech Yeah: AI Actress Gets Feature Film & Robo Toilets Bring the Bathroom to You | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "dfcg3h6_0f8",
-      "viewsPerHour": 4171,
+      "viewsPerHour": 3975,
       "views": 170028,
-      "ageHours": 40.8
+      "ageHours": 42.8
     },
     {
       "title": "Mayor Aftab Pureval - Leading Cincinnati with a Politics of Understanding | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "admmSESBNl4",
-      "viewsPerHour": 3880,
+      "viewsPerHour": 3590,
       "views": 96159,
-      "ageHours": 24.8
-    },
-    {
-      "title": "Trump 'embarrassed' about switch of Qatari-gifted Air Force One to the old one",
-      "channel": "MS NOW",
-      "videoId": "IH0h2OotDGc",
-      "viewsPerHour": 3346,
-      "views": 21963,
-      "ageHours": 6.6
+      "ageHours": 26.8
     },
     {
       "title": "An Honest Dad Ranking",
       "channel": "The Rest Is Science",
       "videoId": "HOl8NyPV6HI",
-      "viewsPerHour": 3156,
+      "viewsPerHour": 2953,
       "views": 92160,
-      "ageHours": 29.2
+      "ageHours": 31.2
     },
     {
-      "title": "PBS News Hour full episode, July 8, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "Kprr6bCiHeo",
-      "viewsPerHour": 2830,
-      "views": 79050,
-      "ageHours": 27.9
+      "title": "Trump 'embarrassed' about switch of Qatari-gifted Air Force One to the old one",
+      "channel": "MS NOW",
+      "videoId": "IH0h2OotDGc",
+      "viewsPerHour": 2563,
+      "views": 21963,
+      "ageHours": 8.6
     },
     {
       "title": "I think it's DISGUSTING': Trump DRAGGED by livid Americans after Florida airport is NAMED AFTER HIM",
       "channel": "MS NOW",
       "videoId": "Mjvy1vE48xg",
-      "viewsPerHour": 1487,
+      "viewsPerHour": 1126,
       "views": 9312,
-      "ageHours": 6.3
+      "ageHours": 8.3
     },
     {
       "title": "Louis Theroux Meets New Mothers Battling Severe Mental Illness After Pregnancy",
       "channel": "Real Stories",
       "videoId": "JqEBBuPFZQ8",
-      "viewsPerHour": 1177,
+      "viewsPerHour": 977,
       "views": 11528,
-      "ageHours": 9.8
-    },
-    {
-      "title": "As living costs soar, more retirees head back to work",
-      "channel": "PBS NewsHour",
-      "videoId": "LZEbgh4Vq4c",
-      "viewsPerHour": 1126,
-      "views": 32075,
-      "ageHours": 28.5
+      "ageHours": 11.8
     },
     {
       "title": "PBS News Hour live episode, July 9, 2026",
       "channel": "PBS NewsHour",
       "videoId": "2_d--gLf-nQ",
-      "viewsPerHour": 642,
+      "viewsPerHour": 492,
       "views": 4199,
-      "ageHours": 6.5
+      "ageHours": 8.5
     },
     {
       "title": "Conan, Sona, & Gourley React To Wedding Speech Horror Stories | Conan O'Brien Needs A Fan",
       "channel": "Conan O'Brien",
       "videoId": "CGrm95oWC_s",
-      "viewsPerHour": 526,
+      "viewsPerHour": 468,
       "views": 8558,
-      "ageHours": 16.3
+      "ageHours": 18.3
     },
     {
       "title": "Speech Graphics ups price from $1000 to $35000/yr after revoking perpetual licenses; TOTAL SCUMBAGS!",
       "channel": "Louis Rossmann",
       "videoId": "V-XnBl0X7Pw",
-      "viewsPerHour": 461,
+      "viewsPerHour": 433,
       "views": 14188,
-      "ageHours": 30.8
-    },
-    {
-      "title": "LIVE: Day 4: Preliminary hearing continues in case against Charlie Kirk's alleged killer",
-      "channel": "MS NOW",
-      "videoId": "O4jf4QRWKGY",
-      "viewsPerHour": 348,
-      "views": 9077,
-      "ageHours": 26
+      "ageHours": 32.8
     },
     {
       "title": "WATCH: Attorney for former Olympian says it's 'not a crime to touch' Reflecting Pool",
       "channel": "PBS NewsHour",
       "videoId": "hRNEu8356bk",
-      "viewsPerHour": 180,
+      "viewsPerHour": 157,
       "views": 2486,
-      "ageHours": 13.8
+      "ageHours": 15.8
     },
     {
       "title": "A man emailed DHS criticizing its immigration crackdown – 5 months later agents knocked on his door",
       "channel": "MS NOW",
       "videoId": "N7nwN-tRJxI",
-      "viewsPerHour": 88,
+      "viewsPerHour": 75,
       "views": 1037,
-      "ageHours": 11.7
+      "ageHours": 13.7
     },
     {
       "title": "Marshawn Lynch Calls The NFL The \"No Fun League\" | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "bkz6Xiho-vE",
-      "viewsPerHour": 59,
+      "viewsPerHour": 51,
       "views": 782,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "Danny McBride Was Nervous To Pitch Halloween Reboot To John Carpenter | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "4au3HJwtsmc",
-      "viewsPerHour": 51,
+      "viewsPerHour": 49,
       "views": 1908,
-      "ageHours": 37.3
+      "ageHours": 39.3
     },
     {
       "title": "Candice Bergen (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "va3bIffsPec",
-      "viewsPerHour": 42,
+      "viewsPerHour": 40,
       "views": 1703,
-      "ageHours": 40.3
+      "ageHours": 42.3
     },
     {
       "title": "Rahm Emanuel on criticizing Netanyahu, calling for new approach to U.S.-Israel ties",
       "channel": "PBS NewsHour",
       "videoId": "39Xqnof8GeE",
-      "viewsPerHour": 13,
+      "viewsPerHour": 9,
       "views": 71,
-      "ageHours": 5.6
+      "ageHours": 7.6
     },
     {
       "title": "Some Medicare beneficiaries eligible for weight loss drug discounts",
       "channel": "PBS NewsHour",
       "videoId": "j-UAC238Yao",
-      "viewsPerHour": 5,
+      "viewsPerHour": 4,
       "views": 30,
-      "ageHours": 5.6
+      "ageHours": 7.6
     }
   ]
 }
