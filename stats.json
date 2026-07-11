@@ -1,24 +1,32 @@
 {
   "videosPerChannel": [
     {
-      "channel": "MS NOW",
-      "count": 9
+      "channel": "Real Stories",
+      "count": 30
     },
     {
-      "channel": "PBS NewsHour",
+      "channel": "The Daily Show",
+      "count": 10
+    },
+    {
+      "channel": "The Interview",
       "count": 8
     },
     {
+      "channel": "MS NOW",
+      "count": 8
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 5
+    },
+    {
       "channel": "Louis Rossmann",
-      "count": 25
+      "count": 24
     },
     {
       "channel": "Area 52",
       "count": 8
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 9
     },
     {
       "channel": "History",
@@ -26,15 +34,11 @@
     },
     {
       "channel": "Conan O'Brien",
-      "count": 14
+      "count": 12
     },
     {
       "channel": "Chris Lehto",
       "count": 3
-    },
-    {
-      "channel": "Real Stories",
-      "count": 29
     },
     {
       "channel": "More Perfect Union",
@@ -61,10 +65,6 @@
       "count": 3
     },
     {
-      "channel": "The Interview",
-      "count": 7
-    },
-    {
       "channel": "Last Week Tonight",
       "count": 3
     },
@@ -83,16 +83,28 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "MS NOW",
-      "count": 9
+      "keyword": "Real Stories",
+      "count": 17
     },
     {
-      "keyword": "PBS NewsHour",
+      "keyword": "The Daily Show",
       "count": 8
     },
     {
+      "keyword": "The Interview",
+      "count": 7
+    },
+    {
+      "keyword": "MS NOW",
+      "count": 8
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 5
+    },
+    {
       "keyword": "Louis Rossmann",
-      "count": 22
+      "count": 21
     },
     {
       "keyword": "UFO",
@@ -108,11 +120,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 13
-    },
-    {
-      "keyword": "The Daily Show",
-      "count": 7
+      "count": 11
     },
     {
       "keyword": "Grusch, UAP, UFO",
@@ -141,10 +149,6 @@
     {
       "keyword": "More Perfect Union, whistleblower",
       "count": 1
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 16
     },
     {
       "keyword": "testimony, UAP",
@@ -183,10 +187,6 @@
       "count": 1
     },
     {
-      "keyword": "The Interview",
-      "count": 6
-    },
-    {
       "keyword": "Corbell, George Knapp",
       "count": 1
     },
@@ -218,11 +218,11 @@
   "dailySummary": [
     {
       "date": "2026-07-11",
-      "videos": 5
+      "videos": 8
     },
     {
       "date": "2026-07-10",
-      "videos": 20
+      "videos": 16
     },
     {
       "date": "2026-07-09",
@@ -258,7 +258,7 @@
     },
     {
       "date": "2026-07-01",
-      "videos": 5
+      "videos": 3
     },
     {
       "date": "2026-06-30",
@@ -278,7 +278,7 @@
     },
     {
       "date": "2026-06-26",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-06-25",
@@ -415,12 +415,24 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "Real Stories",
+      "matches": 2
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 8
+    },
+    {
+      "keyword": "The Interview",
+      "matches": 1
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 9
+      "matches": 8
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 8
+      "matches": 5
     },
     {
       "keyword": "Louis Rossmann",
@@ -441,10 +453,6 @@
     {
       "keyword": "Conan O'Brien",
       "matches": 8
-    },
-    {
-      "keyword": "The Daily Show",
-      "matches": 7
     },
     {
       "keyword": "Grusch, UAP, UFO",
@@ -475,10 +483,6 @@
       "matches": 1
     },
     {
-      "keyword": "Real Stories",
-      "matches": 1
-    },
-    {
       "keyword": "testimony, UAP",
       "matches": 1
     },
@@ -492,201 +496,193 @@
       "title": "Platner Calls It Quits in Maine Race & Trump’s Qatari Bribe Plane Gets Grounded | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ZB8lJh96WS0",
-      "viewsPerHour": 34895,
-      "views": 1336885,
-      "ageHours": 38.3
+      "viewsPerHour": 33491,
+      "views": 1349651,
+      "ageHours": 40.3
+    },
+    {
+      "title": "Ronny on the End of the Iran Ceasefire, Trump's FIFA Meddling & Platner's Dropout | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "3qtmreL6qAE",
+      "viewsPerHour": 28380,
+      "views": 149817,
+      "ageHours": 5.3
     },
     {
       "title": "Midterm Anal-a-Zone: AI Deepfakes Run Wild in Political Ads | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "tahHeW6Wq2k",
-      "viewsPerHour": 24826,
-      "views": 589543,
-      "ageHours": 23.7
+      "viewsPerHour": 23522,
+      "views": 605330,
+      "ageHours": 25.7
     },
     {
       "title": "UFOs Swarmed The Crash Site - Sedge Masters (Full Readthrough) | ep. 95",
       "channel": "Area 52",
       "videoId": "gNr3PbNmGyY",
-      "viewsPerHour": 6732,
-      "views": 136864,
-      "ageHours": 20.3
+      "viewsPerHour": 6346,
+      "views": 141636,
+      "ageHours": 22.3
+    },
+    {
+      "title": "What It Takes to Be Mick Jagger, According to Mick Jagger | The Interview",
+      "channel": "The Interview",
+      "videoId": "vEb1boevBt4",
+      "viewsPerHour": 5937,
+      "views": 32825,
+      "ageHours": 5.5
     },
     {
       "title": "Aaron Chen - “The Dink” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "AG5myyStsTU",
-      "viewsPerHour": 5298,
-      "views": 194969,
-      "ageHours": 36.8
-    },
-    {
-      "title": "datacenter wins, deed for donated farmland loses....",
-      "channel": "Louis Rossmann",
-      "videoId": "VRN_z0aSwTU",
-      "viewsPerHour": 4849,
-      "views": 80541,
-      "ageHours": 16.6
+      "viewsPerHour": 5202,
+      "views": 201773,
+      "ageHours": 38.8
     },
     {
       "title": "I Investigated The Most Corrupt Government Contracts. Two Names Kept Popping Up.",
       "channel": "More Perfect Union",
       "videoId": "8RmetXulhdI",
-      "viewsPerHour": 4737,
-      "views": 217082,
-      "ageHours": 45.8
+      "viewsPerHour": 4680,
+      "views": 223768,
+      "ageHours": 47.8
+    },
+    {
+      "title": "datacenter wins, deed for donated farmland loses....",
+      "channel": "Louis Rossmann",
+      "videoId": "VRN_z0aSwTU",
+      "viewsPerHour": 4331,
+      "views": 80541,
+      "ageHours": 18.6
     },
     {
       "title": "PBS News Hour full episode, July 10, 2026",
       "channel": "PBS NewsHour",
       "videoId": "rhMcHR5srkA",
-      "viewsPerHour": 2554,
+      "viewsPerHour": 2280,
       "views": 42289,
-      "ageHours": 16.6
+      "ageHours": 18.5
     },
     {
       "title": "Craziest Alien UFO Crashes | Ancient Aliens",
       "channel": "History",
       "videoId": "pB0ze4qqAxg",
-      "viewsPerHour": 2107,
-      "views": 95452,
-      "ageHours": 45.3
+      "viewsPerHour": 2080,
+      "views": 98331,
+      "ageHours": 47.3
     },
     {
       "title": "Could These Theories Be Right? | The Curse of Oak Island",
       "channel": "History",
       "videoId": "nfOcC1E2KG8",
-      "viewsPerHour": 1209,
-      "views": 29375,
-      "ageHours": 24.3
+      "viewsPerHour": 1169,
+      "views": 30721,
+      "ageHours": 26.3
     },
     {
       "title": "Louis Theroux Meets New Mothers Battling Severe Mental Illness After Pregnancy",
       "channel": "Real Stories",
       "videoId": "JqEBBuPFZQ8",
-      "viewsPerHour": 1059,
-      "views": 48505,
-      "ageHours": 45.8
+      "viewsPerHour": 1032,
+      "views": 49325,
+      "ageHours": 47.8
     },
     {
       "title": "Trump takes out the 'referees' with election commission firings",
       "channel": "MS NOW",
       "videoId": "I3FBO7wVOgg",
-      "viewsPerHour": 1028,
+      "viewsPerHour": 871,
       "views": 11338,
-      "ageHours": 11
+      "ageHours": 13
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - July 10 | Audio Only",
       "channel": "MS NOW",
       "videoId": "NMDx3fcW4L0",
-      "viewsPerHour": 951,
+      "viewsPerHour": 808,
       "views": 10739,
-      "ageHours": 11.3
+      "ageHours": 13.3
     },
     {
       "title": "We've Been Asking the Wrong Question About UFOs This Whole Time",
       "channel": "Chris Lehto",
       "videoId": "H6EyrmlgcUs",
-      "viewsPerHour": 687,
-      "views": 27662,
-      "ageHours": 40.3
+      "viewsPerHour": 663,
+      "views": 28027,
+      "ageHours": 42.3
     },
     {
       "title": "Fragile ego and PETTINESS': Out-of-touch Trump SELF-SABOTAGES legislative win in EPIC fumble",
       "channel": "MS NOW",
       "videoId": "23Si-1ouYOg",
-      "viewsPerHour": 270,
+      "viewsPerHour": 243,
       "views": 4798,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "PBS News Hour live episode, July 10, 2026",
       "channel": "PBS NewsHour",
       "videoId": "Fy61_NQQZm8",
-      "viewsPerHour": 221,
+      "viewsPerHour": 200,
       "views": 4218,
-      "ageHours": 19.1
+      "ageHours": 21.1
+    },
+    {
+      "title": "Scientists Are So Close to Curing Alzheimer's. Here's Why",
+      "channel": "Real Stories",
+      "videoId": "V1NziI4Iyf4",
+      "viewsPerHour": 192,
+      "views": 439,
+      "ageHours": 2.3
     },
     {
       "title": "No one believes Trump's discount gas doesn't come with a catch",
       "channel": "MS NOW",
       "videoId": "E86W8KrFsqY",
-      "viewsPerHour": 187,
+      "viewsPerHour": 160,
       "views": 2186,
-      "ageHours": 11.7
-    },
-    {
-      "title": "WATCH LIVE: Nolan Wells' family calls for probe into teen's death with attorney Ben Crump",
-      "channel": "PBS NewsHour",
-      "videoId": "LA1PgiPWU4M",
-      "viewsPerHour": 145,
-      "views": 3616,
-      "ageHours": 25
+      "ageHours": 13.7
     },
     {
       "title": "WATCH: 'Let the investigation play out,' Homan says of fatal ICE shooting in Houston",
       "channel": "PBS NewsHour",
       "videoId": "LoHgpO9P0Fc",
-      "viewsPerHour": 113,
+      "viewsPerHour": 101,
       "views": 1895,
-      "ageHours": 16.8
+      "ageHours": 18.8
     },
     {
       "title": "Movie Trilogy Battle Royale (with Special Guest Jason Chillemi) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "gDVAqVM7xmk",
-      "viewsPerHour": 79,
+      "viewsPerHour": 74,
       "views": 2228,
-      "ageHours": 28.3
+      "ageHours": 30.3
     },
     {
       "title": "Demanding a change': Democrats eye flipping seat in Wisconsin",
       "channel": "MS NOW",
       "videoId": "b6w_y9NJQK8",
-      "viewsPerHour": 37,
+      "viewsPerHour": 32,
       "views": 438,
-      "ageHours": 11.9
-    },
-    {
-      "title": "WATCH LIVE: Final day of preliminary hearing in Charlie Kirk killing case",
-      "channel": "PBS NewsHour",
-      "videoId": "GzDn058X9z0",
-      "viewsPerHour": 29,
-      "views": 697,
-      "ageHours": 23.7
-    },
-    {
-      "title": "WATCH LIVE: Rep. Garcia holds news conference on fatal ICE shooting in Houston",
-      "channel": "PBS NewsHour",
-      "videoId": "ojuygRbMU1A",
-      "viewsPerHour": 21,
-      "views": 524,
-      "ageHours": 25
+      "ageHours": 13.9
     },
     {
       "title": "Lied to, deceived, betrayed': Kentuckians react to mystery around McConnell's health",
       "channel": "MS NOW",
       "videoId": "NjX_75b3qXw",
-      "viewsPerHour": 16,
+      "viewsPerHour": 15,
       "views": 369,
-      "ageHours": 23
-    },
-    {
-      "title": "‘Hope is there’: Movement built by Platner is now bigger than him",
-      "channel": "MS NOW",
-      "videoId": "bg2u2qVz3ss",
-      "viewsPerHour": 11,
-      "views": 269,
-      "ageHours": 23.6
+      "ageHours": 25
     },
     {
       "title": "Trump fires election commission members in latest attempt to control voting process",
       "channel": "PBS NewsHour",
       "videoId": "mMS-CJiHZNM",
-      "viewsPerHour": 4,
+      "viewsPerHour": 3,
       "views": 67,
-      "ageHours": 17.5
+      "ageHours": 19.5
     },
     {
       "title": "RFK Jr. blocks key health panel from meeting for 4th time",
@@ -694,7 +690,7 @@
       "videoId": "C-oyhM5NOeA",
       "viewsPerHour": 2,
       "views": 51,
-      "ageHours": 23.1
+      "ageHours": 25
     },
     {
       "title": "Veteran on ICE investigation: 'Awfully odd that ICE is asking for the DA to keep this case sealed'",
@@ -702,7 +698,7 @@
       "videoId": "3NFlmBjbSgU",
       "viewsPerHour": 1,
       "views": 8,
-      "ageHours": 11.5
+      "ageHours": 13.5
     },
     {
       "title": "News Wrap: DHS says man killed by ICE was not target of immigration operation",
@@ -710,7 +706,7 @@
       "videoId": "wTCBnrwApGI",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 17.5
+      "ageHours": 19.5
     }
   ]
 }
