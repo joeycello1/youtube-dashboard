@@ -1,8 +1,16 @@
 {
   "videosPerChannel": [
     {
+      "channel": "Louis Rossmann",
+      "count": 23
+    },
+    {
       "channel": "MS NOW",
-      "count": 7
+      "count": 5
+    },
+    {
+      "channel": "History",
+      "count": 4
     },
     {
       "channel": "Real Stories",
@@ -17,20 +25,8 @@
       "count": 8
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 2
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 23
-    },
-    {
       "channel": "Area 52",
       "count": 8
-    },
-    {
-      "channel": "History",
-      "count": 3
     },
     {
       "channel": "Conan O'Brien",
@@ -83,8 +79,16 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "Louis Rossmann",
+      "count": 20
+    },
+    {
       "keyword": "MS NOW",
-      "count": 7
+      "count": 5
+    },
+    {
+      "keyword": "UFO",
+      "count": 8
     },
     {
       "keyword": "Real Stories",
@@ -96,18 +100,6 @@
     },
     {
       "keyword": "The Interview",
-      "count": 7
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 2
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 20
-    },
-    {
-      "keyword": "UFO",
       "count": 7
     },
     {
@@ -217,12 +209,16 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-07-12",
+      "videos": 3
+    },
+    {
       "date": "2026-07-11",
-      "videos": 10
+      "videos": 7
     },
     {
       "date": "2026-07-10",
-      "videos": 10
+      "videos": 8
     },
     {
       "date": "2026-07-09",
@@ -278,7 +274,7 @@
     },
     {
       "date": "2026-06-26",
-      "videos": 2
+      "videos": 1
     },
     {
       "date": "2026-06-25",
@@ -415,8 +411,16 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "Louis Rossmann",
+      "matches": 9
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 7
+      "matches": 5
+    },
+    {
+      "keyword": "UFO",
+      "matches": 4
     },
     {
       "keyword": "Real Stories",
@@ -429,18 +433,6 @@
     {
       "keyword": "The Interview",
       "matches": 1
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 2
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 8
-    },
-    {
-      "keyword": "UFO",
-      "matches": 3
     },
     {
       "keyword": "The Daily Show, AI",
@@ -489,140 +481,124 @@
   ],
   "mostViral48h": [
     {
-      "title": "Ronny on the End of the Iran Ceasefire, Trump's FIFA Meddling & Platner's Dropout | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "3qtmreL6qAE",
-      "viewsPerHour": 18861,
-      "views": 288264,
-      "ageHours": 15.3
-    },
-    {
       "title": "Midterm Anal-a-Zone: AI Deepfakes Run Wild in Political Ads | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "tahHeW6Wq2k",
-      "viewsPerHour": 18634,
-      "views": 665977,
-      "ageHours": 35.7
+      "viewsPerHour": 17975,
+      "views": 678333,
+      "ageHours": 37.7
+    },
+    {
+      "title": "Ronny on the End of the Iran Ceasefire, Trump's FIFA Meddling & Platner's Dropout | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "3qtmreL6qAE",
+      "viewsPerHour": 17962,
+      "views": 310396,
+      "ageHours": 17.3
+    },
+    {
+      "title": "I STAND WITH FLOCK: I hope flock sues these people & WINS",
+      "channel": "Louis Rossmann",
+      "videoId": "g9KhlC2CO7M",
+      "viewsPerHour": 10707,
+      "views": 52061,
+      "ageHours": 4.9
     },
     {
       "title": "What It Takes to Be Mick Jagger, According to Mick Jagger | The Interview",
       "channel": "The Interview",
       "videoId": "vEb1boevBt4",
-      "viewsPerHour": 7420,
-      "views": 115254,
-      "ageHours": 15.5
+      "viewsPerHour": 7248,
+      "views": 127062,
+      "ageHours": 17.5
+    },
+    {
+      "title": "Ceasefire OVER? Watch MS NOW's coverage of the latest on the Iran war | COMPILATION",
+      "channel": "MS NOW",
+      "videoId": "PJ88WThLNBg",
+      "viewsPerHour": 6604,
+      "views": 41484,
+      "ageHours": 6.3
     },
     {
       "title": "UFOs Swarmed The Crash Site - Sedge Masters (Full Readthrough) | ep. 95",
       "channel": "Area 52",
       "videoId": "gNr3PbNmGyY",
-      "viewsPerHour": 5047,
-      "views": 163126,
-      "ageHours": 32.3
-    },
-    {
-      "title": "‘He’s DECLINING’: Fmr. Trump official on new questions on Trump’s health after NATO gaffes",
-      "channel": "MS NOW",
-      "videoId": "0X5HVp5Y_cc",
-      "viewsPerHour": 2922,
-      "views": 22445,
-      "ageHours": 7.7
+      "viewsPerHour": 4853,
+      "views": 166543,
+      "ageHours": 34.3
     },
     {
       "title": "datacenter wins, deed for donated farmland loses....",
       "channel": "Louis Rossmann",
       "videoId": "VRN_z0aSwTU",
-      "viewsPerHour": 2816,
+      "viewsPerHour": 2632,
       "views": 80541,
-      "ageHours": 28.6
+      "ageHours": 30.6
     },
     {
-      "title": "PBS News Hour full episode, July 10, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "rhMcHR5srkA",
-      "viewsPerHour": 1481,
-      "views": 42289,
-      "ageHours": 28.6
+      "title": "‘He’s DECLINING’: Fmr. Trump official on new questions on Trump’s health after NATO gaffes",
+      "channel": "MS NOW",
+      "videoId": "0X5HVp5Y_cc",
+      "viewsPerHour": 2319,
+      "views": 22445,
+      "ageHours": 9.7
+    },
+    {
+      "title": "UFO Hunters: The Mystery of the Giant Aerial Fireballs | *MARATHON*",
+      "channel": "History",
+      "videoId": "Pf_GmrRtZJ4",
+      "viewsPerHour": 1245,
+      "views": 7822,
+      "ageHours": 6.3
     },
     {
       "title": "Could These Theories Be Right? | The Curse of Oak Island",
       "channel": "History",
       "videoId": "nfOcC1E2KG8",
-      "viewsPerHour": 988,
-      "views": 35852,
-      "ageHours": 36.3
+      "viewsPerHour": 953,
+      "views": 36500,
+      "ageHours": 38.3
     },
     {
       "title": "Why a vague statement in the U.S.-Iran peace agreement over Hormuz Strait is causing new trouble",
       "channel": "MS NOW",
       "videoId": "MBsO6EjClTI",
-      "viewsPerHour": 985,
+      "viewsPerHour": 783,
       "views": 7636,
-      "ageHours": 7.8
+      "ageHours": 9.8
     },
     {
       "title": "Trump takes out the 'referees' with election commission firings",
       "channel": "MS NOW",
       "videoId": "I3FBO7wVOgg",
-      "viewsPerHour": 493,
+      "viewsPerHour": 453,
       "views": 11338,
-      "ageHours": 23
+      "ageHours": 25
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - July 10 | Audio Only",
       "channel": "MS NOW",
       "videoId": "NMDx3fcW4L0",
-      "viewsPerHour": 461,
+      "viewsPerHour": 425,
       "views": 10739,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "Scientists Are So Close to Curing Alzheimer's. Here's Why",
       "channel": "Real Stories",
       "videoId": "V1NziI4Iyf4",
-      "viewsPerHour": 170,
-      "views": 2085,
-      "ageHours": 12.3
-    },
-    {
-      "title": "No one believes Trump's discount gas doesn't come with a catch",
-      "channel": "MS NOW",
-      "videoId": "E86W8KrFsqY",
-      "viewsPerHour": 92,
-      "views": 2186,
-      "ageHours": 23.7
-    },
-    {
-      "title": "WATCH: 'Let the investigation play out,' Homan says of fatal ICE shooting in Houston",
-      "channel": "PBS NewsHour",
-      "videoId": "LoHgpO9P0Fc",
-      "viewsPerHour": 66,
-      "views": 1895,
-      "ageHours": 28.8
+      "viewsPerHour": 165,
+      "views": 2358,
+      "ageHours": 14.3
     },
     {
       "title": "Movie Trilogy Battle Royale (with Special Guest Jason Chillemi) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "gDVAqVM7xmk",
-      "viewsPerHour": 55,
+      "viewsPerHour": 53,
       "views": 2228,
-      "ageHours": 40.3
-    },
-    {
-      "title": "Demanding a change': Democrats eye flipping seat in Wisconsin",
-      "channel": "MS NOW",
-      "videoId": "b6w_y9NJQK8",
-      "viewsPerHour": 18,
-      "views": 438,
-      "ageHours": 23.9
-    },
-    {
-      "title": "Veteran on ICE investigation: 'Awfully odd that ICE is asking for the DA to keep this case sealed'",
-      "channel": "MS NOW",
-      "videoId": "3NFlmBjbSgU",
-      "viewsPerHour": 0,
-      "views": 8,
-      "ageHours": 23.5
+      "ageHours": 42.3
     }
   ]
 }
