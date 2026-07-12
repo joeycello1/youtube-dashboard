@@ -1,8 +1,16 @@
 {
   "videosPerChannel": [
     {
-      "channel": "MS NOW",
+      "channel": "Last Week Tonight",
       "count": 4
+    },
+    {
+      "channel": "MS NOW",
+      "count": 5
+    },
+    {
+      "channel": "Jonathan Pie",
+      "count": 6
     },
     {
       "channel": "Louis Rossmann",
@@ -30,7 +38,7 @@
     },
     {
       "channel": "Conan O'Brien",
-      "count": 12
+      "count": 10
     },
     {
       "channel": "Chris Lehto",
@@ -49,19 +57,11 @@
       "count": 4
     },
     {
-      "channel": "Jonathan Pie",
-      "count": 5
-    },
-    {
       "channel": "NOVA",
       "count": 9
     },
     {
       "channel": "Mayim Bialik",
-      "count": 3
-    },
-    {
-      "channel": "Last Week Tonight",
       "count": 3
     },
     {
@@ -79,8 +79,16 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "MS NOW",
+      "keyword": "Last Week Tonight",
       "count": 4
+    },
+    {
+      "keyword": "MS NOW",
+      "count": 5
+    },
+    {
+      "keyword": "Jonathan Pie",
+      "count": 6
     },
     {
       "keyword": "Louis Rossmann",
@@ -112,7 +120,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 11
+      "count": 10
     },
     {
       "keyword": "Grusch, UAP, UFO",
@@ -133,10 +141,6 @@
     {
       "keyword": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "keyword": "Jonathan Pie",
-      "count": 5
     },
     {
       "keyword": "More Perfect Union, whistleblower",
@@ -164,14 +168,6 @@
     },
     {
       "keyword": "AI",
-      "count": 3
-    },
-    {
-      "keyword": "Conan O'Brien, The Interview",
-      "count": 1
-    },
-    {
-      "keyword": "Last Week Tonight",
       "count": 3
     },
     {
@@ -210,7 +206,7 @@
   "dailySummary": [
     {
       "date": "2026-07-12",
-      "videos": 4
+      "videos": 7
     },
     {
       "date": "2026-07-11",
@@ -250,7 +246,7 @@
     },
     {
       "date": "2026-07-02",
-      "videos": 5
+      "videos": 3
     },
     {
       "date": "2026-07-01",
@@ -411,8 +407,16 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "Last Week Tonight",
+      "matches": 1
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 4
+      "matches": 5
+    },
+    {
+      "keyword": "Jonathan Pie",
+      "matches": 2
     },
     {
       "keyword": "Louis Rossmann",
@@ -467,10 +471,6 @@
       "matches": 2
     },
     {
-      "keyword": "Jonathan Pie",
-      "matches": 1
-    },
-    {
       "keyword": "More Perfect Union, whistleblower",
       "matches": 1
     },
@@ -481,100 +481,116 @@
   ],
   "mostViral48h": [
     {
-      "title": "Midterm Anal-a-Zone: AI Deepfakes Run Wild in Political Ads | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "tahHeW6Wq2k",
-      "viewsPerHour": 15274,
-      "views": 729173,
-      "ageHours": 47.7
-    },
-    {
       "title": "Ronny on the End of the Iran Ceasefire, Trump's FIFA Meddling & Platner's Dropout | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "3qtmreL6qAE",
-      "viewsPerHour": 13907,
-      "views": 379417,
-      "ageHours": 27.3
+      "viewsPerHour": 13269,
+      "views": 388902,
+      "ageHours": 29.3
+    },
+    {
+      "title": "S9 E1: Canadian Vaccine Protests & Critical Race Theory: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "QpjCAqv3Y9U",
+      "viewsPerHour": 12203,
+      "views": 28192,
+      "ageHours": 2.3
     },
     {
       "title": "What It Takes to Be Mick Jagger, According to Mick Jagger | The Interview",
       "channel": "The Interview",
       "videoId": "vEb1boevBt4",
-      "viewsPerHour": 7155,
-      "views": 196985,
-      "ageHours": 27.5
+      "viewsPerHour": 7389,
+      "views": 218407,
+      "ageHours": 29.6
+    },
+    {
+      "title": "Will The Bin Win?",
+      "channel": "Jonathan Pie",
+      "videoId": "ePJdTLA1pZg",
+      "viewsPerHour": 6662,
+      "views": 43488,
+      "ageHours": 6.5
     },
     {
       "title": "UFOs Swarmed The Crash Site - Sedge Masters (Full Readthrough) | ep. 95",
       "channel": "Area 52",
       "videoId": "gNr3PbNmGyY",
-      "viewsPerHour": 4114,
-      "views": 182321,
-      "ageHours": 44.3
+      "viewsPerHour": 4003,
+      "views": 185505,
+      "ageHours": 46.3
     },
     {
       "title": "I STAND WITH FLOCK: I hope flock sues these people & WINS",
       "channel": "Louis Rossmann",
       "videoId": "g9KhlC2CO7M",
-      "viewsPerHour": 3503,
+      "viewsPerHour": 3082,
       "views": 52061,
-      "ageHours": 14.9
+      "ageHours": 16.9
     },
     {
       "title": "Ceasefire OVER? Watch MS NOW's coverage of the latest on the Iran war | COMPILATION",
       "channel": "MS NOW",
       "videoId": "PJ88WThLNBg",
-      "viewsPerHour": 2548,
+      "viewsPerHour": 2266,
       "views": 41484,
-      "ageHours": 16.3
+      "ageHours": 18.3
     },
     {
       "title": "datacenter wins, deed for donated farmland loses....",
       "channel": "Louis Rossmann",
       "videoId": "VRN_z0aSwTU",
-      "viewsPerHour": 1984,
+      "viewsPerHour": 1889,
       "views": 80541,
-      "ageHours": 40.6
+      "ageHours": 42.6
     },
     {
       "title": "UFO Hunters: The Mystery of the Giant Aerial Fireballs | *MARATHON*",
       "channel": "History",
       "videoId": "Pf_GmrRtZJ4",
-      "viewsPerHour": 1536,
-      "views": 25016,
-      "ageHours": 16.3
+      "viewsPerHour": 1422,
+      "views": 26043,
+      "ageHours": 18.3
+    },
+    {
+      "title": "‘This is America’: Texas family demands answers in death of man shot by ICE",
+      "channel": "MS NOW",
+      "videoId": "6cicRc59utM",
+      "viewsPerHour": 1183,
+      "views": 4691,
+      "ageHours": 4
     },
     {
       "title": "‘He’s DECLINING’: Fmr. Trump official on new questions on Trump’s health after NATO gaffes",
       "channel": "MS NOW",
       "videoId": "0X5HVp5Y_cc",
-      "viewsPerHour": 1140,
+      "viewsPerHour": 1034,
       "views": 22445,
-      "ageHours": 19.7
+      "ageHours": 21.7
     },
     {
       "title": "Why a vague statement in the U.S.-Iran peace agreement over Hormuz Strait is causing new trouble",
       "channel": "MS NOW",
       "videoId": "MBsO6EjClTI",
-      "viewsPerHour": 387,
+      "viewsPerHour": 351,
       "views": 7636,
-      "ageHours": 19.8
-    },
-    {
-      "title": "MS NOW Highlights - July 11",
-      "channel": "MS NOW",
-      "videoId": "SIPggpmyOIg",
-      "viewsPerHour": 255,
-      "views": 1606,
-      "ageHours": 6.3
+      "ageHours": 21.8
     },
     {
       "title": "Scientists Are So Close to Curing Alzheimer's. Here's Why",
       "channel": "Real Stories",
       "videoId": "V1NziI4Iyf4",
-      "viewsPerHour": 183,
-      "views": 4439,
-      "ageHours": 24.3
+      "viewsPerHour": 208,
+      "views": 5465,
+      "ageHours": 26.3
+    },
+    {
+      "title": "MS NOW Highlights - July 11",
+      "channel": "MS NOW",
+      "videoId": "SIPggpmyOIg",
+      "viewsPerHour": 193,
+      "views": 1606,
+      "ageHours": 8.3
     }
   ]
 }
