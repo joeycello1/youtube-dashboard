@@ -2,7 +2,11 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 5
+      "count": 6
+    },
+    {
+      "channel": "Diary of a CEO",
+      "count": 2
     },
     {
       "channel": "The Rest Is Science",
@@ -14,7 +18,7 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 22
+      "count": 21
     },
     {
       "channel": "Last Week Tonight",
@@ -53,10 +57,6 @@
       "count": 11
     },
     {
-      "channel": "Diary of a CEO",
-      "count": 1
-    },
-    {
       "channel": "NOVA",
       "count": 9
     },
@@ -80,7 +80,11 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 5
+      "count": 6
+    },
+    {
+      "keyword": "AI, artificial intelligence",
+      "count": 1
     },
     {
       "keyword": "The Rest Is Science",
@@ -152,7 +156,7 @@
     },
     {
       "keyword": "Louis Rossmann, AI",
-      "count": 2
+      "count": 1
     },
     {
       "keyword": "The Interview, AI",
@@ -206,11 +210,11 @@
   "dailySummary": [
     {
       "date": "2026-07-13",
-      "videos": 1
+      "videos": 4
     },
     {
       "date": "2026-07-12",
-      "videos": 11
+      "videos": 10
     },
     {
       "date": "2026-07-11",
@@ -266,7 +270,7 @@
     },
     {
       "date": "2026-06-28",
-      "videos": 3
+      "videos": 2
     },
     {
       "date": "2026-06-27",
@@ -412,7 +416,11 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 5
+      "matches": 6
+    },
+    {
+      "keyword": "AI, artificial intelligence",
+      "matches": 1
     },
     {
       "keyword": "The Rest Is Science",
@@ -460,7 +468,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "Grusch, UAP, UFO",
@@ -485,124 +493,140 @@
   ],
   "mostViral48h": [
     {
+      "title": "He Risked Everything To Warn You: No One Is Ready For What's Coming, And The AI Companies Know It!",
+      "channel": "Diary of a CEO",
+      "videoId": "_g4l7YkDQwA",
+      "viewsPerHour": 36555,
+      "views": 194981,
+      "ageHours": 5.3
+    },
+    {
       "title": "Ronny on the End of the Iran Ceasefire, Trump's FIFA Meddling & Platner's Dropout | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "3qtmreL6qAE",
-      "viewsPerHour": 10624,
-      "views": 481077,
-      "ageHours": 45.3
-    },
-    {
-      "title": "WeRecoverData Threatened To Sue Me For Exposing Their Google Maps Coordinated Abuse Network",
-      "channel": "Louis Rossmann",
-      "videoId": "_D4LBFmCn0Y",
-      "viewsPerHour": 8642,
-      "views": 145031,
-      "ageHours": 16.8
+      "viewsPerHour": 10345,
+      "views": 489627,
+      "ageHours": 47.3
     },
     {
       "title": "S9 E1: Canadian Vaccine Protests & Critical Race Theory: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "QpjCAqv3Y9U",
-      "viewsPerHour": 7986,
-      "views": 146002,
-      "ageHours": 18.3
+      "viewsPerHour": 7889,
+      "views": 160394,
+      "ageHours": 20.3
+    },
+    {
+      "title": "WeRecoverData Threatened To Sue Me For Exposing Their Google Maps Coordinated Abuse Network",
+      "channel": "Louis Rossmann",
+      "videoId": "_D4LBFmCn0Y",
+      "viewsPerHour": 7702,
+      "views": 145031,
+      "ageHours": 18.8
     },
     {
       "title": "What It Takes to Be Mick Jagger, According to Mick Jagger | The Interview",
       "channel": "The Interview",
       "videoId": "vEb1boevBt4",
-      "viewsPerHour": 7193,
-      "views": 327490,
-      "ageHours": 45.5
+      "viewsPerHour": 7055,
+      "views": 335685,
+      "ageHours": 47.6
     },
     {
       "title": "All The People You Don't Know",
       "channel": "The Rest Is Science",
       "videoId": "ROjWM4nUE64",
-      "viewsPerHour": 5783,
-      "views": 76862,
-      "ageHours": 13.3
+      "viewsPerHour": 5617,
+      "views": 86163,
+      "ageHours": 15.3
     },
     {
       "title": "Will The Bin Win?",
       "channel": "Jonathan Pie",
       "videoId": "ePJdTLA1pZg",
-      "viewsPerHour": 3357,
-      "views": 75536,
-      "ageHours": 22.5
+      "viewsPerHour": 3289,
+      "views": 80737,
+      "ageHours": 24.5
+    },
+    {
+      "title": "U.S., Iran trade strikes over Strait of Hormuz closure",
+      "channel": "MS NOW",
+      "videoId": "B5HnRDeyIE0",
+      "viewsPerHour": 3167,
+      "views": 7131,
+      "ageHours": 2.3
     },
     {
       "title": "Louis Theroux Reflects On The Deepest Regret of His Entire Career",
       "channel": "Real Stories",
       "videoId": "6HLrSpp0_eY",
-      "viewsPerHour": 2462,
-      "views": 38856,
-      "ageHours": 15.8
+      "viewsPerHour": 2234,
+      "views": 39844,
+      "ageHours": 17.8
     },
     {
       "title": "Nolan Wells death sparks protests, calls for independent investigation",
       "channel": "MS NOW",
       "videoId": "P11I8CKwqwg",
-      "viewsPerHour": 2414,
+      "viewsPerHour": 2045,
       "views": 27417,
-      "ageHours": 11.4
+      "ageHours": 13.4
     },
     {
       "title": "I STAND WITH FLOCK: I hope flock sues these people & WINS",
       "channel": "Louis Rossmann",
       "videoId": "g9KhlC2CO7M",
-      "viewsPerHour": 1584,
+      "viewsPerHour": 1491,
       "views": 52061,
-      "ageHours": 32.9
+      "ageHours": 34.9
     },
     {
       "title": "UFO Hunters: The Mystery of the Giant Aerial Fireballs | *MARATHON*",
       "channel": "History",
       "videoId": "Pf_GmrRtZJ4",
-      "viewsPerHour": 896,
-      "views": 30725,
-      "ageHours": 34.3
+      "viewsPerHour": 854,
+      "views": 31012,
+      "ageHours": 36.3
     },
     {
       "title": "MS NOW Highlights - July 12",
       "channel": "MS NOW",
       "videoId": "1qZxxcer4lE",
-      "viewsPerHour": 504,
+      "viewsPerHour": 404,
       "views": 4175,
-      "ageHours": 8.3
-    },
-    {
-      "title": "Trump housing bill snub ‘tells you all you need to know’ of his stance on affordability: Dem Rep.",
-      "channel": "MS NOW",
-      "videoId": "cmYOPgVyq4E",
-      "viewsPerHour": 276,
-      "views": 3645,
-      "ageHours": 13.2
+      "ageHours": 10.3
     },
     {
       "title": "Scientists Are So Close to Curing Alzheimer's. Here's Why",
       "channel": "Real Stories",
       "videoId": "V1NziI4Iyf4",
-      "viewsPerHour": 263,
-      "views": 11112,
-      "ageHours": 42.3
+      "viewsPerHour": 251,
+      "views": 11120,
+      "ageHours": 44.3
+    },
+    {
+      "title": "Trump housing bill snub ‘tells you all you need to know’ of his stance on affordability: Dem Rep.",
+      "channel": "MS NOW",
+      "videoId": "cmYOPgVyq4E",
+      "viewsPerHour": 239,
+      "views": 3645,
+      "ageHours": 15.3
     },
     {
       "title": "‘This is America’: Texas family demands answers in death of man shot by ICE",
       "channel": "MS NOW",
       "videoId": "6cicRc59utM",
-      "viewsPerHour": 235,
+      "viewsPerHour": 213,
       "views": 4691,
-      "ageHours": 19.9
+      "ageHours": 22
     },
     {
-      "title": "MS NOW Highlights - July 11",
+      "title": "Remembering ‘shape-shifter’ Congressman Lindsey Graham",
       "channel": "MS NOW",
-      "videoId": "SIPggpmyOIg",
-      "viewsPerHour": 66,
-      "views": 1606,
-      "ageHours": 24.3
+      "videoId": "-k8FIknjFJs",
+      "viewsPerHour": 124,
+      "views": 196,
+      "ageHours": 1.6
     }
   ]
 }
