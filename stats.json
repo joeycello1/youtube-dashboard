@@ -1,24 +1,28 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 6
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 23
+    },
+    {
       "channel": "MS NOW",
-      "count": 8
+      "count": 9
+    },
+    {
+      "channel": "History",
+      "count": 5
     },
     {
       "channel": "Last Week Tonight",
       "count": 5
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 3
-    },
-    {
       "channel": "Conan O'Brien",
       "count": 9
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 22
     },
     {
       "channel": "Diary of a CEO",
@@ -26,7 +30,7 @@
     },
     {
       "channel": "The Rest Is Science",
-      "count": 5
+      "count": 4
     },
     {
       "channel": "Real Stories",
@@ -35,10 +39,6 @@
     {
       "channel": "Jonathan Pie",
       "count": 5
-    },
-    {
-      "channel": "History",
-      "count": 4
     },
     {
       "channel": "The Daily Show",
@@ -83,24 +83,28 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "PBS NewsHour",
+      "count": 6
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 22
+    },
+    {
       "keyword": "MS NOW",
-      "count": 8
+      "count": 9
+    },
+    {
+      "keyword": "UFO",
+      "count": 9
     },
     {
       "keyword": "Last Week Tonight",
       "count": 5
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 3
-    },
-    {
       "keyword": "Conan O'Brien",
       "count": 9
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 21
     },
     {
       "keyword": "AI, artificial intelligence",
@@ -108,7 +112,7 @@
     },
     {
       "keyword": "The Rest Is Science",
-      "count": 5
+      "count": 4
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -117,10 +121,6 @@
     {
       "keyword": "Jonathan Pie",
       "count": 5
-    },
-    {
-      "keyword": "UFO",
-      "count": 8
     },
     {
       "keyword": "Real Stories",
@@ -218,11 +218,11 @@
   "dailySummary": [
     {
       "date": "2026-07-13",
-      "videos": 13
+      "videos": 20
     },
     {
       "date": "2026-07-12",
-      "videos": 9
+      "videos": 8
     },
     {
       "date": "2026-07-11",
@@ -278,7 +278,7 @@
     },
     {
       "date": "2026-06-28",
-      "videos": 2
+      "videos": 1
     },
     {
       "date": "2026-06-27",
@@ -419,23 +419,27 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour",
+      "matches": 6
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 9
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 8
+      "matches": 9
+    },
+    {
+      "keyword": "UFO",
+      "matches": 5
     },
     {
       "keyword": "Last Week Tonight",
       "matches": 2
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 3
-    },
-    {
       "keyword": "Conan O'Brien",
-      "matches": 8
-    },
-    {
-      "keyword": "Louis Rossmann",
       "matches": 8
     },
     {
@@ -453,10 +457,6 @@
     {
       "keyword": "Jonathan Pie",
       "matches": 2
-    },
-    {
-      "keyword": "UFO",
-      "matches": 4
     },
     {
       "keyword": "Real Stories",
@@ -504,161 +504,201 @@
       "title": "He Risked Everything To Warn You: No One Is Ready For What's Coming, And The AI Companies Know It!",
       "channel": "Diary of a CEO",
       "videoId": "_g4l7YkDQwA",
-      "viewsPerHour": 65674,
-      "views": 1004549,
-      "ageHours": 15.3
+      "viewsPerHour": 68438,
+      "views": 1182993,
+      "ageHours": 17.3
     },
     {
       "title": "S9 E2: Russia Invades Ukraine & Sex Work: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "RoI5QUmvJmw",
-      "viewsPerHour": 8474,
-      "views": 53388,
-      "ageHours": 6.3
+      "viewsPerHour": 8601,
+      "views": 71303,
+      "ageHours": 8.3
     },
     {
       "title": "S9 E1: Canadian Vaccine Protests & Critical Race Theory: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "QpjCAqv3Y9U",
-      "viewsPerHour": 6801,
-      "views": 206021,
-      "ageHours": 30.3
+      "viewsPerHour": 6494,
+      "views": 209657,
+      "ageHours": 32.3
     },
     {
-      "title": "WeRecoverData Threatened To Sue Me For Exposing Their Google Maps Coordinated Abuse Network",
+      "title": "WeRecoverData wiped from archive.org after threatening me with litigation: SHOULD I COUNTERSUE??? ",
       "channel": "Louis Rossmann",
-      "videoId": "_D4LBFmCn0Y",
-      "viewsPerHour": 5037,
-      "views": 145031,
-      "ageHours": 28.8
+      "videoId": "dWb9vRzsrk8",
+      "viewsPerHour": 6276,
+      "views": 11535,
+      "ageHours": 1.8
+    },
+    {
+      "title": "An old man and a LOSER': Ex-Trump staffer REVEALS Trump's sinister behind-the-scenes fixations",
+      "channel": "MS NOW",
+      "videoId": "fLK64U3_VFY",
+      "viewsPerHour": 5731,
+      "views": 12758,
+      "ageHours": 2.2
     },
     {
       "title": "All The People You Don't Know",
       "channel": "The Rest Is Science",
       "videoId": "ROjWM4nUE64",
-      "viewsPerHour": 4995,
-      "views": 126366,
-      "ageHours": 25.3
+      "viewsPerHour": 4915,
+      "views": 134140,
+      "ageHours": 27.3
+    },
+    {
+      "title": "WeRecoverData Threatened To Sue Me For Exposing Their Google Maps Coordinated Abuse Network",
+      "channel": "Louis Rossmann",
+      "videoId": "_D4LBFmCn0Y",
+      "viewsPerHour": 4712,
+      "views": 145031,
+      "ageHours": 30.8
+    },
+    {
+      "title": "WATCH: Lindsey Graham's sister appointed to fill vacancy created by the Senator's passing",
+      "channel": "MS NOW",
+      "videoId": "txSBj9YQZBM",
+      "viewsPerHour": 4280,
+      "views": 10057,
+      "ageHours": 2.3
     },
     {
       "title": "The unfireable mayor behind Texas' WORST data center; what I uncovered in Taylor will shock you all",
       "channel": "Louis Rossmann",
       "videoId": "7RF-1nK9zm4",
-      "viewsPerHour": 4426,
+      "viewsPerHour": 3764,
       "views": 50022,
-      "ageHours": 11.3
+      "ageHours": 13.3
     },
     {
       "title": "Will The Bin Win?",
       "channel": "Jonathan Pie",
       "videoId": "ePJdTLA1pZg",
-      "viewsPerHour": 2912,
-      "views": 100490,
-      "ageHours": 34.5
+      "viewsPerHour": 2872,
+      "views": 104840,
+      "ageHours": 36.5
     },
     {
       "title": "Mick Jagger (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "2HLGcRpw1hc",
-      "viewsPerHour": 2872,
+      "viewsPerHour": 2442,
       "views": 32432,
-      "ageHours": 11.3
+      "ageHours": 13.3
     },
     {
       "title": "Louis Theroux Reflects On The Deepest Regret of His Entire Career",
       "channel": "Real Stories",
       "videoId": "6HLrSpp0_eY",
-      "viewsPerHour": 1833,
-      "views": 50939,
-      "ageHours": 27.8
+      "viewsPerHour": 1822,
+      "views": 54264,
+      "ageHours": 29.8
+    },
+    {
+      "title": "PBS News Hour live episode, July 13, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "98aNCfWs2bE",
+      "viewsPerHour": 1362,
+      "views": 4232,
+      "ageHours": 3.1
     },
     {
       "title": "LIVE: See Trump's Reflecting Pool DRAINED after algae disaster",
       "channel": "MS NOW",
       "videoId": "2-zrz_uF2Y4",
-      "viewsPerHour": 1349,
+      "viewsPerHour": 1125,
       "views": 13492,
-      "ageHours": 10
-    },
-    {
-      "title": "Nolan Wells death sparks protests, calls for independent investigation",
-      "channel": "MS NOW",
-      "videoId": "P11I8CKwqwg",
-      "viewsPerHour": 1173,
-      "views": 27417,
-      "ageHours": 23.4
+      "ageHours": 12
     },
     {
       "title": "I STAND WITH FLOCK: I hope flock sues these people & WINS",
       "channel": "Louis Rossmann",
       "videoId": "g9KhlC2CO7M",
-      "viewsPerHour": 1160,
+      "viewsPerHour": 1111,
       "views": 52061,
-      "ageHours": 44.9
+      "ageHours": 46.9
     },
     {
-      "title": "UFO Hunters: The Mystery of the Giant Aerial Fireballs | *MARATHON*",
+      "title": "Nolan Wells death sparks protests, calls for independent investigation",
+      "channel": "MS NOW",
+      "videoId": "P11I8CKwqwg",
+      "viewsPerHour": 1081,
+      "views": 27417,
+      "ageHours": 25.4
+    },
+    {
+      "title": "Are We Alone? Exploring the Universe’s Greatest Mysteries *Marathon* | The Universe",
       "channel": "History",
-      "videoId": "Pf_GmrRtZJ4",
-      "viewsPerHour": 676,
-      "views": 31281,
-      "ageHours": 46.3
+      "videoId": "04y-EpGpg1E",
+      "viewsPerHour": 685,
+      "views": 2938,
+      "ageHours": 4.3
     },
     {
       "title": "U.S., Iran trade strikes over Strait of Hormuz closure",
       "channel": "MS NOW",
       "videoId": "B5HnRDeyIE0",
-      "viewsPerHour": 584,
+      "viewsPerHour": 502,
       "views": 7131,
-      "ageHours": 12.2
+      "ageHours": 14.2
     },
     {
       "title": "WATCH LIVE: House returns and meets for legislative business",
       "channel": "PBS NewsHour",
       "videoId": "izWsRctbEog",
-      "viewsPerHour": 261,
+      "viewsPerHour": 200,
       "views": 1676,
-      "ageHours": 6.4
-    },
-    {
-      "title": "Freedom of the press? Trump DOJ subpoenas NYT journalists over Qatari-gifted jet reporting",
-      "channel": "MS NOW",
-      "videoId": "fvNmY4L3yN8",
-      "viewsPerHour": 214,
-      "views": 1221,
-      "ageHours": 5.7
+      "ageHours": 8.4
     },
     {
       "title": "MS NOW Highlights - July 12",
       "channel": "MS NOW",
       "videoId": "1qZxxcer4lE",
-      "viewsPerHour": 206,
+      "viewsPerHour": 187,
       "views": 4175,
-      "ageHours": 20.3
+      "ageHours": 22.3
+    },
+    {
+      "title": "Freedom of the press? Trump DOJ subpoenas NYT journalists over Qatari-gifted jet reporting",
+      "channel": "MS NOW",
+      "videoId": "fvNmY4L3yN8",
+      "viewsPerHour": 159,
+      "views": 1221,
+      "ageHours": 7.7
     },
     {
       "title": "Be for the people': South Carolina residents share what they'd like to see from Graham's successor",
       "channel": "MS NOW",
       "videoId": "0FpmzNA1bVA",
-      "viewsPerHour": 161,
+      "viewsPerHour": 119,
       "views": 920,
-      "ageHours": 5.7
+      "ageHours": 7.7
     },
     {
-      "title": "Trump housing bill snub ‘tells you all you need to know’ of his stance on affordability: Dem Rep.",
-      "channel": "MS NOW",
-      "videoId": "cmYOPgVyq4E",
-      "viewsPerHour": 145,
-      "views": 3645,
-      "ageHours": 25.2
+      "title": "News Wrap: Judge says Trump's lawsuit against IRS filed for 'improper purpose'",
+      "channel": "PBS NewsHour",
+      "videoId": "ghnWwSzZ1pI",
+      "viewsPerHour": 102,
+      "views": 163,
+      "ageHours": 1.6
     },
     {
       "title": "Remembering ‘shape-shifter’ Congressman Lindsey Graham",
       "channel": "MS NOW",
       "videoId": "-k8FIknjFJs",
-      "viewsPerHour": 17,
+      "viewsPerHour": 14,
       "views": 196,
-      "ageHours": 11.5
+      "ageHours": 13.5
+    },
+    {
+      "title": "Nolan Wells' family presses for transparent investigation into his death",
+      "channel": "PBS NewsHour",
+      "videoId": "isY45UF12Oc",
+      "viewsPerHour": 7,
+      "views": 10,
+      "ageHours": 1.5
     },
     {
       "title": "WATCH LIVE: Trump previews Freedom 250 Grand Prix with IndyCar drivers at the White House",
@@ -666,7 +706,7 @@
       "videoId": "_c3go3eukoU",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 7.5
+      "ageHours": 9.4
     },
     {
       "title": "WATCH LIVE: Senate returns to Washington after sudden death of Sen. Lindsey Graham",
@@ -674,7 +714,7 @@
       "videoId": "78O7Tm9K-4o",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 7.5
+      "ageHours": 9.5
     }
   ]
 }
