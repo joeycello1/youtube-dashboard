@@ -448,7 +448,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "AI, artificial intelligence",
@@ -468,7 +468,7 @@
     },
     {
       "keyword": "Real Stories",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "The Interview",
@@ -504,209 +504,201 @@
       "title": "Jon Stewart on Lindsey Graham's Death & America's Geriatric Political Class | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "xH-yAy8_yB4",
-      "viewsPerHour": 178459,
-      "views": 2012190,
-      "ageHours": 11.3
+      "viewsPerHour": 179950,
+      "views": 2389506,
+      "ageHours": 13.3
     },
     {
       "title": "He Risked Everything To Warn You: No One Is Ready For What's Coming, And The AI Companies Know It!",
       "channel": "Diary of a CEO",
       "videoId": "_g4l7YkDQwA",
-      "viewsPerHour": 58326,
-      "views": 1824863,
-      "ageHours": 31.3
+      "viewsPerHour": 57256,
+      "views": 1906073,
+      "ageHours": 33.3
     },
     {
       "title": "Christopher Nolan - “The Odyssey” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "DWABbDtyfeA",
-      "viewsPerHour": 16817,
-      "views": 181435,
-      "ageHours": 10.8
+      "viewsPerHour": 17116,
+      "views": 218954,
+      "ageHours": 12.8
     },
     {
       "title": "Maddow: Trump caught in desperation spiral as his opposition grows",
       "channel": "MS NOW",
       "videoId": "Dox0UdqpX38",
-      "viewsPerHour": 9839,
+      "viewsPerHour": 7923,
       "views": 81469,
-      "ageHours": 8.3
+      "ageHours": 10.3
     },
     {
       "title": "Lawrence: Trump sued himself - and lost.",
       "channel": "MS NOW",
       "videoId": "EQ2EEHWCBIw",
-      "viewsPerHour": 7786,
+      "viewsPerHour": 6497,
       "views": 78637,
-      "ageHours": 10.1
+      "ageHours": 12.1
     },
     {
       "title": "Trump embarrassed by another leak, freaks out on New York Times for sources",
       "channel": "MS NOW",
       "videoId": "7PMfZWhcuZA",
-      "viewsPerHour": 7676,
+      "viewsPerHour": 6150,
       "views": 61992,
-      "ageHours": 8.1
-    },
-    {
-      "title": "PBS News Hour full episode, July 13, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "oIND_CV7HF8",
-      "viewsPerHour": 6169,
-      "views": 90071,
-      "ageHours": 14.6
-    },
-    {
-      "title": "Lindsey Graham's Death Highlights an Aging Congress & Trump Keeps His Eye on Optics | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "aEapcY1D0WQ",
-      "viewsPerHour": 5774,
-      "views": 76497,
-      "ageHours": 13.2
+      "ageHours": 10.1
     },
     {
       "title": "S9 E2: Russia Invades Ukraine & Sex Work: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "RoI5QUmvJmw",
-      "viewsPerHour": 5769,
-      "views": 128607,
-      "ageHours": 22.3
+      "viewsPerHour": 5582,
+      "views": 135608,
+      "ageHours": 24.3
+    },
+    {
+      "title": "Lindsey Graham's Death Highlights an Aging Congress & Trump Keeps His Eye on Optics | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "aEapcY1D0WQ",
+      "viewsPerHour": 5471,
+      "views": 83443,
+      "ageHours": 15.3
+    },
+    {
+      "title": "PBS News Hour full episode, July 13, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "oIND_CV7HF8",
+      "viewsPerHour": 5425,
+      "views": 90071,
+      "ageHours": 16.6
     },
     {
       "title": "Mamdani wins with NYC's click to cancel rule: this is awesome",
       "channel": "Louis Rossmann",
       "videoId": "DacdCK9vUAs",
-      "viewsPerHour": 5023,
+      "viewsPerHour": 4334,
       "views": 63306,
-      "ageHours": 12.6
-    },
-    {
-      "title": "S9 E1: Canadian Vaccine Protests & Critical Race Theory: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "QpjCAqv3Y9U",
-      "viewsPerHour": 4727,
-      "views": 218777,
-      "ageHours": 46.3
+      "ageHours": 14.6
     },
     {
       "title": "All The People You Don't Know",
       "channel": "The Rest Is Science",
       "videoId": "ROjWM4nUE64",
-      "viewsPerHour": 3977,
-      "views": 164202,
-      "ageHours": 41.3
+      "viewsPerHour": 3889,
+      "views": 168371,
+      "ageHours": 43.3
     },
     {
       "title": "WeRecoverData Threatened To Sue Me For Exposing Their Google Maps Coordinated Abuse Network",
       "channel": "Louis Rossmann",
       "videoId": "_D4LBFmCn0Y",
-      "viewsPerHour": 3238,
+      "viewsPerHour": 3100,
       "views": 145031,
-      "ageHours": 44.8
+      "ageHours": 46.8
     },
     {
       "title": "The unfireable mayor behind Texas' WORST data center; what I uncovered in Taylor will shock you all",
       "channel": "Louis Rossmann",
       "videoId": "7RF-1nK9zm4",
-      "viewsPerHour": 1833,
+      "viewsPerHour": 1707,
       "views": 50022,
-      "ageHours": 27.3
+      "ageHours": 29.3
     },
     {
       "title": "Louis Theroux Reflects On The Deepest Regret of His Entire Career",
       "channel": "Real Stories",
       "videoId": "6HLrSpp0_eY",
-      "viewsPerHour": 1533,
-      "views": 67137,
-      "ageHours": 43.8
+      "viewsPerHour": 1494,
+      "views": 68408,
+      "ageHours": 45.8
     },
     {
       "title": "Mick Jagger (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "2HLGcRpw1hc",
-      "viewsPerHour": 1189,
+      "viewsPerHour": 1107,
       "views": 32432,
-      "ageHours": 27.3
+      "ageHours": 29.3
     },
     {
       "title": "Are We Alone? Exploring the Universe’s Greatest Mysteries *Marathon* | The Universe",
       "channel": "History",
       "videoId": "04y-EpGpg1E",
-      "viewsPerHour": 1101,
-      "views": 20146,
-      "ageHours": 18.3
+      "viewsPerHour": 1029,
+      "views": 20885,
+      "ageHours": 20.3
     },
     {
       "title": "An old man and a LOSER': Ex-Trump staffer REVEALS Trump's sinister behind-the-scenes fixations",
       "channel": "MS NOW",
       "videoId": "fLK64U3_VFY",
-      "viewsPerHour": 786,
+      "viewsPerHour": 700,
       "views": 12758,
-      "ageHours": 16.2
+      "ageHours": 18.2
     },
     {
       "title": "WeRecoverData wiped from archive.org after threatening me with litigation: SHOULD I COUNTERSUE??? ",
       "channel": "Louis Rossmann",
       "videoId": "dWb9vRzsrk8",
-      "viewsPerHour": 728,
+      "viewsPerHour": 646,
       "views": 11535,
-      "ageHours": 15.8
+      "ageHours": 17.8
     },
     {
       "title": "WATCH: Lindsey Graham's sister appointed to fill vacancy created by the Senator's passing",
       "channel": "MS NOW",
       "videoId": "txSBj9YQZBM",
-      "viewsPerHour": 615,
+      "viewsPerHour": 548,
       "views": 10057,
-      "ageHours": 16.4
+      "ageHours": 18.4
     },
     {
       "title": "LIVE: See Trump's Reflecting Pool DRAINED after algae disaster",
       "channel": "MS NOW",
       "videoId": "2-zrz_uF2Y4",
-      "viewsPerHour": 519,
+      "viewsPerHour": 482,
       "views": 13492,
-      "ageHours": 26
+      "ageHours": 28
     },
     {
       "title": "PBS News Hour live episode, July 13, 2026",
       "channel": "PBS NewsHour",
       "videoId": "98aNCfWs2bE",
-      "viewsPerHour": 247,
+      "viewsPerHour": 221,
       "views": 4232,
-      "ageHours": 17.1
+      "ageHours": 19.1
     },
     {
       "title": "WATCH LIVE: House returns and meets for legislative business",
       "channel": "PBS NewsHour",
       "videoId": "izWsRctbEog",
-      "viewsPerHour": 75,
+      "viewsPerHour": 69,
       "views": 1676,
-      "ageHours": 22.4
+      "ageHours": 24.4
     },
     {
       "title": "Freedom of the press? Trump DOJ subpoenas NYT journalists over Qatari-gifted jet reporting",
       "channel": "MS NOW",
       "videoId": "fvNmY4L3yN8",
-      "viewsPerHour": 56,
+      "viewsPerHour": 52,
       "views": 1221,
-      "ageHours": 21.7
+      "ageHours": 23.7
     },
     {
       "title": "Be for the people': South Carolina residents share what they'd like to see from Graham's successor",
       "channel": "MS NOW",
       "videoId": "0FpmzNA1bVA",
-      "viewsPerHour": 42,
+      "viewsPerHour": 39,
       "views": 920,
-      "ageHours": 21.7
+      "ageHours": 23.7
     },
     {
       "title": "News Wrap: Judge says Trump's lawsuit against IRS filed for 'improper purpose'",
       "channel": "PBS NewsHour",
       "videoId": "ghnWwSzZ1pI",
-      "viewsPerHour": 10,
+      "viewsPerHour": 9,
       "views": 163,
-      "ageHours": 15.6
+      "ageHours": 17.6
     },
     {
       "title": "Nolan Wells' family presses for transparent investigation into his death",
@@ -714,7 +706,7 @@
       "videoId": "isY45UF12Oc",
       "viewsPerHour": 1,
       "views": 10,
-      "ageHours": 15.5
+      "ageHours": 17.5
     },
     {
       "title": "WATCH LIVE: Trump previews Freedom 250 Grand Prix with IndyCar drivers at the White House",
@@ -722,7 +714,7 @@
       "videoId": "_c3go3eukoU",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 23.4
+      "ageHours": 25.4
     },
     {
       "title": "WATCH LIVE: Senate returns to Washington after sudden death of Sen. Lindsey Graham",
@@ -730,7 +722,7 @@
       "videoId": "78O7Tm9K-4o",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 23.5
+      "ageHours": 25.5
     }
   ]
 }
