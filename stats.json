@@ -1,12 +1,20 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 7
+    },
+    {
       "channel": "MS NOW",
       "count": 7
     },
     {
-      "channel": "PBS NewsHour",
+      "channel": "History",
       "count": 7
+    },
+    {
+      "channel": "More Perfect Union",
+      "count": 13
     },
     {
       "channel": "Last Week Tonight",
@@ -19,14 +27,6 @@
     {
       "channel": "The Daily Show",
       "count": 13
-    },
-    {
-      "channel": "History",
-      "count": 6
-    },
-    {
-      "channel": "More Perfect Union",
-      "count": 12
     },
     {
       "channel": "Real Stories",
@@ -83,16 +83,24 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "PBS NewsHour",
+      "count": 6
+    },
+    {
       "keyword": "MS NOW",
       "count": 7
     },
     {
-      "keyword": "PBS NewsHour, testimony",
-      "count": 1
+      "keyword": "UFO",
+      "count": 10
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 6
+      "keyword": "More Perfect Union",
+      "count": 12
+    },
+    {
+      "keyword": "PBS NewsHour, testimony",
+      "count": 1
     },
     {
       "keyword": "Last Week Tonight",
@@ -111,10 +119,6 @@
       "count": 2
     },
     {
-      "keyword": "More Perfect Union",
-      "count": 11
-    },
-    {
       "keyword": "Real Stories",
       "count": 18
     },
@@ -125,10 +129,6 @@
     {
       "keyword": "Louis Rossmann",
       "count": 22
-    },
-    {
-      "keyword": "UFO",
-      "count": 9
     },
     {
       "keyword": "AI, artificial intelligence",
@@ -222,11 +222,11 @@
   "dailySummary": [
     {
       "date": "2026-07-15",
-      "videos": 16
+      "videos": 22
     },
     {
       "date": "2026-07-14",
-      "videos": 15
+      "videos": 11
     },
     {
       "date": "2026-07-13",
@@ -423,16 +423,24 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour",
+      "matches": 6
+    },
+    {
       "keyword": "MS NOW",
       "matches": 7
     },
     {
-      "keyword": "PBS NewsHour, testimony",
-      "matches": 1
+      "keyword": "UFO",
+      "matches": 5
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 6
+      "keyword": "More Perfect Union",
+      "matches": 3
+    },
+    {
+      "keyword": "PBS NewsHour, testimony",
+      "matches": 1
     },
     {
       "keyword": "Last Week Tonight",
@@ -451,10 +459,6 @@
       "matches": 1
     },
     {
-      "keyword": "More Perfect Union",
-      "matches": 2
-    },
-    {
       "keyword": "Real Stories",
       "matches": 2
     },
@@ -467,16 +471,12 @@
       "matches": 7
     },
     {
-      "keyword": "UFO",
-      "matches": 4
-    },
-    {
       "keyword": "AI, artificial intelligence",
       "matches": 1
     },
     {
       "keyword": "The Rest Is Science",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -512,257 +512,265 @@
       "title": "Jon Stewart on Lindsey Graham's Death & America's Geriatric Political Class | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "xH-yAy8_yB4",
-      "viewsPerHour": 104356,
-      "views": 4516489,
-      "ageHours": 43.3
+      "viewsPerHour": 101118,
+      "views": 4585611,
+      "ageHours": 45.3
     },
     {
       "title": "Trump's IndyCar Race, Lindsey Graham's Sis Successor & Toll War in Hormuz Strait | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Q43KKnP3SVc",
-      "viewsPerHour": 66672,
-      "views": 1351982,
-      "ageHours": 20.3
+      "viewsPerHour": 62933,
+      "views": 1406420,
+      "ageHours": 22.3
+    },
+    {
+      "title": "Why Florida Doesn’t Care If You Live Here Anymore",
+      "channel": "More Perfect Union",
+      "videoId": "tJBcVL4NjN0",
+      "viewsPerHour": 17546,
+      "views": 117759,
+      "ageHours": 6.7
+    },
+    {
+      "title": "If that's not the bottom, I don't know what is': Nicolle AGHAST at Trump intel pick's propaganda",
+      "channel": "MS NOW",
+      "videoId": "mgdNTR3wYA0",
+      "viewsPerHour": 11056,
+      "views": 28298,
+      "ageHours": 2.6
     },
     {
       "title": "Christopher Nolan - “The Odyssey” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "DWABbDtyfeA",
-      "viewsPerHour": 10996,
-      "views": 470531,
-      "ageHours": 42.8
+      "viewsPerHour": 10735,
+      "views": 481617,
+      "ageHours": 44.9
     },
     {
       "title": "We Uncovered Amazon’s Scheme To Inflate Prices Everywhere",
       "channel": "More Perfect Union",
       "videoId": "5otF7Bj5LxI",
-      "viewsPerHour": 8699,
-      "views": 252787,
-      "ageHours": 29.1
+      "viewsPerHour": 8444,
+      "views": 262862,
+      "ageHours": 31.1
     },
     {
       "title": "America's Greatest Moments, Including That Time Lenny Kravitz's Penis Popped Out | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "x-3ZGG4bQKo",
-      "viewsPerHour": 6443,
-      "views": 69799,
-      "ageHours": 10.8
+      "viewsPerHour": 6065,
+      "views": 78257,
+      "ageHours": 12.9
     },
     {
       "title": "UFOs In Religion: Ancient ‘Miracles’ May Have Been Alien Encounters | Dr. Diana Walsh Pasulka",
       "channel": "Mayim Bialik",
       "videoId": "kya13pqx8j0",
-      "viewsPerHour": 5792,
-      "views": 204393,
-      "ageHours": 35.3
+      "viewsPerHour": 5655,
+      "views": 211240,
+      "ageHours": 37.4
+    },
+    {
+      "title": "What the Laser Beams Revealed (S7) | The Secret of Skinwalker Ranch",
+      "channel": "History",
+      "videoId": "jEc9F5NMIew",
+      "viewsPerHour": 5273,
+      "views": 33565,
+      "ageHours": 6.4
     },
     {
       "title": "PBS News Hour full episode, July 14, 2026",
       "channel": "PBS NewsHour",
       "videoId": "sssobeIx15o",
-      "viewsPerHour": 3685,
+      "viewsPerHour": 3371,
       "views": 82126,
-      "ageHours": 22.3
+      "ageHours": 24.4
     },
     {
       "title": "Lindsey Graham's Death Highlights an Aging Congress & Trump Keeps His Eye on Optics | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "aEapcY1D0WQ",
-      "viewsPerHour": 2467,
-      "views": 111656,
-      "ageHours": 45.3
+      "viewsPerHour": 2368,
+      "views": 112075,
+      "ageHours": 47.3
     },
     {
       "title": "S9 E4: \"Don't Say Gay\" Bill & Event Tickets: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "r6BR0Nk6lIM",
-      "viewsPerHour": 2250,
-      "views": 14155,
-      "ageHours": 6.3
+      "viewsPerHour": 2282,
+      "views": 19082,
+      "ageHours": 8.4
     },
     {
       "title": "Beth Kobliner - Helping Young People “Get a Financial Life” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "gS5J24b05Jc",
-      "viewsPerHour": 1797,
-      "views": 33802,
-      "ageHours": 18.8
+      "viewsPerHour": 1704,
+      "views": 35574,
+      "ageHours": 20.9
     },
     {
       "title": "S9 E3: Ukrainian Resistance & Wrongful Convictions: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "FuTEz_VGiBg",
-      "viewsPerHour": 1576,
-      "views": 47757,
-      "ageHours": 30.3
+      "viewsPerHour": 1525,
+      "views": 49345,
+      "ageHours": 32.4
     },
     {
       "title": "Mamdani wins with NYC's click to cancel rule: this is awesome",
       "channel": "Louis Rossmann",
       "videoId": "DacdCK9vUAs",
-      "viewsPerHour": 1419,
+      "viewsPerHour": 1356,
       "views": 63306,
-      "ageHours": 44.6
+      "ageHours": 46.7
+    },
+    {
+      "title": "PBS News Hour live episode, July 15, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "G6fvvJ_EiWA",
+      "viewsPerHour": 1259,
+      "views": 4278,
+      "ageHours": 3.4
     },
     {
       "title": "INSTANT REACTION: Breaking down Blanche's confirmation hearing so far",
       "channel": "MS NOW",
       "videoId": "UB6Xai4nKIo",
-      "viewsPerHour": 1235,
+      "viewsPerHour": 910,
       "views": 7153,
-      "ageHours": 5.8
-    },
-    {
-      "title": "Trump braces for Epstein FIRESTORM to return as cover-up lackey Todd Blanche is placed in HOT SEAT",
-      "channel": "MS NOW",
-      "videoId": "loTl6jXWmiM",
-      "viewsPerHour": 1018,
-      "views": 24419,
-      "ageHours": 24
+      "ageHours": 7.9
     },
     {
       "title": "Rant on race baiting, corruption, cowardice & small town politics",
       "channel": "Louis Rossmann",
       "videoId": "6n-l5Q7v05k",
-      "viewsPerHour": 778,
+      "viewsPerHour": 735,
       "views": 27470,
-      "ageHours": 35.3
+      "ageHours": 37.4
     },
     {
       "title": "UFO Cover-Up | Unidentified: Inside America's UFO Investigation | Full Episode",
       "channel": "History",
       "videoId": "_swaZVvpyZo",
-      "viewsPerHour": 484,
-      "views": 11767,
-      "ageHours": 24.3
+      "viewsPerHour": 459,
+      "views": 12093,
+      "ageHours": 26.4
     },
     {
       "title": "WATCH LIVE: Erica Schwartz testifies in confirmation hearing for CDC director",
       "channel": "PBS NewsHour",
       "videoId": "xn4B18GBy64",
-      "viewsPerHour": 416,
+      "viewsPerHour": 306,
       "views": 2399,
-      "ageHours": 5.8
+      "ageHours": 7.8
     },
     {
       "title": "Shameful slap in the face to law enforcement': Sen. Coons presses Blanche on Jan. 6 pardons",
       "channel": "MS NOW",
       "videoId": "Cjqod8vhfTo",
-      "viewsPerHour": 367,
+      "viewsPerHour": 270,
       "views": 2120,
-      "ageHours": 5.8
-    },
-    {
-      "title": "Maria Sharapova (Full Episode) | Where Everybody Knows Your Name",
-      "channel": "Conan O'Brien",
-      "videoId": "tnoW45SGUL4",
-      "viewsPerHour": 299,
-      "views": 3079,
-      "ageHours": 10.3
+      "ageHours": 7.8
     },
     {
       "title": "John Lennon Told Mick Jagger Not To Meet Elvis Presley | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "p-NBdoBHiyo",
-      "viewsPerHour": 267,
+      "viewsPerHour": 252,
       "views": 9147,
-      "ageHours": 34.3
+      "ageHours": 36.4
+    },
+    {
+      "title": "Maria Sharapova (Full Episode) | Where Everybody Knows Your Name",
+      "channel": "Conan O'Brien",
+      "videoId": "tnoW45SGUL4",
+      "viewsPerHour": 249,
+      "views": 3079,
+      "ageHours": 12.4
     },
     {
       "title": "U.S. launches new strikes in Iran, reimposes blockade",
       "channel": "MS NOW",
       "videoId": "5ORJ-LxlXsc",
-      "viewsPerHour": 248,
+      "viewsPerHour": 212,
       "views": 2947,
-      "ageHours": 11.9
+      "ageHours": 13.9
     },
     {
-      "title": "WeRecoverData wiped from archive.org after threatening me with litigation: SHOULD I COUNTERSUE??? ",
-      "channel": "Louis Rossmann",
-      "videoId": "dWb9vRzsrk8",
-      "viewsPerHour": 241,
-      "views": 11535,
-      "ageHours": 47.8
-    },
-    {
-      "title": "PBS News Hour live episode, July 14, 2026",
+      "title": "News Wrap: Trump ends pause on ICE traffic stops",
       "channel": "PBS NewsHour",
-      "videoId": "Qpj0_Bc4aXI",
-      "viewsPerHour": 169,
-      "views": 4210,
-      "ageHours": 24.9
+      "videoId": "obud2rXaj20",
+      "viewsPerHour": 146,
+      "views": 268,
+      "ageHours": 1.8
     },
     {
       "title": "Mick Jagger: America Wasn't Ready For The Rolling Stones In The '60s | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "thHi0lp16KQ",
-      "viewsPerHour": 167,
+      "viewsPerHour": 130,
       "views": 1215,
-      "ageHours": 7.3
+      "ageHours": 9.4
     },
     {
       "title": "‘Live threat to voting rights’: Sen. Jon Ossoff on Trump’s election conspiracy theories",
       "channel": "MS NOW",
       "videoId": "1by6oL5u15Y",
-      "viewsPerHour": 117,
+      "viewsPerHour": 100,
       "views": 1389,
-      "ageHours": 11.9
+      "ageHours": 13.9
     },
     {
-      "title": "MS NOW Highlights - July 14",
-      "channel": "MS NOW",
-      "videoId": "QWDrZqigMJY",
-      "viewsPerHour": 100,
-      "views": 1193,
-      "ageHours": 12
+      "title": "Subpoenas over New York Times report on Air Force One raise press freedom concerns",
+      "channel": "PBS NewsHour",
+      "videoId": "8JMvsY1g6gU",
+      "viewsPerHour": 95,
+      "views": 163,
+      "ageHours": 1.7
     },
     {
       "title": "Why Is This Europe's Most Divisive Mosque?",
       "channel": "Real Stories",
       "videoId": "kfYbL3xEXuU",
-      "viewsPerHour": 91,
-      "views": 2716,
-      "ageHours": 29.8
+      "viewsPerHour": 87,
+      "views": 2775,
+      "ageHours": 31.9
+    },
+    {
+      "title": "MS NOW Highlights - July 14",
+      "channel": "MS NOW",
+      "videoId": "QWDrZqigMJY",
+      "viewsPerHour": 85,
+      "views": 1193,
+      "ageHours": 14
     },
     {
       "title": "WATCH LIVE: Vought testifies on Consumer Financial Protection Bureau budget amid agency cuts",
       "channel": "PBS NewsHour",
       "videoId": "TnQw00apEMY",
-      "viewsPerHour": 91,
+      "viewsPerHour": 74,
       "views": 822,
-      "ageHours": 9
+      "ageHours": 11.1
     },
     {
       "title": "Blanche GRILLED on DOJ's independence and prosecutions of Trump's perceived enemies",
       "channel": "MS NOW",
       "videoId": "nEp6FL8pkC4",
-      "viewsPerHour": 68,
+      "viewsPerHour": 50,
       "views": 386,
-      "ageHours": 5.6
+      "ageHours": 7.7
     },
     {
       "title": "WATCH: Ossoff says Clayton's testimony on Gabbard presence at Georgia raid 'lacks credibility’",
       "channel": "PBS NewsHour",
       "videoId": "PP68pnzaGzI",
-      "viewsPerHour": 20,
+      "viewsPerHour": 15,
       "views": 117,
-      "ageHours": 5.7
-    },
-    {
-      "title": "News Wrap: Fed Chair Warsh pledges inflation will be 'thing of the past'",
-      "channel": "PBS NewsHour",
-      "videoId": "b5CUFCnm7iI",
-      "viewsPerHour": 3,
-      "views": 67,
-      "ageHours": 23.6
-    },
-    {
-      "title": "Inflation eased in June, but Americans still feel pressure from high prices",
-      "channel": "PBS NewsHour",
-      "videoId": "dD9GUWB6q6k",
-      "viewsPerHour": 1,
-      "views": 34,
-      "ageHours": 23.5
+      "ageHours": 7.8
     }
   ]
 }
