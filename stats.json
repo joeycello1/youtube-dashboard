@@ -5,20 +5,28 @@
       "count": 9
     },
     {
-      "channel": "NOVA",
-      "count": 10
+      "channel": "PBS NewsHour",
+      "count": 9
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 5
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 26
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 13
     },
     {
       "channel": "The Daily Show",
       "count": 13
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 25
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 9
+      "channel": "NOVA",
+      "count": 10
     },
     {
       "channel": "The Rest Is Science",
@@ -31,14 +39,6 @@
     {
       "channel": "More Perfect Union",
       "count": 13
-    },
-    {
-      "channel": "Last Week Tonight",
-      "count": 5
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 12
     },
     {
       "channel": "Real Stories",
@@ -87,20 +87,28 @@
       "count": 9
     },
     {
-      "keyword": "NOVA",
-      "count": 11
+      "keyword": "PBS NewsHour",
+      "count": 9
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 5
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 25
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 13
     },
     {
       "keyword": "The Daily Show",
       "count": 12
     },
     {
-      "keyword": "Louis Rossmann",
-      "count": 24
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 8
+      "keyword": "NOVA",
+      "count": 11
     },
     {
       "keyword": "The Rest Is Science",
@@ -112,18 +120,6 @@
     },
     {
       "keyword": "More Perfect Union",
-      "count": 12
-    },
-    {
-      "keyword": "PBS NewsHour, testimony",
-      "count": 1
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "count": 5
-    },
-    {
-      "keyword": "Conan O'Brien",
       "count": 12
     },
     {
@@ -222,11 +218,11 @@
   "dailySummary": [
     {
       "date": "2026-07-16",
-      "videos": 9
+      "videos": 20
     },
     {
       "date": "2026-07-15",
-      "videos": 23
+      "videos": 17
     },
     {
       "date": "2026-07-14",
@@ -250,7 +246,7 @@
     },
     {
       "date": "2026-07-09",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-07-08",
@@ -262,7 +258,7 @@
     },
     {
       "date": "2026-07-06",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-07-05",
@@ -282,7 +278,7 @@
     },
     {
       "date": "2026-07-01",
-      "videos": 3
+      "videos": 2
     },
     {
       "date": "2026-06-30",
@@ -431,20 +427,28 @@
       "matches": 9
     },
     {
-      "keyword": "NOVA",
-      "matches": 2
-    },
-    {
-      "keyword": "The Daily Show",
-      "matches": 11
-    },
-    {
-      "keyword": "Louis Rossmann",
+      "keyword": "PBS NewsHour",
       "matches": 9
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 8
+      "keyword": "Last Week Tonight",
+      "matches": 5
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 10
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 7
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 12
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 2
     },
     {
       "keyword": "The Rest Is Science",
@@ -457,18 +461,6 @@
     {
       "keyword": "More Perfect Union",
       "matches": 3
-    },
-    {
-      "keyword": "PBS NewsHour, testimony",
-      "matches": 1
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "matches": 4
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 5
     },
     {
       "keyword": "UFO, UAP",
@@ -512,281 +504,305 @@
       "title": "America Gets Diarrhea, CDC Has No Money to Help & Iran War Budget Explodes | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "uJwjvNYKuyY",
-      "viewsPerHour": 85654,
-      "views": 1226689,
-      "ageHours": 14.3
+      "viewsPerHour": 81302,
+      "views": 1325877,
+      "ageHours": 16.3
     },
     {
       "title": "Trump's IndyCar Race, Lindsey Graham's Sis Successor & Toll War in Hormuz Strait | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Q43KKnP3SVc",
-      "viewsPerHour": 42000,
-      "views": 1608701,
-      "ageHours": 38.3
+      "viewsPerHour": 40399,
+      "views": 1627652,
+      "ageHours": 40.3
+    },
+    {
+      "title": "John Leguizamo on SCOTUS's Birthright Ruling & the Right-Wing Freakout That Ensued | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "CswGvIho7qE",
+      "viewsPerHour": 25448,
+      "views": 174191,
+      "ageHours": 6.8
     },
     {
       "title": "Why Florida Doesn’t Care If You Live Here Anymore",
       "channel": "More Perfect Union",
       "videoId": "tJBcVL4NjN0",
-      "viewsPerHour": 11645,
-      "views": 263954,
-      "ageHours": 22.7
+      "viewsPerHour": 11396,
+      "views": 280945,
+      "ageHours": 24.7
     },
     {
-      "title": "We Uncovered Amazon’s Scheme To Inflate Prices Everywhere",
-      "channel": "More Perfect Union",
-      "videoId": "5otF7Bj5LxI",
-      "viewsPerHour": 6959,
-      "views": 327662,
-      "ageHours": 47.1
+      "title": "Amazon FireTV adds ads to homescreen that can't be taken offline 🤦‍♂️",
+      "channel": "Louis Rossmann",
+      "videoId": "0KKB_vxCmWY",
+      "viewsPerHour": 4735,
+      "views": 11777,
+      "ageHours": 2.5
     },
     {
       "title": "A Man-Eating Tiger Found In London",
       "channel": "The Rest Is Science",
       "videoId": "igisWKIBEYY",
-      "viewsPerHour": 4455,
-      "views": 76785,
-      "ageHours": 17.2
+      "viewsPerHour": 4322,
+      "views": 83087,
+      "ageHours": 19.2
     },
     {
       "title": "America's Greatest Moments, Including That Time Lenny Kravitz's Penis Popped Out | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "x-3ZGG4bQKo",
-      "viewsPerHour": 4349,
-      "views": 125488,
-      "ageHours": 28.9
+      "viewsPerHour": 4162,
+      "views": 128360,
+      "ageHours": 30.8
+    },
+    {
+      "title": "Epstein survivor: 'We know that there are names in the files that were covered up' by Blanche",
+      "channel": "MS NOW",
+      "videoId": "FLk2XLe4oM8",
+      "viewsPerHour": 3487,
+      "views": 6283,
+      "ageHours": 1.8
     },
     {
       "title": "Chat Control wins in Europe: you don't hate your government enough",
       "channel": "Louis Rossmann",
       "videoId": "nRqqihy7l10",
-      "viewsPerHour": 3671,
+      "viewsPerHour": 3291,
       "views": 63129,
-      "ageHours": 17.2
+      "ageHours": 19.2
+    },
+    {
+      "title": "Conan Unboxes \"Toy Story 5\" Merch | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "zZ6CMVt-lGM",
+      "viewsPerHour": 3217,
+      "views": 20280,
+      "ageHours": 6.3
     },
     {
       "title": "Molly Shannon - Learning Resilience & Collaborating with Will Ferrell on “The Hawk” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "0m60D7oEV_s",
-      "viewsPerHour": 3077,
-      "views": 39453,
-      "ageHours": 12.8
-    },
-    {
-      "title": "PBS News Hour full episode, July 15, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "8fTL1-rQB3M",
-      "viewsPerHour": 2780,
-      "views": 46767,
-      "ageHours": 16.8
+      "viewsPerHour": 2910,
+      "views": 43090,
+      "ageHours": 14.8
     },
     {
       "title": "What the Laser Beams Revealed (S7) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "jEc9F5NMIew",
-      "viewsPerHour": 2726,
-      "views": 60855,
-      "ageHours": 22.3
+      "viewsPerHour": 2555,
+      "views": 62093,
+      "ageHours": 24.3
+    },
+    {
+      "title": "PBS News Hour full episode, July 15, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "8fTL1-rQB3M",
+      "viewsPerHour": 2486,
+      "views": 46767,
+      "ageHours": 18.8
+    },
+    {
+      "title": "S9 E5: England's Royal Tour & Harm Reduction: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "kGbY6db4cjw",
+      "viewsPerHour": 2290,
+      "views": 5281,
+      "ageHours": 2.3
     },
     {
       "title": "Viewer visits WeRecoverData Location in Utah: do we find a lab?",
       "channel": "Louis Rossmann",
       "videoId": "rNBvFGVIWlg",
-      "viewsPerHour": 2180,
+      "viewsPerHour": 1914,
       "views": 31098,
-      "ageHours": 14.3
+      "ageHours": 16.2
     },
     {
       "title": "S9 E4: \"Don't Say Gay\" Bill & Event Tickets: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "r6BR0Nk6lIM",
-      "viewsPerHour": 1531,
-      "views": 37216,
-      "ageHours": 24.3
+      "viewsPerHour": 1502,
+      "views": 39494,
+      "ageHours": 26.3
+    },
+    {
+      "title": "WATCH LIVE: Vought testifies on Consumer Financial Protection Bureau in Senate hearing",
+      "channel": "PBS NewsHour",
+      "videoId": "Kjccjx5wXeM",
+      "viewsPerHour": 1407,
+      "views": 3054,
+      "ageHours": 2.2
     },
     {
       "title": "If that's not the bottom, I don't know what is': Nicolle AGHAST at Trump intel pick's propaganda",
       "channel": "MS NOW",
       "videoId": "mgdNTR3wYA0",
-      "viewsPerHour": 1528,
+      "viewsPerHour": 1380,
       "views": 28298,
-      "ageHours": 18.5
-    },
-    {
-      "title": "They don't want to appear weak': Trump at odds with his own DHS after deadly ICE shootings",
-      "channel": "MS NOW",
-      "videoId": "G3epSCGiAjs",
-      "viewsPerHour": 1307,
-      "views": 14562,
-      "ageHours": 11.1
+      "ageHours": 20.5
     },
     {
       "title": "Beth Kobliner - Helping Young People “Get a Financial Life” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "gS5J24b05Jc",
-      "viewsPerHour": 1194,
-      "views": 43977,
-      "ageHours": 36.8
+      "viewsPerHour": 1150,
+      "views": 44650,
+      "ageHours": 38.8
+    },
+    {
+      "title": "They don't want to appear weak': Trump at odds with his own DHS after deadly ICE shootings",
+      "channel": "MS NOW",
+      "videoId": "G3epSCGiAjs",
+      "viewsPerHour": 1109,
+      "views": 14562,
+      "ageHours": 13.1
+    },
+    {
+      "title": "Effort to cherry pick classified info': Fmr. U.S. attorney on Trump's speech",
+      "channel": "MS NOW",
+      "videoId": "RByDFqn1YX4",
+      "viewsPerHour": 880,
+      "views": 1554,
+      "ageHours": 1.8
+    },
+    {
+      "title": "WATCH: Jennifer Bos makes opening statement in Blanche confirmation hearing",
+      "channel": "PBS NewsHour",
+      "videoId": "Abla1LIRZ9A",
+      "viewsPerHour": 834,
+      "views": 1738,
+      "ageHours": 2.1
     },
     {
       "title": "Post-literate age': Why fewer Americans are reading for pleasure",
       "channel": "PBS NewsHour",
       "videoId": "f0a2PnLzUQs",
-      "viewsPerHour": 775,
+      "viewsPerHour": 695,
       "views": 13369,
-      "ageHours": 17.3
+      "ageHours": 19.2
+    },
+    {
+      "title": "WATCH LIVE: House considers Take Care of America's Veterans Act",
+      "channel": "PBS NewsHour",
+      "videoId": "tjxuK9gzR-g",
+      "viewsPerHour": 609,
+      "views": 1178,
+      "ageHours": 1.9
+    },
+    {
+      "title": "Fmr. Border Patrol agent: ICE using 'aggressive use of force' in instances it's not necessary",
+      "channel": "MS NOW",
+      "videoId": "sn0GlU3Lh1Y",
+      "viewsPerHour": 350,
+      "views": 642,
+      "ageHours": 1.8
     },
     {
       "title": "UFO Cover-Up | Unidentified: Inside America's UFO Investigation | Full Episode",
       "channel": "History",
       "videoId": "_swaZVvpyZo",
-      "viewsPerHour": 339,
-      "views": 14350,
-      "ageHours": 42.3
+      "viewsPerHour": 327,
+      "views": 14485,
+      "ageHours": 44.3
     },
     {
-      "title": "INSTANT REACTION: Breaking down Blanche's confirmation hearing so far",
-      "channel": "MS NOW",
-      "videoId": "UB6Xai4nKIo",
-      "viewsPerHour": 300,
-      "views": 7153,
-      "ageHours": 23.8
+      "title": "Adam Sandler's Unbelievable Experience In Africa | CONAN on TBS",
+      "channel": "Conan O'Brien",
+      "videoId": "i4szmN3PXCE",
+      "viewsPerHour": 303,
+      "views": 1002,
+      "ageHours": 3.3
     },
     {
       "title": "PBS News Hour live episode, July 15, 2026",
       "channel": "PBS NewsHour",
       "videoId": "G6fvvJ_EiWA",
-      "viewsPerHour": 221,
+      "viewsPerHour": 200,
       "views": 4278,
-      "ageHours": 19.4
+      "ageHours": 21.3
     },
     {
       "title": "Trump nominees struggle to avoid saying true things that would upset Trump",
       "channel": "MS NOW",
       "videoId": "kvNw6cRby7M",
-      "viewsPerHour": 196,
+      "viewsPerHour": 168,
       "views": 2334,
-      "ageHours": 11.9
+      "ageHours": 13.9
     },
     {
       "title": "Interview: Good Anxiety, Exercise, and Connection on the Brain | Particles of Thought",
       "channel": "NOVA",
       "videoId": "0mHYMnSqI7c",
-      "viewsPerHour": 144,
-      "views": 912,
-      "ageHours": 6.3
+      "viewsPerHour": 146,
+      "views": 1214,
+      "ageHours": 8.3
     },
     {
       "title": "Maria Sharapova (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "tnoW45SGUL4",
-      "viewsPerHour": 109,
+      "viewsPerHour": 102,
       "views": 3079,
-      "ageHours": 28.3
-    },
-    {
-      "title": "WATCH LIVE: Erica Schwartz testifies in confirmation hearing for CDC director",
-      "channel": "PBS NewsHour",
-      "videoId": "xn4B18GBy64",
-      "viewsPerHour": 101,
-      "views": 2399,
-      "ageHours": 23.8
+      "ageHours": 30.3
     },
     {
       "title": "National Youth Poet Laureate Daniel Umemezie on using his words to bridge worlds",
       "channel": "PBS NewsHour",
       "videoId": "PKlfUzhN7wY",
-      "viewsPerHour": 94,
+      "viewsPerHour": 84,
       "views": 1613,
-      "ageHours": 17.2
-    },
-    {
-      "title": "Shameful slap in the face to law enforcement': Sen. Coons presses Blanche on Jan. 6 pardons",
-      "channel": "MS NOW",
-      "videoId": "Cjqod8vhfTo",
-      "viewsPerHour": 89,
-      "views": 2120,
-      "ageHours": 23.8
+      "ageHours": 19.2
     },
     {
       "title": "A Democratic Senate majority could stop Trump’s clownish nominees,' says Fmr. Sen. Sherrod Brown",
       "channel": "MS NOW",
       "videoId": "KIBpkKKy6lk",
-      "viewsPerHour": 67,
+      "viewsPerHour": 58,
       "views": 817,
-      "ageHours": 12.2
-    },
-    {
-      "title": "Why Is This Europe's Most Divisive Mosque?",
-      "channel": "Real Stories",
-      "videoId": "kfYbL3xEXuU",
-      "viewsPerHour": 64,
-      "views": 3049,
-      "ageHours": 47.8
-    },
-    {
-      "title": "Senate GRILLS Trump nominees over election and Epstein files",
-      "channel": "MS NOW",
-      "videoId": "M2z3D9uh24U",
-      "viewsPerHour": 55,
-      "views": 315,
-      "ageHours": 5.7
+      "ageHours": 14.2
     },
     {
       "title": "Mick Jagger: America Wasn't Ready For The Rolling Stones In The '60s | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "thHi0lp16KQ",
-      "viewsPerHour": 48,
+      "viewsPerHour": 44,
       "views": 1215,
-      "ageHours": 25.3
+      "ageHours": 27.3
+    },
+    {
+      "title": "Senate GRILLS Trump nominees over election and Epstein files",
+      "channel": "MS NOW",
+      "videoId": "M2z3D9uh24U",
+      "viewsPerHour": 41,
+      "views": 315,
+      "ageHours": 7.7
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - July 15 | Audio Only",
       "channel": "MS NOW",
       "videoId": "khdx4yYNCpk",
-      "viewsPerHour": 32,
+      "viewsPerHour": 27,
       "views": 373,
-      "ageHours": 11.8
-    },
-    {
-      "title": "WATCH LIVE: Vought testifies on Consumer Financial Protection Bureau budget amid agency cuts",
-      "channel": "PBS NewsHour",
-      "videoId": "TnQw00apEMY",
-      "viewsPerHour": 30,
-      "views": 822,
-      "ageHours": 27.1
-    },
-    {
-      "title": "Blanche GRILLED on DOJ's independence and prosecutions of Trump's perceived enemies",
-      "channel": "MS NOW",
-      "videoId": "nEp6FL8pkC4",
-      "viewsPerHour": 16,
-      "views": 386,
-      "ageHours": 23.7
+      "ageHours": 13.8
     },
     {
       "title": "News Wrap: Trump ends pause on ICE traffic stops",
       "channel": "PBS NewsHour",
       "videoId": "obud2rXaj20",
-      "viewsPerHour": 15,
+      "viewsPerHour": 14,
       "views": 268,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "Subpoenas over New York Times report on Air Force One raise press freedom concerns",
       "channel": "PBS NewsHour",
       "videoId": "8JMvsY1g6gU",
-      "viewsPerHour": 9,
+      "viewsPerHour": 8,
       "views": 163,
-      "ageHours": 17.7
-    },
-    {
-      "title": "WATCH: Ossoff says Clayton's testimony on Gabbard presence at Georgia raid 'lacks credibility’",
-      "channel": "PBS NewsHour",
-      "videoId": "PP68pnzaGzI",
-      "viewsPerHour": 5,
-      "views": 117,
-      "ageHours": 23.8
+      "ageHours": 19.7
     }
   ]
 }
