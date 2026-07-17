@@ -1,16 +1,36 @@
 {
   "videosPerChannel": [
     {
+      "channel": "NOVA",
+      "count": 11
+    },
+    {
       "channel": "MS NOW",
       "count": 6
     },
     {
-      "channel": "The Daily Show",
-      "count": 13
+      "channel": "More Perfect Union",
+      "count": 14
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 6
+    },
+    {
+      "channel": "History",
+      "count": 8
     },
     {
       "channel": "PBS NewsHour",
       "count": 8
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 13
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 13
     },
     {
       "channel": "Louis Rossmann",
@@ -21,28 +41,8 @@
       "count": 33
     },
     {
-      "channel": "Last Week Tonight",
-      "count": 5
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 13
-    },
-    {
-      "channel": "NOVA",
-      "count": 10
-    },
-    {
       "channel": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "channel": "History",
-      "count": 7
-    },
-    {
-      "channel": "More Perfect Union",
-      "count": 13
     },
     {
       "channel": "Mayim Bialik",
@@ -83,16 +83,32 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "NOVA",
+      "count": 13
+    },
+    {
       "keyword": "MS NOW",
       "count": 6
     },
     {
-      "keyword": "The Daily Show",
-      "count": 12
+      "keyword": "More Perfect Union",
+      "count": 13
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 6
     },
     {
       "keyword": "PBS NewsHour",
       "count": 7
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 13
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 13
     },
     {
       "keyword": "PBS NewsHour, AI, artificial intelligence",
@@ -107,28 +123,12 @@
       "count": 14
     },
     {
-      "keyword": "Last Week Tonight",
-      "count": 5
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 13
-    },
-    {
-      "keyword": "NOVA",
-      "count": 11
-    },
-    {
       "keyword": "The Rest Is Science",
       "count": 4
     },
     {
       "keyword": "UFO",
       "count": 10
-    },
-    {
-      "keyword": "More Perfect Union",
-      "count": 12
     },
     {
       "keyword": "UFO, UAP",
@@ -153,10 +153,6 @@
     {
       "keyword": "The Interview",
       "count": 6
-    },
-    {
-      "keyword": "The Daily Show, AI",
-      "count": 1
     },
     {
       "keyword": "Grusch, UAP, UFO",
@@ -222,11 +218,11 @@
   "dailySummary": [
     {
       "date": "2026-07-17",
-      "videos": 5
+      "videos": 18
     },
     {
       "date": "2026-07-16",
-      "videos": 22
+      "videos": 16
     },
     {
       "date": "2026-07-15",
@@ -250,7 +246,7 @@
     },
     {
       "date": "2026-07-10",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-07-09",
@@ -262,7 +258,7 @@
     },
     {
       "date": "2026-07-07",
-      "videos": 9
+      "videos": 7
     },
     {
       "date": "2026-07-06",
@@ -431,16 +427,32 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "NOVA",
+      "matches": 3
+    },
+    {
       "keyword": "MS NOW",
       "matches": 6
     },
     {
-      "keyword": "The Daily Show",
-      "matches": 12
+      "keyword": "More Perfect Union",
+      "matches": 3
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 6
     },
     {
       "keyword": "PBS NewsHour",
       "matches": 7
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 13
     },
     {
       "keyword": "PBS NewsHour, AI, artificial intelligence",
@@ -455,28 +467,12 @@
       "matches": 2
     },
     {
-      "keyword": "Last Week Tonight",
-      "matches": 5
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 6
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 1
-    },
-    {
       "keyword": "The Rest Is Science",
       "matches": 2
     },
     {
       "keyword": "UFO",
       "matches": 4
-    },
-    {
-      "keyword": "More Perfect Union",
-      "matches": 2
     },
     {
       "keyword": "UFO, UAP",
@@ -501,10 +497,6 @@
     {
       "keyword": "The Interview",
       "matches": 1
-    },
-    {
-      "keyword": "The Daily Show, AI",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -512,241 +504,281 @@
       "title": "Hegseth Announces Testosterone Tests & Vance Fixates on Biden’s Ice Cream Licking | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "orAaK_uaeMU",
-      "viewsPerHour": 60085,
-      "views": 861587,
-      "ageHours": 14.3
+      "viewsPerHour": 57557,
+      "views": 939427,
+      "ageHours": 16.3
     },
     {
       "title": "America Gets Diarrhea, CDC Has No Money to Help & Iran War Budget Explodes | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "uJwjvNYKuyY",
-      "viewsPerHour": 47029,
-      "views": 1802609,
-      "ageHours": 38.3
+      "viewsPerHour": 44999,
+      "views": 1814015,
+      "ageHours": 40.3
     },
     {
       "title": "WATCH: Trump delivers primetime address on election system",
       "channel": "PBS NewsHour",
       "videoId": "RMCAWTv0ODg",
-      "viewsPerHour": 34541,
+      "viewsPerHour": 30451,
       "views": 509772,
-      "ageHours": 14.8
+      "ageHours": 16.7
+    },
+    {
+      "title": "Sports War: Norway Fan Hates Rowing & Team Senegal Gets a Gyno in Men's World Cup | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "j2jMAHwyD5o",
+      "viewsPerHour": 27038,
+      "views": 186047,
+      "ageHours": 6.9
     },
     {
       "title": "John Leguizamo on SCOTUS's Birthright Ruling & the Right-Wing Freakout That Ensued | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "CswGvIho7qE",
-      "viewsPerHour": 15050,
-      "views": 434454,
-      "ageHours": 28.9
+      "viewsPerHour": 14376,
+      "views": 443479,
+      "ageHours": 30.8
     },
     {
-      "title": "Why Florida Doesn’t Care If You Live Here Anymore",
+      "title": "The Richest Town In America Has A Secret",
       "channel": "More Perfect Union",
-      "videoId": "tJBcVL4NjN0",
-      "viewsPerHour": 8381,
-      "views": 391161,
-      "ageHours": 46.7
+      "videoId": "QGSn0AC3-ok",
+      "viewsPerHour": 11207,
+      "views": 19356,
+      "ageHours": 1.7
     },
     {
       "title": "PBS News Hour full episode, July 16, 2026",
       "channel": "PBS NewsHour",
       "videoId": "Xnqch69CELE",
-      "viewsPerHour": 4829,
+      "viewsPerHour": 4308,
       "views": 79129,
-      "ageHours": 16.4
+      "ageHours": 18.4
     },
     {
       "title": "A Man-Eating Tiger Found In London",
       "channel": "The Rest Is Science",
       "videoId": "igisWKIBEYY",
-      "viewsPerHour": 2845,
-      "views": 117359,
-      "ageHours": 41.2
+      "viewsPerHour": 2755,
+      "views": 119101,
+      "ageHours": 43.2
+    },
+    {
+      "title": "The Most Exciting Discoveries | The Curse of Oak Island",
+      "channel": "History",
+      "videoId": "KIzXWal_6Jk",
+      "viewsPerHour": 2553,
+      "views": 5887,
+      "ageHours": 2.3
     },
     {
       "title": "Jake Johnson - “The Dink” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "XXYlrpOAvU0",
-      "viewsPerHour": 2184,
-      "views": 28022,
-      "ageHours": 12.8
+      "viewsPerHour": 2079,
+      "views": 30796,
+      "ageHours": 14.8
+    },
+    {
+      "title": "WATCH LIVE: Mullin holds news conference on election security after Trump's address to the nation",
+      "channel": "PBS NewsHour",
+      "videoId": "37rA0AqVybU",
+      "viewsPerHour": 1876,
+      "views": 5131,
+      "ageHours": 2.7
     },
     {
       "title": "Molly Shannon - Learning Resilience & Collaborating with Will Ferrell on “The Hawk” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "0m60D7oEV_s",
-      "viewsPerHour": 1646,
-      "views": 60625,
-      "ageHours": 36.8
+      "viewsPerHour": 1584,
+      "views": 61462,
+      "ageHours": 38.8
     },
     {
-      "title": "What the Laser Beams Revealed (S7) | The Secret of Skinwalker Ranch",
-      "channel": "History",
-      "videoId": "jEc9F5NMIew",
-      "viewsPerHour": 1608,
-      "views": 74510,
-      "ageHours": 46.3
+      "title": "WATCH: Sen. Durbin pushes Blanche to commit to meeting with Epstein survivors",
+      "channel": "PBS NewsHour",
+      "videoId": "6qZ8W-ubSPc",
+      "viewsPerHour": 1474,
+      "views": 5875,
+      "ageHours": 4
     },
     {
       "title": "Chat Control wins in Europe: you don't hate your government enough",
       "channel": "Louis Rossmann",
       "videoId": "nRqqihy7l10",
-      "viewsPerHour": 1532,
+      "viewsPerHour": 1462,
       "views": 63129,
-      "ageHours": 41.2
+      "ageHours": 43.2
     },
     {
       "title": "Louis Therous Meets America's Most Hated Family",
       "channel": "Real Stories",
       "videoId": "XMMgxbLfDfY",
-      "viewsPerHour": 1458,
-      "views": 31816,
-      "ageHours": 21.8
+      "viewsPerHour": 1413,
+      "views": 33643,
+      "ageHours": 23.8
     },
     {
       "title": "S9 E5: England's Royal Tour & Harm Reduction: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "kGbY6db4cjw",
-      "viewsPerHour": 1368,
-      "views": 33289,
-      "ageHours": 24.3
+      "viewsPerHour": 1312,
+      "views": 34511,
+      "ageHours": 26.3
+    },
+    {
+      "title": "Trump 'shot himself in the foot' by contradicting docs he released: Fmr. Trump DHS official",
+      "channel": "MS NOW",
+      "videoId": "H61_tC1s1g4",
+      "viewsPerHour": 1207,
+      "views": 1922,
+      "ageHours": 1.6
+    },
+    {
+      "title": "S9 E6: Madison Cawthorn & Trucks: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "HooV1HF49P0",
+      "viewsPerHour": 1202,
+      "views": 2770,
+      "ageHours": 2.3
     },
     {
       "title": "Trump's primetime speech: 'exaggerated claims' and 'conspiracy theories'",
       "channel": "MS NOW",
       "videoId": "6lj24Ggo8IY",
-      "viewsPerHour": 1227,
+      "viewsPerHour": 935,
       "views": 7810,
-      "ageHours": 6.4
+      "ageHours": 8.3
     },
     {
       "title": "Viewer visits WeRecoverData Location in Utah: do we find a lab?",
       "channel": "Louis Rossmann",
       "videoId": "rNBvFGVIWlg",
-      "viewsPerHour": 813,
+      "viewsPerHour": 773,
       "views": 31098,
-      "ageHours": 38.3
+      "ageHours": 40.3
     },
     {
       "title": "Conan Unboxes \"Toy Story 5\" Merch | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "zZ6CMVt-lGM",
-      "viewsPerHour": 716,
+      "viewsPerHour": 669,
       "views": 20280,
-      "ageHours": 28.3
+      "ageHours": 30.3
+    },
+    {
+      "title": "Timothy Olyphant Requested A Butt Double For His Role In “Stick” | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "ohQhKc9SEHY",
+      "viewsPerHour": 539,
+      "views": 1782,
+      "ageHours": 3.3
+    },
+    {
+      "title": "What if Dark Matter is Tiny Black Holes? | NOVA | PBS",
+      "channel": "NOVA",
+      "videoId": "URp973o8Sg8",
+      "viewsPerHour": 522,
+      "views": 775,
+      "ageHours": 1.5
     },
     {
       "title": "‘DEMENTED’: MS NOW hosts react to Trump’s election security speech ahead of midterms | COMPILATION",
       "channel": "MS NOW",
       "videoId": "O4JCMIj9DKs",
-      "viewsPerHour": 688,
+      "viewsPerHour": 515,
       "views": 4069,
-      "ageHours": 5.9
+      "ageHours": 7.9
     },
     {
       "title": "Panera Bread enshittifies like a SaaS company; changes terms of the deal, no refunds, can't sue!",
       "channel": "Louis Rossmann",
       "videoId": "wdzGSZBbMZ0",
-      "viewsPerHour": 532,
+      "viewsPerHour": 480,
       "views": 9800,
-      "ageHours": 18.4
+      "ageHours": 20.4
     },
     {
       "title": "BECUCKED to Donald Trump': Nicolle and Alex BLAST the stooges DEBASING themselves to protect Trump",
       "channel": "MS NOW",
       "videoId": "kkDxsrq5kFY",
-      "viewsPerHour": 528,
+      "viewsPerHour": 476,
       "views": 9696,
-      "ageHours": 18.4
+      "ageHours": 20.4
     },
     {
       "title": "Amazon FireTV adds ads to homescreen that can't be taken offline 🤦‍♂️",
       "channel": "Louis Rossmann",
       "videoId": "0KKB_vxCmWY",
-      "viewsPerHour": 481,
+      "viewsPerHour": 445,
       "views": 11777,
-      "ageHours": 24.5
+      "ageHours": 26.5
     },
     {
-      "title": "Epstein survivor: 'We know that there are names in the files that were covered up' by Blanche",
-      "channel": "MS NOW",
-      "videoId": "FLk2XLe4oM8",
-      "viewsPerHour": 264,
-      "views": 6283,
-      "ageHours": 23.8
+      "title": "RAGE TAKES | Bley's Arcade",
+      "channel": "Conan O'Brien",
+      "videoId": "LpO_8YE_91s",
+      "viewsPerHour": 310,
+      "views": 1954,
+      "ageHours": 6.3
     },
     {
       "title": "PBS News Hour live episode, July 16, 2026",
       "channel": "PBS NewsHour",
       "videoId": "k0Tm_CvYOUQ",
-      "viewsPerHour": 226,
+      "viewsPerHour": 204,
       "views": 4223,
-      "ageHours": 18.7
+      "ageHours": 20.7
     },
     {
-      "title": "WATCH LIVE: Vought testifies on Consumer Financial Protection Bureau in Senate hearing",
+      "title": "WATCH: Mullin says he will enforce the law when it comes to ICE officers who violate rules",
       "channel": "PBS NewsHour",
-      "videoId": "Kjccjx5wXeM",
-      "viewsPerHour": 126,
-      "views": 3054,
-      "ageHours": 24.2
+      "videoId": "pF1peCRECTU",
+      "viewsPerHour": 135,
+      "views": 315,
+      "ageHours": 2.3
+    },
+    {
+      "title": "Trump admin going to try 'everything they can to get in the way' of midterms: WI Gov. candidate",
+      "channel": "MS NOW",
+      "videoId": "GEb_zCQr5jw",
+      "viewsPerHour": 83,
+      "views": 132,
+      "ageHours": 1.6
     },
     {
       "title": "Interview: Good Anxiety, Exercise, and Connection on the Brain | Particles of Thought",
       "channel": "NOVA",
       "videoId": "0mHYMnSqI7c",
-      "viewsPerHour": 85,
-      "views": 2580,
-      "ageHours": 30.3
+      "viewsPerHour": 82,
+      "views": 2665,
+      "ageHours": 32.3
     },
     {
-      "title": "WATCH: Jennifer Bos makes opening statement in Blanche confirmation hearing",
-      "channel": "PBS NewsHour",
-      "videoId": "Abla1LIRZ9A",
-      "viewsPerHour": 72,
-      "views": 1738,
-      "ageHours": 24.1
-    },
-    {
-      "title": "Effort to cherry pick classified info': Fmr. U.S. attorney on Trump's speech",
+      "title": "Lindsey Graham's sudden passing leaves GOP field open in SC Senate race",
       "channel": "MS NOW",
-      "videoId": "RByDFqn1YX4",
-      "viewsPerHour": 65,
-      "views": 1554,
-      "ageHours": 23.8
-    },
-    {
-      "title": "WATCH LIVE: House considers Take Care of America's Veterans Act",
-      "channel": "PBS NewsHour",
-      "videoId": "tjxuK9gzR-g",
-      "viewsPerHour": 49,
-      "views": 1178,
-      "ageHours": 24
+      "videoId": "kSP4JFimh_Y",
+      "viewsPerHour": 69,
+      "views": 107,
+      "ageHours": 1.6
     },
     {
       "title": "Adam Sandler's Unbelievable Experience In Africa | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "i4szmN3PXCE",
-      "viewsPerHour": 40,
+      "viewsPerHour": 37,
       "views": 1002,
-      "ageHours": 25.3
-    },
-    {
-      "title": "Fmr. Border Patrol agent: ICE using 'aggressive use of force' in instances it's not necessary",
-      "channel": "MS NOW",
-      "videoId": "sn0GlU3Lh1Y",
-      "viewsPerHour": 27,
-      "views": 642,
-      "ageHours": 23.9
+      "ageHours": 27.3
     },
     {
       "title": "The health risks of wildfire smoke across the Midwest and Mid-Atlantic",
       "channel": "PBS NewsHour",
       "videoId": "UloYfl0ssgw",
-      "viewsPerHour": 14,
+      "viewsPerHour": 13,
       "views": 256,
-      "ageHours": 17.7
+      "ageHours": 19.6
     },
     {
       "title": "Iran war driving up costs and putting seafarers at risk, UN maritime chief warns",
@@ -754,7 +786,7 @@
       "videoId": "TvmH0VaHtZI",
       "viewsPerHour": 0,
       "views": 3,
-      "ageHours": 17.5
+      "ageHours": 19.5
     }
   ]
 }
