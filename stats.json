@@ -1,16 +1,16 @@
 {
   "videosPerChannel": [
     {
+      "channel": "MS NOW",
+      "count": 6
+    },
+    {
       "channel": "The Daily Show",
       "count": 13
     },
     {
       "channel": "PBS NewsHour",
-      "count": 6
-    },
-    {
-      "channel": "MS NOW",
-      "count": 6
+      "count": 8
     },
     {
       "channel": "Louis Rossmann",
@@ -83,16 +83,20 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "MS NOW",
+      "count": 6
+    },
+    {
       "keyword": "The Daily Show",
       "count": 12
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 6
+      "count": 7
     },
     {
-      "keyword": "MS NOW",
-      "count": 6
+      "keyword": "PBS NewsHour, AI, artificial intelligence",
+      "count": 1
     },
     {
       "keyword": "Louis Rossmann",
@@ -218,11 +222,11 @@
   "dailySummary": [
     {
       "date": "2026-07-17",
-      "videos": 2
+      "videos": 5
     },
     {
       "date": "2026-07-16",
-      "videos": 23
+      "videos": 22
     },
     {
       "date": "2026-07-15",
@@ -427,16 +431,20 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "MS NOW",
+      "matches": 6
+    },
+    {
       "keyword": "The Daily Show",
       "matches": 12
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 6
+      "matches": 7
     },
     {
-      "keyword": "MS NOW",
-      "matches": 6
+      "keyword": "PBS NewsHour, AI, artificial intelligence",
+      "matches": 1
     },
     {
       "keyword": "Louis Rossmann",
@@ -452,7 +460,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "NOVA",
@@ -504,257 +512,257 @@
       "title": "Hegseth Announces Testosterone Tests & Vance Fixates on Biden’s Ice Cream Licking | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "orAaK_uaeMU",
-      "viewsPerHour": 74907,
-      "views": 472378,
-      "ageHours": 6.3
+      "viewsPerHour": 63933,
+      "views": 660230,
+      "ageHours": 10.3
     },
     {
       "title": "America Gets Diarrhea, CDC Has No Money to Help & Iran War Budget Explodes | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "uJwjvNYKuyY",
-      "viewsPerHour": 57574,
-      "views": 1744276,
-      "ageHours": 30.3
+      "viewsPerHour": 51636,
+      "views": 1772006,
+      "ageHours": 34.3
+    },
+    {
+      "title": "WATCH: Trump delivers primetime address on election system",
+      "channel": "PBS NewsHour",
+      "videoId": "RMCAWTv0ODg",
+      "viewsPerHour": 47438,
+      "views": 509772,
+      "ageHours": 10.7
     },
     {
       "title": "John Leguizamo on SCOTUS's Birthright Ruling & the Right-Wing Freakout That Ensued | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "CswGvIho7qE",
-      "viewsPerHour": 18960,
-      "views": 395003,
-      "ageHours": 20.8
+      "viewsPerHour": 16711,
+      "views": 415336,
+      "ageHours": 24.9
     },
     {
       "title": "Why Florida Doesn’t Care If You Live Here Anymore",
       "channel": "More Perfect Union",
       "videoId": "tJBcVL4NjN0",
-      "viewsPerHour": 9556,
-      "views": 369246,
-      "ageHours": 38.6
+      "viewsPerHour": 8825,
+      "views": 376471,
+      "ageHours": 42.7
+    },
+    {
+      "title": "PBS News Hour full episode, July 16, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "Xnqch69CELE",
+      "viewsPerHour": 6395,
+      "views": 79129,
+      "ageHours": 12.4
+    },
+    {
+      "title": "Trump's primetime speech: 'exaggerated claims' and 'conspiracy theories'",
+      "channel": "MS NOW",
+      "videoId": "6lj24Ggo8IY",
+      "viewsPerHour": 3317,
+      "views": 7810,
+      "ageHours": 2.4
     },
     {
       "title": "A Man-Eating Tiger Found In London",
       "channel": "The Rest Is Science",
       "videoId": "igisWKIBEYY",
-      "viewsPerHour": 3293,
-      "views": 109366,
-      "ageHours": 33.2
-    },
-    {
-      "title": "America's Greatest Moments, Including That Time Lenny Kravitz's Penis Popped Out | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "x-3ZGG4bQKo",
-      "viewsPerHour": 3286,
-      "views": 147332,
-      "ageHours": 44.8
+      "viewsPerHour": 3047,
+      "views": 113440,
+      "ageHours": 37.2
     },
     {
       "title": "Jake Johnson - “The Dink” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "XXYlrpOAvU0",
-      "viewsPerHour": 2891,
-      "views": 13870,
-      "ageHours": 4.8
+      "viewsPerHour": 2366,
+      "views": 20865,
+      "ageHours": 8.8
+    },
+    {
+      "title": "‘DEMENTED’: MS NOW hosts react to Trump’s election security speech ahead of midterms | COMPILATION",
+      "channel": "MS NOW",
+      "videoId": "O4JCMIj9DKs",
+      "viewsPerHour": 2139,
+      "views": 4069,
+      "ageHours": 1.9
     },
     {
       "title": "Molly Shannon - Learning Resilience & Collaborating with Will Ferrell on “The Hawk” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "0m60D7oEV_s",
-      "viewsPerHour": 2019,
-      "views": 58153,
-      "ageHours": 28.8
-    },
-    {
-      "title": "Louis Therous Meets America's Most Hated Family",
-      "channel": "Real Stories",
-      "videoId": "XMMgxbLfDfY",
-      "viewsPerHour": 1975,
-      "views": 27235,
-      "ageHours": 13.8
-    },
-    {
-      "title": "Chat Control wins in Europe: you don't hate your government enough",
-      "channel": "Louis Rossmann",
-      "videoId": "nRqqihy7l10",
-      "viewsPerHour": 1903,
-      "views": 63129,
-      "ageHours": 33.2
+      "viewsPerHour": 1808,
+      "views": 59318,
+      "ageHours": 32.8
     },
     {
       "title": "What the Laser Beams Revealed (S7) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "jEc9F5NMIew",
-      "viewsPerHour": 1900,
-      "views": 72767,
-      "ageHours": 38.3
+      "viewsPerHour": 1748,
+      "views": 73971,
+      "ageHours": 42.3
+    },
+    {
+      "title": "Chat Control wins in Europe: you don't hate your government enough",
+      "channel": "Louis Rossmann",
+      "videoId": "nRqqihy7l10",
+      "viewsPerHour": 1697,
+      "views": 63129,
+      "ageHours": 37.2
+    },
+    {
+      "title": "Louis Therous Meets America's Most Hated Family",
+      "channel": "Real Stories",
+      "videoId": "XMMgxbLfDfY",
+      "viewsPerHour": 1650,
+      "views": 29388,
+      "ageHours": 17.8
     },
     {
       "title": "S9 E5: England's Royal Tour & Harm Reduction: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "kGbY6db4cjw",
-      "viewsPerHour": 1641,
-      "views": 26741,
-      "ageHours": 16.3
+      "viewsPerHour": 1484,
+      "views": 30141,
+      "ageHours": 20.3
     },
     {
       "title": "S9 E4: \"Don't Say Gay\" Bill & Event Tickets: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "r6BR0Nk6lIM",
-      "viewsPerHour": 1140,
-      "views": 45934,
-      "ageHours": 40.3
+      "viewsPerHour": 1087,
+      "views": 48176,
+      "ageHours": 44.3
     },
     {
       "title": "Viewer visits WeRecoverData Location in Utah: do we find a lab?",
       "channel": "Louis Rossmann",
       "videoId": "rNBvFGVIWlg",
-      "viewsPerHour": 1028,
+      "viewsPerHour": 908,
       "views": 31098,
-      "ageHours": 30.2
+      "ageHours": 34.3
     },
     {
       "title": "Conan Unboxes \"Toy Story 5\" Merch | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "zZ6CMVt-lGM",
-      "viewsPerHour": 999,
+      "viewsPerHour": 834,
       "views": 20280,
-      "ageHours": 20.3
+      "ageHours": 24.3
     },
     {
       "title": "Panera Bread enshittifies like a SaaS company; changes terms of the deal, no refunds, can't sue!",
       "channel": "Louis Rossmann",
       "videoId": "wdzGSZBbMZ0",
-      "viewsPerHour": 942,
+      "viewsPerHour": 679,
       "views": 9800,
-      "ageHours": 10.4
+      "ageHours": 14.4
     },
     {
       "title": "BECUCKED to Donald Trump': Nicolle and Alex BLAST the stooges DEBASING themselves to protect Trump",
       "channel": "MS NOW",
       "videoId": "kkDxsrq5kFY",
-      "viewsPerHour": 938,
+      "viewsPerHour": 675,
       "views": 9696,
-      "ageHours": 10.3
+      "ageHours": 14.4
     },
     {
       "title": "Amazon FireTV adds ads to homescreen that can't be taken offline 🤦‍♂️",
       "channel": "Louis Rossmann",
       "videoId": "0KKB_vxCmWY",
-      "viewsPerHour": 715,
+      "viewsPerHour": 575,
       "views": 11777,
-      "ageHours": 16.5
-    },
-    {
-      "title": "They don't want to appear weak': Trump at odds with his own DHS after deadly ICE shootings",
-      "channel": "MS NOW",
-      "videoId": "G3epSCGiAjs",
-      "viewsPerHour": 537,
-      "views": 14562,
-      "ageHours": 27.1
+      "ageHours": 20.5
     },
     {
       "title": "Epstein survivor: 'We know that there are names in the files that were covered up' by Blanche",
       "channel": "MS NOW",
       "videoId": "FLk2XLe4oM8",
-      "viewsPerHour": 398,
+      "viewsPerHour": 317,
       "views": 6283,
-      "ageHours": 15.8
+      "ageHours": 19.8
     },
     {
       "title": "PBS News Hour live episode, July 16, 2026",
       "channel": "PBS NewsHour",
       "videoId": "k0Tm_CvYOUQ",
-      "viewsPerHour": 397,
+      "viewsPerHour": 288,
       "views": 4223,
-      "ageHours": 10.6
+      "ageHours": 14.7
     },
     {
       "title": "WATCH LIVE: Vought testifies on Consumer Financial Protection Bureau in Senate hearing",
       "channel": "PBS NewsHour",
       "videoId": "Kjccjx5wXeM",
-      "viewsPerHour": 189,
+      "viewsPerHour": 151,
       "views": 3054,
-      "ageHours": 16.2
-    },
-    {
-      "title": "WATCH: Jennifer Bos makes opening statement in Blanche confirmation hearing",
-      "channel": "PBS NewsHour",
-      "videoId": "Abla1LIRZ9A",
-      "viewsPerHour": 108,
-      "views": 1738,
-      "ageHours": 16.1
+      "ageHours": 20.2
     },
     {
       "title": "Interview: Good Anxiety, Exercise, and Connection on the Brain | Particles of Thought",
       "channel": "NOVA",
       "videoId": "0mHYMnSqI7c",
-      "viewsPerHour": 103,
-      "views": 2299,
-      "ageHours": 22.3
+      "viewsPerHour": 92,
+      "views": 2421,
+      "ageHours": 26.3
+    },
+    {
+      "title": "WATCH: Jennifer Bos makes opening statement in Blanche confirmation hearing",
+      "channel": "PBS NewsHour",
+      "videoId": "Abla1LIRZ9A",
+      "viewsPerHour": 86,
+      "views": 1738,
+      "ageHours": 20.1
     },
     {
       "title": "Effort to cherry pick classified info': Fmr. U.S. attorney on Trump's speech",
       "channel": "MS NOW",
       "videoId": "RByDFqn1YX4",
-      "viewsPerHour": 99,
+      "viewsPerHour": 79,
       "views": 1554,
-      "ageHours": 15.8
+      "ageHours": 19.8
     },
     {
       "title": "WATCH LIVE: House considers Take Care of America's Veterans Act",
       "channel": "PBS NewsHour",
       "videoId": "tjxuK9gzR-g",
-      "viewsPerHour": 74,
+      "viewsPerHour": 59,
       "views": 1178,
-      "ageHours": 15.9
-    },
-    {
-      "title": "Maria Sharapova (Full Episode) | Where Everybody Knows Your Name",
-      "channel": "Conan O'Brien",
-      "videoId": "tnoW45SGUL4",
-      "viewsPerHour": 70,
-      "views": 3079,
-      "ageHours": 44.3
+      "ageHours": 19.9
     },
     {
       "title": "Adam Sandler's Unbelievable Experience In Africa | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "i4szmN3PXCE",
-      "viewsPerHour": 58,
+      "viewsPerHour": 47,
       "views": 1002,
-      "ageHours": 17.3
+      "ageHours": 21.3
     },
     {
       "title": "Fmr. Border Patrol agent: ICE using 'aggressive use of force' in instances it's not necessary",
       "channel": "MS NOW",
       "videoId": "sn0GlU3Lh1Y",
-      "viewsPerHour": 41,
+      "viewsPerHour": 32,
       "views": 642,
-      "ageHours": 15.8
+      "ageHours": 19.8
     },
     {
       "title": "Mick Jagger: America Wasn't Ready For The Rolling Stones In The '60s | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "thHi0lp16KQ",
-      "viewsPerHour": 29,
+      "viewsPerHour": 27,
       "views": 1215,
-      "ageHours": 41.3
+      "ageHours": 45.3
     },
     {
       "title": "The health risks of wildfire smoke across the Midwest and Mid-Atlantic",
       "channel": "PBS NewsHour",
       "videoId": "UloYfl0ssgw",
-      "viewsPerHour": 27,
+      "viewsPerHour": 19,
       "views": 256,
-      "ageHours": 9.6
-    },
-    {
-      "title": "Senate GRILLS Trump nominees over election and Epstein files",
-      "channel": "MS NOW",
-      "videoId": "M2z3D9uh24U",
-      "viewsPerHour": 15,
-      "views": 315,
-      "ageHours": 21.7
+      "ageHours": 13.7
     },
     {
       "title": "Iran war driving up costs and putting seafarers at risk, UN maritime chief warns",
@@ -762,7 +770,7 @@
       "videoId": "TvmH0VaHtZI",
       "viewsPerHour": 0,
       "views": 3,
-      "ageHours": 9.5
+      "ageHours": 13.5
     }
   ]
 }
