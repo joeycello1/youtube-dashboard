@@ -472,7 +472,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "matches": 13
+      "matches": 12
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -488,7 +488,7 @@
     },
     {
       "keyword": "Real Stories",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "AI, UAP, UFO",
@@ -501,10 +501,6 @@
     {
       "keyword": "Jonathan Pie",
       "matches": 1
-    },
-    {
-      "keyword": "The Interview",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -512,281 +508,257 @@
       "title": "Hegseth Announces Testosterone Tests & Vance Fixates on Biden’s Ice Cream Licking | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "orAaK_uaeMU",
-      "viewsPerHour": 36584,
-      "views": 1257010,
-      "ageHours": 34.4
+      "viewsPerHour": 33496,
+      "views": 1284140,
+      "ageHours": 38.3
     },
     {
       "title": "Sports War: Norway Fan Hates Rowing & Team Senegal Gets a Gyno in Men's World Cup | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "j2jMAHwyD5o",
-      "viewsPerHour": 17804,
-      "views": 443664,
-      "ageHours": 24.9
+      "viewsPerHour": 16063,
+      "views": 464173,
+      "ageHours": 28.9
     },
     {
       "title": "The Richest Town In America Has A Secret",
       "channel": "More Perfect Union",
       "videoId": "QGSn0AC3-ok",
-      "viewsPerHour": 16343,
-      "views": 323020,
-      "ageHours": 19.8
+      "viewsPerHour": 15339,
+      "views": 364175,
+      "ageHours": 23.7
     },
     {
       "title": "‘EVERYONE in America needs to see this’: Nicolle on Trump advisor’s STUNNING election confession",
       "channel": "MS NOW",
       "videoId": "8UDROe4Y9Xg",
-      "viewsPerHour": 4705,
+      "viewsPerHour": 3703,
       "views": 69153,
-      "ageHours": 14.7
-    },
-    {
-      "title": "Trump's dud election speech BACKFIRES; document dump accidentally contradicts his complaint",
-      "channel": "MS NOW",
-      "videoId": "ncwVUGGJ2XA",
-      "viewsPerHour": 3373,
-      "views": 29539,
-      "ageHours": 8.8
+      "ageHours": 18.7
     },
     {
       "title": "The Most Exciting Discoveries | The Curse of Oak Island",
       "channel": "History",
       "videoId": "KIzXWal_6Jk",
-      "viewsPerHour": 3274,
-      "views": 66605,
-      "ageHours": 20.3
+      "viewsPerHour": 2978,
+      "views": 72430,
+      "ageHours": 24.3
     },
     {
       "title": "PBS News Hour full episode, July 17, 2026",
       "channel": "PBS NewsHour",
       "videoId": "D3vIZsP55pY",
-      "viewsPerHour": 3267,
+      "viewsPerHour": 2498,
       "views": 42232,
-      "ageHours": 12.9
+      "ageHours": 16.9
+    },
+    {
+      "title": "Trump's dud election speech BACKFIRES; document dump accidentally contradicts his complaint",
+      "channel": "MS NOW",
+      "videoId": "ncwVUGGJ2XA",
+      "viewsPerHour": 2319,
+      "views": 29539,
+      "ageHours": 12.7
     },
     {
       "title": "This is even worse than saying I'm sponsored by ground news...",
       "channel": "Louis Rossmann",
       "videoId": "3JbQhcTF7Uk",
-      "viewsPerHour": 2031,
+      "viewsPerHour": 1662,
       "views": 36382,
-      "ageHours": 17.9
+      "ageHours": 21.9
     },
     {
       "title": "U.S. Officials Meet Over Disturbing Paranormal Activity (S4) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "l7n_DIKV6YI",
-      "viewsPerHour": 1699,
-      "views": 29470,
-      "ageHours": 17.3
-    },
-    {
-      "title": "Man arrested for speaking 30 seconds over at datacenter hearing in Claremore Oklahoma",
-      "channel": "Louis Rossmann",
-      "videoId": "FUv85cbn-pA",
-      "viewsPerHour": 1487,
-      "views": 23110,
-      "ageHours": 15.5
+      "viewsPerHour": 1498,
+      "views": 31951,
+      "ageHours": 21.3
     },
     {
       "title": "Jake Johnson - “The Dink” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "XXYlrpOAvU0",
-      "viewsPerHour": 1302,
-      "views": 42760,
-      "ageHours": 32.9
+      "viewsPerHour": 1196,
+      "views": 44035,
+      "ageHours": 36.8
+    },
+    {
+      "title": "Man arrested for speaking 30 seconds over at datacenter hearing in Claremore Oklahoma",
+      "channel": "Louis Rossmann",
+      "videoId": "FUv85cbn-pA",
+      "viewsPerHour": 1184,
+      "views": 23110,
+      "ageHours": 19.5
     },
     {
       "title": "Louis Therous Meets America's Most Hated Family",
       "channel": "Real Stories",
       "videoId": "XMMgxbLfDfY",
-      "viewsPerHour": 1145,
-      "views": 47903,
-      "ageHours": 41.8
-    },
-    {
-      "title": "Cruelty is the only explanation': Congressional candidate BLASTS Trump’s family separation policy",
-      "channel": "MS NOW",
-      "videoId": "LsvvpX2E8IE",
-      "viewsPerHour": 900,
-      "views": 6649,
-      "ageHours": 7.4
-    },
-    {
-      "title": "S9 E5: England's Royal Tour & Harm Reduction: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "kGbY6db4cjw",
-      "viewsPerHour": 874,
-      "views": 38780,
-      "ageHours": 44.3
+      "viewsPerHour": 1071,
+      "views": 49090,
+      "ageHours": 45.8
     },
     {
       "title": "S9 E6: Madison Cawthorn & Trucks: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "HooV1HF49P0",
-      "viewsPerHour": 861,
-      "views": 17504,
-      "ageHours": 20.3
+      "viewsPerHour": 832,
+      "views": 20237,
+      "ageHours": 24.3
     },
     {
       "title": "What if Dark Matter is Tiny Black Holes? | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "URp973o8Sg8",
-      "viewsPerHour": 752,
-      "views": 14689,
-      "ageHours": 19.5
+      "viewsPerHour": 703,
+      "views": 16522,
+      "ageHours": 23.5
     },
     {
       "title": "Hard Way or Easy Way? Are UAPs Trying to Warn us?",
       "channel": "Chris Lehto",
       "videoId": "D8meKnsITO0",
-      "viewsPerHour": 706,
-      "views": 10832,
-      "ageHours": 15.3
+      "viewsPerHour": 635,
+      "views": 12276,
+      "ageHours": 19.3
+    },
+    {
+      "title": "Cruelty is the only explanation': Congressional candidate BLASTS Trump’s family separation policy",
+      "channel": "MS NOW",
+      "videoId": "LsvvpX2E8IE",
+      "viewsPerHour": 585,
+      "views": 6649,
+      "ageHours": 11.4
     },
     {
       "title": "‘Condescending and PATRONIZING’: Epstein survivor TELLS ALL on Todd Blanche behavior during meeting",
       "channel": "MS NOW",
       "videoId": "5bE3TNCP4xM",
-      "viewsPerHour": 587,
+      "viewsPerHour": 460,
       "views": 8515,
-      "ageHours": 14.5
-    },
-    {
-      "title": "CREATIVE CORRUPTION: Trump still surprises with sketchy schemes",
-      "channel": "MS NOW",
-      "videoId": "xIdjXJGokE8",
-      "viewsPerHour": 297,
-      "views": 2436,
-      "ageHours": 8.2
-    },
-    {
-      "title": "PBS News Hour live episode, July 17, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "XWKjKs1gHHg",
-      "viewsPerHour": 282,
-      "views": 4303,
-      "ageHours": 15.3
-    },
-    {
-      "title": "WATCH: Sen. Durbin pushes Blanche to commit to meeting with Epstein survivors",
-      "channel": "PBS NewsHour",
-      "videoId": "6qZ8W-ubSPc",
-      "viewsPerHour": 267,
-      "views": 5875,
-      "ageHours": 22
-    },
-    {
-      "title": "Amazon FireTV adds ads to homescreen that can't be taken offline 🤦‍♂️",
-      "channel": "Louis Rossmann",
-      "videoId": "0KKB_vxCmWY",
-      "viewsPerHour": 264,
-      "views": 11777,
-      "ageHours": 44.5
-    },
-    {
-      "title": "How the Mariupol theater strike exposed Russia’s brutality in Ukraine",
-      "channel": "PBS NewsHour",
-      "videoId": "9Fe-Xgop1u8",
-      "viewsPerHour": 258,
-      "views": 3328,
-      "ageHours": 12.9
+      "ageHours": 18.5
     },
     {
       "title": "Panera Bread enshittifies like a SaaS company; changes terms of the deal, no refunds, can't sue!",
       "channel": "Louis Rossmann",
       "videoId": "wdzGSZBbMZ0",
-      "viewsPerHour": 255,
+      "viewsPerHour": 231,
       "views": 9800,
-      "ageHours": 38.5
+      "ageHours": 42.4
+    },
+    {
+      "title": "WATCH: Sen. Durbin pushes Blanche to commit to meeting with Epstein survivors",
+      "channel": "PBS NewsHour",
+      "videoId": "6qZ8W-ubSPc",
+      "viewsPerHour": 226,
+      "views": 5875,
+      "ageHours": 26
+    },
+    {
+      "title": "PBS News Hour live episode, July 17, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "XWKjKs1gHHg",
+      "viewsPerHour": 224,
+      "views": 4303,
+      "ageHours": 19.2
     },
     {
       "title": "WATCH LIVE: Mullin holds news conference on election security after Trump's address to the nation",
       "channel": "PBS NewsHour",
       "videoId": "37rA0AqVybU",
-      "viewsPerHour": 247,
+      "viewsPerHour": 207,
       "views": 5131,
-      "ageHours": 20.8
+      "ageHours": 24.8
+    },
+    {
+      "title": "CREATIVE CORRUPTION: Trump still surprises with sketchy schemes",
+      "channel": "MS NOW",
+      "videoId": "xIdjXJGokE8",
+      "viewsPerHour": 200,
+      "views": 2436,
+      "ageHours": 12.2
+    },
+    {
+      "title": "How the Mariupol theater strike exposed Russia’s brutality in Ukraine",
+      "channel": "PBS NewsHour",
+      "videoId": "9Fe-Xgop1u8",
+      "viewsPerHour": 197,
+      "views": 3328,
+      "ageHours": 16.9
     },
     {
       "title": "This one is a DOOZY': Nicolle shines light on Trump's latest BOMBSHELL self-enrichment plot",
       "channel": "MS NOW",
       "videoId": "bz0dkL_gk0Y",
-      "viewsPerHour": 168,
+      "viewsPerHour": 130,
       "views": 2298,
-      "ageHours": 13.7
-    },
-    {
-      "title": "The Last Word with Lawrence O'Donnell - July 17 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "bl8ywsL1Rz4",
-      "viewsPerHour": 109,
-      "views": 863,
-      "ageHours": 7.9
+      "ageHours": 17.7
     },
     {
       "title": "Trump 'shot himself in the foot' by contradicting docs he released: Fmr. Trump DHS official",
       "channel": "MS NOW",
       "videoId": "H61_tC1s1g4",
-      "viewsPerHour": 98,
+      "viewsPerHour": 81,
       "views": 1922,
-      "ageHours": 19.6
+      "ageHours": 23.6
+    },
+    {
+      "title": "The Last Word with Lawrence O'Donnell - July 17 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "bl8ywsL1Rz4",
+      "viewsPerHour": 73,
+      "views": 863,
+      "ageHours": 11.9
     },
     {
       "title": "Timothy Olyphant Requested A Butt Double For His Role In “Stick” | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ohQhKc9SEHY",
-      "viewsPerHour": 83,
+      "viewsPerHour": 70,
       "views": 1782,
-      "ageHours": 21.3
+      "ageHours": 25.3
     },
     {
       "title": "RAGE TAKES | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "LpO_8YE_91s",
-      "viewsPerHour": 80,
+      "viewsPerHour": 69,
       "views": 1954,
-      "ageHours": 24.3
+      "ageHours": 28.3
     },
     {
       "title": "News Wrap: Smoke from wildfires leads to unsafe air quality in U.S.",
       "channel": "PBS NewsHour",
       "videoId": "H114Mx3_SGY",
-      "viewsPerHour": 37,
+      "viewsPerHour": 29,
       "views": 504,
-      "ageHours": 13.7
-    },
-    {
-      "title": "Adam Sandler's Unbelievable Experience In Africa | CONAN on TBS",
-      "channel": "Conan O'Brien",
-      "videoId": "i4szmN3PXCE",
-      "viewsPerHour": 22,
-      "views": 1002,
-      "ageHours": 45.3
+      "ageHours": 17.7
     },
     {
       "title": "Battleground state election officials respond to Trump's efforts to reshape voting process",
       "channel": "PBS NewsHour",
       "videoId": "Llp5Oub8Og8",
-      "viewsPerHour": 19,
+      "viewsPerHour": 15,
       "views": 260,
-      "ageHours": 13.8
+      "ageHours": 17.8
     },
     {
       "title": "WATCH: Mullin says he will enforce the law when it comes to ICE officers who violate rules",
       "channel": "PBS NewsHour",
       "videoId": "pF1peCRECTU",
-      "viewsPerHour": 15,
+      "viewsPerHour": 13,
       "views": 315,
-      "ageHours": 20.4
+      "ageHours": 24.4
     },
     {
       "title": "Trump admin going to try 'everything they can to get in the way' of midterms: WI Gov. candidate",
       "channel": "MS NOW",
       "videoId": "GEb_zCQr5jw",
-      "viewsPerHour": 7,
+      "viewsPerHour": 6,
       "views": 132,
-      "ageHours": 19.6
+      "ageHours": 23.6
     },
     {
       "title": "Lindsey Graham's sudden passing leaves GOP field open in SC Senate race",
@@ -794,7 +766,7 @@
       "videoId": "kSP4JFimh_Y",
       "viewsPerHour": 5,
       "views": 107,
-      "ageHours": 19.6
+      "ageHours": 23.6
     }
   ]
 }
