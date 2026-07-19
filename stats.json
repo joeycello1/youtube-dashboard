@@ -2,19 +2,19 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 6
+      "count": 4
+    },
+    {
+      "channel": "History",
+      "count": 11
     },
     {
       "channel": "Real Stories",
       "count": 34
     },
     {
-      "channel": "History",
-      "count": 10
-    },
-    {
       "channel": "Louis Rossmann",
-      "count": 27
+      "count": 26
     },
     {
       "channel": "Last Week Tonight",
@@ -27,10 +27,6 @@
     {
       "channel": "The Interview",
       "count": 8
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 2
     },
     {
       "channel": "Chris Lehto",
@@ -80,7 +76,11 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 4
+    },
+    {
+      "keyword": "NOVA",
+      "count": 14
     },
     {
       "keyword": "Real Stories",
@@ -92,7 +92,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 26
+      "count": 25
     },
     {
       "keyword": "Last Week Tonight",
@@ -107,16 +107,8 @@
       "count": 7
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 2
-    },
-    {
       "keyword": "UAP",
       "count": 2
-    },
-    {
-      "keyword": "NOVA",
-      "count": 13
     },
     {
       "keyword": "More Perfect Union",
@@ -201,12 +193,16 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-07-19",
+      "videos": 2
+    },
+    {
       "date": "2026-07-18",
-      "videos": 13
+      "videos": 10
     },
     {
       "date": "2026-07-17",
-      "videos": 15
+      "videos": 13
     },
     {
       "date": "2026-07-16",
@@ -258,7 +254,7 @@
     },
     {
       "date": "2026-07-04",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-07-03",
@@ -416,7 +412,11 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 4
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 4
     },
     {
       "keyword": "Real Stories",
@@ -443,16 +443,8 @@
       "matches": 1
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 2
-    },
-    {
       "keyword": "UAP",
       "matches": 1
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 3
     },
     {
       "keyword": "More Perfect Union",
@@ -492,209 +484,185 @@
       "title": "Jon on America's Gerontocracy Crisis & Kosta on Explosive Diarrhea Sweeping U.S. | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "RMx77Xvz6qY",
-      "viewsPerHour": 19596,
-      "views": 299758,
-      "ageHours": 15.3
+      "viewsPerHour": 20368,
+      "views": 352205,
+      "ageHours": 17.3
     },
     {
       "title": "The Richest Town In America Has A Secret",
       "channel": "More Perfect Union",
       "videoId": "QGSn0AC3-ok",
-      "viewsPerHour": 15425,
-      "views": 550888,
-      "ageHours": 35.7
+      "viewsPerHour": 15005,
+      "views": 565815,
+      "ageHours": 37.7
     },
     {
       "title": "Sports War: Norway Fan Hates Rowing & Team Senegal Gets a Gyno in Men's World Cup | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "j2jMAHwyD5o",
-      "viewsPerHour": 12296,
-      "views": 502497,
-      "ageHours": 40.9
+      "viewsPerHour": 11904,
+      "views": 510252,
+      "ageHours": 42.9
     },
     {
       "title": "Zohran Mamdani Knows He Has Political Capital. He Intends to Spend It. | The Interview",
       "channel": "The Interview",
       "videoId": "6nbzdlgNyV0",
-      "viewsPerHour": 7153,
-      "views": 111179,
-      "ageHours": 15.5
+      "viewsPerHour": 6922,
+      "views": 121385,
+      "ageHours": 17.5
+    },
+    {
+      "title": "DEMORALIZING' Watch Epstein survivors UNLEASH on Todd Blanche after rushed meeting | COMPILATION",
+      "channel": "MS NOW",
+      "videoId": "C1B9CXUY6UQ",
+      "viewsPerHour": 3388,
+      "views": 21287,
+      "ageHours": 6.3
     },
     {
       "title": "What's Hovering Over the Triangle? (S7) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "2ztox3UFIpY",
-      "viewsPerHour": 2835,
-      "views": 29193,
-      "ageHours": 10.3
+      "viewsPerHour": 2748,
+      "views": 33779,
+      "ageHours": 12.3
     },
     {
       "title": "The Most Exciting Discoveries | The Curse of Oak Island",
       "channel": "History",
       "videoId": "KIzXWal_6Jk",
-      "viewsPerHour": 2722,
-      "views": 98804,
-      "ageHours": 36.3
+      "viewsPerHour": 2636,
+      "views": 100933,
+      "ageHours": 38.3
     },
     {
       "title": "Company kills pipe-leak sensors 1 YEAR early 🤦",
       "channel": "Louis Rossmann",
       "videoId": "gna-3yRvieg",
-      "viewsPerHour": 2511,
+      "viewsPerHour": 2130,
       "views": 28042,
-      "ageHours": 11.2
+      "ageHours": 13.2
     },
     {
-      "title": "PBS News Hour full episode, July 17, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "D3vIZsP55pY",
-      "viewsPerHour": 1463,
-      "views": 42232,
-      "ageHours": 28.9
+      "title": "What Lies Beneath the Swamp? (S2, E4) | The Curse of Oak Island | Full Episode",
+      "channel": "History",
+      "videoId": "SW2GnVocZVY",
+      "viewsPerHour": 1304,
+      "views": 8201,
+      "ageHours": 6.3
     },
     {
       "title": "S9 E7: Russian State TV & Data Brokers: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "Wapyt_Gi_8E",
-      "viewsPerHour": 1310,
-      "views": 16109,
-      "ageHours": 12.3
-    },
-    {
-      "title": "Trump's dud election speech BACKFIRES; document dump accidentally contradicts his complaint",
-      "channel": "MS NOW",
-      "videoId": "ncwVUGGJ2XA",
-      "viewsPerHour": 1196,
-      "views": 29539,
-      "ageHours": 24.7
-    },
-    {
-      "title": "WH official admitting no evidence for Trump’s 2020 elex claims ‘speaks volumes’: Intel analyst",
-      "channel": "MS NOW",
-      "videoId": "JCu6lqwe0n4",
-      "viewsPerHour": 1173,
-      "views": 8286,
-      "ageHours": 7.1
-    },
-    {
-      "title": "Rep. Stansbury urges Congress to ‘STEP IN AT THIS MOMENT’ of escalation in the Iran war",
-      "channel": "MS NOW",
-      "videoId": "tWvPHVPdP4U",
-      "viewsPerHour": 1157,
-      "views": 8650,
-      "ageHours": 7.5
+      "viewsPerHour": 1215,
+      "views": 17363,
+      "ageHours": 14.3
     },
     {
       "title": "U.S. Officials Meet Over Disturbing Paranormal Activity (S4) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "l7n_DIKV6YI",
-      "viewsPerHour": 1145,
-      "views": 38133,
-      "ageHours": 33.3
+      "viewsPerHour": 1098,
+      "views": 38764,
+      "ageHours": 35.3
     },
     {
       "title": "This is even worse than saying I'm sponsored by ground news...",
       "channel": "Louis Rossmann",
       "videoId": "3JbQhcTF7Uk",
-      "viewsPerHour": 1074,
+      "viewsPerHour": 1015,
       "views": 36382,
-      "ageHours": 33.9
+      "ageHours": 35.9
+    },
+    {
+      "title": "WH official admitting no evidence for Trump’s 2020 elex claims ‘speaks volumes’: Intel analyst",
+      "channel": "MS NOW",
+      "videoId": "JCu6lqwe0n4",
+      "viewsPerHour": 915,
+      "views": 8286,
+      "ageHours": 9.1
+    },
+    {
+      "title": "Rep. Stansbury urges Congress to ‘STEP IN AT THIS MOMENT’ of escalation in the Iran war",
+      "channel": "MS NOW",
+      "videoId": "tWvPHVPdP4U",
+      "viewsPerHour": 913,
+      "views": 8650,
+      "ageHours": 9.5
     },
     {
       "title": "Man arrested for speaking 30 seconds over at datacenter hearing in Claremore Oklahoma",
       "channel": "Louis Rossmann",
       "videoId": "FUv85cbn-pA",
-      "viewsPerHour": 734,
+      "viewsPerHour": 690,
       "views": 23110,
-      "ageHours": 31.5
+      "ageHours": 33.5
     },
     {
       "title": "S9 E6: Madison Cawthorn & Trucks: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "HooV1HF49P0",
-      "viewsPerHour": 652,
-      "views": 23665,
-      "ageHours": 36.3
-    },
-    {
-      "title": "@collectionmaster visits WeRecoverData's Minneapolis office - WHAT DOES HE FIND?",
-      "channel": "Louis Rossmann",
-      "videoId": "QkvEPhPtDUI",
-      "viewsPerHour": 621,
-      "views": 8874,
-      "ageHours": 14.3
+      "viewsPerHour": 622,
+      "views": 23829,
+      "ageHours": 38.3
     },
     {
       "title": "What if Dark Matter is Tiny Black Holes? | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "URp973o8Sg8",
-      "viewsPerHour": 601,
-      "views": 21324,
-      "ageHours": 35.5
+      "viewsPerHour": 598,
+      "views": 22392,
+      "ageHours": 37.5
+    },
+    {
+      "title": "@collectionmaster visits WeRecoverData's Minneapolis office - WHAT DOES HE FIND?",
+      "channel": "Louis Rossmann",
+      "videoId": "QkvEPhPtDUI",
+      "viewsPerHour": 545,
+      "views": 8874,
+      "ageHours": 16.3
     },
     {
       "title": "Hard Way or Easy Way? Are UAPs Trying to Warn us?",
       "channel": "Chris Lehto",
       "videoId": "D8meKnsITO0",
-      "viewsPerHour": 452,
-      "views": 14137,
-      "ageHours": 31.3
+      "viewsPerHour": 432,
+      "views": 14372,
+      "ageHours": 33.3
     },
     {
       "title": "Cruelty is the only explanation': Congressional candidate BLASTS Trump’s family separation policy",
       "channel": "MS NOW",
       "videoId": "LsvvpX2E8IE",
-      "viewsPerHour": 285,
+      "viewsPerHour": 263,
       "views": 6649,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "Russell King: The Fake Billionaire Pulled Off The World's Biggest Ever Sports Scam",
       "channel": "Real Stories",
       "videoId": "3QLOxxg8jjc",
-      "viewsPerHour": 161,
-      "views": 1580,
-      "ageHours": 9.8
-    },
-    {
-      "title": "How the Mariupol theater strike exposed Russia’s brutality in Ukraine",
-      "channel": "PBS NewsHour",
-      "videoId": "9Fe-Xgop1u8",
-      "viewsPerHour": 115,
-      "views": 3328,
-      "ageHours": 28.8
-    },
-    {
-      "title": "CREATIVE CORRUPTION: Trump still surprises with sketchy schemes",
-      "channel": "MS NOW",
-      "videoId": "xIdjXJGokE8",
-      "viewsPerHour": 101,
-      "views": 2436,
-      "ageHours": 24.2
+      "viewsPerHour": 157,
+      "views": 1851,
+      "ageHours": 11.8
     },
     {
       "title": "RAGE TAKES | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "LpO_8YE_91s",
-      "viewsPerHour": 48,
+      "viewsPerHour": 46,
       "views": 1954,
-      "ageHours": 40.3
+      "ageHours": 42.3
     },
     {
       "title": "Timothy Olyphant Requested A Butt Double For His Role In “Stick” | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ohQhKc9SEHY",
-      "viewsPerHour": 48,
+      "viewsPerHour": 45,
       "views": 1782,
-      "ageHours": 37.3
-    },
-    {
-      "title": "The Last Word with Lawrence O'Donnell - July 17 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "bl8ywsL1Rz4",
-      "viewsPerHour": 36,
-      "views": 863,
-      "ageHours": 23.9
+      "ageHours": 39.3
     }
   ]
 }
