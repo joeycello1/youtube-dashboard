@@ -1,12 +1,24 @@
 {
   "videosPerChannel": [
     {
-      "channel": "Last Week Tonight",
-      "count": 7
+      "channel": "MS NOW",
+      "count": 6
+    },
+    {
+      "channel": "Real Stories",
+      "count": 34
+    },
+    {
+      "channel": "History",
+      "count": 10
     },
     {
       "channel": "Louis Rossmann",
       "count": 27
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 7
     },
     {
       "channel": "The Daily Show",
@@ -17,20 +29,12 @@
       "count": 8
     },
     {
-      "channel": "MS NOW",
-      "count": 7
-    },
-    {
       "channel": "PBS NewsHour",
-      "count": 5
+      "count": 2
     },
     {
       "channel": "Chris Lehto",
       "count": 4
-    },
-    {
-      "channel": "History",
-      "count": 9
     },
     {
       "channel": "NOVA",
@@ -43,10 +47,6 @@
     {
       "channel": "Conan O'Brien",
       "count": 11
-    },
-    {
-      "channel": "Real Stories",
-      "count": 33
     },
     {
       "channel": "The Rest Is Science",
@@ -73,22 +73,30 @@
       "count": 1
     },
     {
-      "channel": "Jeremy Corbell",
-      "count": 1
-    },
-    {
       "channel": "Inside AI",
       "count": 2
     }
   ],
   "keywordFrequency": [
     {
-      "keyword": "Last Week Tonight",
-      "count": 7
+      "keyword": "MS NOW",
+      "count": 6
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 19
+    },
+    {
+      "keyword": "UFO",
+      "count": 12
     },
     {
       "keyword": "Louis Rossmann",
       "count": 26
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 7
     },
     {
       "keyword": "The Daily Show",
@@ -99,24 +107,12 @@
       "count": 7
     },
     {
-      "keyword": "MS NOW",
-      "count": 7
-    },
-    {
       "keyword": "PBS NewsHour",
-      "count": 4
-    },
-    {
-      "keyword": "PBS NewsHour, Associated Press",
-      "count": 1
+      "count": 2
     },
     {
       "keyword": "UAP",
       "count": 2
-    },
-    {
-      "keyword": "UFO",
-      "count": 11
     },
     {
       "keyword": "NOVA",
@@ -141,10 +137,6 @@
     {
       "keyword": "UFO, UAP",
       "count": 2
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 18
     },
     {
       "keyword": "AI, UAP, UFO",
@@ -195,10 +187,6 @@
       "count": 1
     },
     {
-      "keyword": "Corbell, George Knapp",
-      "count": 1
-    },
-    {
       "keyword": "testimony, UFO, Giza",
       "count": 1
     },
@@ -214,11 +202,11 @@
   "dailySummary": [
     {
       "date": "2026-07-18",
-      "videos": 8
+      "videos": 13
     },
     {
       "date": "2026-07-17",
-      "videos": 21
+      "videos": 15
     },
     {
       "date": "2026-07-16",
@@ -274,7 +262,7 @@
     },
     {
       "date": "2026-07-03",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-07-02",
@@ -326,7 +314,7 @@
     },
     {
       "date": "2026-06-18",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-06-16",
@@ -427,12 +415,24 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "Last Week Tonight",
-      "matches": 7
+      "keyword": "MS NOW",
+      "matches": 6
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 2
+    },
+    {
+      "keyword": "UFO",
+      "matches": 4
     },
     {
       "keyword": "Louis Rossmann",
-      "matches": 13
+      "matches": 14
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 7
     },
     {
       "keyword": "The Daily Show",
@@ -443,24 +443,12 @@
       "matches": 1
     },
     {
-      "keyword": "MS NOW",
-      "matches": 7
-    },
-    {
       "keyword": "PBS NewsHour",
-      "matches": 4
-    },
-    {
-      "keyword": "PBS NewsHour, Associated Press",
-      "matches": 1
+      "matches": 2
     },
     {
       "keyword": "UAP",
       "matches": 1
-    },
-    {
-      "keyword": "UFO",
-      "matches": 4
     },
     {
       "keyword": "NOVA",
@@ -487,10 +475,6 @@
       "matches": 1
     },
     {
-      "keyword": "Real Stories",
-      "matches": 1
-    },
-    {
       "keyword": "AI, UAP, UFO",
       "matches": 1
     },
@@ -508,233 +492,225 @@
       "title": "Hegseth Announces Testosterone Tests & Vance Fixates on Biden’s Ice Cream Licking | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "orAaK_uaeMU",
-      "viewsPerHour": 29920,
-      "views": 1325645,
-      "ageHours": 44.3
+      "viewsPerHour": 28862,
+      "views": 1336856,
+      "ageHours": 46.3
     },
     {
       "title": "Jon on America's Gerontocracy Crisis & Kosta on Explosive Diarrhea Sweeping U.S. | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "RMx77Xvz6qY",
-      "viewsPerHour": 19024,
-      "views": 176832,
-      "ageHours": 9.3
+      "viewsPerHour": 19223,
+      "views": 217356,
+      "ageHours": 11.3
     },
     {
       "title": "The Richest Town In America Has A Secret",
       "channel": "More Perfect Union",
       "videoId": "QGSn0AC3-ok",
-      "viewsPerHour": 16636,
-      "views": 494288,
-      "ageHours": 29.7
+      "viewsPerHour": 16282,
+      "views": 516525,
+      "ageHours": 31.7
     },
     {
       "title": "Sports War: Norway Fan Hates Rowing & Team Senegal Gets a Gyno in Men's World Cup | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "j2jMAHwyD5o",
-      "viewsPerHour": 13978,
-      "views": 487346,
-      "ageHours": 34.9
+      "viewsPerHour": 13362,
+      "views": 492769,
+      "ageHours": 36.9
     },
     {
       "title": "Zohran Mamdani Knows He Has Political Capital. He Intends to Spend It. | The Interview",
       "channel": "The Interview",
       "videoId": "6nbzdlgNyV0",
-      "viewsPerHour": 7394,
-      "views": 70543,
-      "ageHours": 9.5
+      "viewsPerHour": 7493,
+      "views": 86562,
+      "ageHours": 11.6
+    },
+    {
+      "title": "Company kills pipe-leak sensors 1 YEAR early 🤦",
+      "channel": "Louis Rossmann",
+      "videoId": "gna-3yRvieg",
+      "viewsPerHour": 3907,
+      "views": 28042,
+      "ageHours": 7.2
     },
     {
       "title": "The Most Exciting Discoveries | The Curse of Oak Island",
       "channel": "History",
       "videoId": "KIzXWal_6Jk",
-      "viewsPerHour": 2945,
-      "views": 89196,
-      "ageHours": 30.3
+      "viewsPerHour": 2896,
+      "views": 93549,
+      "ageHours": 32.3
     },
     {
-      "title": "‘EVERYONE in America needs to see this’: Nicolle on Trump advisor’s STUNNING election confession",
+      "title": "What's Hovering Over the Triangle? (S7) | The Secret of Skinwalker Ranch",
+      "channel": "History",
+      "videoId": "2ztox3UFIpY",
+      "viewsPerHour": 2827,
+      "views": 17830,
+      "ageHours": 6.3
+    },
+    {
+      "title": "WH official admitting no evidence for Trump’s 2020 elex claims ‘speaks volumes’: Intel analyst",
       "channel": "MS NOW",
-      "videoId": "8UDROe4Y9Xg",
-      "viewsPerHour": 2806,
-      "views": 69153,
-      "ageHours": 24.6
+      "videoId": "JCu6lqwe0n4",
+      "viewsPerHour": 2695,
+      "views": 8286,
+      "ageHours": 3.1
+    },
+    {
+      "title": "Rep. Stansbury urges Congress to ‘STEP IN AT THIS MOMENT’ of escalation in the Iran war",
+      "channel": "MS NOW",
+      "videoId": "tWvPHVPdP4U",
+      "viewsPerHour": 2480,
+      "views": 8650,
+      "ageHours": 3.5
     },
     {
       "title": "PBS News Hour full episode, July 17, 2026",
       "channel": "PBS NewsHour",
       "videoId": "D3vIZsP55pY",
-      "viewsPerHour": 1846,
+      "viewsPerHour": 1697,
       "views": 42232,
-      "ageHours": 22.9
-    },
-    {
-      "title": "Trump's dud election speech BACKFIRES; document dump accidentally contradicts his complaint",
-      "channel": "MS NOW",
-      "videoId": "ncwVUGGJ2XA",
-      "viewsPerHour": 1579,
-      "views": 29539,
-      "ageHours": 18.7
+      "ageHours": 24.9
     },
     {
       "title": "S9 E7: Russian State TV & Data Brokers: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "Wapyt_Gi_8E",
-      "viewsPerHour": 1484,
-      "views": 9339,
-      "ageHours": 6.3
+      "viewsPerHour": 1491,
+      "views": 12385,
+      "ageHours": 8.3
+    },
+    {
+      "title": "Trump's dud election speech BACKFIRES; document dump accidentally contradicts his complaint",
+      "channel": "MS NOW",
+      "videoId": "ncwVUGGJ2XA",
+      "viewsPerHour": 1426,
+      "views": 29539,
+      "ageHours": 20.7
     },
     {
       "title": "U.S. Officials Meet Over Disturbing Paranormal Activity (S4) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "l7n_DIKV6YI",
-      "viewsPerHour": 1310,
-      "views": 35752,
-      "ageHours": 27.3
+      "viewsPerHour": 1256,
+      "views": 36798,
+      "ageHours": 29.3
     },
     {
       "title": "This is even worse than saying I'm sponsored by ground news...",
       "channel": "Louis Rossmann",
       "videoId": "3JbQhcTF7Uk",
-      "viewsPerHour": 1306,
+      "viewsPerHour": 1218,
       "views": 36382,
-      "ageHours": 27.9
-    },
-    {
-      "title": "@collectionmaster visits WeRecoverData's Minneapolis office - WHAT DOES HE FIND?",
-      "channel": "Louis Rossmann",
-      "videoId": "QkvEPhPtDUI",
-      "viewsPerHour": 1070,
-      "views": 8874,
-      "ageHours": 8.3
+      "ageHours": 29.9
     },
     {
       "title": "Jake Johnson - “The Dink” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "XXYlrpOAvU0",
-      "viewsPerHour": 1070,
-      "views": 45791,
-      "ageHours": 42.8
+      "viewsPerHour": 1033,
+      "views": 46306,
+      "ageHours": 44.8
+    },
+    {
+      "title": "@collectionmaster visits WeRecoverData's Minneapolis office - WHAT DOES HE FIND?",
+      "channel": "Louis Rossmann",
+      "videoId": "QkvEPhPtDUI",
+      "viewsPerHour": 861,
+      "views": 8874,
+      "ageHours": 10.3
     },
     {
       "title": "Man arrested for speaking 30 seconds over at datacenter hearing in Claremore Oklahoma",
       "channel": "Louis Rossmann",
       "videoId": "FUv85cbn-pA",
-      "viewsPerHour": 907,
+      "viewsPerHour": 840,
       "views": 23110,
-      "ageHours": 25.5
+      "ageHours": 27.5
     },
     {
       "title": "S9 E6: Madison Cawthorn & Trucks: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "HooV1HF49P0",
-      "viewsPerHour": 745,
-      "views": 22556,
-      "ageHours": 30.3
+      "viewsPerHour": 716,
+      "views": 23121,
+      "ageHours": 32.3
     },
     {
       "title": "What if Dark Matter is Tiny Black Holes? | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "URp973o8Sg8",
-      "viewsPerHour": 647,
-      "views": 19068,
-      "ageHours": 29.5
+      "viewsPerHour": 632,
+      "views": 19910,
+      "ageHours": 31.5
     },
     {
       "title": "Hard Way or Easy Way? Are UAPs Trying to Warn us?",
       "channel": "Chris Lehto",
       "videoId": "D8meKnsITO0",
-      "viewsPerHour": 531,
-      "views": 13417,
-      "ageHours": 25.3
+      "viewsPerHour": 502,
+      "views": 13698,
+      "ageHours": 27.3
     },
     {
       "title": "Cruelty is the only explanation': Congressional candidate BLASTS Trump’s family separation policy",
       "channel": "MS NOW",
       "videoId": "LsvvpX2E8IE",
-      "viewsPerHour": 384,
+      "viewsPerHour": 344,
       "views": 6649,
-      "ageHours": 17.3
+      "ageHours": 19.3
     },
     {
-      "title": "‘Condescending and PATRONIZING’: Epstein survivor TELLS ALL on Todd Blanche behavior during meeting",
-      "channel": "MS NOW",
-      "videoId": "5bE3TNCP4xM",
-      "viewsPerHour": 348,
-      "views": 8515,
-      "ageHours": 24.5
-    },
-    {
-      "title": "PBS News Hour live episode, July 17, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "XWKjKs1gHHg",
-      "viewsPerHour": 171,
-      "views": 4303,
-      "ageHours": 25.2
+      "title": "Russell King: The Fake Billionaire Pulled Off The World's Biggest Ever Sports Scam",
+      "channel": "Real Stories",
+      "videoId": "3QLOxxg8jjc",
+      "viewsPerHour": 166,
+      "views": 961,
+      "ageHours": 5.8
     },
     {
       "title": "How the Mariupol theater strike exposed Russia’s brutality in Ukraine",
       "channel": "PBS NewsHour",
       "videoId": "9Fe-Xgop1u8",
-      "viewsPerHour": 146,
+      "viewsPerHour": 134,
       "views": 3328,
-      "ageHours": 22.8
+      "ageHours": 24.8
     },
     {
       "title": "CREATIVE CORRUPTION: Trump still surprises with sketchy schemes",
       "channel": "MS NOW",
       "videoId": "xIdjXJGokE8",
-      "viewsPerHour": 134,
+      "viewsPerHour": 121,
       "views": 2436,
-      "ageHours": 18.2
-    },
-    {
-      "title": "This one is a DOOZY': Nicolle shines light on Trump's latest BOMBSHELL self-enrichment plot",
-      "channel": "MS NOW",
-      "videoId": "bz0dkL_gk0Y",
-      "viewsPerHour": 97,
-      "views": 2298,
-      "ageHours": 23.6
+      "ageHours": 20.2
     },
     {
       "title": "RAGE TAKES | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "LpO_8YE_91s",
-      "viewsPerHour": 57,
+      "viewsPerHour": 54,
       "views": 1954,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
       "title": "Timothy Olyphant Requested A Butt Double For His Role In “Stick” | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ohQhKc9SEHY",
-      "viewsPerHour": 57,
+      "viewsPerHour": 54,
       "views": 1782,
-      "ageHours": 31.3
+      "ageHours": 33.3
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - July 17 | Audio Only",
       "channel": "MS NOW",
       "videoId": "bl8ywsL1Rz4",
-      "viewsPerHour": 48,
+      "viewsPerHour": 43,
       "views": 863,
-      "ageHours": 17.9
-    },
-    {
-      "title": "News Wrap: Smoke from wildfires leads to unsafe air quality in U.S.",
-      "channel": "PBS NewsHour",
-      "videoId": "H114Mx3_SGY",
-      "viewsPerHour": 21,
-      "views": 504,
-      "ageHours": 23.6
-    },
-    {
-      "title": "Battleground state election officials respond to Trump's efforts to reshape voting process",
-      "channel": "PBS NewsHour",
-      "videoId": "Llp5Oub8Og8",
-      "viewsPerHour": 11,
-      "views": 260,
-      "ageHours": 23.7
+      "ageHours": 19.9
     }
   ]
 }
