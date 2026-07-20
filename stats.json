@@ -1,16 +1,24 @@
 {
   "videosPerChannel": [
     {
-      "channel": "Diary of a CEO",
-      "count": 3
+      "channel": "MS NOW",
+      "count": 6
     },
     {
-      "channel": "MS NOW",
-      "count": 3
+      "channel": "Last Week Tonight",
+      "count": 9
     },
     {
       "channel": "PBS NewsHour",
-      "count": 1
+      "count": 3
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 9
+    },
+    {
+      "channel": "Diary of a CEO",
+      "count": 3
     },
     {
       "channel": "The Rest Is Science",
@@ -27,10 +35,6 @@
     {
       "channel": "Louis Rossmann",
       "count": 23
-    },
-    {
-      "channel": "Last Week Tonight",
-      "count": 8
     },
     {
       "channel": "The Daily Show",
@@ -51,10 +55,6 @@
     {
       "channel": "More Perfect Union",
       "count": 14
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 9
     },
     {
       "channel": "Mayim Bialik",
@@ -79,16 +79,24 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "AI",
-      "count": 4
+      "keyword": "MS NOW",
+      "count": 6
     },
     {
-      "keyword": "MS NOW",
-      "count": 3
+      "keyword": "Last Week Tonight",
+      "count": 9
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 1
+      "count": 3
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 9
+    },
+    {
+      "keyword": "AI",
+      "count": 4
     },
     {
       "keyword": "The Rest Is Science",
@@ -105,10 +113,6 @@
     {
       "keyword": "Louis Rossmann",
       "count": 23
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "count": 8
     },
     {
       "keyword": "Real Stories",
@@ -133,10 +137,6 @@
     {
       "keyword": "More Perfect Union",
       "count": 13
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 9
     },
     {
       "keyword": "UFO, UAP",
@@ -198,7 +198,7 @@
   "dailySummary": [
     {
       "date": "2026-07-20",
-      "videos": 3
+      "videos": 10
     },
     {
       "date": "2026-07-19",
@@ -238,7 +238,7 @@
     },
     {
       "date": "2026-07-10",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-07-09",
@@ -419,15 +419,23 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "AI",
-      "matches": 1
+      "keyword": "MS NOW",
+      "matches": 6
     },
     {
-      "keyword": "MS NOW",
-      "matches": 3
+      "keyword": "Last Week Tonight",
+      "matches": 7
     },
     {
       "keyword": "PBS NewsHour",
+      "matches": 3
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
+    },
+    {
+      "keyword": "AI",
       "matches": 1
     },
     {
@@ -445,10 +453,6 @@
     {
       "keyword": "Louis Rossmann",
       "matches": 12
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "matches": 6
     },
     {
       "keyword": "Real Stories",
@@ -475,10 +479,6 @@
       "matches": 3
     },
     {
-      "keyword": "Conan O'Brien",
-      "matches": 7
-    },
-    {
       "keyword": "UFO, UAP",
       "matches": 1
     },
@@ -492,105 +492,145 @@
       "title": "Alex Hormozi’s Warning: Stop Chasing AI, Build This Instead!",
       "channel": "Diary of a CEO",
       "videoId": "HwmwyBgzj8c",
-      "viewsPerHour": 21958,
-      "views": 203953,
-      "ageHours": 9.3
+      "viewsPerHour": 22538,
+      "views": 254496,
+      "ageHours": 11.3
     },
     {
       "title": "The Hole In Your Brain That Makes You Doomscroll",
       "channel": "The Rest Is Science",
       "videoId": "YRk7xGpD8dI",
-      "viewsPerHour": 6062,
-      "views": 116925,
-      "ageHours": 19.3
+      "viewsPerHour": 6050,
+      "views": 128829,
+      "ageHours": 21.3
+    },
+    {
+      "title": "NYT: Defense Dept. withheld information on dozens of military injuries in Iran",
+      "channel": "MS NOW",
+      "videoId": "M2CC3YDHoBw",
+      "viewsPerHour": 4289,
+      "views": 10260,
+      "ageHours": 2.4
+    },
+    {
+      "title": "Molly Shannon (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "O7xcD_5a2kU",
+      "viewsPerHour": 2979,
+      "views": 21719,
+      "ageHours": 7.3
     },
     {
       "title": "S9 E8: Dr. Oz & Police Interrogations: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "9SSkH7t6pN0",
-      "viewsPerHour": 1949,
-      "views": 47322,
-      "ageHours": 24.3
+      "viewsPerHour": 2064,
+      "views": 54242,
+      "ageHours": 26.3
     },
     {
       "title": "Shark vacuum allows anyone to view your live camera; they knew for months & did NOTHING to fix it",
       "channel": "Louis Rossmann",
       "videoId": "Z9eQazdaO1U",
-      "viewsPerHour": 1847,
+      "viewsPerHour": 1700,
       "views": 42667,
-      "ageHours": 23.1
+      "ageHours": 25.1
     },
     {
-      "title": "What's Hovering Over the Triangle? (S7) | The Secret of Skinwalker Ranch",
-      "channel": "History",
-      "videoId": "2ztox3UFIpY",
-      "viewsPerHour": 1316,
-      "views": 60904,
-      "ageHours": 46.3
+      "title": "S9 E9: 2022 Elections & Environmental Racism: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "ZGw7kj2rTuo",
+      "viewsPerHour": 1458,
+      "views": 3333,
+      "ageHours": 2.3
+    },
+    {
+      "title": "WATCH LIVE: House meets as U.S. expands bombing of Iran",
+      "channel": "PBS NewsHour",
+      "videoId": "T2etKWXb9eo",
+      "viewsPerHour": 1198,
+      "views": 3052,
+      "ageHours": 2.5
     },
     {
       "title": "Louis Theroux Meets The Ultra Zionists Seizing Palestinian Land in the West Bank",
       "channel": "Real Stories",
       "videoId": "6TnYXWwaAqg",
-      "viewsPerHour": 1169,
-      "views": 24890,
-      "ageHours": 21.3
+      "viewsPerHour": 1160,
+      "views": 27014,
+      "ageHours": 23.3
     },
     {
       "title": "Secret Pathways Leads to BIG Treasures (S1) | The Curse of Oak Island",
       "channel": "History",
       "videoId": "vVgSuqB8dOQ",
-      "viewsPerHour": 1166,
-      "views": 25983,
-      "ageHours": 22.3
+      "viewsPerHour": 1093,
+      "views": 26547,
+      "ageHours": 24.3
     },
     {
-      "title": "Company kills pipe-leak sensors 1 YEAR early 🤦",
-      "channel": "Louis Rossmann",
-      "videoId": "gna-3yRvieg",
-      "viewsPerHour": 595,
-      "views": 28042,
-      "ageHours": 47.2
+      "title": "Progressive candidates divide Democratic midterm voters",
+      "channel": "MS NOW",
+      "videoId": "B8COE-fylRQ",
+      "viewsPerHour": 947,
+      "views": 2035,
+      "ageHours": 2.1
     },
     {
       "title": "What Lies Beneath the Swamp? (S2, E4) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "SW2GnVocZVY",
-      "viewsPerHour": 448,
-      "views": 18056,
-      "ageHours": 40.3
+      "viewsPerHour": 436,
+      "views": 18430,
+      "ageHours": 42.3
     },
     {
       "title": "Fmr. U.S. attorney: I worked with Todd Blanche and he shouldn’t be Attorney General",
       "channel": "MS NOW",
       "videoId": "1pjGaRlbBaw",
-      "viewsPerHour": 413,
+      "viewsPerHour": 375,
       "views": 8144,
-      "ageHours": 19.7
+      "ageHours": 21.7
     },
     {
       "title": "‘Desperate, but DANGEROUS’: Legal Defense Fund President warns Trump may undermine midterms ",
       "channel": "MS NOW",
       "videoId": "MhKYv_1IdGY",
-      "viewsPerHour": 398,
+      "viewsPerHour": 361,
       "views": 7869,
-      "ageHours": 19.8
+      "ageHours": 21.8
     },
     {
       "title": "MS NOW Highlights - July 19",
       "channel": "MS NOW",
       "videoId": "5al7eHtJu6Y",
-      "viewsPerHour": 392,
+      "viewsPerHour": 344,
       "views": 5603,
-      "ageHours": 14.3
+      "ageHours": 16.3
+    },
+    {
+      "title": "Why Trump, Iran 'misreading' each other may ESCALATE the war",
+      "channel": "MS NOW",
+      "videoId": "9xPvUfieB18",
+      "viewsPerHour": 86,
+      "views": 132,
+      "ageHours": 1.5
     },
     {
       "title": "Russell King: The Fake Billionaire Pulled Off The World's Biggest Ever Sports Scam",
       "channel": "Real Stories",
       "videoId": "3QLOxxg8jjc",
-      "viewsPerHour": 73,
-      "views": 3346,
-      "ageHours": 45.8
+      "viewsPerHour": 71,
+      "views": 3390,
+      "ageHours": 47.8
+    },
+    {
+      "title": "WATCH LIVE: Senate convenes as Democrats push for answers around ICE policies",
+      "channel": "PBS NewsHour",
+      "videoId": "gzuKqWnElAY",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 2.6
     },
     {
       "title": "WATCH LIVE: Hegseth, Caine and Rollins testify on Trump’s budget request before Senate",
@@ -598,7 +638,7 @@
       "videoId": "upK_xGZAMNg",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 15.6
+      "ageHours": 17.6
     }
   ]
 }
