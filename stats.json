@@ -1,8 +1,12 @@
 {
   "videosPerChannel": [
     {
+      "channel": "Diary of a CEO",
+      "count": 3
+    },
+    {
       "channel": "MS NOW",
-      "count": 4
+      "count": 3
     },
     {
       "channel": "PBS NewsHour",
@@ -57,10 +61,6 @@
       "count": 4
     },
     {
-      "channel": "Diary of a CEO",
-      "count": 2
-    },
-    {
       "channel": "Jonathan Pie",
       "count": 5
     },
@@ -79,8 +79,12 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "MS NOW",
+      "keyword": "AI",
       "count": 4
+    },
+    {
+      "keyword": "MS NOW",
+      "count": 3
     },
     {
       "keyword": "PBS NewsHour",
@@ -175,10 +179,6 @@
       "count": 1
     },
     {
-      "keyword": "AI",
-      "count": 3
-    },
-    {
       "keyword": "UFO, AI, testimony, whistleblower",
       "count": 1
     },
@@ -198,11 +198,11 @@
   "dailySummary": [
     {
       "date": "2026-07-20",
-      "videos": 2
+      "videos": 3
     },
     {
       "date": "2026-07-19",
-      "videos": 9
+      "videos": 8
     },
     {
       "date": "2026-07-18",
@@ -419,8 +419,12 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "AI",
+      "matches": 1
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 4
+      "matches": 3
     },
     {
       "keyword": "PBS NewsHour",
@@ -440,7 +444,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "matches": 13
+      "matches": 12
     },
     {
       "keyword": "Last Week Tonight",
@@ -472,7 +476,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "UFO, UAP",
@@ -485,140 +489,140 @@
   ],
   "mostViral48h": [
     {
+      "title": "Alex Hormozi’s Warning: Stop Chasing AI, Build This Instead!",
+      "channel": "Diary of a CEO",
+      "videoId": "HwmwyBgzj8c",
+      "viewsPerHour": 17492,
+      "views": 92482,
+      "ageHours": 5.3
+    },
+    {
       "title": "Jon on America's Gerontocracy Crisis & Kosta on Explosive Diarrhea Sweeping U.S. | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "RMx77Xvz6qY",
-      "viewsPerHour": 14020,
-      "views": 635460,
-      "ageHours": 45.3
+      "viewsPerHour": 13705,
+      "views": 648123,
+      "ageHours": 47.3
     },
     {
       "title": "The Hole In Your Brain That Makes You Doomscroll",
       "channel": "The Rest Is Science",
       "videoId": "YRk7xGpD8dI",
-      "viewsPerHour": 6210,
-      "views": 82741,
-      "ageHours": 13.3
+      "viewsPerHour": 6108,
+      "views": 93377,
+      "ageHours": 15.3
     },
     {
       "title": "Zohran Mamdani Knows He Has Political Capital. He Intends to Spend It. | The Interview",
       "channel": "The Interview",
       "videoId": "6nbzdlgNyV0",
-      "viewsPerHour": 5106,
-      "views": 232668,
-      "ageHours": 45.6
+      "viewsPerHour": 4960,
+      "views": 235751,
+      "ageHours": 47.5
     },
     {
       "title": "Shark vacuum allows anyone to view your live camera; they knew for months & did NOTHING to fix it",
       "channel": "Louis Rossmann",
       "videoId": "Z9eQazdaO1U",
-      "viewsPerHour": 2491,
+      "viewsPerHour": 2235,
       "views": 42667,
-      "ageHours": 17.1
+      "ageHours": 19.1
     },
     {
       "title": "S9 E8: Dr. Oz & Police Interrogations: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "9SSkH7t6pN0",
-      "viewsPerHour": 1634,
-      "views": 29935,
-      "ageHours": 18.3
+      "viewsPerHour": 1717,
+      "views": 34822,
+      "ageHours": 20.3
     },
     {
       "title": "What's Hovering Over the Triangle? (S7) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "2ztox3UFIpY",
-      "viewsPerHour": 1449,
-      "views": 58452,
-      "ageHours": 40.3
+      "viewsPerHour": 1397,
+      "views": 59060,
+      "ageHours": 42.3
     },
     {
       "title": "Secret Pathways Leads to BIG Treasures (S1) | The Curse of Oak Island",
       "channel": "History",
       "videoId": "vVgSuqB8dOQ",
-      "viewsPerHour": 1442,
-      "views": 23546,
-      "ageHours": 16.3
+      "viewsPerHour": 1333,
+      "views": 24387,
+      "ageHours": 18.3
     },
     {
       "title": "Louis Theroux Meets The Ultra Zionists Seizing Palestinian Land in the West Bank",
       "channel": "Real Stories",
       "videoId": "6TnYXWwaAqg",
-      "viewsPerHour": 1408,
-      "views": 21571,
-      "ageHours": 15.3
+      "viewsPerHour": 1289,
+      "views": 22276,
+      "ageHours": 17.3
     },
     {
       "title": "S9 E7: Russian State TV & Data Brokers: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "Wapyt_Gi_8E",
-      "viewsPerHour": 998,
-      "views": 42247,
-      "ageHours": 42.3
+      "viewsPerHour": 996,
+      "views": 44124,
+      "ageHours": 44.3
     },
     {
       "title": "Company kills pipe-leak sensors 1 YEAR early 🤦",
       "channel": "Louis Rossmann",
       "videoId": "gna-3yRvieg",
-      "viewsPerHour": 681,
+      "viewsPerHour": 650,
       "views": 28042,
-      "ageHours": 41.2
+      "ageHours": 43.2
     },
     {
       "title": "MS NOW Highlights - July 19",
       "channel": "MS NOW",
       "videoId": "5al7eHtJu6Y",
-      "viewsPerHour": 673,
+      "viewsPerHour": 545,
       "views": 5603,
-      "ageHours": 8.3
+      "ageHours": 10.3
     },
     {
       "title": "Fmr. U.S. attorney: I worked with Todd Blanche and he shouldn’t be Attorney General",
       "channel": "MS NOW",
       "videoId": "1pjGaRlbBaw",
-      "viewsPerHour": 592,
+      "viewsPerHour": 518,
       "views": 8144,
-      "ageHours": 13.8
+      "ageHours": 15.7
     },
     {
       "title": "‘Desperate, but DANGEROUS’: Legal Defense Fund President warns Trump may undermine midterms ",
       "channel": "MS NOW",
       "videoId": "MhKYv_1IdGY",
-      "viewsPerHour": 570,
+      "viewsPerHour": 499,
       "views": 7869,
-      "ageHours": 13.8
+      "ageHours": 15.8
     },
     {
       "title": "What Lies Beneath the Swamp? (S2, E4) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "SW2GnVocZVY",
-      "viewsPerHour": 514,
-      "views": 17649,
-      "ageHours": 34.3
+      "viewsPerHour": 490,
+      "views": 17787,
+      "ageHours": 36.3
     },
     {
       "title": "@collectionmaster visits WeRecoverData's Minneapolis office - WHAT DOES HE FIND?",
       "channel": "Louis Rossmann",
       "videoId": "QkvEPhPtDUI",
-      "viewsPerHour": 200,
+      "viewsPerHour": 192,
       "views": 8874,
-      "ageHours": 44.3
-    },
-    {
-      "title": "MS NOW Highlights - July 18",
-      "channel": "MS NOW",
-      "videoId": "SK7D17fsO1Q",
-      "viewsPerHour": 89,
-      "views": 2163,
-      "ageHours": 24.3
+      "ageHours": 46.3
     },
     {
       "title": "Russell King: The Fake Billionaire Pulled Off The World's Biggest Ever Sports Scam",
       "channel": "Real Stories",
       "videoId": "3QLOxxg8jjc",
-      "viewsPerHour": 80,
-      "views": 3199,
-      "ageHours": 39.8
+      "viewsPerHour": 78,
+      "views": 3240,
+      "ageHours": 41.8
     },
     {
       "title": "WATCH LIVE: Hegseth, Caine and Rollins testify on Trump’s budget request before Senate",
@@ -626,7 +630,7 @@
       "videoId": "upK_xGZAMNg",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 9.7
+      "ageHours": 11.6
     }
   ]
 }
