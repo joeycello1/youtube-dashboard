@@ -1,24 +1,28 @@
 {
   "videosPerChannel": [
     {
-      "channel": "Last Week Tonight",
-      "count": 8
+      "channel": "The Rest Is Science",
+      "count": 5
     },
     {
       "channel": "MS NOW",
       "count": 4
     },
     {
-      "channel": "History",
-      "count": 11
+      "channel": "Real Stories",
+      "count": 35
     },
     {
-      "channel": "Real Stories",
-      "count": 34
+      "channel": "History",
+      "count": 12
     },
     {
       "channel": "Louis Rossmann",
       "count": 25
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 8
     },
     {
       "channel": "The Daily Show",
@@ -43,10 +47,6 @@
     {
       "channel": "Conan O'Brien",
       "count": 9
-    },
-    {
-      "channel": "The Rest Is Science",
-      "count": 4
     },
     {
       "channel": "Mayim Bialik",
@@ -75,16 +75,28 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "Last Week Tonight",
-      "count": 8
+      "keyword": "The Rest Is Science",
+      "count": 5
     },
     {
       "keyword": "MS NOW",
       "count": 4
     },
     {
+      "keyword": "Real Stories, Louis Theroux",
+      "count": 15
+    },
+    {
       "keyword": "NOVA",
-      "count": 14
+      "count": 15
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 24
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 8
     },
     {
       "keyword": "Real Stories",
@@ -93,10 +105,6 @@
     {
       "keyword": "UFO",
       "count": 12
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 24
     },
     {
       "keyword": "The Daily Show",
@@ -117,14 +125,6 @@
     {
       "keyword": "Conan O'Brien",
       "count": 9
-    },
-    {
-      "keyword": "Real Stories, Louis Theroux",
-      "count": 14
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "count": 4
     },
     {
       "keyword": "UFO, UAP",
@@ -194,11 +194,11 @@
   "dailySummary": [
     {
       "date": "2026-07-19",
-      "videos": 4
+      "videos": 10
     },
     {
       "date": "2026-07-18",
-      "videos": 9
+      "videos": 7
     },
     {
       "date": "2026-07-17",
@@ -254,7 +254,7 @@
     },
     {
       "date": "2026-07-04",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-07-03",
@@ -411,16 +411,28 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "Last Week Tonight",
-      "matches": 7
+      "keyword": "The Rest Is Science",
+      "matches": 2
     },
     {
       "keyword": "MS NOW",
       "matches": 4
     },
     {
+      "keyword": "Real Stories, Louis Theroux",
+      "matches": 2
+    },
+    {
       "keyword": "NOVA",
-      "matches": 4
+      "matches": 5
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 13
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 7
     },
     {
       "keyword": "Real Stories",
@@ -429,10 +441,6 @@
     {
       "keyword": "UFO",
       "matches": 4
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 12
     },
     {
       "keyword": "The Daily Show",
@@ -455,14 +463,6 @@
       "matches": 8
     },
     {
-      "keyword": "Real Stories, Louis Theroux",
-      "matches": 1
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "matches": 1
-    },
-    {
       "keyword": "UFO, UAP",
       "matches": 1
     },
@@ -480,105 +480,137 @@
       "title": "Jon on America's Gerontocracy Crisis & Kosta on Explosive Diarrhea Sweeping U.S. | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "RMx77Xvz6qY",
-      "viewsPerHour": 15783,
-      "views": 525482,
-      "ageHours": 33.3
+      "viewsPerHour": 15224,
+      "views": 537264,
+      "ageHours": 35.3
+    },
+    {
+      "title": "Shark vacuum allows anyone to view your live camera; they knew for months & did NOTHING to fix it",
+      "channel": "Louis Rossmann",
+      "videoId": "Z9eQazdaO1U",
+      "viewsPerHour": 6015,
+      "views": 42667,
+      "ageHours": 7.1
+    },
+    {
+      "title": "The Hole In Your Brain That Makes You Doomscroll",
+      "channel": "The Rest Is Science",
+      "videoId": "YRk7xGpD8dI",
+      "viewsPerHour": 5985,
+      "views": 19676,
+      "ageHours": 3.3
     },
     {
       "title": "Zohran Mamdani Knows He Has Political Capital. He Intends to Spend It. | The Interview",
       "channel": "The Interview",
       "videoId": "6nbzdlgNyV0",
-      "viewsPerHour": 5919,
-      "views": 198511,
-      "ageHours": 33.5
+      "viewsPerHour": 5753,
+      "views": 204428,
+      "ageHours": 35.5
+    },
+    {
+      "title": "Fmr. U.S. attorney: I worked with Todd Blanche and he shouldn’t be Attorney General",
+      "channel": "MS NOW",
+      "videoId": "1pjGaRlbBaw",
+      "viewsPerHour": 2187,
+      "views": 8144,
+      "ageHours": 3.7
+    },
+    {
+      "title": "‘Desperate, but DANGEROUS’: Legal Defense Fund President warns Trump may undermine midterms ",
+      "channel": "MS NOW",
+      "videoId": "MhKYv_1IdGY",
+      "viewsPerHour": 2087,
+      "views": 7869,
+      "ageHours": 3.8
+    },
+    {
+      "title": "Secret Pathways Leads to BIG Treasures (S1) | The Curse of Oak Island",
+      "channel": "History",
+      "videoId": "vVgSuqB8dOQ",
+      "viewsPerHour": 2049,
+      "views": 12888,
+      "ageHours": 6.3
     },
     {
       "title": "What's Hovering Over the Triangle? (S7) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "2ztox3UFIpY",
-      "viewsPerHour": 1797,
-      "views": 50834,
-      "ageHours": 28.3
+      "viewsPerHour": 1732,
+      "views": 52452,
+      "ageHours": 30.3
     },
     {
       "title": "S9 E8: Dr. Oz & Police Interrogations: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "9SSkH7t6pN0",
-      "viewsPerHour": 1466,
-      "views": 9211,
-      "ageHours": 6.3
+      "viewsPerHour": 1445,
+      "views": 11967,
+      "ageHours": 8.3
+    },
+    {
+      "title": "Louis Theroux Meets The Ultra Zionists Seizing Palestinian Land in the West Bank",
+      "channel": "Real Stories",
+      "videoId": "6TnYXWwaAqg",
+      "viewsPerHour": 1297,
+      "views": 6854,
+      "ageHours": 5.3
     },
     {
       "title": "S9 E7: Russian State TV & Data Brokers: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "Wapyt_Gi_8E",
-      "viewsPerHour": 1144,
-      "views": 34655,
-      "ageHours": 30.3
+      "viewsPerHour": 1097,
+      "views": 35413,
+      "ageHours": 32.3
     },
     {
       "title": "Company kills pipe-leak sensors 1 YEAR early 🤦",
       "channel": "Louis Rossmann",
       "videoId": "gna-3yRvieg",
-      "viewsPerHour": 962,
+      "viewsPerHour": 900,
       "views": 28042,
-      "ageHours": 29.2
+      "ageHours": 31.2
     },
     {
       "title": "DEMORALIZING' Watch Epstein survivors UNLEASH on Todd Blanche after rushed meeting | COMPILATION",
       "channel": "MS NOW",
       "videoId": "C1B9CXUY6UQ",
-      "viewsPerHour": 955,
+      "viewsPerHour": 877,
       "views": 21287,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "What Lies Beneath the Swamp? (S2, E4) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "SW2GnVocZVY",
-      "viewsPerHour": 630,
-      "views": 14038,
-      "ageHours": 22.3
-    },
-    {
-      "title": "Rep. Stansbury urges Congress to ‘STEP IN AT THIS MOMENT’ of escalation in the Iran war",
-      "channel": "MS NOW",
-      "videoId": "tWvPHVPdP4U",
-      "viewsPerHour": 340,
-      "views": 8650,
-      "ageHours": 25.5
-    },
-    {
-      "title": "WH official admitting no evidence for Trump’s 2020 elex claims ‘speaks volumes’: Intel analyst",
-      "channel": "MS NOW",
-      "videoId": "JCu6lqwe0n4",
-      "viewsPerHour": 331,
-      "views": 8286,
-      "ageHours": 25.1
+      "viewsPerHour": 602,
+      "views": 14621,
+      "ageHours": 24.3
     },
     {
       "title": "@collectionmaster visits WeRecoverData's Minneapolis office - WHAT DOES HE FIND?",
       "channel": "Louis Rossmann",
       "videoId": "QkvEPhPtDUI",
-      "viewsPerHour": 275,
+      "viewsPerHour": 259,
       "views": 8874,
-      "ageHours": 32.3
+      "ageHours": 34.3
     },
     {
       "title": "MS NOW Highlights - July 18",
       "channel": "MS NOW",
       "videoId": "SK7D17fsO1Q",
-      "viewsPerHour": 176,
+      "viewsPerHour": 151,
       "views": 2163,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "Russell King: The Fake Billionaire Pulled Off The World's Biggest Ever Sports Scam",
       "channel": "Real Stories",
       "videoId": "3QLOxxg8jjc",
-      "viewsPerHour": 96,
-      "views": 2654,
-      "ageHours": 27.8
+      "viewsPerHour": 91,
+      "views": 2719,
+      "ageHours": 29.8
     }
   ]
 }
