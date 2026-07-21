@@ -2,15 +2,15 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 6
+      "count": 5
     },
     {
       "channel": "PBS NewsHour",
-      "count": 6
+      "count": 5
     },
     {
       "channel": "Louis Rossmann",
-      "count": 24
+      "count": 22
     },
     {
       "channel": "Last Week Tonight",
@@ -38,7 +38,7 @@
     },
     {
       "channel": "The Daily Show",
-      "count": 13
+      "count": 10
     },
     {
       "channel": "The Interview",
@@ -80,15 +80,15 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 5
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 6
+      "count": 5
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 24
+      "count": 22
     },
     {
       "keyword": "Last Week Tonight",
@@ -124,7 +124,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "count": 13
+      "count": 10
     },
     {
       "keyword": "The Interview",
@@ -198,7 +198,7 @@
   "dailySummary": [
     {
       "date": "2026-07-20",
-      "videos": 16
+      "videos": 14
     },
     {
       "date": "2026-07-19",
@@ -222,7 +222,7 @@
     },
     {
       "date": "2026-07-14",
-      "videos": 11
+      "videos": 8
     },
     {
       "date": "2026-07-13",
@@ -254,7 +254,7 @@
     },
     {
       "date": "2026-07-06",
-      "videos": 3
+      "videos": 1
     },
     {
       "date": "2026-07-05",
@@ -420,11 +420,11 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "Louis Rossmann",
@@ -492,145 +492,137 @@
       "title": "Alex Hormozi’s Warning: Stop Chasing AI, Build This Instead!",
       "channel": "Diary of a CEO",
       "videoId": "HwmwyBgzj8c",
-      "viewsPerHour": 19707,
+      "viewsPerHour": 18009,
       "views": 419566,
-      "ageHours": 21.3
+      "ageHours": 23.3
     },
     {
       "title": "The Hole In Your Brain That Makes You Doomscroll",
       "channel": "The Rest Is Science",
       "videoId": "YRk7xGpD8dI",
-      "viewsPerHour": 4743,
+      "viewsPerHour": 4457,
       "views": 148421,
-      "ageHours": 31.3
+      "ageHours": 33.3
     },
     {
       "title": "This guy is NUTS': Trump's SHOCKING behavior weirds out Americans and gives Dems midterms leverage",
       "channel": "MS NOW",
       "videoId": "agVXnHTWXnM",
-      "viewsPerHour": 4209,
+      "viewsPerHour": 3165,
       "views": 25614,
-      "ageHours": 6.1
+      "ageHours": 8.1
     },
     {
       "title": "S9 E8: Dr. Oz & Police Interrogations: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "9SSkH7t6pN0",
-      "viewsPerHour": 1846,
+      "viewsPerHour": 1749,
       "views": 66990,
-      "ageHours": 36.3
-    },
-    {
-      "title": "Molly Shannon (Full Episode) | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "O7xcD_5a2kU",
-      "viewsPerHour": 1256,
-      "views": 21719,
-      "ageHours": 17.3
+      "ageHours": 38.3
     },
     {
       "title": "Shark vacuum allows anyone to view your live camera; they knew for months & did NOTHING to fix it",
       "channel": "Louis Rossmann",
       "videoId": "Z9eQazdaO1U",
-      "viewsPerHour": 1216,
+      "viewsPerHour": 1150,
       "views": 42667,
-      "ageHours": 35.1
+      "ageHours": 37.1
     },
     {
-      "title": "S9 E9: 2022 Elections & Environmental Racism: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "ZGw7kj2rTuo",
-      "viewsPerHour": 1142,
-      "views": 14034,
-      "ageHours": 12.3
+      "title": "Molly Shannon (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "O7xcD_5a2kU",
+      "viewsPerHour": 1125,
+      "views": 21719,
+      "ageHours": 19.3
     },
     {
       "title": "Louis Theroux Meets The Ultra Zionists Seizing Palestinian Land in the West Bank",
       "channel": "Real Stories",
       "videoId": "6TnYXWwaAqg",
-      "viewsPerHour": 1136,
+      "viewsPerHour": 1072,
       "views": 37821,
-      "ageHours": 33.3
+      "ageHours": 35.3
+    },
+    {
+      "title": "S9 E9: 2022 Elections & Environmental Racism: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "ZGw7kj2rTuo",
+      "viewsPerHour": 982,
+      "views": 14034,
+      "ageHours": 14.3
     },
     {
       "title": "Secret Pathways Leads to BIG Treasures (S1) | The Curse of Oak Island",
       "channel": "History",
       "videoId": "vVgSuqB8dOQ",
-      "viewsPerHour": 896,
+      "viewsPerHour": 846,
       "views": 30720,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
       "title": "NYT: Defense Dept. withheld information on dozens of military injuries in Iran",
       "channel": "MS NOW",
       "videoId": "M2CC3YDHoBw",
-      "viewsPerHour": 828,
+      "viewsPerHour": 713,
       "views": 10260,
-      "ageHours": 12.4
+      "ageHours": 14.4
     },
     {
       "title": "PBS News Hour live episode, July 20, 2026",
       "channel": "PBS NewsHour",
       "videoId": "iTnh5sCb4BM",
-      "viewsPerHour": 613,
+      "viewsPerHour": 483,
       "views": 4579,
-      "ageHours": 7.5
+      "ageHours": 9.5
     },
     {
       "title": "U.S. launches more strikes on Iran after deaths of service members",
       "channel": "PBS NewsHour",
       "videoId": "qOr7XdOPWRs",
-      "viewsPerHour": 551,
+      "viewsPerHour": 412,
       "views": 3275,
-      "ageHours": 5.9
+      "ageHours": 7.9
     },
     {
       "title": "‘CLASSIC Donald Trump’: Nicolle reacts to AWKWARD Trump hogging stage at World Cup trophy ceremony",
       "channel": "MS NOW",
       "videoId": "C4mfDmq2FRY",
-      "viewsPerHour": 533,
+      "viewsPerHour": 393,
       "views": 2998,
-      "ageHours": 5.6
+      "ageHours": 7.6
     },
     {
       "title": "WATCH LIVE: House meets as U.S. expands bombing of Iran",
       "channel": "PBS NewsHour",
       "videoId": "T2etKWXb9eo",
-      "viewsPerHour": 243,
+      "viewsPerHour": 210,
       "views": 3052,
-      "ageHours": 12.5
-    },
-    {
-      "title": "MS NOW Highlights - July 19",
-      "channel": "MS NOW",
-      "videoId": "5al7eHtJu6Y",
-      "viewsPerHour": 213,
-      "views": 5603,
-      "ageHours": 26.3
+      "ageHours": 14.6
     },
     {
       "title": "Progressive candidates divide Democratic midterm voters",
       "channel": "MS NOW",
       "videoId": "B8COE-fylRQ",
-      "viewsPerHour": 168,
+      "viewsPerHour": 144,
       "views": 2035,
-      "ageHours": 12.1
+      "ageHours": 14.2
     },
     {
       "title": "Iran war hurting U.S. allies in region, former Jordanian foreign minister says",
       "channel": "PBS NewsHour",
       "videoId": "wbKJxtxMFbc",
-      "viewsPerHour": 63,
+      "viewsPerHour": 46,
       "views": 361,
-      "ageHours": 5.8
+      "ageHours": 7.8
     },
     {
       "title": "Why Trump, Iran 'misreading' each other may ESCALATE the war",
       "channel": "MS NOW",
       "videoId": "9xPvUfieB18",
-      "viewsPerHour": 11,
+      "viewsPerHour": 10,
       "views": 132,
-      "ageHours": 11.5
+      "ageHours": 13.5
     },
     {
       "title": "A discussion(maybe)",
@@ -638,7 +630,7 @@
       "videoId": "eQaZC4lg9nE",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 8.7
+      "ageHours": 10.8
     },
     {
       "title": "WATCH LIVE: Senate convenes as Democrats push for answers around ICE policies",
@@ -646,15 +638,7 @@
       "videoId": "gzuKqWnElAY",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 12.6
-    },
-    {
-      "title": "WATCH LIVE: Hegseth, Caine and Rollins testify on Trump’s budget request before Senate",
-      "channel": "PBS NewsHour",
-      "videoId": "upK_xGZAMNg",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 27.6
+      "ageHours": 14.6
     }
   ]
 }
