@@ -1,28 +1,32 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 6
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 10
+    },
+    {
       "channel": "MS NOW",
-      "count": 8
+      "count": 7
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 11
+    },
+    {
+      "channel": "More Perfect Union",
+      "count": 15
     },
     {
       "channel": "The Daily Show",
       "count": 13
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 5
-    },
-    {
       "channel": "Louis Rossmann",
       "count": 22
-    },
-    {
-      "channel": "Last Week Tonight",
-      "count": 9
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 9
     },
     {
       "channel": "Diary of a CEO",
@@ -34,7 +38,7 @@
     },
     {
       "channel": "Real Stories",
-      "count": 35
+      "count": 34
     },
     {
       "channel": "History",
@@ -51,10 +55,6 @@
     {
       "channel": "NOVA",
       "count": 11
-    },
-    {
-      "channel": "More Perfect Union",
-      "count": 14
     },
     {
       "channel": "Mayim Bialik",
@@ -79,28 +79,32 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "PBS NewsHour",
+      "count": 6
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 10
+    },
+    {
       "keyword": "MS NOW",
-      "count": 8
+      "count": 7
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 11
+    },
+    {
+      "keyword": "More Perfect Union",
+      "count": 14
     },
     {
       "keyword": "The Daily Show",
       "count": 13
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 5
-    },
-    {
       "keyword": "Louis Rossmann",
       "count": 22
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "count": 9
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 9
     },
     {
       "keyword": "AI",
@@ -120,7 +124,7 @@
     },
     {
       "keyword": "Real Stories",
-      "count": 19
+      "count": 18
     },
     {
       "keyword": "UFO",
@@ -133,10 +137,6 @@
     {
       "keyword": "UAP",
       "count": 2
-    },
-    {
-      "keyword": "More Perfect Union",
-      "count": 13
     },
     {
       "keyword": "UFO, UAP",
@@ -198,11 +198,11 @@
   "dailySummary": [
     {
       "date": "2026-07-21",
-      "videos": 6
+      "videos": 15
     },
     {
       "date": "2026-07-20",
-      "videos": 14
+      "videos": 9
     },
     {
       "date": "2026-07-19",
@@ -413,38 +413,38 @@
       "videos": 1
     },
     {
-      "date": "2026-05-22",
-      "videos": 1
-    },
-    {
       "date": "2026-04-09",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour",
+      "matches": 6
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 7
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 8
+      "matches": 7
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 9
+    },
+    {
+      "keyword": "More Perfect Union",
+      "matches": 3
     },
     {
       "keyword": "The Daily Show",
       "matches": 13
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 5
-    },
-    {
       "keyword": "Louis Rossmann",
       "matches": 10
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "matches": 6
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 7
     },
     {
       "keyword": "AI",
@@ -464,7 +464,7 @@
     },
     {
       "keyword": "Real Stories",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "UFO",
@@ -479,10 +479,6 @@
       "matches": 1
     },
     {
-      "keyword": "More Perfect Union",
-      "matches": 3
-    },
-    {
       "keyword": "UFO, UAP",
       "matches": 1
     }
@@ -492,177 +488,201 @@
       "title": "Trump Crashes Spain's World Cup Moment & Jon Examines Team Trump's “Meritocracy\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "nYoETtrk0Hw",
-      "viewsPerHour": 155753,
-      "views": 2068722,
-      "ageHours": 13.3
+      "viewsPerHour": 156065,
+      "views": 2384388,
+      "ageHours": 15.3
     },
     {
       "title": "Alex Hormozi’s Warning: Stop Chasing AI, Build This Instead!",
       "channel": "Diary of a CEO",
       "videoId": "HwmwyBgzj8c",
-      "viewsPerHour": 17228,
-      "views": 573842,
-      "ageHours": 33.3
+      "viewsPerHour": 17007,
+      "views": 600443,
+      "ageHours": 35.3
     },
     {
       "title": "Ben Wikler - “This Is The Plan” & Taking On Elon Musk In Wisconsin | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "78HSvx217Tg",
-      "viewsPerHour": 9915,
-      "views": 127158,
-      "ageHours": 12.8
+      "viewsPerHour": 9999,
+      "views": 148184,
+      "ageHours": 14.8
+    },
+    {
+      "title": "We Uncovered A Scam Hidden Inside Every Bowling Alley",
+      "channel": "More Perfect Union",
+      "videoId": "nC8hnkUs3fM",
+      "viewsPerHour": 7654,
+      "views": 32937,
+      "ageHours": 4.3
     },
     {
       "title": "Spain's World Cup Triumph, America's Big Diarrhea Week & Canada's Wildfire Smoke | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "rJIx8urwN_M",
-      "viewsPerHour": 4789,
-      "views": 72235,
-      "ageHours": 15.1
+      "viewsPerHour": 4579,
+      "views": 78212,
+      "ageHours": 17.1
     },
     {
       "title": "The Hole In Your Brain That Makes You Doomscroll",
       "channel": "The Rest Is Science",
       "videoId": "YRk7xGpD8dI",
-      "viewsPerHour": 4515,
-      "views": 195555,
-      "ageHours": 43.3
+      "viewsPerHour": 4427,
+      "views": 200551,
+      "ageHours": 45.3
     },
     {
       "title": "Trump's spin machine fails to hide the ugly truth about war with Iran",
       "channel": "MS NOW",
       "videoId": "6lLuDwQcV_c",
-      "viewsPerHour": 4075,
+      "viewsPerHour": 3417,
       "views": 42230,
-      "ageHours": 10.4
+      "ageHours": 12.4
+    },
+    {
+      "title": "Conan, Sona, & Gourley Swap Swim Lesson Stories | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "oxURlTwKtEo",
+      "viewsPerHour": 1545,
+      "views": 9743,
+      "ageHours": 6.3
     },
     {
       "title": "This guy is NUTS': Trump's SHOCKING behavior weirds out Americans and gives Dems midterms leverage",
       "channel": "MS NOW",
       "videoId": "agVXnHTWXnM",
-      "viewsPerHour": 1415,
+      "viewsPerHour": 1274,
       "views": 25614,
-      "ageHours": 18.1
+      "ageHours": 20.1
+    },
+    {
+      "title": "S9 E10: Supreme Court Leak & The Philippines: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "1d1_wPJqeIY",
+      "viewsPerHour": 1197,
+      "views": 2764,
+      "ageHours": 2.3
     },
     {
       "title": "Louis Theroux Meets The Ultra Zionists Seizing Palestinian Land in the West Bank",
       "channel": "Real Stories",
       "videoId": "6TnYXWwaAqg",
-      "viewsPerHour": 1043,
-      "views": 47274,
-      "ageHours": 45.3
+      "viewsPerHour": 1034,
+      "views": 48933,
+      "ageHours": 47.3
     },
     {
       "title": "S9 E9: 2022 Elections & Environmental Racism: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "ZGw7kj2rTuo",
-      "viewsPerHour": 920,
-      "views": 22350,
-      "ageHours": 24.3
+      "viewsPerHour": 889,
+      "views": 23382,
+      "ageHours": 26.3
     },
     {
-      "title": "Shark vacuum allows anyone to view your live camera; they knew for months & did NOTHING to fix it",
-      "channel": "Louis Rossmann",
-      "videoId": "Z9eQazdaO1U",
-      "viewsPerHour": 906,
-      "views": 42667,
-      "ageHours": 47.1
-    },
-    {
-      "title": "Trump administration out of excuses for avoiding ICE accountability as outrage grows",
+      "title": "LIVE: Trump holds bilateral meeting with Lebanon's president as Middle East conflict escalates",
       "channel": "MS NOW",
-      "videoId": "zLKGlpFfDIo",
-      "viewsPerHour": 774,
-      "views": 8196,
-      "ageHours": 10.6
+      "videoId": "ydvwrfmFttk",
+      "viewsPerHour": 859,
+      "views": 2191,
+      "ageHours": 2.5
     },
     {
       "title": "Molly Shannon (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "O7xcD_5a2kU",
-      "viewsPerHour": 741,
+      "viewsPerHour": 694,
       "views": 21719,
-      "ageHours": 29.3
+      "ageHours": 31.3
     },
     {
-      "title": "Secret Pathways Leads to BIG Treasures (S1) | The Curse of Oak Island",
-      "channel": "History",
-      "videoId": "vVgSuqB8dOQ",
-      "viewsPerHour": 726,
-      "views": 33637,
-      "ageHours": 46.3
-    },
-    {
-      "title": "NYT: Defense Dept. withheld information on dozens of military injuries in Iran",
+      "title": "Trump administration out of excuses for avoiding ICE accountability as outrage grows",
       "channel": "MS NOW",
-      "videoId": "M2CC3YDHoBw",
-      "viewsPerHour": 420,
-      "views": 10260,
-      "ageHours": 24.4
+      "videoId": "zLKGlpFfDIo",
+      "viewsPerHour": 651,
+      "views": 8196,
+      "ageHours": 12.6
+    },
+    {
+      "title": "The SHOCKING story of how white supremacists ‘Stole a City’",
+      "channel": "MS NOW",
+      "videoId": "fuOj2rM6UZ0",
+      "viewsPerHour": 552,
+      "views": 1412,
+      "ageHours": 2.6
+    },
+    {
+      "title": "WATCH LIVE: House Foreign Affairs Committee holds hearing on confronting gangs in Haiti",
+      "channel": "PBS NewsHour",
+      "videoId": "1scmRIE29ak",
+      "viewsPerHour": 391,
+      "views": 2083,
+      "ageHours": 5.3
+    },
+    {
+      "title": "Mick Jagger's \"Competitive\" Friendship With David Bowie & John Lennon | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "dEwue7dHeIQ",
+      "viewsPerHour": 374,
+      "views": 1237,
+      "ageHours": 3.3
     },
     {
       "title": "U.S, Iran trade strikes for 10TH STRAIGHT NIGHT",
       "channel": "MS NOW",
       "videoId": "wk-i8yQV1w0",
-      "viewsPerHour": 412,
+      "viewsPerHour": 308,
       "views": 2433,
-      "ageHours": 5.9
+      "ageHours": 7.9
     },
     {
       "title": "PBS News Hour live episode, July 20, 2026",
       "channel": "PBS NewsHour",
       "videoId": "iTnh5sCb4BM",
-      "viewsPerHour": 235,
+      "viewsPerHour": 213,
       "views": 4579,
-      "ageHours": 19.5
+      "ageHours": 21.5
     },
     {
       "title": "U.S. launches more strikes on Iran after deaths of service members",
       "channel": "PBS NewsHour",
       "videoId": "qOr7XdOPWRs",
-      "viewsPerHour": 182,
+      "viewsPerHour": 164,
       "views": 3275,
-      "ageHours": 18
+      "ageHours": 20
     },
     {
       "title": "‘CLASSIC Donald Trump’: Nicolle reacts to AWKWARD Trump hogging stage at World Cup trophy ceremony",
       "channel": "MS NOW",
       "videoId": "C4mfDmq2FRY",
-      "viewsPerHour": 170,
+      "viewsPerHour": 153,
       "views": 2998,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
-      "title": "WATCH LIVE: House meets as U.S. expands bombing of Iran",
+      "title": "WATCH: Trump says new tariffs on Canada are not related to wildfires causing smoky skies",
       "channel": "PBS NewsHour",
-      "videoId": "T2etKWXb9eo",
-      "viewsPerHour": 124,
-      "views": 3052,
-      "ageHours": 24.6
+      "videoId": "Q1Fr4B6scgM",
+      "viewsPerHour": 61,
+      "views": 103,
+      "ageHours": 1.7
     },
     {
-      "title": "Progressive candidates divide Democratic midterm voters",
-      "channel": "MS NOW",
-      "videoId": "B8COE-fylRQ",
-      "viewsPerHour": 84,
-      "views": 2035,
-      "ageHours": 24.2
+      "title": "WATCH: Rep. Pressley questions American history professor in Smithsonian oversight hearing",
+      "channel": "PBS NewsHour",
+      "videoId": "3odVeY3Tei8",
+      "viewsPerHour": 28,
+      "views": 44,
+      "ageHours": 1.6
     },
     {
       "title": "Iran war hurting U.S. allies in region, former Jordanian foreign minister says",
       "channel": "PBS NewsHour",
       "videoId": "wbKJxtxMFbc",
-      "viewsPerHour": 20,
+      "viewsPerHour": 18,
       "views": 361,
-      "ageHours": 17.8
-    },
-    {
-      "title": "Why Trump, Iran 'misreading' each other may ESCALATE the war",
-      "channel": "MS NOW",
-      "videoId": "9xPvUfieB18",
-      "viewsPerHour": 6,
-      "views": 132,
-      "ageHours": 23.6
+      "ageHours": 19.8
     },
     {
       "title": "A discussion(maybe)",
@@ -670,15 +690,7 @@
       "videoId": "eQaZC4lg9nE",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 20.8
-    },
-    {
-      "title": "WATCH LIVE: Senate convenes as Democrats push for answers around ICE policies",
-      "channel": "PBS NewsHour",
-      "videoId": "gzuKqWnElAY",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 24.7
+      "ageHours": 22.8
     }
   ]
 }
