@@ -5,36 +5,36 @@
       "count": 7
     },
     {
-      "channel": "The Daily Show",
-      "count": 13
-    },
-    {
       "channel": "PBS NewsHour",
       "count": 8
+    },
+    {
+      "channel": "Real Stories",
+      "count": 36
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 11
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 23
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 12
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 13
     },
     {
       "channel": "History",
       "count": 13
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 21
-    },
-    {
       "channel": "NOVA",
       "count": 12
-    },
-    {
-      "channel": "Real Stories",
-      "count": 35
-    },
-    {
-      "channel": "Last Week Tonight",
-      "count": 10
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 11
     },
     {
       "channel": "More Perfect Union",
@@ -83,6 +83,26 @@
       "count": 7
     },
     {
+      "keyword": "PBS NewsHour",
+      "count": 7
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 20
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 11
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 23
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 12
+    },
+    {
       "keyword": "The Daily Show",
       "count": 13
     },
@@ -91,32 +111,12 @@
       "count": 1
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 7
-    },
-    {
       "keyword": "UFO, UAP",
       "count": 3
     },
     {
-      "keyword": "Louis Rossmann",
-      "count": 21
-    },
-    {
       "keyword": "NOVA",
       "count": 16
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 19
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "count": 10
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 11
     },
     {
       "keyword": "More Perfect Union",
@@ -202,11 +202,11 @@
   "dailySummary": [
     {
       "date": "2026-07-22",
-      "videos": 4
+      "videos": 15
     },
     {
       "date": "2026-07-21",
-      "videos": 24
+      "videos": 19
     },
     {
       "date": "2026-07-20",
@@ -230,7 +230,7 @@
     },
     {
       "date": "2026-07-15",
-      "videos": 8
+      "videos": 7
     },
     {
       "date": "2026-07-14",
@@ -423,44 +423,44 @@
       "matches": 7
     },
     {
+      "keyword": "PBS NewsHour",
+      "matches": 7
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 3
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 7
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 13
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
+    },
+    {
       "keyword": "The Daily Show",
-      "matches": 12
+      "matches": 13
     },
     {
       "keyword": "PBS NewsHour, AI, artificial intelligence",
       "matches": 1
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 7
-    },
-    {
       "keyword": "UFO, UAP",
       "matches": 1
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 11
     },
     {
       "keyword": "NOVA",
       "matches": 6
     },
     {
-      "keyword": "Real Stories",
-      "matches": 2
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "matches": 6
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 7
-    },
-    {
       "keyword": "More Perfect Union",
-      "matches": 3
+      "matches": 2
     },
     {
       "keyword": "AI",
@@ -476,7 +476,7 @@
     },
     {
       "keyword": "UFO",
-      "matches": 3
+      "matches": 2
     },
     {
       "keyword": "The Interview",
@@ -492,225 +492,273 @@
       "title": "Trump Crashes Spain's World Cup Moment & Jon Examines Team Trump's “Meritocracy\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "nYoETtrk0Hw",
-      "viewsPerHour": 103153,
-      "views": 3844314,
-      "ageHours": 37.3
+      "viewsPerHour": 99556,
+      "views": 3913059,
+      "ageHours": 39.3
     },
     {
       "title": "Trump Slaps Fiery Tariff on Canada & SAVE Act Takes Voting Cues from Olive Garden | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Hfg94T3WOAA",
-      "viewsPerHour": 78298,
-      "views": 1119036,
-      "ageHours": 14.3
+      "viewsPerHour": 75173,
+      "views": 1227527,
+      "ageHours": 16.3
+    },
+    {
+      "title": "Did a Secret \"Stargate\" in Iran Cause Trump's Endless War? Josh Johnson Finds Out | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "vey4Rnid1QU",
+      "viewsPerHour": 42759,
+      "views": 291728,
+      "ageHours": 6.8
     },
     {
       "title": "We Uncovered A Scam Hidden Inside Every Bowling Alley",
       "channel": "More Perfect Union",
       "videoId": "nC8hnkUs3fM",
-      "viewsPerHour": 11689,
-      "views": 307350,
-      "ageHours": 26.3
+      "viewsPerHour": 11663,
+      "views": 330420,
+      "ageHours": 28.3
     },
     {
       "title": "Ben Wikler - “This Is The Plan” & Taking On Elon Musk In Wisconsin | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "78HSvx217Tg",
-      "viewsPerHour": 7724,
-      "views": 284332,
-      "ageHours": 36.8
+      "viewsPerHour": 7602,
+      "views": 295302,
+      "ageHours": 38.8
     },
     {
       "title": "PBS News Hour full episode, July 21, 2026",
       "channel": "PBS NewsHour",
       "videoId": "do4V1dbbiRo",
-      "viewsPerHour": 6833,
+      "viewsPerHour": 6103,
       "views": 116399,
-      "ageHours": 17
+      "ageHours": 19.1
+    },
+    {
+      "title": "If you don't want to be recorded... now you know how we feel.......",
+      "channel": "Louis Rossmann",
+      "videoId": "HjbXmNoIho8",
+      "viewsPerHour": 2959,
+      "views": 15196,
+      "ageHours": 5.1
     },
     {
       "title": "Spain's World Cup Triumph, America's Big Diarrhea Week & Canada's Wildfire Smoke | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "rJIx8urwN_M",
-      "viewsPerHour": 2806,
-      "views": 109635,
-      "ageHours": 39.1
+      "viewsPerHour": 2708,
+      "views": 111329,
+      "ageHours": 41.1
     },
     {
       "title": "Megan Rapinoe on Activism, Life Post-Soccer & New Podcast “Why Are You Like This” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ZraX7ApS1s8",
-      "viewsPerHour": 2712,
-      "views": 34724,
-      "ageHours": 12.8
+      "viewsPerHour": 2596,
+      "views": 38528,
+      "ageHours": 14.8
     },
     {
       "title": "LIVE: Defense Secretary Hegseth TESTIFIES on Capitol Hill amid renewed strikes on Iran",
       "channel": "MS NOW",
       "videoId": "AFaJT0vphgs",
-      "viewsPerHour": 2307,
+      "viewsPerHour": 2074,
       "views": 41911,
-      "ageHours": 18.2
+      "ageHours": 20.2
+    },
+    {
+      "title": "LIVE: UN Amb. Mike Waltz testifies before House as Iran war escalates",
+      "channel": "MS NOW",
+      "videoId": "CElVdcv2oco",
+      "viewsPerHour": 1723,
+      "views": 22573,
+      "ageHours": 13.1
     },
     {
       "title": "S9 E10: Supreme Court Leak & The Philippines: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "1d1_wPJqeIY",
-      "viewsPerHour": 1430,
-      "views": 34742,
-      "ageHours": 24.3
+      "viewsPerHour": 1446,
+      "views": 38077,
+      "ageHours": 26.3
+    },
+    {
+      "title": "Reeks of corruption': Reaction to Trump approving Saudi nuclear deal amid Iran war",
+      "channel": "MS NOW",
+      "videoId": "CpqZ3XUrArQ",
+      "viewsPerHour": 1251,
+      "views": 2119,
+      "ageHours": 1.7
     },
     {
       "title": "Inside the Secret Government UFO Investigation (S2, E8) | Unidentified | Full Episode",
       "channel": "History",
       "videoId": "JPP2E77zplE",
-      "viewsPerHour": 1075,
-      "views": 19657,
-      "ageHours": 18.3
+      "viewsPerHour": 1017,
+      "views": 20679,
+      "ageHours": 20.3
+    },
+    {
+      "title": "S9 E11: Alabama Trans Youth Ban & Utilities: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "hWNhI74-Z2A",
+      "viewsPerHour": 733,
+      "views": 1707,
+      "ageHours": 2.3
     },
     {
       "title": "WeRecoverData Examined By Former Federal Fraud Investigator @fakereviewwatch",
       "channel": "Louis Rossmann",
       "videoId": "LGe3zC6_iro",
-      "viewsPerHour": 807,
+      "viewsPerHour": 729,
       "views": 15229,
-      "ageHours": 18.9
+      "ageHours": 20.9
+    },
+    {
+      "title": "Boulder, Colorado, COME OUT THIS FRIDAY THE 24TH!",
+      "channel": "Louis Rossmann",
+      "videoId": "MuNn1poFAps",
+      "viewsPerHour": 602,
+      "views": 1639,
+      "ageHours": 2.7
+    },
+    {
+      "title": "WATCH LIVE: UN Ambassador Mike Waltz testifies before House Foreign Affairs Committee",
+      "channel": "PBS NewsHour",
+      "videoId": "XqiwFTV7kHA",
+      "viewsPerHour": 540,
+      "views": 2973,
+      "ageHours": 5.5
     },
     {
       "title": "U.S, Iran trade strikes for 11th straight night",
       "channel": "MS NOW",
       "videoId": "DaZeP2Wawlc",
-      "viewsPerHour": 489,
+      "viewsPerHour": 367,
       "views": 2994,
-      "ageHours": 6.1
+      "ageHours": 8.2
     },
     {
       "title": "Epstein survivor criticizes Blanche, calls meeting 'a performative move'",
       "channel": "PBS NewsHour",
       "videoId": "xQrfkHOcFRA",
-      "viewsPerHour": 399,
+      "viewsPerHour": 357,
       "views": 6907,
-      "ageHours": 17.3
+      "ageHours": 19.3
     },
     {
       "title": "Conan, Sona, & Gourley Swap Swim Lesson Stories | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "oxURlTwKtEo",
-      "viewsPerHour": 344,
+      "viewsPerHour": 321,
       "views": 9743,
-      "ageHours": 28.3
+      "ageHours": 30.3
+    },
+    {
+      "title": "Norway's Most Tragic Day: 15 Years After the Utøya Massacre",
+      "channel": "Real Stories",
+      "videoId": "wlD4tjd5aCY",
+      "viewsPerHour": 289,
+      "views": 671,
+      "ageHours": 2.3
     },
     {
       "title": "Mystery Beneath Antarctica's Glaciers | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "DPsPgxsIeV0",
-      "viewsPerHour": 273,
-      "views": 5915,
-      "ageHours": 21.6
+      "viewsPerHour": 259,
+      "views": 6127,
+      "ageHours": 23.7
+    },
+    {
+      "title": "Jake Johnson (Full Episode) | Where Everybody Knows Your Name",
+      "channel": "Conan O'Brien",
+      "videoId": "tWV2Z8EZYc4",
+      "viewsPerHour": 256,
+      "views": 1623,
+      "ageHours": 6.3
+    },
+    {
+      "title": "WATCH LIVE: White House science adviser Michael Kratsios testifies on research agenda before House",
+      "channel": "PBS NewsHour",
+      "videoId": "beBBsONpR3Y",
+      "viewsPerHour": 233,
+      "views": 1263,
+      "ageHours": 5.4
     },
     {
       "title": "PBS News Hour live episode, July 21, 2026",
       "channel": "PBS NewsHour",
       "videoId": "AaizWjW5k6E",
-      "viewsPerHour": 222,
+      "viewsPerHour": 201,
       "views": 4310,
-      "ageHours": 19.4
-    },
-    {
-      "title": "MS NOW Highlights - July 21",
-      "channel": "MS NOW",
-      "videoId": "oq98uKx9Xec",
-      "viewsPerHour": 184,
-      "views": 1112,
-      "ageHours": 6
+      "ageHours": 21.5
     },
     {
       "title": "Charles Manson Was My Grandfather - Family Curse",
       "channel": "Real Stories",
       "videoId": "1YRiOJ7PV9g",
-      "viewsPerHour": 154,
-      "views": 3437,
-      "ageHours": 22.3
+      "viewsPerHour": 150,
+      "views": 3637,
+      "ageHours": 24.3
+    },
+    {
+      "title": "MS NOW Highlights - July 21",
+      "channel": "MS NOW",
+      "videoId": "oq98uKx9Xec",
+      "viewsPerHour": 138,
+      "views": 1112,
+      "ageHours": 8.1
     },
     {
       "title": "Anna Deavere Smith brings her family's history to the stage in 'Basil Biggs'",
       "channel": "PBS NewsHour",
       "videoId": "SlmqGfwKzcY",
-      "viewsPerHour": 109,
+      "viewsPerHour": 98,
       "views": 1882,
-      "ageHours": 17.2
-    },
-    {
-      "title": "LIVE: Trump holds bilateral meeting with Lebanon's president as Middle East conflict escalates",
-      "channel": "MS NOW",
-      "videoId": "ydvwrfmFttk",
-      "viewsPerHour": 89,
-      "views": 2191,
-      "ageHours": 24.5
-    },
-    {
-      "title": "WATCH LIVE: House Foreign Affairs Committee holds hearing on confronting gangs in Haiti",
-      "channel": "PBS NewsHour",
-      "videoId": "1scmRIE29ak",
-      "viewsPerHour": 76,
-      "views": 2083,
-      "ageHours": 27.3
-    },
-    {
-      "title": "The SHOCKING story of how white supremacists ‘Stole a City’",
-      "channel": "MS NOW",
-      "videoId": "fuOj2rM6UZ0",
-      "viewsPerHour": 58,
-      "views": 1412,
-      "ageHours": 24.5
+      "ageHours": 19.3
     },
     {
       "title": "Unlimited money for bombs': Sen. Gillibrand PRESSES Hegseth on Iran War funding",
       "channel": "MS NOW",
       "videoId": "mjs5geXm9yg",
-      "viewsPerHour": 56,
+      "viewsPerHour": 50,
       "views": 994,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "Mick Jagger's \"Competitive\" Friendship With David Bowie & John Lennon | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "dEwue7dHeIQ",
-      "viewsPerHour": 49,
+      "viewsPerHour": 45,
       "views": 1237,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
       "title": "Sen. Murphy to Hegseth: Can you commit to Trump NOT keeping Qatari-gifted jet when he leaves office?",
       "channel": "MS NOW",
       "videoId": "ZRLrBkoDq0s",
-      "viewsPerHour": 37,
+      "viewsPerHour": 33,
       "views": 648,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "Trump raises tensions with Canada by announcing new 50% tariffs",
       "channel": "PBS NewsHour",
       "videoId": "1nAWUSR2rBM",
-      "viewsPerHour": 15,
+      "viewsPerHour": 14,
       "views": 272,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
-      "title": "WATCH: Trump says new tariffs on Canada are not related to wildfires causing smoky skies",
+      "title": "WATCH LIVE: House panel examines Delaney Hall ICE Detention Center conditions and protests",
       "channel": "PBS NewsHour",
-      "videoId": "Q1Fr4B6scgM",
-      "viewsPerHour": 4,
-      "views": 103,
-      "ageHours": 23.7
-    },
-    {
-      "title": "WATCH: Rep. Pressley questions American history professor in Smithsonian oversight hearing",
-      "channel": "PBS NewsHour",
-      "videoId": "3odVeY3Tei8",
-      "viewsPerHour": 2,
-      "views": 44,
-      "ageHours": 23.6
+      "videoId": "9cug2Pjyih0",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 2.1
     },
     {
       "title": "A discussion(maybe)",
@@ -718,7 +766,7 @@
       "videoId": "eQaZC4lg9nE",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 44.7
+      "ageHours": 46.8
     }
   ]
 }
