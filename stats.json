@@ -2,15 +2,35 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 6
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 14
+      "count": 7
     },
     {
       "channel": "PBS NewsHour",
       "count": 9
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 12
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 14
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 22
+    },
+    {
+      "channel": "Mayim Bialik",
+      "count": 5
+    },
+    {
+      "channel": "Jonathan Pie",
+      "count": 6
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 13
     },
     {
       "channel": "The Rest Is Science",
@@ -21,20 +41,8 @@
       "count": 14
     },
     {
-      "channel": "Conan O'Brien",
-      "count": 13
-    },
-    {
       "channel": "Real Stories",
-      "count": 36
-    },
-    {
-      "channel": "Last Week Tonight",
-      "count": 11
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 21
+      "count": 35
     },
     {
       "channel": "NOVA",
@@ -57,14 +65,6 @@
       "count": 4
     },
     {
-      "channel": "Mayim Bialik",
-      "count": 4
-    },
-    {
-      "channel": "Jonathan Pie",
-      "count": 5
-    },
-    {
       "channel": "Area 52",
       "count": 7
     },
@@ -80,19 +80,39 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
+      "count": 7
+    },
+    {
+      "keyword": "PBS NewsHour, AI",
+      "count": 3
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 6
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 12
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 14
+    },
+    {
+      "keyword": "Louis Rossmann, Samsung",
+      "count": 1
+    },
+    {
+      "keyword": "AI",
+      "count": 5
+    },
+    {
+      "keyword": "Jonathan Pie",
       "count": 6
     },
     {
       "keyword": "The Daily Show",
-      "count": 14
-    },
-    {
-      "keyword": "PBS NewsHour, AI",
-      "count": 2
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 7
+      "count": 13
     },
     {
       "keyword": "The Rest Is Science",
@@ -103,16 +123,8 @@
       "count": 2
     },
     {
-      "keyword": "Conan O'Brien",
-      "count": 13
-    },
-    {
       "keyword": "Real Stories",
-      "count": 20
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "count": 11
+      "count": 19
     },
     {
       "keyword": "Louis Rossmann",
@@ -129,10 +141,6 @@
     {
       "keyword": "More Perfect Union",
       "count": 14
-    },
-    {
-      "keyword": "AI",
-      "count": 4
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -157,10 +165,6 @@
     {
       "keyword": "AI, artificial intelligence",
       "count": 1
-    },
-    {
-      "keyword": "Jonathan Pie",
-      "count": 5
     },
     {
       "keyword": "Grusch, UAP, UFO",
@@ -202,11 +206,11 @@
   "dailySummary": [
     {
       "date": "2026-07-23",
-      "videos": 5
+      "videos": 16
     },
     {
       "date": "2026-07-22",
-      "videos": 24
+      "videos": 20
     },
     {
       "date": "2026-07-21",
@@ -230,7 +234,7 @@
     },
     {
       "date": "2026-07-16",
-      "videos": 9
+      "videos": 8
     },
     {
       "date": "2026-07-15",
@@ -242,7 +246,7 @@
     },
     {
       "date": "2026-07-13",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-07-12",
@@ -413,10 +417,6 @@
       "videos": 1
     },
     {
-      "date": "2026-05-24",
-      "videos": 1
-    },
-    {
       "date": "2026-04-09",
       "videos": 1
     }
@@ -424,19 +424,39 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
+      "matches": 7
+    },
+    {
+      "keyword": "PBS NewsHour, AI",
+      "matches": 3
+    },
+    {
+      "keyword": "PBS NewsHour",
       "matches": 6
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 7
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 9
+    },
+    {
+      "keyword": "Louis Rossmann, Samsung",
+      "matches": 1
+    },
+    {
+      "keyword": "AI",
+      "matches": 2
+    },
+    {
+      "keyword": "Jonathan Pie",
+      "matches": 1
     },
     {
       "keyword": "The Daily Show",
       "matches": 13
-    },
-    {
-      "keyword": "PBS NewsHour, AI",
-      "matches": 2
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 7
     },
     {
       "keyword": "The Rest Is Science",
@@ -447,16 +467,8 @@
       "matches": 1
     },
     {
-      "keyword": "Conan O'Brien",
-      "matches": 7
-    },
-    {
       "keyword": "Real Stories",
       "matches": 3
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "matches": 6
     },
     {
       "keyword": "Louis Rossmann",
@@ -473,10 +485,6 @@
     {
       "keyword": "More Perfect Union",
       "matches": 2
-    },
-    {
-      "keyword": "AI",
-      "matches": 1
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -500,249 +508,305 @@
       "title": "Trump’s Cabinet Is on TikTok, Conservatives Move Iran Goalposts & TDS Turns 30 | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "MnFHVZAtcb4",
-      "viewsPerHour": 66865,
-      "views": 906423,
-      "ageHours": 13.6
+      "viewsPerHour": 63242,
+      "views": 983863,
+      "ageHours": 15.6
     },
     {
       "title": "Trump Slaps Fiery Tariff on Canada & SAVE Act Takes Voting Cues from Olive Garden | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Hfg94T3WOAA",
-      "viewsPerHour": 46131,
-      "views": 1766423,
-      "ageHours": 38.3
+      "viewsPerHour": 44333,
+      "views": 1786321,
+      "ageHours": 40.3
     },
     {
       "title": "Did a Secret \"Stargate\" in Iran Cause Trump's Endless War? Josh Johnson Finds Out | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "vey4Rnid1QU",
-      "viewsPerHour": 26740,
-      "views": 769726,
-      "ageHours": 28.8
+      "viewsPerHour": 25626,
+      "views": 788943,
+      "ageHours": 30.8
     },
     {
       "title": "TDS Celebrates Its 30th with a Look Back at Three Decades of News Coverage | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "rNSpJEmSOO8",
-      "viewsPerHour": 26439,
-      "views": 384558,
-      "ageHours": 14.5
+      "viewsPerHour": 25138,
+      "views": 415938,
+      "ageHours": 16.5
+    },
+    {
+      "title": "Samsung SSD warranty update: they refunded me $1234.04 for my defective 990 Pro 4 TB drive",
+      "channel": "Louis Rossmann",
+      "videoId": "fR91G9uQ6l0",
+      "viewsPerHour": 8046,
+      "views": 36489,
+      "ageHours": 4.5
     },
     {
       "title": "Elliot Page - “The Odyssey” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "LHoeo7YwxQw",
-      "viewsPerHour": 7093,
-      "views": 90777,
-      "ageHours": 12.8
+      "viewsPerHour": 7017,
+      "views": 103852,
+      "ageHours": 14.8
+    },
+    {
+      "title": "Psychic Ability, Energy Healing & Remote Viewing: Her 100% Success Rate | Lisa Kudrow",
+      "channel": "Mayim Bialik",
+      "videoId": "oix6y4IpSCA",
+      "viewsPerHour": 6561,
+      "views": 47824,
+      "ageHours": 7.3
     },
     {
       "title": "Conan Addresses His New Hairstyle | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "yQ38zdF1c_0",
-      "viewsPerHour": 5427,
+      "viewsPerHour": 4997,
       "views": 126431,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "Hack Dog Vision To Keep Your Bones Safe",
       "channel": "The Rest Is Science",
       "videoId": "dChFLeQ6wuo",
-      "viewsPerHour": 3537,
-      "views": 61127,
-      "ageHours": 17.3
+      "viewsPerHour": 3416,
+      "views": 65868,
+      "ageHours": 19.3
     },
     {
       "title": "PBS News Hour full episode, July 22, 2026",
       "channel": "PBS NewsHour",
       "videoId": "c_-zoyClST4",
-      "viewsPerHour": 3451,
+      "viewsPerHour": 3084,
       "views": 58097,
-      "ageHours": 16.8
+      "ageHours": 18.8
     },
     {
       "title": "The Mysterious Flash of Homestead Three (S7) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "fzRZSoRsYw0",
-      "viewsPerHour": 2868,
-      "views": 63930,
-      "ageHours": 22.3
+      "viewsPerHour": 2713,
+      "views": 65900,
+      "ageHours": 24.3
+    },
+    {
+      "title": "Dumbest thing I've read in 14 years': Dem Rep. blasts Trump admin report detailing Cuban threat",
+      "channel": "MS NOW",
+      "videoId": "o1Xnp6EPiS4",
+      "viewsPerHour": 2140,
+      "views": 4503,
+      "ageHours": 2.1
     },
     {
       "title": "Megan Rapinoe on Activism, Life Post-Soccer & New Podcast “Why Are You Like This” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ZraX7ApS1s8",
-      "viewsPerHour": 1563,
-      "views": 57531,
-      "ageHours": 36.8
+      "viewsPerHour": 1503,
+      "views": 58344,
+      "ageHours": 38.8
+    },
+    {
+      "title": "Coming Soon: The End of The World",
+      "channel": "Jonathan Pie",
+      "videoId": "yaKwdD1jJoI",
+      "viewsPerHour": 1361,
+      "views": 10092,
+      "ageHours": 7.4
+    },
+    {
+      "title": "Conan Learns The Requirements To Become A Journeyman Bladesmith | Conan O'Brien Needs A Fan",
+      "channel": "Conan O'Brien",
+      "videoId": "N3Wk6cVeXsU",
+      "viewsPerHour": 1250,
+      "views": 7871,
+      "ageHours": 6.3
+    },
+    {
+      "title": "Is Trump TANKING the GOP’s midterm chances?",
+      "channel": "MS NOW",
+      "videoId": "JU6E5qX1H2o",
+      "viewsPerHour": 1045,
+      "views": 2065,
+      "ageHours": 2
     },
     {
       "title": "Trump AG nomination on LIFE SUPPORT as GOP Senators REVOLT over $1.8B slush fund",
       "channel": "MS NOW",
       "videoId": "g-hBxnyWjm8",
-      "viewsPerHour": 1125,
+      "viewsPerHour": 1015,
       "views": 20775,
-      "ageHours": 18.5
+      "ageHours": 20.5
+    },
+    {
+      "title": "S9 E12: 2022 Midterms & Subway: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "TNDgVRlOnkE",
+      "viewsPerHour": 981,
+      "views": 2252,
+      "ageHours": 2.3
     },
     {
       "title": "Should, never, ever become normal': Nicolle SLAMS Trump for using fallen soldiers to justify war",
       "channel": "MS NOW",
       "videoId": "iGGeMQ5WNnc",
-      "viewsPerHour": 1084,
+      "viewsPerHour": 979,
       "views": 20286,
-      "ageHours": 18.7
+      "ageHours": 20.7
     },
     {
       "title": "Inside the Secret Government UFO Investigation (S2, E8) | Unidentified | Full Episode",
       "channel": "History",
       "videoId": "JPP2E77zplE",
-      "viewsPerHour": 826,
-      "views": 34911,
-      "ageHours": 42.3
+      "viewsPerHour": 800,
+      "views": 35428,
+      "ageHours": 44.3
     },
     {
-      "title": "If you don't want to be recorded... now you know how we feel.......",
-      "channel": "Louis Rossmann",
-      "videoId": "HjbXmNoIho8",
-      "viewsPerHour": 561,
-      "views": 15196,
-      "ageHours": 27.1
+      "title": "WATCH LIVE: White House says Saudi nuclear deal 'contingent' on Abraham Accords participation",
+      "channel": "PBS NewsHour",
+      "videoId": "cbQ587Pcpe4",
+      "viewsPerHour": 764,
+      "views": 1731,
+      "ageHours": 2.3
     },
     {
       "title": "S9 E11: Alabama Trans Youth Ban & Utilities: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "hWNhI74-Z2A",
-      "viewsPerHour": 553,
-      "views": 13434,
-      "ageHours": 24.3
+      "viewsPerHour": 536,
+      "views": 14105,
+      "ageHours": 26.3
+    },
+    {
+      "title": "If you don't want to be recorded... now you know how we feel.......",
+      "channel": "Louis Rossmann",
+      "videoId": "HjbXmNoIho8",
+      "viewsPerHour": 522,
+      "views": 15196,
+      "ageHours": 29.1
     },
     {
       "title": "This is about the rule of law': U.S. attorney fired by Trump sues to overturn dismissal",
       "channel": "PBS NewsHour",
       "videoId": "VhjjzEGC7h8",
-      "viewsPerHour": 529,
+      "viewsPerHour": 474,
       "views": 9124,
-      "ageHours": 17.3
+      "ageHours": 19.3
     },
     {
       "title": "WeRecoverData Examined By Former Federal Fraud Investigator @fakereviewwatch",
       "channel": "Louis Rossmann",
       "videoId": "LGe3zC6_iro",
-      "viewsPerHour": 355,
+      "viewsPerHour": 339,
       "views": 15229,
-      "ageHours": 42.9
+      "ageHours": 44.9
     },
     {
-      "title": "Trump threatens Iran infrastructure as strikes reach Day 12",
-      "channel": "MS NOW",
-      "videoId": "8BlcUfTR2e4",
-      "viewsPerHour": 325,
-      "views": 1899,
-      "ageHours": 5.8
+      "title": "Olivia Wilde Got Into A Golf Cart Crash With Harrison Ford | CONAN on TBS",
+      "channel": "Conan O'Brien",
+      "videoId": "dGWMvv16a90",
+      "viewsPerHour": 281,
+      "views": 926,
+      "ageHours": 3.3
     },
     {
       "title": "Mystery Beneath Antarctica's Glaciers | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "DPsPgxsIeV0",
-      "viewsPerHour": 264,
-      "views": 12054,
-      "ageHours": 45.6
+      "viewsPerHour": 257,
+      "views": 12261,
+      "ageHours": 47.6
+    },
+    {
+      "title": "Trump threatens Iran infrastructure as strikes reach Day 12",
+      "channel": "MS NOW",
+      "videoId": "8BlcUfTR2e4",
+      "viewsPerHour": 242,
+      "views": 1899,
+      "ageHours": 7.8
     },
     {
       "title": "PBS News Hour live episode, July 22, 2026",
       "channel": "PBS NewsHour",
       "videoId": "kYExTJ2B1rA",
-      "viewsPerHour": 223,
+      "viewsPerHour": 202,
       "views": 4226,
-      "ageHours": 18.9
-    },
-    {
-      "title": "MS NOW Highlights - July 22",
-      "channel": "MS NOW",
-      "videoId": "gBpNNq-MAtU",
-      "viewsPerHour": 191,
-      "views": 1157,
-      "ageHours": 6.1
-    },
-    {
-      "title": "Thomas Jefferson's complicated legacy 250 years after the Declaration of Independence",
-      "channel": "PBS NewsHour",
-      "videoId": "xDVd4jMCmSk",
-      "viewsPerHour": 186,
-      "views": 3189,
-      "ageHours": 17.1
+      "ageHours": 20.9
     },
     {
       "title": "Norway's Most Tragic Day: 15 Years After the Utøya Massacre",
       "channel": "Real Stories",
       "videoId": "wlD4tjd5aCY",
-      "viewsPerHour": 173,
-      "views": 4190,
-      "ageHours": 24.3
+      "viewsPerHour": 168,
+      "views": 4406,
+      "ageHours": 26.3
     },
     {
-      "title": "Charles Manson Was My Grandfather - Family Curse",
-      "channel": "Real Stories",
-      "videoId": "1YRiOJ7PV9g",
-      "viewsPerHour": 116,
-      "views": 5374,
-      "ageHours": 46.3
-    },
-    {
-      "title": "WATCH LIVE: UN Ambassador Mike Waltz testifies before House Foreign Affairs Committee",
+      "title": "Thomas Jefferson's complicated legacy 250 years after the Declaration of Independence",
       "channel": "PBS NewsHour",
-      "videoId": "XqiwFTV7kHA",
-      "viewsPerHour": 108,
-      "views": 2973,
-      "ageHours": 27.5
+      "videoId": "xDVd4jMCmSk",
+      "viewsPerHour": 167,
+      "views": 3189,
+      "ageHours": 19.1
     },
     {
-      "title": "Reeks of corruption': Reaction to Trump approving Saudi nuclear deal amid Iran war",
+      "title": "MS NOW Highlights - July 22",
       "channel": "MS NOW",
-      "videoId": "CpqZ3XUrArQ",
-      "viewsPerHour": 90,
-      "views": 2119,
-      "ageHours": 23.7
+      "videoId": "gBpNNq-MAtU",
+      "viewsPerHour": 144,
+      "views": 1157,
+      "ageHours": 8.1
+    },
+    {
+      "title": "WATCH: Leavitt is asked whether Trump will confront Xi over AI technology theft concerns",
+      "channel": "PBS NewsHour",
+      "videoId": "-aik_mI4hXo",
+      "viewsPerHour": 105,
+      "views": 211,
+      "ageHours": 2
+    },
+    {
+      "title": "WATCH: Trump's 'patience is running out' on Save America Act, White House says",
+      "channel": "PBS NewsHour",
+      "videoId": "XteGWjQVmOE",
+      "viewsPerHour": 80,
+      "views": 164,
+      "ageHours": 2
     },
     {
       "title": "Texas GOP hopes to ban IVF and surrogacy",
       "channel": "MS NOW",
       "videoId": "ejohhxj8KSI",
-      "viewsPerHour": 71,
+      "viewsPerHour": 64,
       "views": 1365,
-      "ageHours": 19.4
+      "ageHours": 21.4
     },
     {
       "title": "News Wrap: Tropical Storm Bertha makes landfall in Louisiana",
       "channel": "PBS NewsHour",
       "videoId": "oqr9z0uKE1E",
-      "viewsPerHour": 68,
+      "viewsPerHour": 61,
       "views": 1214,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "Boulder, Colorado, COME OUT THIS FRIDAY THE 24TH!",
       "channel": "Louis Rossmann",
       "videoId": "MuNn1poFAps",
-      "viewsPerHour": 66,
+      "viewsPerHour": 61,
       "views": 1639,
-      "ageHours": 24.7
+      "ageHours": 26.7
     },
     {
       "title": "Jake Johnson (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "tWV2Z8EZYc4",
-      "viewsPerHour": 57,
+      "viewsPerHour": 54,
       "views": 1623,
-      "ageHours": 28.3
-    },
-    {
-      "title": "WATCH LIVE: White House science adviser Michael Kratsios testifies on research agenda before House",
-      "channel": "PBS NewsHour",
-      "videoId": "beBBsONpR3Y",
-      "viewsPerHour": 46,
-      "views": 1263,
-      "ageHours": 27.4
+      "ageHours": 30.3
     },
     {
       "title": "The implications of Trump loyalists and election deniers winning GOP primaries",
@@ -750,15 +814,7 @@
       "videoId": "Eh9QKr2sLPs",
       "viewsPerHour": 2,
       "views": 32,
-      "ageHours": 17.6
-    },
-    {
-      "title": "WATCH LIVE: House panel examines Delaney Hall ICE Detention Center conditions and protests",
-      "channel": "PBS NewsHour",
-      "videoId": "9cug2Pjyih0",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 24.1
+      "ageHours": 19.6
     }
   ]
 }
