@@ -2,11 +2,11 @@
   "videosPerChannel": [
     {
       "channel": "PBS NewsHour",
-      "count": 7
+      "count": 5
     },
     {
       "channel": "MS NOW",
-      "count": 10
+      "count": 7
     },
     {
       "channel": "Louis Rossmann",
@@ -80,11 +80,11 @@
   "keywordFrequency": [
     {
       "keyword": "PBS NewsHour",
-      "count": 6
+      "count": 4
     },
     {
       "keyword": "MS NOW",
-      "count": 10
+      "count": 7
     },
     {
       "keyword": "Louis Rossmann",
@@ -202,11 +202,11 @@
   "dailySummary": [
     {
       "date": "2026-07-24",
-      "videos": 28
+      "videos": 25
     },
     {
       "date": "2026-07-23",
-      "videos": 12
+      "videos": 10
     },
     {
       "date": "2026-07-22",
@@ -420,11 +420,11 @@
   "topKeywordsWeek": [
     {
       "keyword": "PBS NewsHour",
-      "matches": 6
+      "matches": 4
     },
     {
       "keyword": "MS NOW",
-      "matches": 10
+      "matches": 7
     },
     {
       "keyword": "Louis Rossmann",
@@ -504,297 +504,257 @@
       "title": "Trump Rails Against Communism at Georgia Rally & Don Jr. Swears He Doesn’t Do Coke | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "wyzHlTpoDko",
-      "viewsPerHour": 54382,
+      "viewsPerHour": 50529,
       "views": 1429320,
-      "ageHours": 26.3
+      "ageHours": 28.3
     },
     {
       "title": "Leslie Jones on Right-Wing Claims That Racism Is Over & What Allyship Really Means | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "n5NHPoRbno4",
-      "viewsPerHour": 13068,
+      "viewsPerHour": 11602,
       "views": 207203,
-      "ageHours": 15.9
+      "ageHours": 17.9
     },
     {
       "title": "BREAKING: Trump ABRUPTLY changed planes after CREDIBLE Iranian threat, NYTimes reports",
       "channel": "MS NOW",
       "videoId": "m-tlAsxChj4",
-      "viewsPerHour": 7670,
+      "viewsPerHour": 5777,
       "views": 46921,
-      "ageHours": 6.1
+      "ageHours": 8.1
     },
     {
       "title": "We Went To The Most Conservative District In South Texas. Can A Democrat Win These Voters?",
       "channel": "More Perfect Union",
       "videoId": "f1HfTNzhsVg",
-      "viewsPerHour": 5715,
+      "viewsPerHour": 4933,
       "views": 72241,
-      "ageHours": 12.6
+      "ageHours": 14.6
     },
     {
       "title": "Psychic Ability, Energy Healing & Remote Viewing: Her 100% Success Rate | Lisa Kudrow",
       "channel": "Mayim Bialik",
       "videoId": "oix6y4IpSCA",
-      "viewsPerHour": 4694,
+      "viewsPerHour": 4477,
       "views": 193800,
-      "ageHours": 41.3
+      "ageHours": 43.3
     },
     {
       "title": "Ancient Structures Found Underground | The Curse of Oak Island",
       "channel": "History",
       "videoId": "9L6XZOcz7-I",
-      "viewsPerHour": 3355,
+      "viewsPerHour": 2885,
       "views": 41222,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "Bizarre Events STUN the Team | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "Hvgdubeb4t4",
-      "viewsPerHour": 2781,
+      "viewsPerHour": 2287,
       "views": 25825,
-      "ageHours": 9.3
+      "ageHours": 11.3
     },
     {
       "title": "Louis Theroux Returns To The West Bank After October 7th",
       "channel": "Real Stories",
       "videoId": "eZgTc45HrVk",
-      "viewsPerHour": 1762,
-      "views": 58652,
-      "ageHours": 33.3
+      "viewsPerHour": 1752,
+      "views": 61845,
+      "ageHours": 35.3
     },
     {
       "title": "Karolina Wydra - Emmy-Nominated Role in “Pluribus” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "RK74_9qukBI",
-      "viewsPerHour": 1694,
+      "viewsPerHour": 1568,
       "views": 42034,
-      "ageHours": 24.8
-    },
-    {
-      "title": "PBS News Hour full episode, July 23, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "d2fVRkHJdrM",
-      "viewsPerHour": 1589,
-      "views": 45443,
-      "ageHours": 28.6
+      "ageHours": 26.8
     },
     {
       "title": "Iran claims to have launched drones at U.S. military bases",
       "channel": "MS NOW",
       "videoId": "DZSqV9XPjHw",
-      "viewsPerHour": 1275,
+      "viewsPerHour": 1100,
       "views": 16036,
-      "ageHours": 12.6
+      "ageHours": 14.6
     },
     {
       "title": "Bosch parts sheet demonstrates why EU Right to Repair is a meme",
       "channel": "Louis Rossmann",
       "videoId": "mFeXZNScWxI",
-      "viewsPerHour": 1230,
+      "viewsPerHour": 1089,
       "views": 18999,
-      "ageHours": 15.4
-    },
-    {
-      "title": "\"A FETISH\": Trump doubles down on UNPOPULAR tariffs even as voters FUME over rising costs",
-      "channel": "MS NOW",
-      "videoId": "1LhCeSXbQKw",
-      "viewsPerHour": 1095,
-      "views": 7204,
-      "ageHours": 6.6
+      "ageHours": 17.4
     },
     {
       "title": "S9 E12: 2022 Midterms & Subway: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "TNDgVRlOnkE",
-      "viewsPerHour": 967,
+      "viewsPerHour": 917,
       "views": 35095,
-      "ageHours": 36.3
+      "ageHours": 38.3
     },
     {
       "title": "Samsung SSD warranty update: they refunded me $1234.04 for my defective 990 Pro 4 TB drive",
       "channel": "Louis Rossmann",
       "videoId": "fR91G9uQ6l0",
-      "viewsPerHour": 947,
+      "viewsPerHour": 900,
       "views": 36489,
-      "ageHours": 38.5
+      "ageHours": 40.5
+    },
+    {
+      "title": "\"A FETISH\": Trump doubles down on UNPOPULAR tariffs even as voters FUME over rising costs",
+      "channel": "MS NOW",
+      "videoId": "1LhCeSXbQKw",
+      "viewsPerHour": 839,
+      "views": 7204,
+      "ageHours": 8.6
     },
     {
       "title": "S9 E13: Uvalde Update & School Police: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "AGvr2TUsVys",
-      "viewsPerHour": 641,
+      "viewsPerHour": 551,
       "views": 7880,
-      "ageHours": 12.3
-    },
-    {
-      "title": "Colorado State Legislature with mini liebschti",
-      "channel": "Louis Rossmann",
-      "videoId": "c2lsGOX6ds0",
-      "viewsPerHour": 597,
-      "views": 4775,
-      "ageHours": 8
-    },
-    {
-      "title": "WATCH LIVE: FDA advisory panel considers use of peptides",
-      "channel": "PBS NewsHour",
-      "videoId": "Hat15_exKgY",
-      "viewsPerHour": 590,
-      "views": 16733,
-      "ageHours": 28.4
-    },
-    {
-      "title": "PBS News Hour live episode, July 24, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "WjWGfSTU4bA",
-      "viewsPerHour": 588,
-      "views": 4206,
-      "ageHours": 7.1
+      "ageHours": 14.3
     },
     {
       "title": "Coming Soon: The End of The World",
       "channel": "Jonathan Pie",
       "videoId": "yaKwdD1jJoI",
-      "viewsPerHour": 508,
-      "views": 21046,
-      "ageHours": 41.4
+      "viewsPerHour": 487,
+      "views": 21130,
+      "ageHours": 43.4
+    },
+    {
+      "title": "Colorado State Legislature with mini liebschti",
+      "channel": "Louis Rossmann",
+      "videoId": "c2lsGOX6ds0",
+      "viewsPerHour": 477,
+      "views": 4775,
+      "ageHours": 10
+    },
+    {
+      "title": "PBS News Hour live episode, July 24, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "WjWGfSTU4bA",
+      "viewsPerHour": 460,
+      "views": 4206,
+      "ageHours": 9.2
     },
     {
       "title": "We’ve Been Using UAP Tech for Millenia",
       "channel": "Chris Lehto",
       "videoId": "PXdoxAFkFLI",
-      "viewsPerHour": 410,
+      "viewsPerHour": 348,
       "views": 4629,
-      "ageHours": 11.3
+      "ageHours": 13.3
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - July 23 | Audio Only",
       "channel": "MS NOW",
       "videoId": "EjBEDuzKBi8",
-      "viewsPerHour": 345,
+      "viewsPerHour": 318,
       "views": 7941,
-      "ageHours": 23
+      "ageHours": 25
     },
     {
       "title": "WATCH LIVE: House Education Committee holds field hearing on AI-driven workforce opportunities",
       "channel": "PBS NewsHour",
       "videoId": "AXCb_50dwmQ",
-      "viewsPerHour": 270,
+      "viewsPerHour": 230,
       "views": 3095,
-      "ageHours": 11.5
+      "ageHours": 13.5
     },
     {
       "title": "How Origami Is Building the Future | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "ofIIvwf1OrE",
-      "viewsPerHour": 270,
+      "viewsPerHour": 221,
       "views": 2481,
-      "ageHours": 9.2
-    },
-    {
-      "title": "Why the global oil market is a bigger mess than you realize",
-      "channel": "MS NOW",
-      "videoId": "ptVxKFW-sSA",
-      "viewsPerHour": 266,
-      "views": 6369,
-      "ageHours": 23.9
+      "ageHours": 11.2
     },
     {
       "title": "Jenifer Lewis urges voter engagement, calls for Americans to ‘rise’ amid Trump policies",
       "channel": "MS NOW",
       "videoId": "SOWHJSaYMas",
-      "viewsPerHour": 245,
+      "viewsPerHour": 211,
       "views": 3016,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "Trump considering 'massive attack' on Iran: AXIOS",
       "channel": "MS NOW",
       "videoId": "CTgRJxmAiVA",
-      "viewsPerHour": 220,
+      "viewsPerHour": 198,
       "views": 3967,
-      "ageHours": 18
+      "ageHours": 20
     },
     {
       "title": "Conan Learns The Requirements To Become A Journeyman Bladesmith | Conan O'Brien Needs A Fan",
       "channel": "Conan O'Brien",
       "videoId": "N3Wk6cVeXsU",
-      "viewsPerHour": 195,
+      "viewsPerHour": 186,
       "views": 7871,
-      "ageHours": 40.3
+      "ageHours": 42.3
     },
     {
       "title": "Embarrassing how pathetic they are': Dem Rep. slams GOP lawmakers doing 'whatever Trump says'",
       "channel": "MS NOW",
       "videoId": "BJMtikJq51U",
-      "viewsPerHour": 192,
+      "viewsPerHour": 166,
       "views": 2422,
-      "ageHours": 12.6
+      "ageHours": 14.6
     },
     {
       "title": "Molly Shannon Recalls the First Time She Met Will Ferrell | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "YMhyCCkI_Cc",
-      "viewsPerHour": 128,
+      "viewsPerHour": 111,
       "views": 1703,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "What TV Can Learn From Video Games: Game Juice | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "wf8PAjScdXM",
-      "viewsPerHour": 114,
+      "viewsPerHour": 102,
       "views": 1864,
-      "ageHours": 16.3
-    },
-    {
-      "title": "Pentagon lowering Iran war death numbers just more disrespect to troops by Trump, says Sen. Coons",
-      "channel": "MS NOW",
-      "videoId": "PZZ8kFUNNZs",
-      "viewsPerHour": 51,
-      "views": 1202,
-      "ageHours": 23.8
-    },
-    {
-      "title": "‘Anti-affordability policy’: Fmr. Biden economist on Trump’s economic agenda",
-      "channel": "MS NOW",
-      "videoId": "8bAHU6Pl22k",
-      "viewsPerHour": 35,
-      "views": 837,
-      "ageHours": 24.1
+      "ageHours": 18.3
     },
     {
       "title": "Olivia Wilde Got Into A Golf Cart Crash With Harrison Ford | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "dGWMvv16a90",
-      "viewsPerHour": 25,
+      "viewsPerHour": 24,
       "views": 926,
-      "ageHours": 37.3
+      "ageHours": 39.3
     },
     {
       "title": "Aid worker describes crisis in Venezuela, one month after devastating earthquakes",
       "channel": "PBS NewsHour",
       "videoId": "FO-9Excghwg",
-      "viewsPerHour": 15,
+      "viewsPerHour": 11,
       "views": 84,
-      "ageHours": 5.7
+      "ageHours": 7.7
     },
     {
       "title": "6 things to know about America's national parks",
       "channel": "PBS NewsHour",
       "videoId": "7frM9zeZw9s",
-      "viewsPerHour": 6,
+      "viewsPerHour": 5,
       "views": 75,
-      "ageHours": 11.9
+      "ageHours": 13.9
     },
     {
       "title": "How volunteers with 3D printers make weapons for Ukraine",
       "channel": "PBS NewsHour",
       "videoId": "57SS9tlbadY",
-      "viewsPerHour": 6,
+      "viewsPerHour": 4,
       "views": 32,
-      "ageHours": 5.6
+      "ageHours": 7.6
     }
   ]
 }
