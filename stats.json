@@ -1,12 +1,12 @@
 {
   "videosPerChannel": [
     {
-      "channel": "History",
-      "count": 18
+      "channel": "MS NOW",
+      "count": 5
     },
     {
-      "channel": "MS NOW",
-      "count": 4
+      "channel": "History",
+      "count": 18
     },
     {
       "channel": "PBS NewsHour",
@@ -79,12 +79,12 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "UFO",
-      "count": 14
+      "keyword": "MS NOW",
+      "count": 5
     },
     {
-      "keyword": "MS NOW",
-      "count": 4
+      "keyword": "UFO",
+      "count": 14
     },
     {
       "keyword": "PBS NewsHour",
@@ -198,7 +198,7 @@
   "dailySummary": [
     {
       "date": "2026-07-26",
-      "videos": 1
+      "videos": 2
     },
     {
       "date": "2026-07-25",
@@ -419,12 +419,12 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "UFO",
-      "matches": 2
+      "keyword": "MS NOW",
+      "matches": 5
     },
     {
-      "keyword": "MS NOW",
-      "matches": 4
+      "keyword": "UFO",
+      "matches": 2
     },
     {
       "keyword": "PBS NewsHour",
@@ -500,193 +500,193 @@
       "title": "Jon Stewart on Trump's \"Meritocracy\" & Desi Lydic on MAGA Moving Iran Goalposts | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "dZGsqV0Y4Ek",
-      "viewsPerHour": 40146,
-      "views": 774236,
-      "ageHours": 19.3
+      "viewsPerHour": 38553,
+      "views": 898793,
+      "ageHours": 23.3
     },
     {
       "title": "Leslie Jones on Right-Wing Claims That Racism Is Over & What Allyship Really Means | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "n5NHPoRbno4",
-      "viewsPerHour": 7597,
-      "views": 333152,
-      "ageHours": 43.9
+      "viewsPerHour": 7092,
+      "views": 339595,
+      "ageHours": 47.9
     },
     {
       "title": "AWKWARD WEDDING SPEECH' Watch MS NOW's REACTION to Trump at WH Correspondents' Dinner | COMPILATION",
       "channel": "MS NOW",
       "videoId": "v_JUiUI3it4",
-      "viewsPerHour": 7186,
+      "viewsPerHour": 4895,
       "views": 61855,
-      "ageHours": 8.6
+      "ageHours": 12.6
     },
     {
       "title": "The UFO Superhighway (S20, E8) | Ancient Aliens | Full Episode",
       "channel": "History",
       "videoId": "ndHNOgutm4E",
-      "viewsPerHour": 4628,
-      "views": 38330,
-      "ageHours": 8.3
+      "viewsPerHour": 4630,
+      "views": 56999,
+      "ageHours": 12.3
     },
     {
       "title": "We Went To The Most Conservative District In South Texas. Can A Democrat Win These Voters?",
       "channel": "More Perfect Union",
       "videoId": "f1HfTNzhsVg",
-      "viewsPerHour": 3388,
-      "views": 137663,
-      "ageHours": 40.6
+      "viewsPerHour": 3156,
+      "views": 140946,
+      "ageHours": 44.7
     },
     {
       "title": "Ancient Structures Found Underground | The Curse of Oak Island",
       "channel": "History",
       "videoId": "9L6XZOcz7-I",
-      "viewsPerHour": 2232,
-      "views": 89911,
-      "ageHours": 40.3
+      "viewsPerHour": 2087,
+      "views": 92475,
+      "ageHours": 44.3
     },
     {
       "title": "Trump's Corruption.",
       "channel": "Jonathan Pie",
       "videoId": "H1L_zK4OvmI",
-      "viewsPerHour": 1835,
-      "views": 41157,
-      "ageHours": 22.4
+      "viewsPerHour": 1673,
+      "views": 44271,
+      "ageHours": 26.5
     },
     {
       "title": "Karl-Anthony Towns Still Can’t Believe the Knicks Won | The Interview",
       "channel": "The Interview",
       "videoId": "SuZnU6CY9Pk",
-      "viewsPerHour": 1810,
-      "views": 35349,
-      "ageHours": 19.5
-    },
-    {
-      "title": "Bizarre Events STUN the Team | The Secret of Skinwalker Ranch",
-      "channel": "History",
-      "videoId": "Hvgdubeb4t4",
-      "viewsPerHour": 1207,
-      "views": 45017,
-      "ageHours": 37.3
-    },
-    {
-      "title": "Deciphering the Ancient Stone Message (S3, E5) | The Curse of Oak Island | Full Episode",
-      "channel": "History",
-      "videoId": "hHwWPwMa_FM",
-      "viewsPerHour": 1177,
-      "views": 12112,
-      "ageHours": 10.3
+      "viewsPerHour": 1578,
+      "views": 37173,
+      "ageHours": 23.6
     },
     {
       "title": "S9 E14: 2022 Midterms & Tech Monopolies: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "a5nGaBHqGhQ",
-      "viewsPerHour": 1004,
-      "views": 16346,
-      "ageHours": 16.3
+      "viewsPerHour": 1117,
+      "views": 22692,
+      "ageHours": 20.3
+    },
+    {
+      "title": "Bizarre Events STUN the Team | The Secret of Skinwalker Ranch",
+      "channel": "History",
+      "videoId": "Hvgdubeb4t4",
+      "viewsPerHour": 1115,
+      "views": 46062,
+      "ageHours": 41.3
+    },
+    {
+      "title": "Deciphering the Ancient Stone Message (S3, E5) | The Curse of Oak Island | Full Episode",
+      "channel": "History",
+      "videoId": "hHwWPwMa_FM",
+      "viewsPerHour": 936,
+      "views": 13400,
+      "ageHours": 14.3
     },
     {
       "title": "Bosch parts sheet demonstrates why EU Right to Repair is a meme",
       "channel": "Louis Rossmann",
       "videoId": "mFeXZNScWxI",
-      "viewsPerHour": 437,
+      "viewsPerHour": 400,
       "views": 18999,
-      "ageHours": 43.4
-    },
-    {
-      "title": "Why uterine fibroids remain misunderstood despite affecting most women",
-      "channel": "PBS NewsHour",
-      "videoId": "dFU1i3yhXkY",
-      "viewsPerHour": 416,
-      "views": 3877,
-      "ageHours": 9.3
-    },
-    {
-      "title": " 'A would-be fascist dictator:' Fascism expert calls out Trump's violent ICE crackdown",
-      "channel": "MS NOW",
-      "videoId": "xY3HtecApbI",
-      "viewsPerHour": 359,
-      "views": 5910,
-      "ageHours": 16.5
+      "ageHours": 47.5
     },
     {
       "title": "S9 E13: Uvalde Update & School Police: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "AGvr2TUsVys",
-      "viewsPerHour": 355,
-      "views": 14291,
-      "ageHours": 40.3
+      "viewsPerHour": 330,
+      "views": 14633,
+      "ageHours": 44.3
+    },
+    {
+      "title": "MS NOW Highlights - July 25",
+      "channel": "MS NOW",
+      "videoId": "mukth4gbSmQ",
+      "viewsPerHour": 311,
+      "views": 720,
+      "ageHours": 2.3
+    },
+    {
+      "title": "Why uterine fibroids remain misunderstood despite affecting most women",
+      "channel": "PBS NewsHour",
+      "videoId": "dFU1i3yhXkY",
+      "viewsPerHour": 290,
+      "views": 3877,
+      "ageHours": 13.4
+    },
+    {
+      "title": " 'A would-be fascist dictator:' Fascism expert calls out Trump's violent ICE crackdown",
+      "channel": "MS NOW",
+      "videoId": "xY3HtecApbI",
+      "viewsPerHour": 288,
+      "views": 5910,
+      "ageHours": 20.5
     },
     {
       "title": "Smart Thermostat energy company incentives ",
       "channel": "Louis Rossmann",
       "videoId": "ZCfl0_R_gSg",
-      "viewsPerHour": 344,
+      "viewsPerHour": 277,
       "views": 5732,
-      "ageHours": 16.7
+      "ageHours": 20.7
     },
     {
       "title": "Putting up a good FIGHT' Rep. Hakeem Jeffries reacts to Democrats selecting Troy Jackson for Senate",
       "channel": "MS NOW",
       "videoId": "E_d6jEKHkws",
-      "viewsPerHour": 283,
+      "viewsPerHour": 205,
       "views": 2997,
-      "ageHours": 10.6
-    },
-    {
-      "title": "‘America is losing moral credibility’: Rep. Khanna slams Trump’s war in Iran as it impacts economy",
-      "channel": "MS NOW",
-      "videoId": "OabwdE_6bzs",
-      "viewsPerHour": 198,
-      "views": 3236,
-      "ageHours": 16.4
+      "ageHours": 14.6
     },
     {
       "title": "We’ve Been Using UAP Tech for Millenia",
       "channel": "Chris Lehto",
       "videoId": "PXdoxAFkFLI",
-      "viewsPerHour": 184,
-      "views": 7210,
-      "ageHours": 39.3
+      "viewsPerHour": 170,
+      "views": 7357,
+      "ageHours": 43.3
+    },
+    {
+      "title": "‘America is losing moral credibility’: Rep. Khanna slams Trump’s war in Iran as it impacts economy",
+      "channel": "MS NOW",
+      "videoId": "OabwdE_6bzs",
+      "viewsPerHour": 159,
+      "views": 3236,
+      "ageHours": 20.4
     },
     {
       "title": "How Origami Is Building the Future | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "ofIIvwf1OrE",
-      "viewsPerHour": 169,
-      "views": 6280,
-      "ageHours": 37.2
+      "viewsPerHour": 157,
+      "views": 6489,
+      "ageHours": 41.2
     },
     {
       "title": "Colorado State Legislature with mini liebschti",
       "channel": "Louis Rossmann",
       "videoId": "c2lsGOX6ds0",
-      "viewsPerHour": 133,
+      "viewsPerHour": 119,
       "views": 4775,
-      "ageHours": 36
+      "ageHours": 40
     },
     {
       "title": "The Deadliest Secret to Keep in Taliban Ruled Afghanistan",
       "channel": "Real Stories",
       "videoId": "_B-f-jI7VZ4",
-      "viewsPerHour": 129,
-      "views": 1714,
-      "ageHours": 13.3
-    },
-    {
-      "title": "What TV Can Learn From Video Games: Game Juice | Bley's Arcade",
-      "channel": "Conan O'Brien",
-      "videoId": "wf8PAjScdXM",
-      "viewsPerHour": 42,
-      "views": 1864,
-      "ageHours": 44.3
+      "viewsPerHour": 107,
+      "views": 1849,
+      "ageHours": 17.3
     },
     {
       "title": "Molly Shannon Recalls the First Time She Met Will Ferrell | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "YMhyCCkI_Cc",
-      "viewsPerHour": 41,
+      "viewsPerHour": 38,
       "views": 1703,
-      "ageHours": 41.3
+      "ageHours": 45.3
     }
   ]
 }
