@@ -1,8 +1,20 @@
 {
   "videosPerChannel": [
     {
+      "channel": "Last Week Tonight",
+      "count": 15
+    },
+    {
       "channel": "MS NOW",
       "count": 5
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 14
+    },
+    {
+      "channel": "Nat Geo",
+      "count": 2
     },
     {
       "channel": "History",
@@ -17,16 +29,8 @@
       "count": 36
     },
     {
-      "channel": "Last Week Tonight",
-      "count": 14
-    },
-    {
       "channel": "Louis Rossmann",
       "count": 23
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 13
     },
     {
       "channel": "The Interview",
@@ -50,7 +54,7 @@
     },
     {
       "channel": "Conan O'Brien",
-      "count": 13
+      "count": 11
     },
     {
       "channel": "Mayim Bialik",
@@ -69,18 +73,26 @@
       "count": 7
     },
     {
-      "channel": "Nat Geo",
-      "count": 1
-    },
-    {
       "channel": "Inside AI",
       "count": 2
     }
   ],
   "keywordFrequency": [
     {
+      "keyword": "Last Week Tonight",
+      "count": 15
+    },
+    {
       "keyword": "MS NOW",
       "count": 5
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 14
+    },
+    {
+      "keyword": "Giza",
+      "count": 1
     },
     {
       "keyword": "UFO",
@@ -99,16 +111,8 @@
       "count": 20
     },
     {
-      "keyword": "Last Week Tonight",
-      "count": 14
-    },
-    {
       "keyword": "Louis Rossmann",
       "count": 22
-    },
-    {
-      "keyword": "The Daily Show",
-      "count": 13
     },
     {
       "keyword": "The Interview",
@@ -128,7 +132,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 13
+      "count": 11
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -198,11 +202,11 @@
   "dailySummary": [
     {
       "date": "2026-07-26",
-      "videos": 2
+      "videos": 7
     },
     {
       "date": "2026-07-25",
-      "videos": 12
+      "videos": 10
     },
     {
       "date": "2026-07-24",
@@ -238,7 +242,7 @@
     },
     {
       "date": "2026-07-16",
-      "videos": 8
+      "videos": 6
     },
     {
       "date": "2026-07-15",
@@ -419,8 +423,20 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "Last Week Tonight",
+      "matches": 7
+    },
+    {
       "keyword": "MS NOW",
       "matches": 5
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 14
+    },
+    {
+      "keyword": "Giza",
+      "matches": 1
     },
     {
       "keyword": "UFO",
@@ -432,23 +448,15 @@
     },
     {
       "keyword": "NOVA",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "Real Stories",
       "matches": 3
     },
     {
-      "keyword": "Last Week Tonight",
-      "matches": 6
-    },
-    {
       "keyword": "Louis Rossmann",
-      "matches": 8
-    },
-    {
-      "keyword": "The Daily Show",
-      "matches": 13
+      "matches": 7
     },
     {
       "keyword": "The Interview",
@@ -500,145 +508,161 @@
       "title": "Jon Stewart on Trump's \"Meritocracy\" & Desi Lydic on MAGA Moving Iran Goalposts | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "dZGsqV0Y4Ek",
-      "viewsPerHour": 36755,
-      "views": 1003790,
-      "ageHours": 27.3
+      "viewsPerHour": 35922,
+      "views": 1051923,
+      "ageHours": 29.3
     },
     {
       "title": "The UFO Superhighway (S20, E8) | Ancient Aliens | Full Episode",
       "channel": "History",
       "videoId": "ndHNOgutm4E",
-      "viewsPerHour": 4160,
-      "views": 67841,
-      "ageHours": 16.3
+      "viewsPerHour": 3981,
+      "views": 72772,
+      "ageHours": 18.3
     },
     {
       "title": "AWKWARD WEDDING SPEECH' Watch MS NOW's REACTION to Trump at WH Correspondents' Dinner | COMPILATION",
       "channel": "MS NOW",
       "videoId": "v_JUiUI3it4",
-      "viewsPerHour": 3719,
+      "viewsPerHour": 3324,
       "views": 61855,
-      "ageHours": 16.6
+      "ageHours": 18.6
+    },
+    {
+      "title": "Ronny Chieng Was Almost Too Scared to Try Stand-Up Comedy - After the Cut | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "gQpYlc2TwHU",
+      "viewsPerHour": 3269,
+      "views": 17260,
+      "ageHours": 5.3
+    },
+    {
+      "title": "‘Immunity on his tax cheating’: Top Dem reveals Trump’s potential goal of ‘anti-weaponization fund’",
+      "channel": "MS NOW",
+      "videoId": "10U9YXvDJ6k",
+      "viewsPerHour": 2361,
+      "views": 9788,
+      "ageHours": 4.1
+    },
+    {
+      "title": "What Archaeologists Discovered in Ancient Egypt | Lost Treasures of Egypt MEGA Episode | Nat Geo",
+      "channel": "Nat Geo",
+      "videoId": "koj-eJo2o-c",
+      "viewsPerHour": 1998,
+      "views": 10561,
+      "ageHours": 5.3
     },
     {
       "title": "Trump's Corruption.",
       "channel": "Jonathan Pie",
       "videoId": "H1L_zK4OvmI",
-      "viewsPerHour": 1540,
-      "views": 46893,
-      "ageHours": 30.5
+      "viewsPerHour": 1482,
+      "views": 48042,
+      "ageHours": 32.4
     },
     {
       "title": "Karl-Anthony Towns Still Can’t Believe the Knicks Won | The Interview",
       "channel": "The Interview",
       "videoId": "SuZnU6CY9Pk",
-      "viewsPerHour": 1482,
-      "views": 40842,
-      "ageHours": 27.6
+      "viewsPerHour": 1478,
+      "views": 43645,
+      "ageHours": 29.5
     },
     {
       "title": "S9 E14: 2022 Midterms & Tech Monopolies: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "a5nGaBHqGhQ",
-      "viewsPerHour": 1199,
-      "views": 29139,
-      "ageHours": 24.3
+      "viewsPerHour": 1200,
+      "views": 31528,
+      "ageHours": 26.3
+    },
+    {
+      "title": "‘Tie Collins to Trump’: Maine Democrats reveal strategy ahead of November Senate election",
+      "channel": "MS NOW",
+      "videoId": "eF99PBMgJxo",
+      "viewsPerHour": 1180,
+      "views": 3735,
+      "ageHours": 3.2
     },
     {
       "title": "Bizarre Events STUN the Team | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "Hvgdubeb4t4",
-      "viewsPerHour": 1039,
-      "views": 47068,
-      "ageHours": 45.3
+      "viewsPerHour": 1006,
+      "views": 47552,
+      "ageHours": 47.3
+    },
+    {
+      "title": "S9 E15: Jan. 6th Hearings, Midterms & Rent: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "ApnvjT8Opws",
+      "viewsPerHour": 840,
+      "views": 1919,
+      "ageHours": 2.3
     },
     {
       "title": "Deciphering the Ancient Stone Message (S3, E5) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "hHwWPwMa_FM",
-      "viewsPerHour": 787,
-      "views": 14416,
-      "ageHours": 18.3
-    },
-    {
-      "title": " 'A would-be fascist dictator:' Fascism expert calls out Trump's violent ICE crackdown",
-      "channel": "MS NOW",
-      "videoId": "xY3HtecApbI",
-      "viewsPerHour": 241,
-      "views": 5910,
-      "ageHours": 24.5
+      "viewsPerHour": 728,
+      "views": 14775,
+      "ageHours": 20.3
     },
     {
       "title": "Smart Thermostat energy company incentives ",
       "channel": "Louis Rossmann",
       "videoId": "ZCfl0_R_gSg",
-      "viewsPerHour": 232,
+      "viewsPerHour": 215,
       "views": 5732,
-      "ageHours": 24.7
+      "ageHours": 26.7
     },
     {
       "title": "Why uterine fibroids remain misunderstood despite affecting most women",
       "channel": "PBS NewsHour",
       "videoId": "dFU1i3yhXkY",
-      "viewsPerHour": 223,
+      "viewsPerHour": 201,
       "views": 3877,
-      "ageHours": 17.3
-    },
-    {
-      "title": "Putting up a good FIGHT' Rep. Hakeem Jeffries reacts to Democrats selecting Troy Jackson for Senate",
-      "channel": "MS NOW",
-      "videoId": "E_d6jEKHkws",
-      "viewsPerHour": 161,
-      "views": 2997,
-      "ageHours": 18.6
-    },
-    {
-      "title": "We’ve Been Using UAP Tech for Millenia",
-      "channel": "Chris Lehto",
-      "videoId": "PXdoxAFkFLI",
-      "viewsPerHour": 158,
-      "views": 7495,
-      "ageHours": 47.3
+      "ageHours": 19.3
     },
     {
       "title": "How Origami Is Building the Future | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "ofIIvwf1OrE",
-      "viewsPerHour": 151,
-      "views": 6808,
-      "ageHours": 45.2
+      "viewsPerHour": 147,
+      "views": 6935,
+      "ageHours": 47.2
     },
     {
-      "title": "‘America is losing moral credibility’: Rep. Khanna slams Trump’s war in Iran as it impacts economy",
+      "title": "Putting up a good FIGHT' Rep. Hakeem Jeffries reacts to Democrats selecting Troy Jackson for Senate",
       "channel": "MS NOW",
-      "videoId": "OabwdE_6bzs",
-      "viewsPerHour": 133,
-      "views": 3236,
-      "ageHours": 24.4
-    },
-    {
-      "title": "MS NOW Highlights - July 25",
-      "channel": "MS NOW",
-      "videoId": "mukth4gbSmQ",
-      "viewsPerHour": 114,
-      "views": 720,
-      "ageHours": 6.3
+      "videoId": "E_d6jEKHkws",
+      "viewsPerHour": 145,
+      "views": 2997,
+      "ageHours": 20.6
     },
     {
       "title": "Colorado State Legislature with mini liebschti",
       "channel": "Louis Rossmann",
       "videoId": "c2lsGOX6ds0",
-      "viewsPerHour": 108,
+      "viewsPerHour": 104,
       "views": 4775,
-      "ageHours": 44
+      "ageHours": 46
+    },
+    {
+      "title": "MS NOW Highlights - July 25",
+      "channel": "MS NOW",
+      "videoId": "mukth4gbSmQ",
+      "viewsPerHour": 87,
+      "views": 720,
+      "ageHours": 8.3
     },
     {
       "title": "The Deadliest Secret to Keep in Taliban Ruled Afghanistan",
       "channel": "Real Stories",
       "videoId": "_B-f-jI7VZ4",
-      "viewsPerHour": 91,
-      "views": 1944,
-      "ageHours": 21.3
+      "viewsPerHour": 87,
+      "views": 2020,
+      "ageHours": 23.3
     }
   ]
 }
