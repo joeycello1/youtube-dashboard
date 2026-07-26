@@ -1,12 +1,20 @@
 {
   "videosPerChannel": [
     {
-      "channel": "Last Week Tonight",
-      "count": 14
+      "channel": "History",
+      "count": 17
     },
     {
       "channel": "MS NOW",
-      "count": 6
+      "count": 5
+    },
+    {
+      "channel": "Real Stories",
+      "count": 36
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 14
     },
     {
       "channel": "Louis Rossmann",
@@ -26,15 +34,11 @@
     },
     {
       "channel": "PBS NewsHour",
-      "count": 5
+      "count": 2
     },
     {
       "channel": "NOVA",
       "count": 13
-    },
-    {
-      "channel": "History",
-      "count": 16
     },
     {
       "channel": "Chris Lehto",
@@ -47,10 +51,6 @@
     {
       "channel": "Conan O'Brien",
       "count": 13
-    },
-    {
-      "channel": "Real Stories",
-      "count": 36
     },
     {
       "channel": "Mayim Bialik",
@@ -79,12 +79,20 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "Last Week Tonight",
-      "count": 14
+      "keyword": "NOVA",
+      "count": 19
     },
     {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 5
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 20
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 14
     },
     {
       "keyword": "Louis Rossmann",
@@ -104,11 +112,7 @@
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 5
-    },
-    {
-      "keyword": "NOVA",
-      "count": 18
+      "count": 2
     },
     {
       "keyword": "UFO",
@@ -128,7 +132,7 @@
     },
     {
       "keyword": "Real Stories, Louis Theroux",
-      "count": 16
+      "count": 15
     },
     {
       "keyword": "Louis Rossmann, Samsung",
@@ -145,10 +149,6 @@
     {
       "keyword": "UAP, UFO",
       "count": 2
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 19
     },
     {
       "keyword": "UFO, UAP",
@@ -198,11 +198,11 @@
   "dailySummary": [
     {
       "date": "2026-07-25",
-      "videos": 10
+      "videos": 13
     },
     {
       "date": "2026-07-24",
-      "videos": 19
+      "videos": 14
     },
     {
       "date": "2026-07-23",
@@ -409,22 +409,26 @@
       "videos": 1
     },
     {
-      "date": "2026-05-26",
-      "videos": 1
-    },
-    {
       "date": "2026-04-09",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "Last Week Tonight",
-      "matches": 7
+      "keyword": "NOVA",
+      "matches": 5
     },
     {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 5
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 3
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 7
     },
     {
       "keyword": "Louis Rossmann",
@@ -444,11 +448,7 @@
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 5
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 5
+      "matches": 2
     },
     {
       "keyword": "UFO",
@@ -487,10 +487,6 @@
       "matches": 1
     },
     {
-      "keyword": "Real Stories",
-      "matches": 2
-    },
-    {
       "keyword": "UFO, UAP",
       "matches": 1
     }
@@ -500,233 +496,209 @@
       "title": "Jon Stewart on Trump's \"Meritocracy\" & Desi Lydic on MAGA Moving Iran Goalposts | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "dZGsqV0Y4Ek",
-      "viewsPerHour": 41533,
-      "views": 385830,
-      "ageHours": 9.3
-    },
-    {
-      "title": "Trump Rails Against Communism at Georgia Rally & Don Jr. Swears He Doesn’t Do Coke | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "wyzHlTpoDko",
-      "viewsPerHour": 36798,
-      "views": 1629643,
-      "ageHours": 44.3
+      "viewsPerHour": 40777,
+      "views": 541961,
+      "ageHours": 13.3
     },
     {
       "title": "Leslie Jones on Right-Wing Claims That Racism Is Over & What Allyship Really Means | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "n5NHPoRbno4",
-      "viewsPerHour": 8959,
-      "views": 303331,
-      "ageHours": 33.9
-    },
-    {
-      "title": "Reports on Trump's ties to Jeffrey Epstein cast awkward shadow over media dinner",
-      "channel": "MS NOW",
-      "videoId": "yzEEs9RP9hQ",
-      "viewsPerHour": 3937,
-      "views": 71637,
-      "ageHours": 18.2
+      "viewsPerHour": 8327,
+      "views": 315249,
+      "ageHours": 37.9
     },
     {
       "title": "We Went To The Most Conservative District In South Texas. Can A Democrat Win These Voters?",
       "channel": "More Perfect Union",
       "videoId": "f1HfTNzhsVg",
-      "viewsPerHour": 3845,
-      "views": 117824,
-      "ageHours": 30.6
+      "viewsPerHour": 3720,
+      "views": 128857,
+      "ageHours": 34.6
+    },
+    {
+      "title": "Reports on Trump's ties to Jeffrey Epstein cast awkward shadow over media dinner",
+      "channel": "MS NOW",
+      "videoId": "yzEEs9RP9hQ",
+      "viewsPerHour": 3228,
+      "views": 71637,
+      "ageHours": 22.2
     },
     {
       "title": "PBS News Hour full episode, July 24, 2026",
       "channel": "PBS NewsHour",
       "videoId": "DE6zTa5iULg",
-      "viewsPerHour": 3206,
+      "viewsPerHour": 2725,
       "views": 72651,
-      "ageHours": 22.7
-    },
-    {
-      "title": "Trump's Corruption.",
-      "channel": "Jonathan Pie",
-      "videoId": "H1L_zK4OvmI",
-      "viewsPerHour": 2870,
-      "views": 35679,
-      "ageHours": 12.4
+      "ageHours": 26.7
     },
     {
       "title": "Ancient Structures Found Underground | The Curse of Oak Island",
       "channel": "History",
       "videoId": "9L6XZOcz7-I",
-      "viewsPerHour": 2490,
-      "views": 75431,
-      "ageHours": 30.3
+      "viewsPerHour": 2407,
+      "views": 82550,
+      "ageHours": 34.3
+    },
+    {
+      "title": "Trump's Corruption.",
+      "channel": "Jonathan Pie",
+      "videoId": "H1L_zK4OvmI",
+      "viewsPerHour": 2386,
+      "views": 39214,
+      "ageHours": 16.4
     },
     {
       "title": "Media catches Trump manipulating U.S. Iran war dead tally",
       "channel": "MS NOW",
       "videoId": "7zqconkjXqc",
-      "viewsPerHour": 2447,
+      "viewsPerHour": 1996,
       "views": 43284,
-      "ageHours": 17.7
-    },
-    {
-      "title": "BREAKING: Trump ABRUPTLY changed planes after CREDIBLE Iranian threat, NYTimes reports",
-      "channel": "MS NOW",
-      "videoId": "m-tlAsxChj4",
-      "viewsPerHour": 1945,
-      "views": 46921,
-      "ageHours": 24.1
+      "ageHours": 21.7
     },
     {
       "title": "Karl-Anthony Towns Still Can’t Believe the Knicks Won | The Interview",
       "channel": "The Interview",
       "videoId": "SuZnU6CY9Pk",
-      "viewsPerHour": 1837,
-      "views": 17520,
-      "ageHours": 9.5
+      "viewsPerHour": 1980,
+      "views": 26801,
+      "ageHours": 13.5
     },
     {
-      "title": "WATCH LIVE: Trump speaks at White House correspondents' dinner after attack disrupted April event",
-      "channel": "PBS NewsHour",
-      "videoId": "9kdsZwINJPg",
-      "viewsPerHour": 1522,
-      "views": 29848,
-      "ageHours": 19.6
+      "title": "Deciphering the Ancient Stone Message (S3, E5) | The Curse of Oak Island | Full Episode",
+      "channel": "History",
+      "videoId": "hHwWPwMa_FM",
+      "viewsPerHour": 1386,
+      "views": 5951,
+      "ageHours": 4.3
     },
     {
       "title": "Bizarre Events STUN the Team | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "Hvgdubeb4t4",
-      "viewsPerHour": 1474,
-      "views": 40230,
-      "ageHours": 27.3
+      "viewsPerHour": 1353,
+      "views": 42339,
+      "ageHours": 31.3
+    },
+    {
+      "title": "WATCH LIVE: Trump speaks at White House correspondents' dinner after attack disrupted April event",
+      "channel": "PBS NewsHour",
+      "videoId": "9kdsZwINJPg",
+      "viewsPerHour": 1264,
+      "views": 29848,
+      "ageHours": 23.6
     },
     {
       "title": "Karolina Wydra - Emmy-Nominated Role in “Pluribus” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "RK74_9qukBI",
-      "viewsPerHour": 1244,
-      "views": 53256,
-      "ageHours": 42.8
+      "viewsPerHour": 1182,
+      "views": 55318,
+      "ageHours": 46.8
     },
     {
       "title": "S9 E14: 2022 Midterms & Tech Monopolies: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "a5nGaBHqGhQ",
-      "viewsPerHour": 1007,
-      "views": 6337,
-      "ageHours": 6.3
+      "viewsPerHour": 1081,
+      "views": 11124,
+      "ageHours": 10.3
+    },
+    {
+      "title": "Putting up a good FIGHT' Rep. Hakeem Jeffries reacts to Democrats selecting Troy Jackson for Senate",
+      "channel": "MS NOW",
+      "videoId": "E_d6jEKHkws",
+      "viewsPerHour": 650,
+      "views": 2997,
+      "ageHours": 4.6
     },
     {
       "title": " 'A would-be fascist dictator:' Fascism expert calls out Trump's violent ICE crackdown",
       "channel": "MS NOW",
       "videoId": "xY3HtecApbI",
-      "viewsPerHour": 912,
+      "viewsPerHour": 564,
       "views": 5910,
-      "ageHours": 6.5
+      "ageHours": 10.5
     },
     {
       "title": "Smart Thermostat energy company incentives ",
       "channel": "Louis Rossmann",
       "videoId": "ZCfl0_R_gSg",
-      "viewsPerHour": 859,
+      "viewsPerHour": 537,
       "views": 5732,
-      "ageHours": 6.7
+      "ageHours": 10.7
     },
     {
       "title": "Bosch parts sheet demonstrates why EU Right to Repair is a meme",
       "channel": "Louis Rossmann",
       "videoId": "mFeXZNScWxI",
-      "viewsPerHour": 568,
+      "viewsPerHour": 507,
       "views": 18999,
-      "ageHours": 33.4
-    },
-    {
-      "title": "‘America is losing moral credibility’: Rep. Khanna slams Trump’s war in Iran as it impacts economy",
-      "channel": "MS NOW",
-      "videoId": "OabwdE_6bzs",
-      "viewsPerHour": 508,
-      "views": 3236,
-      "ageHours": 6.4
+      "ageHours": 37.5
     },
     {
       "title": "S9 E13: Uvalde Update & School Police: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "AGvr2TUsVys",
-      "viewsPerHour": 450,
-      "views": 13630,
-      "ageHours": 30.3
+      "viewsPerHour": 408,
+      "views": 13980,
+      "ageHours": 34.3
     },
     {
-      "title": "\"A FETISH\": Trump doubles down on UNPOPULAR tariffs even as voters FUME over rising costs",
+      "title": "‘America is losing moral credibility’: Rep. Khanna slams Trump’s war in Iran as it impacts economy",
       "channel": "MS NOW",
-      "videoId": "1LhCeSXbQKw",
-      "viewsPerHour": 293,
-      "views": 7204,
-      "ageHours": 24.6
+      "videoId": "OabwdE_6bzs",
+      "viewsPerHour": 312,
+      "views": 3236,
+      "ageHours": 10.4
     },
     {
       "title": "We’ve Been Using UAP Tech for Millenia",
       "channel": "Chris Lehto",
       "videoId": "PXdoxAFkFLI",
-      "viewsPerHour": 226,
-      "views": 6619,
-      "ageHours": 29.3
+      "viewsPerHour": 208,
+      "views": 6929,
+      "ageHours": 33.3
     },
     {
       "title": "How Origami Is Building the Future | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "ofIIvwf1OrE",
-      "viewsPerHour": 185,
-      "views": 5041,
-      "ageHours": 27.2
+      "viewsPerHour": 181,
+      "views": 5635,
+      "ageHours": 31.2
+    },
+    {
+      "title": "The Deadliest Secret to Keep in Taliban Ruled Afghanistan",
+      "channel": "Real Stories",
+      "videoId": "_B-f-jI7VZ4",
+      "viewsPerHour": 162,
+      "views": 1185,
+      "ageHours": 7.3
     },
     {
       "title": "Colorado State Legislature with mini liebschti",
       "channel": "Louis Rossmann",
       "videoId": "c2lsGOX6ds0",
-      "viewsPerHour": 184,
+      "viewsPerHour": 159,
       "views": 4775,
-      "ageHours": 26
-    },
-    {
-      "title": "PBS News Hour live episode, July 24, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "WjWGfSTU4bA",
-      "viewsPerHour": 167,
-      "views": 4206,
-      "ageHours": 25.2
-    },
-    {
-      "title": "Molly Shannon Recalls the First Time She Met Will Ferrell | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "YMhyCCkI_Cc",
-      "viewsPerHour": 54,
-      "views": 1703,
-      "ageHours": 31.3
+      "ageHours": 30
     },
     {
       "title": "What TV Can Learn From Video Games: Game Juice | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "wf8PAjScdXM",
-      "viewsPerHour": 54,
+      "viewsPerHour": 49,
       "views": 1864,
-      "ageHours": 34.3
+      "ageHours": 38.3
     },
     {
-      "title": "Aid worker describes crisis in Venezuela, one month after devastating earthquakes",
-      "channel": "PBS NewsHour",
-      "videoId": "FO-9Excghwg",
-      "viewsPerHour": 4,
-      "views": 84,
-      "ageHours": 23.7
-    },
-    {
-      "title": "How volunteers with 3D printers make weapons for Ukraine",
-      "channel": "PBS NewsHour",
-      "videoId": "57SS9tlbadY",
-      "viewsPerHour": 1,
-      "views": 32,
-      "ageHours": 23.6
+      "title": "Molly Shannon Recalls the First Time She Met Will Ferrell | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "YMhyCCkI_Cc",
+      "viewsPerHour": 48,
+      "views": 1703,
+      "ageHours": 35.3
     }
   ]
 }
