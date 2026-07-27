@@ -2,11 +2,23 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 7
+      "count": 8
     },
     {
       "channel": "Last Week Tonight",
       "count": 17
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 1
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 24
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 10
     },
     {
       "channel": "The Rest Is Science",
@@ -14,11 +26,7 @@
     },
     {
       "channel": "Real Stories",
-      "count": 37
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 23
+      "count": 36
     },
     {
       "channel": "History",
@@ -53,10 +61,6 @@
       "count": 16
     },
     {
-      "channel": "Conan O'Brien",
-      "count": 11
-    },
-    {
       "channel": "Mayim Bialik",
       "count": 5
     },
@@ -76,11 +80,23 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 7
+      "count": 8
     },
     {
       "keyword": "Last Week Tonight",
       "count": 17
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 1
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 23
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 10
     },
     {
       "keyword": "The Rest Is Science",
@@ -89,10 +105,6 @@
     {
       "keyword": "Real Stories, Louis Theroux",
       "count": 16
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 22
     },
     {
       "keyword": "NOVA",
@@ -112,7 +124,7 @@
     },
     {
       "keyword": "Real Stories",
-      "count": 20
+      "count": 19
     },
     {
       "keyword": "The Interview",
@@ -129,10 +141,6 @@
     {
       "keyword": "More Perfect Union",
       "count": 15
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 11
     },
     {
       "keyword": "Louis Rossmann, Samsung",
@@ -194,11 +202,11 @@
   "dailySummary": [
     {
       "date": "2026-07-27",
-      "videos": 5
+      "videos": 12
     },
     {
       "date": "2026-07-26",
-      "videos": 12
+      "videos": 10
     },
     {
       "date": "2026-07-25",
@@ -234,7 +242,7 @@
     },
     {
       "date": "2026-07-17",
-      "videos": 10
+      "videos": 8
     },
     {
       "date": "2026-07-16",
@@ -254,7 +262,7 @@
     },
     {
       "date": "2026-07-12",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-07-11",
@@ -406,7 +414,7 @@
     },
     {
       "date": "2026-05-28",
-      "videos": 2
+      "videos": 1
     },
     {
       "date": "2026-04-09",
@@ -416,11 +424,23 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 7
+      "matches": 8
     },
     {
       "keyword": "Last Week Tonight",
-      "matches": 8
+      "matches": 9
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 1
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 9
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 9
     },
     {
       "keyword": "The Rest Is Science",
@@ -429,10 +449,6 @@
     {
       "keyword": "Real Stories, Louis Theroux",
       "matches": 2
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 8
     },
     {
       "keyword": "NOVA",
@@ -471,10 +487,6 @@
       "matches": 2
     },
     {
-      "keyword": "Conan O'Brien",
-      "matches": 8
-    },
-    {
       "keyword": "Louis Rossmann, Samsung",
       "matches": 1
     },
@@ -496,153 +508,193 @@
       "title": "Trump & Crypto: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "A9iZ10yIRwM",
-      "viewsPerHour": 49741,
-      "views": 487139,
-      "ageHours": 9.8
+      "viewsPerHour": 55341,
+      "views": 652545,
+      "ageHours": 11.8
     },
     {
       "title": "S13 E18: Trump & Crypto, Buc-ee’s: 7/26/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "G3oB-1qAj-Q",
-      "viewsPerHour": 17563,
-      "views": 233507,
-      "ageHours": 13.3
+      "viewsPerHour": 17101,
+      "views": 261529,
+      "ageHours": 15.3
     },
     {
       "title": "It Wasn't A Hoax After All",
       "channel": "The Rest Is Science",
       "videoId": "lJm7UCUyqKQ",
-      "viewsPerHour": 9630,
-      "views": 185852,
-      "ageHours": 19.3
+      "viewsPerHour": 9483,
+      "views": 201945,
+      "ageHours": 21.3
     },
     {
       "title": "WeRecoverData's FINAL response; the game ends now. ",
       "channel": "Louis Rossmann",
       "videoId": "UYwhrcgcQrE",
-      "viewsPerHour": 4413,
+      "viewsPerHour": 4042,
       "views": 96169,
-      "ageHours": 21.8
+      "ageHours": 23.8
     },
     {
       "title": "The UFO Superhighway (S20, E8) | Ancient Aliens | Full Episode",
       "channel": "History",
       "videoId": "ndHNOgutm4E",
-      "viewsPerHour": 3128,
-      "views": 126021,
-      "ageHours": 40.3
+      "viewsPerHour": 3048,
+      "views": 128899,
+      "ageHours": 42.3
     },
     {
       "title": "What Archaeologists Discovered in Ancient Egypt | Lost Treasures of Egypt MEGA Episode | Nat Geo",
       "channel": "Nat Geo",
       "videoId": "koj-eJo2o-c",
-      "viewsPerHour": 2996,
-      "views": 81780,
-      "ageHours": 27.3
+      "viewsPerHour": 2987,
+      "views": 87494,
+      "ageHours": 29.3
+    },
+    {
+      "title": "Clinton the cat: how his politics changed over time",
+      "channel": "Louis Rossmann",
+      "videoId": "nulEiKXhqVQ",
+      "viewsPerHour": 2636,
+      "views": 10634,
+      "ageHours": 4
     },
     {
       "title": "Ronny Chieng Was Almost Too Scared to Try Stand-Up Comedy - After the Cut | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "gQpYlc2TwHU",
-      "viewsPerHour": 2217,
-      "views": 60495,
-      "ageHours": 27.3
+      "viewsPerHour": 2169,
+      "views": 63524,
+      "ageHours": 29.3
+    },
+    {
+      "title": "Leslie Jones (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "UeG3lirNzUw",
+      "viewsPerHour": 2092,
+      "views": 15262,
+      "ageHours": 7.3
     },
     {
       "title": "Unbelievable Underwater Discoveries (S1) | The Curse of Oak Island",
       "channel": "History",
       "videoId": "d6W4V6mPqpI",
-      "viewsPerHour": 1679,
-      "views": 37431,
-      "ageHours": 22.3
+      "viewsPerHour": 1610,
+      "views": 39123,
+      "ageHours": 24.3
     },
     {
       "title": "Louis Theroux Revisits America's Most Hated Family (Westboro Baptist Church)",
       "channel": "Real Stories",
       "videoId": "oNyubAc8hr4",
-      "viewsPerHour": 1064,
-      "views": 22658,
-      "ageHours": 21.3
+      "viewsPerHour": 1037,
+      "views": 24145,
+      "ageHours": 23.3
+    },
+    {
+      "title": "S9 E16: Supreme Court Overturns Roe & Water: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "74lpwDODypc",
+      "viewsPerHour": 909,
+      "views": 2089,
+      "ageHours": 2.3
     },
     {
       "title": "COLLINS V. JACKSON: Watch MS NOW's coverage of the Maine Senate race SHAKE-UP | COMPILATION",
       "channel": "MS NOW",
       "videoId": "ifheKRZmwdw",
-      "viewsPerHour": 809,
+      "viewsPerHour": 721,
       "views": 13186,
-      "ageHours": 16.3
+      "ageHours": 18.3
     },
     {
       "title": "S9 E15: Jan. 6th Hearings, Midterms & Rent: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "ApnvjT8Opws",
-      "viewsPerHour": 743,
-      "views": 18058,
-      "ageHours": 24.3
-    },
-    {
-      "title": "U.S. and Iran pause strikes, try to restart negotiations ",
-      "channel": "MS NOW",
-      "videoId": "9n-JkMP4XPA",
-      "viewsPerHour": 569,
-      "views": 3406,
-      "ageHours": 6
+      "viewsPerHour": 703,
+      "views": 18474,
+      "ageHours": 26.3
     },
     {
       "title": "Deciphering the Ancient Stone Message (S3, E5) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "hHwWPwMa_FM",
-      "viewsPerHour": 447,
-      "views": 18916,
-      "ageHours": 42.3
+      "viewsPerHour": 431,
+      "views": 19107,
+      "ageHours": 44.3
+    },
+    {
+      "title": "U.S. and Iran pause strikes, try to restart negotiations ",
+      "channel": "MS NOW",
+      "videoId": "9n-JkMP4XPA",
+      "viewsPerHour": 426,
+      "views": 3406,
+      "ageHours": 8
     },
     {
       "title": "Blanche not putting promises to Congress in writing may ‘DOOM’ his confirmation: Tim Heaphy",
       "channel": "MS NOW",
       "videoId": "LIznq00Hvpo",
-      "viewsPerHour": 442,
+      "viewsPerHour": 401,
       "views": 8730,
-      "ageHours": 19.8
+      "ageHours": 21.8
     },
     {
       "title": "MS NOW Highlights - July 26",
       "channel": "MS NOW",
       "videoId": "coOoGf5Jpsk",
-      "viewsPerHour": 415,
+      "viewsPerHour": 326,
       "views": 3026,
-      "ageHours": 7.3
+      "ageHours": 9.3
     },
     {
-      "title": "‘Immunity on his tax cheating’: Top Dem reveals Trump’s potential goal of ‘anti-weaponization fund’",
+      "title": "Trump visits Michigan as FEUD INTENSIFIES over Canadian tariffs and bridge",
       "channel": "MS NOW",
-      "videoId": "10U9YXvDJ6k",
-      "viewsPerHour": 374,
-      "views": 9788,
-      "ageHours": 26.2
+      "videoId": "pAiikdUXHWI",
+      "viewsPerHour": 314,
+      "views": 487,
+      "ageHours": 1.6
     },
     {
       "title": "Troy Jackson starts Maine Senate race at ‘TREMENDOUS disadvantage’: Democrat strategist",
       "channel": "MS NOW",
       "videoId": "oMRCn4gI7Fo",
-      "viewsPerHour": 257,
+      "viewsPerHour": 234,
       "views": 5087,
-      "ageHours": 19.8
+      "ageHours": 21.8
     },
     {
-      "title": "‘Tie Collins to Trump’: Maine Democrats reveal strategy ahead of November Senate election",
+      "title": "Un-American': Pastor says Haitian community 'in a state of panic' as TPS status ends",
       "channel": "MS NOW",
-      "videoId": "eF99PBMgJxo",
-      "viewsPerHour": 148,
-      "views": 3735,
-      "ageHours": 25.2
+      "videoId": "gcYUo2DJy-I",
+      "viewsPerHour": 187,
+      "views": 309,
+      "ageHours": 1.7
     },
     {
       "title": "The Deadliest Secret to Keep in Taliban Ruled Afghanistan",
       "channel": "Real Stories",
       "videoId": "_B-f-jI7VZ4",
-      "viewsPerHour": 59,
-      "views": 2683,
-      "ageHours": 45.3
+      "viewsPerHour": 57,
+      "views": 2718,
+      "ageHours": 47.3
+    },
+    {
+      "title": "LIVE: President Trump participates in vehicle demonstration, delivers remarks in Michigan",
+      "channel": "MS NOW",
+      "videoId": "-KKX3kNaGss",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 1.6
+    },
+    {
+      "title": "WATCH LIVE: Trump expected to tout his economic policies, tariffs in Michigan",
+      "channel": "PBS NewsHour",
+      "videoId": "m5BpWOjchHY",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 3.9
     }
   ]
 }
