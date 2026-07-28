@@ -1,20 +1,20 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 4
+    },
+    {
       "channel": "MS NOW",
-      "count": 8
+      "count": 7
     },
     {
       "channel": "Last Week Tonight",
       "count": 17
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 1
-    },
-    {
       "channel": "Louis Rossmann",
-      "count": 24
+      "count": 23
     },
     {
       "channel": "Conan O'Brien",
@@ -22,7 +22,7 @@
     },
     {
       "channel": "The Rest Is Science",
-      "count": 5
+      "count": 4
     },
     {
       "channel": "Real Stories",
@@ -50,7 +50,7 @@
     },
     {
       "channel": "NOVA",
-      "count": 12
+      "count": 11
     },
     {
       "channel": "Chris Lehto",
@@ -79,20 +79,20 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "PBS NewsHour",
+      "count": 4
+    },
+    {
       "keyword": "MS NOW",
-      "count": 8
+      "count": 7
     },
     {
       "keyword": "Last Week Tonight",
       "count": 17
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 1
-    },
-    {
       "keyword": "Louis Rossmann",
-      "count": 23
+      "count": 22
     },
     {
       "keyword": "Conan O'Brien",
@@ -100,7 +100,7 @@
     },
     {
       "keyword": "The Rest Is Science",
-      "count": 5
+      "count": 4
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -108,7 +108,7 @@
     },
     {
       "keyword": "NOVA",
-      "count": 19
+      "count": 18
     },
     {
       "keyword": "The Daily Show",
@@ -202,11 +202,11 @@
   "dailySummary": [
     {
       "date": "2026-07-27",
-      "videos": 12
+      "videos": 16
     },
     {
       "date": "2026-07-26",
-      "videos": 10
+      "videos": 8
     },
     {
       "date": "2026-07-25",
@@ -262,7 +262,7 @@
     },
     {
       "date": "2026-07-12",
-      "videos": 5
+      "videos": 3
     },
     {
       "date": "2026-07-11",
@@ -413,26 +413,22 @@
       "videos": 2
     },
     {
-      "date": "2026-05-28",
-      "videos": 1
-    },
-    {
       "date": "2026-04-09",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour",
+      "matches": 4
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "Last Week Tonight",
       "matches": 9
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 1
     },
     {
       "keyword": "Louis Rossmann",
@@ -508,161 +504,169 @@
       "title": "Trump & Crypto: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "A9iZ10yIRwM",
-      "viewsPerHour": 59341,
-      "views": 937047,
-      "ageHours": 15.8
+      "viewsPerHour": 58186,
+      "views": 1035007,
+      "ageHours": 17.8
     },
     {
       "title": "S13 E18: Trump & Crypto, Buc-ee’s: 7/26/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "G3oB-1qAj-Q",
-      "viewsPerHour": 16263,
-      "views": 313755,
-      "ageHours": 19.3
+      "viewsPerHour": 15630,
+      "views": 332751,
+      "ageHours": 21.3
     },
     {
       "title": "It Wasn't A Hoax After All",
       "channel": "The Rest Is Science",
       "videoId": "lJm7UCUyqKQ",
-      "viewsPerHour": 9260,
-      "views": 234227,
-      "ageHours": 25.3
-    },
-    {
-      "title": "WeRecoverData's FINAL response; the game ends now. ",
-      "channel": "Louis Rossmann",
-      "videoId": "UYwhrcgcQrE",
-      "viewsPerHour": 3460,
-      "views": 96169,
-      "ageHours": 27.8
+      "viewsPerHour": 9274,
+      "views": 253112,
+      "ageHours": 27.3
     },
     {
       "title": "What Archaeologists Discovered in Ancient Egypt | Lost Treasures of Egypt MEGA Episode | Nat Geo",
       "channel": "Nat Geo",
       "videoId": "koj-eJo2o-c",
-      "viewsPerHour": 3171,
-      "views": 105572,
-      "ageHours": 33.3
+      "viewsPerHour": 3278,
+      "views": 115676,
+      "ageHours": 35.3
     },
     {
-      "title": "The UFO Superhighway (S20, E8) | Ancient Aliens | Full Episode",
-      "channel": "History",
-      "videoId": "ndHNOgutm4E",
-      "viewsPerHour": 2942,
-      "views": 136199,
-      "ageHours": 46.3
+      "title": "WeRecoverData's FINAL response; the game ends now. ",
+      "channel": "Louis Rossmann",
+      "videoId": "UYwhrcgcQrE",
+      "viewsPerHour": 3228,
+      "views": 96169,
+      "ageHours": 29.8
     },
     {
       "title": "Ronny Chieng Was Almost Too Scared to Try Stand-Up Comedy - After the Cut | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "gQpYlc2TwHU",
-      "viewsPerHour": 2078,
-      "views": 69179,
-      "ageHours": 33.3
+      "viewsPerHour": 2026,
+      "views": 71506,
+      "ageHours": 35.3
     },
     {
       "title": "Unbelievable Underwater Discoveries (S1) | The Curse of Oak Island",
       "channel": "History",
       "videoId": "d6W4V6mPqpI",
-      "viewsPerHour": 1595,
-      "views": 45119,
-      "ageHours": 28.3
+      "viewsPerHour": 1576,
+      "views": 47751,
+      "ageHours": 30.3
+    },
+    {
+      "title": "PBS News Hour live episode, July 27, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "oOZj6vs_Kx0",
+      "viewsPerHour": 1396,
+      "views": 4225,
+      "ageHours": 3
     },
     {
       "title": "Leslie Jones (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "UeG3lirNzUw",
-      "viewsPerHour": 1351,
+      "viewsPerHour": 1148,
       "views": 15262,
-      "ageHours": 11.3
+      "ageHours": 13.3
     },
     {
       "title": "Clinton the cat: how his politics changed over time",
       "channel": "Louis Rossmann",
       "videoId": "nulEiKXhqVQ",
-      "viewsPerHour": 1324,
+      "viewsPerHour": 1060,
       "views": 10634,
-      "ageHours": 8
+      "ageHours": 10
     },
     {
       "title": "Louis Theroux Revisits America's Most Hated Family (Westboro Baptist Church)",
       "channel": "Real Stories",
       "videoId": "oNyubAc8hr4",
-      "viewsPerHour": 1039,
-      "views": 28367,
-      "ageHours": 27.3
+      "viewsPerHour": 1030,
+      "views": 30163,
+      "ageHours": 29.3
     },
     {
       "title": "S9 E16: Supreme Court Overturns Roe & Water: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "74lpwDODypc",
-      "viewsPerHour": 1027,
-      "views": 6468,
-      "ageHours": 6.3
+      "viewsPerHour": 1008,
+      "views": 8360,
+      "ageHours": 8.3
     },
     {
       "title": "S9 E15: Jan. 6th Hearings, Midterms & Rent: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "ApnvjT8Opws",
-      "viewsPerHour": 629,
-      "views": 19056,
-      "ageHours": 30.3
+      "viewsPerHour": 596,
+      "views": 19243,
+      "ageHours": 32.3
     },
     {
       "title": "COLLINS V. JACKSON: Watch MS NOW's coverage of the Maine Senate race SHAKE-UP | COMPILATION",
       "channel": "MS NOW",
       "videoId": "ifheKRZmwdw",
-      "viewsPerHour": 591,
+      "viewsPerHour": 543,
       "views": 13186,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
-      "title": "Blanche not putting promises to Congress in writing may ‘DOOM’ his confirmation: Tim Heaphy",
+      "title": "The U.S. debt to Black America: Byron Allen & Ari Melber on MLK, Wall St. & media in the MAGA era ",
       "channel": "MS NOW",
-      "videoId": "LIznq00Hvpo",
-      "viewsPerHour": 339,
-      "views": 8730,
-      "ageHours": 25.8
+      "videoId": "gNEE3iBRSfc",
+      "viewsPerHour": 321,
+      "views": 620,
+      "ageHours": 1.9
     },
     {
       "title": "U.S. and Iran pause strikes, try to restart negotiations ",
       "channel": "MS NOW",
       "videoId": "9n-JkMP4XPA",
-      "viewsPerHour": 284,
+      "viewsPerHour": 244,
       "views": 3406,
-      "ageHours": 12
+      "ageHours": 14
     },
     {
       "title": "MS NOW Highlights - July 26",
       "channel": "MS NOW",
       "videoId": "coOoGf5Jpsk",
-      "viewsPerHour": 228,
+      "viewsPerHour": 198,
       "views": 3026,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
-      "title": "Troy Jackson starts Maine Senate race at ‘TREMENDOUS disadvantage’: Democrat strategist",
-      "channel": "MS NOW",
-      "videoId": "oMRCn4gI7Fo",
-      "viewsPerHour": 197,
-      "views": 5087,
-      "ageHours": 25.8
+      "title": "Senate faces packed, complicated agenda as midterms loom",
+      "channel": "PBS NewsHour",
+      "videoId": "1HIL0PYheQg",
+      "viewsPerHour": 162,
+      "views": 272,
+      "ageHours": 1.7
     },
     {
       "title": "Trump visits Michigan as FEUD INTENSIFIES over Canadian tariffs and bridge",
       "channel": "MS NOW",
       "videoId": "pAiikdUXHWI",
-      "viewsPerHour": 88,
+      "viewsPerHour": 65,
       "views": 487,
-      "ageHours": 5.5
+      "ageHours": 7.5
     },
     {
       "title": "Un-American': Pastor says Haitian community 'in a state of panic' as TPS status ends",
       "channel": "MS NOW",
       "videoId": "gcYUo2DJy-I",
-      "viewsPerHour": 55,
+      "viewsPerHour": 40,
       "views": 309,
-      "ageHours": 5.7
+      "ageHours": 7.7
+    },
+    {
+      "title": "India's youth-led 'cockroach' protests expose cracks in Modi's government",
+      "channel": "PBS NewsHour",
+      "videoId": "bGEq6XwdqJk",
+      "viewsPerHour": 11,
+      "views": 17,
+      "ageHours": 1.5
     },
     {
       "title": "LIVE: President Trump participates in vehicle demonstration, delivers remarks in Michigan",
@@ -670,7 +674,7 @@
       "videoId": "-KKX3kNaGss",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 5.6
+      "ageHours": 7.6
     },
     {
       "title": "WATCH LIVE: Trump expected to tout his economic policies, tariffs in Michigan",
@@ -678,7 +682,7 @@
       "videoId": "m5BpWOjchHY",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 7.9
+      "ageHours": 9.9
     }
   ]
 }
