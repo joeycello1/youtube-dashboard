@@ -6,7 +6,7 @@
     },
     {
       "channel": "MS NOW",
-      "count": 7
+      "count": 6
     },
     {
       "channel": "Last Week Tonight",
@@ -34,7 +34,7 @@
     },
     {
       "channel": "The Daily Show",
-      "count": 14
+      "count": 11
     },
     {
       "channel": "Nat Geo",
@@ -84,7 +84,7 @@
     },
     {
       "keyword": "MS NOW",
-      "count": 7
+      "count": 6
     },
     {
       "keyword": "Last Week Tonight",
@@ -112,7 +112,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "count": 14
+      "count": 11
     },
     {
       "keyword": "Giza",
@@ -202,7 +202,7 @@
   "dailySummary": [
     {
       "date": "2026-07-27",
-      "videos": 16
+      "videos": 15
     },
     {
       "date": "2026-07-26",
@@ -226,7 +226,7 @@
     },
     {
       "date": "2026-07-21",
-      "videos": 11
+      "videos": 8
     },
     {
       "date": "2026-07-20",
@@ -424,7 +424,7 @@
     },
     {
       "keyword": "MS NOW",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "Last Week Tonight",
@@ -504,169 +504,161 @@
       "title": "Trump & Crypto: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "A9iZ10yIRwM",
-      "viewsPerHour": 51708,
+      "viewsPerHour": 47362,
       "views": 1126423,
-      "ageHours": 21.8
+      "ageHours": 23.8
     },
     {
       "title": "S13 E18: Trump & Crypto, Buc-ee’s: 7/26/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "G3oB-1qAj-Q",
-      "viewsPerHour": 13592,
+      "viewsPerHour": 12596,
       "views": 343681,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
       "title": "It Wasn't A Hoax After All",
       "channel": "The Rest Is Science",
       "videoId": "lJm7UCUyqKQ",
-      "viewsPerHour": 8604,
+      "viewsPerHour": 8088,
       "views": 269222,
-      "ageHours": 31.3
+      "ageHours": 33.3
     },
     {
       "title": "What Archaeologists Discovered in Ancient Egypt | Lost Treasures of Egypt MEGA Episode | Nat Geo",
       "channel": "Nat Geo",
       "videoId": "koj-eJo2o-c",
-      "viewsPerHour": 3236,
+      "viewsPerHour": 3079,
       "views": 127123,
-      "ageHours": 39.3
+      "ageHours": 41.3
     },
     {
       "title": "WeRecoverData's FINAL response; the game ends now. ",
       "channel": "Louis Rossmann",
       "videoId": "UYwhrcgcQrE",
-      "viewsPerHour": 2847,
+      "viewsPerHour": 2688,
       "views": 96169,
-      "ageHours": 33.8
+      "ageHours": 35.8
     },
     {
       "title": "Ronny Chieng Was Almost Too Scared to Try Stand-Up Comedy - After the Cut | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "gQpYlc2TwHU",
-      "viewsPerHour": 1883,
+      "viewsPerHour": 1792,
       "views": 73969,
-      "ageHours": 39.3
+      "ageHours": 41.3
     },
     {
       "title": "Unbelievable Underwater Discoveries (S1) | The Curse of Oak Island",
       "channel": "History",
       "videoId": "d6W4V6mPqpI",
-      "viewsPerHour": 1439,
+      "viewsPerHour": 1360,
       "views": 49340,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
       "title": "Louis Theroux Revisits America's Most Hated Family (Westboro Baptist Church)",
       "channel": "Real Stories",
       "videoId": "oNyubAc8hr4",
-      "viewsPerHour": 962,
+      "viewsPerHour": 907,
       "views": 32018,
-      "ageHours": 33.3
+      "ageHours": 35.3
     },
     {
       "title": "Leslie Jones (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "UeG3lirNzUw",
-      "viewsPerHour": 883,
+      "viewsPerHour": 791,
       "views": 15262,
-      "ageHours": 17.3
+      "ageHours": 19.3
     },
     {
       "title": "S9 E16: Supreme Court Overturns Roe & Water: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "74lpwDODypc",
-      "viewsPerHour": 785,
+      "viewsPerHour": 675,
       "views": 9648,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "Clinton the cat: how his politics changed over time",
       "channel": "Louis Rossmann",
       "videoId": "nulEiKXhqVQ",
-      "viewsPerHour": 758,
+      "viewsPerHour": 664,
       "views": 10634,
-      "ageHours": 14
-    },
-    {
-      "title": "PBS News Hour live episode, July 27, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "oOZj6vs_Kx0",
-      "viewsPerHour": 602,
-      "views": 4225,
-      "ageHours": 7
+      "ageHours": 16
     },
     {
       "title": "S9 E15: Jan. 6th Hearings, Midterms & Rent: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "ApnvjT8Opws",
-      "viewsPerHour": 534,
+      "viewsPerHour": 506,
       "views": 19381,
-      "ageHours": 36.3
+      "ageHours": 38.3
     },
     {
-      "title": "COLLINS V. JACKSON: Watch MS NOW's coverage of the Maine Senate race SHAKE-UP | COMPILATION",
-      "channel": "MS NOW",
-      "videoId": "ifheKRZmwdw",
-      "viewsPerHour": 466,
-      "views": 13186,
-      "ageHours": 28.3
+      "title": "PBS News Hour live episode, July 27, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "oOZj6vs_Kx0",
+      "viewsPerHour": 468,
+      "views": 4225,
+      "ageHours": 9
     },
     {
       "title": "U.S. and Iran pause strikes, try to restart negotiations ",
       "channel": "MS NOW",
       "videoId": "9n-JkMP4XPA",
-      "viewsPerHour": 189,
+      "viewsPerHour": 170,
       "views": 3406,
-      "ageHours": 18
+      "ageHours": 20
     },
     {
       "title": "MS NOW Highlights - July 26",
       "channel": "MS NOW",
       "videoId": "coOoGf5Jpsk",
-      "viewsPerHour": 157,
+      "viewsPerHour": 142,
       "views": 3026,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "The U.S. debt to Black America: Byron Allen & Ari Melber on MLK, Wall St. & media in the MAGA era ",
       "channel": "MS NOW",
       "videoId": "gNEE3iBRSfc",
-      "viewsPerHour": 105,
+      "viewsPerHour": 78,
       "views": 620,
-      "ageHours": 5.9
-    },
-    {
-      "title": "Senate faces packed, complicated agenda as midterms loom",
-      "channel": "PBS NewsHour",
-      "videoId": "1HIL0PYheQg",
-      "viewsPerHour": 48,
-      "views": 272,
-      "ageHours": 5.7
+      "ageHours": 7.9
     },
     {
       "title": "Trump visits Michigan as FEUD INTENSIFIES over Canadian tariffs and bridge",
       "channel": "MS NOW",
       "videoId": "pAiikdUXHWI",
-      "viewsPerHour": 42,
+      "viewsPerHour": 36,
       "views": 487,
-      "ageHours": 11.5
+      "ageHours": 13.5
+    },
+    {
+      "title": "Senate faces packed, complicated agenda as midterms loom",
+      "channel": "PBS NewsHour",
+      "videoId": "1HIL0PYheQg",
+      "viewsPerHour": 35,
+      "views": 272,
+      "ageHours": 7.7
     },
     {
       "title": "Un-American': Pastor says Haitian community 'in a state of panic' as TPS status ends",
       "channel": "MS NOW",
       "videoId": "gcYUo2DJy-I",
-      "viewsPerHour": 27,
+      "viewsPerHour": 23,
       "views": 309,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "India's youth-led 'cockroach' protests expose cracks in Modi's government",
       "channel": "PBS NewsHour",
       "videoId": "bGEq6XwdqJk",
-      "viewsPerHour": 3,
+      "viewsPerHour": 2,
       "views": 17,
-      "ageHours": 5.5
+      "ageHours": 7.5
     },
     {
       "title": "LIVE: President Trump participates in vehicle demonstration, delivers remarks in Michigan",
@@ -674,7 +666,7 @@
       "videoId": "-KKX3kNaGss",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "WATCH LIVE: Trump expected to tout his economic policies, tariffs in Michigan",
@@ -682,7 +674,7 @@
       "videoId": "m5BpWOjchHY",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 13.9
+      "ageHours": 15.9
     }
   ]
 }
