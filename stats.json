@@ -420,7 +420,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "Louis Rossmann",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "The Daily Show",
@@ -444,11 +444,11 @@
     },
     {
       "keyword": "Real Stories",
-      "matches": 3
+      "matches": 2
     },
     {
       "keyword": "Last Week Tonight",
-      "matches": 9
+      "matches": 8
     },
     {
       "keyword": "Conan O'Brien",
@@ -508,217 +508,209 @@
       "title": "Trump Bombs at White House Correspondents' Dinner & Jon Stewart Offers Comedy Tips | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ZF_tDPRNV5U",
-      "viewsPerHour": 124722,
-      "views": 4401802,
-      "ageHours": 35.3
+      "viewsPerHour": 119751,
+      "views": 4469956,
+      "ageHours": 37.3
     },
     {
       "title": "Trump Gets Called \"Pedophile Protector\" AGAIN & Mexico Gets a New Pronunciation | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "f0Qoqc-zOaE",
-      "viewsPerHour": 93465,
-      "views": 1150157,
-      "ageHours": 12.3
+      "viewsPerHour": 89496,
+      "views": 1283364,
+      "ageHours": 14.3
     },
     {
       "title": "Kaitlan Collins - Focusing on Reporting, Not Trump’s Insults | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "wJiBtLAzKPs",
-      "viewsPerHour": 64052,
-      "views": 2228667,
-      "ageHours": 34.8
+      "viewsPerHour": 61451,
+      "views": 2263168,
+      "ageHours": 36.8
     },
     {
       "title": "Kaitlan Collins on How She Handles Trump’s Verbal Attacks | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "uwzwFiK4hNY",
-      "viewsPerHour": 33421,
-      "views": 1229238,
-      "ageHours": 36.8
+      "viewsPerHour": 31873,
+      "views": 1237125,
+      "ageHours": 38.8
     },
     {
       "title": "Jordan Klepper Finds Out Why MAGA Is So Afraid of “Antifa Thugs” in Animal Costumes | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "5n7Jgdb5nnY",
-      "viewsPerHour": 8937,
-      "views": 120700,
-      "ageHours": 13.5
+      "viewsPerHour": 8397,
+      "views": 130498,
+      "ageHours": 15.5
     },
     {
       "title": "Trump’s Jokes Ooze Cruelty at WHCD & Smithsonian Gets a GOP Trigger Warning | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "6y36G_qL22U",
-      "viewsPerHour": 5491,
-      "views": 210035,
-      "ageHours": 38.3
+      "viewsPerHour": 5295,
+      "views": 213323,
+      "ageHours": 40.3
     },
     {
       "title": "You Were Born Telepathic. Then You Forgot. The Test with 97% Accuracy | Dr. Diane Hennacy",
       "channel": "Mayim Bialik",
       "videoId": "p9QfTjDwTNI",
-      "viewsPerHour": 3345,
-      "views": 91273,
-      "ageHours": 27.3
+      "viewsPerHour": 3204,
+      "views": 93954,
+      "ageHours": 29.3
     },
     {
       "title": "Jeff Hiller - Scoring an Emmy Nom for 7 Minutes in “Pluribus” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "cGa06f5d3zk",
-      "viewsPerHour": 3100,
-      "views": 33469,
-      "ageHours": 10.8
+      "viewsPerHour": 3199,
+      "views": 41042,
+      "ageHours": 12.8
     },
     {
       "title": "PBS News Hour full episode, July 28, 2026",
       "channel": "PBS NewsHour",
       "videoId": "2vU_Pupb6Bs",
-      "viewsPerHour": 2334,
+      "viewsPerHour": 2057,
       "views": 35216,
-      "ageHours": 15.1
+      "ageHours": 17.1
     },
     {
       "title": "Shout out to bill for the coolest gift",
       "channel": "Louis Rossmann",
       "videoId": "4lGlvgUdkC8",
-      "viewsPerHour": 2091,
+      "viewsPerHour": 1742,
       "views": 21244,
-      "ageHours": 10.2
+      "ageHours": 12.2
     },
     {
       "title": "Investigating 2019's UFO Wave (S2, E7) | Unidentified | Full Episode",
       "channel": "History",
       "videoId": "tUmjqCxYlqo",
-      "viewsPerHour": 1499,
-      "views": 24420,
-      "ageHours": 16.3
+      "viewsPerHour": 1435,
+      "views": 26297,
+      "ageHours": 18.3
     },
     {
       "title": "GrapheneOS user accused of child sexual abuse for protesting police training facility",
       "channel": "Louis Rossmann",
       "videoId": "KVvlgMf1hAg",
-      "viewsPerHour": 1290,
+      "viewsPerHour": 1156,
       "views": 22724,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
       "title": "S9 E17: Inflation & Beach Dolls Update: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "D10nBR4m9rg",
-      "viewsPerHour": 910,
-      "views": 20295,
-      "ageHours": 22.3
+      "viewsPerHour": 895,
+      "views": 21767,
+      "ageHours": 24.3
     },
     {
       "title": "Samsung Smartthings rugpulls with monthly charge for homassistant users",
       "channel": "Louis Rossmann",
       "videoId": "V5q4xWf4h80",
-      "viewsPerHour": 674,
+      "viewsPerHour": 636,
       "views": 22928,
-      "ageHours": 34
-    },
-    {
-      "title": "S9 E16: Supreme Court Overturns Roe & Water: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "74lpwDODypc",
-      "viewsPerHour": 429,
-      "views": 19851,
-      "ageHours": 46.3
+      "ageHours": 36.1
     },
     {
       "title": "Antarctica’s Strange Underwater World | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "Z92txcRjCEI",
-      "viewsPerHour": 408,
-      "views": 7321,
-      "ageHours": 18
+      "viewsPerHour": 384,
+      "views": 7676,
+      "ageHours": 20
     },
     {
       "title": "Republicans are SCARED': Trump angers voters by dismissing affordability AGAIN, risking midterms",
       "channel": "MS NOW",
       "videoId": "5PTvR_LIMsk",
-      "viewsPerHour": 397,
+      "viewsPerHour": 352,
       "views": 6369,
-      "ageHours": 16.1
+      "ageHours": 18.1
     },
     {
       "title": "PBS News Hour live episode, July 28, 2026",
       "channel": "PBS NewsHour",
       "videoId": "cxqflP50ghs",
-      "viewsPerHour": 254,
+      "viewsPerHour": 227,
       "views": 4250,
-      "ageHours": 16.7
+      "ageHours": 18.7
     },
     {
       "title": "WATCH: Zelenskyy joins bipartisan lawmakers to discuss Graham Sanctioning Russia and Iran Act",
       "channel": "PBS NewsHour",
       "videoId": "d7xgvk1CDks",
-      "viewsPerHour": 216,
+      "viewsPerHour": 189,
       "views": 3045,
-      "ageHours": 14.1
+      "ageHours": 16.1
     },
     {
       "title": "This is a LOSER. It's also DEADLY': Nicolle on Trump pressuring RFK Jr. to probe vaccine conspiracy",
       "channel": "MS NOW",
       "videoId": "0HRxo5iprUo",
-      "viewsPerHour": 189,
+      "viewsPerHour": 167,
       "views": 2980,
-      "ageHours": 15.8
+      "ageHours": 17.8
     },
     {
       "title": "He Seduced Wealthy Women Then Blackmailed Them For Millions",
       "channel": "Real Stories",
       "videoId": "wP80t7gukF4",
-      "viewsPerHour": 171,
-      "views": 3648,
-      "ageHours": 21.3
+      "viewsPerHour": 161,
+      "views": 3765,
+      "ageHours": 23.3
     },
     {
       "title": "Trump meets with Zelenskyy and Netanyahu ahead of Lindsey Graham's funeral",
       "channel": "MS NOW",
       "videoId": "byJ4a9-FTRk",
-      "viewsPerHour": 160,
+      "viewsPerHour": 146,
       "views": 3482,
-      "ageHours": 21.8
+      "ageHours": 23.8
     },
     {
       "title": "Lisa Kudrow Is Not The Adventurous Type | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "r4I69VaxJu4",
-      "viewsPerHour": 112,
+      "viewsPerHour": 104,
       "views": 2948,
-      "ageHours": 26.3
+      "ageHours": 28.3
     },
     {
       "title": "WATCH LIVE: Senate expected to vote on Jay Clayton nomination for director of national intelligence",
       "channel": "PBS NewsHour",
       "videoId": "VO20prOe4n4",
-      "viewsPerHour": 56,
+      "viewsPerHour": 52,
       "views": 1292,
-      "ageHours": 22.9
+      "ageHours": 24.9
     },
     {
       "title": "Trump pushes Thune, Supreme Court on policies that 'PREVENT people from voting’  ",
       "channel": "MS NOW",
       "videoId": "SYYbxRjFGcY",
-      "viewsPerHour": 52,
+      "viewsPerHour": 47,
       "views": 1122,
-      "ageHours": 21.7
+      "ageHours": 23.8
     },
     {
       "title": "Disappointed but far from surprised': Fmr. DNC Vice Chair on reports of Martin's rocky leadership",
       "channel": "MS NOW",
       "videoId": "wJxsrZTVNB8",
-      "viewsPerHour": 16,
+      "viewsPerHour": 14,
       "views": 344,
-      "ageHours": 21.8
+      "ageHours": 23.8
     },
     {
       "title": "New report reveals consequences of Trump administration's HIV/AIDS funding cuts",
       "channel": "PBS NewsHour",
       "videoId": "KW12unB83tk",
-      "viewsPerHour": 10,
+      "viewsPerHour": 9,
       "views": 152,
-      "ageHours": 15.7
+      "ageHours": 17.7
     }
   ]
 }
