@@ -1,8 +1,28 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 5
+    },
+    {
       "channel": "MS NOW",
-      "count": 7
+      "count": 8
+    },
+    {
+      "channel": "History",
+      "count": 20
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 23
+    },
+    {
+      "channel": "NOVA",
+      "count": 12
+    },
+    {
+      "channel": "Real Stories",
+      "count": 36
     },
     {
       "channel": "Last Week Tonight",
@@ -17,28 +37,12 @@
       "count": 6
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 23
-    },
-    {
       "channel": "The Daily Show",
       "count": 15
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 5
-    },
-    {
       "channel": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "channel": "Real Stories",
-      "count": 35
-    },
-    {
-      "channel": "History",
-      "count": 19
     },
     {
       "channel": "Nat Geo",
@@ -51,10 +55,6 @@
     {
       "channel": "Jonathan Pie",
       "count": 7
-    },
-    {
-      "channel": "NOVA",
-      "count": 11
     },
     {
       "channel": "Chris Lehto",
@@ -79,8 +79,28 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "PBS NewsHour",
+      "count": 5
+    },
+    {
       "keyword": "MS NOW",
-      "count": 7
+      "count": 8
+    },
+    {
+      "keyword": "UFO, UAP",
+      "count": 3
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 21
+    },
+    {
+      "keyword": "NOVA",
+      "count": 19
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 19
     },
     {
       "keyword": "Last Week Tonight",
@@ -107,14 +127,6 @@
       "count": 1
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 5
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 21
-    },
-    {
       "keyword": "The Rest Is Science",
       "count": 4
     },
@@ -123,20 +135,12 @@
       "count": 16
     },
     {
-      "keyword": "NOVA",
-      "count": 18
-    },
-    {
       "keyword": "Giza",
       "count": 1
     },
     {
       "keyword": "UFO",
       "count": 14
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 18
     },
     {
       "keyword": "The Interview",
@@ -156,10 +160,6 @@
     },
     {
       "keyword": "UAP, UFO",
-      "count": 2
-    },
-    {
-      "keyword": "UFO, UAP",
       "count": 2
     },
     {
@@ -198,11 +198,11 @@
   "dailySummary": [
     {
       "date": "2026-07-28",
-      "videos": 14
+      "videos": 23
     },
     {
       "date": "2026-07-27",
-      "videos": 11
+      "videos": 7
     },
     {
       "date": "2026-07-26",
@@ -258,7 +258,7 @@
     },
     {
       "date": "2026-07-13",
-      "videos": 2
+      "videos": 1
     },
     {
       "date": "2026-07-12",
@@ -415,8 +415,28 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour",
+      "matches": 5
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 7
+      "matches": 8
+    },
+    {
+      "keyword": "UFO, UAP",
+      "matches": 1
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 8
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 5
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 3
     },
     {
       "keyword": "Last Week Tonight",
@@ -443,14 +463,6 @@
       "matches": 1
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 5
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 7
-    },
-    {
       "keyword": "The Rest Is Science",
       "matches": 2
     },
@@ -459,19 +471,11 @@
       "matches": 2
     },
     {
-      "keyword": "NOVA",
-      "matches": 4
-    },
-    {
       "keyword": "Giza",
       "matches": 1
     },
     {
       "keyword": "UFO",
-      "matches": 2
-    },
-    {
-      "keyword": "Real Stories",
       "matches": 2
     },
     {
@@ -500,201 +504,241 @@
       "title": "Trump Bombs at White House Correspondents' Dinner & Jon Stewart Offers Comedy Tips | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ZF_tDPRNV5U",
-      "viewsPerHour": 176948,
-      "views": 3414146,
-      "ageHours": 19.3
+      "viewsPerHour": 171113,
+      "views": 3643127,
+      "ageHours": 21.3
     },
     {
       "title": "Kaitlan Collins - Focusing on Reporting, Not Trump’s Insults | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "wJiBtLAzKPs",
-      "viewsPerHour": 88680,
-      "views": 1666855,
-      "ageHours": 18.8
+      "viewsPerHour": 86659,
+      "views": 1801853,
+      "ageHours": 20.8
     },
     {
       "title": "Kaitlan Collins on How She Handles Trump’s Verbal Attacks | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "uwzwFiK4hNY",
-      "viewsPerHour": 51769,
-      "views": 1075858,
-      "ageHours": 20.8
+      "viewsPerHour": 49145,
+      "views": 1119442,
+      "ageHours": 22.8
     },
     {
       "title": "Trump & Crypto: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "A9iZ10yIRwM",
-      "viewsPerHour": 40427,
-      "views": 1608579,
-      "ageHours": 39.8
+      "viewsPerHour": 39413,
+      "views": 1646937,
+      "ageHours": 41.8
     },
     {
       "title": "S13 E18: Trump & Crypto, Buc-ee’s: 7/26/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "G3oB-1qAj-Q",
-      "viewsPerHour": 10008,
-      "views": 433263,
-      "ageHours": 43.3
+      "viewsPerHour": 9737,
+      "views": 440964,
+      "ageHours": 45.3
     },
     {
       "title": "Trump’s Jokes Ooze Cruelty at WHCD & Smithsonian Gets a GOP Trigger Warning | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "6y36G_qL22U",
-      "viewsPerHour": 7597,
-      "views": 169047,
-      "ageHours": 22.3
+      "viewsPerHour": 7353,
+      "views": 178302,
+      "ageHours": 24.2
+    },
+    {
+      "title": "GrapheneOS user accused of child sexual abuse for protesting police training facility",
+      "channel": "Louis Rossmann",
+      "videoId": "KVvlgMf1hAg",
+      "viewsPerHour": 6290,
+      "views": 22724,
+      "ageHours": 3.6
     },
     {
       "title": "You Were Born Telepathic. Then You Forgot. The Test with 97% Accuracy | Dr. Diane Hennacy",
       "channel": "Mayim Bialik",
       "videoId": "p9QfTjDwTNI",
-      "viewsPerHour": 4862,
-      "views": 54877,
-      "ageHours": 11.3
+      "viewsPerHour": 4685,
+      "views": 62229,
+      "ageHours": 13.3
     },
     {
       "title": "PBS News Hour full episode, July 27, 2026",
       "channel": "PBS NewsHour",
       "videoId": "eVt4ymbTRmM",
-      "viewsPerHour": 3482,
+      "viewsPerHour": 3202,
       "views": 79423,
-      "ageHours": 22.8
+      "ageHours": 24.8
     },
     {
-      "title": "Samsung Smartthings rugpulls with monthly charge for homassistant users",
-      "channel": "Louis Rossmann",
-      "videoId": "V5q4xWf4h80",
-      "viewsPerHour": 1272,
-      "views": 22928,
-      "ageHours": 18
+      "title": "Republicans are SCARED': Trump angers voters by dismissing affordability AGAIN, risking midterms",
+      "channel": "MS NOW",
+      "videoId": "5PTvR_LIMsk",
+      "viewsPerHour": 3109,
+      "views": 6369,
+      "ageHours": 2
+    },
+    {
+      "title": "This is a LOSER. It's also DEADLY': Nicolle on Trump pressuring RFK Jr. to probe vaccine conspiracy",
+      "channel": "MS NOW",
+      "videoId": "0HRxo5iprUo",
+      "viewsPerHour": 1670,
+      "views": 2980,
+      "ageHours": 1.8
+    },
+    {
+      "title": "PBS News Hour live episode, July 28, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "cxqflP50ghs",
+      "viewsPerHour": 1571,
+      "views": 4250,
+      "ageHours": 2.7
     },
     {
       "title": "S9 E17: Inflation & Beach Dolls Update: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "D10nBR4m9rg",
-      "viewsPerHour": 1154,
-      "views": 7263,
-      "ageHours": 6.3
+      "viewsPerHour": 1145,
+      "views": 9497,
+      "ageHours": 8.3
     },
     {
-      "title": "Trump meets with Zelenskyy and Netanyahu ahead of Lindsey Graham's funeral",
-      "channel": "MS NOW",
-      "videoId": "byJ4a9-FTRk",
-      "viewsPerHour": 601,
-      "views": 3482,
-      "ageHours": 5.8
+      "title": "Samsung Smartthings rugpulls with monthly charge for homassistant users",
+      "channel": "Louis Rossmann",
+      "videoId": "V5q4xWf4h80",
+      "viewsPerHour": 1145,
+      "views": 22928,
+      "ageHours": 20
+    },
+    {
+      "title": "Investigating 2019's UFO Wave (S2, E7) | Unidentified | Full Episode",
+      "channel": "History",
+      "videoId": "tUmjqCxYlqo",
+      "viewsPerHour": 928,
+      "views": 2127,
+      "ageHours": 2.3
     },
     {
       "title": "S9 E16: Supreme Court Overturns Roe & Water: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "74lpwDODypc",
-      "viewsPerHour": 593,
-      "views": 17952,
-      "ageHours": 30.3
+      "viewsPerHour": 566,
+      "views": 18290,
+      "ageHours": 32.3
     },
     {
-      "title": "CRAZYSAUCE: Maddow flags the weirdest candidates 99 days from midterms",
+      "title": "Antarctica’s Strange Underwater World | NOVA | PBS",
+      "channel": "NOVA",
+      "videoId": "Z92txcRjCEI",
+      "viewsPerHour": 533,
+      "views": 2110,
+      "ageHours": 4
+    },
+    {
+      "title": "Trump meets with Zelenskyy and Netanyahu ahead of Lindsey Graham's funeral",
       "channel": "MS NOW",
-      "videoId": "s8XPj2DVHt8",
-      "viewsPerHour": 449,
-      "views": 6830,
-      "ageHours": 15.2
+      "videoId": "byJ4a9-FTRk",
+      "viewsPerHour": 447,
+      "views": 3482,
+      "ageHours": 7.8
     },
     {
       "title": "Leslie Jones (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "UeG3lirNzUw",
-      "viewsPerHour": 432,
+      "viewsPerHour": 409,
       "views": 15262,
-      "ageHours": 35.3
+      "ageHours": 37.3
+    },
+    {
+      "title": "CRAZYSAUCE: Maddow flags the weirdest candidates 99 days from midterms",
+      "channel": "MS NOW",
+      "videoId": "s8XPj2DVHt8",
+      "viewsPerHour": 397,
+      "views": 6830,
+      "ageHours": 17.2
+    },
+    {
+      "title": "He Seduced Wealthy Women Then Blackmailed Them For Millions",
+      "channel": "Real Stories",
+      "videoId": "wP80t7gukF4",
+      "viewsPerHour": 318,
+      "views": 2317,
+      "ageHours": 7.3
     },
     {
       "title": "Clinton the cat: how his politics changed over time",
       "channel": "Louis Rossmann",
       "videoId": "nulEiKXhqVQ",
-      "viewsPerHour": 332,
+      "viewsPerHour": 313,
       "views": 10634,
-      "ageHours": 32
+      "ageHours": 34
     },
     {
       "title": "Lisa Kudrow Is Not The Adventurous Type | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "r4I69VaxJu4",
-      "viewsPerHour": 286,
+      "viewsPerHour": 240,
       "views": 2948,
-      "ageHours": 10.3
+      "ageHours": 12.3
     },
     {
       "title": "Documentary explores why U.S. mothers lack support systems found in other countries",
       "channel": "PBS NewsHour",
       "videoId": "DnUM7QIKPYo",
-      "viewsPerHour": 253,
+      "viewsPerHour": 233,
       "views": 5825,
-      "ageHours": 23
+      "ageHours": 25
+    },
+    {
+      "title": "WATCH LIVE: Senate expected to vote on Jay Clayton nomination for director of national intelligence",
+      "channel": "PBS NewsHour",
+      "videoId": "VO20prOe4n4",
+      "viewsPerHour": 145,
+      "views": 1292,
+      "ageHours": 8.9
     },
     {
       "title": "Trump pushes Thune, Supreme Court on policies that 'PREVENT people from voting’  ",
       "channel": "MS NOW",
       "videoId": "SYYbxRjFGcY",
-      "viewsPerHour": 196,
+      "viewsPerHour": 145,
       "views": 1122,
-      "ageHours": 5.7
+      "ageHours": 7.7
     },
     {
-      "title": "PBS News Hour live episode, July 27, 2026",
+      "title": "New report reveals consequences of Trump administration's HIV/AIDS funding cuts",
       "channel": "PBS NewsHour",
-      "videoId": "oOZj6vs_Kx0",
-      "viewsPerHour": 169,
-      "views": 4225,
-      "ageHours": 25
+      "videoId": "KW12unB83tk",
+      "viewsPerHour": 89,
+      "views": 152,
+      "ageHours": 1.7
     },
     {
       "title": "‘We’ve heard this before’: Skepticism grows over U.S.-Iran talks progress",
       "channel": "MS NOW",
       "videoId": "Ie7l5aVkKCQ",
-      "viewsPerHour": 102,
+      "viewsPerHour": 87,
       "views": 1197,
-      "ageHours": 11.7
-    },
-    {
-      "title": "Disappointed but far from surprised': Fmr. DNC Vice Chair on reports of Martin's rocky leadership",
-      "channel": "MS NOW",
-      "videoId": "wJxsrZTVNB8",
-      "viewsPerHour": 59,
-      "views": 344,
-      "ageHours": 5.8
+      "ageHours": 13.7
     },
     {
       "title": "The Rachel Maddow Show - July 27 | Audio Only",
       "channel": "MS NOW",
       "videoId": "HF_oQXlk7CY",
-      "viewsPerHour": 56,
+      "viewsPerHour": 48,
       "views": 685,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
-      "title": "The U.S. debt to Black America: Byron Allen & Ari Melber on MLK, Wall St. & media in the MAGA era ",
+      "title": "Disappointed but far from surprised': Fmr. DNC Vice Chair on reports of Martin's rocky leadership",
       "channel": "MS NOW",
-      "videoId": "gNEE3iBRSfc",
-      "viewsPerHour": 26,
-      "views": 620,
-      "ageHours": 23.9
-    },
-    {
-      "title": "Senate faces packed, complicated agenda as midterms loom",
-      "channel": "PBS NewsHour",
-      "videoId": "1HIL0PYheQg",
-      "viewsPerHour": 11,
-      "views": 272,
-      "ageHours": 23.7
-    },
-    {
-      "title": "India's youth-led 'cockroach' protests expose cracks in Modi's government",
-      "channel": "PBS NewsHour",
-      "videoId": "bGEq6XwdqJk",
-      "viewsPerHour": 1,
-      "views": 17,
-      "ageHours": 23.5
+      "videoId": "wJxsrZTVNB8",
+      "viewsPerHour": 44,
+      "views": 344,
+      "ageHours": 7.8
     }
   ]
 }
