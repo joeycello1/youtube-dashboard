@@ -1,20 +1,32 @@
 {
   "videosPerChannel": [
     {
+      "channel": "MS NOW",
+      "count": 4
+    },
+    {
+      "channel": "Real Stories",
+      "count": 37
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 7
+    },
+    {
       "channel": "Louis Rossmann",
       "count": 23
     },
     {
+      "channel": "More Perfect Union",
+      "count": 17
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 12
+    },
+    {
       "channel": "The Daily Show",
       "count": 16
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 5
-    },
-    {
-      "channel": "MS NOW",
-      "count": 5
     },
     {
       "channel": "History",
@@ -25,16 +37,8 @@
       "count": 12
     },
     {
-      "channel": "Real Stories",
-      "count": 36
-    },
-    {
       "channel": "Last Week Tonight",
-      "count": 17
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 11
+      "count": 16
     },
     {
       "channel": "Mayim Bialik",
@@ -61,10 +65,6 @@
       "count": 4
     },
     {
-      "channel": "More Perfect Union",
-      "count": 16
-    },
-    {
       "channel": "Diary of a CEO",
       "count": 1
     },
@@ -79,20 +79,40 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "MS NOW",
+      "count": 4
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 20
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 6
+    },
+    {
+      "keyword": "PBS NewsHour, AI",
+      "count": 1
+    },
+    {
       "keyword": "Louis Rossmann",
       "count": 21
     },
     {
+      "keyword": "More Perfect Union",
+      "count": 16
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 12
+    },
+    {
+      "keyword": "The Daily Show, AI",
+      "count": 2
+    },
+    {
       "keyword": "The Daily Show",
-      "count": 15
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 5
-    },
-    {
-      "keyword": "MS NOW",
-      "count": 5
+      "count": 14
     },
     {
       "keyword": "UFO, UAP",
@@ -103,16 +123,8 @@
       "count": 19
     },
     {
-      "keyword": "Real Stories",
-      "count": 19
-    },
-    {
       "keyword": "Last Week Tonight",
-      "count": 17
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 11
+      "count": 16
     },
     {
       "keyword": "AI",
@@ -121,10 +133,6 @@
     {
       "keyword": "Louis Rossmann, Samsung",
       "count": 2
-    },
-    {
-      "keyword": "The Daily Show, AI",
-      "count": 1
     },
     {
       "keyword": "The Rest Is Science",
@@ -153,10 +161,6 @@
     {
       "keyword": "UAP",
       "count": 3
-    },
-    {
-      "keyword": "More Perfect Union",
-      "count": 15
     },
     {
       "keyword": "UAP, UFO",
@@ -198,11 +202,11 @@
   "dailySummary": [
     {
       "date": "2026-07-29",
-      "videos": 5
+      "videos": 15
     },
     {
       "date": "2026-07-28",
-      "videos": 21
+      "videos": 17
     },
     {
       "date": "2026-07-27",
@@ -226,7 +230,7 @@
     },
     {
       "date": "2026-07-22",
-      "videos": 9
+      "videos": 8
     },
     {
       "date": "2026-07-21",
@@ -258,7 +262,7 @@
     },
     {
       "date": "2026-07-14",
-      "videos": 6
+      "videos": 4
     },
     {
       "date": "2026-07-13",
@@ -419,20 +423,40 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "MS NOW",
+      "matches": 4
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 3
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 6
+    },
+    {
+      "keyword": "PBS NewsHour, AI",
+      "matches": 1
+    },
+    {
       "keyword": "Louis Rossmann",
+      "matches": 8
+    },
+    {
+      "keyword": "More Perfect Union",
+      "matches": 2
+    },
+    {
+      "keyword": "Conan O'Brien",
       "matches": 7
+    },
+    {
+      "keyword": "The Daily Show, AI",
+      "matches": 2
     },
     {
       "keyword": "The Daily Show",
       "matches": 14
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 5
-    },
-    {
-      "keyword": "MS NOW",
-      "matches": 5
     },
     {
       "keyword": "UFO, UAP",
@@ -443,16 +467,8 @@
       "matches": 5
     },
     {
-      "keyword": "Real Stories",
-      "matches": 2
-    },
-    {
       "keyword": "Last Week Tonight",
       "matches": 8
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 7
     },
     {
       "keyword": "AI",
@@ -461,10 +477,6 @@
     {
       "keyword": "Louis Rossmann, Samsung",
       "matches": 2
-    },
-    {
-      "keyword": "The Daily Show, AI",
-      "matches": 1
     },
     {
       "keyword": "The Rest Is Science",
@@ -493,14 +505,6 @@
     {
       "keyword": "UAP",
       "matches": 1
-    },
-    {
-      "keyword": "More Perfect Union",
-      "matches": 1
-    },
-    {
-      "keyword": "UAP, UFO",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -508,209 +512,257 @@
       "title": "Trump Bombs at White House Correspondents' Dinner & Jon Stewart Offers Comedy Tips | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ZF_tDPRNV5U",
-      "viewsPerHour": 119751,
-      "views": 4469956,
-      "ageHours": 37.3
+      "viewsPerHour": 115409,
+      "views": 4537135,
+      "ageHours": 39.3
     },
     {
       "title": "Trump Gets Called \"Pedophile Protector\" AGAIN & Mexico Gets a New Pronunciation | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "f0Qoqc-zOaE",
-      "viewsPerHour": 89496,
-      "views": 1283364,
-      "ageHours": 14.3
+      "viewsPerHour": 84190,
+      "views": 1374505,
+      "ageHours": 16.3
     },
     {
       "title": "Kaitlan Collins - Focusing on Reporting, Not Trump’s Insults | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "wJiBtLAzKPs",
-      "viewsPerHour": 61451,
-      "views": 2263168,
-      "ageHours": 36.8
+      "viewsPerHour": 59156,
+      "views": 2296138,
+      "ageHours": 38.8
     },
     {
       "title": "Kaitlan Collins on How She Handles Trump’s Verbal Attacks | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "uwzwFiK4hNY",
-      "viewsPerHour": 31873,
-      "views": 1237125,
-      "ageHours": 38.8
+      "viewsPerHour": 30526,
+      "views": 1245485,
+      "ageHours": 40.8
+    },
+    {
+      "title": "Lewis Black on How Tech Is Obliterating Privacy, from AI Glasses to \"Fambushing\" | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "hFPMm3lwCmQ",
+      "viewsPerHour": 21459,
+      "views": 145290,
+      "ageHours": 6.8
+    },
+    {
+      "title": "Why Political Elites Are Terrified Of This Candidate",
+      "channel": "More Perfect Union",
+      "videoId": "D6ag12rrs-s",
+      "viewsPerHour": 10475,
+      "views": 44329,
+      "ageHours": 4.2
     },
     {
       "title": "Jordan Klepper Finds Out Why MAGA Is So Afraid of “Antifa Thugs” in Animal Costumes | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "5n7Jgdb5nnY",
-      "viewsPerHour": 8397,
-      "views": 130498,
-      "ageHours": 15.5
+      "viewsPerHour": 7909,
+      "views": 138623,
+      "ageHours": 17.5
     },
     {
       "title": "Trump’s Jokes Ooze Cruelty at WHCD & Smithsonian Gets a GOP Trigger Warning | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "6y36G_qL22U",
-      "viewsPerHour": 5295,
-      "views": 213323,
-      "ageHours": 40.3
+      "viewsPerHour": 5123,
+      "views": 216573,
+      "ageHours": 42.3
     },
     {
-      "title": "You Were Born Telepathic. Then You Forgot. The Test with 97% Accuracy | Dr. Diane Hennacy",
-      "channel": "Mayim Bialik",
-      "videoId": "p9QfTjDwTNI",
-      "viewsPerHour": 3204,
-      "views": 93954,
-      "ageHours": 29.3
+      "title": "WATCH LIVE: Fauci invokes 5th Amendment in GOP-led hearing about COVID-19 origins",
+      "channel": "PBS NewsHour",
+      "videoId": "_XgBX6qvnCY",
+      "viewsPerHour": 4479,
+      "views": 11932,
+      "ageHours": 2.7
+    },
+    {
+      "title": "June oven's shutdown is the natural progression of Weber breaking the law with NO CONSEQUENCES! ",
+      "channel": "Louis Rossmann",
+      "videoId": "OA9otrFCpjw",
+      "viewsPerHour": 3668,
+      "views": 15475,
+      "ageHours": 4.2
     },
     {
       "title": "Jeff Hiller - Scoring an Emmy Nom for 7 Minutes in “Pluribus” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "cGa06f5d3zk",
-      "viewsPerHour": 3199,
-      "views": 41042,
-      "ageHours": 12.8
+      "viewsPerHour": 3232,
+      "views": 47884,
+      "ageHours": 14.8
+    },
+    {
+      "title": "You Were Born Telepathic. Then You Forgot. The Test with 97% Accuracy | Dr. Diane Hennacy",
+      "channel": "Mayim Bialik",
+      "videoId": "p9QfTjDwTNI",
+      "viewsPerHour": 3093,
+      "views": 96826,
+      "ageHours": 31.3
     },
     {
       "title": "PBS News Hour full episode, July 28, 2026",
       "channel": "PBS NewsHour",
       "videoId": "2vU_Pupb6Bs",
-      "viewsPerHour": 2057,
+      "viewsPerHour": 1843,
       "views": 35216,
-      "ageHours": 17.1
+      "ageHours": 19.1
     },
     {
       "title": "Shout out to bill for the coolest gift",
       "channel": "Louis Rossmann",
       "videoId": "4lGlvgUdkC8",
-      "viewsPerHour": 1742,
+      "viewsPerHour": 1498,
       "views": 21244,
-      "ageHours": 12.2
+      "ageHours": 14.2
     },
     {
       "title": "Investigating 2019's UFO Wave (S2, E7) | Unidentified | Full Episode",
       "channel": "History",
       "videoId": "tUmjqCxYlqo",
-      "viewsPerHour": 1435,
-      "views": 26297,
-      "ageHours": 18.3
+      "viewsPerHour": 1391,
+      "views": 28259,
+      "ageHours": 20.3
     },
     {
       "title": "GrapheneOS user accused of child sexual abuse for protesting police training facility",
       "channel": "Louis Rossmann",
       "videoId": "KVvlgMf1hAg",
-      "viewsPerHour": 1156,
+      "viewsPerHour": 1050,
       "views": 22724,
-      "ageHours": 19.6
+      "ageHours": 21.6
     },
     {
       "title": "S9 E17: Inflation & Beach Dolls Update: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "D10nBR4m9rg",
-      "viewsPerHour": 895,
-      "views": 21767,
-      "ageHours": 24.3
+      "viewsPerHour": 886,
+      "views": 23304,
+      "ageHours": 26.3
     },
     {
       "title": "Samsung Smartthings rugpulls with monthly charge for homassistant users",
       "channel": "Louis Rossmann",
       "videoId": "V5q4xWf4h80",
-      "viewsPerHour": 636,
+      "viewsPerHour": 603,
       "views": 22928,
-      "ageHours": 36.1
+      "ageHours": 38.1
+    },
+    {
+      "title": "Leslie Jones Is Sexually Attracted To Conan's Leprechaun Voice | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "0PjF_vcdcRM",
+      "viewsPerHour": 452,
+      "views": 2851,
+      "ageHours": 6.3
     },
     {
       "title": "Antarctica’s Strange Underwater World | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "Z92txcRjCEI",
-      "viewsPerHour": 384,
-      "views": 7676,
-      "ageHours": 20
+      "viewsPerHour": 363,
+      "views": 7989,
+      "ageHours": 22
+    },
+    {
+      "title": "Rep. Castro details 'UGLY BRUTALITY' of Texas ICE detention, calls for closure",
+      "channel": "MS NOW",
+      "videoId": "jjcfgBGZMzM",
+      "viewsPerHour": 361,
+      "views": 698,
+      "ageHours": 1.9
+    },
+    {
+      "title": "Inside EXPLOSIVE motion where Comey alleges Secret Service surveilled him at Trump's direction",
+      "channel": "MS NOW",
+      "videoId": "z9siVWpDKnA",
+      "viewsPerHour": 351,
+      "views": 558,
+      "ageHours": 1.6
     },
     {
       "title": "Republicans are SCARED': Trump angers voters by dismissing affordability AGAIN, risking midterms",
       "channel": "MS NOW",
       "videoId": "5PTvR_LIMsk",
-      "viewsPerHour": 352,
+      "viewsPerHour": 317,
       "views": 6369,
-      "ageHours": 18.1
+      "ageHours": 20.1
+    },
+    {
+      "title": "WATCH LIVE: Senate expected to consider new war powers resolution amid renewed Iran strikes",
+      "channel": "PBS NewsHour",
+      "videoId": "4mudRp3I9cM",
+      "viewsPerHour": 295,
+      "views": 1337,
+      "ageHours": 4.5
     },
     {
       "title": "PBS News Hour live episode, July 28, 2026",
       "channel": "PBS NewsHour",
       "videoId": "cxqflP50ghs",
-      "viewsPerHour": 227,
+      "viewsPerHour": 205,
       "views": 4250,
-      "ageHours": 18.7
+      "ageHours": 20.7
+    },
+    {
+      "title": "Inside The Bombing of Pan Am 103",
+      "channel": "Real Stories",
+      "videoId": "trHrxI7Fwxc",
+      "viewsPerHour": 184,
+      "views": 425,
+      "ageHours": 2.3
     },
     {
       "title": "WATCH: Zelenskyy joins bipartisan lawmakers to discuss Graham Sanctioning Russia and Iran Act",
       "channel": "PBS NewsHour",
       "videoId": "d7xgvk1CDks",
-      "viewsPerHour": 189,
+      "viewsPerHour": 168,
       "views": 3045,
-      "ageHours": 16.1
-    },
-    {
-      "title": "This is a LOSER. It's also DEADLY': Nicolle on Trump pressuring RFK Jr. to probe vaccine conspiracy",
-      "channel": "MS NOW",
-      "videoId": "0HRxo5iprUo",
-      "viewsPerHour": 167,
-      "views": 2980,
-      "ageHours": 17.8
+      "ageHours": 18.1
     },
     {
       "title": "He Seduced Wealthy Women Then Blackmailed Them For Millions",
       "channel": "Real Stories",
       "videoId": "wP80t7gukF4",
-      "viewsPerHour": 161,
-      "views": 3765,
-      "ageHours": 23.3
+      "viewsPerHour": 153,
+      "views": 3877,
+      "ageHours": 25.3
     },
     {
-      "title": "Trump meets with Zelenskyy and Netanyahu ahead of Lindsey Graham's funeral",
+      "title": "This is a LOSER. It's also DEADLY': Nicolle on Trump pressuring RFK Jr. to probe vaccine conspiracy",
       "channel": "MS NOW",
-      "videoId": "byJ4a9-FTRk",
-      "viewsPerHour": 146,
-      "views": 3482,
-      "ageHours": 23.8
+      "videoId": "0HRxo5iprUo",
+      "viewsPerHour": 150,
+      "views": 2980,
+      "ageHours": 19.8
     },
     {
       "title": "Lisa Kudrow Is Not The Adventurous Type | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "r4I69VaxJu4",
-      "viewsPerHour": 104,
+      "viewsPerHour": 97,
       "views": 2948,
-      "ageHours": 28.3
-    },
-    {
-      "title": "WATCH LIVE: Senate expected to vote on Jay Clayton nomination for director of national intelligence",
-      "channel": "PBS NewsHour",
-      "videoId": "VO20prOe4n4",
-      "viewsPerHour": 52,
-      "views": 1292,
-      "ageHours": 24.9
-    },
-    {
-      "title": "Trump pushes Thune, Supreme Court on policies that 'PREVENT people from voting’  ",
-      "channel": "MS NOW",
-      "videoId": "SYYbxRjFGcY",
-      "viewsPerHour": 47,
-      "views": 1122,
-      "ageHours": 23.8
-    },
-    {
-      "title": "Disappointed but far from surprised': Fmr. DNC Vice Chair on reports of Martin's rocky leadership",
-      "channel": "MS NOW",
-      "videoId": "wJxsrZTVNB8",
-      "viewsPerHour": 14,
-      "views": 344,
-      "ageHours": 23.8
+      "ageHours": 30.3
     },
     {
       "title": "New report reveals consequences of Trump administration's HIV/AIDS funding cuts",
       "channel": "PBS NewsHour",
       "videoId": "KW12unB83tk",
-      "viewsPerHour": 9,
+      "viewsPerHour": 8,
       "views": 152,
-      "ageHours": 17.7
+      "ageHours": 19.7
+    },
+    {
+      "title": "WATCH LIVE: Senate HELP subcommittee holds hearing on AI’s effect on the workforce",
+      "channel": "PBS NewsHour",
+      "videoId": "XGexkwQknKU",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 3.2
     }
   ]
 }
