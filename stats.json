@@ -1,16 +1,24 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 8
+    },
+    {
       "channel": "MS NOW",
       "count": 4
     },
     {
-      "channel": "Real Stories",
-      "count": 37
+      "channel": "History",
+      "count": 21
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 7
+      "channel": "Last Week Tonight",
+      "count": 17
+    },
+    {
+      "channel": "Real Stories",
+      "count": 37
     },
     {
       "channel": "Louis Rossmann",
@@ -29,16 +37,8 @@
       "count": 16
     },
     {
-      "channel": "History",
-      "count": 20
-    },
-    {
       "channel": "NOVA",
       "count": 12
-    },
-    {
-      "channel": "Last Week Tonight",
-      "count": 16
     },
     {
       "channel": "Mayim Bialik",
@@ -79,16 +79,24 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "PBS NewsHour",
+      "count": 7
+    },
+    {
       "keyword": "MS NOW",
       "count": 4
     },
     {
-      "keyword": "Real Stories",
-      "count": 20
+      "keyword": "UAP, UFO",
+      "count": 3
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 6
+      "keyword": "Last Week Tonight",
+      "count": 17
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 20
     },
     {
       "keyword": "PBS NewsHour, AI",
@@ -121,10 +129,6 @@
     {
       "keyword": "NOVA",
       "count": 19
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "count": 16
     },
     {
       "keyword": "AI",
@@ -163,10 +167,6 @@
       "count": 3
     },
     {
-      "keyword": "UAP, UFO",
-      "count": 2
-    },
-    {
       "keyword": "AI, UAP, UFO",
       "count": 1
     },
@@ -202,11 +202,11 @@
   "dailySummary": [
     {
       "date": "2026-07-29",
-      "videos": 15
+      "videos": 22
     },
     {
       "date": "2026-07-28",
-      "videos": 17
+      "videos": 13
     },
     {
       "date": "2026-07-27",
@@ -423,16 +423,24 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour",
+      "matches": 7
+    },
+    {
       "keyword": "MS NOW",
       "matches": 4
     },
     {
-      "keyword": "Real Stories",
-      "matches": 3
+      "keyword": "UAP, UFO",
+      "matches": 1
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 6
+      "keyword": "Last Week Tonight",
+      "matches": 9
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 3
     },
     {
       "keyword": "PBS NewsHour, AI",
@@ -467,10 +475,6 @@
       "matches": 5
     },
     {
-      "keyword": "Last Week Tonight",
-      "matches": 8
-    },
-    {
       "keyword": "AI",
       "matches": 2
     },
@@ -480,7 +484,7 @@
     },
     {
       "keyword": "The Rest Is Science",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -512,249 +516,265 @@
       "title": "Trump Bombs at White House Correspondents' Dinner & Jon Stewart Offers Comedy Tips | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ZF_tDPRNV5U",
-      "viewsPerHour": 107854,
-      "views": 4672240,
-      "ageHours": 43.3
+      "viewsPerHour": 104639,
+      "views": 4740728,
+      "ageHours": 45.3
     },
     {
       "title": "Trump Gets Called \"Pedophile Protector\" AGAIN & Mexico Gets a New Pronunciation | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "f0Qoqc-zOaE",
-      "viewsPerHour": 75472,
-      "views": 1534561,
-      "ageHours": 20.3
+      "viewsPerHour": 71266,
+      "views": 1590525,
+      "ageHours": 22.3
     },
     {
       "title": "Kaitlan Collins - Focusing on Reporting, Not Trump’s Insults | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "wJiBtLAzKPs",
-      "viewsPerHour": 55200,
-      "views": 2363777,
-      "ageHours": 42.8
+      "viewsPerHour": 53405,
+      "views": 2392916,
+      "ageHours": 44.8
     },
     {
       "title": "Kaitlan Collins on How She Handles Trump’s Verbal Attacks | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "uwzwFiK4hNY",
-      "viewsPerHour": 28147,
-      "views": 1261189,
-      "ageHours": 44.8
+      "viewsPerHour": 27096,
+      "views": 1267884,
+      "ageHours": 46.8
     },
     {
       "title": "Lewis Black on How Tech Is Obliterating Privacy, from AI Glasses to \"Fambushing\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "hFPMm3lwCmQ",
-      "viewsPerHour": 20323,
-      "views": 219032,
-      "ageHours": 10.8
+      "viewsPerHour": 19424,
+      "views": 247905,
+      "ageHours": 12.8
     },
     {
       "title": "Why Political Elites Are Terrified Of This Candidate",
       "channel": "More Perfect Union",
       "videoId": "D6ag12rrs-s",
-      "viewsPerHour": 13475,
-      "views": 111012,
-      "ageHours": 8.2
+      "viewsPerHour": 13022,
+      "views": 133130,
+      "ageHours": 10.2
+    },
+    {
+      "title": "BATS*** CRAZY': Nicolle FLAMES Trump's FBI for using famed MOBSTER to carry out retribution plot",
+      "channel": "MS NOW",
+      "videoId": "5Nnlbvv8sQo",
+      "viewsPerHour": 10781,
+      "views": 29355,
+      "ageHours": 2.7
+    },
+    {
+      "title": "One CRAP SANDWICH after another': Trump SCREWS OVER Republicans with RISKY pre-midterms move",
+      "channel": "MS NOW",
+      "videoId": "YWPClIo4L5w",
+      "viewsPerHour": 10765,
+      "views": 24503,
+      "ageHours": 2.3
     },
     {
       "title": "Jordan Klepper Finds Out Why MAGA Is So Afraid of “Antifa Thugs” in Animal Costumes | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "5n7Jgdb5nnY",
-      "viewsPerHour": 7195,
-      "views": 154928,
-      "ageHours": 21.5
+      "viewsPerHour": 6850,
+      "views": 161104,
+      "ageHours": 23.5
     },
     {
-      "title": "Trump’s Jokes Ooze Cruelty at WHCD & Smithsonian Gets a GOP Trigger Warning | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "6y36G_qL22U",
-      "viewsPerHour": 4808,
-      "views": 222521,
-      "ageHours": 46.3
+      "title": "UAP Discovered as Drones Collapse! (S7) | The Secret of Skinwalker Ranch",
+      "channel": "History",
+      "videoId": "LVQTgIQVqg4",
+      "viewsPerHour": 5744,
+      "views": 30467,
+      "ageHours": 5.3
     },
     {
       "title": "Jeff Hiller - Scoring an Emmy Nom for 7 Minutes in “Pluribus” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "cGa06f5d3zk",
-      "viewsPerHour": 2987,
-      "views": 56220,
-      "ageHours": 18.8
+      "viewsPerHour": 2832,
+      "views": 58937,
+      "ageHours": 20.8
     },
     {
       "title": "You Were Born Telepathic. Then You Forgot. The Test with 97% Accuracy | Dr. Diane Hennacy",
       "channel": "Mayim Bialik",
       "videoId": "p9QfTjDwTNI",
-      "viewsPerHour": 2910,
-      "views": 102773,
-      "ageHours": 35.3
+      "viewsPerHour": 2814,
+      "views": 104948,
+      "ageHours": 37.3
     },
     {
       "title": "June oven's shutdown is the natural progression of Weber breaking the law with NO CONSEQUENCES! ",
       "channel": "Louis Rossmann",
       "videoId": "OA9otrFCpjw",
-      "viewsPerHour": 1881,
+      "viewsPerHour": 1515,
       "views": 15475,
-      "ageHours": 8.2
-    },
-    {
-      "title": "WATCH LIVE: Fauci invokes 5th Amendment in GOP-led hearing about COVID-19 origins",
-      "channel": "PBS NewsHour",
-      "videoId": "_XgBX6qvnCY",
-      "viewsPerHour": 1789,
-      "views": 11932,
-      "ageHours": 6.7
+      "ageHours": 10.2
     },
     {
       "title": "PBS News Hour full episode, July 28, 2026",
       "channel": "PBS NewsHour",
       "videoId": "2vU_Pupb6Bs",
-      "viewsPerHour": 1523,
+      "viewsPerHour": 1403,
       "views": 35216,
-      "ageHours": 23.1
+      "ageHours": 25.1
+    },
+    {
+      "title": "WATCH LIVE: Fauci invokes 5th Amendment in GOP-led hearing about COVID-19 origins",
+      "channel": "PBS NewsHour",
+      "videoId": "_XgBX6qvnCY",
+      "viewsPerHour": 1378,
+      "views": 11932,
+      "ageHours": 8.7
+    },
+    {
+      "title": "PBS News Hour live episode, July 29, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "dMn4Oz2WLdo",
+      "viewsPerHour": 1320,
+      "views": 4228,
+      "ageHours": 3.2
     },
     {
       "title": "Investigating 2019's UFO Wave (S2, E7) | Unidentified | Full Episode",
       "channel": "History",
       "videoId": "tUmjqCxYlqo",
-      "viewsPerHour": 1304,
-      "views": 31727,
-      "ageHours": 24.3
+      "viewsPerHour": 1236,
+      "views": 32526,
+      "ageHours": 26.3
     },
     {
       "title": "Shout out to bill for the coolest gift",
       "channel": "Louis Rossmann",
       "videoId": "4lGlvgUdkC8",
-      "viewsPerHour": 1168,
+      "viewsPerHour": 1053,
       "views": 21244,
-      "ageHours": 18.2
+      "ageHours": 20.2
+    },
+    {
+      "title": "S9 E18: UK PM Candidates & Mental Health Care: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "22wIXBLLVZg",
+      "viewsPerHour": 872,
+      "views": 5055,
+      "ageHours": 5.8
     },
     {
       "title": "GrapheneOS user accused of child sexual abuse for protesting police training facility",
       "channel": "Louis Rossmann",
       "videoId": "KVvlgMf1hAg",
-      "viewsPerHour": 886,
+      "viewsPerHour": 823,
       "views": 22724,
-      "ageHours": 25.6
+      "ageHours": 27.6
     },
     {
       "title": "S9 E17: Inflation & Beach Dolls Update: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "D10nBR4m9rg",
-      "viewsPerHour": 837,
-      "views": 25376,
-      "ageHours": 30.3
+      "viewsPerHour": 802,
+      "views": 25897,
+      "ageHours": 32.3
     },
     {
       "title": "Samsung Smartthings rugpulls with monthly charge for homassistant users",
       "channel": "Louis Rossmann",
       "videoId": "V5q4xWf4h80",
-      "viewsPerHour": 545,
+      "viewsPerHour": 521,
       "views": 22928,
-      "ageHours": 42.1
+      "ageHours": 44
     },
     {
       "title": "Antarctica’s Strange Underwater World | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "Z92txcRjCEI",
-      "viewsPerHour": 331,
-      "views": 8606,
-      "ageHours": 26
+      "viewsPerHour": 319,
+      "views": 8926,
+      "ageHours": 28
     },
     {
       "title": "Leslie Jones Is Sexually Attracted To Conan's Leprechaun Voice | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "0PjF_vcdcRM",
-      "viewsPerHour": 276,
+      "viewsPerHour": 232,
       "views": 2851,
-      "ageHours": 10.3
+      "ageHours": 12.3
     },
     {
-      "title": "Republicans are SCARED': Trump angers voters by dismissing affordability AGAIN, risking midterms",
-      "channel": "MS NOW",
-      "videoId": "5PTvR_LIMsk",
-      "viewsPerHour": 265,
-      "views": 6369,
-      "ageHours": 24.1
+      "title": "Brief pause in Iran war ends with new attacks in Iraq and Egypt",
+      "channel": "PBS NewsHour",
+      "videoId": "V2AD-kErVSo",
+      "viewsPerHour": 183,
+      "views": 297,
+      "ageHours": 1.6
     },
     {
       "title": "Inside The Bombing of Pan Am 103",
       "channel": "Real Stories",
       "videoId": "trHrxI7Fwxc",
-      "viewsPerHour": 188,
-      "views": 1190,
-      "ageHours": 6.3
-    },
-    {
-      "title": "PBS News Hour live episode, July 28, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "cxqflP50ghs",
-      "viewsPerHour": 172,
-      "views": 4250,
-      "ageHours": 24.7
-    },
-    {
-      "title": "WATCH LIVE: Senate expected to consider new war powers resolution amid renewed Iran strikes",
-      "channel": "PBS NewsHour",
-      "videoId": "4mudRp3I9cM",
-      "viewsPerHour": 157,
-      "views": 1337,
-      "ageHours": 8.5
+      "viewsPerHour": 174,
+      "views": 1442,
+      "ageHours": 8.3
     },
     {
       "title": "He Seduced Wealthy Women Then Blackmailed Them For Millions",
       "channel": "Real Stories",
       "videoId": "wP80t7gukF4",
-      "viewsPerHour": 138,
-      "views": 4043,
-      "ageHours": 29.3
+      "viewsPerHour": 131,
+      "views": 4116,
+      "ageHours": 31.3
+    },
+    {
+      "title": "WATCH LIVE: Senate expected to consider new war powers resolution amid renewed Iran strikes",
+      "channel": "PBS NewsHour",
+      "videoId": "4mudRp3I9cM",
+      "viewsPerHour": 127,
+      "views": 1337,
+      "ageHours": 10.5
     },
     {
       "title": "WATCH: Zelenskyy joins bipartisan lawmakers to discuss Graham Sanctioning Russia and Iran Act",
       "channel": "PBS NewsHour",
       "videoId": "d7xgvk1CDks",
-      "viewsPerHour": 138,
+      "viewsPerHour": 126,
       "views": 3045,
-      "ageHours": 22.1
-    },
-    {
-      "title": "This is a LOSER. It's also DEADLY': Nicolle on Trump pressuring RFK Jr. to probe vaccine conspiracy",
-      "channel": "MS NOW",
-      "videoId": "0HRxo5iprUo",
-      "viewsPerHour": 125,
-      "views": 2980,
-      "ageHours": 23.8
+      "ageHours": 24.1
     },
     {
       "title": "Rep. Castro details 'UGLY BRUTALITY' of Texas ICE detention, calls for closure",
       "channel": "MS NOW",
       "videoId": "jjcfgBGZMzM",
-      "viewsPerHour": 117,
+      "viewsPerHour": 88,
       "views": 698,
-      "ageHours": 5.9
-    },
-    {
-      "title": "Inside EXPLOSIVE motion where Comey alleges Secret Service surveilled him at Trump's direction",
-      "channel": "MS NOW",
-      "videoId": "z9siVWpDKnA",
-      "viewsPerHour": 100,
-      "views": 558,
-      "ageHours": 5.6
+      "ageHours": 7.9
     },
     {
       "title": "Lisa Kudrow Is Not The Adventurous Type | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "r4I69VaxJu4",
-      "viewsPerHour": 86,
+      "viewsPerHour": 81,
       "views": 2948,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
-      "title": "New report reveals consequences of Trump administration's HIV/AIDS funding cuts",
+      "title": "Inside EXPLOSIVE motion where Comey alleges Secret Service surveilled him at Trump's direction",
+      "channel": "MS NOW",
+      "videoId": "z9siVWpDKnA",
+      "viewsPerHour": 74,
+      "views": 558,
+      "ageHours": 7.6
+    },
+    {
+      "title": "Former Iraqi diplomat on forces driving Iran war across region",
       "channel": "PBS NewsHour",
-      "videoId": "KW12unB83tk",
-      "viewsPerHour": 6,
-      "views": 152,
-      "ageHours": 23.7
+      "videoId": "LlWdDdKTQQo",
+      "viewsPerHour": 18,
+      "views": 28,
+      "ageHours": 1.6
     },
     {
       "title": "WATCH LIVE: Senate HELP subcommittee holds hearing on AI’s effect on the workforce",
@@ -762,7 +782,7 @@
       "videoId": "XGexkwQknKU",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 7.2
+      "ageHours": 9.2
     }
   ]
 }
