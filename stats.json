@@ -448,11 +448,11 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "matches": 9
+      "matches": 8
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "NOVA, AI, artificial intelligence",
@@ -476,7 +476,7 @@
     },
     {
       "keyword": "More Perfect Union",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "The Daily Show, AI",
@@ -488,7 +488,7 @@
     },
     {
       "keyword": "NOVA",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "Louis Rossmann, Samsung",
@@ -520,233 +520,225 @@
       "title": "Fauci Takes the 5th Amendment While MAGA Cracks His Diary Open & Calls Him Hitler | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "14j9b34VCJI",
-      "viewsPerHour": 73744,
-      "views": 907989,
-      "ageHours": 12.3
+      "viewsPerHour": 72039,
+      "views": 1028679,
+      "ageHours": 14.3
     },
     {
       "title": "The Man Warning The World: The Great Financial Collapse Is Here | Ray Dalio",
       "channel": "Diary of a CEO",
       "videoId": "Bu0xNDLNORU",
-      "viewsPerHour": 52598,
-      "views": 1647467,
-      "ageHours": 31.3
+      "viewsPerHour": 51389,
+      "views": 1710651,
+      "ageHours": 33.3
     },
     {
       "title": "Lindsey Graham Gets Eulogized, the DNC Gets Scammed & the War in Iran Gets Reheated | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "9-Q1p74b-Xo",
-      "viewsPerHour": 43959,
-      "views": 1594874,
-      "ageHours": 36.3
+      "viewsPerHour": 42079,
+      "views": 1609443,
+      "ageHours": 38.2
     },
     {
       "title": "Desi Lydic Foxsplains Anthony Fauci's Pandemic Diary | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "tWq-1XCHME8",
-      "viewsPerHour": 22731,
-      "views": 344463,
-      "ageHours": 15.2
+      "viewsPerHour": 22415,
+      "views": 383764,
+      "ageHours": 17.1
     },
     {
       "title": "Show Off Your Love for Trump with the Presidential Neck Vag! | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "cI6kFf94svU",
-      "viewsPerHour": 11985,
-      "views": 319917,
-      "ageHours": 26.7
+      "viewsPerHour": 11456,
+      "views": 328318,
+      "ageHours": 28.7
     },
     {
       "title": "PBS News Hour full episode, July 30, 2026",
       "channel": "PBS NewsHour",
       "videoId": "7w51STOfI1g",
-      "viewsPerHour": 5653,
+      "viewsPerHour": 4987,
       "views": 83138,
-      "ageHours": 14.7
+      "ageHours": 16.7
     },
     {
       "title": "What Happens Inside Earth's Forbidden Zones?",
       "channel": "The Rest Is Science",
       "videoId": "9O9ysiJFxuE",
-      "viewsPerHour": 4157,
-      "views": 163139,
-      "ageHours": 39.2
+      "viewsPerHour": 4032,
+      "views": 166161,
+      "ageHours": 41.2
     },
     {
       "title": "Theo Baker - Investigating Power & Influence at Stanford | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "fyt0pImMtiI",
-      "viewsPerHour": 3470,
-      "views": 37495,
-      "ageHours": 10.8
+      "viewsPerHour": 3404,
+      "views": 43481,
+      "ageHours": 12.8
     },
     {
       "title": "UAP Discovered as Drones Collapse! (S7) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "LVQTgIQVqg4",
-      "viewsPerHour": 2407,
-      "views": 104276,
-      "ageHours": 43.3
+      "viewsPerHour": 2335,
+      "views": 105734,
+      "ageHours": 45.3
     },
     {
       "title": "Twin Temple Makes Their Late-Night Debut with \"Haunt Me\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "rXabkQ2d7rU",
-      "viewsPerHour": 1890,
-      "views": 64859,
-      "ageHours": 34.3
-    },
-    {
-      "title": "Slow rolling DISASTER': Trump CAUGHT dismantling CRITICAL post-9/11 counterterrorism protections",
-      "channel": "MS NOW",
-      "videoId": "mjaTEb5u3Vs",
-      "viewsPerHour": 1630,
-      "views": 26724,
-      "ageHours": 16.4
+      "viewsPerHour": 1825,
+      "views": 66215,
+      "ageHours": 36.3
     },
     {
       "title": "Louis Theroux Investigates Campus Assaults In America's Colleges",
       "channel": "Real Stories",
       "videoId": "IPbTRkAXuTA",
-      "viewsPerHour": 1568,
-      "views": 30304,
-      "ageHours": 19.3
+      "viewsPerHour": 1489,
+      "views": 31696,
+      "ageHours": 21.3
     },
     {
-      "title": "Conan & The Chill Chums Return With New Series \"Summer S'pouses\" | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "OaYF6PyQJxc",
-      "viewsPerHour": 1012,
-      "views": 26630,
-      "ageHours": 26.3
+      "title": "Slow rolling DISASTER': Trump CAUGHT dismantling CRITICAL post-9/11 counterterrorism protections",
+      "channel": "MS NOW",
+      "videoId": "mjaTEb5u3Vs",
+      "viewsPerHour": 1456,
+      "views": 26724,
+      "ageHours": 18.4
     },
     {
       "title": "Twin Temple Talk New Album “Doomed Lovers” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "E3Wf-FIpHQA",
-      "viewsPerHour": 998,
-      "views": 34775,
-      "ageHours": 34.8
+      "viewsPerHour": 969,
+      "views": 35670,
+      "ageHours": 36.8
+    },
+    {
+      "title": "Conan & The Chill Chums Return With New Series \"Summer S'pouses\" | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "OaYF6PyQJxc",
+      "viewsPerHour": 941,
+      "views": 26630,
+      "ageHours": 28.3
     },
     {
       "title": "S9 E19: Alex Jones & Monkeypox: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "A4fxBltUs8A",
-      "viewsPerHour": 844,
-      "views": 18842,
-      "ageHours": 22.3
+      "viewsPerHour": 845,
+      "views": 20533,
+      "ageHours": 24.3
     },
     {
       "title": "SHAMEFUL': Nicolle puts Republicans on BLAST for JAW-DROPPING harassment of Dr. Fauci",
       "channel": "MS NOW",
       "videoId": "-OcjULnVngY",
-      "viewsPerHour": 574,
+      "viewsPerHour": 512,
       "views": 9256,
-      "ageHours": 16.1
+      "ageHours": 18.1
     },
     {
       "title": "Group urges Congress to adopt proportional representation to end redistricting battles",
       "channel": "PBS NewsHour",
       "videoId": "y_1d3QlDa7U",
-      "viewsPerHour": 414,
+      "viewsPerHour": 367,
       "views": 6283,
-      "ageHours": 15.2
+      "ageHours": 17.1
     },
     {
       "title": "S9 E18: UK PM Candidates & Mental Health Care: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "22wIXBLLVZg",
-      "viewsPerHour": 359,
-      "views": 15750,
-      "ageHours": 43.8
+      "viewsPerHour": 348,
+      "views": 15953,
+      "ageHours": 45.8
     },
     {
       "title": "COME TO SPOKANE WASHINGTON TOMORROW & SAY HI!",
       "channel": "Louis Rossmann",
       "videoId": "lDqcz2KMLAo",
-      "viewsPerHour": 339,
+      "viewsPerHour": 299,
       "views": 5023,
-      "ageHours": 14.8
-    },
-    {
-      "title": "PBS News Hour live episode, July 30, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "aYftflJEJx4",
-      "viewsPerHour": 249,
-      "views": 4226,
-      "ageHours": 17
+      "ageHours": 16.8
     },
     {
       "title": "WATCH LIVE: Senate meets as Blanche confirmation vote is delayed",
       "channel": "PBS NewsHour",
       "videoId": "O_RBhKmJ5S8",
-      "viewsPerHour": 243,
+      "viewsPerHour": 225,
       "views": 6037,
-      "ageHours": 24.9
+      "ageHours": 26.9
+    },
+    {
+      "title": "PBS News Hour live episode, July 30, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "aYftflJEJx4",
+      "viewsPerHour": 223,
+      "views": 4226,
+      "ageHours": 18.9
     },
     {
       "title": "MS NOW Highlights - July 30",
       "channel": "MS NOW",
       "videoId": "O95LLa-iecE",
-      "viewsPerHour": 234,
+      "viewsPerHour": 157,
       "views": 941,
-      "ageHours": 4
+      "ageHours": 6
     },
     {
       "title": "How music has helped tell America's story from the very beginning",
       "channel": "PBS NewsHour",
       "videoId": "xZZ9KFv2ILE",
-      "viewsPerHour": 165,
+      "viewsPerHour": 146,
       "views": 2485,
-      "ageHours": 15
+      "ageHours": 17
     },
     {
       "title": "BREAKING: Trump floats WITHDRAWING Blanche's nomination until Cornyn, Tillis are out of office",
       "channel": "MS NOW",
       "videoId": "IjTFBub53qw",
-      "viewsPerHour": 131,
+      "viewsPerHour": 120,
       "views": 2816,
-      "ageHours": 21.6
+      "ageHours": 23.5
     },
     {
       "title": "Interview: The Future of AI and Us | Particles of Thought",
       "channel": "NOVA",
       "videoId": "rb4eOv5etkA",
-      "viewsPerHour": 104,
-      "views": 2955,
-      "ageHours": 28.3
-    },
-    {
-      "title": "Inside The Bombing of Pan Am 103",
-      "channel": "Real Stories",
-      "videoId": "trHrxI7Fwxc",
-      "viewsPerHour": 101,
-      "views": 4690,
-      "ageHours": 46.3
+      "viewsPerHour": 102,
+      "views": 3100,
+      "ageHours": 30.3
     },
     {
       "title": "‘We have deep progressive roots’: Democratic socialist leads in Wisconsin governor primary race  ",
       "channel": "MS NOW",
       "videoId": "-tEbiRL6I1k",
-      "viewsPerHour": 94,
+      "viewsPerHour": 63,
       "views": 380,
-      "ageHours": 4
+      "ageHours": 6
     },
     {
       "title": "WATCH LIVE: Attorney Crump provides update on Nolan Wells probe, other cases",
       "channel": "PBS NewsHour",
       "videoId": "xKAWrhi6sm8",
-      "viewsPerHour": 36,
+      "viewsPerHour": 33,
       "views": 839,
-      "ageHours": 23.5
+      "ageHours": 25.5
     },
     {
       "title": "Blanche's AG nomination on hold over opposition to DOJ's 'anti-weaponization fund'",
       "channel": "PBS NewsHour",
       "videoId": "B8KGLB5Za4k",
-      "viewsPerHour": 16,
+      "viewsPerHour": 14,
       "views": 251,
-      "ageHours": 15.6
+      "ageHours": 17.6
     },
     {
       "title": "Missouri couple murdered in Guatemala after husband was deported",
@@ -754,7 +746,7 @@
       "videoId": "sEC9UEXi8I0",
       "viewsPerHour": 1,
       "views": 19,
-      "ageHours": 15.5
+      "ageHours": 17.5
     }
   ]
 }
