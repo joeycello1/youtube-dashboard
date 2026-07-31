@@ -1,16 +1,20 @@
 {
   "videosPerChannel": [
     {
+      "channel": "MS NOW",
+      "count": 5
+    },
+    {
       "channel": "The Daily Show",
       "count": 18
     },
     {
       "channel": "PBS NewsHour",
-      "count": 5
+      "count": 8
     },
     {
-      "channel": "MS NOW",
-      "count": 6
+      "channel": "Louis Rossmann",
+      "count": 22
     },
     {
       "channel": "Real Stories",
@@ -38,10 +42,6 @@
     },
     {
       "channel": "History",
-      "count": 21
-    },
-    {
-      "channel": "Louis Rossmann",
       "count": 21
     },
     {
@@ -79,16 +79,20 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "MS NOW",
+      "count": 5
+    },
+    {
       "keyword": "The Daily Show",
       "count": 16
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 5
+      "count": 8
     },
     {
-      "keyword": "MS NOW",
-      "count": 6
+      "keyword": "Louis Rossmann",
+      "count": 20
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -121,10 +125,6 @@
     {
       "keyword": "Real Stories",
       "count": 20
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 19
     },
     {
       "keyword": "More Perfect Union",
@@ -202,11 +202,11 @@
   "dailySummary": [
     {
       "date": "2026-07-31",
-      "videos": 2
+      "videos": 4
     },
     {
       "date": "2026-07-30",
-      "videos": 21
+      "videos": 22
     },
     {
       "date": "2026-07-29",
@@ -427,16 +427,20 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "MS NOW",
+      "matches": 5
+    },
+    {
       "keyword": "The Daily Show",
       "matches": 16
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 5
+      "matches": 8
     },
     {
-      "keyword": "MS NOW",
-      "matches": 6
+      "keyword": "Louis Rossmann",
+      "matches": 9
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -448,7 +452,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "NOVA, AI, artificial intelligence",
@@ -469,10 +473,6 @@
     {
       "keyword": "Real Stories",
       "matches": 3
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 8
     },
     {
       "keyword": "More Perfect Union",
@@ -520,249 +520,257 @@
       "title": "Fauci Takes the 5th Amendment While MAGA Cracks His Diary Open & Calls Him Hitler | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "14j9b34VCJI",
-      "viewsPerHour": 84259,
-      "views": 698065,
-      "ageHours": 8.3
+      "viewsPerHour": 75087,
+      "views": 772549,
+      "ageHours": 10.3
     },
     {
       "title": "The Man Warning The World: The Great Financial Collapse Is Here | Ray Dalio",
       "channel": "Diary of a CEO",
       "videoId": "Bu0xNDLNORU",
-      "viewsPerHour": 56474,
-      "views": 1541389,
-      "ageHours": 27.3
+      "viewsPerHour": 54011,
+      "views": 1582404,
+      "ageHours": 29.3
     },
     {
       "title": "Lindsey Graham Gets Eulogized, the DNC Gets Scammed & the War in Iran Gets Reheated | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "9-Q1p74b-Xo",
-      "viewsPerHour": 48768,
-      "views": 1572939,
-      "ageHours": 32.3
+      "viewsPerHour": 46141,
+      "views": 1580679,
+      "ageHours": 34.3
     },
     {
       "title": "Desi Lydic Foxsplains Anthony Fauci's Pandemic Diary | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "tWq-1XCHME8",
-      "viewsPerHour": 25869,
-      "views": 287825,
-      "ageHours": 11.1
+      "viewsPerHour": 23457,
+      "views": 307990,
+      "ageHours": 13.1
     },
     {
       "title": "Show Off Your Love for Trump with the Presidential Neck Vag! | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "cI6kFf94svU",
-      "viewsPerHour": 13625,
-      "views": 308792,
-      "ageHours": 22.7
+      "viewsPerHour": 12673,
+      "views": 312630,
+      "ageHours": 24.7
     },
     {
-      "title": "Lewis Black on How Tech Is Obliterating Privacy, from AI Glasses to \"Fambushing\" | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "hFPMm3lwCmQ",
-      "viewsPerHour": 10334,
-      "views": 483151,
-      "ageHours": 46.8
+      "title": "PBS News Hour full episode, July 30, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "7w51STOfI1g",
+      "viewsPerHour": 6556,
+      "views": 83138,
+      "ageHours": 12.7
     },
     {
       "title": "Why Political Elites Are Terrified Of This Candidate",
       "channel": "More Perfect Union",
       "videoId": "D6ag12rrs-s",
-      "viewsPerHour": 5582,
-      "views": 246811,
-      "ageHours": 44.2
+      "viewsPerHour": 5401,
+      "views": 249617,
+      "ageHours": 46.2
     },
     {
       "title": "What Happens Inside Earth's Forbidden Zones?",
       "channel": "The Rest Is Science",
       "videoId": "9O9ysiJFxuE",
-      "viewsPerHour": 4452,
-      "views": 156794,
-      "ageHours": 35.2
+      "viewsPerHour": 4285,
+      "views": 159482,
+      "ageHours": 37.2
     },
     {
       "title": "Theo Baker - Investigating Power & Influence at Stanford | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "fyt0pImMtiI",
-      "viewsPerHour": 3927,
-      "views": 26618,
-      "ageHours": 6.8
+      "viewsPerHour": 3447,
+      "views": 30275,
+      "ageHours": 8.8
     },
     {
       "title": "UAP Discovered as Drones Collapse! (S7) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "LVQTgIQVqg4",
-      "viewsPerHour": 2589,
-      "views": 101731,
-      "ageHours": 39.3
-    },
-    {
-      "title": "Slow rolling DISASTER': Trump CAUGHT dismantling CRITICAL post-9/11 counterterrorism protections",
-      "channel": "MS NOW",
-      "videoId": "mjaTEb5u3Vs",
-      "viewsPerHour": 2161,
-      "views": 26724,
-      "ageHours": 12.4
+      "viewsPerHour": 2487,
+      "views": 102719,
+      "ageHours": 41.3
     },
     {
       "title": "Twin Temple Makes Their Late-Night Debut with \"Haunt Me\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "rXabkQ2d7rU",
-      "viewsPerHour": 2077,
-      "views": 62898,
-      "ageHours": 30.3
+      "viewsPerHour": 1972,
+      "views": 63673,
+      "ageHours": 32.3
+    },
+    {
+      "title": "Slow rolling DISASTER': Trump CAUGHT dismantling CRITICAL post-9/11 counterterrorism protections",
+      "channel": "MS NOW",
+      "videoId": "mjaTEb5u3Vs",
+      "viewsPerHour": 1860,
+      "views": 26724,
+      "ageHours": 14.4
     },
     {
       "title": "Louis Theroux Investigates Campus Assaults In America's Colleges",
       "channel": "Real Stories",
       "videoId": "IPbTRkAXuTA",
-      "viewsPerHour": 1895,
-      "views": 28976,
-      "ageHours": 15.3
+      "viewsPerHour": 1702,
+      "views": 29436,
+      "ageHours": 17.3
     },
     {
       "title": "Conan & The Chill Chums Return With New Series \"Summer S'pouses\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "OaYF6PyQJxc",
-      "viewsPerHour": 1195,
+      "viewsPerHour": 1096,
       "views": 26630,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "Twin Temple Talk New Album “Doomed Lovers” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "E3Wf-FIpHQA",
-      "viewsPerHour": 1093,
-      "views": 33682,
-      "ageHours": 30.8
+      "viewsPerHour": 1036,
+      "views": 34001,
+      "ageHours": 32.8
     },
     {
       "title": "S9 E19: Alex Jones & Monkeypox: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "A4fxBltUs8A",
-      "viewsPerHour": 840,
-      "views": 15378,
-      "ageHours": 18.3
+      "viewsPerHour": 824,
+      "views": 16732,
+      "ageHours": 20.3
     },
     {
       "title": "SHAMEFUL': Nicolle puts Republicans on BLAST for JAW-DROPPING harassment of Dr. Fauci",
       "channel": "MS NOW",
       "videoId": "-OcjULnVngY",
-      "viewsPerHour": 766,
+      "viewsPerHour": 657,
       "views": 9256,
-      "ageHours": 12.1
+      "ageHours": 14.1
+    },
+    {
+      "title": "Group urges Congress to adopt proportional representation to end redistricting battles",
+      "channel": "PBS NewsHour",
+      "videoId": "y_1d3QlDa7U",
+      "viewsPerHour": 478,
+      "views": 6283,
+      "ageHours": 13.1
+    },
+    {
+      "title": "MS NOW Highlights - July 30",
+      "channel": "MS NOW",
+      "videoId": "O95LLa-iecE",
+      "viewsPerHour": 471,
+      "views": 941,
+      "ageHours": 2
+    },
+    {
+      "title": "COME TO SPOKANE WASHINGTON TOMORROW & SAY HI!",
+      "channel": "Louis Rossmann",
+      "videoId": "lDqcz2KMLAo",
+      "viewsPerHour": 393,
+      "views": 5023,
+      "ageHours": 12.8
     },
     {
       "title": "S9 E18: UK PM Candidates & Mental Health Care: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "22wIXBLLVZg",
-      "viewsPerHour": 385,
-      "views": 15332,
-      "ageHours": 39.8
+      "viewsPerHour": 370,
+      "views": 15483,
+      "ageHours": 41.8
     },
     {
       "title": "June oven's shutdown is the natural progression of Weber breaking the law with NO CONSEQUENCES! ",
       "channel": "Louis Rossmann",
       "videoId": "OA9otrFCpjw",
-      "viewsPerHour": 350,
+      "viewsPerHour": 335,
       "views": 15475,
-      "ageHours": 44.2
+      "ageHours": 46.2
     },
     {
       "title": "PBS News Hour live episode, July 30, 2026",
       "channel": "PBS NewsHour",
       "videoId": "aYftflJEJx4",
-      "viewsPerHour": 327,
+      "viewsPerHour": 283,
       "views": 4226,
-      "ageHours": 12.9
+      "ageHours": 14.9
     },
     {
       "title": "WATCH LIVE: Senate meets as Blanche confirmation vote is delayed",
       "channel": "PBS NewsHour",
       "videoId": "O_RBhKmJ5S8",
-      "viewsPerHour": 289,
+      "viewsPerHour": 264,
       "views": 6037,
-      "ageHours": 20.9
+      "ageHours": 22.9
     },
     {
-      "title": "Senate POSTPONES Todd Blanche AG vote amid GOP REVOLT",
-      "channel": "MS NOW",
-      "videoId": "M9nbW9AlDYY",
-      "viewsPerHour": 194,
-      "views": 4628,
-      "ageHours": 23.8
+      "title": "How music has helped tell America's story from the very beginning",
+      "channel": "PBS NewsHour",
+      "videoId": "xZZ9KFv2ILE",
+      "viewsPerHour": 191,
+      "views": 2485,
+      "ageHours": 13
     },
     {
-      "title": "How two Republicans could tank Todd Blanche’s AG nomination | MS NOW COMPILATION",
+      "title": "‘We have deep progressive roots’: Democratic socialist leads in Wisconsin governor primary race  ",
       "channel": "MS NOW",
-      "videoId": "WkpJ4ae3uEo",
-      "viewsPerHour": 172,
-      "views": 4121,
-      "ageHours": 24
+      "videoId": "-tEbiRL6I1k",
+      "viewsPerHour": 188,
+      "views": 380,
+      "ageHours": 2
     },
     {
       "title": "BREAKING: Trump floats WITHDRAWING Blanche's nomination until Cornyn, Tillis are out of office",
       "channel": "MS NOW",
       "videoId": "IjTFBub53qw",
-      "viewsPerHour": 160,
+      "viewsPerHour": 144,
       "views": 2816,
-      "ageHours": 17.5
+      "ageHours": 19.5
     },
     {
       "title": "Interview: The Future of AI and Us | Particles of Thought",
       "channel": "NOVA",
       "videoId": "rb4eOv5etkA",
-      "viewsPerHour": 114,
-      "views": 2778,
-      "ageHours": 24.3
+      "viewsPerHour": 108,
+      "views": 2844,
+      "ageHours": 26.3
     },
     {
       "title": "Inside The Bombing of Pan Am 103",
       "channel": "Real Stories",
       "videoId": "trHrxI7Fwxc",
-      "viewsPerHour": 100,
-      "views": 4231,
-      "ageHours": 42.3
-    },
-    {
-      "title": "Leslie Jones Is Sexually Attracted To Conan's Leprechaun Voice | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "0PjF_vcdcRM",
-      "viewsPerHour": 62,
-      "views": 2851,
-      "ageHours": 46.3
+      "viewsPerHour": 99,
+      "views": 4399,
+      "ageHours": 44.3
     },
     {
       "title": "WATCH LIVE: Attorney Crump provides update on Nolan Wells probe, other cases",
       "channel": "PBS NewsHour",
       "videoId": "xKAWrhi6sm8",
-      "viewsPerHour": 43,
+      "viewsPerHour": 39,
       "views": 839,
-      "ageHours": 19.5
-    },
-    {
-      "title": "Back-to-back with three Democrats running to flip Michigan's 17th congressional district blue",
-      "channel": "MS NOW",
-      "videoId": "_guKosDe0YI",
-      "viewsPerHour": 23,
-      "views": 544,
-      "ageHours": 24
+      "ageHours": 21.5
     },
     {
       "title": "Blanche's AG nomination on hold over opposition to DOJ's 'anti-weaponization fund'",
       "channel": "PBS NewsHour",
       "videoId": "B8KGLB5Za4k",
-      "viewsPerHour": 22,
+      "viewsPerHour": 18,
       "views": 251,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "Missouri couple murdered in Guatemala after husband was deported",
       "channel": "PBS NewsHour",
       "videoId": "sEC9UEXi8I0",
-      "viewsPerHour": 2,
+      "viewsPerHour": 1,
       "views": 19,
-      "ageHours": 11.5
+      "ageHours": 13.5
     }
   ]
 }
