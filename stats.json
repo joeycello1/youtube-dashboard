@@ -460,7 +460,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "matches": 16
+      "matches": 15
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -509,10 +509,6 @@
     {
       "keyword": "Giza",
       "matches": 1
-    },
-    {
-      "keyword": "The Interview",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -520,185 +516,185 @@
       "title": "Fauci Takes the 5th Amendment While MAGA Cracks His Diary Open & Calls Him Hitler | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "14j9b34VCJI",
-      "viewsPerHour": 45387,
-      "views": 1556282,
-      "ageHours": 34.3
+      "viewsPerHour": 43388,
+      "views": 1574381,
+      "ageHours": 36.3
     },
     {
       "title": "Desi Lydic Foxsplains Anthony Fauci's Pandemic Diary | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "tWq-1XCHME8",
-      "viewsPerHour": 15822,
-      "views": 587461,
-      "ageHours": 37.1
+      "viewsPerHour": 15210,
+      "views": 595117,
+      "ageHours": 39.1
     },
     {
       "title": "Diamond-encrusted ring becomes new symbol of Trump's corruption",
       "channel": "MS NOW",
       "videoId": "oY5w09y2H0k",
-      "viewsPerHour": 8024,
+      "viewsPerHour": 6261,
       "views": 56893,
-      "ageHours": 7.1
-    },
-    {
-      "title": "Trump HUMILIATED by stunning admission as pool case collapses",
-      "channel": "MS NOW",
-      "videoId": "Cs8twzRUHlI",
-      "viewsPerHour": 6584,
-      "views": 46911,
-      "ageHours": 7.1
+      "ageHours": 9.1
     },
     {
       "title": "Who's the Greatest American of All Time, and Why Is It John Stamos? Kosta Finds Out | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "0zybOrEU8-g",
-      "viewsPerHour": 5989,
-      "views": 148898,
-      "ageHours": 24.9
+      "viewsPerHour": 5685,
+      "views": 152675,
+      "ageHours": 26.9
+    },
+    {
+      "title": "Trump HUMILIATED by stunning admission as pool case collapses",
+      "channel": "MS NOW",
+      "videoId": "Cs8twzRUHlI",
+      "viewsPerHour": 5142,
+      "views": 46911,
+      "ageHours": 9.1
     },
     {
       "title": "PBS News Hour full episode, July 31, 2026",
       "channel": "PBS NewsHour",
       "videoId": "-C1_E1NWxFk",
-      "viewsPerHour": 3736,
+      "viewsPerHour": 3221,
       "views": 46595,
-      "ageHours": 12.5
+      "ageHours": 14.5
     },
     {
       "title": "Petty grievance blinds Trump to Iran threat as he accuses Minnesota of hacking itself",
       "channel": "MS NOW",
       "videoId": "14VjVadNvQo",
-      "viewsPerHour": 2994,
+      "viewsPerHour": 2324,
       "views": 20738,
-      "ageHours": 6.9
+      "ageHours": 8.9
     },
     {
       "title": "Theo Baker - Investigating Power & Influence at Stanford | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "fyt0pImMtiI",
-      "viewsPerHour": 2189,
-      "views": 71751,
-      "ageHours": 32.8
+      "viewsPerHour": 2086,
+      "views": 72552,
+      "ageHours": 34.8
     },
     {
       "title": "Rocket Experiment Uncovers Mysterious Light (S4) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "DWK2cARAe8w",
-      "viewsPerHour": 1930,
-      "views": 33381,
-      "ageHours": 17.3
-    },
-    {
-      "title": "DOJ veteran TORCHES Trump team admitting Reflecting Pool likely wasn't damaged by 'Deranged Vandals'",
-      "channel": "MS NOW",
-      "videoId": "HPB_JXAunjY",
-      "viewsPerHour": 1369,
-      "views": 11396,
-      "ageHours": 8.3
+      "viewsPerHour": 1781,
+      "views": 34358,
+      "ageHours": 19.3
     },
     {
       "title": "Every Major Gold Discovery | The Curse of Oak Island",
       "channel": "History",
       "videoId": "ggia8I2RU0s",
-      "viewsPerHour": 1356,
-      "views": 27533,
-      "ageHours": 20.3
+      "viewsPerHour": 1290,
+      "views": 28751,
+      "ageHours": 22.3
+    },
+    {
+      "title": "DOJ veteran TORCHES Trump team admitting Reflecting Pool likely wasn't damaged by 'Deranged Vandals'",
+      "channel": "MS NOW",
+      "videoId": "HPB_JXAunjY",
+      "viewsPerHour": 1104,
+      "views": 11396,
+      "ageHours": 10.3
     },
     {
       "title": "Louis Theroux Investigates Campus Assaults In America's Colleges",
       "channel": "Real Stories",
       "videoId": "IPbTRkAXuTA",
-      "viewsPerHour": 1075,
-      "views": 44391,
-      "ageHours": 41.3
+      "viewsPerHour": 1031,
+      "views": 44648,
+      "ageHours": 43.3
     },
     {
       "title": "Own Your Shit Tour: Spokane, WA",
       "channel": "Louis Rossmann",
       "videoId": "a_79shSq2-k",
-      "viewsPerHour": 1074,
+      "viewsPerHour": 848,
       "views": 8028,
-      "ageHours": 7.5
+      "ageHours": 9.5
     },
     {
       "title": "S9 E20: Afghanistan Update & AI Images: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "ME7AUUSlnmo",
-      "viewsPerHour": 718,
-      "views": 14567,
-      "ageHours": 20.3
+      "viewsPerHour": 705,
+      "views": 15724,
+      "ageHours": 22.3
     },
     {
       "title": "S9 E19: Alex Jones & Monkeypox: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "A4fxBltUs8A",
-      "viewsPerHour": 621,
-      "views": 27502,
-      "ageHours": 44.3
+      "viewsPerHour": 612,
+      "views": 28321,
+      "ageHours": 46.3
     },
     {
       "title": "Trump: Anti-weaponization fund is \"dead,\" but also says \"I wish it weren't\" at cabinet meeting",
       "channel": "MS NOW",
       "videoId": "DZKz4EyeBeY",
-      "viewsPerHour": 471,
+      "viewsPerHour": 428,
       "views": 9316,
-      "ageHours": 19.8
+      "ageHours": 21.8
     },
     {
       "title": "Why states want to change 'Sell By' labels on food",
       "channel": "PBS NewsHour",
       "videoId": "1wlBK61Py90",
-      "viewsPerHour": 285,
+      "viewsPerHour": 246,
       "views": 3632,
-      "ageHours": 12.8
+      "ageHours": 14.8
     },
     {
       "title": "Conan Was \"Shocked And Stunned\" By His First Episode Of \"Love Island\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Q4ioqEtog0s",
-      "viewsPerHour": 186,
+      "viewsPerHour": 170,
       "views": 3955,
-      "ageHours": 21.3
+      "ageHours": 23.3
     },
     {
       "title": "WATCH LIVE: Trump hosts Cabinet meeting at Camp David",
       "channel": "PBS NewsHour",
       "videoId": "N8ayjrQF1yg",
-      "viewsPerHour": 150,
+      "viewsPerHour": 136,
       "views": 2960,
-      "ageHours": 19.8
-    },
-    {
-      "title": "Is \"The Odyssey\" Christopher Nolan's Best Film? | Bley's Arcade",
-      "channel": "Conan O'Brien",
-      "videoId": "L6iWennUeAo",
-      "viewsPerHour": 137,
-      "views": 3320,
-      "ageHours": 24.3
+      "ageHours": 21.8
     },
     {
       "title": "COME TO SPOKANE WASHINGTON TOMORROW & SAY HI!",
       "channel": "Louis Rossmann",
       "videoId": "lDqcz2KMLAo",
-      "viewsPerHour": 137,
+      "viewsPerHour": 129,
       "views": 5023,
-      "ageHours": 36.8
+      "ageHours": 38.8
+    },
+    {
+      "title": "Is \"The Odyssey\" Christopher Nolan's Best Film? | Bley's Arcade",
+      "channel": "Conan O'Brien",
+      "videoId": "L6iWennUeAo",
+      "viewsPerHour": 126,
+      "views": 3320,
+      "ageHours": 26.3
     },
     {
       "title": "Modern-day poll tax': NC A&T students FIGHT GOP voting restrictions",
       "channel": "MS NOW",
       "videoId": "weRtl-WtkvA",
-      "viewsPerHour": 97,
+      "viewsPerHour": 78,
       "views": 791,
-      "ageHours": 8.2
+      "ageHours": 10.2
     },
     {
       "title": "The Starlink Favor: Inside Zelensky’s high-stakes request to Trump & Musk",
       "channel": "MS NOW",
       "videoId": "9LcvTDTtUQI",
-      "viewsPerHour": 76,
+      "viewsPerHour": 69,
       "views": 1520,
-      "ageHours": 19.9
+      "ageHours": 21.9
     }
   ]
 }
