@@ -1,12 +1,12 @@
 {
   "videosPerChannel": [
     {
-      "channel": "Louis Rossmann",
-      "count": 21
+      "channel": "MS NOW",
+      "count": 7
     },
     {
-      "channel": "MS NOW",
-      "count": 6
+      "channel": "Louis Rossmann",
+      "count": 21
     },
     {
       "channel": "PBS NewsHour",
@@ -79,12 +79,12 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "Louis Rossmann",
-      "count": 19
+      "keyword": "MS NOW",
+      "count": 7
     },
     {
-      "keyword": "MS NOW",
-      "count": 6
+      "keyword": "Louis Rossmann",
+      "count": 19
     },
     {
       "keyword": "PBS NewsHour",
@@ -206,11 +206,11 @@
   "dailySummary": [
     {
       "date": "2026-08-01",
-      "videos": 3
+      "videos": 6
     },
     {
       "date": "2026-07-31",
-      "videos": 15
+      "videos": 13
     },
     {
       "date": "2026-07-30",
@@ -431,12 +431,12 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "Louis Rossmann",
-      "matches": 8
+      "keyword": "MS NOW",
+      "matches": 7
     },
     {
-      "keyword": "MS NOW",
-      "matches": 6
+      "keyword": "Louis Rossmann",
+      "matches": 8
     },
     {
       "keyword": "PBS NewsHour",
@@ -520,193 +520,185 @@
       "title": "Fauci Takes the 5th Amendment While MAGA Cracks His Diary Open & Calls Him Hitler | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "14j9b34VCJI",
-      "viewsPerHour": 47747,
-      "views": 1541336,
-      "ageHours": 32.3
+      "viewsPerHour": 45387,
+      "views": 1556282,
+      "ageHours": 34.3
     },
     {
       "title": "Desi Lydic Foxsplains Anthony Fauci's Pandemic Diary | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "tWq-1XCHME8",
-      "viewsPerHour": 16527,
-      "views": 580464,
-      "ageHours": 35.1
+      "viewsPerHour": 15822,
+      "views": 587461,
+      "ageHours": 37.1
     },
     {
-      "title": "Show Off Your Love for Trump with the Presidential Neck Vag! | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "cI6kFf94svU",
-      "viewsPerHour": 8802,
-      "views": 410729,
-      "ageHours": 46.7
+      "title": "Diamond-encrusted ring becomes new symbol of Trump's corruption",
+      "channel": "MS NOW",
+      "videoId": "oY5w09y2H0k",
+      "viewsPerHour": 8024,
+      "views": 56893,
+      "ageHours": 7.1
+    },
+    {
+      "title": "Trump HUMILIATED by stunning admission as pool case collapses",
+      "channel": "MS NOW",
+      "videoId": "Cs8twzRUHlI",
+      "viewsPerHour": 6584,
+      "views": 46911,
+      "ageHours": 7.1
     },
     {
       "title": "Who's the Greatest American of All Time, and Why Is It John Stamos? Kosta Finds Out | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "0zybOrEU8-g",
-      "viewsPerHour": 6354,
-      "views": 145200,
-      "ageHours": 22.9
+      "viewsPerHour": 5989,
+      "views": 148898,
+      "ageHours": 24.9
     },
     {
       "title": "PBS News Hour full episode, July 31, 2026",
       "channel": "PBS NewsHour",
       "videoId": "-C1_E1NWxFk",
-      "viewsPerHour": 4453,
+      "viewsPerHour": 3736,
       "views": 46595,
-      "ageHours": 10.5
+      "ageHours": 12.5
+    },
+    {
+      "title": "Petty grievance blinds Trump to Iran threat as he accuses Minnesota of hacking itself",
+      "channel": "MS NOW",
+      "videoId": "14VjVadNvQo",
+      "viewsPerHour": 2994,
+      "views": 20738,
+      "ageHours": 6.9
     },
     {
       "title": "Theo Baker - Investigating Power & Influence at Stanford | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "fyt0pImMtiI",
-      "viewsPerHour": 2306,
-      "views": 70967,
-      "ageHours": 30.8
+      "viewsPerHour": 2189,
+      "views": 71751,
+      "ageHours": 32.8
     },
     {
       "title": "Rocket Experiment Uncovers Mysterious Light (S4) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "DWK2cARAe8w",
-      "viewsPerHour": 2110,
-      "views": 32257,
-      "ageHours": 15.3
+      "viewsPerHour": 1930,
+      "views": 33381,
+      "ageHours": 17.3
     },
     {
       "title": "DOJ veteran TORCHES Trump team admitting Reflecting Pool likely wasn't damaged by 'Deranged Vandals'",
       "channel": "MS NOW",
       "videoId": "HPB_JXAunjY",
-      "viewsPerHour": 1804,
+      "viewsPerHour": 1369,
       "views": 11396,
-      "ageHours": 6.3
-    },
-    {
-      "title": "Own Your Shit Tour: Spokane, WA",
-      "channel": "Louis Rossmann",
-      "videoId": "a_79shSq2-k",
-      "viewsPerHour": 1469,
-      "views": 8028,
-      "ageHours": 5.5
+      "ageHours": 8.3
     },
     {
       "title": "Every Major Gold Discovery | The Curse of Oak Island",
       "channel": "History",
       "videoId": "ggia8I2RU0s",
-      "viewsPerHour": 1441,
-      "views": 26358,
-      "ageHours": 18.3
+      "viewsPerHour": 1356,
+      "views": 27533,
+      "ageHours": 20.3
     },
     {
       "title": "Louis Theroux Investigates Campus Assaults In America's Colleges",
       "channel": "Real Stories",
       "videoId": "IPbTRkAXuTA",
-      "viewsPerHour": 1123,
-      "views": 44130,
-      "ageHours": 39.3
+      "viewsPerHour": 1075,
+      "views": 44391,
+      "ageHours": 41.3
+    },
+    {
+      "title": "Own Your Shit Tour: Spokane, WA",
+      "channel": "Louis Rossmann",
+      "videoId": "a_79shSq2-k",
+      "viewsPerHour": 1074,
+      "views": 8028,
+      "ageHours": 7.5
     },
     {
       "title": "S9 E20: Afghanistan Update & AI Images: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "ME7AUUSlnmo",
-      "viewsPerHour": 729,
-      "views": 13329,
-      "ageHours": 18.3
+      "viewsPerHour": 718,
+      "views": 14567,
+      "ageHours": 20.3
     },
     {
       "title": "S9 E19: Alex Jones & Monkeypox: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "A4fxBltUs8A",
-      "viewsPerHour": 632,
-      "views": 26735,
-      "ageHours": 42.3
-    },
-    {
-      "title": "Conan & The Chill Chums Return With New Series \"Summer S'pouses\" | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "OaYF6PyQJxc",
-      "viewsPerHour": 575,
-      "views": 26630,
-      "ageHours": 46.3
+      "viewsPerHour": 621,
+      "views": 27502,
+      "ageHours": 44.3
     },
     {
       "title": "Trump: Anti-weaponization fund is \"dead,\" but also says \"I wish it weren't\" at cabinet meeting",
       "channel": "MS NOW",
       "videoId": "DZKz4EyeBeY",
-      "viewsPerHour": 524,
+      "viewsPerHour": 471,
       "views": 9316,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "Why states want to change 'Sell By' labels on food",
       "channel": "PBS NewsHour",
       "videoId": "1wlBK61Py90",
-      "viewsPerHour": 338,
+      "viewsPerHour": 285,
       "views": 3632,
-      "ageHours": 10.8
+      "ageHours": 12.8
     },
     {
       "title": "Conan Was \"Shocked And Stunned\" By His First Episode Of \"Love Island\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Q4ioqEtog0s",
-      "viewsPerHour": 205,
+      "viewsPerHour": 186,
       "views": 3955,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "WATCH LIVE: Trump hosts Cabinet meeting at Camp David",
       "channel": "PBS NewsHour",
       "videoId": "N8ayjrQF1yg",
-      "viewsPerHour": 167,
+      "viewsPerHour": 150,
       "views": 2960,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "Is \"The Odyssey\" Christopher Nolan's Best Film? | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "L6iWennUeAo",
-      "viewsPerHour": 149,
+      "viewsPerHour": 137,
       "views": 3320,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "COME TO SPOKANE WASHINGTON TOMORROW & SAY HI!",
       "channel": "Louis Rossmann",
       "videoId": "lDqcz2KMLAo",
-      "viewsPerHour": 144,
+      "viewsPerHour": 137,
       "views": 5023,
-      "ageHours": 34.8
+      "ageHours": 36.8
     },
     {
       "title": "Modern-day poll tax': NC A&T students FIGHT GOP voting restrictions",
       "channel": "MS NOW",
       "videoId": "weRtl-WtkvA",
-      "viewsPerHour": 128,
+      "viewsPerHour": 97,
       "views": 791,
-      "ageHours": 6.2
+      "ageHours": 8.2
     },
     {
       "title": "The Starlink Favor: Inside Zelensky’s high-stakes request to Trump & Musk",
       "channel": "MS NOW",
       "videoId": "9LcvTDTtUQI",
-      "viewsPerHour": 85,
+      "viewsPerHour": 76,
       "views": 1520,
-      "ageHours": 17.9
-    },
-    {
-      "title": "MS NOW Highlights - July 30",
-      "channel": "MS NOW",
-      "videoId": "O95LLa-iecE",
-      "viewsPerHour": 39,
-      "views": 941,
-      "ageHours": 24
-    },
-    {
-      "title": "‘We have deep progressive roots’: Democratic socialist leads in Wisconsin governor primary race  ",
-      "channel": "MS NOW",
-      "videoId": "-tEbiRL6I1k",
-      "viewsPerHour": 16,
-      "views": 380,
-      "ageHours": 24
+      "ageHours": 19.9
     }
   ]
 }
