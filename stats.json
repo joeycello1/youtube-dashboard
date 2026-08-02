@@ -1,20 +1,20 @@
 {
   "videosPerChannel": [
     {
+      "channel": "History",
+      "count": 25
+    },
+    {
+      "channel": "MS NOW",
+      "count": 9
+    },
+    {
       "channel": "Real Stories",
       "count": 37
     },
     {
       "channel": "Last Week Tonight",
       "count": 17
-    },
-    {
-      "channel": "History",
-      "count": 24
-    },
-    {
-      "channel": "MS NOW",
-      "count": 7
     },
     {
       "channel": "The Daily Show",
@@ -26,7 +26,7 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 21
+      "count": 19
     },
     {
       "channel": "PBS NewsHour",
@@ -34,7 +34,7 @@
     },
     {
       "channel": "Conan O'Brien",
-      "count": 11
+      "count": 10
     },
     {
       "channel": "NOVA",
@@ -50,7 +50,7 @@
     },
     {
       "channel": "More Perfect Union",
-      "count": 17
+      "count": 16
     },
     {
       "channel": "Mayim Bialik",
@@ -79,6 +79,14 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "NOVA",
+      "count": 20
+    },
+    {
+      "keyword": "MS NOW",
+      "count": 9
+    },
+    {
       "keyword": "Real Stories",
       "count": 20
     },
@@ -91,10 +99,6 @@
       "count": 16
     },
     {
-      "keyword": "MS NOW",
-      "count": 7
-    },
-    {
       "keyword": "The Daily Show",
       "count": 16
     },
@@ -104,15 +108,11 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 19
+      "count": 17
     },
     {
       "keyword": "PBS NewsHour",
       "count": 2
-    },
-    {
-      "keyword": "NOVA",
-      "count": 19
     },
     {
       "keyword": "Last Week Tonight, AI",
@@ -120,7 +120,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 11
+      "count": 10
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -144,7 +144,7 @@
     },
     {
       "keyword": "More Perfect Union",
-      "count": 16
+      "count": 15
     },
     {
       "keyword": "The Daily Show, AI",
@@ -206,7 +206,7 @@
   "dailySummary": [
     {
       "date": "2026-08-01",
-      "videos": 13
+      "videos": 16
     },
     {
       "date": "2026-07-31",
@@ -246,7 +246,7 @@
     },
     {
       "date": "2026-07-22",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-07-21",
@@ -266,7 +266,7 @@
     },
     {
       "date": "2026-07-17",
-      "videos": 7
+      "videos": 5
     },
     {
       "date": "2026-07-16",
@@ -421,15 +421,19 @@
       "videos": 1
     },
     {
-      "date": "2026-06-02",
-      "videos": 1
-    },
-    {
       "date": "2026-04-09",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
+    {
+      "keyword": "NOVA",
+      "matches": 4
+    },
+    {
+      "keyword": "MS NOW",
+      "matches": 9
+    },
     {
       "keyword": "Real Stories",
       "matches": 3
@@ -440,11 +444,7 @@
     },
     {
       "keyword": "UFO",
-      "matches": 3
-    },
-    {
-      "keyword": "MS NOW",
-      "matches": 7
+      "matches": 2
     },
     {
       "keyword": "The Daily Show",
@@ -461,10 +461,6 @@
     {
       "keyword": "PBS NewsHour",
       "matches": 2
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 3
     },
     {
       "keyword": "Last Week Tonight, AI",
@@ -520,201 +516,209 @@
       "title": "Fauci Takes the 5th Amendment While MAGA Cracks His Diary Open & Calls Him Hitler | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "14j9b34VCJI",
-      "viewsPerHour": 37098,
-      "views": 1645011,
-      "ageHours": 44.3
+      "viewsPerHour": 35817,
+      "views": 1658037,
+      "ageHours": 46.3
     },
     {
       "title": "Jon Stewart Critiques Trump's WHCD Set & Klepper Eyes Fauci's Explosive Diary | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "6f7ubobdr_I",
-      "viewsPerHour": 27268,
-      "views": 255124,
-      "ageHours": 9.4
-    },
-    {
-      "title": "Desi Lydic Foxsplains Anthony Fauci's Pandemic Diary | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "tWq-1XCHME8",
-      "viewsPerHour": 13388,
-      "views": 631707,
-      "ageHours": 47.2
+      "viewsPerHour": 26405,
+      "views": 298542,
+      "ageHours": 11.3
     },
     {
       "title": "Who's the Greatest American of All Time, and Why Is It John Stamos? Kosta Finds Out | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "0zybOrEU8-g",
-      "viewsPerHour": 4779,
-      "views": 166852,
-      "ageHours": 34.9
+      "viewsPerHour": 4595,
+      "views": 169375,
+      "ageHours": 36.9
     },
     {
       "title": "Diamond-encrusted ring becomes new symbol of Trump's corruption",
       "channel": "MS NOW",
       "videoId": "oY5w09y2H0k",
-      "viewsPerHour": 3319,
+      "viewsPerHour": 2980,
       "views": 56893,
-      "ageHours": 17.1
+      "ageHours": 19.1
     },
     {
       "title": "Trump HUMILIATED by stunning admission as pool case collapses",
       "channel": "MS NOW",
       "videoId": "Cs8twzRUHlI",
-      "viewsPerHour": 2731,
+      "viewsPerHour": 2452,
       "views": 46911,
-      "ageHours": 17.2
+      "ageHours": 19.1
     },
     {
       "title": "PBS News Hour full episode, July 31, 2026",
       "channel": "PBS NewsHour",
       "videoId": "-C1_E1NWxFk",
-      "viewsPerHour": 2069,
+      "viewsPerHour": 1904,
       "views": 46595,
-      "ageHours": 22.5
+      "ageHours": 24.5
     },
     {
       "title": "Theo Baker - Investigating Power & Influence at Stanford | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "fyt0pImMtiI",
-      "viewsPerHour": 1780,
-      "views": 76265,
-      "ageHours": 42.8
+      "viewsPerHour": 1715,
+      "views": 76805,
+      "ageHours": 44.8
     },
     {
       "title": "Immigration Nation.",
       "channel": "Jonathan Pie",
       "videoId": "QGwYGhPOo7s",
-      "viewsPerHour": 1746,
-      "views": 17806,
-      "ageHours": 10.2
+      "viewsPerHour": 1632,
+      "views": 19819,
+      "ageHours": 12.1
+    },
+    {
+      "title": "McConnell’s Senate absence is ‘prime example’ of why Congress needs term limits: Marine Corps Vet",
+      "channel": "MS NOW",
+      "videoId": "cyGizXM8eUw",
+      "viewsPerHour": 1526,
+      "views": 5508,
+      "ageHours": 3.6
     },
     {
       "title": "Rocket Experiment Uncovers Mysterious Light (S4) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "DWK2cARAe8w",
-      "viewsPerHour": 1418,
-      "views": 38778,
-      "ageHours": 27.3
-    },
-    {
-      "title": "Petty grievance blinds Trump to Iran threat as he accuses Minnesota of hacking itself",
-      "channel": "MS NOW",
-      "videoId": "14VjVadNvQo",
-      "viewsPerHour": 1221,
-      "views": 20738,
-      "ageHours": 17
+      "viewsPerHour": 1359,
+      "views": 39824,
+      "ageHours": 29.3
     },
     {
       "title": "The Puerto Rico UFO Mystery (S18) | Ancient Aliens",
       "channel": "History",
       "videoId": "wlQoA65oMVs",
-      "viewsPerHour": 1214,
-      "views": 7714,
-      "ageHours": 6.4
+      "viewsPerHour": 1170,
+      "views": 9714,
+      "ageHours": 8.3
     },
     {
       "title": "Every Major Gold Discovery | The Curse of Oak Island",
       "channel": "History",
       "videoId": "ggia8I2RU0s",
-      "viewsPerHour": 1186,
-      "views": 35998,
-      "ageHours": 30.4
+      "viewsPerHour": 1156,
+      "views": 37344,
+      "ageHours": 32.3
     },
     {
-      "title": "DOJ veteran TORCHES Trump team admitting Reflecting Pool likely wasn't damaged by 'Deranged Vandals'",
+      "title": "Petty grievance blinds Trump to Iran threat as he accuses Minnesota of hacking itself",
       "channel": "MS NOW",
-      "videoId": "HPB_JXAunjY",
-      "viewsPerHour": 620,
-      "views": 11396,
-      "ageHours": 18.4
+      "videoId": "14VjVadNvQo",
+      "viewsPerHour": 1095,
+      "views": 20738,
+      "ageHours": 18.9
     },
     {
-      "title": "S9 E20: Afghanistan Update & AI Images: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "ME7AUUSlnmo",
-      "viewsPerHour": 616,
-      "views": 18685,
-      "ageHours": 30.4
+      "title": "Are GOP state officials standing up to Trump? Colorado Secy. of State confirms some are resisting",
+      "channel": "MS NOW",
+      "videoId": "4B7QS-GpwNA",
+      "viewsPerHour": 774,
+      "views": 2934,
+      "ageHours": 3.8
+    },
+    {
+      "title": "The Secret Gold Connection (S3, E6) | The Curse of Oak Island | Full Episode",
+      "channel": "History",
+      "videoId": "WLua2Ng85dM",
+      "viewsPerHour": 669,
+      "views": 1540,
+      "ageHours": 2.3
     },
     {
       "title": "S9 E21: Alaska Primaries 2022 & Carbon Offsets: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "vhjWNIhOm6s",
-      "viewsPerHour": 607,
-      "views": 3856,
-      "ageHours": 6.4
+      "viewsPerHour": 593,
+      "views": 4924,
+      "ageHours": 8.3
     },
     {
-      "title": "‘Textbook definition of abuse of power’: New filings detail Trump’s relentless pursuit of Comey",
+      "title": "S9 E20: Afghanistan Update & AI Images: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "ME7AUUSlnmo",
+      "viewsPerHour": 588,
+      "views": 18980,
+      "ageHours": 32.3
+    },
+    {
+      "title": "DOJ veteran TORCHES Trump team admitting Reflecting Pool likely wasn't damaged by 'Deranged Vandals'",
       "channel": "MS NOW",
-      "videoId": "4RxP8lzRJZ4",
-      "viewsPerHour": 508,
-      "views": 3796,
-      "ageHours": 7.5
+      "videoId": "HPB_JXAunjY",
+      "viewsPerHour": 561,
+      "views": 11396,
+      "ageHours": 20.3
     },
     {
       "title": "Own Your Shit Tour: Spokane, WA",
       "channel": "Louis Rossmann",
       "videoId": "a_79shSq2-k",
-      "viewsPerHour": 458,
+      "viewsPerHour": 412,
       "views": 8028,
-      "ageHours": 17.5
+      "ageHours": 19.5
+    },
+    {
+      "title": "‘Textbook definition of abuse of power’: New filings detail Trump’s relentless pursuit of Comey",
+      "channel": "MS NOW",
+      "videoId": "4RxP8lzRJZ4",
+      "viewsPerHour": 403,
+      "views": 3796,
+      "ageHours": 9.4
     },
     {
       "title": "Transition' the anger Americans are feeling into 'something real’: Highlights from DSA conference",
       "channel": "MS NOW",
       "videoId": "76Ae-FCjdDo",
-      "viewsPerHour": 278,
+      "viewsPerHour": 221,
       "views": 2077,
-      "ageHours": 7.5
+      "ageHours": 9.4
     },
     {
       "title": "Inside Uganda: Reporting the Truth Can Get You Killed",
       "channel": "Real Stories",
       "videoId": "syAVgUjFv7Y",
-      "viewsPerHour": 213,
-      "views": 1350,
-      "ageHours": 6.3
+      "viewsPerHour": 195,
+      "views": 1614,
+      "ageHours": 8.3
     },
     {
       "title": "Why states want to change 'Sell By' labels on food",
       "channel": "PBS NewsHour",
       "videoId": "1wlBK61Py90",
-      "viewsPerHour": 159,
+      "viewsPerHour": 147,
       "views": 3632,
-      "ageHours": 22.8
+      "ageHours": 24.8
     },
     {
       "title": "Conan Was \"Shocked And Stunned\" By His First Episode Of \"Love Island\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Q4ioqEtog0s",
-      "viewsPerHour": 126,
+      "viewsPerHour": 119,
       "views": 3955,
-      "ageHours": 31.4
-    },
-    {
-      "title": "COME TO SPOKANE WASHINGTON TOMORROW & SAY HI!",
-      "channel": "Louis Rossmann",
-      "videoId": "lDqcz2KMLAo",
-      "viewsPerHour": 107,
-      "views": 5023,
-      "ageHours": 46.8
+      "ageHours": 33.3
     },
     {
       "title": "Is \"The Odyssey\" Christopher Nolan's Best Film? | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "L6iWennUeAo",
-      "viewsPerHour": 97,
+      "viewsPerHour": 91,
       "views": 3320,
-      "ageHours": 34.4
+      "ageHours": 36.3
     },
     {
       "title": "Modern-day poll tax': NC A&T students FIGHT GOP voting restrictions",
       "channel": "MS NOW",
       "videoId": "weRtl-WtkvA",
-      "viewsPerHour": 43,
+      "viewsPerHour": 39,
       "views": 791,
-      "ageHours": 18.2
+      "ageHours": 20.2
     }
   ]
 }
