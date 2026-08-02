@@ -452,7 +452,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "Last Week Tonight, AI",
@@ -464,7 +464,7 @@
     },
     {
       "keyword": "Real Stories, Louis Theroux",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "NOVA, AI, artificial intelligence",
@@ -504,113 +504,105 @@
       "title": "Jon Stewart Critiques Trump's WHCD Set & Klepper Eyes Fauci's Explosive Diary | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "6f7ubobdr_I",
-      "viewsPerHour": 17616,
-      "views": 516091,
-      "ageHours": 29.3
+      "viewsPerHour": 16948,
+      "views": 530683,
+      "ageHours": 31.3
     },
     {
       "title": "Truly SHOCKING' Watch MS NOW's INSTANT REACTION to DOJ nixing Reflecting Pool case",
       "channel": "MS NOW",
       "videoId": "EzRYijL7OYo",
-      "viewsPerHour": 3673,
+      "viewsPerHour": 3325,
       "views": 70868,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "The World's Most Active UFO Hotspot? (S20, E9) | Ancient Aliens | Full Episode",
       "channel": "History",
       "videoId": "hmM3tqiD9pY",
-      "viewsPerHour": 2599,
-      "views": 47554,
-      "ageHours": 18.3
+      "viewsPerHour": 2524,
+      "views": 51269,
+      "ageHours": 20.3
     },
     {
       "title": "The Puerto Rico UFO Mystery (S18) | Ancient Aliens",
       "channel": "History",
       "videoId": "wlQoA65oMVs",
-      "viewsPerHour": 1019,
-      "views": 26807,
-      "ageHours": 26.3
+      "viewsPerHour": 1030,
+      "views": 29156,
+      "ageHours": 28.3
     },
     {
       "title": "Immigration Nation.",
       "channel": "Jonathan Pie",
       "videoId": "QGwYGhPOo7s",
-      "viewsPerHour": 958,
-      "views": 28878,
-      "ageHours": 30.1
-    },
-    {
-      "title": "Rocket Experiment Uncovers Mysterious Light (S4) | The Secret of Skinwalker Ranch",
-      "channel": "History",
-      "videoId": "DWK2cARAe8w",
-      "viewsPerHour": 954,
-      "views": 45121,
-      "ageHours": 47.3
+      "viewsPerHour": 928,
+      "views": 29844,
+      "ageHours": 32.2
     },
     {
       "title": "S9 E22: Law & Order, Queen Elizabeth & Liz Truss: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "w0Vwq8kbDFA",
-      "viewsPerHour": 777,
-      "views": 1784,
-      "ageHours": 2.3
+      "viewsPerHour": 794,
+      "views": 3422,
+      "ageHours": 4.3
     },
     {
       "title": "The Secret Gold Connection (S3, E6) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "WLua2Ng85dM",
-      "viewsPerHour": 474,
-      "views": 9620,
-      "ageHours": 20.3
+      "viewsPerHour": 452,
+      "views": 10072,
+      "ageHours": 22.3
     },
     {
       "title": "S9 E21: Alaska Primaries 2022 & Carbon Offsets: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "vhjWNIhOm6s",
-      "viewsPerHour": 402,
-      "views": 10579,
-      "ageHours": 26.3
+      "viewsPerHour": 382,
+      "views": 10818,
+      "ageHours": 28.3
     },
     {
       "title": "McConnell’s Senate absence is ‘prime example’ of why Congress needs term limits: Marine Corps Vet",
       "channel": "MS NOW",
       "videoId": "cyGizXM8eUw",
-      "viewsPerHour": 255,
+      "viewsPerHour": 233,
       "views": 5508,
-      "ageHours": 21.6
+      "ageHours": 23.6
     },
     {
       "title": "Own Your Shit Tour: Spokane, WA",
       "channel": "Louis Rossmann",
       "videoId": "a_79shSq2-k",
-      "viewsPerHour": 214,
+      "viewsPerHour": 203,
       "views": 8028,
-      "ageHours": 37.5
+      "ageHours": 39.5
     },
     {
       "title": "MS NOW Highlights - August 1",
       "channel": "MS NOW",
       "videoId": "DGlk_C3d6hE",
-      "viewsPerHour": 206,
+      "viewsPerHour": 165,
       "views": 1705,
-      "ageHours": 8.3
+      "ageHours": 10.3
     },
     {
       "title": "Are GOP state officials standing up to Trump? Colorado Secy. of State confirms some are resisting",
       "channel": "MS NOW",
       "videoId": "4B7QS-GpwNA",
-      "viewsPerHour": 135,
+      "viewsPerHour": 123,
       "views": 2934,
-      "ageHours": 21.8
+      "ageHours": 23.8
     },
     {
       "title": "Inside Uganda: Reporting the Truth Can Get You Killed",
       "channel": "Real Stories",
       "videoId": "syAVgUjFv7Y",
-      "viewsPerHour": 109,
-      "views": 2853,
-      "ageHours": 26.3
+      "viewsPerHour": 105,
+      "views": 2972,
+      "ageHours": 28.3
     }
   ]
 }
