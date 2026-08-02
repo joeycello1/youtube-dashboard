@@ -2,11 +2,11 @@
   "videosPerChannel": [
     {
       "channel": "History",
-      "count": 25
+      "count": 26
     },
     {
       "channel": "MS NOW",
-      "count": 9
+      "count": 8
     },
     {
       "channel": "Real Stories",
@@ -27,10 +27,6 @@
     {
       "channel": "Louis Rossmann",
       "count": 19
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 2
     },
     {
       "channel": "Conan O'Brien",
@@ -79,12 +75,16 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "NOVA",
-      "count": 20
+      "keyword": "UFO",
+      "count": 17
     },
     {
       "keyword": "MS NOW",
-      "count": 9
+      "count": 8
+    },
+    {
+      "keyword": "NOVA",
+      "count": 20
     },
     {
       "keyword": "Real Stories",
@@ -92,10 +92,6 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "count": 16
-    },
-    {
-      "keyword": "UFO",
       "count": 16
     },
     {
@@ -109,10 +105,6 @@
     {
       "keyword": "Louis Rossmann",
       "count": 17
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 2
     },
     {
       "keyword": "Last Week Tonight, AI",
@@ -205,12 +197,16 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-08-02",
+      "videos": 1
+    },
+    {
       "date": "2026-08-01",
-      "videos": 16
+      "videos": 15
     },
     {
       "date": "2026-07-31",
-      "videos": 10
+      "videos": 8
     },
     {
       "date": "2026-07-30",
@@ -427,12 +423,16 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "NOVA",
-      "matches": 4
+      "keyword": "UFO",
+      "matches": 3
     },
     {
       "keyword": "MS NOW",
-      "matches": 9
+      "matches": 8
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 4
     },
     {
       "keyword": "Real Stories",
@@ -441,10 +441,6 @@
     {
       "keyword": "Last Week Tonight",
       "matches": 8
-    },
-    {
-      "keyword": "UFO",
-      "matches": 2
     },
     {
       "keyword": "The Daily Show",
@@ -457,10 +453,6 @@
     {
       "keyword": "Louis Rossmann",
       "matches": 7
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 2
     },
     {
       "keyword": "Last Week Tonight, AI",
@@ -513,212 +505,180 @@
   ],
   "mostViral48h": [
     {
-      "title": "Fauci Takes the 5th Amendment While MAGA Cracks His Diary Open & Calls Him Hitler | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "14j9b34VCJI",
-      "viewsPerHour": 35817,
-      "views": 1658037,
-      "ageHours": 46.3
-    },
-    {
       "title": "Jon Stewart Critiques Trump's WHCD Set & Klepper Eyes Fauci's Explosive Diary | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "6f7ubobdr_I",
-      "viewsPerHour": 26405,
-      "views": 298542,
-      "ageHours": 11.3
+      "viewsPerHour": 22388,
+      "views": 431967,
+      "ageHours": 19.3
+    },
+    {
+      "title": "Truly SHOCKING' Watch MS NOW's INSTANT REACTION to DOJ nixing Reflecting Pool case",
+      "channel": "MS NOW",
+      "videoId": "EzRYijL7OYo",
+      "viewsPerHour": 7625,
+      "views": 70868,
+      "ageHours": 9.3
     },
     {
       "title": "Who's the Greatest American of All Time, and Why Is It John Stamos? Kosta Finds Out | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "0zybOrEU8-g",
-      "viewsPerHour": 4595,
-      "views": 169375,
-      "ageHours": 36.9
+      "viewsPerHour": 3992,
+      "views": 179053,
+      "ageHours": 44.9
+    },
+    {
+      "title": "The World's Most Active UFO Hotspot? (S20, E9) | Ancient Aliens | Full Episode",
+      "channel": "History",
+      "videoId": "hmM3tqiD9pY",
+      "viewsPerHour": 3383,
+      "views": 28054,
+      "ageHours": 8.3
     },
     {
       "title": "Diamond-encrusted ring becomes new symbol of Trump's corruption",
       "channel": "MS NOW",
       "videoId": "oY5w09y2H0k",
-      "viewsPerHour": 2980,
+      "viewsPerHour": 2101,
       "views": 56893,
-      "ageHours": 19.1
+      "ageHours": 27.1
     },
     {
       "title": "Trump HUMILIATED by stunning admission as pool case collapses",
       "channel": "MS NOW",
       "videoId": "Cs8twzRUHlI",
-      "viewsPerHour": 2452,
+      "viewsPerHour": 1730,
       "views": 46911,
-      "ageHours": 19.1
-    },
-    {
-      "title": "PBS News Hour full episode, July 31, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "-C1_E1NWxFk",
-      "viewsPerHour": 1904,
-      "views": 46595,
-      "ageHours": 24.5
-    },
-    {
-      "title": "Theo Baker - Investigating Power & Influence at Stanford | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "fyt0pImMtiI",
-      "viewsPerHour": 1715,
-      "views": 76805,
-      "ageHours": 44.8
-    },
-    {
-      "title": "Immigration Nation.",
-      "channel": "Jonathan Pie",
-      "videoId": "QGwYGhPOo7s",
-      "viewsPerHour": 1632,
-      "views": 19819,
-      "ageHours": 12.1
-    },
-    {
-      "title": "McConnell’s Senate absence is ‘prime example’ of why Congress needs term limits: Marine Corps Vet",
-      "channel": "MS NOW",
-      "videoId": "cyGizXM8eUw",
-      "viewsPerHour": 1526,
-      "views": 5508,
-      "ageHours": 3.6
+      "ageHours": 27.1
     },
     {
       "title": "Rocket Experiment Uncovers Mysterious Light (S4) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "DWK2cARAe8w",
-      "viewsPerHour": 1359,
-      "views": 39824,
-      "ageHours": 29.3
+      "viewsPerHour": 1153,
+      "views": 42981,
+      "ageHours": 37.3
+    },
+    {
+      "title": "Immigration Nation.",
+      "channel": "Jonathan Pie",
+      "videoId": "QGwYGhPOo7s",
+      "viewsPerHour": 1127,
+      "views": 22693,
+      "ageHours": 20.1
     },
     {
       "title": "The Puerto Rico UFO Mystery (S18) | Ancient Aliens",
       "channel": "History",
       "videoId": "wlQoA65oMVs",
-      "viewsPerHour": 1170,
-      "views": 9714,
-      "ageHours": 8.3
+      "viewsPerHour": 1033,
+      "views": 16832,
+      "ageHours": 16.3
     },
     {
       "title": "Every Major Gold Discovery | The Curse of Oak Island",
       "channel": "History",
       "videoId": "ggia8I2RU0s",
-      "viewsPerHour": 1156,
-      "views": 37344,
-      "ageHours": 32.3
+      "viewsPerHour": 1016,
+      "views": 40931,
+      "ageHours": 40.3
     },
     {
       "title": "Petty grievance blinds Trump to Iran threat as he accuses Minnesota of hacking itself",
       "channel": "MS NOW",
       "videoId": "14VjVadNvQo",
-      "viewsPerHour": 1095,
+      "viewsPerHour": 770,
       "views": 20738,
-      "ageHours": 18.9
-    },
-    {
-      "title": "Are GOP state officials standing up to Trump? Colorado Secy. of State confirms some are resisting",
-      "channel": "MS NOW",
-      "videoId": "4B7QS-GpwNA",
-      "viewsPerHour": 774,
-      "views": 2934,
-      "ageHours": 3.8
+      "ageHours": 26.9
     },
     {
       "title": "The Secret Gold Connection (S3, E6) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "WLua2Ng85dM",
-      "viewsPerHour": 669,
-      "views": 1540,
-      "ageHours": 2.3
-    },
-    {
-      "title": "S9 E21: Alaska Primaries 2022 & Carbon Offsets: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "vhjWNIhOm6s",
-      "viewsPerHour": 593,
-      "views": 4924,
-      "ageHours": 8.3
+      "viewsPerHour": 720,
+      "views": 7410,
+      "ageHours": 10.3
     },
     {
       "title": "S9 E20: Afghanistan Update & AI Images: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "ME7AUUSlnmo",
-      "viewsPerHour": 588,
-      "views": 18980,
-      "ageHours": 32.3
+      "viewsPerHour": 497,
+      "views": 20034,
+      "ageHours": 40.3
     },
     {
-      "title": "DOJ veteran TORCHES Trump team admitting Reflecting Pool likely wasn't damaged by 'Deranged Vandals'",
+      "title": "McConnell’s Senate absence is ‘prime example’ of why Congress needs term limits: Marine Corps Vet",
       "channel": "MS NOW",
-      "videoId": "HPB_JXAunjY",
-      "viewsPerHour": 561,
-      "views": 11396,
-      "ageHours": 20.3
+      "videoId": "cyGizXM8eUw",
+      "viewsPerHour": 475,
+      "views": 5508,
+      "ageHours": 11.6
+    },
+    {
+      "title": "S9 E21: Alaska Primaries 2022 & Carbon Offsets: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "vhjWNIhOm6s",
+      "viewsPerHour": 465,
+      "views": 7577,
+      "ageHours": 16.3
     },
     {
       "title": "Own Your Shit Tour: Spokane, WA",
       "channel": "Louis Rossmann",
       "videoId": "a_79shSq2-k",
-      "viewsPerHour": 412,
+      "viewsPerHour": 292,
       "views": 8028,
-      "ageHours": 19.5
+      "ageHours": 27.5
+    },
+    {
+      "title": "Are GOP state officials standing up to Trump? Colorado Secy. of State confirms some are resisting",
+      "channel": "MS NOW",
+      "videoId": "4B7QS-GpwNA",
+      "viewsPerHour": 249,
+      "views": 2934,
+      "ageHours": 11.8
     },
     {
       "title": "‘Textbook definition of abuse of power’: New filings detail Trump’s relentless pursuit of Comey",
       "channel": "MS NOW",
       "videoId": "4RxP8lzRJZ4",
-      "viewsPerHour": 403,
+      "viewsPerHour": 218,
       "views": 3796,
-      "ageHours": 9.4
-    },
-    {
-      "title": "Transition' the anger Americans are feeling into 'something real’: Highlights from DSA conference",
-      "channel": "MS NOW",
-      "videoId": "76Ae-FCjdDo",
-      "viewsPerHour": 221,
-      "views": 2077,
-      "ageHours": 9.4
+      "ageHours": 17.4
     },
     {
       "title": "Inside Uganda: Reporting the Truth Can Get You Killed",
       "channel": "Real Stories",
       "videoId": "syAVgUjFv7Y",
-      "viewsPerHour": 195,
-      "views": 1614,
-      "ageHours": 8.3
+      "viewsPerHour": 141,
+      "views": 2302,
+      "ageHours": 16.3
     },
     {
-      "title": "Why states want to change 'Sell By' labels on food",
-      "channel": "PBS NewsHour",
-      "videoId": "1wlBK61Py90",
-      "viewsPerHour": 147,
-      "views": 3632,
-      "ageHours": 24.8
+      "title": "Transition' the anger Americans are feeling into 'something real’: Highlights from DSA conference",
+      "channel": "MS NOW",
+      "videoId": "76Ae-FCjdDo",
+      "viewsPerHour": 119,
+      "views": 2077,
+      "ageHours": 17.4
     },
     {
       "title": "Conan Was \"Shocked And Stunned\" By His First Episode Of \"Love Island\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Q4ioqEtog0s",
-      "viewsPerHour": 119,
+      "viewsPerHour": 96,
       "views": 3955,
-      "ageHours": 33.3
+      "ageHours": 41.3
     },
     {
       "title": "Is \"The Odyssey\" Christopher Nolan's Best Film? | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "L6iWennUeAo",
-      "viewsPerHour": 91,
+      "viewsPerHour": 75,
       "views": 3320,
-      "ageHours": 36.3
-    },
-    {
-      "title": "Modern-day poll tax': NC A&T students FIGHT GOP voting restrictions",
-      "channel": "MS NOW",
-      "videoId": "weRtl-WtkvA",
-      "viewsPerHour": 39,
-      "views": 791,
-      "ageHours": 20.2
+      "ageHours": 44.3
     }
   ]
 }
