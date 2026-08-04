@@ -1,16 +1,24 @@
 {
   "videosPerChannel": [
     {
-      "channel": "Last Week Tonight",
-      "count": 19
+      "channel": "PBS NewsHour",
+      "count": 5
     },
     {
       "channel": "MS NOW",
-      "count": 8
+      "count": 7
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 2
+      "channel": "Louis Rossmann",
+      "count": 19
+    },
+    {
+      "channel": "History",
+      "count": 29
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 19
     },
     {
       "channel": "The Daily Show",
@@ -25,20 +33,12 @@
       "count": 3
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 19
-    },
-    {
       "channel": "The Rest Is Science",
-      "count": 5
+      "count": 4
     },
     {
       "channel": "Real Stories",
-      "count": 38
-    },
-    {
-      "channel": "History",
-      "count": 28
+      "count": 37
     },
     {
       "channel": "Jonathan Pie",
@@ -79,16 +79,24 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "Last Week Tonight",
-      "count": 18
+      "keyword": "PBS NewsHour",
+      "count": 5
     },
     {
       "keyword": "MS NOW",
-      "count": 8
+      "count": 7
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 2
+      "keyword": "Louis Rossmann",
+      "count": 17
+    },
+    {
+      "keyword": "UFO",
+      "count": 19
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 18
     },
     {
       "keyword": "The Daily Show",
@@ -103,24 +111,16 @@
       "count": 8
     },
     {
-      "keyword": "Louis Rossmann",
-      "count": 17
-    },
-    {
       "keyword": "The Rest Is Science",
-      "count": 5
+      "count": 4
     },
     {
       "keyword": "Real Stories, Louis Theroux",
-      "count": 17
+      "count": 16
     },
     {
       "keyword": "NOVA",
       "count": 20
-    },
-    {
-      "keyword": "UFO",
-      "count": 18
     },
     {
       "keyword": "Real Stories",
@@ -206,11 +206,11 @@
   "dailySummary": [
     {
       "date": "2026-08-03",
-      "videos": 15
+      "videos": 21
     },
     {
       "date": "2026-08-02",
-      "videos": 8
+      "videos": 6
     },
     {
       "date": "2026-08-01",
@@ -266,7 +266,7 @@
     },
     {
       "date": "2026-07-19",
-      "videos": 5
+      "videos": 3
     },
     {
       "date": "2026-07-18",
@@ -421,26 +421,30 @@
       "videos": 2
     },
     {
-      "date": "2026-06-04",
-      "videos": 1
-    },
-    {
       "date": "2026-04-09",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "Last Week Tonight",
-      "matches": 8
+      "keyword": "PBS NewsHour",
+      "matches": 5
     },
     {
       "keyword": "MS NOW",
+      "matches": 7
+    },
+    {
+      "keyword": "Louis Rossmann",
       "matches": 8
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 2
+      "keyword": "UFO",
+      "matches": 5
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 8
     },
     {
       "keyword": "The Daily Show",
@@ -455,10 +459,6 @@
       "matches": 3
     },
     {
-      "keyword": "Louis Rossmann",
-      "matches": 7
-    },
-    {
       "keyword": "The Rest Is Science",
       "matches": 2
     },
@@ -468,10 +468,6 @@
     },
     {
       "keyword": "NOVA",
-      "matches": 4
-    },
-    {
-      "keyword": "UFO",
       "matches": 4
     },
     {
@@ -500,7 +496,7 @@
     },
     {
       "keyword": "The Daily Show, AI",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "UFO, UAP",
@@ -516,177 +512,201 @@
       "title": "Police Surveillance Technology: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "lnBPhelCdWE",
-      "viewsPerHour": 55955,
-      "views": 884641,
-      "ageHours": 15.8
+      "viewsPerHour": 55570,
+      "views": 988843,
+      "ageHours": 17.8
     },
     {
       "title": "2028 Presidential Frontrunner: The Iran War Was A DISTRACTION From The Epstein Files!",
       "channel": "Diary of a CEO",
       "videoId": "mF6uk7UOHBM",
-      "viewsPerHour": 21878,
-      "views": 334914,
-      "ageHours": 15.3
+      "viewsPerHour": 22001,
+      "views": 380456,
+      "ageHours": 17.3
     },
     {
       "title": "S13 E19: Cyclospora & Police Surveillance Technology: 8/2/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "wagYax-0yJI",
-      "viewsPerHour": 15893,
-      "views": 306783,
-      "ageHours": 19.3
+      "viewsPerHour": 15400,
+      "views": 327824,
+      "ageHours": 21.3
     },
     {
       "title": "Why Lithium Batteries SUCK",
       "channel": "The Rest Is Science",
       "videoId": "UIdDrYbfUwg",
-      "viewsPerHour": 7184,
-      "views": 181857,
-      "ageHours": 25.3
+      "viewsPerHour": 7037,
+      "views": 192082,
+      "ageHours": 27.3
     },
     {
       "title": "Louis Theroux: The Battle Inside Adult Anorexia Wards",
       "channel": "Real Stories",
       "videoId": "zo8Qx_9ORto",
-      "viewsPerHour": 5786,
-      "views": 158029,
-      "ageHours": 27.3
+      "viewsPerHour": 5800,
+      "views": 169910,
+      "ageHours": 29.3
     },
     {
       "title": "30 F**king Years: Ronny Chieng & Jordan Klepper on Their Daily Show Journey | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "c_A9RgCRFGg",
-      "viewsPerHour": 4304,
-      "views": 40060,
-      "ageHours": 9.3
+      "viewsPerHour": 4122,
+      "views": 46549,
+      "ageHours": 11.3
+    },
+    {
+      "title": "Air Force Encounters with the Unknown | Ancient Aliens",
+      "channel": "History",
+      "videoId": "bK511r9MtKo",
+      "viewsPerHour": 2660,
+      "views": 16745,
+      "ageHours": 6.3
     },
     {
       "title": "BLANCHE REVERSAL: ends $1.776B fund and clarifies Trump tax deal",
       "channel": "MS NOW",
       "videoId": "ilpxindv8ek",
-      "viewsPerHour": 2140,
+      "viewsPerHour": 1847,
       "views": 26830,
-      "ageHours": 12.5
-    },
-    {
-      "title": "The World's Most Active UFO Hotspot? (S20, E9) | Ancient Aliens | Full Episode",
-      "channel": "History",
-      "videoId": "hmM3tqiD9pY",
-      "viewsPerHour": 2132,
-      "views": 98723,
-      "ageHours": 46.3
-    },
-    {
-      "title": "Trump's approval PLUNGES: How the Iran war is 'EATING his presidency'",
-      "channel": "MS NOW",
-      "videoId": "GRiTNn_HB7E",
-      "viewsPerHour": 2037,
-      "views": 14655,
-      "ageHours": 7.2
+      "ageHours": 14.5
     },
     {
       "title": "Ice Cube (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "e1WM_JEmP-Q",
-      "viewsPerHour": 2011,
+      "viewsPerHour": 1710,
       "views": 22731,
-      "ageHours": 11.3
+      "ageHours": 13.3
+    },
+    {
+      "title": "Trump's approval PLUNGES: How the Iran war is 'EATING his presidency'",
+      "channel": "MS NOW",
+      "videoId": "GRiTNn_HB7E",
+      "viewsPerHour": 1596,
+      "views": 14655,
+      "ageHours": 9.2
     },
     {
       "title": "Dont watch new Spiderman movies: join me in protest. ",
       "channel": "Louis Rossmann",
       "videoId": "BJtVLNl42Ds",
-      "viewsPerHour": 1543,
+      "viewsPerHour": 1443,
       "views": 44494,
-      "ageHours": 28.8
+      "ageHours": 30.8
+    },
+    {
+      "title": "PBS News Hour live episode, August 3, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "OE2z7rZ4ZDo",
+      "viewsPerHour": 1312,
+      "views": 4256,
+      "ageHours": 3.2
+    },
+    {
+      "title": "Some channel updates, brainstorming database for intrusive ads",
+      "channel": "Louis Rossmann",
+      "videoId": "ARuZExgmxTo",
+      "viewsPerHour": 1086,
+      "views": 4172,
+      "ageHours": 3.8
     },
     {
       "title": "BREAKING: Cornyn, Tillis: Look forward to voting to advance Blanche",
       "channel": "MS NOW",
       "videoId": "5Kv_AJChHkc",
-      "viewsPerHour": 1291,
+      "viewsPerHour": 1006,
       "views": 9029,
-      "ageHours": 7
-    },
-    {
-      "title": "Progressives vs. Moderates: Why Michigan's Senate primary may be the Dems 'biggest test yet'",
-      "channel": "MS NOW",
-      "videoId": "Pb_X01aAN_E",
-      "viewsPerHour": 686,
-      "views": 4714,
-      "ageHours": 6.9
-    },
-    {
-      "title": "BIGGEST Spike Discoveries | The Curse of Oak Island",
-      "channel": "History",
-      "videoId": "8HOHrJBOvl4",
-      "viewsPerHour": 655,
-      "views": 18550,
-      "ageHours": 28.3
+      "ageHours": 9
     },
     {
       "title": "S9 E23: DeSantis, Puerto Rico & Bolsonaro: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "u6CpbUohKyg",
-      "viewsPerHour": 641,
-      "views": 4046,
-      "ageHours": 6.3
+      "viewsPerHour": 666,
+      "views": 5522,
+      "ageHours": 8.3
+    },
+    {
+      "title": "BIGGEST Spike Discoveries | The Curse of Oak Island",
+      "channel": "History",
+      "videoId": "8HOHrJBOvl4",
+      "viewsPerHour": 623,
+      "views": 18868,
+      "ageHours": 30.3
+    },
+    {
+      "title": "Progressives vs. Moderates: Why Michigan's Senate primary may be the Dems 'biggest test yet'",
+      "channel": "MS NOW",
+      "videoId": "Pb_X01aAN_E",
+      "viewsPerHour": 532,
+      "views": 4714,
+      "ageHours": 8.9
     },
     {
       "title": "S9 E22: Law & Order, Queen Elizabeth & Liz Truss: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "w0Vwq8kbDFA",
-      "viewsPerHour": 523,
-      "views": 15839,
-      "ageHours": 30.3
+      "viewsPerHour": 495,
+      "views": 15973,
+      "ageHours": 32.3
     },
     {
       "title": "MS NOW Highlights - August 2",
       "channel": "MS NOW",
       "videoId": "FZTHtZpTQak",
-      "viewsPerHour": 501,
+      "viewsPerHour": 460,
       "views": 11174,
-      "ageHours": 22.3
+      "ageHours": 24.3
+    },
+    {
+      "title": "‘I thought of Alex Pretti’: Nurse files federal claim alleging ICE agents attacked her",
+      "channel": "MS NOW",
+      "videoId": "VjsUkPJeaKM",
+      "viewsPerHour": 173,
+      "views": 276,
+      "ageHours": 1.6
     },
     {
       "title": "WATCH LIVE: NASA holds news conference on upcoming crew rotation to International Space Station",
       "channel": "PBS NewsHour",
       "videoId": "dY40H9r4qpE",
-      "viewsPerHour": 145,
+      "viewsPerHour": 118,
       "views": 1252,
-      "ageHours": 8.6
+      "ageHours": 10.6
+    },
+    {
+      "title": "News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak",
+      "channel": "PBS NewsHour",
+      "videoId": "qgpldJdZOug",
+      "viewsPerHour": 110,
+      "views": 179,
+      "ageHours": 1.6
     },
     {
       "title": "Colorado Rep Titone; pro ownership politician ",
       "channel": "Louis Rossmann",
       "videoId": "OI2ZogP8KzA",
-      "viewsPerHour": 120,
+      "viewsPerHour": 109,
       "views": 2322,
-      "ageHours": 19.4
-    },
-    {
-      "title": "GOP Rep. Miller denies allegations of domestic abuse of ex-wife, daughter",
-      "channel": "MS NOW",
-      "videoId": "74-FziFgTys",
-      "viewsPerHour": 107,
-      "views": 2683,
-      "ageHours": 25
-    },
-    {
-      "title": "‘Overt CORRUPTION!’: Fmr. FBI official on Trump selling early access to social media posts",
-      "channel": "MS NOW",
-      "videoId": "t9uyYcbAoSg",
-      "viewsPerHour": 96,
-      "views": 2404,
-      "ageHours": 25
+      "ageHours": 21.4
     },
     {
       "title": "Brian Driscoll on the Hollowing Out of the FBI: \"It's Devastating\"",
       "channel": "MS NOW",
       "videoId": "xUGvxtCYjkE",
-      "viewsPerHour": 62,
+      "viewsPerHour": 54,
       "views": 827,
-      "ageHours": 13.3
+      "ageHours": 15.3
+    },
+    {
+      "title": "What we know about the cyberattacks on water systems in 7 states",
+      "channel": "PBS NewsHour",
+      "videoId": "4cqSk0EGH10",
+      "viewsPerHour": 27,
+      "views": 40,
+      "ageHours": 1.5
     },
     {
       "title": "WATCH LIVE: Trump expected to sign executive order at the White House",
@@ -694,7 +714,7 @@
       "videoId": "kY7BuVCLIoU",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 7.6
+      "ageHours": 9.5
     }
   ]
 }
