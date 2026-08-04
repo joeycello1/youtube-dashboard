@@ -448,7 +448,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "The Daily Show",
@@ -512,225 +512,217 @@
       "title": "Police Surveillance Technology: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "lnBPhelCdWE",
-      "viewsPerHour": 45596,
-      "views": 1450022,
-      "ageHours": 31.8
+      "viewsPerHour": 44211,
+      "views": 1494476,
+      "ageHours": 33.8
     },
     {
       "title": "2028 Presidential Frontrunner: The Iran War Was A DISTRACTION From The Epstein Files!",
       "channel": "Diary of a CEO",
       "videoId": "mF6uk7UOHBM",
-      "viewsPerHour": 17020,
-      "views": 532720,
-      "ageHours": 31.3
+      "viewsPerHour": 16498,
+      "views": 549399,
+      "ageHours": 33.3
     },
     {
       "title": "S13 E19: Cyclospora & Police Surveillance Technology: 8/2/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "wagYax-0yJI",
-      "viewsPerHour": 10840,
-      "views": 382596,
-      "ageHours": 35.3
-    },
-    {
-      "title": "PBS News Hour full episode, August 3, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "Pnokh7Ahg_4",
-      "viewsPerHour": 6149,
-      "views": 89661,
-      "ageHours": 14.6
+      "viewsPerHour": 10474,
+      "views": 390640,
+      "ageHours": 37.3
     },
     {
       "title": "Why Lithium Batteries SUCK",
       "channel": "The Rest Is Science",
       "videoId": "UIdDrYbfUwg",
-      "viewsPerHour": 5662,
-      "views": 233850,
-      "ageHours": 41.3
+      "viewsPerHour": 5525,
+      "views": 239246,
+      "ageHours": 43.3
+    },
+    {
+      "title": "PBS News Hour full episode, August 3, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "Pnokh7Ahg_4",
+      "viewsPerHour": 5407,
+      "views": 89661,
+      "ageHours": 16.6
     },
     {
       "title": "Louis Theroux: The Battle Inside Adult Anorexia Wards",
       "channel": "Real Stories",
       "videoId": "zo8Qx_9ORto",
-      "viewsPerHour": 5324,
-      "views": 230526,
-      "ageHours": 43.3
+      "viewsPerHour": 5164,
+      "views": 233966,
+      "ageHours": 45.3
     },
     {
       "title": "Tamara Keith and Amy Walter on Democratic primary voters not playing it safe",
       "channel": "PBS NewsHour",
       "videoId": "rVo3PEOe4o0",
-      "viewsPerHour": 4533,
+      "viewsPerHour": 3991,
       "views": 66825,
-      "ageHours": 14.7
+      "ageHours": 16.7
     },
     {
       "title": "30 F**king Years: Ronny Chieng & Jordan Klepper on Their Daily Show Journey | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "c_A9RgCRFGg",
-      "viewsPerHour": 3806,
-      "views": 96301,
-      "ageHours": 25.3
+      "viewsPerHour": 3736,
+      "views": 101983,
+      "ageHours": 27.3
     },
     {
       "title": "Trump says new talks are Iran's 'last chance' to make deal 'before decapitation'",
       "channel": "PBS NewsHour",
       "videoId": "7E7wABscg9A",
-      "viewsPerHour": 3592,
+      "viewsPerHour": 3168,
       "views": 53764,
-      "ageHours": 15
+      "ageHours": 17
     },
     {
       "title": "Air Force Encounters with the Unknown | Ancient Aliens",
       "channel": "History",
       "videoId": "bK511r9MtKo",
-      "viewsPerHour": 3100,
-      "views": 62934,
-      "ageHours": 20.3
+      "viewsPerHour": 3014,
+      "views": 67219,
+      "ageHours": 22.3
     },
     {
       "title": "Staffing your administration with people from TV turns out to be a bad idea",
       "channel": "MS NOW",
       "videoId": "bByIN81-xiI",
-      "viewsPerHour": 2602,
+      "viewsPerHour": 2026,
       "views": 18315,
-      "ageHours": 7
+      "ageHours": 9
     },
     {
       "title": "Dont watch new Spiderman movies: join me in protest. ",
       "channel": "Louis Rossmann",
       "videoId": "BJtVLNl42Ds",
-      "viewsPerHour": 992,
+      "viewsPerHour": 950,
       "views": 44494,
-      "ageHours": 44.8
+      "ageHours": 46.8
     },
     {
       "title": "Ice Cube (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "e1WM_JEmP-Q",
-      "viewsPerHour": 833,
+      "viewsPerHour": 776,
       "views": 22731,
-      "ageHours": 27.3
+      "ageHours": 29.3
     },
     {
       "title": "Trump's approval PLUNGES: How the Iran war is 'EATING his presidency'",
       "channel": "MS NOW",
       "videoId": "GRiTNn_HB7E",
-      "viewsPerHour": 632,
+      "viewsPerHour": 582,
       "views": 14655,
-      "ageHours": 23.2
+      "ageHours": 25.2
     },
     {
       "title": "S9 E23: DeSantis, Puerto Rico & Bolsonaro: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "u6CpbUohKyg",
-      "viewsPerHour": 559,
-      "views": 12476,
-      "ageHours": 22.3
+      "viewsPerHour": 555,
+      "views": 13477,
+      "ageHours": 24.3
     },
     {
       "title": "BIGGEST Spike Discoveries | The Curse of Oak Island",
       "channel": "History",
       "videoId": "8HOHrJBOvl4",
-      "viewsPerHour": 452,
-      "views": 20013,
-      "ageHours": 44.3
-    },
-    {
-      "title": "Why Todd Blanche may NOT have actually killed the $1.776B fund",
-      "channel": "MS NOW",
-      "videoId": "ZuSFDRkaFNw",
-      "viewsPerHour": 442,
-      "views": 1730,
-      "ageHours": 3.9
+      "viewsPerHour": 435,
+      "views": 20143,
+      "ageHours": 46.3
     },
     {
       "title": "BREAKING: Cornyn, Tillis: Look forward to voting to advance Blanche",
       "channel": "MS NOW",
       "videoId": "5Kv_AJChHkc",
-      "viewsPerHour": 393,
+      "viewsPerHour": 361,
       "views": 9029,
-      "ageHours": 23
+      "ageHours": 25
     },
     {
-      "title": "S9 E22: Law & Order, Queen Elizabeth & Liz Truss: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "w0Vwq8kbDFA",
-      "viewsPerHour": 355,
-      "views": 16460,
-      "ageHours": 46.3
-    },
-    {
-      "title": "The Rachel Maddow Show - Aug. 3 | Audio Only",
+      "title": "Why Todd Blanche may NOT have actually killed the $1.776B fund",
       "channel": "MS NOW",
-      "videoId": "CZCUrZE44bg",
-      "viewsPerHour": 322,
-      "views": 1385,
-      "ageHours": 4.3
+      "videoId": "ZuSFDRkaFNw",
+      "viewsPerHour": 292,
+      "views": 1730,
+      "ageHours": 5.9
     },
     {
       "title": "PBS News Hour live episode, August 3, 2026",
       "channel": "PBS NewsHour",
       "videoId": "OE2z7rZ4ZDo",
-      "viewsPerHour": 247,
+      "viewsPerHour": 221,
       "views": 4256,
-      "ageHours": 17.3
+      "ageHours": 19.3
+    },
+    {
+      "title": "The Rachel Maddow Show - Aug. 3 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "CZCUrZE44bg",
+      "viewsPerHour": 220,
+      "views": 1385,
+      "ageHours": 6.3
     },
     {
       "title": "Some channel updates, brainstorming database for intrusive ads",
       "channel": "Louis Rossmann",
       "videoId": "ARuZExgmxTo",
-      "viewsPerHour": 234,
+      "viewsPerHour": 210,
       "views": 4172,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "Progressives vs. Moderates: Why Michigan's Senate primary may be the Dems 'biggest test yet'",
       "channel": "MS NOW",
       "videoId": "Pb_X01aAN_E",
-      "viewsPerHour": 206,
+      "viewsPerHour": 190,
       "views": 4714,
-      "ageHours": 22.9
+      "ageHours": 24.9
     },
     {
       "title": "Colorado Rep Titone; pro ownership politician ",
       "channel": "Louis Rossmann",
       "videoId": "OI2ZogP8KzA",
-      "viewsPerHour": 66,
+      "viewsPerHour": 62,
       "views": 2322,
-      "ageHours": 35.4
+      "ageHours": 37.4
     },
     {
       "title": "WATCH LIVE: NASA holds news conference on upcoming crew rotation to International Space Station",
       "channel": "PBS NewsHour",
       "videoId": "dY40H9r4qpE",
-      "viewsPerHour": 51,
+      "viewsPerHour": 47,
       "views": 1252,
-      "ageHours": 24.6
+      "ageHours": 26.6
     },
     {
       "title": "‘I thought of Alex Pretti’: Nurse files federal claim alleging ICE agents attacked her",
       "channel": "MS NOW",
       "videoId": "VjsUkPJeaKM",
-      "viewsPerHour": 18,
+      "viewsPerHour": 16,
       "views": 276,
-      "ageHours": 15.6
+      "ageHours": 17.6
     },
     {
       "title": "News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak",
       "channel": "PBS NewsHour",
       "videoId": "qgpldJdZOug",
-      "viewsPerHour": 11,
+      "viewsPerHour": 10,
       "views": 179,
-      "ageHours": 15.6
+      "ageHours": 17.6
     },
     {
       "title": "What we know about the cyberattacks on water systems in 7 states",
       "channel": "PBS NewsHour",
       "videoId": "4cqSk0EGH10",
-      "viewsPerHour": 3,
+      "viewsPerHour": 2,
       "views": 40,
-      "ageHours": 15.5
+      "ageHours": 17.5
     },
     {
       "title": "WATCH LIVE: Trump expected to sign executive order at the White House",
@@ -738,7 +730,7 @@
       "videoId": "kY7BuVCLIoU",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 23.5
+      "ageHours": 25.5
     }
   ]
 }
