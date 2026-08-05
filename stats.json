@@ -6,7 +6,11 @@
     },
     {
       "channel": "MS NOW",
-      "count": 7
+      "count": 8
+    },
+    {
+      "channel": "NOVA",
+      "count": 12
     },
     {
       "channel": "Last Week Tonight",
@@ -26,7 +30,7 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 19
+      "count": 18
     },
     {
       "channel": "History",
@@ -47,10 +51,6 @@
     {
       "channel": "Jonathan Pie",
       "count": 8
-    },
-    {
-      "channel": "NOVA",
-      "count": 11
     },
     {
       "channel": "More Perfect Union",
@@ -79,16 +79,20 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "PBS NewsHour",
-      "count": 8
+      "keyword": "PBS NewsHour, AI",
+      "count": 3
     },
     {
-      "keyword": "PBS NewsHour, AI",
-      "count": 1
+      "keyword": "PBS NewsHour",
+      "count": 6
     },
     {
       "keyword": "MS NOW",
-      "count": 7
+      "count": 8
+    },
+    {
+      "keyword": "NOVA",
+      "count": 21
     },
     {
       "keyword": "Last Week Tonight",
@@ -108,7 +112,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 17
+      "count": 16
     },
     {
       "keyword": "UFO",
@@ -129,10 +133,6 @@
     {
       "keyword": "Real Stories, Louis Theroux",
       "count": 16
-    },
-    {
-      "keyword": "NOVA",
-      "count": 20
     },
     {
       "keyword": "Jonathan Pie",
@@ -210,11 +210,11 @@
   "dailySummary": [
     {
       "date": "2026-08-04",
-      "videos": 14
+      "videos": 20
     },
     {
       "date": "2026-08-03",
-      "videos": 16
+      "videos": 12
     },
     {
       "date": "2026-08-02",
@@ -267,10 +267,6 @@
     {
       "date": "2026-07-21",
       "videos": 6
-    },
-    {
-      "date": "2026-07-20",
-      "videos": 1
     },
     {
       "date": "2026-07-19",
@@ -431,16 +427,20 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
-      "matches": 8
+      "keyword": "PBS NewsHour, AI",
+      "matches": 3
     },
     {
-      "keyword": "PBS NewsHour, AI",
-      "matches": 1
+      "keyword": "PBS NewsHour",
+      "matches": 6
     },
     {
       "keyword": "MS NOW",
-      "matches": 7
+      "matches": 8
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 4
     },
     {
       "keyword": "Last Week Tonight",
@@ -483,10 +483,6 @@
       "matches": 2
     },
     {
-      "keyword": "NOVA",
-      "matches": 3
-    },
-    {
       "keyword": "Jonathan Pie",
       "matches": 1
     },
@@ -516,225 +512,241 @@
       "title": "Police Surveillance Technology: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "lnBPhelCdWE",
-      "viewsPerHour": 41504,
-      "views": 1651436,
-      "ageHours": 39.8
+      "viewsPerHour": 40568,
+      "views": 1695672,
+      "ageHours": 41.8
     },
     {
       "title": "2028 Presidential Frontrunner: The Iran War Was A DISTRACTION From The Epstein Files!",
       "channel": "Diary of a CEO",
       "videoId": "mF6uk7UOHBM",
-      "viewsPerHour": 15444,
-      "views": 606758,
-      "ageHours": 39.3
+      "viewsPerHour": 15145,
+      "views": 625454,
+      "ageHours": 41.3
+    },
+    {
+      "title": "Not looking good: Trump's UNHINGED decisions SINKING GOP's election hopes as voters SPOOKED away",
+      "channel": "MS NOW",
+      "videoId": "UwRmS4BQVOA",
+      "viewsPerHour": 10685,
+      "views": 27846,
+      "ageHours": 2.6
     },
     {
       "title": "S13 E19: Cyclospora & Police Surveillance Technology: 8/2/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "wagYax-0yJI",
-      "viewsPerHour": 9604,
-      "views": 415693,
-      "ageHours": 43.3
+      "viewsPerHour": 9331,
+      "views": 422612,
+      "ageHours": 45.3
     },
     {
       "title": "UFO Contact: The CIA, NASA, and the Vatican Came Looking For Him | Chris Bledsoe",
       "channel": "Mayim Bialik",
       "videoId": "D6XhtIfNiyo",
-      "viewsPerHour": 7043,
-      "views": 79476,
-      "ageHours": 11.3
+      "viewsPerHour": 7441,
+      "views": 98907,
+      "ageHours": 13.3
     },
     {
       "title": "PBS News Hour full episode, August 3, 2026",
       "channel": "PBS NewsHour",
       "videoId": "Pnokh7Ahg_4",
-      "viewsPerHour": 3972,
+      "viewsPerHour": 3648,
       "views": 89661,
-      "ageHours": 22.6
+      "ageHours": 24.6
     },
     {
       "title": "30 F**king Years: Ronny Chieng & Jordan Klepper on Their Daily Show Journey | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "c_A9RgCRFGg",
-      "viewsPerHour": 3476,
-      "views": 115722,
-      "ageHours": 33.3
-    },
-    {
-      "title": "Tamara Keith and Amy Walter on Democratic primary voters not playing it safe",
-      "channel": "PBS NewsHour",
-      "videoId": "rVo3PEOe4o0",
-      "viewsPerHour": 2940,
-      "views": 66825,
-      "ageHours": 22.7
+      "viewsPerHour": 3392,
+      "views": 119736,
+      "ageHours": 35.3
     },
     {
       "title": "Air Force Encounters with the Unknown | Ancient Aliens",
       "channel": "History",
       "videoId": "bK511r9MtKo",
-      "viewsPerHour": 2804,
-      "views": 79314,
-      "ageHours": 28.3
+      "viewsPerHour": 2783,
+      "views": 84319,
+      "ageHours": 30.3
+    },
+    {
+      "title": "Tamara Keith and Amy Walter on Democratic primary voters not playing it safe",
+      "channel": "PBS NewsHour",
+      "videoId": "rVo3PEOe4o0",
+      "viewsPerHour": 2701,
+      "views": 66825,
+      "ageHours": 24.7
     },
     {
       "title": "Trump says new talks are Iran's 'last chance' to make deal 'before decapitation'",
       "channel": "PBS NewsHour",
       "videoId": "7E7wABscg9A",
-      "viewsPerHour": 2342,
+      "viewsPerHour": 2154,
       "views": 53764,
-      "ageHours": 23
+      "ageHours": 25
     },
     {
-      "title": "INSTANT REACTION: Epstein survivor Danielle Bensky speaks out after Blanche vote",
-      "channel": "MS NOW",
-      "videoId": "b1Vm8QCVfAc",
-      "viewsPerHour": 1281,
-      "views": 8072,
-      "ageHours": 6.3
+      "title": "The Most Extreme Volcano on Earth? | NOVA | PBS",
+      "channel": "NOVA",
+      "videoId": "_bIxg1jRqI4",
+      "viewsPerHour": 1527,
+      "views": 9042,
+      "ageHours": 5.9
+    },
+    {
+      "title": "PBS News Hour live episode, August 4, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "8e4c3E4Hs_c",
+      "viewsPerHour": 1315,
+      "views": 4223,
+      "ageHours": 3.2
     },
     {
       "title": "Staffing your administration with people from TV turns out to be a bad idea",
       "channel": "MS NOW",
       "videoId": "bByIN81-xiI",
-      "viewsPerHour": 1219,
+      "viewsPerHour": 1075,
       "views": 18315,
-      "ageHours": 15
+      "ageHours": 17
     },
     {
       "title": "Conan Thinks He Got Scammed At The Eye Doctor | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "TKmML4aTi6o",
-      "viewsPerHour": 1199,
+      "viewsPerHour": 1003,
       "views": 12342,
-      "ageHours": 10.3
+      "ageHours": 12.3
+    },
+    {
+      "title": "INSTANT REACTION: Epstein survivor Danielle Bensky speaks out after Blanche vote",
+      "channel": "MS NOW",
+      "videoId": "b1Vm8QCVfAc",
+      "viewsPerHour": 971,
+      "views": 8072,
+      "ageHours": 8.3
+    },
+    {
+      "title": "Reflecting Pool case highlights disconnect between Trump's claims and court record",
+      "channel": "PBS NewsHour",
+      "videoId": "H1MrHIZ9x6Y",
+      "viewsPerHour": 884,
+      "views": 1541,
+      "ageHours": 1.7
     },
     {
       "title": "S9 E24: Liz Truss & Museums: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "oMEbXtaFVnE",
-      "viewsPerHour": 810,
-      "views": 5091,
-      "ageHours": 6.3
+      "viewsPerHour": 846,
+      "views": 7020,
+      "ageHours": 8.3
+    },
+    {
+      "title": "MS NOW Highlights - August 3",
+      "channel": "MS NOW",
+      "videoId": "4EBWfSIll8Y",
+      "viewsPerHour": 716,
+      "views": 2226,
+      "ageHours": 3.1
     },
     {
       "title": "Ice Cube (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "e1WM_JEmP-Q",
-      "viewsPerHour": 644,
+      "viewsPerHour": 610,
       "views": 22731,
-      "ageHours": 35.3
-    },
-    {
-      "title": "WATCH: Cornyn speaks to MS NOW after clearing Blanche's confirmation vote",
-      "channel": "MS NOW",
-      "videoId": "9XbXxU30lfA",
-      "viewsPerHour": 573,
-      "views": 3618,
-      "ageHours": 6.3
+      "ageHours": 37.3
     },
     {
       "title": "S9 E23: DeSantis, Puerto Rico & Bolsonaro: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "u6CpbUohKyg",
-      "viewsPerHour": 513,
-      "views": 15534,
-      "ageHours": 30.3
+      "viewsPerHour": 491,
+      "views": 15856,
+      "ageHours": 32.3
     },
     {
-      "title": "How Ice Cube & N.W.A Used An FBI Letter As Free Publicity | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "9vQhhxnG3tk",
-      "viewsPerHour": 246,
-      "views": 1790,
-      "ageHours": 7.3
+      "title": "WATCH: Cornyn speaks to MS NOW after clearing Blanche's confirmation vote",
+      "channel": "MS NOW",
+      "videoId": "9XbXxU30lfA",
+      "viewsPerHour": 435,
+      "views": 3618,
+      "ageHours": 8.3
     },
     {
       "title": "Putin's Young Patriots: Inside The Russian Town Raised To Hate The West",
       "channel": "Real Stories",
       "videoId": "u8F33zBDax0",
-      "viewsPerHour": 238,
-      "views": 1499,
-      "ageHours": 6.3
+      "viewsPerHour": 236,
+      "views": 1963,
+      "ageHours": 8.3
     },
     {
-      "title": "PBS News Hour live episode, August 3, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "OE2z7rZ4ZDo",
-      "viewsPerHour": 169,
-      "views": 4256,
-      "ageHours": 25.2
+      "title": "How Ice Cube & N.W.A Used An FBI Letter As Free Publicity | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "9vQhhxnG3tk",
+      "viewsPerHour": 193,
+      "views": 1790,
+      "ageHours": 9.3
     },
     {
       "title": "Some channel updates, brainstorming database for intrusive ads",
       "channel": "Louis Rossmann",
       "videoId": "ARuZExgmxTo",
-      "viewsPerHour": 161,
+      "viewsPerHour": 150,
       "views": 4172,
-      "ageHours": 25.8
+      "ageHours": 27.8
     },
     {
       "title": "Why Todd Blanche may NOT have actually killed the $1.776B fund",
       "channel": "MS NOW",
       "videoId": "ZuSFDRkaFNw",
-      "viewsPerHour": 145,
+      "viewsPerHour": 124,
       "views": 1730,
-      "ageHours": 11.9
-    },
-    {
-      "title": "Stunning': Whitehouse WARNS fund deal 'doesn't prevent' Jan 6ers from getting 'easy settlement'",
-      "channel": "MS NOW",
-      "videoId": "1v-6C8K8wcg",
-      "viewsPerHour": 118,
-      "views": 663,
-      "ageHours": 5.6
+      "ageHours": 13.9
     },
     {
       "title": "The Rachel Maddow Show - Aug. 3 | Audio Only",
       "channel": "MS NOW",
       "videoId": "CZCUrZE44bg",
-      "viewsPerHour": 113,
+      "viewsPerHour": 97,
       "views": 1385,
-      "ageHours": 12.3
+      "ageHours": 14.3
+    },
+    {
+      "title": "Stunning': Whitehouse WARNS fund deal 'doesn't prevent' Jan 6ers from getting 'easy settlement'",
+      "channel": "MS NOW",
+      "videoId": "1v-6C8K8wcg",
+      "viewsPerHour": 87,
+      "views": 663,
+      "ageHours": 7.6
     },
     {
       "title": "WATCH LIVE: Senate meets as lawmakers consider government funding, Russia sanctions",
       "channel": "PBS NewsHour",
       "videoId": "0KcQ2bUV_eQ",
-      "viewsPerHour": 77,
+      "viewsPerHour": 63,
       "views": 701,
-      "ageHours": 9.1
+      "ageHours": 11.2
     },
     {
       "title": "Colorado Rep Titone; pro ownership politician ",
       "channel": "Louis Rossmann",
       "videoId": "OI2ZogP8KzA",
-      "viewsPerHour": 54,
+      "viewsPerHour": 51,
       "views": 2322,
-      "ageHours": 43.3
+      "ageHours": 45.4
     },
     {
-      "title": "‘I thought of Alex Pretti’: Nurse files federal claim alleging ICE agents attacked her",
-      "channel": "MS NOW",
-      "videoId": "VjsUkPJeaKM",
-      "viewsPerHour": 12,
-      "views": 276,
-      "ageHours": 23.6
-    },
-    {
-      "title": "News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak",
+      "title": "How satellites and AI cameras are detecting wildfires before they get out of control",
       "channel": "PBS NewsHour",
-      "videoId": "qgpldJdZOug",
-      "viewsPerHour": 8,
-      "views": 179,
-      "ageHours": 23.6
-    },
-    {
-      "title": "What we know about the cyberattacks on water systems in 7 states",
-      "channel": "PBS NewsHour",
-      "videoId": "4cqSk0EGH10",
-      "viewsPerHour": 2,
-      "views": 40,
-      "ageHours": 23.5
+      "videoId": "izOWprkTqkA",
+      "viewsPerHour": 13,
+      "views": 20,
+      "ageHours": 1.5
     },
     {
       "title": "WATCH LIVE: Senate Democrats hold news conference as Blanche nomination clears committee",
@@ -742,7 +754,7 @@
       "videoId": "p9koUD65jyE",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 5.5
+      "ageHours": 7.5
     },
     {
       "title": "WATCH LIVE: Senate panel examines how AI surveillance pricing affects consumers",
@@ -750,7 +762,7 @@
       "videoId": "PKDPn1yBti0",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 5.5
+      "ageHours": 7.5
     }
   ]
 }
