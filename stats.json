@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "PBS NewsHour",
-      "count": 7
+      "count": 5
     },
     {
       "channel": "MS NOW",
@@ -42,7 +42,7 @@
     },
     {
       "channel": "The Daily Show",
-      "count": 10
+      "count": 7
     },
     {
       "channel": "Diary of a CEO",
@@ -80,7 +80,7 @@
   "keywordFrequency": [
     {
       "keyword": "PBS NewsHour",
-      "count": 6
+      "count": 5
     },
     {
       "keyword": "MS NOW",
@@ -107,10 +107,6 @@
       "count": 11
     },
     {
-      "keyword": "PBS NewsHour, AI",
-      "count": 1
-    },
-    {
       "keyword": "NOVA",
       "count": 21
     },
@@ -124,7 +120,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "count": 10
+      "count": 7
     },
     {
       "keyword": "AI",
@@ -210,7 +206,7 @@
     },
     {
       "date": "2026-08-04",
-      "videos": 8
+      "videos": 6
     },
     {
       "date": "2026-08-03",
@@ -230,7 +226,7 @@
     },
     {
       "date": "2026-07-30",
-      "videos": 11
+      "videos": 8
     },
     {
       "date": "2026-07-29",
@@ -424,7 +420,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "PBS NewsHour",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "MS NOW",
@@ -449,10 +445,6 @@
     {
       "keyword": "Conan O'Brien",
       "matches": 8
-    },
-    {
-      "keyword": "PBS NewsHour, AI",
-      "matches": 1
     },
     {
       "keyword": "NOVA",
@@ -500,209 +492,193 @@
       "title": "What Marc Andreessen Doesn't Want You To Know",
       "channel": "More Perfect Union",
       "videoId": "G0y-PqxsQlM",
-      "viewsPerHour": 6858,
+      "viewsPerHour": 5944,
       "views": 89148,
-      "ageHours": 13
+      "ageHours": 15
     },
     {
       "title": "UFO Contact: The CIA, NASA, and the Vatican Came Looking For Him | Chris Bledsoe",
       "channel": "Mayim Bialik",
       "videoId": "D6XhtIfNiyo",
-      "viewsPerHour": 5248,
+      "viewsPerHour": 5006,
       "views": 216696,
-      "ageHours": 41.3
-    },
-    {
-      "title": "PBS News Hour full episode, August 4, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "8fnv36tQY4k",
-      "viewsPerHour": 3151,
-      "views": 90654,
-      "ageHours": 28.8
+      "ageHours": 43.3
     },
     {
       "title": "Cylindrical UFO Spotted (S5) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "QQKu_bVdYnw",
-      "viewsPerHour": 2540,
+      "viewsPerHour": 2090,
       "views": 23600,
-      "ageHours": 9.3
+      "ageHours": 11.3
     },
     {
       "title": "It ALWAYS leaked since 1922!': Trump DOUBLES DOWN on Reflecting Pool fixation during ABSURD RANT",
       "channel": "MS NOW",
       "videoId": "87iTdBvet78",
-      "viewsPerHour": 1602,
+      "viewsPerHour": 1198,
       "views": 9495,
-      "ageHours": 5.9
-    },
-    {
-      "title": "LIVE: Trump delivers remarks in Las Vegas",
-      "channel": "MS NOW",
-      "videoId": "YQNb7hFWU6M",
-      "viewsPerHour": 1367,
-      "views": 7682,
-      "ageHours": 5.6
+      "ageHours": 7.9
     },
     {
       "title": "The Most Extreme Volcano on Earth? | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "_bIxg1jRqI4",
-      "viewsPerHour": 1070,
+      "viewsPerHour": 1010,
       "views": 36281,
-      "ageHours": 33.9
+      "ageHours": 35.9
     },
     {
-      "title": "S9 E25: Iran Protests & Crime Reporting: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "Z4pKbk20QkY",
-      "viewsPerHour": 594,
-      "views": 7303,
-      "ageHours": 12.3
+      "title": "LIVE: Trump delivers remarks in Las Vegas",
+      "channel": "MS NOW",
+      "videoId": "YQNb7hFWU6M",
+      "viewsPerHour": 1008,
+      "views": 7682,
+      "ageHours": 7.6
     },
     {
       "title": "S9 E24: Liz Truss & Museums: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "oMEbXtaFVnE",
-      "viewsPerHour": 593,
+      "viewsPerHour": 562,
       "views": 21534,
-      "ageHours": 36.3
+      "ageHours": 38.3
+    },
+    {
+      "title": "S9 E25: Iran Protests & Crime Reporting: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "Z4pKbk20QkY",
+      "viewsPerHour": 511,
+      "views": 7303,
+      "ageHours": 14.3
     },
     {
       "title": "PBS News Hour live episode, August 5, 2026",
       "channel": "PBS NewsHour",
       "videoId": "7oOPTUA9Saw",
-      "viewsPerHour": 564,
+      "viewsPerHour": 445,
       "views": 4209,
-      "ageHours": 7.5
+      "ageHours": 9.5
     },
     {
       "title": "Conan Thinks He Got Scammed At The Eye Doctor | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "TKmML4aTi6o",
-      "viewsPerHour": 306,
+      "viewsPerHour": 292,
       "views": 12342,
-      "ageHours": 40.3
+      "ageHours": 42.3
     },
     {
       "title": "TOO CLOSE TO CALL!: Michigan Primary goes down to the wire",
       "channel": "MS NOW",
       "videoId": "TtIecINODow",
-      "viewsPerHour": 284,
+      "viewsPerHour": 256,
       "views": 5145,
-      "ageHours": 18.1
+      "ageHours": 20.1
     },
     {
       "title": "The Time Ice Cube & Conan Shared A Lyft With Kevin Hart | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "N_Rm_nIMz2A",
-      "viewsPerHour": 202,
+      "viewsPerHour": 176,
       "views": 2688,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "WATCH LIVE: Blanche, Patel host news conference on efforts to combat drug cartels",
       "channel": "PBS NewsHour",
       "videoId": "Y1NZGGiv3aY",
-      "viewsPerHour": 185,
+      "viewsPerHour": 159,
       "views": 2317,
-      "ageHours": 12.5
+      "ageHours": 14.5
     },
     {
       "title": "Katey Sagal (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "GAJr7d3QMiY",
-      "viewsPerHour": 165,
+      "viewsPerHour": 147,
       "views": 2689,
-      "ageHours": 16.3
-    },
-    {
-      "title": "Senate faces long to-do list and little time before recess",
-      "channel": "PBS NewsHour",
-      "videoId": "qalKd263S0M",
-      "viewsPerHour": 158,
-      "views": 4590,
-      "ageHours": 29
-    },
-    {
-      "title": "Bikini Atoll Nuked: How 23 American Atomic Bombs Poisoned Generations For Decades",
-      "channel": "Real Stories",
-      "videoId": "_yXr5ECKlJY",
-      "viewsPerHour": 138,
-      "views": 1693,
-      "ageHours": 12.3
+      "ageHours": 18.3
     },
     {
       "title": "Putin's Young Patriots: Inside The Russian Town Raised To Hate The West",
       "channel": "Real Stories",
       "videoId": "u8F33zBDax0",
-      "viewsPerHour": 132,
+      "viewsPerHour": 125,
       "views": 4774,
-      "ageHours": 36.3
+      "ageHours": 38.3
     },
     {
-      "title": "MS NOW: Trump officials pressure Oman to accept Iran's terms on the Strait of Hormuz",
-      "channel": "MS NOW",
-      "videoId": "fYuy1dpuu-M",
-      "viewsPerHour": 92,
-      "views": 1074,
-      "ageHours": 11.7
+      "title": "Bikini Atoll Nuked: How 23 American Atomic Bombs Poisoned Generations For Decades",
+      "channel": "Real Stories",
+      "videoId": "_yXr5ECKlJY",
+      "viewsPerHour": 118,
+      "views": 1693,
+      "ageHours": 14.3
     },
     {
       "title": "MS NOW Highlights - August 4",
       "channel": "MS NOW",
       "videoId": "hCFIz0zZyIg",
-      "viewsPerHour": 89,
+      "viewsPerHour": 80,
       "views": 1587,
-      "ageHours": 17.8
+      "ageHours": 19.8
+    },
+    {
+      "title": "MS NOW: Trump officials pressure Oman to accept Iran's terms on the Strait of Hormuz",
+      "channel": "MS NOW",
+      "videoId": "fYuy1dpuu-M",
+      "viewsPerHour": 79,
+      "views": 1074,
+      "ageHours": 13.7
     },
     {
       "title": "WATCH LIVE: Vances hosts roundtable to discuss Trump administration's anti-fraud efforts",
       "channel": "PBS NewsHour",
       "videoId": "c-HwH22c__s",
-      "viewsPerHour": 79,
+      "viewsPerHour": 68,
       "views": 1035,
-      "ageHours": 13.2
+      "ageHours": 15.2
     },
     {
       "title": "How Ice Cube & N.W.A Used An FBI Letter As Free Publicity | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "9vQhhxnG3tk",
-      "viewsPerHour": 48,
+      "viewsPerHour": 46,
       "views": 1790,
-      "ageHours": 37.3
+      "ageHours": 39.3
     },
     {
       "title": "El-Sayed wins critical Michigan Senate Primary",
       "channel": "MS NOW",
       "videoId": "TEkFzIhuUYc",
-      "viewsPerHour": 39,
+      "viewsPerHour": 33,
       "views": 453,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "El-Sayed to face GOP Rep. Mike Rogers in Michigan Senate race",
       "channel": "MS NOW",
       "videoId": "Y5VMt-YNoBk",
-      "viewsPerHour": 37,
+      "viewsPerHour": 32,
       "views": 436,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "Russian missile attacks on Kyiv expose weakness in Ukraine's air defense",
       "channel": "PBS NewsHour",
       "videoId": "l-LWIpOU4kM",
-      "viewsPerHour": 36,
+      "viewsPerHour": 27,
       "views": 204,
-      "ageHours": 5.7
+      "ageHours": 7.7
     },
     {
       "title": "Retired Army colonel explains why Patriot missiles are so valuable and in short supply",
       "channel": "PBS NewsHour",
       "videoId": "J42rMjYHu2A",
-      "viewsPerHour": 34,
+      "viewsPerHour": 25,
       "views": 192,
-      "ageHours": 5.6
+      "ageHours": 7.6
     }
   ]
 }
