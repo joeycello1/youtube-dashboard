@@ -1,28 +1,32 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
-      "count": 5
-    },
-    {
-      "channel": "MS NOW",
-      "count": 4
-    },
-    {
-      "channel": "Real Stories",
-      "count": 38
+      "channel": "History",
+      "count": 31
     },
     {
       "channel": "Last Week Tonight",
       "count": 19
     },
     {
-      "channel": "More Perfect Union",
-      "count": 17
+      "channel": "MS NOW",
+      "count": 3
     },
     {
       "channel": "Conan O'Brien",
-      "count": 11
+      "count": 12
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 5
+    },
+    {
+      "channel": "Real Stories",
+      "count": 38
+    },
+    {
+      "channel": "More Perfect Union",
+      "count": 17
     },
     {
       "channel": "Mayim Bialik",
@@ -34,15 +38,11 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 16
+      "count": 15
     },
     {
       "channel": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "channel": "History",
-      "count": 30
     },
     {
       "channel": "NOVA",
@@ -50,7 +50,7 @@
     },
     {
       "channel": "The Daily Show",
-      "count": 3
+      "count": 2
     },
     {
       "channel": "Jonathan Pie",
@@ -79,28 +79,32 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "PBS NewsHour",
-      "count": 5
-    },
-    {
-      "keyword": "MS NOW",
-      "count": 4
-    },
-    {
-      "keyword": "Real Stories, Louis Theroux",
-      "count": 16
+      "keyword": "NOVA",
+      "count": 22
     },
     {
       "keyword": "Last Week Tonight",
       "count": 18
     },
     {
-      "keyword": "More Perfect Union",
-      "count": 16
+      "keyword": "MS NOW",
+      "count": 3
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 11
+      "count": 12
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 5
+    },
+    {
+      "keyword": "Real Stories, Louis Theroux",
+      "count": 16
+    },
+    {
+      "keyword": "More Perfect Union",
+      "count": 16
     },
     {
       "keyword": "UFO, UAP",
@@ -127,12 +131,8 @@
       "count": 21
     },
     {
-      "keyword": "NOVA",
-      "count": 21
-    },
-    {
       "keyword": "The Daily Show",
-      "count": 3
+      "count": 2
     },
     {
       "keyword": "Jonathan Pie",
@@ -152,7 +152,7 @@
     },
     {
       "keyword": "Louis Rossmann, Samsung",
-      "count": 2
+      "count": 1
     },
     {
       "keyword": "Giza",
@@ -201,8 +201,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-08-07",
+      "videos": 8
+    },
+    {
       "date": "2026-08-06",
-      "videos": 16
+      "videos": 11
     },
     {
       "date": "2026-08-05",
@@ -226,7 +230,7 @@
     },
     {
       "date": "2026-07-31",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-07-30",
@@ -238,7 +242,7 @@
     },
     {
       "date": "2026-07-28",
-      "videos": 8
+      "videos": 7
     },
     {
       "date": "2026-07-27",
@@ -258,7 +262,7 @@
     },
     {
       "date": "2026-07-23",
-      "videos": 5
+      "videos": 3
     },
     {
       "date": "2026-07-22",
@@ -419,28 +423,32 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
-      "matches": 5
+      "keyword": "NOVA",
+      "matches": 4
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 9
     },
     {
       "keyword": "MS NOW",
-      "matches": 4
+      "matches": 3
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 5
     },
     {
       "keyword": "Real Stories, Louis Theroux",
       "matches": 2
     },
     {
-      "keyword": "Last Week Tonight",
-      "matches": 8
-    },
-    {
       "keyword": "More Perfect Union",
       "matches": 2
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 6
     },
     {
       "keyword": "UFO, UAP",
@@ -467,10 +475,6 @@
       "matches": 3
     },
     {
-      "keyword": "NOVA",
-      "matches": 3
-    },
-    {
       "keyword": "The Daily Show",
       "matches": 2
     },
@@ -484,145 +488,169 @@
       "title": "Man Who Owns 4% Of All Bitcoin: His Final WARNING To Everyone Who Doesn't Own It | Michael Saylor",
       "channel": "Diary of a CEO",
       "videoId": "1aGpJQ8BMLI",
-      "viewsPerHour": 21060,
-      "views": 701013,
-      "ageHours": 33.3
+      "viewsPerHour": 20876,
+      "views": 737108,
+      "ageHours": 35.3
     },
     {
       "title": "He Was a Blackwater Mercenary. Here’s Why He’s Worried about the Board of Peace",
       "channel": "More Perfect Union",
       "videoId": "iSHR_tEYJUs",
-      "viewsPerHour": 8131,
-      "views": 206505,
-      "ageHours": 25.4
+      "viewsPerHour": 8130,
+      "views": 222931,
+      "ageHours": 27.4
     },
     {
       "title": "Why Is It A Colour Wheel And Not A Line?",
       "channel": "The Rest Is Science",
       "videoId": "rE_5JLeC0kc",
-      "viewsPerHour": 5738,
-      "views": 236406,
-      "ageHours": 41.2
+      "viewsPerHour": 5633,
+      "views": 243511,
+      "ageHours": 43.2
     },
     {
       "title": "Bible’s UFO Secret & The Plot To Assassinate The Pope | Chris Bledsoe",
       "channel": "Mayim Bialik",
       "videoId": "On8AxkeHYNE",
-      "viewsPerHour": 4890,
-      "views": 143222,
-      "ageHours": 29.3
+      "viewsPerHour": 4762,
+      "views": 149130,
+      "ageHours": 31.3
+    },
+    {
+      "title": "BREAKING: U.S. economy unexpectedly LOST 23,000 jobs in July",
+      "channel": "MS NOW",
+      "videoId": "B3BYIQ4sqhQ",
+      "viewsPerHour": 3000,
+      "views": 7544,
+      "ageHours": 2.5
     },
     {
       "title": "Louis Theroux Goes Under Knife and Explores Extreme Plastic Surgery",
       "channel": "Real Stories",
       "videoId": "MKCcYtYWBxY",
-      "viewsPerHour": 1712,
-      "views": 32285,
-      "ageHours": 18.9
+      "viewsPerHour": 1640,
+      "views": 34245,
+      "ageHours": 20.9
+    },
+    {
+      "title": "Ancient Well Mysteries Explored | The Curse of Oak Island",
+      "channel": "History",
+      "videoId": "fyQD9O-aUXw",
+      "viewsPerHour": 1624,
+      "views": 3745,
+      "ageHours": 2.3
     },
     {
       "title": "Cylindrical UFO Spotted (S5) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "QQKu_bVdYnw",
-      "viewsPerHour": 1116,
-      "views": 50542,
-      "ageHours": 45.3
+      "viewsPerHour": 1078,
+      "views": 50976,
+      "ageHours": 47.3
+    },
+    {
+      "title": "GOP’s midterm strategy: Use the DSA to SPLIT Democrats ",
+      "channel": "MS NOW",
+      "videoId": "dcZku9BR9Kc",
+      "viewsPerHour": 993,
+      "views": 2541,
+      "ageHours": 2.6
     },
     {
       "title": "Matt Gourley's Wife Exposes His Secret T-Shirt Side Hustle | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "P0NV1VeH1c0",
-      "viewsPerHour": 864,
+      "viewsPerHour": 807,
       "views": 24448,
-      "ageHours": 28.3
+      "ageHours": 30.3
     },
     {
       "title": "S9 E26: Ukraine War & Transgender Rights: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "ikFe0NcKv2c",
-      "viewsPerHour": 742,
-      "views": 18026,
-      "ageHours": 24.3
+      "viewsPerHour": 745,
+      "views": 19609,
+      "ageHours": 26.3
+    },
+    {
+      "title": "Kaitlin Olson Feels Like She Hit The Jackpot With \"Always Sunny\" | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "9aPHxi8BHv4",
+      "viewsPerHour": 745,
+      "views": 2471,
+      "ageHours": 3.3
+    },
+    {
+      "title": "S9 E27: Rishi Sunak & Bail Reform: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "vo7cYJHVpUQ",
+      "viewsPerHour": 615,
+      "views": 1420,
+      "ageHours": 2.3
     },
     {
       "title": "Bring it on, I guess?': Nicolle reacts to Trump's CHAOTIC, deluded speech celebrating WEAK economy",
       "channel": "MS NOW",
       "videoId": "J73Lid3nDmg",
-      "viewsPerHour": 674,
+      "viewsPerHour": 606,
       "views": 12146,
-      "ageHours": 18
+      "ageHours": 20
     },
     {
-      "title": "WATCH LIVE: Sen. Paul holds contempt vote after Fauci invokes 5th Amendment",
+      "title": "WATCH: Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
       "channel": "PBS NewsHour",
-      "videoId": "OWb_yhE8ST0",
+      "videoId": "hSW29bbS2aE",
+      "viewsPerHour": 435,
+      "views": 1448,
+      "ageHours": 3.3
+    },
+    {
+      "title": "WATCH LIVE: Senate expected to vote on Russia sanctions and more",
+      "channel": "PBS NewsHour",
+      "videoId": "2itTs63x9eY",
+      "viewsPerHour": 388,
+      "views": 1707,
+      "ageHours": 4.4
+    },
+    {
+      "title": "This Or That: Why Star Trek is Better Than Star Wars | Bley's Arcade",
+      "channel": "Conan O'Brien",
+      "videoId": "IP3kVC93SjI",
       "viewsPerHour": 373,
-      "views": 9688,
-      "ageHours": 26
+      "views": 2357,
+      "ageHours": 6.3
     },
     {
       "title": "PBS News Hour live episode, August 6, 2025",
       "channel": "PBS NewsHour",
       "videoId": "FKdhHZdST7s",
-      "viewsPerHour": 224,
+      "viewsPerHour": 203,
       "views": 4301,
-      "ageHours": 19.2
+      "ageHours": 21.2
     },
     {
       "title": "If you're in Johnson City Tennessee tomorrow, SAY HI! Then Atlanta on Friday",
       "channel": "Louis Rossmann",
       "videoId": "CL2DuVUIqcc",
-      "viewsPerHour": 104,
+      "viewsPerHour": 99,
       "views": 3952,
-      "ageHours": 38
-    },
-    {
-      "title": "WATCH LIVE: Senate meets to consider legislation as August recess looms",
-      "channel": "PBS NewsHour",
-      "videoId": "CtKgUMMXG28",
-      "viewsPerHour": 64,
-      "views": 1700,
-      "ageHours": 26.5
-    },
-    {
-      "title": "Senate Cmte. votes to hold Dr. Fauci in contempt of Congress",
-      "channel": "MS NOW",
-      "videoId": "-LRPmkqzH2A",
-      "viewsPerHour": 42,
-      "views": 999,
-      "ageHours": 23.8
-    },
-    {
-      "title": "The PLAN to FIGHT BACK if Trump claims fraud in midterm elections",
-      "channel": "MS NOW",
-      "videoId": "T4BE5T2zo7M",
-      "viewsPerHour": 30,
-      "views": 704,
-      "ageHours": 23.8
-    },
-    {
-      "title": "ANALYSIS: What do Dems have to do to take back Congress in November?",
-      "channel": "MS NOW",
-      "videoId": "LjlaYm188oc",
-      "viewsPerHour": 21,
-      "views": 508,
-      "ageHours": 23.8
+      "ageHours": 40
     },
     {
       "title": "Plane takeoff during Marine One flight renews concerns about D.C.'s busy airspace",
       "channel": "PBS NewsHour",
       "videoId": "1-1SJYTG72g",
-      "viewsPerHour": 13,
+      "viewsPerHour": 12,
       "views": 233,
-      "ageHours": 17.6
+      "ageHours": 19.7
     },
     {
       "title": "Greece deploys satellite detection system to combat deadly wildfires",
       "channel": "PBS NewsHour",
       "videoId": "_FvUOVLVMbs",
-      "viewsPerHour": 2,
+      "viewsPerHour": 1,
       "views": 28,
-      "ageHours": 17.5
+      "ageHours": 19.5
     }
   ]
 }
