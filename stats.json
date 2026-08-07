@@ -1,8 +1,16 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 8
+    },
+    {
       "channel": "MS NOW",
-      "count": 6
+      "count": 5
+    },
+    {
+      "channel": "Real Stories",
+      "count": 38
     },
     {
       "channel": "Last Week Tonight",
@@ -11,10 +19,6 @@
     {
       "channel": "More Perfect Union",
       "count": 17
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 9
     },
     {
       "channel": "Conan O'Brien",
@@ -39,10 +43,6 @@
     {
       "channel": "History",
       "count": 30
-    },
-    {
-      "channel": "Real Stories",
-      "count": 38
     },
     {
       "channel": "NOVA",
@@ -79,8 +79,16 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "PBS NewsHour",
+      "count": 8
+    },
+    {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 5
+    },
+    {
+      "keyword": "Real Stories, Louis Theroux",
+      "count": 16
     },
     {
       "keyword": "Last Week Tonight",
@@ -89,10 +97,6 @@
     {
       "keyword": "More Perfect Union",
       "count": 16
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 9
     },
     {
       "keyword": "Conan O'Brien",
@@ -129,10 +133,6 @@
     {
       "keyword": "The Daily Show",
       "count": 6
-    },
-    {
-      "keyword": "Real Stories, Louis Theroux",
-      "count": 16
     },
     {
       "keyword": "Jonathan Pie",
@@ -202,11 +202,11 @@
   "dailySummary": [
     {
       "date": "2026-08-06",
-      "videos": 12
+      "videos": 17
     },
     {
       "date": "2026-08-05",
-      "videos": 16
+      "videos": 10
     },
     {
       "date": "2026-08-04",
@@ -413,18 +413,22 @@
       "videos": 3
     },
     {
-      "date": "2026-06-07",
-      "videos": 1
-    },
-    {
       "date": "2026-04-09",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour",
+      "matches": 8
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 5
+    },
+    {
+      "keyword": "Real Stories, Louis Theroux",
+      "matches": 2
     },
     {
       "keyword": "Last Week Tonight",
@@ -433,10 +437,6 @@
     {
       "keyword": "More Perfect Union",
       "matches": 2
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 9
     },
     {
       "keyword": "Conan O'Brien",
@@ -452,7 +452,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "The Rest Is Science",
@@ -472,11 +472,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "matches": 6
-    },
-    {
-      "keyword": "Real Stories, Louis Theroux",
-      "matches": 1
+      "matches": 5
     },
     {
       "keyword": "Jonathan Pie",
@@ -492,225 +488,217 @@
       "title": "Man Who Owns 4% Of All Bitcoin: His Final WARNING To Everyone Who Doesn't Own It | Michael Saylor",
       "channel": "Diary of a CEO",
       "videoId": "1aGpJQ8BMLI",
-      "viewsPerHour": 25849,
-      "views": 395249,
-      "ageHours": 15.3
+      "viewsPerHour": 25564,
+      "views": 441885,
+      "ageHours": 17.3
     },
     {
       "title": "He Was a Blackwater Mercenary. Here’s Why He’s Worried about the Board of Peace",
       "channel": "More Perfect Union",
       "videoId": "iSHR_tEYJUs",
-      "viewsPerHour": 11733,
-      "views": 86849,
-      "ageHours": 7.4
+      "viewsPerHour": 12000,
+      "views": 112757,
+      "ageHours": 9.4
     },
     {
       "title": "Why Is It A Colour Wheel And Not A Line?",
       "channel": "The Rest Is Science",
       "videoId": "rE_5JLeC0kc",
-      "viewsPerHour": 6727,
-      "views": 156130,
-      "ageHours": 23.2
+      "viewsPerHour": 6752,
+      "views": 170160,
+      "ageHours": 25.2
     },
     {
       "title": "Bible’s UFO Secret & The Plot To Assassinate The Pope | Chris Bledsoe",
       "channel": "Mayim Bialik",
       "videoId": "On8AxkeHYNE",
-      "viewsPerHour": 6336,
-      "views": 71577,
-      "ageHours": 11.3
+      "viewsPerHour": 6380,
+      "views": 84793,
+      "ageHours": 13.3
+    },
+    {
+      "title": "Bring it on, I guess?': Nicolle reacts to Trump's CHAOTIC, deluded speech celebrating WEAK economy",
+      "channel": "MS NOW",
+      "videoId": "J73Lid3nDmg",
+      "viewsPerHour": 6030,
+      "views": 12146,
+      "ageHours": 2
     },
     {
       "title": "What Marc Andreessen Doesn't Want You To Know",
       "channel": "More Perfect Union",
       "videoId": "G0y-PqxsQlM",
-      "viewsPerHour": 5486,
-      "views": 170061,
-      "ageHours": 31
+      "viewsPerHour": 5338,
+      "views": 176126,
+      "ageHours": 33
     },
     {
       "title": "PBS News Hour full episode, August 5, 2026",
       "channel": "PBS NewsHour",
       "videoId": "H-TXTPfOF20",
-      "viewsPerHour": 3881,
+      "viewsPerHour": 3566,
       "views": 87689,
-      "ageHours": 22.6
+      "ageHours": 24.6
     },
     {
       "title": "Matt Gourley's Wife Exposes His Secret T-Shirt Side Hustle | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "P0NV1VeH1c0",
-      "viewsPerHour": 2376,
+      "viewsPerHour": 1990,
       "views": 24448,
-      "ageHours": 10.3
+      "ageHours": 12.3
+    },
+    {
+      "title": "Louis Theroux Goes Under Knife and Explores Extreme Plastic Surgery",
+      "channel": "Real Stories",
+      "videoId": "MKCcYtYWBxY",
+      "viewsPerHour": 1850,
+      "views": 5279,
+      "ageHours": 2.9
     },
     {
       "title": "Cylindrical UFO Spotted (S5) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "QQKu_bVdYnw",
-      "viewsPerHour": 1588,
-      "views": 43343,
-      "ageHours": 27.3
+      "viewsPerHour": 1533,
+      "views": 44880,
+      "ageHours": 29.3
+    },
+    {
+      "title": "PBS News Hour live episode, August 6, 2025",
+      "channel": "PBS NewsHour",
+      "videoId": "FKdhHZdST7s",
+      "viewsPerHour": 1354,
+      "views": 4301,
+      "ageHours": 3.2
     },
     {
       "title": "WATCH LIVE: Sen. Paul holds contempt vote after Fauci invokes 5th Amendment",
       "channel": "PBS NewsHour",
       "videoId": "OWb_yhE8ST0",
-      "viewsPerHour": 1214,
+      "viewsPerHour": 971,
       "views": 9688,
-      "ageHours": 8
+      "ageHours": 10
     },
     {
       "title": "S9 E26: Ukraine War & Transgender Rights: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "ikFe0NcKv2c",
-      "viewsPerHour": 796,
-      "views": 5003,
-      "ageHours": 6.3
+      "viewsPerHour": 851,
+      "views": 7045,
+      "ageHours": 8.3
     },
     {
       "title": "S9 E25: Iran Protests & Crime Reporting: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "Z4pKbk20QkY",
-      "viewsPerHour": 508,
-      "views": 15384,
-      "ageHours": 30.3
+      "viewsPerHour": 484,
+      "views": 15634,
+      "ageHours": 32.3
     },
     {
       "title": "How the Battle of the Little Bighorn reshaped U.S. policy toward Native Americans",
       "channel": "PBS NewsHour",
       "videoId": "AY3bkELnqc0",
-      "viewsPerHour": 483,
+      "viewsPerHour": 444,
       "views": 11064,
-      "ageHours": 22.9
-    },
-    {
-      "title": "It ALWAYS leaked since 1922!': Trump DOUBLES DOWN on Reflecting Pool fixation during ABSURD RANT",
-      "channel": "MS NOW",
-      "videoId": "87iTdBvet78",
-      "viewsPerHour": 397,
-      "views": 9495,
-      "ageHours": 23.9
-    },
-    {
-      "title": "LIVE: Trump delivers remarks in Las Vegas",
-      "channel": "MS NOW",
-      "videoId": "YQNb7hFWU6M",
-      "viewsPerHour": 325,
-      "views": 7682,
-      "ageHours": 23.6
+      "ageHours": 24.9
     },
     {
       "title": "How new findings on ovarian cancer origins may help reduce risk",
       "channel": "PBS NewsHour",
       "videoId": "4CEAj68055c",
-      "viewsPerHour": 284,
+      "viewsPerHour": 261,
       "views": 6564,
-      "ageHours": 23.1
-    },
-    {
-      "title": "WATCH LIVE: Senate meets to consider legislation as August recess looms",
-      "channel": "PBS NewsHour",
-      "videoId": "CtKgUMMXG28",
-      "viewsPerHour": 201,
-      "views": 1700,
-      "ageHours": 8.5
+      "ageHours": 25.1
     },
     {
       "title": "If you're in Johnson City Tennessee tomorrow, SAY HI! Then Atlanta on Friday",
       "channel": "Louis Rossmann",
       "videoId": "CL2DuVUIqcc",
-      "viewsPerHour": 198,
+      "viewsPerHour": 180,
       "views": 3952,
-      "ageHours": 20
+      "ageHours": 22
     },
     {
-      "title": "WATCH LIVE: NASA astronauts conduct spacewalk to install hardware for ISS solar array upgrade",
+      "title": "WATCH LIVE: Senate meets to consider legislation as August recess looms",
       "channel": "PBS NewsHour",
-      "videoId": "tiWacr2g8iM",
-      "viewsPerHour": 175,
-      "views": 4314,
-      "ageHours": 24.7
+      "videoId": "CtKgUMMXG28",
+      "viewsPerHour": 163,
+      "views": 1700,
+      "ageHours": 10.5
     },
     {
-      "title": "Senate Cmte. votes to hold Dr. Fauci in contempt of Congress",
-      "channel": "MS NOW",
-      "videoId": "-LRPmkqzH2A",
-      "viewsPerHour": 173,
-      "views": 999,
-      "ageHours": 5.8
-    },
-    {
-      "title": "PBS News Hour live episode, August 5, 2026",
+      "title": "Plane takeoff during Marine One flight renews concerns about D.C.'s busy airspace",
       "channel": "PBS NewsHour",
-      "videoId": "7oOPTUA9Saw",
-      "viewsPerHour": 165,
-      "views": 4209,
-      "ageHours": 25.5
+      "videoId": "1-1SJYTG72g",
+      "viewsPerHour": 142,
+      "views": 233,
+      "ageHours": 1.6
     },
     {
       "title": "Why Adbul El-Sayed's win is a 'WAKE-UP CALL' for Democrats",
       "channel": "MS NOW",
       "videoId": "PmK_AAPfj90",
-      "viewsPerHour": 154,
+      "viewsPerHour": 132,
       "views": 1826,
-      "ageHours": 11.8
+      "ageHours": 13.8
     },
     {
-      "title": "The PLAN to FIGHT BACK if Trump claims fraud in midterm elections",
+      "title": "Senate Cmte. votes to hold Dr. Fauci in contempt of Congress",
       "channel": "MS NOW",
-      "videoId": "T4BE5T2zo7M",
-      "viewsPerHour": 121,
-      "views": 704,
-      "ageHours": 5.8
+      "videoId": "-LRPmkqzH2A",
+      "viewsPerHour": 129,
+      "views": 999,
+      "ageHours": 7.8
     },
     {
       "title": "Bikini Atoll Nuked: How 23 American Atomic Bombs Poisoned Generations For Decades",
       "channel": "Real Stories",
       "videoId": "_yXr5ECKlJY",
-      "viewsPerHour": 102,
-      "views": 3078,
-      "ageHours": 30.3
+      "viewsPerHour": 99,
+      "views": 3188,
+      "ageHours": 32.3
     },
     {
-      "title": "ANALYSIS: What do Dems have to do to take back Congress in November?",
+      "title": "The PLAN to FIGHT BACK if Trump claims fraud in midterm elections",
       "channel": "MS NOW",
-      "videoId": "LjlaYm188oc",
-      "viewsPerHour": 88,
-      "views": 508,
-      "ageHours": 5.8
+      "videoId": "T4BE5T2zo7M",
+      "viewsPerHour": 90,
+      "views": 704,
+      "ageHours": 7.8
     },
     {
       "title": "The Time Ice Cube & Conan Shared A Lyft With Kevin Hart | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "N_Rm_nIMz2A",
-      "viewsPerHour": 86,
+      "viewsPerHour": 81,
       "views": 2688,
-      "ageHours": 31.3
+      "ageHours": 33.3
     },
     {
       "title": "Katey Sagal (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "GAJr7d3QMiY",
-      "viewsPerHour": 78,
+      "viewsPerHour": 74,
       "views": 2689,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
-      "title": "Russian missile attacks on Kyiv expose weakness in Ukraine's air defense",
-      "channel": "PBS NewsHour",
-      "videoId": "l-LWIpOU4kM",
-      "viewsPerHour": 9,
-      "views": 204,
-      "ageHours": 23.7
+      "title": "ANALYSIS: What do Dems have to do to take back Congress in November?",
+      "channel": "MS NOW",
+      "videoId": "LjlaYm188oc",
+      "viewsPerHour": 66,
+      "views": 508,
+      "ageHours": 7.7
     },
     {
-      "title": "Retired Army colonel explains why Patriot missiles are so valuable and in short supply",
+      "title": "Greece deploys satellite detection system to combat deadly wildfires",
       "channel": "PBS NewsHour",
-      "videoId": "J42rMjYHu2A",
-      "viewsPerHour": 8,
-      "views": 192,
-      "ageHours": 23.6
+      "videoId": "_FvUOVLVMbs",
+      "viewsPerHour": 18,
+      "views": 28,
+      "ageHours": 1.5
     }
   ]
 }
