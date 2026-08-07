@@ -440,7 +440,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "UFO, UAP",
@@ -468,7 +468,7 @@
     },
     {
       "keyword": "NOVA",
-      "matches": 4
+      "matches": 3
     },
     {
       "keyword": "The Daily Show",
@@ -477,10 +477,6 @@
     {
       "keyword": "Jonathan Pie",
       "matches": 1
-    },
-    {
-      "keyword": "Last Week Tonight, AI",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -488,169 +484,137 @@
       "title": "Man Who Owns 4% Of All Bitcoin: His Final WARNING To Everyone Who Doesn't Own It | Michael Saylor",
       "channel": "Diary of a CEO",
       "videoId": "1aGpJQ8BMLI",
-      "viewsPerHour": 21526,
-      "views": 673642,
-      "ageHours": 31.3
+      "viewsPerHour": 21060,
+      "views": 701013,
+      "ageHours": 33.3
     },
     {
       "title": "He Was a Blackwater Mercenary. Here’s Why He’s Worried about the Board of Peace",
       "channel": "More Perfect Union",
       "videoId": "iSHR_tEYJUs",
-      "viewsPerHour": 8316,
-      "views": 194639,
-      "ageHours": 23.4
+      "viewsPerHour": 8131,
+      "views": 206505,
+      "ageHours": 25.4
     },
     {
       "title": "Why Is It A Colour Wheel And Not A Line?",
       "channel": "The Rest Is Science",
       "videoId": "rE_5JLeC0kc",
-      "viewsPerHour": 5864,
-      "views": 229927,
-      "ageHours": 39.2
+      "viewsPerHour": 5738,
+      "views": 236406,
+      "ageHours": 41.2
     },
     {
       "title": "Bible’s UFO Secret & The Plot To Assassinate The Pope | Chris Bledsoe",
       "channel": "Mayim Bialik",
       "videoId": "On8AxkeHYNE",
-      "viewsPerHour": 5096,
-      "views": 139113,
-      "ageHours": 27.3
-    },
-    {
-      "title": "What Marc Andreessen Doesn't Want You To Know",
-      "channel": "More Perfect Union",
-      "videoId": "G0y-PqxsQlM",
-      "viewsPerHour": 4487,
-      "views": 210888,
-      "ageHours": 47
+      "viewsPerHour": 4890,
+      "views": 143222,
+      "ageHours": 29.3
     },
     {
       "title": "Louis Theroux Goes Under Knife and Explores Extreme Plastic Surgery",
       "channel": "Real Stories",
       "videoId": "MKCcYtYWBxY",
-      "viewsPerHour": 1826,
-      "views": 30786,
-      "ageHours": 16.9
+      "viewsPerHour": 1712,
+      "views": 32285,
+      "ageHours": 18.9
     },
     {
       "title": "Cylindrical UFO Spotted (S5) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "QQKu_bVdYnw",
-      "viewsPerHour": 1160,
-      "views": 50208,
-      "ageHours": 43.3
+      "viewsPerHour": 1116,
+      "views": 50542,
+      "ageHours": 45.3
     },
     {
       "title": "Matt Gourley's Wife Exposes His Secret T-Shirt Side Hustle | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "P0NV1VeH1c0",
-      "viewsPerHour": 930,
+      "viewsPerHour": 864,
       "views": 24448,
-      "ageHours": 26.3
-    },
-    {
-      "title": "Bring it on, I guess?': Nicolle reacts to Trump's CHAOTIC, deluded speech celebrating WEAK economy",
-      "channel": "MS NOW",
-      "videoId": "J73Lid3nDmg",
-      "viewsPerHour": 758,
-      "views": 12146,
-      "ageHours": 16
+      "ageHours": 28.3
     },
     {
       "title": "S9 E26: Ukraine War & Transgender Rights: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "ikFe0NcKv2c",
-      "viewsPerHour": 750,
-      "views": 16714,
-      "ageHours": 22.3
+      "viewsPerHour": 742,
+      "views": 18026,
+      "ageHours": 24.3
+    },
+    {
+      "title": "Bring it on, I guess?': Nicolle reacts to Trump's CHAOTIC, deluded speech celebrating WEAK economy",
+      "channel": "MS NOW",
+      "videoId": "J73Lid3nDmg",
+      "viewsPerHour": 674,
+      "views": 12146,
+      "ageHours": 18
     },
     {
       "title": "WATCH LIVE: Sen. Paul holds contempt vote after Fauci invokes 5th Amendment",
       "channel": "PBS NewsHour",
       "videoId": "OWb_yhE8ST0",
-      "viewsPerHour": 404,
+      "viewsPerHour": 373,
       "views": 9688,
-      "ageHours": 24
-    },
-    {
-      "title": "S9 E25: Iran Protests & Crime Reporting: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "Z4pKbk20QkY",
-      "viewsPerHour": 364,
-      "views": 16869,
-      "ageHours": 46.3
+      "ageHours": 26
     },
     {
       "title": "PBS News Hour live episode, August 6, 2025",
       "channel": "PBS NewsHour",
       "videoId": "FKdhHZdST7s",
-      "viewsPerHour": 250,
+      "viewsPerHour": 224,
       "views": 4301,
-      "ageHours": 17.2
+      "ageHours": 19.2
     },
     {
       "title": "If you're in Johnson City Tennessee tomorrow, SAY HI! Then Atlanta on Friday",
       "channel": "Louis Rossmann",
       "videoId": "CL2DuVUIqcc",
-      "viewsPerHour": 110,
+      "viewsPerHour": 104,
       "views": 3952,
-      "ageHours": 36
-    },
-    {
-      "title": "Bikini Atoll Nuked: How 23 American Atomic Bombs Poisoned Generations For Decades",
-      "channel": "Real Stories",
-      "videoId": "_yXr5ECKlJY",
-      "viewsPerHour": 82,
-      "views": 3775,
-      "ageHours": 46.3
+      "ageHours": 38
     },
     {
       "title": "WATCH LIVE: Senate meets to consider legislation as August recess looms",
       "channel": "PBS NewsHour",
       "videoId": "CtKgUMMXG28",
-      "viewsPerHour": 69,
+      "viewsPerHour": 64,
       "views": 1700,
-      "ageHours": 24.5
-    },
-    {
-      "title": "The Time Ice Cube & Conan Shared A Lyft With Kevin Hart | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "N_Rm_nIMz2A",
-      "viewsPerHour": 57,
-      "views": 2688,
-      "ageHours": 47.3
+      "ageHours": 26.5
     },
     {
       "title": "Senate Cmte. votes to hold Dr. Fauci in contempt of Congress",
       "channel": "MS NOW",
       "videoId": "-LRPmkqzH2A",
-      "viewsPerHour": 46,
+      "viewsPerHour": 42,
       "views": 999,
-      "ageHours": 21.8
+      "ageHours": 23.8
     },
     {
       "title": "The PLAN to FIGHT BACK if Trump claims fraud in midterm elections",
       "channel": "MS NOW",
       "videoId": "T4BE5T2zo7M",
-      "viewsPerHour": 32,
+      "viewsPerHour": 30,
       "views": 704,
-      "ageHours": 21.8
+      "ageHours": 23.8
     },
     {
       "title": "ANALYSIS: What do Dems have to do to take back Congress in November?",
       "channel": "MS NOW",
       "videoId": "LjlaYm188oc",
-      "viewsPerHour": 23,
+      "viewsPerHour": 21,
       "views": 508,
-      "ageHours": 21.8
+      "ageHours": 23.8
     },
     {
       "title": "Plane takeoff during Marine One flight renews concerns about D.C.'s busy airspace",
       "channel": "PBS NewsHour",
       "videoId": "1-1SJYTG72g",
-      "viewsPerHour": 15,
+      "viewsPerHour": 13,
       "views": 233,
-      "ageHours": 15.7
+      "ageHours": 17.6
     },
     {
       "title": "Greece deploys satellite detection system to combat deadly wildfires",
@@ -658,7 +622,7 @@
       "videoId": "_FvUOVLVMbs",
       "viewsPerHour": 2,
       "views": 28,
-      "ageHours": 15.5
+      "ageHours": 17.5
     }
   ]
 }
