@@ -1,24 +1,28 @@
 {
   "videosPerChannel": [
     {
-      "channel": "History",
-      "count": 31
-    },
-    {
-      "channel": "Last Week Tonight",
-      "count": 19
+      "channel": "PBS NewsHour",
+      "count": 5
     },
     {
       "channel": "MS NOW",
       "count": 3
     },
     {
-      "channel": "Conan O'Brien",
-      "count": 12
+      "channel": "History",
+      "count": 32
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 5
+      "channel": "NOVA",
+      "count": 13
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 19
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 12
     },
     {
       "channel": "Real Stories",
@@ -43,10 +47,6 @@
     {
       "channel": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "channel": "NOVA",
-      "count": 12
     },
     {
       "channel": "The Daily Show",
@@ -74,29 +74,33 @@
     },
     {
       "channel": "Inside AI",
-      "count": 2
+      "count": 1
     }
   ],
   "keywordFrequency": [
     {
-      "keyword": "NOVA",
-      "count": 22
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "count": 18
+      "keyword": "PBS NewsHour",
+      "count": 5
     },
     {
       "keyword": "MS NOW",
       "count": 3
     },
     {
-      "keyword": "Conan O'Brien",
-      "count": 12
+      "keyword": "UFO",
+      "count": 20
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 5
+      "keyword": "NOVA",
+      "count": 23
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 18
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 12
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -112,7 +116,7 @@
     },
     {
       "keyword": "AI",
-      "count": 8
+      "count": 7
     },
     {
       "keyword": "Louis Rossmann",
@@ -121,10 +125,6 @@
     {
       "keyword": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "keyword": "UFO",
-      "count": 19
     },
     {
       "keyword": "Real Stories",
@@ -202,11 +202,11 @@
   "dailySummary": [
     {
       "date": "2026-08-07",
-      "videos": 8
+      "videos": 14
     },
     {
       "date": "2026-08-06",
-      "videos": 11
+      "videos": 7
     },
     {
       "date": "2026-08-05",
@@ -415,32 +415,32 @@
     {
       "date": "2026-06-09",
       "videos": 3
-    },
-    {
-      "date": "2026-04-09",
-      "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "NOVA",
-      "matches": 4
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "matches": 9
+      "keyword": "PBS NewsHour",
+      "matches": 5
     },
     {
       "keyword": "MS NOW",
       "matches": 3
     },
     {
-      "keyword": "Conan O'Brien",
-      "matches": 8
+      "keyword": "UFO",
+      "matches": 5
     },
     {
-      "keyword": "PBS NewsHour",
+      "keyword": "NOVA",
       "matches": 5
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 9
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -467,10 +467,6 @@
       "matches": 2
     },
     {
-      "keyword": "UFO",
-      "matches": 5
-    },
-    {
       "keyword": "Real Stories",
       "matches": 3
     },
@@ -488,161 +484,169 @@
       "title": "Man Who Owns 4% Of All Bitcoin: His Final WARNING To Everyone Who Doesn't Own It | Michael Saylor",
       "channel": "Diary of a CEO",
       "videoId": "1aGpJQ8BMLI",
-      "viewsPerHour": 20522,
-      "views": 806685,
-      "ageHours": 39.3
+      "viewsPerHour": 20314,
+      "views": 838921,
+      "ageHours": 41.3
     },
     {
       "title": "He Was a Blackwater Mercenary. Here’s Why He’s Worried about the Board of Peace",
       "channel": "More Perfect Union",
       "videoId": "iSHR_tEYJUs",
-      "viewsPerHour": 7991,
-      "views": 251071,
-      "ageHours": 31.4
-    },
-    {
-      "title": "Why Is It A Colour Wheel And Not A Line?",
-      "channel": "The Rest Is Science",
-      "videoId": "rE_5JLeC0kc",
-      "viewsPerHour": 5443,
-      "views": 257071,
-      "ageHours": 47.2
+      "viewsPerHour": 7780,
+      "views": 259915,
+      "ageHours": 33.4
     },
     {
       "title": "Bible’s UFO Secret & The Plot To Assassinate The Pope | Chris Bledsoe",
       "channel": "Mayim Bialik",
       "videoId": "On8AxkeHYNE",
-      "viewsPerHour": 4524,
-      "views": 159764,
-      "ageHours": 35.3
+      "viewsPerHour": 4416,
+      "views": 164733,
+      "ageHours": 37.3
+    },
+    {
+      "title": "TEMPORARY tenant': Trump SLAMMED by appeals court, blocking his White House ballroom construction",
+      "channel": "MS NOW",
+      "videoId": "NaRKOQvVGEU",
+      "viewsPerHour": 3866,
+      "views": 8372,
+      "ageHours": 2.2
+    },
+    {
+      "title": "FLAMETHROWER Reveals Bizarre Blob-Like Phenomenon (S4) | The Secret of Skinwalker Ranch",
+      "channel": "History",
+      "videoId": "OjrL7__fvVA",
+      "viewsPerHour": 2569,
+      "views": 13605,
+      "ageHours": 5.3
     },
     {
       "title": "Ancient Well Mysteries Explored | The Curse of Oak Island",
       "channel": "History",
       "videoId": "fyQD9O-aUXw",
-      "viewsPerHour": 2604,
-      "views": 16419,
-      "ageHours": 6.3
+      "viewsPerHour": 2523,
+      "views": 20928,
+      "ageHours": 8.3
+    },
+    {
+      "title": "PBS News Hour live episode, August 7, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "ZBMM1IfmKdk",
+      "viewsPerHour": 1487,
+      "views": 4239,
+      "ageHours": 2.8
     },
     {
       "title": "Louis Theroux Goes Under Knife and Explores Extreme Plastic Surgery",
       "channel": "Real Stories",
       "videoId": "MKCcYtYWBxY",
-      "viewsPerHour": 1519,
-      "views": 37777,
-      "ageHours": 24.9
+      "viewsPerHour": 1469,
+      "views": 39473,
+      "ageHours": 26.9
     },
     {
       "title": "BREAKING: U.S. economy unexpectedly LOST 23,000 jobs in July",
       "channel": "MS NOW",
       "videoId": "B3BYIQ4sqhQ",
-      "viewsPerHour": 1158,
+      "viewsPerHour": 887,
       "views": 7544,
-      "ageHours": 6.5
+      "ageHours": 8.5
     },
     {
       "title": "S9 E27: Rishi Sunak & Bail Reform: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "vo7cYJHVpUQ",
-      "viewsPerHour": 726,
-      "views": 4581,
-      "ageHours": 6.3
-    },
-    {
-      "title": "Matt Gourley's Wife Exposes His Secret T-Shirt Side Hustle | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "P0NV1VeH1c0",
-      "viewsPerHour": 713,
-      "views": 24448,
-      "ageHours": 34.3
+      "viewsPerHour": 739,
+      "views": 6134,
+      "ageHours": 8.3
     },
     {
       "title": "S9 E26: Ukraine War & Transgender Rights: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "ikFe0NcKv2c",
-      "viewsPerHour": 702,
-      "views": 21263,
-      "ageHours": 30.3
+      "viewsPerHour": 679,
+      "views": 21927,
+      "ageHours": 32.3
     },
     {
-      "title": "Bring it on, I guess?': Nicolle reacts to Trump's CHAOTIC, deluded speech celebrating WEAK economy",
-      "channel": "MS NOW",
-      "videoId": "J73Lid3nDmg",
-      "viewsPerHour": 505,
-      "views": 12146,
-      "ageHours": 24
+      "title": "Matt Gourley's Wife Exposes His Secret T-Shirt Side Hustle | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "P0NV1VeH1c0",
+      "viewsPerHour": 674,
+      "views": 24448,
+      "ageHours": 36.3
+    },
+    {
+      "title": "The (Persistent) Illusion of Centrifugal Force | What the Physics?!",
+      "channel": "NOVA",
+      "videoId": "v1H8YtqfjN4",
+      "viewsPerHour": 575,
+      "views": 3456,
+      "ageHours": 6
     },
     {
       "title": "GOP’s midterm strategy: Use the DSA to SPLIT Democrats ",
       "channel": "MS NOW",
       "videoId": "dcZku9BR9Kc",
-      "viewsPerHour": 387,
+      "viewsPerHour": 297,
       "views": 2541,
-      "ageHours": 6.6
+      "ageHours": 8.5
     },
     {
       "title": "Kaitlin Olson Feels Like She Hit The Jackpot With \"Always Sunny\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "9aPHxi8BHv4",
-      "viewsPerHour": 338,
+      "viewsPerHour": 266,
       "views": 2471,
-      "ageHours": 7.3
+      "ageHours": 9.3
     },
     {
       "title": "This Or That: Why Star Trek is Better Than Star Wars | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "IP3kVC93SjI",
-      "viewsPerHour": 229,
+      "viewsPerHour": 192,
       "views": 2357,
-      "ageHours": 10.3
+      "ageHours": 12.3
+    },
+    {
+      "title": "Drought and aging infrastructure plunge Puerto Rico into a water crisis",
+      "channel": "PBS NewsHour",
+      "videoId": "9ZcYkG3eD_w",
+      "viewsPerHour": 170,
+      "views": 274,
+      "ageHours": 1.6
     },
     {
       "title": "WATCH LIVE: Senate expected to vote on Russia sanctions and more",
       "channel": "PBS NewsHour",
       "videoId": "2itTs63x9eY",
-      "viewsPerHour": 203,
+      "viewsPerHour": 164,
       "views": 1707,
-      "ageHours": 8.4
+      "ageHours": 10.4
     },
     {
       "title": "WATCH: Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
       "channel": "PBS NewsHour",
       "videoId": "hSW29bbS2aE",
-      "viewsPerHour": 198,
+      "viewsPerHour": 155,
       "views": 1448,
-      "ageHours": 7.3
-    },
-    {
-      "title": "PBS News Hour live episode, August 6, 2025",
-      "channel": "PBS NewsHour",
-      "videoId": "FKdhHZdST7s",
-      "viewsPerHour": 171,
-      "views": 4301,
-      "ageHours": 25.2
+      "ageHours": 9.3
     },
     {
       "title": "If you're in Johnson City Tennessee tomorrow, SAY HI! Then Atlanta on Friday",
       "channel": "Louis Rossmann",
       "videoId": "CL2DuVUIqcc",
-      "viewsPerHour": 90,
+      "viewsPerHour": 86,
       "views": 3952,
-      "ageHours": 44
+      "ageHours": 46
     },
     {
-      "title": "Plane takeoff during Marine One flight renews concerns about D.C.'s busy airspace",
+      "title": "Colombia's new president reflects Latin America's right-wing shift",
       "channel": "PBS NewsHour",
-      "videoId": "1-1SJYTG72g",
+      "videoId": "kr7UD2DqonI",
       "viewsPerHour": 10,
-      "views": 233,
-      "ageHours": 23.7
-    },
-    {
-      "title": "Greece deploys satellite detection system to combat deadly wildfires",
-      "channel": "PBS NewsHour",
-      "videoId": "_FvUOVLVMbs",
-      "viewsPerHour": 1,
-      "views": 28,
-      "ageHours": 23.5
+      "views": 16,
+      "ageHours": 1.5
     }
   ]
 }
