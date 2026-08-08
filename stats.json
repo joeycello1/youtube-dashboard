@@ -440,7 +440,7 @@
     },
     {
       "keyword": "UFO",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "NOVA",
@@ -448,7 +448,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "matches": 9
+      "matches": 8
     },
     {
       "keyword": "Conan O'Brien",
@@ -480,7 +480,7 @@
     },
     {
       "keyword": "Real Stories",
-      "matches": 3
+      "matches": 2
     },
     {
       "keyword": "The Daily Show",
@@ -489,188 +489,172 @@
   ],
   "mostViral48h": [
     {
-      "title": "He Was a Blackwater Mercenary. Here’s Why He’s Worried about the Board of Peace",
-      "channel": "More Perfect Union",
-      "videoId": "iSHR_tEYJUs",
-      "viewsPerHour": 6563,
-      "views": 311075,
-      "ageHours": 47.4
-    },
-    {
       "title": "Brooks and Capehart on what progressive primary wins mean for Democrats",
       "channel": "PBS NewsHour",
       "videoId": "Q9URCTFYkMo",
-      "viewsPerHour": 5932,
+      "viewsPerHour": 5239,
       "views": 89697,
-      "ageHours": 15.1
+      "ageHours": 17.1
     },
     {
       "title": "PBS News Hour full episode, August 7, 2026",
       "channel": "PBS NewsHour",
       "videoId": "QF32VcH_ZrI",
-      "viewsPerHour": 3802,
+      "viewsPerHour": 3353,
       "views": 56719,
-      "ageHours": 14.9
+      "ageHours": 16.9
     },
     {
       "title": "Ancient Well Mysteries Explored | The Curse of Oak Island",
       "channel": "History",
       "videoId": "fyQD9O-aUXw",
-      "viewsPerHour": 1732,
-      "views": 38597,
-      "ageHours": 22.3
+      "viewsPerHour": 1648,
+      "views": 40020,
+      "ageHours": 24.3
     },
     {
       "title": "FLAMETHROWER Reveals Bizarre Blob-Like Phenomenon (S4) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "OjrL7__fvVA",
-      "viewsPerHour": 1470,
-      "views": 28350,
-      "ageHours": 19.3
-    },
-    {
-      "title": "The Last Word with Lawrence O'Donnell - Aug. 7 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "_WhbgrtKES0",
-      "viewsPerHour": 1136,
-      "views": 10632,
-      "ageHours": 9.4
+      "viewsPerHour": 1383,
+      "views": 29431,
+      "ageHours": 21.3
     },
     {
       "title": "Louis Theroux Goes Under Knife and Explores Extreme Plastic Surgery",
       "channel": "Real Stories",
       "videoId": "MKCcYtYWBxY",
-      "viewsPerHour": 1122,
-      "views": 45862,
-      "ageHours": 40.9
+      "viewsPerHour": 1080,
+      "views": 46271,
+      "ageHours": 42.9
     },
     {
-      "title": "S9 E26: Ukraine War & Transgender Rights: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "ikFe0NcKv2c",
-      "viewsPerHour": 546,
-      "views": 25290,
-      "ageHours": 46.3
+      "title": "The Last Word with Lawrence O'Donnell - Aug. 7 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "_WhbgrtKES0",
+      "viewsPerHour": 936,
+      "views": 10632,
+      "ageHours": 11.4
     },
     {
       "title": "S9 E27: Rishi Sunak & Bail Reform: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "vo7cYJHVpUQ",
-      "viewsPerHour": 542,
-      "views": 12077,
-      "ageHours": 22.3
+      "viewsPerHour": 526,
+      "views": 12783,
+      "ageHours": 24.3
     },
     {
       "title": "TEMPORARY tenant': Trump SLAMMED by appeals court, blocking his White House ballroom construction",
       "channel": "MS NOW",
       "videoId": "NaRKOQvVGEU",
-      "viewsPerHour": 518,
+      "viewsPerHour": 461,
       "views": 8372,
-      "ageHours": 16.2
-    },
-    {
-      "title": "‘Do not be fooled, be ready’: How Trump & his GOP could stretch laws of democracy in midterms",
-      "channel": "MS NOW",
-      "videoId": "t-xbq8Hjf-Y",
-      "viewsPerHour": 396,
-      "views": 1700,
-      "ageHours": 4.3
+      "ageHours": 18.2
     },
     {
       "title": "The (Persistent) Illusion of Centrifugal Force | What the Physics?!",
       "channel": "NOVA",
       "videoId": "v1H8YtqfjN4",
-      "viewsPerHour": 376,
-      "views": 7516,
-      "ageHours": 20
+      "viewsPerHour": 356,
+      "views": 7833,
+      "ageHours": 22
     },
     {
       "title": "BREAKING: U.S. economy unexpectedly LOST 23,000 jobs in July",
       "channel": "MS NOW",
       "videoId": "B3BYIQ4sqhQ",
-      "viewsPerHour": 335,
+      "viewsPerHour": 308,
       "views": 7544,
-      "ageHours": 22.5
+      "ageHours": 24.5
+    },
+    {
+      "title": "‘Do not be fooled, be ready’: How Trump & his GOP could stretch laws of democracy in midterms",
+      "channel": "MS NOW",
+      "videoId": "t-xbq8Hjf-Y",
+      "viewsPerHour": 270,
+      "views": 1700,
+      "ageHours": 6.3
     },
     {
       "title": "PBS News Hour live episode, August 7, 2026",
       "channel": "PBS NewsHour",
       "videoId": "ZBMM1IfmKdk",
-      "viewsPerHour": 252,
+      "viewsPerHour": 225,
       "views": 4239,
-      "ageHours": 16.8
+      "ageHours": 18.8
     },
     {
       "title": "\"Simply not going to work': Shrinking munitions supply exposes Trump's faulty strategy against Iran",
       "channel": "MS NOW",
       "videoId": "B3d_ufz4Mi8",
-      "viewsPerHour": 228,
+      "viewsPerHour": 189,
       "views": 2228,
-      "ageHours": 9.8
+      "ageHours": 11.8
     },
     {
       "title": "GOP’s midterm strategy: Use the DSA to SPLIT Democrats ",
       "channel": "MS NOW",
       "videoId": "dcZku9BR9Kc",
-      "viewsPerHour": 113,
+      "viewsPerHour": 104,
       "views": 2541,
-      "ageHours": 22.5
+      "ageHours": 24.5
     },
     {
       "title": "Kaitlin Olson Feels Like She Hit The Jackpot With \"Always Sunny\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "9aPHxi8BHv4",
-      "viewsPerHour": 106,
+      "viewsPerHour": 98,
       "views": 2471,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "This Or That: Why Star Trek is Better Than Star Wars | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "IP3kVC93SjI",
-      "viewsPerHour": 90,
+      "viewsPerHour": 83,
       "views": 2357,
-      "ageHours": 26.3
+      "ageHours": 28.3
     },
     {
       "title": "WATCH LIVE: Senate expected to vote on Russia sanctions and more",
       "channel": "PBS NewsHour",
       "videoId": "2itTs63x9eY",
-      "viewsPerHour": 70,
+      "viewsPerHour": 65,
       "views": 1707,
-      "ageHours": 24.4
+      "ageHours": 26.4
     },
     {
       "title": "WATCH: Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
       "channel": "PBS NewsHour",
       "videoId": "hSW29bbS2aE",
-      "viewsPerHour": 62,
+      "viewsPerHour": 57,
       "views": 1448,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": " A tale of two economies: Americans are STRESSED OUT but Trump insists that things are going great",
       "channel": "MS NOW",
       "videoId": "BfuU7lW2Mak",
-      "viewsPerHour": 34,
+      "viewsPerHour": 28,
       "views": 324,
-      "ageHours": 9.7
+      "ageHours": 11.6
     },
     {
       "title": "Drought and aging infrastructure plunge Puerto Rico into a water crisis",
       "channel": "PBS NewsHour",
       "videoId": "9ZcYkG3eD_w",
-      "viewsPerHour": 18,
+      "viewsPerHour": 16,
       "views": 274,
-      "ageHours": 15.6
+      "ageHours": 17.6
     },
     {
       "title": "Temporary tenant': Judge drops a dose of reality on Trump's ballroom fantasy",
       "channel": "MS NOW",
       "videoId": "op9-vnc8V30",
-      "viewsPerHour": 4,
+      "viewsPerHour": 3,
       "views": 40,
-      "ageHours": 9.5
+      "ageHours": 11.5
     },
     {
       "title": "Colombia's new president reflects Latin America's right-wing shift",
@@ -678,7 +662,7 @@
       "videoId": "kr7UD2DqonI",
       "viewsPerHour": 1,
       "views": 16,
-      "ageHours": 15.5
+      "ageHours": 17.5
     }
   ]
 }
