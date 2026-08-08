@@ -1,28 +1,36 @@
 {
   "videosPerChannel": [
     {
-      "channel": "MS NOW",
-      "count": 8
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 7
+      "channel": "Last Week Tonight",
+      "count": 19
     },
     {
       "channel": "History",
-      "count": 32
+      "count": 33
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 2
+    },
+    {
+      "channel": "The Interview",
+      "count": 8
+    },
+    {
+      "channel": "MS NOW",
+      "count": 6
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 5
     },
     {
       "channel": "NOVA",
       "count": 13
     },
     {
-      "channel": "Last Week Tonight",
-      "count": 19
-    },
-    {
       "channel": "Conan O'Brien",
-      "count": 12
+      "count": 11
     },
     {
       "channel": "Real Stories",
@@ -30,7 +38,7 @@
     },
     {
       "channel": "More Perfect Union",
-      "count": 17
+      "count": 16
     },
     {
       "channel": "Mayim Bialik",
@@ -42,15 +50,11 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 15
+      "count": 14
     },
     {
       "channel": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 2
     },
     {
       "channel": "Jonathan Pie",
@@ -59,10 +63,6 @@
     {
       "channel": "Nat Geo",
       "count": 2
-    },
-    {
-      "channel": "The Interview",
-      "count": 7
     },
     {
       "channel": "Chris Lehto",
@@ -79,12 +79,28 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "MS NOW",
+      "keyword": "Last Week Tonight",
+      "count": 18
+    },
+    {
+      "keyword": "AI",
       "count": 8
     },
     {
-      "keyword": "PBS NewsHour",
+      "keyword": "The Daily Show",
+      "count": 2
+    },
+    {
+      "keyword": "The Interview",
+      "count": 7
+    },
+    {
+      "keyword": "MS NOW",
       "count": 6
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 4
     },
     {
       "keyword": "PBS NewsHour, MS NOW",
@@ -99,12 +115,8 @@
       "count": 23
     },
     {
-      "keyword": "Last Week Tonight",
-      "count": 18
-    },
-    {
       "keyword": "Conan O'Brien",
-      "count": 12
+      "count": 11
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -112,19 +124,15 @@
     },
     {
       "keyword": "More Perfect Union",
-      "count": 16
+      "count": 15
     },
     {
       "keyword": "UFO, UAP",
       "count": 5
     },
     {
-      "keyword": "AI",
-      "count": 7
-    },
-    {
       "keyword": "Louis Rossmann",
-      "count": 14
+      "count": 13
     },
     {
       "keyword": "The Rest Is Science",
@@ -133,10 +141,6 @@
     {
       "keyword": "Real Stories",
       "count": 21
-    },
-    {
-      "keyword": "The Daily Show",
-      "count": 2
     },
     {
       "keyword": "Jonathan Pie",
@@ -161,10 +165,6 @@
     {
       "keyword": "Giza",
       "count": 1
-    },
-    {
-      "keyword": "The Interview",
-      "count": 6
     },
     {
       "keyword": "UAP",
@@ -206,11 +206,11 @@
   "dailySummary": [
     {
       "date": "2026-08-08",
-      "videos": 5
+      "videos": 9
     },
     {
       "date": "2026-08-07",
-      "videos": 16
+      "videos": 12
     },
     {
       "date": "2026-08-06",
@@ -234,7 +234,7 @@
     },
     {
       "date": "2026-08-01",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-07-31",
@@ -246,7 +246,7 @@
     },
     {
       "date": "2026-07-29",
-      "videos": 8
+      "videos": 7
     },
     {
       "date": "2026-07-28",
@@ -266,7 +266,7 @@
     },
     {
       "date": "2026-07-24",
-      "videos": 8
+      "videos": 6
     },
     {
       "date": "2026-07-23",
@@ -422,17 +422,33 @@
     },
     {
       "date": "2026-06-09",
-      "videos": 3
+      "videos": 2
     }
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "Last Week Tonight",
+      "matches": 9
+    },
+    {
+      "keyword": "AI",
+      "matches": 3
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 2
+    },
+    {
+      "keyword": "The Interview",
+      "matches": 1
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 8
+      "matches": 6
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 6
+      "matches": 4
     },
     {
       "keyword": "PBS NewsHour, MS NOW",
@@ -445,10 +461,6 @@
     {
       "keyword": "NOVA",
       "matches": 5
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "matches": 8
     },
     {
       "keyword": "Conan O'Brien",
@@ -467,10 +479,6 @@
       "matches": 2
     },
     {
-      "keyword": "AI",
-      "matches": 2
-    },
-    {
       "keyword": "Louis Rossmann",
       "matches": 4
     },
@@ -481,10 +489,6 @@
     {
       "keyword": "Real Stories",
       "matches": 2
-    },
-    {
-      "keyword": "The Daily Show",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -492,161 +496,161 @@
       "title": "Brooks and Capehart on what progressive primary wins mean for Democrats",
       "channel": "PBS NewsHour",
       "videoId": "Q9URCTFYkMo",
-      "viewsPerHour": 5239,
+      "viewsPerHour": 4693,
       "views": 89697,
-      "ageHours": 17.1
+      "ageHours": 19.1
+    },
+    {
+      "title": "Jordan Klepper Prepares for His Colonoscopy - After The Cut | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "YwgUft1SAzY",
+      "viewsPerHour": 3516,
+      "views": 18574,
+      "ageHours": 5.3
     },
     {
       "title": "PBS News Hour full episode, August 7, 2026",
       "channel": "PBS NewsHour",
       "videoId": "QF32VcH_ZrI",
-      "viewsPerHour": 3353,
+      "viewsPerHour": 2999,
       "views": 56719,
-      "ageHours": 16.9
+      "ageHours": 18.9
+    },
+    {
+      "title": "S9 E28: Election Subversion: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "1BqWBJmLyy8",
+      "viewsPerHour": 1870,
+      "views": 4260,
+      "ageHours": 2.3
     },
     {
       "title": "Ancient Well Mysteries Explored | The Curse of Oak Island",
       "channel": "History",
       "videoId": "fyQD9O-aUXw",
-      "viewsPerHour": 1648,
-      "views": 40020,
-      "ageHours": 24.3
+      "viewsPerHour": 1641,
+      "views": 43122,
+      "ageHours": 26.3
     },
     {
       "title": "FLAMETHROWER Reveals Bizarre Blob-Like Phenomenon (S4) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "OjrL7__fvVA",
-      "viewsPerHour": 1383,
-      "views": 29431,
-      "ageHours": 21.3
+      "viewsPerHour": 1304,
+      "views": 30352,
+      "ageHours": 23.3
+    },
+    {
+      "title": "Billy Strings Escaped the Darkness. He’s Playing to Not Go Back. | The Interview",
+      "channel": "The Interview",
+      "videoId": "LjLOQYmrDtQ",
+      "viewsPerHour": 1283,
+      "views": 7093,
+      "ageHours": 5.5
     },
     {
       "title": "Louis Theroux Goes Under Knife and Explores Extreme Plastic Surgery",
       "channel": "Real Stories",
       "videoId": "MKCcYtYWBxY",
-      "viewsPerHour": 1080,
-      "views": 46271,
-      "ageHours": 42.9
+      "viewsPerHour": 1043,
+      "views": 46793,
+      "ageHours": 44.8
+    },
+    {
+      "title": "AI Discovers Hidden Chambers (S18) | Ancient Aliens",
+      "channel": "History",
+      "videoId": "826Ps2ThCoU",
+      "viewsPerHour": 836,
+      "views": 1909,
+      "ageHours": 2.3
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Aug. 7 | Audio Only",
       "channel": "MS NOW",
       "videoId": "_WhbgrtKES0",
-      "viewsPerHour": 936,
+      "viewsPerHour": 796,
       "views": 10632,
-      "ageHours": 11.4
+      "ageHours": 13.3
     },
     {
       "title": "S9 E27: Rishi Sunak & Bail Reform: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "vo7cYJHVpUQ",
-      "viewsPerHour": 526,
-      "views": 12783,
-      "ageHours": 24.3
+      "viewsPerHour": 512,
+      "views": 13466,
+      "ageHours": 26.3
     },
     {
       "title": "TEMPORARY tenant': Trump SLAMMED by appeals court, blocking his White House ballroom construction",
       "channel": "MS NOW",
       "videoId": "NaRKOQvVGEU",
-      "viewsPerHour": 461,
+      "viewsPerHour": 416,
       "views": 8372,
-      "ageHours": 18.2
+      "ageHours": 20.1
     },
     {
       "title": "The (Persistent) Illusion of Centrifugal Force | What the Physics?!",
       "channel": "NOVA",
       "videoId": "v1H8YtqfjN4",
-      "viewsPerHour": 356,
-      "views": 7833,
-      "ageHours": 22
-    },
-    {
-      "title": "BREAKING: U.S. economy unexpectedly LOST 23,000 jobs in July",
-      "channel": "MS NOW",
-      "videoId": "B3BYIQ4sqhQ",
-      "viewsPerHour": 308,
-      "views": 7544,
-      "ageHours": 24.5
+      "viewsPerHour": 339,
+      "views": 8129,
+      "ageHours": 24
     },
     {
       "title": "‘Do not be fooled, be ready’: How Trump & his GOP could stretch laws of democracy in midterms",
       "channel": "MS NOW",
       "videoId": "t-xbq8Hjf-Y",
-      "viewsPerHour": 270,
+      "viewsPerHour": 205,
       "views": 1700,
-      "ageHours": 6.3
+      "ageHours": 8.3
     },
     {
       "title": "PBS News Hour live episode, August 7, 2026",
       "channel": "PBS NewsHour",
       "videoId": "ZBMM1IfmKdk",
-      "viewsPerHour": 225,
+      "viewsPerHour": 203,
       "views": 4239,
-      "ageHours": 18.8
+      "ageHours": 20.8
     },
     {
       "title": "\"Simply not going to work': Shrinking munitions supply exposes Trump's faulty strategy against Iran",
       "channel": "MS NOW",
       "videoId": "B3d_ufz4Mi8",
-      "viewsPerHour": 189,
+      "viewsPerHour": 162,
       "views": 2228,
-      "ageHours": 11.8
-    },
-    {
-      "title": "GOP’s midterm strategy: Use the DSA to SPLIT Democrats ",
-      "channel": "MS NOW",
-      "videoId": "dcZku9BR9Kc",
-      "viewsPerHour": 104,
-      "views": 2541,
-      "ageHours": 24.5
+      "ageHours": 13.8
     },
     {
       "title": "Kaitlin Olson Feels Like She Hit The Jackpot With \"Always Sunny\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "9aPHxi8BHv4",
-      "viewsPerHour": 98,
+      "viewsPerHour": 91,
       "views": 2471,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
       "title": "This Or That: Why Star Trek is Better Than Star Wars | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "IP3kVC93SjI",
-      "viewsPerHour": 83,
+      "viewsPerHour": 78,
       "views": 2357,
-      "ageHours": 28.3
-    },
-    {
-      "title": "WATCH LIVE: Senate expected to vote on Russia sanctions and more",
-      "channel": "PBS NewsHour",
-      "videoId": "2itTs63x9eY",
-      "viewsPerHour": 65,
-      "views": 1707,
-      "ageHours": 26.4
-    },
-    {
-      "title": "WATCH: Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
-      "channel": "PBS NewsHour",
-      "videoId": "hSW29bbS2aE",
-      "viewsPerHour": 57,
-      "views": 1448,
-      "ageHours": 25.3
+      "ageHours": 30.3
     },
     {
       "title": " A tale of two economies: Americans are STRESSED OUT but Trump insists that things are going great",
       "channel": "MS NOW",
       "videoId": "BfuU7lW2Mak",
-      "viewsPerHour": 28,
+      "viewsPerHour": 24,
       "views": 324,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "Drought and aging infrastructure plunge Puerto Rico into a water crisis",
       "channel": "PBS NewsHour",
       "videoId": "9ZcYkG3eD_w",
-      "viewsPerHour": 16,
+      "viewsPerHour": 14,
       "views": 274,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
       "title": "Temporary tenant': Judge drops a dose of reality on Trump's ballroom fantasy",
@@ -654,7 +658,7 @@
       "videoId": "op9-vnc8V30",
       "viewsPerHour": 3,
       "views": 40,
-      "ageHours": 11.5
+      "ageHours": 13.5
     },
     {
       "title": "Colombia's new president reflects Latin America's right-wing shift",
@@ -662,7 +666,7 @@
       "videoId": "kr7UD2DqonI",
       "viewsPerHour": 1,
       "views": 16,
-      "ageHours": 17.5
+      "ageHours": 19.5
     }
   ]
 }
