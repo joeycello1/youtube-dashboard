@@ -1,24 +1,24 @@
 {
   "videosPerChannel": [
     {
+      "channel": "Real Stories",
+      "count": 38
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 19
+    },
+    {
       "channel": "MS NOW",
-      "count": 4
+      "count": 2
     },
     {
       "channel": "History",
       "count": 35
     },
     {
-      "channel": "Real Stories",
-      "count": 38
-    },
-    {
       "channel": "Chris Lehto",
       "count": 5
-    },
-    {
-      "channel": "Last Week Tonight",
-      "count": 19
     },
     {
       "channel": "The Daily Show",
@@ -26,7 +26,7 @@
     },
     {
       "channel": "The Interview",
-      "count": 8
+      "count": 7
     },
     {
       "channel": "NOVA",
@@ -34,7 +34,7 @@
     },
     {
       "channel": "Conan O'Brien",
-      "count": 11
+      "count": 10
     },
     {
       "channel": "More Perfect Union",
@@ -50,7 +50,7 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 13
+      "count": 12
     },
     {
       "channel": "The Rest Is Science",
@@ -75,8 +75,16 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "Real Stories",
+      "count": 22
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 18
+    },
+    {
       "keyword": "MS NOW",
-      "count": 4
+      "count": 2
     },
     {
       "keyword": "NOVA",
@@ -87,16 +95,8 @@
       "count": 21
     },
     {
-      "keyword": "Real Stories",
-      "count": 21
-    },
-    {
       "keyword": "UAP",
       "count": 4
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "count": 18
     },
     {
       "keyword": "AI",
@@ -108,11 +108,11 @@
     },
     {
       "keyword": "The Interview",
-      "count": 7
+      "count": 6
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 11
+      "count": 10
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -128,7 +128,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 12
+      "count": 11
     },
     {
       "keyword": "The Rest Is Science",
@@ -185,16 +185,16 @@
     {
       "keyword": "testimony, UFO, Giza",
       "count": 1
-    },
-    {
-      "keyword": "Real Stories, UFO",
-      "count": 1
     }
   ],
   "dailySummary": [
     {
+      "date": "2026-08-09",
+      "videos": 2
+    },
+    {
       "date": "2026-08-08",
-      "videos": 12
+      "videos": 10
     },
     {
       "date": "2026-08-07",
@@ -230,7 +230,7 @@
     },
     {
       "date": "2026-07-30",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-07-29",
@@ -250,7 +250,7 @@
     },
     {
       "date": "2026-07-25",
-      "videos": 6
+      "videos": 4
     },
     {
       "date": "2026-07-24",
@@ -406,33 +406,33 @@
     },
     {
       "date": "2026-06-10",
-      "videos": 3
+      "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "MS NOW",
+      "keyword": "Real Stories",
       "matches": 4
     },
     {
+      "keyword": "Last Week Tonight",
+      "matches": 9
+    },
+    {
+      "keyword": "MS NOW",
+      "matches": 2
+    },
+    {
       "keyword": "NOVA",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "UFO",
       "matches": 4
     },
     {
-      "keyword": "Real Stories",
-      "matches": 3
-    },
-    {
       "keyword": "UAP",
       "matches": 1
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "matches": 8
     },
     {
       "keyword": "AI",
@@ -464,7 +464,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "matches": 4
+      "matches": 3
     },
     {
       "keyword": "The Rest Is Science",
@@ -476,113 +476,105 @@
       "title": "Jordan Klepper Prepares for His Colonoscopy - After The Cut | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "YwgUft1SAzY",
-      "viewsPerHour": 3148,
-      "views": 85947,
-      "ageHours": 27.3
+      "viewsPerHour": 3041,
+      "views": 89241,
+      "ageHours": 29.3
     },
     {
       "title": "Billy Strings Escaped the Darkness. He’s Playing to Not Go Back. | The Interview",
       "channel": "The Interview",
       "videoId": "LjLOQYmrDtQ",
-      "viewsPerHour": 1858,
-      "views": 51182,
-      "ageHours": 27.5
+      "viewsPerHour": 1893,
+      "views": 56017,
+      "ageHours": 29.6
     },
     {
       "title": "S9 E28: Election Subversion: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "1BqWBJmLyy8",
-      "viewsPerHour": 1360,
-      "views": 33052,
-      "ageHours": 24.3
-    },
-    {
-      "title": "Phantoms of the Deep (S3, E7) | The Curse of Oak Island | Full Episode",
-      "channel": "History",
-      "videoId": "-zpFHuLqtmI",
-      "viewsPerHour": 980,
-      "views": 17929,
-      "ageHours": 18.3
+      "viewsPerHour": 1308,
+      "views": 34442,
+      "ageHours": 26.3
     },
     {
       "title": "AI Discovers Hidden Chambers (S18) | Ancient Aliens",
       "channel": "History",
       "videoId": "826Ps2ThCoU",
-      "viewsPerHour": 885,
-      "views": 21506,
-      "ageHours": 24.3
+      "viewsPerHour": 946,
+      "views": 24920,
+      "ageHours": 26.3
+    },
+    {
+      "title": "Phantoms of the Deep (S3, E7) | The Curse of Oak Island | Full Episode",
+      "channel": "History",
+      "videoId": "-zpFHuLqtmI",
+      "viewsPerHour": 931,
+      "views": 18938,
+      "ageHours": 20.3
+    },
+    {
+      "title": "S9 E29: Midterm Election Results & The Monarchy: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "sYYuW9YJshU",
+      "viewsPerHour": 878,
+      "views": 2054,
+      "ageHours": 2.3
     },
     {
       "title": "FLAMETHROWER Reveals Bizarre Blob-Like Phenomenon (S4) | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "OjrL7__fvVA",
-      "viewsPerHour": 821,
+      "viewsPerHour": 786,
       "views": 37204,
-      "ageHours": 45.3
+      "ageHours": 47.3
     },
     {
       "title": "Eyewitness Spots UFO | The UnXplained",
       "channel": "History",
       "videoId": "w02FfCWEWRc",
-      "viewsPerHour": 792,
-      "views": 16879,
-      "ageHours": 21.3
+      "viewsPerHour": 740,
+      "views": 17276,
+      "ageHours": 23.3
     },
     {
       "title": "How 14 Elite Soldiers Survived Against 200 Taliban Fighters",
       "channel": "Real Stories",
       "videoId": "sZc48Yqt5EA",
-      "viewsPerHour": 527,
-      "views": 11747,
-      "ageHours": 22.3
-    },
-    {
-      "title": "The Last Word with Lawrence O'Donnell - Aug. 7 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "_WhbgrtKES0",
-      "viewsPerHour": 301,
-      "views": 10632,
-      "ageHours": 35.4
+      "viewsPerHour": 506,
+      "views": 12327,
+      "ageHours": 24.3
     },
     {
       "title": "The Fermi Paradox Has a New Problem",
       "channel": "Chris Lehto",
       "videoId": "eDcnH8XCcFk",
-      "viewsPerHour": 295,
-      "views": 6580,
-      "ageHours": 22.3
+      "viewsPerHour": 278,
+      "views": 6762,
+      "ageHours": 24.3
     },
     {
-      "title": "The (Persistent) Illusion of Centrifugal Force | What the Physics?!",
-      "channel": "NOVA",
-      "videoId": "v1H8YtqfjN4",
-      "viewsPerHour": 249,
-      "views": 11467,
-      "ageHours": 46
+      "title": "Kim Cattrall's Emotional Reunion With Her Secret Long Lost Family | Who Do You Think You Are?",
+      "channel": "Real Stories",
+      "videoId": "wcNjuW0k5KQ",
+      "viewsPerHour": 233,
+      "views": 429,
+      "ageHours": 1.8
     },
     {
       "title": "INSTANT REACTION: Watch Todd Blanche's NARROW confirmation as Trump's AG | COMPILATION",
       "channel": "MS NOW",
       "videoId": "K2AhFxN0ObE",
-      "viewsPerHour": 144,
+      "viewsPerHour": 129,
       "views": 2594,
-      "ageHours": 18
+      "ageHours": 20
     },
     {
       "title": "‘Can’t AFFORD to breathe’: What voters are saying about their finances and the K-shaped economy",
       "channel": "MS NOW",
       "videoId": "FcHmOBEqoaY",
-      "viewsPerHour": 79,
+      "viewsPerHour": 71,
       "views": 1515,
-      "ageHours": 19.3
-    },
-    {
-      "title": "‘Do not be fooled, be ready’: How Trump & his GOP could stretch laws of democracy in midterms",
-      "channel": "MS NOW",
-      "videoId": "t-xbq8Hjf-Y",
-      "viewsPerHour": 56,
-      "views": 1700,
-      "ageHours": 30.3
+      "ageHours": 21.3
     }
   ]
 }
