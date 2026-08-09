@@ -432,7 +432,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "matches": 9
+      "matches": 8
     },
     {
       "keyword": "AI",
@@ -476,137 +476,113 @@
       "title": "Jordan Klepper Prepares for His Colonoscopy - After The Cut | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "YwgUft1SAzY",
-      "viewsPerHour": 3257,
-      "views": 82454,
-      "ageHours": 25.3
+      "viewsPerHour": 3148,
+      "views": 85947,
+      "ageHours": 27.3
     },
     {
       "title": "Billy Strings Escaped the Darkness. He’s Playing to Not Go Back. | The Interview",
       "channel": "The Interview",
       "videoId": "LjLOQYmrDtQ",
-      "viewsPerHour": 1857,
-      "views": 47475,
-      "ageHours": 25.6
+      "viewsPerHour": 1858,
+      "views": 51182,
+      "ageHours": 27.5
     },
     {
       "title": "S9 E28: Election Subversion: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "1BqWBJmLyy8",
-      "viewsPerHour": 1408,
-      "views": 31410,
-      "ageHours": 22.3
-    },
-    {
-      "title": "Ancient Well Mysteries Explored | The Curse of Oak Island",
-      "channel": "History",
-      "videoId": "fyQD9O-aUXw",
-      "viewsPerHour": 1295,
-      "views": 59952,
-      "ageHours": 46.3
+      "viewsPerHour": 1360,
+      "views": 33052,
+      "ageHours": 24.3
     },
     {
       "title": "Phantoms of the Deep (S3, E7) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "-zpFHuLqtmI",
-      "viewsPerHour": 1061,
-      "views": 17310,
-      "ageHours": 16.3
-    },
-    {
-      "title": "FLAMETHROWER Reveals Bizarre Blob-Like Phenomenon (S4) | The Secret of Skinwalker Ranch",
-      "channel": "History",
-      "videoId": "OjrL7__fvVA",
-      "viewsPerHour": 859,
-      "views": 37204,
-      "ageHours": 43.3
-    },
-    {
-      "title": "Eyewitness Spots UFO | The UnXplained",
-      "channel": "History",
-      "videoId": "w02FfCWEWRc",
-      "viewsPerHour": 851,
-      "views": 16432,
-      "ageHours": 19.3
+      "viewsPerHour": 980,
+      "views": 17929,
+      "ageHours": 18.3
     },
     {
       "title": "AI Discovers Hidden Chambers (S18) | Ancient Aliens",
       "channel": "History",
       "videoId": "826Ps2ThCoU",
-      "viewsPerHour": 832,
-      "views": 18573,
-      "ageHours": 22.3
+      "viewsPerHour": 885,
+      "views": 21506,
+      "ageHours": 24.3
+    },
+    {
+      "title": "FLAMETHROWER Reveals Bizarre Blob-Like Phenomenon (S4) | The Secret of Skinwalker Ranch",
+      "channel": "History",
+      "videoId": "OjrL7__fvVA",
+      "viewsPerHour": 821,
+      "views": 37204,
+      "ageHours": 45.3
+    },
+    {
+      "title": "Eyewitness Spots UFO | The UnXplained",
+      "channel": "History",
+      "videoId": "w02FfCWEWRc",
+      "viewsPerHour": 792,
+      "views": 16879,
+      "ageHours": 21.3
     },
     {
       "title": "How 14 Elite Soldiers Survived Against 200 Taliban Fighters",
       "channel": "Real Stories",
       "videoId": "sZc48Yqt5EA",
-      "viewsPerHour": 541,
-      "views": 10982,
-      "ageHours": 20.3
-    },
-    {
-      "title": "S9 E27: Rishi Sunak & Bail Reform: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "vo7cYJHVpUQ",
-      "viewsPerHour": 330,
-      "views": 15282,
-      "ageHours": 46.3
+      "viewsPerHour": 527,
+      "views": 11747,
+      "ageHours": 22.3
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Aug. 7 | Audio Only",
       "channel": "MS NOW",
       "videoId": "_WhbgrtKES0",
-      "viewsPerHour": 318,
+      "viewsPerHour": 301,
       "views": 10632,
-      "ageHours": 33.4
+      "ageHours": 35.4
     },
     {
       "title": "The Fermi Paradox Has a New Problem",
       "channel": "Chris Lehto",
       "videoId": "eDcnH8XCcFk",
-      "viewsPerHour": 311,
-      "views": 6327,
-      "ageHours": 20.3
+      "viewsPerHour": 295,
+      "views": 6580,
+      "ageHours": 22.3
     },
     {
       "title": "The (Persistent) Illusion of Centrifugal Force | What the Physics?!",
       "channel": "NOVA",
       "videoId": "v1H8YtqfjN4",
-      "viewsPerHour": 256,
-      "views": 11276,
-      "ageHours": 44
+      "viewsPerHour": 249,
+      "views": 11467,
+      "ageHours": 46
     },
     {
       "title": "INSTANT REACTION: Watch Todd Blanche's NARROW confirmation as Trump's AG | COMPILATION",
       "channel": "MS NOW",
       "videoId": "K2AhFxN0ObE",
-      "viewsPerHour": 162,
+      "viewsPerHour": 144,
       "views": 2594,
-      "ageHours": 16
+      "ageHours": 18
     },
     {
       "title": "‘Can’t AFFORD to breathe’: What voters are saying about their finances and the K-shaped economy",
       "channel": "MS NOW",
       "videoId": "FcHmOBEqoaY",
-      "viewsPerHour": 88,
+      "viewsPerHour": 79,
       "views": 1515,
-      "ageHours": 17.3
+      "ageHours": 19.3
     },
     {
       "title": "‘Do not be fooled, be ready’: How Trump & his GOP could stretch laws of democracy in midterms",
       "channel": "MS NOW",
       "videoId": "t-xbq8Hjf-Y",
-      "viewsPerHour": 60,
+      "viewsPerHour": 56,
       "views": 1700,
-      "ageHours": 28.3
-    },
-    {
-      "title": "Kaitlin Olson Feels Like She Hit The Jackpot With \"Always Sunny\" | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "9aPHxi8BHv4",
-      "viewsPerHour": 52,
-      "views": 2471,
-      "ageHours": 47.3
+      "ageHours": 30.3
     }
   ]
 }
