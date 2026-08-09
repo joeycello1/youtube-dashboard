@@ -452,7 +452,7 @@
     },
     {
       "keyword": "Real Stories, Louis Theroux",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "More Perfect Union",
@@ -476,105 +476,97 @@
       "title": "Jordan Klepper Prepares for His Colonoscopy - After The Cut | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "YwgUft1SAzY",
-      "viewsPerHour": 3041,
-      "views": 89241,
-      "ageHours": 29.3
+      "viewsPerHour": 2958,
+      "views": 92574,
+      "ageHours": 31.3
     },
     {
       "title": "Billy Strings Escaped the Darkness. He’s Playing to Not Go Back. | The Interview",
       "channel": "The Interview",
       "videoId": "LjLOQYmrDtQ",
-      "viewsPerHour": 1893,
-      "views": 56017,
-      "ageHours": 29.6
+      "viewsPerHour": 1923,
+      "views": 60669,
+      "ageHours": 31.5
     },
     {
       "title": "S9 E28: Election Subversion: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "1BqWBJmLyy8",
-      "viewsPerHour": 1308,
-      "views": 34442,
-      "ageHours": 26.3
-    },
-    {
-      "title": "AI Discovers Hidden Chambers (S18) | Ancient Aliens",
-      "channel": "History",
-      "videoId": "826Ps2ThCoU",
-      "viewsPerHour": 946,
-      "views": 24920,
-      "ageHours": 26.3
-    },
-    {
-      "title": "Phantoms of the Deep (S3, E7) | The Curse of Oak Island | Full Episode",
-      "channel": "History",
-      "videoId": "-zpFHuLqtmI",
-      "viewsPerHour": 931,
-      "views": 18938,
-      "ageHours": 20.3
+      "viewsPerHour": 1250,
+      "views": 35367,
+      "ageHours": 28.3
     },
     {
       "title": "S9 E29: Midterm Election Results & The Monarchy: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "sYYuW9YJshU",
-      "viewsPerHour": 878,
-      "views": 2054,
-      "ageHours": 2.3
+      "viewsPerHour": 1116,
+      "views": 4792,
+      "ageHours": 4.3
     },
     {
-      "title": "FLAMETHROWER Reveals Bizarre Blob-Like Phenomenon (S4) | The Secret of Skinwalker Ranch",
+      "title": "AI Discovers Hidden Chambers (S18) | Ancient Aliens",
       "channel": "History",
-      "videoId": "OjrL7__fvVA",
-      "viewsPerHour": 786,
-      "views": 37204,
-      "ageHours": 47.3
+      "videoId": "826Ps2ThCoU",
+      "viewsPerHour": 984,
+      "views": 27841,
+      "ageHours": 28.3
+    },
+    {
+      "title": "Phantoms of the Deep (S3, E7) | The Curse of Oak Island | Full Episode",
+      "channel": "History",
+      "videoId": "-zpFHuLqtmI",
+      "viewsPerHour": 899,
+      "views": 20030,
+      "ageHours": 22.3
     },
     {
       "title": "Eyewitness Spots UFO | The UnXplained",
       "channel": "History",
       "videoId": "w02FfCWEWRc",
-      "viewsPerHour": 740,
-      "views": 17276,
-      "ageHours": 23.3
+      "viewsPerHour": 707,
+      "views": 17891,
+      "ageHours": 25.3
     },
     {
       "title": "How 14 Elite Soldiers Survived Against 200 Taliban Fighters",
       "channel": "Real Stories",
       "videoId": "sZc48Yqt5EA",
-      "viewsPerHour": 506,
-      "views": 12327,
-      "ageHours": 24.3
-    },
-    {
-      "title": "The Fermi Paradox Has a New Problem",
-      "channel": "Chris Lehto",
-      "videoId": "eDcnH8XCcFk",
-      "viewsPerHour": 278,
-      "views": 6762,
-      "ageHours": 24.3
+      "viewsPerHour": 504,
+      "views": 13246,
+      "ageHours": 26.3
     },
     {
       "title": "Kim Cattrall's Emotional Reunion With Her Secret Long Lost Family | Who Do You Think You Are?",
       "channel": "Real Stories",
       "videoId": "wcNjuW0k5KQ",
-      "viewsPerHour": 233,
-      "views": 429,
-      "ageHours": 1.8
+      "viewsPerHour": 292,
+      "views": 1110,
+      "ageHours": 3.8
+    },
+    {
+      "title": "The Fermi Paradox Has a New Problem",
+      "channel": "Chris Lehto",
+      "videoId": "eDcnH8XCcFk",
+      "viewsPerHour": 265,
+      "views": 6958,
+      "ageHours": 26.3
     },
     {
       "title": "INSTANT REACTION: Watch Todd Blanche's NARROW confirmation as Trump's AG | COMPILATION",
       "channel": "MS NOW",
       "videoId": "K2AhFxN0ObE",
-      "viewsPerHour": 129,
+      "viewsPerHour": 118,
       "views": 2594,
-      "ageHours": 20
+      "ageHours": 22
     },
     {
       "title": "‘Can’t AFFORD to breathe’: What voters are saying about their finances and the K-shaped economy",
       "channel": "MS NOW",
       "videoId": "FcHmOBEqoaY",
-      "viewsPerHour": 71,
+      "viewsPerHour": 65,
       "views": 1515,
-      "ageHours": 21.3
+      "ageHours": 23.3
     }
   ]
 }
