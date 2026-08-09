@@ -468,7 +468,7 @@
     },
     {
       "keyword": "The Rest Is Science",
-      "matches": 2
+      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -476,97 +476,97 @@
       "title": "Jordan Klepper Prepares for His Colonoscopy - After The Cut | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "YwgUft1SAzY",
-      "viewsPerHour": 2958,
-      "views": 92574,
-      "ageHours": 31.3
+      "viewsPerHour": 2876,
+      "views": 95853,
+      "ageHours": 33.3
     },
     {
       "title": "Billy Strings Escaped the Darkness. He’s Playing to Not Go Back. | The Interview",
       "channel": "The Interview",
       "videoId": "LjLOQYmrDtQ",
-      "viewsPerHour": 1923,
-      "views": 60669,
-      "ageHours": 31.5
-    },
-    {
-      "title": "S9 E28: Election Subversion: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "1BqWBJmLyy8",
-      "viewsPerHour": 1250,
-      "views": 35367,
-      "ageHours": 28.3
+      "viewsPerHour": 1950,
+      "views": 65465,
+      "ageHours": 33.6
     },
     {
       "title": "S9 E29: Midterm Election Results & The Monarchy: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "sYYuW9YJshU",
-      "viewsPerHour": 1116,
-      "views": 4792,
-      "ageHours": 4.3
+      "viewsPerHour": 1361,
+      "views": 8614,
+      "ageHours": 6.3
+    },
+    {
+      "title": "S9 E28: Election Subversion: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "1BqWBJmLyy8",
+      "viewsPerHour": 1192,
+      "views": 36154,
+      "ageHours": 30.3
     },
     {
       "title": "AI Discovers Hidden Chambers (S18) | Ancient Aliens",
       "channel": "History",
       "videoId": "826Ps2ThCoU",
-      "viewsPerHour": 984,
-      "views": 27841,
-      "ageHours": 28.3
+      "viewsPerHour": 1021,
+      "views": 30977,
+      "ageHours": 30.3
     },
     {
       "title": "Phantoms of the Deep (S3, E7) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "-zpFHuLqtmI",
-      "viewsPerHour": 899,
-      "views": 20030,
-      "ageHours": 22.3
+      "viewsPerHour": 861,
+      "views": 20956,
+      "ageHours": 24.3
     },
     {
       "title": "Eyewitness Spots UFO | The UnXplained",
       "channel": "History",
       "videoId": "w02FfCWEWRc",
-      "viewsPerHour": 707,
-      "views": 17891,
-      "ageHours": 25.3
+      "viewsPerHour": 678,
+      "views": 18532,
+      "ageHours": 27.3
     },
     {
       "title": "How 14 Elite Soldiers Survived Against 200 Taliban Fighters",
       "channel": "Real Stories",
       "videoId": "sZc48Yqt5EA",
-      "viewsPerHour": 504,
-      "views": 13246,
-      "ageHours": 26.3
+      "viewsPerHour": 514,
+      "views": 14560,
+      "ageHours": 28.3
     },
     {
       "title": "Kim Cattrall's Emotional Reunion With Her Secret Long Lost Family | Who Do You Think You Are?",
       "channel": "Real Stories",
       "videoId": "wcNjuW0k5KQ",
-      "viewsPerHour": 292,
-      "views": 1110,
-      "ageHours": 3.8
+      "viewsPerHour": 284,
+      "views": 1657,
+      "ageHours": 5.8
     },
     {
       "title": "The Fermi Paradox Has a New Problem",
       "channel": "Chris Lehto",
       "videoId": "eDcnH8XCcFk",
-      "viewsPerHour": 265,
-      "views": 6958,
-      "ageHours": 26.3
+      "viewsPerHour": 253,
+      "views": 7168,
+      "ageHours": 28.3
     },
     {
       "title": "INSTANT REACTION: Watch Todd Blanche's NARROW confirmation as Trump's AG | COMPILATION",
       "channel": "MS NOW",
       "videoId": "K2AhFxN0ObE",
-      "viewsPerHour": 118,
+      "viewsPerHour": 108,
       "views": 2594,
-      "ageHours": 22
+      "ageHours": 24
     },
     {
       "title": "‘Can’t AFFORD to breathe’: What voters are saying about their finances and the K-shaped economy",
       "channel": "MS NOW",
       "videoId": "FcHmOBEqoaY",
-      "viewsPerHour": 65,
+      "viewsPerHour": 60,
       "views": 1515,
-      "ageHours": 23.3
+      "ageHours": 25.3
     }
   ]
 }
