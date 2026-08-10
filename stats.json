@@ -416,7 +416,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "Last Week Tonight",
-      "matches": 9
+      "matches": 8
     },
     {
       "keyword": "MS NOW",
@@ -452,7 +452,7 @@
     },
     {
       "keyword": "AI",
-      "matches": 3
+      "matches": 2
     },
     {
       "keyword": "The Daily Show",
@@ -484,153 +484,153 @@
       "title": "S13 E20: Trump and the DOJ & Buc-ee’s: 8/9/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "sPXxPcQoAZA",
-      "viewsPerHour": 14962,
-      "views": 49259,
-      "ageHours": 3.3
+      "viewsPerHour": 17983,
+      "views": 95080,
+      "ageHours": 5.3
     },
     {
       "title": "Our Worst Idea Yet",
       "channel": "The Rest Is Science",
       "videoId": "dVt4cjDdNdE",
-      "viewsPerHour": 7655,
-      "views": 71173,
-      "ageHours": 9.3
+      "viewsPerHour": 7415,
+      "views": 83734,
+      "ageHours": 11.3
     },
     {
       "title": "Jaw-Dropping Treasures Revealed | The Curse of Oak Island",
       "channel": "History",
       "videoId": "kdqOAqv5BbM",
-      "viewsPerHour": 3480,
-      "views": 42794,
-      "ageHours": 12.3
+      "viewsPerHour": 3274,
+      "views": 46798,
+      "ageHours": 14.3
     },
     {
       "title": "Jordan Klepper Prepares for His Colonoscopy - After The Cut | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "YwgUft1SAzY",
-      "viewsPerHour": 2690,
-      "views": 111076,
-      "ageHours": 41.3
-    },
-    {
-      "title": "MS NOW Highlights - August 9",
-      "channel": "MS NOW",
-      "videoId": "SXgo-Pjg03A",
-      "viewsPerHour": 2493,
-      "views": 15681,
-      "ageHours": 6.3
+      "viewsPerHour": 2649,
+      "views": 114689,
+      "ageHours": 43.3
     },
     {
       "title": "Venmo charges fees on unsolicited payments, this is a scam: drop Venmo TODAY!",
       "channel": "Louis Rossmann",
       "videoId": "8D2EAuqQk6M",
-      "viewsPerHour": 2483,
+      "viewsPerHour": 2134,
       "views": 30347,
-      "ageHours": 12.2
+      "ageHours": 14.2
     },
     {
       "title": "Billy Strings Escaped the Darkness. He’s Playing to Not Go Back. | The Interview",
       "channel": "The Interview",
       "videoId": "LjLOQYmrDtQ",
-      "viewsPerHour": 1951,
-      "views": 81034,
-      "ageHours": 41.5
+      "viewsPerHour": 1903,
+      "views": 82863,
+      "ageHours": 43.5
+    },
+    {
+      "title": "MS NOW Highlights - August 9",
+      "channel": "MS NOW",
+      "videoId": "SXgo-Pjg03A",
+      "viewsPerHour": 1893,
+      "views": 15681,
+      "ageHours": 8.3
     },
     {
       "title": "S9 E29: Midterm Election Results & The Monarchy: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "sYYuW9YJshU",
-      "viewsPerHour": 1335,
-      "views": 19084,
-      "ageHours": 14.3
+      "viewsPerHour": 1230,
+      "views": 20033,
+      "ageHours": 16.3
     },
     {
       "title": "S9 E28: Election Subversion: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "1BqWBJmLyy8",
-      "viewsPerHour": 990,
-      "views": 37916,
-      "ageHours": 38.3
+      "viewsPerHour": 948,
+      "views": 38207,
+      "ageHours": 40.3
     },
     {
       "title": "Phantoms of the Deep (S3, E7) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "-zpFHuLqtmI",
-      "viewsPerHour": 816,
-      "views": 26363,
-      "ageHours": 32.3
+      "viewsPerHour": 789,
+      "views": 27045,
+      "ageHours": 34.3
     },
     {
       "title": "AI Discovers Hidden Chambers (S18) | Ancient Aliens",
       "channel": "History",
       "videoId": "826Ps2ThCoU",
-      "viewsPerHour": 809,
+      "viewsPerHour": 769,
       "views": 30977,
-      "ageHours": 38.3
+      "ageHours": 40.3
     },
     {
       "title": "Eyewitness Spots UFO | The UnXplained",
       "channel": "History",
       "videoId": "w02FfCWEWRc",
-      "viewsPerHour": 578,
-      "views": 20417,
-      "ageHours": 35.3
-    },
-    {
-      "title": "What will Trump ask Todd Blanche to do next? Panel weighs in",
-      "channel": "MS NOW",
-      "videoId": "Oy88VqyC8qc",
-      "viewsPerHour": 550,
-      "views": 5224,
-      "ageHours": 9.5
+      "viewsPerHour": 554,
+      "views": 20672,
+      "ageHours": 37.3
     },
     {
       "title": "How 14 Elite Soldiers Survived Against 200 Taliban Fighters",
       "channel": "Real Stories",
       "videoId": "sZc48Yqt5EA",
-      "viewsPerHour": 529,
-      "views": 19188,
-      "ageHours": 36.3
+      "viewsPerHour": 525,
+      "views": 20121,
+      "ageHours": 38.3
+    },
+    {
+      "title": "What will Trump ask Todd Blanche to do next? Panel weighs in",
+      "channel": "MS NOW",
+      "videoId": "Oy88VqyC8qc",
+      "viewsPerHour": 455,
+      "views": 5224,
+      "ageHours": 11.5
     },
     {
       "title": "Standing up for things & having friends are very related",
       "channel": "Louis Rossmann",
       "videoId": "w10yDYqsl-U",
-      "viewsPerHour": 315,
+      "viewsPerHour": 254,
       "views": 2654,
-      "ageHours": 8.4
-    },
-    {
-      "title": "Voters ‘tired of rhetoric that promises the world, but delivers nothing’ in elections: Dem Rep.",
-      "channel": "MS NOW",
-      "videoId": "y-dWBK0hTSA",
-      "viewsPerHour": 223,
-      "views": 2108,
-      "ageHours": 9.5
-    },
-    {
-      "title": "Kim Cattrall's Emotional Reunion With Her Secret Long Lost Family | Who Do You Think You Are?",
-      "channel": "Real Stories",
-      "videoId": "wcNjuW0k5KQ",
-      "viewsPerHour": 217,
-      "views": 2988,
-      "ageHours": 13.8
+      "ageHours": 10.4
     },
     {
       "title": "The Fermi Paradox Has a New Problem",
       "channel": "Chris Lehto",
       "videoId": "eDcnH8XCcFk",
-      "viewsPerHour": 212,
-      "views": 7685,
-      "ageHours": 36.3
+      "viewsPerHour": 203,
+      "views": 7774,
+      "ageHours": 38.3
+    },
+    {
+      "title": "Kim Cattrall's Emotional Reunion With Her Secret Long Lost Family | Who Do You Think You Are?",
+      "channel": "Real Stories",
+      "videoId": "wcNjuW0k5KQ",
+      "viewsPerHour": 202,
+      "views": 3195,
+      "ageHours": 15.8
+    },
+    {
+      "title": "Voters ‘tired of rhetoric that promises the world, but delivers nothing’ in elections: Dem Rep.",
+      "channel": "MS NOW",
+      "videoId": "y-dWBK0hTSA",
+      "viewsPerHour": 184,
+      "views": 2108,
+      "ageHours": 11.5
     },
     {
       "title": "Americans shouldn’t stand for ‘lawless’ actions of ICE: Minnesota Lt. Gov.",
       "channel": "MS NOW",
       "videoId": "R5EHiBpbbeQ",
-      "viewsPerHour": 142,
+      "viewsPerHour": 117,
       "views": 1354,
-      "ageHours": 9.6
+      "ageHours": 11.6
     }
   ]
 }
