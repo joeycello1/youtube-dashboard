@@ -2,15 +2,27 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 5
+      "count": 8
     },
     {
-      "channel": "Diary of a CEO",
-      "count": 4
+      "channel": "PBS NewsHour",
+      "count": 2
     },
     {
       "channel": "Last Week Tonight",
       "count": 21
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 2
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 9
+    },
+    {
+      "channel": "Diary of a CEO",
+      "count": 4
     },
     {
       "channel": "Louis Rossmann",
@@ -26,15 +38,11 @@
     },
     {
       "channel": "Real Stories",
-      "count": 38
+      "count": 37
     },
     {
       "channel": "Chris Lehto",
       "count": 5
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 2
     },
     {
       "channel": "The Interview",
@@ -43,10 +51,6 @@
     {
       "channel": "NOVA",
       "count": 12
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 10
     },
     {
       "channel": "More Perfect Union",
@@ -76,15 +80,27 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 4
+      "count": 7
     },
     {
-      "keyword": "AI",
-      "count": 9
+      "keyword": "PBS NewsHour",
+      "count": 2
     },
     {
       "keyword": "Last Week Tonight",
       "count": 20
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 2
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 9
+    },
+    {
+      "keyword": "AI",
+      "count": 9
     },
     {
       "keyword": "Louis Rossmann",
@@ -104,7 +120,7 @@
     },
     {
       "keyword": "Real Stories",
-      "count": 22
+      "count": 21
     },
     {
       "keyword": "UFO",
@@ -115,16 +131,8 @@
       "count": 4
     },
     {
-      "keyword": "The Daily Show",
-      "count": 2
-    },
-    {
       "keyword": "The Interview",
       "count": 6
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 10
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -194,7 +202,7 @@
   "dailySummary": [
     {
       "date": "2026-08-10",
-      "videos": 5
+      "videos": 13
     },
     {
       "date": "2026-08-09",
@@ -222,7 +230,7 @@
     },
     {
       "date": "2026-08-03",
-      "videos": 9
+      "videos": 8
     },
     {
       "date": "2026-08-02",
@@ -234,7 +242,7 @@
     },
     {
       "date": "2026-07-31",
-      "videos": 6
+      "videos": 4
     },
     {
       "date": "2026-07-30",
@@ -254,7 +262,7 @@
     },
     {
       "date": "2026-07-26",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-07-25",
@@ -410,21 +418,33 @@
     },
     {
       "date": "2026-06-11",
-      "videos": 2
+      "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 4
+      "matches": 7
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 2
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 9
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 2
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
     },
     {
       "keyword": "AI",
       "matches": 3
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "matches": 8
     },
     {
       "keyword": "Louis Rossmann",
@@ -448,23 +468,15 @@
     },
     {
       "keyword": "UFO",
-      "matches": 4
+      "matches": 3
     },
     {
       "keyword": "UAP",
       "matches": 1
     },
     {
-      "keyword": "The Daily Show",
-      "matches": 1
-    },
-    {
       "keyword": "The Interview",
       "matches": 1
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 7
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -484,145 +496,193 @@
       "title": "Trump & the DOJ: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "PUPuhlJ3IuE",
-      "viewsPerHour": 65455,
-      "views": 641440,
-      "ageHours": 9.8
+      "viewsPerHour": 69082,
+      "views": 815023,
+      "ageHours": 11.8
     },
     {
       "title": "The Quitting Expert: Quit NOW Before AI Makes The Choice For You, This Is a Superpower! | Seth Godin",
       "channel": "Diary of a CEO",
       "videoId": "g7AxxkywiFI",
-      "viewsPerHour": 23294,
-      "views": 216588,
-      "ageHours": 9.3
+      "viewsPerHour": 24325,
+      "views": 274783,
+      "ageHours": 11.3
     },
     {
       "title": "S13 E20: Trump and the DOJ & Buc-ee’s: 8/9/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "sPXxPcQoAZA",
-      "viewsPerHour": 17955,
-      "views": 238655,
-      "ageHours": 13.3
+      "viewsPerHour": 17402,
+      "views": 266080,
+      "ageHours": 15.3
     },
     {
       "title": "Our Worst Idea Yet",
       "channel": "The Rest Is Science",
       "videoId": "dVt4cjDdNdE",
-      "viewsPerHour": 6302,
-      "views": 121613,
-      "ageHours": 19.3
+      "viewsPerHour": 6065,
+      "views": 129149,
+      "ageHours": 21.3
+    },
+    {
+      "title": "Maggie Haberman reveals to Peter Alexander why Trump is 'proud' when GOP can't win like him",
+      "channel": "MS NOW",
+      "videoId": "I33f9aIKUpY",
+      "viewsPerHour": 3331,
+      "views": 6716,
+      "ageHours": 2
+    },
+    {
+      "title": "Grace Kuhlenschmidt & Josh Johnson Reflect on 30 F**king Years of Daily Show Comedy | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "h7JfYmEHnI8",
+      "viewsPerHour": 3002,
+      "views": 15902,
+      "ageHours": 5.3
+    },
+    {
+      "title": "Greta Lee (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "VcN7LLAY7gg",
+      "viewsPerHour": 2833,
+      "views": 20648,
+      "ageHours": 7.3
     },
     {
       "title": "Jaw-Dropping Treasures Revealed | The Curse of Oak Island",
       "channel": "History",
       "videoId": "kdqOAqv5BbM",
-      "viewsPerHour": 2654,
-      "views": 59188,
-      "ageHours": 22.3
+      "viewsPerHour": 2549,
+      "views": 61930,
+      "ageHours": 24.3
+    },
+    {
+      "title": "WATCH LIVE: Hegseth speaks at Joint Base Lindsey Graham renaming ceremony",
+      "channel": "PBS NewsHour",
+      "videoId": "G-r1_vOx7v8",
+      "viewsPerHour": 1274,
+      "views": 2275,
+      "ageHours": 1.8
     },
     {
       "title": "Venmo charges fees on unsolicited payments, this is a scam: drop Venmo TODAY!",
       "channel": "Louis Rossmann",
       "videoId": "8D2EAuqQk6M",
-      "viewsPerHour": 1366,
+      "viewsPerHour": 1253,
       "views": 30347,
-      "ageHours": 22.2
+      "ageHours": 24.2
     },
     {
-      "title": "Trump ‘low-keying it’ with Iran, shifts to economic pressure",
-      "channel": "MS NOW",
-      "videoId": "AgOtjOlwctI",
-      "viewsPerHour": 1074,
-      "views": 6648,
-      "ageHours": 6.2
+      "title": "WATCH LIVE: RFK Jr. announces new HHS policy on chemical additives in food",
+      "channel": "PBS NewsHour",
+      "videoId": "RiXBI4Gg56I",
+      "viewsPerHour": 1196,
+      "views": 2936,
+      "ageHours": 2.5
     },
     {
-      "title": "MS NOW Highlights - August 9",
-      "channel": "MS NOW",
-      "videoId": "SXgo-Pjg03A",
-      "viewsPerHour": 963,
-      "views": 15681,
-      "ageHours": 16.3
+      "title": "S9 E30: Elon Musk, Twitter & Qatar World Cup: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "14xmIVd1I78",
+      "viewsPerHour": 1063,
+      "views": 2442,
+      "ageHours": 2.3
     },
     {
       "title": "S9 E29: Midterm Election Results & The Monarchy: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "sYYuW9YJshU",
-      "viewsPerHour": 910,
-      "views": 22097,
-      "ageHours": 24.3
+      "viewsPerHour": 862,
+      "views": 22660,
+      "ageHours": 26.3
+    },
+    {
+      "title": "MS NOW Highlights - August 9",
+      "channel": "MS NOW",
+      "videoId": "SXgo-Pjg03A",
+      "viewsPerHour": 857,
+      "views": 15681,
+      "ageHours": 18.3
+    },
+    {
+      "title": "Trump ‘low-keying it’ with Iran, shifts to economic pressure",
+      "channel": "MS NOW",
+      "videoId": "AgOtjOlwctI",
+      "viewsPerHour": 812,
+      "views": 6648,
+      "ageHours": 8.2
     },
     {
       "title": "Phantoms of the Deep (S3, E7) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "-zpFHuLqtmI",
-      "viewsPerHour": 669,
-      "views": 28308,
-      "ageHours": 42.3
+      "viewsPerHour": 647,
+      "views": 28645,
+      "ageHours": 44.3
     },
     {
-      "title": "How 14 Elite Soldiers Survived Against 200 Taliban Fighters",
-      "channel": "Real Stories",
-      "videoId": "sZc48Yqt5EA",
-      "viewsPerHour": 518,
-      "views": 23998,
-      "ageHours": 46.3
+      "title": "New Mexico accuses DOJ of BLOCKING Epstein Zorro Ranch probe in lawsuit",
+      "channel": "MS NOW",
+      "videoId": "CfqfxxgW0uM",
+      "viewsPerHour": 546,
+      "views": 908,
+      "ageHours": 1.7
+    },
+    {
+      "title": "MI Atty Gen: El Sayed needs to 'tone down his rhetoric' amid antisemitism",
+      "channel": "MS NOW",
+      "videoId": "cWEfWQV9ejY",
+      "viewsPerHour": 496,
+      "views": 885,
+      "ageHours": 1.8
     },
     {
       "title": "Eyewitness Spots UFO | The UnXplained",
       "channel": "History",
       "videoId": "w02FfCWEWRc",
-      "viewsPerHour": 479,
+      "viewsPerHour": 459,
       "views": 21693,
-      "ageHours": 45.3
+      "ageHours": 47.3
     },
     {
       "title": "What will Trump ask Todd Blanche to do next? Panel weighs in",
       "channel": "MS NOW",
       "videoId": "Oy88VqyC8qc",
-      "viewsPerHour": 268,
+      "viewsPerHour": 243,
       "views": 5224,
-      "ageHours": 19.5
-    },
-    {
-      "title": "The Fermi Paradox Has a New Problem",
-      "channel": "Chris Lehto",
-      "videoId": "eDcnH8XCcFk",
-      "viewsPerHour": 173,
-      "views": 8009,
-      "ageHours": 46.3
+      "ageHours": 21.5
     },
     {
       "title": "Kim Cattrall's Emotional Reunion With Her Secret Long Lost Family | Who Do You Think You Are?",
       "channel": "Real Stories",
       "videoId": "wcNjuW0k5KQ",
-      "viewsPerHour": 156,
-      "views": 3712,
-      "ageHours": 23.8
+      "viewsPerHour": 149,
+      "views": 3853,
+      "ageHours": 25.8
     },
     {
       "title": "Standing up for things & having friends are very related",
       "channel": "Louis Rossmann",
       "videoId": "w10yDYqsl-U",
-      "viewsPerHour": 144,
+      "viewsPerHour": 130,
       "views": 2654,
-      "ageHours": 18.4
+      "ageHours": 20.4
     },
     {
       "title": "Voters ‘tired of rhetoric that promises the world, but delivers nothing’ in elections: Dem Rep.",
       "channel": "MS NOW",
       "videoId": "y-dWBK0hTSA",
-      "viewsPerHour": 108,
+      "viewsPerHour": 98,
       "views": 2108,
-      "ageHours": 19.5
+      "ageHours": 21.5
     },
     {
       "title": "Americans shouldn’t stand for ‘lawless’ actions of ICE: Minnesota Lt. Gov.",
       "channel": "MS NOW",
       "videoId": "R5EHiBpbbeQ",
-      "viewsPerHour": 69,
+      "viewsPerHour": 63,
       "views": 1354,
-      "ageHours": 19.6
+      "ageHours": 21.6
     }
   ]
 }
