@@ -1,6 +1,14 @@
 {
   "videosPerChannel": [
     {
+      "channel": "Last Week Tonight",
+      "count": 20
+    },
+    {
+      "channel": "MS NOW",
+      "count": 4
+    },
+    {
       "channel": "Louis Rossmann",
       "count": 14
     },
@@ -9,20 +17,12 @@
       "count": 5
     },
     {
-      "channel": "MS NOW",
-      "count": 3
-    },
-    {
       "channel": "History",
       "count": 36
     },
     {
       "channel": "Real Stories",
       "count": 38
-    },
-    {
-      "channel": "Last Week Tonight",
-      "count": 19
     },
     {
       "channel": "Chris Lehto",
@@ -75,6 +75,14 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "Last Week Tonight",
+      "count": 19
+    },
+    {
+      "keyword": "MS NOW",
+      "count": 3
+    },
+    {
       "keyword": "Louis Rossmann",
       "count": 13
     },
@@ -87,20 +95,12 @@
       "count": 1
     },
     {
-      "keyword": "MS NOW",
-      "count": 2
-    },
-    {
       "keyword": "NOVA",
       "count": 24
     },
     {
       "keyword": "Real Stories",
       "count": 22
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "count": 18
     },
     {
       "keyword": "UFO",
@@ -192,6 +192,10 @@
     }
   ],
   "dailySummary": [
+    {
+      "date": "2026-08-10",
+      "videos": 2
+    },
     {
       "date": "2026-08-09",
       "videos": 9
@@ -411,6 +415,14 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "Last Week Tonight",
+      "matches": 9
+    },
+    {
+      "keyword": "MS NOW",
+      "matches": 3
+    },
+    {
       "keyword": "Louis Rossmann",
       "matches": 4
     },
@@ -423,20 +435,12 @@
       "matches": 1
     },
     {
-      "keyword": "MS NOW",
-      "matches": 2
-    },
-    {
       "keyword": "NOVA",
       "matches": 5
     },
     {
       "keyword": "Real Stories",
       "matches": 4
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "matches": 8
     },
     {
       "keyword": "UFO",
@@ -477,140 +481,156 @@
   ],
   "mostViral48h": [
     {
+      "title": "S13 E20: Trump and the DOJ & Buc-ee’s: 8/9/26: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "sPXxPcQoAZA",
+      "viewsPerHour": 14962,
+      "views": 49259,
+      "ageHours": 3.3
+    },
+    {
       "title": "Our Worst Idea Yet",
       "channel": "The Rest Is Science",
       "videoId": "dVt4cjDdNdE",
-      "viewsPerHour": 8131,
-      "views": 59248,
-      "ageHours": 7.3
+      "viewsPerHour": 7655,
+      "views": 71173,
+      "ageHours": 9.3
     },
     {
       "title": "Jaw-Dropping Treasures Revealed | The Curse of Oak Island",
       "channel": "History",
       "videoId": "kdqOAqv5BbM",
-      "viewsPerHour": 3657,
-      "views": 37624,
-      "ageHours": 10.3
-    },
-    {
-      "title": "Venmo charges fees on unsolicited payments, this is a scam: drop Venmo TODAY!",
-      "channel": "Louis Rossmann",
-      "videoId": "8D2EAuqQk6M",
-      "viewsPerHour": 2971,
-      "views": 30347,
-      "ageHours": 10.2
+      "viewsPerHour": 3480,
+      "views": 42794,
+      "ageHours": 12.3
     },
     {
       "title": "Jordan Klepper Prepares for His Colonoscopy - After The Cut | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "YwgUft1SAzY",
-      "viewsPerHour": 2716,
-      "views": 106710,
-      "ageHours": 39.3
+      "viewsPerHour": 2690,
+      "views": 111076,
+      "ageHours": 41.3
+    },
+    {
+      "title": "MS NOW Highlights - August 9",
+      "channel": "MS NOW",
+      "videoId": "SXgo-Pjg03A",
+      "viewsPerHour": 2493,
+      "views": 15681,
+      "ageHours": 6.3
+    },
+    {
+      "title": "Venmo charges fees on unsolicited payments, this is a scam: drop Venmo TODAY!",
+      "channel": "Louis Rossmann",
+      "videoId": "8D2EAuqQk6M",
+      "viewsPerHour": 2483,
+      "views": 30347,
+      "ageHours": 12.2
     },
     {
       "title": "Billy Strings Escaped the Darkness. He’s Playing to Not Go Back. | The Interview",
       "channel": "The Interview",
       "videoId": "LjLOQYmrDtQ",
-      "viewsPerHour": 1972,
-      "views": 77961,
-      "ageHours": 39.5
+      "viewsPerHour": 1951,
+      "views": 81034,
+      "ageHours": 41.5
     },
     {
       "title": "S9 E29: Midterm Election Results & The Monarchy: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "sYYuW9YJshU",
-      "viewsPerHour": 1426,
-      "views": 17519,
-      "ageHours": 12.3
+      "viewsPerHour": 1335,
+      "views": 19084,
+      "ageHours": 14.3
     },
     {
       "title": "S9 E28: Election Subversion: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "1BqWBJmLyy8",
-      "viewsPerHour": 1038,
-      "views": 37660,
-      "ageHours": 36.3
-    },
-    {
-      "title": "AI Discovers Hidden Chambers (S18) | Ancient Aliens",
-      "channel": "History",
-      "videoId": "826Ps2ThCoU",
-      "viewsPerHour": 854,
-      "views": 30977,
-      "ageHours": 36.3
+      "viewsPerHour": 990,
+      "views": 37916,
+      "ageHours": 38.3
     },
     {
       "title": "Phantoms of the Deep (S3, E7) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "-zpFHuLqtmI",
-      "viewsPerHour": 839,
-      "views": 25398,
-      "ageHours": 30.3
+      "viewsPerHour": 816,
+      "views": 26363,
+      "ageHours": 32.3
     },
     {
-      "title": "What will Trump ask Todd Blanche to do next? Panel weighs in",
-      "channel": "MS NOW",
-      "videoId": "Oy88VqyC8qc",
-      "viewsPerHour": 698,
-      "views": 5224,
-      "ageHours": 7.5
+      "title": "AI Discovers Hidden Chambers (S18) | Ancient Aliens",
+      "channel": "History",
+      "videoId": "826Ps2ThCoU",
+      "viewsPerHour": 809,
+      "views": 30977,
+      "ageHours": 38.3
     },
     {
       "title": "Eyewitness Spots UFO | The UnXplained",
       "channel": "History",
       "videoId": "w02FfCWEWRc",
-      "viewsPerHour": 605,
-      "views": 20124,
-      "ageHours": 33.3
+      "viewsPerHour": 578,
+      "views": 20417,
+      "ageHours": 35.3
+    },
+    {
+      "title": "What will Trump ask Todd Blanche to do next? Panel weighs in",
+      "channel": "MS NOW",
+      "videoId": "Oy88VqyC8qc",
+      "viewsPerHour": 550,
+      "views": 5224,
+      "ageHours": 9.5
     },
     {
       "title": "How 14 Elite Soldiers Survived Against 200 Taliban Fighters",
       "channel": "Real Stories",
       "videoId": "sZc48Yqt5EA",
-      "viewsPerHour": 531,
-      "views": 18221,
-      "ageHours": 34.3
+      "viewsPerHour": 529,
+      "views": 19188,
+      "ageHours": 36.3
     },
     {
       "title": "Standing up for things & having friends are very related",
       "channel": "Louis Rossmann",
       "videoId": "w10yDYqsl-U",
-      "viewsPerHour": 413,
+      "viewsPerHour": 315,
       "views": 2654,
-      "ageHours": 6.4
+      "ageHours": 8.4
     },
     {
       "title": "Voters ‘tired of rhetoric that promises the world, but delivers nothing’ in elections: Dem Rep.",
       "channel": "MS NOW",
       "videoId": "y-dWBK0hTSA",
-      "viewsPerHour": 283,
+      "viewsPerHour": 223,
       "views": 2108,
-      "ageHours": 7.4
+      "ageHours": 9.5
     },
     {
       "title": "Kim Cattrall's Emotional Reunion With Her Secret Long Lost Family | Who Do You Think You Are?",
       "channel": "Real Stories",
       "videoId": "wcNjuW0k5KQ",
-      "viewsPerHour": 233,
-      "views": 2749,
-      "ageHours": 11.8
+      "viewsPerHour": 217,
+      "views": 2988,
+      "ageHours": 13.8
     },
     {
       "title": "The Fermi Paradox Has a New Problem",
       "channel": "Chris Lehto",
       "videoId": "eDcnH8XCcFk",
-      "viewsPerHour": 221,
-      "views": 7566,
-      "ageHours": 34.3
+      "viewsPerHour": 212,
+      "views": 7685,
+      "ageHours": 36.3
     },
     {
       "title": "Americans shouldn’t stand for ‘lawless’ actions of ICE: Minnesota Lt. Gov.",
       "channel": "MS NOW",
       "videoId": "R5EHiBpbbeQ",
-      "viewsPerHour": 179,
+      "viewsPerHour": 142,
       "views": 1354,
-      "ageHours": 7.6
+      "ageHours": 9.6
     }
   ]
 }
