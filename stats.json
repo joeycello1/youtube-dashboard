@@ -1,20 +1,28 @@
 {
   "videosPerChannel": [
     {
+      "channel": "Louis Rossmann",
+      "count": 14
+    },
+    {
+      "channel": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "channel": "MS NOW",
+      "count": 3
+    },
+    {
+      "channel": "History",
+      "count": 36
+    },
+    {
       "channel": "Real Stories",
       "count": 38
     },
     {
       "channel": "Last Week Tonight",
       "count": 19
-    },
-    {
-      "channel": "MS NOW",
-      "count": 2
-    },
-    {
-      "channel": "History",
-      "count": 35
     },
     {
       "channel": "Chris Lehto",
@@ -38,7 +46,7 @@
     },
     {
       "channel": "More Perfect Union",
-      "count": 16
+      "count": 15
     },
     {
       "channel": "Mayim Bialik",
@@ -47,14 +55,6 @@
     {
       "channel": "Diary of a CEO",
       "count": 3
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 12
-    },
-    {
-      "channel": "The Rest Is Science",
-      "count": 4
     },
     {
       "channel": "Jonathan Pie",
@@ -75,12 +75,16 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "Real Stories",
-      "count": 22
+      "keyword": "Louis Rossmann",
+      "count": 13
     },
     {
-      "keyword": "Last Week Tonight",
-      "count": 18
+      "keyword": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "keyword": "MS NOW, AI",
+      "count": 1
     },
     {
       "keyword": "MS NOW",
@@ -88,7 +92,15 @@
     },
     {
       "keyword": "NOVA",
-      "count": 23
+      "count": 24
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 22
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 18
     },
     {
       "keyword": "UFO",
@@ -120,19 +132,11 @@
     },
     {
       "keyword": "More Perfect Union",
-      "count": 15
+      "count": 14
     },
     {
       "keyword": "UFO, UAP",
       "count": 5
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 11
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "count": 4
     },
     {
       "keyword": "Jonathan Pie",
@@ -190,11 +194,11 @@
   "dailySummary": [
     {
       "date": "2026-08-09",
-      "videos": 2
+      "videos": 9
     },
     {
       "date": "2026-08-08",
-      "videos": 10
+      "videos": 8
     },
     {
       "date": "2026-08-07",
@@ -403,20 +407,20 @@
     {
       "date": "2026-06-11",
       "videos": 2
-    },
-    {
-      "date": "2026-06-10",
-      "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "Real Stories",
-      "matches": 4
+      "keyword": "Louis Rossmann",
+      "matches": 5
     },
     {
-      "keyword": "Last Week Tonight",
-      "matches": 9
+      "keyword": "The Rest Is Science",
+      "matches": 2
+    },
+    {
+      "keyword": "MS NOW, AI",
+      "matches": 1
     },
     {
       "keyword": "MS NOW",
@@ -424,7 +428,15 @@
     },
     {
       "keyword": "NOVA",
+      "matches": 5
+    },
+    {
+      "keyword": "Real Stories",
       "matches": 4
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 9
     },
     {
       "keyword": "UFO",
@@ -461,112 +473,144 @@
     {
       "keyword": "UFO, UAP",
       "matches": 2
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 3
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "matches": 1
     }
   ],
   "mostViral48h": [
     {
+      "title": "Our Worst Idea Yet",
+      "channel": "The Rest Is Science",
+      "videoId": "dVt4cjDdNdE",
+      "viewsPerHour": 8383,
+      "views": 27649,
+      "ageHours": 3.3
+    },
+    {
+      "title": "Venmo charges fees on unsolicited payments, this is a scam: drop Venmo TODAY!",
+      "channel": "Louis Rossmann",
+      "videoId": "8D2EAuqQk6M",
+      "viewsPerHour": 4876,
+      "views": 30347,
+      "ageHours": 6.2
+    },
+    {
+      "title": "Jaw-Dropping Treasures Revealed | The Curse of Oak Island",
+      "channel": "History",
+      "videoId": "kdqOAqv5BbM",
+      "viewsPerHour": 3891,
+      "views": 24509,
+      "ageHours": 6.3
+    },
+    {
       "title": "Jordan Klepper Prepares for His Colonoscopy - After The Cut | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "YwgUft1SAzY",
-      "viewsPerHour": 2876,
-      "views": 95853,
-      "ageHours": 33.3
+      "viewsPerHour": 2803,
+      "views": 98930,
+      "ageHours": 35.3
     },
     {
       "title": "Billy Strings Escaped the Darkness. He’s Playing to Not Go Back. | The Interview",
       "channel": "The Interview",
       "videoId": "LjLOQYmrDtQ",
-      "viewsPerHour": 1950,
-      "views": 65465,
-      "ageHours": 33.6
+      "viewsPerHour": 1951,
+      "views": 69345,
+      "ageHours": 35.5
+    },
+    {
+      "title": "What will Trump ask Todd Blanche to do next? Panel weighs in",
+      "channel": "MS NOW",
+      "videoId": "Oy88VqyC8qc",
+      "viewsPerHour": 1494,
+      "views": 5224,
+      "ageHours": 3.5
     },
     {
       "title": "S9 E29: Midterm Election Results & The Monarchy: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "sYYuW9YJshU",
-      "viewsPerHour": 1361,
-      "views": 8614,
-      "ageHours": 6.3
+      "viewsPerHour": 1442,
+      "views": 11962,
+      "ageHours": 8.3
     },
     {
       "title": "S9 E28: Election Subversion: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "1BqWBJmLyy8",
-      "viewsPerHour": 1192,
-      "views": 36154,
-      "ageHours": 30.3
+      "viewsPerHour": 1136,
+      "views": 36698,
+      "ageHours": 32.3
+    },
+    {
+      "title": "Standing up for things & having friends are very related",
+      "channel": "Louis Rossmann",
+      "videoId": "w10yDYqsl-U",
+      "viewsPerHour": 1089,
+      "views": 2654,
+      "ageHours": 2.4
     },
     {
       "title": "AI Discovers Hidden Chambers (S18) | Ancient Aliens",
       "channel": "History",
       "videoId": "826Ps2ThCoU",
-      "viewsPerHour": 1021,
+      "viewsPerHour": 959,
       "views": 30977,
-      "ageHours": 30.3
+      "ageHours": 32.3
     },
     {
       "title": "Phantoms of the Deep (S3, E7) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "-zpFHuLqtmI",
-      "viewsPerHour": 861,
-      "views": 20956,
-      "ageHours": 24.3
+      "viewsPerHour": 844,
+      "views": 22182,
+      "ageHours": 26.3
     },
     {
       "title": "Eyewitness Spots UFO | The UnXplained",
       "channel": "History",
       "videoId": "w02FfCWEWRc",
-      "viewsPerHour": 678,
-      "views": 18532,
-      "ageHours": 27.3
+      "viewsPerHour": 658,
+      "views": 19269,
+      "ageHours": 29.3
+    },
+    {
+      "title": "Voters ‘tired of rhetoric that promises the world, but delivers nothing’ in elections: Dem Rep.",
+      "channel": "MS NOW",
+      "videoId": "y-dWBK0hTSA",
+      "viewsPerHour": 610,
+      "views": 2108,
+      "ageHours": 3.5
     },
     {
       "title": "How 14 Elite Soldiers Survived Against 200 Taliban Fighters",
       "channel": "Real Stories",
       "videoId": "sZc48Yqt5EA",
-      "viewsPerHour": 514,
-      "views": 14560,
-      "ageHours": 28.3
+      "viewsPerHour": 527,
+      "views": 15980,
+      "ageHours": 30.3
+    },
+    {
+      "title": "Americans shouldn’t stand for ‘lawless’ actions of ICE: Minnesota Lt. Gov.",
+      "channel": "MS NOW",
+      "videoId": "R5EHiBpbbeQ",
+      "viewsPerHour": 380,
+      "views": 1354,
+      "ageHours": 3.6
     },
     {
       "title": "Kim Cattrall's Emotional Reunion With Her Secret Long Lost Family | Who Do You Think You Are?",
       "channel": "Real Stories",
       "videoId": "wcNjuW0k5KQ",
-      "viewsPerHour": 284,
-      "views": 1657,
-      "ageHours": 5.8
+      "viewsPerHour": 268,
+      "views": 2093,
+      "ageHours": 7.8
     },
     {
       "title": "The Fermi Paradox Has a New Problem",
       "channel": "Chris Lehto",
       "videoId": "eDcnH8XCcFk",
-      "viewsPerHour": 253,
-      "views": 7168,
-      "ageHours": 28.3
-    },
-    {
-      "title": "INSTANT REACTION: Watch Todd Blanche's NARROW confirmation as Trump's AG | COMPILATION",
-      "channel": "MS NOW",
-      "videoId": "K2AhFxN0ObE",
-      "viewsPerHour": 108,
-      "views": 2594,
-      "ageHours": 24
-    },
-    {
-      "title": "‘Can’t AFFORD to breathe’: What voters are saying about their finances and the K-shaped economy",
-      "channel": "MS NOW",
-      "videoId": "FcHmOBEqoaY",
-      "viewsPerHour": 60,
-      "views": 1515,
-      "ageHours": 25.3
+      "viewsPerHour": 242,
+      "views": 7320,
+      "ageHours": 30.3
     }
   ]
 }
