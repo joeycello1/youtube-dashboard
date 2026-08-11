@@ -1,12 +1,20 @@
 {
   "videosPerChannel": [
     {
-      "channel": "MS NOW",
-      "count": 8
+      "channel": "PBS NewsHour",
+      "count": 5
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 2
+      "channel": "MS NOW",
+      "count": 6
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 15
+    },
+    {
+      "channel": "History",
+      "count": 37
     },
     {
       "channel": "Last Week Tonight",
@@ -25,16 +33,8 @@
       "count": 4
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 14
-    },
-    {
       "channel": "The Rest Is Science",
-      "count": 5
-    },
-    {
-      "channel": "History",
-      "count": 36
+      "count": 4
     },
     {
       "channel": "Real Stories",
@@ -50,7 +50,7 @@
     },
     {
       "channel": "NOVA",
-      "count": 12
+      "count": 11
     },
     {
       "channel": "More Perfect Union",
@@ -79,12 +79,24 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "MS NOW",
-      "count": 7
+      "keyword": "PBS NewsHour",
+      "count": 4
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 2
+      "keyword": "PBS NewsHour, AI, artificial intelligence",
+      "count": 1
+    },
+    {
+      "keyword": "MS NOW",
+      "count": 6
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 14
+    },
+    {
+      "keyword": "UFO",
+      "count": 22
     },
     {
       "keyword": "Last Week Tonight",
@@ -103,27 +115,15 @@
       "count": 9
     },
     {
-      "keyword": "Louis Rossmann",
-      "count": 13
-    },
-    {
       "keyword": "The Rest Is Science",
-      "count": 5
-    },
-    {
-      "keyword": "MS NOW, AI",
-      "count": 1
+      "count": 4
     },
     {
       "keyword": "NOVA",
-      "count": 24
+      "count": 23
     },
     {
       "keyword": "Real Stories",
-      "count": 21
-    },
-    {
-      "keyword": "UFO",
       "count": 21
     },
     {
@@ -202,11 +202,11 @@
   "dailySummary": [
     {
       "date": "2026-08-10",
-      "videos": 13
+      "videos": 20
     },
     {
       "date": "2026-08-09",
-      "videos": 9
+      "videos": 6
     },
     {
       "date": "2026-08-08",
@@ -262,7 +262,7 @@
     },
     {
       "date": "2026-07-26",
-      "videos": 6
+      "videos": 4
     },
     {
       "date": "2026-07-25",
@@ -415,20 +415,28 @@
     {
       "date": "2026-06-12",
       "videos": 1
-    },
-    {
-      "date": "2026-06-11",
-      "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "MS NOW",
-      "matches": 7
+      "keyword": "PBS NewsHour",
+      "matches": 4
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 2
+      "keyword": "PBS NewsHour, AI, artificial intelligence",
+      "matches": 1
+    },
+    {
+      "keyword": "MS NOW",
+      "matches": 6
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 5
+    },
+    {
+      "keyword": "UFO",
+      "matches": 4
     },
     {
       "keyword": "Last Week Tonight",
@@ -447,16 +455,8 @@
       "matches": 3
     },
     {
-      "keyword": "Louis Rossmann",
-      "matches": 3
-    },
-    {
       "keyword": "The Rest Is Science",
       "matches": 2
-    },
-    {
-      "keyword": "MS NOW, AI",
-      "matches": 1
     },
     {
       "keyword": "NOVA",
@@ -465,10 +465,6 @@
     {
       "keyword": "Real Stories",
       "matches": 4
-    },
-    {
-      "keyword": "UFO",
-      "matches": 3
     },
     {
       "keyword": "UAP",
@@ -496,177 +492,209 @@
       "title": "Trump & the DOJ: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "PUPuhlJ3IuE",
-      "viewsPerHour": 68366,
-      "views": 1079545,
-      "ageHours": 15.8
+      "viewsPerHour": 65930,
+      "views": 1173808,
+      "ageHours": 17.8
     },
     {
       "title": "The Quitting Expert: Quit NOW Before AI Makes The Choice For You, This Is a Superpower! | Seth Godin",
       "channel": "Diary of a CEO",
       "videoId": "g7AxxkywiFI",
-      "viewsPerHour": 23883,
-      "views": 365151,
-      "ageHours": 15.3
+      "viewsPerHour": 23299,
+      "views": 403117,
+      "ageHours": 17.3
     },
     {
       "title": "S13 E20: Trump and the DOJ & Buc-ee’s: 8/9/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "sPXxPcQoAZA",
-      "viewsPerHour": 16220,
-      "views": 312763,
-      "ageHours": 19.3
+      "viewsPerHour": 15474,
+      "views": 329533,
+      "ageHours": 21.3
     },
     {
       "title": "Our Worst Idea Yet",
       "channel": "The Rest Is Science",
       "videoId": "dVt4cjDdNdE",
-      "viewsPerHour": 5638,
-      "views": 142581,
-      "ageHours": 25.3
+      "viewsPerHour": 5471,
+      "views": 149360,
+      "ageHours": 27.3
+    },
+    {
+      "title": "WE'RE SCREWED': Ex-Trump admin lawyer gives BOMBSHELL WARNING about Trump and Todd Blanche's plans",
+      "channel": "MS NOW",
+      "videoId": "rsSyv6Q7ky8",
+      "viewsPerHour": 5386,
+      "views": 9626,
+      "ageHours": 1.8
+    },
+    {
+      "title": "Lost Islands, UFOs, and Crystal Skulls | Ancient Aliens",
+      "channel": "History",
+      "videoId": "iXxlaloPaYQ",
+      "viewsPerHour": 4612,
+      "views": 29047,
+      "ageHours": 6.3
     },
     {
       "title": "Grace Kuhlenschmidt & Josh Johnson Reflect on 30 F**king Years of Daily Show Comedy | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "h7JfYmEHnI8",
-      "viewsPerHour": 2816,
-      "views": 26159,
-      "ageHours": 9.3
+      "viewsPerHour": 2740,
+      "views": 30963,
+      "ageHours": 11.3
+    },
+    {
+      "title": "Do I miss New York? Looking back 5 years later!",
+      "channel": "Louis Rossmann",
+      "videoId": "wbj9M1z-Nxw",
+      "viewsPerHour": 2706,
+      "views": 10742,
+      "ageHours": 4
     },
     {
       "title": "Jaw-Dropping Treasures Revealed | The Curse of Oak Island",
       "channel": "History",
       "videoId": "kdqOAqv5BbM",
-      "viewsPerHour": 2458,
-      "views": 69535,
-      "ageHours": 28.3
+      "viewsPerHour": 2427,
+      "views": 73542,
+      "ageHours": 30.3
     },
     {
       "title": "Greta Lee (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "VcN7LLAY7gg",
-      "viewsPerHour": 1830,
+      "viewsPerHour": 1553,
       "views": 20648,
-      "ageHours": 11.3
+      "ageHours": 13.3
+    },
+    {
+      "title": "PBS News Hour live episode, August 10, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "lHa8h3jRbXo",
+      "viewsPerHour": 1444,
+      "views": 4191,
+      "ageHours": 2.9
+    },
+    {
+      "title": "A message to Senator Chuck Grassley & his vacuum cleaner ",
+      "channel": "Louis Rossmann",
+      "videoId": "3emEcicdBEo",
+      "viewsPerHour": 1121,
+      "views": 2822,
+      "ageHours": 2.5
     },
     {
       "title": "S9 E30: Elon Musk, Twitter & Qatar World Cup: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "14xmIVd1I78",
-      "viewsPerHour": 1128,
-      "views": 7094,
-      "ageHours": 6.3
-    },
-    {
-      "title": "Maggie Haberman reveals to Peter Alexander why Trump is 'proud' when GOP can't win like him",
-      "channel": "MS NOW",
-      "videoId": "I33f9aIKUpY",
-      "viewsPerHour": 1118,
-      "views": 6716,
-      "ageHours": 6
+      "viewsPerHour": 1020,
+      "views": 8466,
+      "ageHours": 8.3
     },
     {
       "title": "Venmo charges fees on unsolicited payments, this is a scam: drop Venmo TODAY!",
       "channel": "Louis Rossmann",
       "videoId": "8D2EAuqQk6M",
-      "viewsPerHour": 1076,
+      "viewsPerHour": 1004,
       "views": 30347,
-      "ageHours": 28.2
+      "ageHours": 30.2
+    },
+    {
+      "title": "Maggie Haberman reveals to Peter Alexander why Trump is 'proud' when GOP can't win like him",
+      "channel": "MS NOW",
+      "videoId": "I33f9aIKUpY",
+      "viewsPerHour": 837,
+      "views": 6716,
+      "ageHours": 8
     },
     {
       "title": "S9 E29: Midterm Election Results & The Monarchy: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "sYYuW9YJshU",
-      "viewsPerHour": 772,
-      "views": 23386,
-      "ageHours": 30.3
+      "viewsPerHour": 735,
+      "views": 23741,
+      "ageHours": 32.3
     },
     {
       "title": "MS NOW Highlights - August 9",
       "channel": "MS NOW",
       "videoId": "SXgo-Pjg03A",
-      "viewsPerHour": 704,
+      "viewsPerHour": 645,
       "views": 15681,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "Trump ‘low-keying it’ with Iran, shifts to economic pressure",
       "channel": "MS NOW",
       "videoId": "AgOtjOlwctI",
-      "viewsPerHour": 546,
+      "viewsPerHour": 468,
       "views": 6648,
-      "ageHours": 12.2
+      "ageHours": 14.2
     },
     {
       "title": "WATCH LIVE: RFK Jr. announces new HHS policy on chemical additives in food",
       "channel": "PBS NewsHour",
       "videoId": "RiXBI4Gg56I",
-      "viewsPerHour": 455,
+      "viewsPerHour": 347,
       "views": 2936,
-      "ageHours": 6.4
+      "ageHours": 8.5
     },
     {
       "title": "WATCH LIVE: Hegseth speaks at Joint Base Lindsey Graham renaming ceremony",
       "channel": "PBS NewsHour",
       "videoId": "G-r1_vOx7v8",
-      "viewsPerHour": 394,
+      "viewsPerHour": 292,
       "views": 2275,
-      "ageHours": 5.8
+      "ageHours": 7.8
     },
     {
-      "title": "What will Trump ask Todd Blanche to do next? Panel weighs in",
-      "channel": "MS NOW",
-      "videoId": "Oy88VqyC8qc",
-      "viewsPerHour": 205,
-      "views": 5224,
-      "ageHours": 25.5
-    },
-    {
-      "title": "New Mexico accuses DOJ of BLOCKING Epstein Zorro Ranch probe in lawsuit",
-      "channel": "MS NOW",
-      "videoId": "CfqfxxgW0uM",
-      "viewsPerHour": 161,
-      "views": 908,
-      "ageHours": 5.7
-    },
-    {
-      "title": "MI Atty Gen: El Sayed needs to 'tone down his rhetoric' amid antisemitism",
-      "channel": "MS NOW",
-      "videoId": "cWEfWQV9ejY",
-      "viewsPerHour": 153,
-      "views": 885,
-      "ageHours": 5.8
+      "title": "What Meta's new open-source AI model means for the future of artificial intelligence",
+      "channel": "PBS NewsHour",
+      "videoId": "SWtcb-K63pI",
+      "viewsPerHour": 196,
+      "views": 328,
+      "ageHours": 1.7
     },
     {
       "title": "Kim Cattrall's Emotional Reunion With Her Secret Long Lost Family | Who Do You Think You Are?",
       "channel": "Real Stories",
       "videoId": "wcNjuW0k5KQ",
-      "viewsPerHour": 135,
-      "views": 4030,
-      "ageHours": 29.8
+      "viewsPerHour": 130,
+      "views": 4141,
+      "ageHours": 31.8
+    },
+    {
+      "title": "New Mexico accuses DOJ of BLOCKING Epstein Zorro Ranch probe in lawsuit",
+      "channel": "MS NOW",
+      "videoId": "CfqfxxgW0uM",
+      "viewsPerHour": 118,
+      "views": 908,
+      "ageHours": 7.7
+    },
+    {
+      "title": "MI Atty Gen: El Sayed needs to 'tone down his rhetoric' amid antisemitism",
+      "channel": "MS NOW",
+      "videoId": "cWEfWQV9ejY",
+      "viewsPerHour": 114,
+      "views": 885,
+      "ageHours": 7.8
     },
     {
       "title": "Standing up for things & having friends are very related",
       "channel": "Louis Rossmann",
       "videoId": "w10yDYqsl-U",
-      "viewsPerHour": 109,
+      "viewsPerHour": 100,
       "views": 2654,
-      "ageHours": 24.4
+      "ageHours": 26.4
     },
     {
-      "title": "Voters ‘tired of rhetoric that promises the world, but delivers nothing’ in elections: Dem Rep.",
-      "channel": "MS NOW",
-      "videoId": "y-dWBK0hTSA",
-      "viewsPerHour": 83,
-      "views": 2108,
-      "ageHours": 25.4
-    },
-    {
-      "title": "Americans shouldn’t stand for ‘lawless’ actions of ICE: Minnesota Lt. Gov.",
-      "channel": "MS NOW",
-      "videoId": "R5EHiBpbbeQ",
-      "viewsPerHour": 53,
-      "views": 1354,
-      "ageHours": 25.6
+      "title": "Tamara Keith and Amy Walter on the energy behind outsider candidates",
+      "channel": "PBS NewsHour",
+      "videoId": "jy-EHtzb-Ls",
+      "viewsPerHour": 3,
+      "views": 4,
+      "ageHours": 1.5
     }
   ]
 }
