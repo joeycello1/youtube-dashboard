@@ -436,15 +436,15 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "matches": 9
+      "matches": 8
     },
     {
       "keyword": "Real Stories",
-      "matches": 4
+      "matches": 3
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -480,7 +480,7 @@
     },
     {
       "keyword": "More Perfect Union",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "UFO, UAP",
@@ -492,225 +492,217 @@
       "title": "30 Years of the Best F**king News Team's Audition Tapes | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "CKk2ljPdLXk",
-      "viewsPerHour": 14246,
-      "views": 303350,
-      "ageHours": 21.3
+      "viewsPerHour": 13853,
+      "views": 323594,
+      "ageHours": 23.4
     },
     {
       "title": "The Real Water Cost of AI Isn't Inside Data Centers. But Tech Companies Don’t Report It.",
       "channel": "More Perfect Union",
       "videoId": "c0PSKqqFbeg",
-      "viewsPerHour": 10387,
-      "views": 245878,
-      "ageHours": 23.7
+      "viewsPerHour": 9985,
+      "views": 256994,
+      "ageHours": 25.7
     },
     {
       "title": "PBS News Hour full episode, August 11, 2026",
       "channel": "PBS NewsHour",
       "videoId": "-S2zUPn98jo",
-      "viewsPerHour": 5686,
+      "viewsPerHour": 4985,
       "views": 83599,
-      "ageHours": 14.7
+      "ageHours": 16.8
     },
     {
       "title": "Lost Islands, UFOs, and Crystal Skulls | Ancient Aliens",
       "channel": "History",
       "videoId": "iXxlaloPaYQ",
-      "viewsPerHour": 2759,
-      "views": 122210,
-      "ageHours": 44.3
+      "viewsPerHour": 2699,
+      "views": 125127,
+      "ageHours": 46.4
     },
     {
       "title": "911 calls answered by AI in New Orleans",
       "channel": "Louis Rossmann",
       "videoId": "psllRvOotwI",
-      "viewsPerHour": 1257,
+      "viewsPerHour": 1168,
       "views": 34322,
-      "ageHours": 27.3
+      "ageHours": 29.4
     },
     {
       "title": "S10 E1: Train Derailment & Psychedelic Assisted Therapy: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "JhoYRrb7Ve4",
-      "viewsPerHour": 878,
-      "views": 19128,
-      "ageHours": 21.8
-    },
-    {
-      "title": "Bad Things Happen When You Dig (S1, E1) | The Secret of Skinwalker Ranch | Full Episode",
-      "channel": "History",
-      "videoId": "piN0tBo62N4",
-      "viewsPerHour": 855,
-      "views": 13918,
-      "ageHours": 16.3
+      "viewsPerHour": 858,
+      "views": 20478,
+      "ageHours": 23.9
     },
     {
       "title": "Sona’s Husband Tak Just Earned His Karate Black Belt | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "0WwEi4ySw0s",
-      "viewsPerHour": 847,
+      "viewsPerHour": 785,
       "views": 22259,
-      "ageHours": 26.3
+      "ageHours": 28.4
+    },
+    {
+      "title": "Bad Things Happen When You Dig (S1, E1) | The Secret of Skinwalker Ranch | Full Episode",
+      "channel": "History",
+      "videoId": "piN0tBo62N4",
+      "viewsPerHour": 781,
+      "views": 14340,
+      "ageHours": 18.4
     },
     {
       "title": "Eating Expired Food is Normal in Antarctica | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "TyIGZ5Old_Y",
-      "viewsPerHour": 428,
-      "views": 10818,
-      "ageHours": 25.3
-    },
-    {
-      "title": "S9 E30: Elon Musk, Twitter & Qatar World Cup: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "14xmIVd1I78",
-      "viewsPerHour": 400,
-      "views": 18507,
-      "ageHours": 46.3
+      "viewsPerHour": 404,
+      "views": 11057,
+      "ageHours": 27.3
     },
     {
       "title": "You'll find out': Trump's cryptic Iran warning after SHOCKING assassination plot REVEALED",
       "channel": "MS NOW",
       "videoId": "hmHvbEAbnSg",
-      "viewsPerHour": 380,
+      "viewsPerHour": 348,
       "views": 8474,
-      "ageHours": 22.3
+      "ageHours": 24.4
     },
     {
       "title": "WATCH: Trump arrives at finale of Patriot Games high school athlete competition",
       "channel": "PBS NewsHour",
       "videoId": "piCmKyssDWI",
-      "viewsPerHour": 360,
+      "viewsPerHour": 313,
       "views": 4946,
-      "ageHours": 13.7
+      "ageHours": 15.8
     },
     {
       "title": "Flock comments at city council hearing with @GamersNexus",
       "channel": "Louis Rossmann",
       "videoId": "HFjaBSPIE1Y",
-      "viewsPerHour": 292,
+      "viewsPerHour": 260,
       "views": 4974,
-      "ageHours": 17
-    },
-    {
-      "title": "MS NOW Highlights - August 11",
-      "channel": "MS NOW",
-      "videoId": "KTL0YXcO940",
-      "viewsPerHour": 267,
-      "views": 1060,
-      "ageHours": 4
-    },
-    {
-      "title": "Trump secretly transported via catering truck from AF1 to military jet amid Iran threat",
-      "channel": "MS NOW",
-      "videoId": "gNUKryhqsSw",
-      "viewsPerHour": 266,
-      "views": 5983,
-      "ageHours": 22.5
+      "ageHours": 19.1
     },
     {
       "title": "Do I miss New York? Looking back 5 years later!",
       "channel": "Louis Rossmann",
       "videoId": "wbj9M1z-Nxw",
-      "viewsPerHour": 256,
+      "viewsPerHour": 244,
       "views": 10742,
-      "ageHours": 42
+      "ageHours": 44
     },
     {
-      "title": "PBS News Hour live episode, August 11, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "aUo8FuC_YRA",
-      "viewsPerHour": 246,
-      "views": 4219,
-      "ageHours": 17.1
+      "title": "Trump secretly transported via catering truck from AF1 to military jet amid Iran threat",
+      "channel": "MS NOW",
+      "videoId": "gNUKryhqsSw",
+      "viewsPerHour": 244,
+      "views": 5983,
+      "ageHours": 24.5
     },
     {
       "title": "‘It’s Anti-American’: Joe BLASTS Trump for calling progressive Democrats ‘JIHADISTS’ ",
       "channel": "MS NOW",
       "videoId": "bcE3D_qAib4",
-      "viewsPerHour": 244,
+      "viewsPerHour": 224,
       "views": 5605,
-      "ageHours": 23
+      "ageHours": 25.1
+    },
+    {
+      "title": "PBS News Hour live episode, August 11, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "aUo8FuC_YRA",
+      "viewsPerHour": 220,
+      "views": 4219,
+      "ageHours": 19.2
     },
     {
       "title": "WATCH: Border czar Homan says ICE is still making record arrests 'despite the radical courts'",
       "channel": "PBS NewsHour",
       "videoId": "uhnUxu-zZLs",
-      "viewsPerHour": 223,
+      "viewsPerHour": 194,
       "views": 3179,
-      "ageHours": 14.3
+      "ageHours": 16.3
+    },
+    {
+      "title": "MS NOW Highlights - August 11",
+      "channel": "MS NOW",
+      "videoId": "KTL0YXcO940",
+      "viewsPerHour": 175,
+      "views": 1060,
+      "ageHours": 6
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Aug. 11 | Audio Only",
       "channel": "MS NOW",
       "videoId": "L-rhUDFuUdQ",
-      "viewsPerHour": 188,
+      "viewsPerHour": 124,
       "views": 753,
-      "ageHours": 4
-    },
-    {
-      "title": "Beholden only to Minnesotans': MN Lt. Gov. makes her case for Senate Democratic primary",
-      "channel": "MS NOW",
-      "videoId": "KEGjdSeggxM",
-      "viewsPerHour": 132,
-      "views": 2201,
-      "ageHours": 16.6
+      "ageHours": 6.1
     },
     {
       "title": "Ice Cube Denies Taking The Weed From The Student Driver Remote | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "bqEICo5GC8g",
-      "viewsPerHour": 130,
+      "viewsPerHour": 119,
       "views": 3022,
-      "ageHours": 23.3
+      "ageHours": 25.4
+    },
+    {
+      "title": "Beholden only to Minnesotans': MN Lt. Gov. makes her case for Senate Democratic primary",
+      "channel": "MS NOW",
+      "videoId": "KEGjdSeggxM",
+      "viewsPerHour": 118,
+      "views": 2201,
+      "ageHours": 18.7
     },
     {
       "title": "WATCH LIVE: Jeffries speaks about Trump's immigration detention policies in New Jersey",
       "channel": "PBS NewsHour",
       "videoId": "sw_3_SQSWpU",
-      "viewsPerHour": 125,
+      "viewsPerHour": 114,
       "views": 2783,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "LISTEN LIVE: EEOC holds public hearing on removal of demographic reporting requirements",
       "channel": "PBS NewsHour",
       "videoId": "03rhLFpOkco",
-      "viewsPerHour": 94,
+      "viewsPerHour": 86,
       "views": 2051,
-      "ageHours": 21.9
+      "ageHours": 23.9
     },
     {
       "title": "A Palestinian Mother’s Impossible Battle To Win Back Her Children In Israel",
       "channel": "Real Stories",
       "videoId": "M8fOyB6DGaY",
-      "viewsPerHour": 83,
-      "views": 1850,
-      "ageHours": 22.3
+      "viewsPerHour": 78,
+      "views": 1907,
+      "ageHours": 24.4
     },
     {
       "title": "A message to Senator Chuck Grassley & his vacuum cleaner ",
       "channel": "Louis Rossmann",
       "videoId": "3emEcicdBEo",
-      "viewsPerHour": 70,
+      "viewsPerHour": 66,
       "views": 2822,
-      "ageHours": 40.5
+      "ageHours": 42.6
     },
     {
       "title": "Search for earthquake survivors in Colombia enters critical phase",
       "channel": "PBS NewsHour",
       "videoId": "ZikY3FJwfoU",
-      "viewsPerHour": 59,
+      "viewsPerHour": 53,
       "views": 940,
-      "ageHours": 15.8
+      "ageHours": 17.9
     },
     {
       "title": "News Wrap: Syria sentences Bashar al-Assad to death in absentia",
       "channel": "PBS NewsHour",
       "videoId": "a7co1CeEq44",
-      "viewsPerHour": 12,
+      "viewsPerHour": 11,
       "views": 190,
-      "ageHours": 15.7
+      "ageHours": 17.7
     },
     {
       "title": "WATCH LIVE: Isaacman holds briefing to preview America 250 event at NASA Kennedy Space Center",
@@ -718,7 +710,7 @@
       "videoId": "uEm6_ruWhWQ",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 22.3
+      "ageHours": 24.4
     }
   ]
 }
