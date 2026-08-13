@@ -1,20 +1,24 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 8
+    },
+    {
       "channel": "MS NOW",
-      "count": 6
+      "count": 7
     },
     {
       "channel": "History",
-      "count": 39
+      "count": 41
+    },
+    {
+      "channel": "Real Stories",
+      "count": 38
     },
     {
       "channel": "Last Week Tonight",
       "count": 19
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 8
     },
     {
       "channel": "Conan O'Brien",
@@ -22,15 +26,11 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 15
+      "count": 14
     },
     {
       "channel": "The Daily Show",
       "count": 3
-    },
-    {
-      "channel": "Real Stories",
-      "count": 37
     },
     {
       "channel": "More Perfect Union",
@@ -79,8 +79,24 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "PBS NewsHour",
+      "count": 8
+    },
+    {
       "keyword": "MS NOW",
-      "count": 5
+      "count": 6
+    },
+    {
+      "keyword": "UAP, UFO",
+      "count": 4
+    },
+    {
+      "keyword": "Giza",
+      "count": 2
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 22
     },
     {
       "keyword": "MS NOW, Reuters",
@@ -95,16 +111,12 @@
       "count": 1
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 8
-    },
-    {
       "keyword": "Conan O'Brien",
       "count": 12
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 14
+      "count": 13
     },
     {
       "keyword": "The Daily Show",
@@ -113,10 +125,6 @@
     {
       "keyword": "Last Week Tonight",
       "count": 17
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 21
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -171,14 +179,6 @@
       "count": 1
     },
     {
-      "keyword": "UAP, UFO",
-      "count": 3
-    },
-    {
-      "keyword": "Giza",
-      "count": 1
-    },
-    {
       "keyword": "AI, UAP, UFO",
       "count": 1
     },
@@ -206,11 +206,11 @@
   "dailySummary": [
     {
       "date": "2026-08-12",
-      "videos": 12
+      "videos": 20
     },
     {
       "date": "2026-08-11",
-      "videos": 15
+      "videos": 11
     },
     {
       "date": "2026-08-10",
@@ -266,7 +266,7 @@
     },
     {
       "date": "2026-07-28",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-07-26",
@@ -419,8 +419,24 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour",
+      "matches": 8
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 5
+      "matches": 6
+    },
+    {
+      "keyword": "UAP, UFO",
+      "matches": 1
+    },
+    {
+      "keyword": "Giza",
+      "matches": 1
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 4
     },
     {
       "keyword": "MS NOW, Reuters",
@@ -433,10 +449,6 @@
     {
       "keyword": "Last Week Tonight, artificial intelligence, AI",
       "matches": 1
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 8
     },
     {
       "keyword": "Conan O'Brien",
@@ -453,10 +465,6 @@
     {
       "keyword": "Last Week Tonight",
       "matches": 8
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 3
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -476,7 +484,7 @@
     },
     {
       "keyword": "The Rest Is Science",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "UAP",
@@ -504,209 +512,241 @@
       "title": "30 Years of the Best F**king News Team's Audition Tapes | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "CKk2ljPdLXk",
-      "viewsPerHour": 12693,
-      "views": 371855,
-      "ageHours": 29.3
+      "viewsPerHour": 12183,
+      "views": 405566,
+      "ageHours": 33.3
+    },
+    {
+      "title": "Such a lunatic': Nicolle reacts to Trump's ACCIDENTAL REVEAL prompted by Russia probe obsession",
+      "channel": "MS NOW",
+      "videoId": "4uNDI6u5kkY",
+      "viewsPerHour": 8987,
+      "views": 47102,
+      "ageHours": 5.2
     },
     {
       "title": "The Real Water Cost of AI Isn't Inside Data Centers. But Tech Companies Don’t Report It.",
       "channel": "More Perfect Union",
       "videoId": "c0PSKqqFbeg",
-      "viewsPerHour": 9266,
-      "views": 293521,
-      "ageHours": 31.7
+      "viewsPerHour": 8782,
+      "views": 313263,
+      "ageHours": 35.7
+    },
+    {
+      "title": "Trump-backed MyPillow founder MELTS DOWN over HUMILIATING primary race defeat, refuses to concede",
+      "channel": "MS NOW",
+      "videoId": "aiJFLazW5_0",
+      "viewsPerHour": 3996,
+      "views": 18231,
+      "ageHours": 4.6
     },
     {
       "title": "PBS News Hour full episode, August 11, 2026",
       "channel": "PBS NewsHour",
       "videoId": "-S2zUPn98jo",
-      "viewsPerHour": 3682,
+      "viewsPerHour": 3131,
       "views": 83599,
-      "ageHours": 22.7
+      "ageHours": 26.7
+    },
+    {
+      "title": "Evidence of Aliens Found Underground? | Ancient Aliens",
+      "channel": "History",
+      "videoId": "bNw5WQQegfA",
+      "viewsPerHour": 3028,
+      "views": 25083,
+      "ageHours": 8.3
+    },
+    {
+      "title": "Explosive Experiments Find UFOs | The Secret of Skinwalker Ranch",
+      "channel": "History",
+      "videoId": "vGCp4FpKZEA",
+      "viewsPerHour": 2696,
+      "views": 21893,
+      "ageHours": 8.1
     },
     {
       "title": "S10 E2: Project Veritas & Artificial Intelligence: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "27bhd57rDD4",
-      "viewsPerHour": 1646,
-      "views": 10362,
-      "ageHours": 6.3
+      "viewsPerHour": 1667,
+      "views": 17152,
+      "ageHours": 10.3
     },
     {
       "title": "911 calls answered by AI in New Orleans",
       "channel": "Louis Rossmann",
       "videoId": "psllRvOotwI",
-      "viewsPerHour": 972,
+      "viewsPerHour": 873,
       "views": 34322,
-      "ageHours": 35.3
+      "ageHours": 39.3
+    },
+    {
+      "title": "PBS News Hour live episode, August 12, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "rG0kvszyANc",
+      "viewsPerHour": 806,
+      "views": 4213,
+      "ageHours": 5.2
     },
     {
       "title": "S10 E1: Train Derailment & Psychedelic Assisted Therapy: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "JhoYRrb7Ve4",
-      "viewsPerHour": 791,
-      "views": 23581,
-      "ageHours": 29.8
+      "viewsPerHour": 719,
+      "views": 24283,
+      "ageHours": 33.8
     },
     {
       "title": "Plane or UFO? | The Proof is Out There",
       "channel": "History",
       "videoId": "I986brKDV_0",
-      "viewsPerHour": 769,
-      "views": 4835,
-      "ageHours": 6.3
-    },
-    {
-      "title": "Joe DESTROYS Trump's socialism attacks: socialist threat ‘is coming from the White House!’",
-      "channel": "MS NOW",
-      "videoId": "6Q8G7jQj8zw",
-      "viewsPerHour": 735,
-      "views": 4498,
-      "ageHours": 6.1
+      "viewsPerHour": 703,
+      "views": 7227,
+      "ageHours": 10.3
     },
     {
       "title": "Sona’s Husband Tak Just Earned His Karate Black Belt | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "0WwEi4ySw0s",
-      "viewsPerHour": 649,
+      "viewsPerHour": 581,
       "views": 22259,
-      "ageHours": 34.3
+      "ageHours": 38.3
     },
     {
       "title": "Bad Things Happen When You Dig (S1, E1) | The Secret of Skinwalker Ranch | Full Episode",
       "channel": "History",
       "videoId": "piN0tBo62N4",
-      "viewsPerHour": 642,
-      "views": 15588,
-      "ageHours": 24.3
+      "viewsPerHour": 576,
+      "views": 16294,
+      "ageHours": 28.3
     },
     {
-      "title": "I don't think we've seen the full cost' of Iran war: Fmr. Trump Def. Secy.",
+      "title": "Joe DESTROYS Trump's socialism attacks: socialist threat ‘is coming from the White House!’",
       "channel": "MS NOW",
-      "videoId": "gUFXS0SPDdk",
-      "viewsPerHour": 466,
-      "views": 2762,
-      "ageHours": 5.9
+      "videoId": "6Q8G7jQj8zw",
+      "viewsPerHour": 445,
+      "views": 4498,
+      "ageHours": 10.1
+    },
+    {
+      "title": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
+      "channel": "PBS NewsHour",
+      "videoId": "X6Z_y4BHc6U",
+      "viewsPerHour": 345,
+      "views": 1322,
+      "ageHours": 3.8
     },
     {
       "title": "Eating Expired Food is Normal in Antarctica | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "TyIGZ5Old_Y",
-      "viewsPerHour": 355,
-      "views": 11831,
-      "ageHours": 33.3
+      "viewsPerHour": 334,
+      "views": 12458,
+      "ageHours": 37.3
+    },
+    {
+      "title": "I don't think we've seen the full cost' of Iran war: Fmr. Trump Def. Secy.",
+      "channel": "MS NOW",
+      "videoId": "gUFXS0SPDdk",
+      "viewsPerHour": 278,
+      "views": 2762,
+      "ageHours": 9.9
     },
     {
       "title": "WATCH: Trump arrives at finale of Patriot Games high school athlete competition",
       "channel": "PBS NewsHour",
       "videoId": "piCmKyssDWI",
-      "viewsPerHour": 227,
+      "viewsPerHour": 192,
       "views": 4946,
-      "ageHours": 21.7
-    },
-    {
-      "title": "Wildy unimpressed': Dem nominee in SC Senate primary reacts to GOP runoff",
-      "channel": "MS NOW",
-      "videoId": "DTv7LWLVOag",
-      "viewsPerHour": 212,
-      "views": 1234,
-      "ageHours": 5.8
+      "ageHours": 25.7
     },
     {
       "title": "Flock comments at city council hearing with @GamersNexus",
       "channel": "Louis Rossmann",
       "videoId": "HFjaBSPIE1Y",
-      "viewsPerHour": 199,
+      "viewsPerHour": 171,
       "views": 4974,
-      "ageHours": 25
+      "ageHours": 29
     },
     {
-      "title": "PBS News Hour live episode, August 11, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "aUo8FuC_YRA",
-      "viewsPerHour": 168,
-      "views": 4219,
-      "ageHours": 25.1
-    },
-    {
-      "title": "WATCH: Trump says Secret Service wanted him to sneak off AF1, defends safety of plane with staff",
-      "channel": "PBS NewsHour",
-      "videoId": "pcgDxnMBe2g",
-      "viewsPerHour": 152,
-      "views": 1228,
-      "ageHours": 8.1
+      "title": "Wildy unimpressed': Dem nominee in SC Senate primary reacts to GOP runoff",
+      "channel": "MS NOW",
+      "videoId": "DTv7LWLVOag",
+      "viewsPerHour": 126,
+      "views": 1234,
+      "ageHours": 9.8
     },
     {
       "title": "WATCH: Border czar Homan says ICE is still making record arrests 'despite the radical courts'",
       "channel": "PBS NewsHour",
       "videoId": "uhnUxu-zZLs",
-      "viewsPerHour": 143,
+      "viewsPerHour": 121,
       "views": 3179,
-      "ageHours": 22.3
+      "ageHours": 26.3
+    },
+    {
+      "title": "WATCH: Trump says Secret Service wanted him to sneak off AF1, defends safety of plane with staff",
+      "channel": "PBS NewsHour",
+      "videoId": "pcgDxnMBe2g",
+      "viewsPerHour": 102,
+      "views": 1228,
+      "ageHours": 12.1
     },
     {
       "title": "Rob Delaney (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "QHhap9bezzc",
-      "viewsPerHour": 132,
+      "viewsPerHour": 95,
       "views": 1354,
-      "ageHours": 10.3
+      "ageHours": 14.3
     },
     {
       "title": "Ice Cube Denies Taking The Weed From The Student Driver Remote | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "bqEICo5GC8g",
-      "viewsPerHour": 97,
+      "viewsPerHour": 86,
       "views": 3022,
-      "ageHours": 31.3
-    },
-    {
-      "title": "Beholden only to Minnesotans': MN Lt. Gov. makes her case for Senate Democratic primary",
-      "channel": "MS NOW",
-      "videoId": "KEGjdSeggxM",
-      "viewsPerHour": 89,
-      "views": 2201,
-      "ageHours": 24.6
+      "ageHours": 35.3
     },
     {
       "title": "MS NOW Highlights - August 11",
       "channel": "MS NOW",
       "videoId": "KTL0YXcO940",
-      "viewsPerHour": 88,
+      "viewsPerHour": 66,
       "views": 1060,
-      "ageHours": 12
+      "ageHours": 16
     },
     {
       "title": "A Palestinian Mother’s Impossible Battle To Win Back Her Children In Israel",
       "channel": "Real Stories",
       "videoId": "M8fOyB6DGaY",
-      "viewsPerHour": 70,
-      "views": 2106,
-      "ageHours": 30.3
+      "viewsPerHour": 65,
+      "views": 2221,
+      "ageHours": 34.3
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Aug. 11 | Audio Only",
       "channel": "MS NOW",
       "videoId": "L-rhUDFuUdQ",
-      "viewsPerHour": 63,
+      "viewsPerHour": 47,
       "views": 753,
-      "ageHours": 12
+      "ageHours": 16
     },
     {
-      "title": "Search for earthquake survivors in Colombia enters critical phase",
+      "title": "A look at Spain's plan to give undocumented migrants legal status",
       "channel": "PBS NewsHour",
-      "videoId": "ZikY3FJwfoU",
-      "viewsPerHour": 39,
-      "views": 940,
-      "ageHours": 23.8
+      "videoId": "_JiEOZTxdhs",
+      "viewsPerHour": 36,
+      "views": 132,
+      "ageHours": 3.7
     },
     {
-      "title": "News Wrap: Syria sentences Bashar al-Assad to death in absentia",
-      "channel": "PBS NewsHour",
-      "videoId": "a7co1CeEq44",
-      "viewsPerHour": 8,
-      "views": 190,
-      "ageHours": 23.7
+      "title": "Hercules: The Circus Bear That Became Movie Star",
+      "channel": "Real Stories",
+      "videoId": "Uy7RLMIGXp0",
+      "viewsPerHour": 32,
+      "views": 267,
+      "ageHours": 8.3
     },
     {
       "title": "WATCH LIVE: Total solar eclipse darkens skies over Spain, Iceland",
@@ -714,7 +754,7 @@
       "videoId": "4eyOYVvF4O4",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 9
+      "ageHours": 13
     }
   ]
 }
