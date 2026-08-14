@@ -432,7 +432,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "Louis Rossmann",
@@ -440,7 +440,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "The Daily Show",
@@ -448,7 +448,7 @@
     },
     {
       "keyword": "NOVA",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "AI",
@@ -496,193 +496,177 @@
       "title": "Fat Loss Scientist: It’s Easy To Lose Weight, But Here’s Why You WON’T Do It! | Dr Andy Galpin",
       "channel": "Diary of a CEO",
       "videoId": "dmz--DQty8o",
-      "viewsPerHour": 10040,
-      "views": 314237,
-      "ageHours": 31.3
+      "viewsPerHour": 9942,
+      "views": 331103,
+      "ageHours": 33.3
     },
     {
       "title": "Why Donald Rumsfeld Was Jon Stewart's Least Favorite Interview - After The Cut | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "iv4h9vCPaTk",
-      "viewsPerHour": 8778,
-      "views": 222066,
-      "ageHours": 25.3
+      "viewsPerHour": 8451,
+      "views": 230763,
+      "ageHours": 27.3
     },
     {
       "title": "Hannah Drinks Something She Probably Shouldn't",
       "channel": "The Rest Is Science",
       "videoId": "aEwAWRSDsw8",
-      "viewsPerHour": 4102,
-      "views": 160887,
-      "ageHours": 39.2
+      "viewsPerHour": 3986,
+      "views": 164318,
+      "ageHours": 41.2
     },
     {
       "title": "If this passes, I give up",
       "channel": "Louis Rossmann",
       "videoId": "ppJ7n6XyMrc",
-      "viewsPerHour": 3118,
+      "viewsPerHour": 2951,
       "views": 110646,
-      "ageHours": 35.5
+      "ageHours": 37.5
     },
     {
       "title": "Evidence of Aliens Found Underground? | Ancient Aliens",
       "channel": "History",
       "videoId": "bNw5WQQegfA",
-      "viewsPerHour": 1805,
-      "views": 79941,
-      "ageHours": 44.3
-    },
-    {
-      "title": "S10 E2: Project Veritas & Artificial Intelligence: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "27bhd57rDD4",
-      "viewsPerHour": 1462,
-      "views": 67711,
+      "viewsPerHour": 1767,
+      "views": 81822,
       "ageHours": 46.3
     },
     {
       "title": "Explosive Experiments Find UFOs | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "vGCp4FpKZEA",
-      "viewsPerHour": 1428,
-      "views": 63002,
-      "ageHours": 44.1
+      "viewsPerHour": 1382,
+      "views": 63756,
+      "ageHours": 46.1
     },
     {
       "title": "Sona's Husband Tak Is \"Still Adjusting\" To Being Her Spouse | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "2JmBFUDQCwg",
-      "viewsPerHour": 1361,
+      "viewsPerHour": 1265,
       "views": 35793,
-      "ageHours": 26.3
+      "ageHours": 28.3
     },
     {
       "title": "MS NOW reacts to Trump Cabinet members LEFT BEHIND as decoys in ‘Air Force One bait and switch’",
       "channel": "MS NOW",
       "videoId": "tsW2i-YL9tI",
-      "viewsPerHour": 1256,
+      "viewsPerHour": 1184,
       "views": 41587,
-      "ageHours": 33.1
+      "ageHours": 35.1
     },
     {
       "title": "He might want to change the channel!': Nicolle CLOWNS Trump after ABYSMAL poll numbers revealed",
       "channel": "MS NOW",
       "videoId": "aGRhlxKOMcA",
-      "viewsPerHour": 985,
+      "viewsPerHour": 875,
       "views": 15776,
-      "ageHours": 16
+      "ageHours": 18
     },
     {
       "title": "Interview: Hobbits, Neanderthals, and Dragon Man | Particles of Thought",
       "channel": "NOVA",
       "videoId": "RPY02wfglJY",
-      "viewsPerHour": 680,
-      "views": 19237,
-      "ageHours": 28.3
+      "viewsPerHour": 668,
+      "views": 20250,
+      "ageHours": 30.3
     },
     {
       "title": "S10 E3: Ron DeSantis & Radiant Plumbing: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "Ex9FKp7FPMw",
-      "viewsPerHour": 634,
-      "views": 14144,
-      "ageHours": 22.3
+      "viewsPerHour": 611,
+      "views": 14860,
+      "ageHours": 24.3
     },
     {
       "title": "Carrier AC repair has $8700 part cost for residential unit",
       "channel": "Louis Rossmann",
       "videoId": "iqzEIPEky1s",
-      "viewsPerHour": 460,
+      "viewsPerHour": 425,
       "views": 11182,
-      "ageHours": 24.3
+      "ageHours": 26.3
     },
     {
       "title": "Election SHOCKER humbles pollsters and pundits; resets key midterm race",
       "channel": "MS NOW",
       "videoId": "T2tagpy_EWw",
-      "viewsPerHour": 438,
+      "viewsPerHour": 412,
       "views": 13980,
-      "ageHours": 31.9
+      "ageHours": 33.9
     },
     {
       "title": "@GamersNexus fights flock in his backyard",
       "channel": "Louis Rossmann",
       "videoId": "FCtAYZYMSaY",
-      "viewsPerHour": 383,
-      "views": 8574,
-      "ageHours": 22.4
-    },
-    {
-      "title": "Plane or UFO? | The Proof is Out There",
-      "channel": "History",
-      "videoId": "I986brKDV_0",
       "viewsPerHour": 351,
-      "views": 16242,
-      "ageHours": 46.3
+      "views": 8574,
+      "ageHours": 24.4
     },
     {
       "title": "Psaki on what national narratives are missing about primary elections so far",
       "channel": "MS NOW",
       "videoId": "eag9MyrCzPE",
-      "viewsPerHour": 249,
+      "viewsPerHour": 234,
       "views": 7991,
-      "ageHours": 32.1
+      "ageHours": 34.2
     },
     {
       "title": "PBS News Hour live episode, August 13, 2026",
       "channel": "PBS NewsHour",
       "videoId": "JdteRbRaLsY",
-      "viewsPerHour": 234,
+      "viewsPerHour": 209,
       "views": 4034,
-      "ageHours": 17.2
+      "ageHours": 19.3
     },
     {
       "title": "Inside The Search For Charles Manson's Missing Victims",
       "channel": "Real Stories",
       "videoId": "bMZr5l2Yw_Y",
-      "viewsPerHour": 136,
-      "views": 2753,
-      "ageHours": 20.3
+      "viewsPerHour": 133,
+      "views": 2977,
+      "ageHours": 22.3
     },
     {
       "title": "Jeff Goldblum Is Anti-Plastic Surgery | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "FwsS6nTO1jc",
-      "viewsPerHour": 77,
+      "viewsPerHour": 71,
       "views": 1797,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "Profoundly corrupt': Lawyer slams paying Trump's private company for official government info",
       "channel": "MS NOW",
       "videoId": "7EmyzwBY-8g",
-      "viewsPerHour": 60,
+      "viewsPerHour": 55,
       "views": 1316,
-      "ageHours": 22.1
+      "ageHours": 24.1
     },
     {
       "title": "Palestinian American family recounts siege of West Bank home by Israeli settlers",
       "channel": "PBS NewsHour",
       "videoId": "AsUGpdeijj8",
-      "viewsPerHour": 17,
+      "viewsPerHour": 15,
       "views": 264,
-      "ageHours": 15.7
+      "ageHours": 17.7
     },
     {
       "title": "Hercules: The Circus Bear That Became Movie Star",
       "channel": "Real Stories",
       "videoId": "Uy7RLMIGXp0",
-      "viewsPerHour": 13,
+      "viewsPerHour": 12,
       "views": 569,
-      "ageHours": 44.3
+      "ageHours": 46.3
     },
     {
       "title": "How Trump's construction projects are changing Washington and costing taxpayers",
       "channel": "PBS NewsHour",
       "videoId": "cpQN4EHgpjA",
-      "viewsPerHour": 9,
+      "viewsPerHour": 8,
       "views": 136,
-      "ageHours": 15.6
+      "ageHours": 17.6
     }
   ]
 }
