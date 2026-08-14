@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "PBS NewsHour",
-      "count": 5
+      "count": 3
     },
     {
       "channel": "MS NOW",
@@ -38,7 +38,7 @@
     },
     {
       "channel": "The Rest Is Science",
-      "count": 5
+      "count": 4
     },
     {
       "channel": "History",
@@ -80,7 +80,7 @@
   "keywordFrequency": [
     {
       "keyword": "PBS NewsHour",
-      "count": 5
+      "count": 3
     },
     {
       "keyword": "MS NOW",
@@ -116,7 +116,7 @@
     },
     {
       "keyword": "The Rest Is Science",
-      "count": 5
+      "count": 4
     },
     {
       "keyword": "UAP, UFO",
@@ -206,7 +206,7 @@
     },
     {
       "date": "2026-08-12",
-      "videos": 9
+      "videos": 7
     },
     {
       "date": "2026-08-11",
@@ -262,7 +262,7 @@
     },
     {
       "date": "2026-07-29",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-07-28",
@@ -420,7 +420,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "PBS NewsHour",
-      "matches": 5
+      "matches": 3
     },
     {
       "keyword": "MS NOW",
@@ -496,209 +496,193 @@
       "title": "Fat Loss Scientist: It’s Easy To Lose Weight, But Here’s Why You WON’T Do It! | Dr Andy Galpin",
       "channel": "Diary of a CEO",
       "videoId": "dmz--DQty8o",
-      "viewsPerHour": 10305,
+      "viewsPerHour": 9441,
       "views": 219849,
-      "ageHours": 21.3
+      "ageHours": 23.3
     },
     {
       "title": "Why Donald Rumsfeld Was Jon Stewart's Least Favorite Interview - After The Cut | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "iv4h9vCPaTk",
-      "viewsPerHour": 8342,
+      "viewsPerHour": 7400,
       "views": 127931,
-      "ageHours": 15.3
+      "ageHours": 17.3
     },
     {
       "title": "Hannah Drinks Something She Probably Shouldn't",
       "channel": "The Rest Is Science",
       "videoId": "aEwAWRSDsw8",
-      "viewsPerHour": 4656,
+      "viewsPerHour": 4365,
       "views": 136214,
-      "ageHours": 29.3
+      "ageHours": 31.2
     },
     {
       "title": "If this passes, I give up",
       "channel": "Louis Rossmann",
       "videoId": "ppJ7n6XyMrc",
-      "viewsPerHour": 4334,
+      "viewsPerHour": 4026,
       "views": 110646,
-      "ageHours": 25.5
+      "ageHours": 27.5
     },
     {
       "title": "He might want to change the channel!': Nicolle CLOWNS Trump after ABYSMAL poll numbers revealed",
       "channel": "MS NOW",
       "videoId": "aGRhlxKOMcA",
-      "viewsPerHour": 2607,
+      "viewsPerHour": 1972,
       "views": 15776,
-      "ageHours": 6.1
-    },
-    {
-      "title": "PBS News Hour full episode, August 12, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "NeU42F8cRCY",
-      "viewsPerHour": 2457,
-      "views": 71134,
-      "ageHours": 29
+      "ageHours": 8
     },
     {
       "title": "Sona's Husband Tak Is \"Still Adjusting\" To Being Her Spouse | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "2JmBFUDQCwg",
-      "viewsPerHour": 2191,
+      "viewsPerHour": 1957,
       "views": 35793,
-      "ageHours": 16.3
+      "ageHours": 18.3
     },
     {
       "title": "Evidence of Aliens Found Underground? | Ancient Aliens",
       "channel": "History",
       "videoId": "bNw5WQQegfA",
-      "viewsPerHour": 2037,
+      "viewsPerHour": 1928,
       "views": 69948,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
       "title": "MS NOW reacts to Trump Cabinet members LEFT BEHIND as decoys in ‘Air Force One bait and switch’",
       "channel": "MS NOW",
       "videoId": "tsW2i-YL9tI",
-      "viewsPerHour": 1796,
+      "viewsPerHour": 1657,
       "views": 41587,
-      "ageHours": 23.2
+      "ageHours": 25.1
     },
     {
       "title": "Explosive Experiments Find UFOs | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "vGCp4FpKZEA",
-      "viewsPerHour": 1665,
+      "viewsPerHour": 1575,
       "views": 56882,
-      "ageHours": 34.2
+      "ageHours": 36.1
     },
     {
       "title": "S10 E2: Project Veritas & Artificial Intelligence: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "27bhd57rDD4",
-      "viewsPerHour": 1628,
+      "viewsPerHour": 1545,
       "views": 59146,
-      "ageHours": 36.3
+      "ageHours": 38.3
     },
     {
       "title": "S10 E3: Ron DeSantis & Radiant Plumbing: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "Ex9FKp7FPMw",
-      "viewsPerHour": 799,
+      "viewsPerHour": 690,
       "views": 9855,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "Carrier AC repair has $8700 part cost for residential unit",
       "channel": "Louis Rossmann",
       "videoId": "iqzEIPEky1s",
-      "viewsPerHour": 780,
+      "viewsPerHour": 687,
       "views": 11182,
-      "ageHours": 14.3
+      "ageHours": 16.3
     },
     {
       "title": "@GamersNexus fights flock in his backyard",
       "channel": "Louis Rossmann",
       "videoId": "FCtAYZYMSaY",
-      "viewsPerHour": 689,
+      "viewsPerHour": 596,
       "views": 8574,
-      "ageHours": 12.4
+      "ageHours": 14.4
     },
     {
       "title": "Election SHOCKER humbles pollsters and pundits; resets key midterm race",
       "channel": "MS NOW",
       "videoId": "T2tagpy_EWw",
-      "viewsPerHour": 637,
+      "viewsPerHour": 585,
       "views": 13980,
-      "ageHours": 22
-    },
-    {
-      "title": "PBS News Hour live episode, August 13, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "JdteRbRaLsY",
-      "viewsPerHour": 554,
-      "views": 4034,
-      "ageHours": 7.3
+      "ageHours": 23.9
     },
     {
       "title": "Interview: Hobbits, Neanderthals, and Dragon Man | Particles of Thought",
       "channel": "NOVA",
       "videoId": "RPY02wfglJY",
-      "viewsPerHour": 527,
+      "viewsPerHour": 477,
       "views": 9669,
-      "ageHours": 18.3
+      "ageHours": 20.3
+    },
+    {
+      "title": "PBS News Hour live episode, August 13, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "JdteRbRaLsY",
+      "viewsPerHour": 437,
+      "views": 4034,
+      "ageHours": 9.2
     },
     {
       "title": "Plane or UFO? | The Proof is Out There",
       "channel": "History",
       "videoId": "I986brKDV_0",
-      "viewsPerHour": 395,
+      "viewsPerHour": 375,
       "views": 14345,
-      "ageHours": 36.3
+      "ageHours": 38.3
     },
     {
       "title": "Psaki on what national narratives are missing about primary elections so far",
       "channel": "MS NOW",
       "videoId": "eag9MyrCzPE",
-      "viewsPerHour": 360,
+      "viewsPerHour": 331,
       "views": 7991,
-      "ageHours": 22.2
+      "ageHours": 24.1
     },
     {
       "title": "Inside The Search For Charles Manson's Missing Victims",
       "channel": "Real Stories",
       "videoId": "bMZr5l2Yw_Y",
-      "viewsPerHour": 170,
+      "viewsPerHour": 143,
       "views": 1753,
-      "ageHours": 10.3
+      "ageHours": 12.3
     },
     {
       "title": "Jeff Goldblum Is Anti-Plastic Surgery | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "FwsS6nTO1jc",
-      "viewsPerHour": 135,
+      "viewsPerHour": 118,
       "views": 1797,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "Profoundly corrupt': Lawyer slams paying Trump's private company for official government info",
       "channel": "MS NOW",
       "videoId": "7EmyzwBY-8g",
-      "viewsPerHour": 109,
+      "viewsPerHour": 94,
       "views": 1316,
-      "ageHours": 12.1
-    },
-    {
-      "title": "Sam Roberts and Geoff Bennett discuss the art of obituary writing on 'Settle In'",
-      "channel": "PBS NewsHour",
-      "videoId": "W4WE-0UE0F0",
-      "viewsPerHour": 57,
-      "views": 1673,
-      "ageHours": 29.2
+      "ageHours": 14.1
     },
     {
       "title": "Palestinian American family recounts siege of West Bank home by Israeli settlers",
       "channel": "PBS NewsHour",
       "videoId": "AsUGpdeijj8",
-      "viewsPerHour": 46,
+      "viewsPerHour": 34,
       "views": 264,
-      "ageHours": 5.8
+      "ageHours": 7.7
     },
     {
       "title": "Rob Delaney (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "QHhap9bezzc",
-      "viewsPerHour": 34,
+      "viewsPerHour": 32,
       "views": 1354,
-      "ageHours": 40.3
+      "ageHours": 42.3
     },
     {
       "title": "How Trump's construction projects are changing Washington and costing taxpayers",
       "channel": "PBS NewsHour",
       "videoId": "cpQN4EHgpjA",
-      "viewsPerHour": 24,
+      "viewsPerHour": 18,
       "views": 136,
-      "ageHours": 5.6
+      "ageHours": 7.6
     },
     {
       "title": "Hercules: The Circus Bear That Became Movie Star",
@@ -706,7 +690,7 @@
       "videoId": "Uy7RLMIGXp0",
       "viewsPerHour": 15,
       "views": 529,
-      "ageHours": 34.3
+      "ageHours": 36.3
     }
   ]
 }
