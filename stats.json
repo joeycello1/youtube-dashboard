@@ -1,6 +1,30 @@
 {
   "videosPerChannel": [
     {
+      "channel": "MS NOW",
+      "count": 6
+    },
+    {
+      "channel": "History",
+      "count": 46
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 19
+    },
+    {
+      "channel": "Real Stories",
+      "count": 38
+    },
+    {
+      "channel": "Inside AI",
+      "count": 2
+    },
+    {
+      "channel": "Chris Lehto",
+      "count": 6
+    },
+    {
       "channel": "Last Week Tonight",
       "count": 19
     },
@@ -9,20 +33,8 @@
       "count": 7
     },
     {
-      "channel": "MS NOW",
-      "count": 5
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 18
-    },
-    {
       "channel": "PBS NewsHour",
-      "count": 6
-    },
-    {
-      "channel": "History",
-      "count": 44
+      "count": 3
     },
     {
       "channel": "Area 52",
@@ -35,10 +47,6 @@
     {
       "channel": "More Perfect Union",
       "count": 17
-    },
-    {
-      "channel": "Real Stories",
-      "count": 37
     },
     {
       "channel": "The Daily Show",
@@ -57,10 +65,6 @@
       "count": 4
     },
     {
-      "channel": "Chris Lehto",
-      "count": 5
-    },
-    {
       "channel": "Mayim Bialik",
       "count": 8
     },
@@ -71,13 +75,37 @@
     {
       "channel": "Nat Geo",
       "count": 2
-    },
-    {
-      "channel": "Inside AI",
-      "count": 1
     }
   ],
   "keywordFrequency": [
+    {
+      "keyword": "MS NOW",
+      "count": 6
+    },
+    {
+      "keyword": "NOVA",
+      "count": 27
+    },
+    {
+      "keyword": "Giza",
+      "count": 3
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 18
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 23
+    },
+    {
+      "keyword": "AI",
+      "count": 10
+    },
+    {
+      "keyword": "UAP",
+      "count": 5
+    },
     {
       "keyword": "Last Week Tonight",
       "count": 18
@@ -87,16 +115,8 @@
       "count": 6
     },
     {
-      "keyword": "MS NOW",
-      "count": 5
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 17
-    },
-    {
       "keyword": "PBS NewsHour",
-      "count": 6
+      "count": 3
     },
     {
       "keyword": "UFO",
@@ -107,10 +127,6 @@
       "count": 1
     },
     {
-      "keyword": "NOVA",
-      "count": 26
-    },
-    {
       "keyword": "Conan O'Brien",
       "count": 11
     },
@@ -119,16 +135,8 @@
       "count": 15
     },
     {
-      "keyword": "Real Stories",
-      "count": 22
-    },
-    {
       "keyword": "The Daily Show",
       "count": 3
-    },
-    {
-      "keyword": "AI",
-      "count": 9
     },
     {
       "keyword": "The Rest Is Science",
@@ -137,10 +145,6 @@
     {
       "keyword": "UAP, UFO",
       "count": 4
-    },
-    {
-      "keyword": "Giza",
-      "count": 2
     },
     {
       "keyword": "Last Week Tonight, artificial intelligence, AI",
@@ -153,10 +157,6 @@
     {
       "keyword": "Louis Rossmann, AI",
       "count": 1
-    },
-    {
-      "keyword": "UAP",
-      "count": 4
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -202,11 +202,11 @@
   "dailySummary": [
     {
       "date": "2026-08-15",
-      "videos": 6
+      "videos": 15
     },
     {
       "date": "2026-08-14",
-      "videos": 19
+      "videos": 14
     },
     {
       "date": "2026-08-13",
@@ -423,6 +423,34 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "MS NOW",
+      "matches": 6
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 5
+    },
+    {
+      "keyword": "Giza",
+      "matches": 2
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 13
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 5
+    },
+    {
+      "keyword": "AI",
+      "matches": 3
+    },
+    {
+      "keyword": "UAP",
+      "matches": 1
+    },
+    {
       "keyword": "Last Week Tonight",
       "matches": 8
     },
@@ -431,16 +459,8 @@
       "matches": 1
     },
     {
-      "keyword": "MS NOW",
-      "matches": 5
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 12
-    },
-    {
       "keyword": "PBS NewsHour",
-      "matches": 6
+      "matches": 3
     },
     {
       "keyword": "UFO",
@@ -451,10 +471,6 @@
       "matches": 1
     },
     {
-      "keyword": "NOVA",
-      "matches": 4
-    },
-    {
       "keyword": "Conan O'Brien",
       "matches": 8
     },
@@ -463,16 +479,8 @@
       "matches": 1
     },
     {
-      "keyword": "Real Stories",
-      "matches": 4
-    },
-    {
       "keyword": "The Daily Show",
       "matches": 3
-    },
-    {
-      "keyword": "AI",
-      "matches": 2
     },
     {
       "keyword": "The Rest Is Science",
@@ -480,10 +488,6 @@
     },
     {
       "keyword": "UAP, UFO",
-      "matches": 1
-    },
-    {
-      "keyword": "Giza",
       "matches": 1
     },
     {
@@ -501,204 +505,236 @@
   ],
   "mostViral48h": [
     {
+      "title": "AI agent hijacks a tank, does exactly what experts warned",
+      "channel": "Inside AI",
+      "videoId": "sQysEweaLjA",
+      "viewsPerHour": 14925,
+      "views": 105119,
+      "ageHours": 7
+    },
+    {
+      "title": "‘NOBODY in the White House’ thinks Trump’s focus on vanity projects is good: NYT WH Correspondent",
+      "channel": "MS NOW",
+      "videoId": "3VZOLmNYKys",
+      "viewsPerHour": 9065,
+      "views": 30849,
+      "ageHours": 3.4
+    },
+    {
+      "title": "What’s Really Hidden Beneath the Pyramids of Giza? | The UnXplained",
+      "channel": "History",
+      "videoId": "rU6DORQU--k",
+      "viewsPerHour": 7366,
+      "views": 39042,
+      "ageHours": 5.3
+    },
+    {
       "title": "We Uncovered Where Your Insurance Payments Are Really Going",
       "channel": "More Perfect Union",
       "videoId": "cr9TQI1mCk8",
-      "viewsPerHour": 6911,
-      "views": 221635,
-      "ageHours": 32.1
+      "viewsPerHour": 6660,
+      "views": 226981,
+      "ageHours": 34.1
     },
     {
       "title": "Brooks and Atkins Stohr on 'woke' politics in America",
       "channel": "PBS NewsHour",
       "videoId": "VGA-MIY3i8w",
-      "viewsPerHour": 6008,
+      "viewsPerHour": 5528,
       "views": 139152,
-      "ageHours": 23.2
+      "ageHours": 25.2
+    },
+    {
+      "title": "Iran can ‘poke the bear’ to keep war going and Trump will respond every time: Military expert",
+      "channel": "MS NOW",
+      "videoId": "XJOc8yL_pWM",
+      "viewsPerHour": 4775,
+      "views": 15490,
+      "ageHours": 3.2
+    },
+    {
+      "title": "PBS loses 70 yrs of data: my perspective as a privacy advocate, business owner, & data recovery tech",
+      "channel": "Louis Rossmann",
+      "videoId": "Cxmo57cD3Ck",
+      "viewsPerHour": 4743,
+      "views": 25443,
+      "ageHours": 5.4
     },
     {
       "title": "Neuroscientist Breaks Silence on Psychic Testing - Dr. Julia Mossbridge | ep. 99",
       "channel": "Area 52",
       "videoId": "-qt2FYdP_EA",
-      "viewsPerHour": 3710,
-      "views": 112351,
-      "ageHours": 30.3
+      "viewsPerHour": 3560,
+      "views": 114988,
+      "ageHours": 32.3
     },
     {
       "title": "Trump's cartoonish devotion to gold backfires in ballroom argument",
       "channel": "MS NOW",
       "videoId": "8wo-5HXFfjA",
-      "viewsPerHour": 3696,
+      "viewsPerHour": 3311,
       "views": 63886,
-      "ageHours": 17.3
+      "ageHours": 19.3
     },
     {
       "title": "GASLIT': Families of USS Lincoln sailors feel 'extremely abandoned' by Trump admin",
       "channel": "MS NOW",
       "videoId": "zx38Inqg2Xc",
-      "viewsPerHour": 3242,
+      "viewsPerHour": 2907,
       "views": 56600,
-      "ageHours": 17.5
+      "ageHours": 19.5
     },
     {
       "title": "High-Speed Camera Captures Mysterious Flying Object | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "CSWeJh3u9nQ",
-      "viewsPerHour": 2599,
-      "views": 70932,
-      "ageHours": 27.3
+      "viewsPerHour": 2472,
+      "views": 72427,
+      "ageHours": 29.3
     },
     {
       "title": "PBS News Hour full episode, August 14, 2026",
       "channel": "PBS NewsHour",
       "videoId": "Cet-PiS9OrI",
-      "viewsPerHour": 2553,
+      "viewsPerHour": 2343,
       "views": 57074,
-      "ageHours": 22.4
+      "ageHours": 24.4
     },
     {
       "title": "Unearthing Smith's Cove | The Curse of Oak Island",
       "channel": "History",
       "videoId": "mPx1nHWcqQA",
-      "viewsPerHour": 1963,
+      "viewsPerHour": 1841,
       "views": 59447,
-      "ageHours": 30.3
+      "ageHours": 32.3
     },
     {
       "title": "Trump loses another fight with reality; disgraceful mismanagement of U.S. troops undeniable",
       "channel": "MS NOW",
       "videoId": "VeY5_SUN1l8",
-      "viewsPerHour": 1802,
+      "viewsPerHour": 1598,
       "views": 28374,
-      "ageHours": 15.7
+      "ageHours": 17.8
     },
     {
       "title": "The 4th amendment isn't a Ubisoft game",
       "channel": "Louis Rossmann",
       "videoId": "UeUGXfz1IdI",
-      "viewsPerHour": 1431,
+      "viewsPerHour": 1313,
       "views": 32077,
-      "ageHours": 22.4
+      "ageHours": 24.4
     },
     {
       "title": "happy anniversary mini liebschti :) ❤️",
       "channel": "Louis Rossmann",
       "videoId": "DP2_cXjcifE",
-      "viewsPerHour": 1282,
+      "viewsPerHour": 1161,
       "views": 24682,
-      "ageHours": 19.2
+      "ageHours": 21.3
     },
     {
       "title": "Matthew Rhys Is on a Tear. If Only He Knew It. | The Interview",
       "channel": "The Interview",
       "videoId": "ftrXkV9iu_U",
-      "viewsPerHour": 1122,
-      "views": 10700,
-      "ageHours": 9.5
+      "viewsPerHour": 1142,
+      "views": 13188,
+      "ageHours": 11.5
+    },
+    {
+      "title": "The Overton Stone (S3, E3) | The Curse of Oak Island | Full Episode",
+      "channel": "History",
+      "videoId": "D-2n4DQFgkM",
+      "viewsPerHour": 1125,
+      "views": 2589,
+      "ageHours": 2.3
     },
     {
       "title": "Did Aliens Shape Human History? *Marathon* | Ancient Aliens",
       "channel": "History",
       "videoId": "sB7gbOmZ81c",
-      "viewsPerHour": 939,
-      "views": 24688,
-      "ageHours": 26.3
+      "viewsPerHour": 888,
+      "views": 25144,
+      "ageHours": 28.3
     },
     {
       "title": "S10 E4: Randy McNally & TANF: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "J7GXS7WGgOo",
-      "viewsPerHour": 724,
-      "views": 21933,
-      "ageHours": 30.3
+      "viewsPerHour": 686,
+      "views": 22171,
+      "ageHours": 32.3
     },
     {
-      "title": "It passed 😢",
-      "channel": "Louis Rossmann",
-      "videoId": "zpaFvUdxVbE",
-      "viewsPerHour": 654,
-      "views": 16563,
-      "ageHours": 25.3
+      "title": "‘Kids have been going to court ALONE’: Inside plan to choose who defends migrant kids in court",
+      "channel": "MS NOW",
+      "videoId": "h41MEEhT6kg",
+      "viewsPerHour": 661,
+      "views": 1334,
+      "ageHours": 2
     },
     {
       "title": "S10 E5: Silicon Valley Bank & Timeshares: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "7WRG9UVcGgU",
-      "viewsPerHour": 633,
-      "views": 3978,
-      "ageHours": 6.3
+      "viewsPerHour": 638,
+      "views": 5296,
+      "ageHours": 8.3
+    },
+    {
+      "title": "It passed 😢",
+      "channel": "Louis Rossmann",
+      "videoId": "zpaFvUdxVbE",
+      "viewsPerHour": 606,
+      "views": 16563,
+      "ageHours": 27.3
     },
     {
       "title": "An important message to New Zealand schoolkids from Louis Rossmann",
       "channel": "Louis Rossmann",
       "videoId": "ZoC7NR-GGCo",
-      "viewsPerHour": 520,
+      "viewsPerHour": 490,
       "views": 17389,
-      "ageHours": 33.5
+      "ageHours": 35.5
+    },
+    {
+      "title": "Is Extraterrestrial Life Hiding in Plain Sight? w/Prof Simon",
+      "channel": "Chris Lehto",
+      "videoId": "ERMn7BakXTo",
+      "viewsPerHour": 396,
+      "views": 2890,
+      "ageHours": 7.3
     },
     {
       "title": "Greece toughens stance on illegal migration with new deportation plan",
       "channel": "PBS NewsHour",
       "videoId": "fJ083bLvnNU",
-      "viewsPerHour": 369,
+      "viewsPerHour": 339,
       "views": 8598,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
-      "title": "Trump admin faces BACKLASH for bulldozers ripping through Texas' Big Bend National Park",
-      "channel": "MS NOW",
-      "videoId": "m2whXhdx95o",
-      "viewsPerHour": 310,
-      "views": 7629,
-      "ageHours": 24.6
+      "title": "Exposing Cartels: Inside Colombia’s Most Dangerous City for Journalists",
+      "channel": "Real Stories",
+      "videoId": "9XC079gniX8",
+      "viewsPerHour": 246,
+      "views": 1550,
+      "ageHours": 6.3
     },
     {
       "title": "Sona Mocks Conan For Mispronouncing Common Words | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "gPcjyLOKLnk",
-      "viewsPerHour": 231,
+      "viewsPerHour": 217,
       "views": 7239,
-      "ageHours": 31.3
-    },
-    {
-      "title": "PBS News Hour full episode, August 14, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "rCiqOhwOkkY",
-      "viewsPerHour": 166,
-      "views": 4228,
-      "ageHours": 25.4
-    },
-    {
-      "title": "‘Elaborate ruse’: David Rohde on THREE planes being sent to London amid Iran threat",
-      "channel": "MS NOW",
-      "videoId": "tKehvYs6L9A",
-      "viewsPerHour": 131,
-      "views": 3195,
-      "ageHours": 24.3
+      "ageHours": 33.3
     },
     {
       "title": "Is Spider-Man the Best MCU Character? | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "2UgsLeU2ixc",
-      "viewsPerHour": 68,
+      "viewsPerHour": 64,
       "views": 2340,
-      "ageHours": 34.3
-    },
-    {
-      "title": "News Wrap: Record-breaking heat wave grips Europe",
-      "channel": "PBS NewsHour",
-      "videoId": "9ZTdx9oyutc",
-      "viewsPerHour": 9,
-      "views": 212,
-      "ageHours": 23.7
-    },
-    {
-      "title": "Congo Ebola outbreak on track to become deadliest in history",
-      "channel": "PBS NewsHour",
-      "videoId": "Spbw0bA8gwM",
-      "viewsPerHour": 3,
-      "views": 59,
-      "ageHours": 23.5
+      "ageHours": 36.3
     }
   ]
 }
