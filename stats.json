@@ -6,7 +6,7 @@
     },
     {
       "channel": "MS NOW",
-      "count": 6
+      "count": 4
     },
     {
       "channel": "History",
@@ -80,7 +80,7 @@
     },
     {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 4
     },
     {
       "keyword": "NOVA",
@@ -198,7 +198,7 @@
     },
     {
       "date": "2026-08-15",
-      "videos": 14
+      "videos": 12
     },
     {
       "date": "2026-08-14",
@@ -424,7 +424,7 @@
     },
     {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 4
     },
     {
       "keyword": "NOVA",
@@ -500,217 +500,193 @@
       "title": "AI agent hijacks a tank, does exactly what experts warned",
       "channel": "Inside AI",
       "videoId": "sQysEweaLjA",
-      "viewsPerHour": 10978,
-      "views": 187049,
-      "ageHours": 17
+      "viewsPerHour": 10227,
+      "views": 194639,
+      "ageHours": 19
     },
     {
       "title": "What’s Really Hidden Beneath the Pyramids of Giza? | The UnXplained",
       "channel": "History",
       "videoId": "rU6DORQU--k",
-      "viewsPerHour": 10257,
-      "views": 156883,
-      "ageHours": 15.3
+      "viewsPerHour": 9869,
+      "views": 170619,
+      "ageHours": 17.3
     },
     {
       "title": "We Uncovered Where Your Insurance Payments Are Really Going",
       "channel": "More Perfect Union",
       "videoId": "cr9TQI1mCk8",
-      "viewsPerHour": 5480,
-      "views": 241526,
-      "ageHours": 44.1
+      "viewsPerHour": 5272,
+      "views": 242908,
+      "ageHours": 46.1
     },
     {
       "title": "Neuroscientist Breaks Silence on Psychic Testing - Dr. Julia Mossbridge | ep. 99",
       "channel": "Area 52",
       "videoId": "-qt2FYdP_EA",
-      "viewsPerHour": 3066,
-      "views": 129676,
-      "ageHours": 42.3
+      "viewsPerHour": 2972,
+      "views": 131601,
+      "ageHours": 44.3
     },
     {
       "title": "‘NOBODY in the White House’ thinks Trump’s focus on vanity projects is good: NYT WH Correspondent",
       "channel": "MS NOW",
       "videoId": "3VZOLmNYKys",
-      "viewsPerHour": 2303,
+      "viewsPerHour": 2004,
       "views": 30849,
-      "ageHours": 13.4
-    },
-    {
-      "title": "Trump's cartoonish devotion to gold backfires in ballroom argument",
-      "channel": "MS NOW",
-      "videoId": "8wo-5HXFfjA",
-      "viewsPerHour": 2181,
-      "views": 63886,
-      "ageHours": 29.3
+      "ageHours": 15.4
     },
     {
       "title": "High-Speed Camera Captures Mysterious Flying Object | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "CSWeJh3u9nQ",
-      "viewsPerHour": 1960,
-      "views": 77012,
-      "ageHours": 39.3
+      "viewsPerHour": 1881,
+      "views": 77680,
+      "ageHours": 41.3
     },
     {
       "title": "PBS loses 70 yrs of data: my perspective as a privacy advocate, business owner, & data recovery tech",
       "channel": "Louis Rossmann",
       "videoId": "Cxmo57cD3Ck",
-      "viewsPerHour": 1657,
+      "viewsPerHour": 1466,
       "views": 25443,
-      "ageHours": 15.4
+      "ageHours": 17.4
     },
     {
       "title": "Unearthing Smith's Cove | The Curse of Oak Island",
       "channel": "History",
       "videoId": "mPx1nHWcqQA",
-      "viewsPerHour": 1406,
+      "viewsPerHour": 1342,
       "views": 59447,
-      "ageHours": 42.3
+      "ageHours": 44.3
     },
     {
       "title": "What he cares about MOST': Trump asks Supreme Court to keep BALLROOM construction | COMPILATION",
       "channel": "MS NOW",
       "videoId": "4qOA0-SzNOM",
-      "viewsPerHour": 1371,
+      "viewsPerHour": 1147,
       "views": 14012,
-      "ageHours": 10.2
+      "ageHours": 12.2
     },
     {
       "title": "The Overton Stone (S3, E3) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "D-2n4DQFgkM",
-      "viewsPerHour": 1285,
-      "views": 15803,
-      "ageHours": 12.3
+      "viewsPerHour": 1146,
+      "views": 16375,
+      "ageHours": 14.3
     },
     {
       "title": "Iran can ‘poke the bear’ to keep war going and Trump will respond every time: Military expert",
       "channel": "MS NOW",
       "videoId": "XJOc8yL_pWM",
-      "viewsPerHour": 1170,
+      "viewsPerHour": 1017,
       "views": 15490,
-      "ageHours": 13.2
-    },
-    {
-      "title": "Trump loses another fight with reality; disgraceful mismanagement of U.S. troops undeniable",
-      "channel": "MS NOW",
-      "videoId": "VeY5_SUN1l8",
-      "viewsPerHour": 1022,
-      "views": 28374,
-      "ageHours": 27.8
+      "ageHours": 15.2
     },
     {
       "title": "Matthew Rhys Is on a Tear. If Only He Knew It. | The Interview",
       "channel": "The Interview",
       "videoId": "ftrXkV9iu_U",
-      "viewsPerHour": 960,
-      "views": 20690,
-      "ageHours": 21.5
+      "viewsPerHour": 919,
+      "views": 21624,
+      "ageHours": 23.5
     },
     {
       "title": "The 4th amendment isn't a Ubisoft game",
       "channel": "Louis Rossmann",
       "videoId": "UeUGXfz1IdI",
-      "viewsPerHour": 932,
+      "viewsPerHour": 881,
       "views": 32077,
-      "ageHours": 34.4
+      "ageHours": 36.4
     },
     {
       "title": "happy anniversary mini liebschti :) ❤️",
       "channel": "Louis Rossmann",
       "videoId": "DP2_cXjcifE",
-      "viewsPerHour": 790,
+      "viewsPerHour": 742,
       "views": 24682,
-      "ageHours": 31.3
+      "ageHours": 33.2
     },
     {
       "title": "Did Aliens Shape Human History? *Marathon* | Ancient Aliens",
       "channel": "History",
       "videoId": "sB7gbOmZ81c",
-      "viewsPerHour": 748,
-      "views": 28653,
-      "ageHours": 38.3
-    },
-    {
-      "title": "S10 E4: Randy McNally & TANF: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "J7GXS7WGgOo",
-      "viewsPerHour": 541,
-      "views": 22875,
-      "ageHours": 42.3
+      "viewsPerHour": 727,
+      "views": 29287,
+      "ageHours": 40.3
     },
     {
       "title": "S10 E5: Silicon Valley Bank & Timeshares: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "7WRG9UVcGgU",
-      "viewsPerHour": 523,
-      "views": 9570,
-      "ageHours": 18.3
+      "viewsPerHour": 526,
+      "views": 10665,
+      "ageHours": 20.3
+    },
+    {
+      "title": "S10 E4: Randy McNally & TANF: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "J7GXS7WGgOo",
+      "viewsPerHour": 522,
+      "views": 23104,
+      "ageHours": 44.3
     },
     {
       "title": "It passed 😢",
       "channel": "Louis Rossmann",
       "videoId": "zpaFvUdxVbE",
-      "viewsPerHour": 444,
+      "viewsPerHour": 421,
       "views": 16563,
-      "ageHours": 37.3
+      "ageHours": 39.3
     },
     {
       "title": "An important message to New Zealand schoolkids from Louis Rossmann",
       "channel": "Louis Rossmann",
       "videoId": "ZoC7NR-GGCo",
-      "viewsPerHour": 382,
+      "viewsPerHour": 366,
       "views": 17389,
-      "ageHours": 45.5
+      "ageHours": 47.5
     },
     {
       "title": "Is Extraterrestrial Life Hiding in Plain Sight? w/Prof Simon",
       "channel": "Chris Lehto",
       "videoId": "ERMn7BakXTo",
-      "viewsPerHour": 311,
-      "views": 5368,
-      "ageHours": 17.3
+      "viewsPerHour": 290,
+      "views": 5582,
+      "ageHours": 19.3
     },
     {
       "title": "Sona Mocks Conan For Mispronouncing Common Words | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "gPcjyLOKLnk",
-      "viewsPerHour": 167,
+      "viewsPerHour": 160,
       "views": 7239,
-      "ageHours": 43.3
+      "ageHours": 45.3
     },
     {
       "title": "Exposing Cartels: Inside Colombia’s Most Dangerous City for Journalists",
       "channel": "Real Stories",
       "videoId": "9XC079gniX8",
-      "viewsPerHour": 167,
-      "views": 2717,
-      "ageHours": 16.3
+      "viewsPerHour": 157,
+      "views": 2875,
+      "ageHours": 18.3
     },
     {
       "title": "‘Kids have been going to court ALONE’: Inside plan to choose who defends migrant kids in court",
       "channel": "MS NOW",
       "videoId": "h41MEEhT6kg",
-      "viewsPerHour": 111,
+      "viewsPerHour": 95,
       "views": 1334,
-      "ageHours": 12
+      "ageHours": 14
     },
     {
       "title": "Doctors are forcing AI recording on patients without their consent: DON'T SIGN THE FORM!",
       "channel": "Louis Rossmann",
       "videoId": "ocL56MPG-vM",
-      "viewsPerHour": 79,
+      "viewsPerHour": 58,
       "views": 437,
-      "ageHours": 5.6
-    },
-    {
-      "title": "Is Spider-Man the Best MCU Character? | Bley's Arcade",
-      "channel": "Conan O'Brien",
-      "videoId": "2UgsLeU2ixc",
-      "viewsPerHour": 51,
-      "views": 2340,
-      "ageHours": 46.3
+      "ageHours": 7.6
     }
   ]
 }
