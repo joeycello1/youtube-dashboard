@@ -1,8 +1,12 @@
 {
   "videosPerChannel": [
     {
+      "channel": "Diary of a CEO",
+      "count": 5
+    },
+    {
       "channel": "Last Week Tonight",
-      "count": 20
+      "count": 21
     },
     {
       "channel": "MS NOW",
@@ -54,11 +58,7 @@
     },
     {
       "channel": "NOVA",
-      "count": 13
-    },
-    {
-      "channel": "Diary of a CEO",
-      "count": 4
+      "count": 12
     },
     {
       "channel": "Mayim Bialik",
@@ -75,8 +75,12 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "AI",
+      "count": 11
+    },
+    {
       "keyword": "Last Week Tonight",
-      "count": 19
+      "count": 20
     },
     {
       "keyword": "MS NOW",
@@ -92,7 +96,7 @@
     },
     {
       "keyword": "NOVA",
-      "count": 28
+      "count": 27
     },
     {
       "keyword": "Louis Rossmann, AI",
@@ -105,10 +109,6 @@
     {
       "keyword": "Louis Rossmann",
       "count": 17
-    },
-    {
-      "keyword": "AI",
-      "count": 10
     },
     {
       "keyword": "UAP",
@@ -194,7 +194,7 @@
   "dailySummary": [
     {
       "date": "2026-08-17",
-      "videos": 2
+      "videos": 4
     },
     {
       "date": "2026-08-16",
@@ -414,7 +414,7 @@
     },
     {
       "date": "2026-06-18",
-      "videos": 3
+      "videos": 2
     },
     {
       "date": "2026-06-14",
@@ -423,8 +423,12 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "AI",
+      "matches": 3
+    },
+    {
       "keyword": "Last Week Tonight",
-      "matches": 7
+      "matches": 8
     },
     {
       "keyword": "MS NOW",
@@ -455,10 +459,6 @@
       "matches": 11
     },
     {
-      "keyword": "AI",
-      "matches": 2
-    },
-    {
       "keyword": "UAP",
       "matches": 1
     },
@@ -476,7 +476,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "More Perfect Union",
@@ -501,132 +501,148 @@
   ],
   "mostViral48h": [
     {
+      "title": "Fetal Personhood: Last Week Tonight with John Oliver (HBO)",
+      "channel": "Last Week Tonight",
+      "videoId": "sCSt45rev7w",
+      "viewsPerHour": 30577,
+      "views": 177817,
+      "ageHours": 5.8
+    },
+    {
       "title": "S13 E21: Iran War, Soap Operas & Fetal Personhood: 8/16/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "z8vvaDqAgJI",
-      "viewsPerHour": 19286,
-      "views": 140828,
-      "ageHours": 7.3
+      "viewsPerHour": 19883,
+      "views": 185136,
+      "ageHours": 9.3
+    },
+    {
+      "title": "Top Scientist REVEALS: We Invented Heaven, God Is A Human Invention! | Prof Brian Greene",
+      "channel": "Diary of a CEO",
+      "videoId": "Qifsxitq_q4",
+      "viewsPerHour": 16572,
+      "views": 88014,
+      "ageHours": 5.3
     },
     {
       "title": "AI agent hijacks a tank, does exactly what experts warned",
       "channel": "Inside AI",
       "videoId": "sQysEweaLjA",
-      "viewsPerHour": 8529,
-      "views": 350109,
-      "ageHours": 41.1
+      "viewsPerHour": 8261,
+      "views": 355702,
+      "ageHours": 43.1
     },
     {
       "title": "What’s Really Hidden Beneath the Pyramids of Giza? | The UnXplained",
       "channel": "History",
       "videoId": "rU6DORQU--k",
-      "viewsPerHour": 7539,
-      "views": 296325,
-      "ageHours": 39.3
+      "viewsPerHour": 7391,
+      "views": 305389,
+      "ageHours": 41.3
     },
     {
       "title": "Why Your Brain Thinks You're Full (Even When You're Not)",
       "channel": "The Rest Is Science",
       "videoId": "DPRGuFobXSk",
-      "viewsPerHour": 6134,
-      "views": 81626,
-      "ageHours": 13.3
+      "viewsPerHour": 5937,
+      "views": 90942,
+      "ageHours": 15.3
     },
     {
       "title": "The Island's Most Dangerous Flood Traps | The Curse of Oak Island",
       "channel": "History",
       "videoId": "92LD89lcG88",
-      "viewsPerHour": 2544,
-      "views": 46555,
-      "ageHours": 18.3
+      "viewsPerHour": 2382,
+      "views": 48385,
+      "ageHours": 20.3
     },
     {
       "title": "S10 E6: French Retirement Protests & Solitary Confinement: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "0y91DFVClQ8",
-      "viewsPerHour": 1227,
-      "views": 22456,
-      "ageHours": 18.3
+      "viewsPerHour": 1134,
+      "views": 23028,
+      "ageHours": 20.3
     },
     {
       "title": "Matthew Rhys Is on a Tear. If Only He Knew It. | The Interview",
       "channel": "The Interview",
       "videoId": "ftrXkV9iu_U",
-      "viewsPerHour": 802,
-      "views": 36540,
-      "ageHours": 45.6
+      "viewsPerHour": 779,
+      "views": 37061,
+      "ageHours": 47.6
     },
     {
       "title": "MS NOW Highlights - August 16",
       "channel": "MS NOW",
       "videoId": "DfSsXMqFFGk",
-      "viewsPerHour": 774,
+      "viewsPerHour": 648,
       "views": 7979,
-      "ageHours": 10.3
+      "ageHours": 12.3
     },
     {
       "title": "The Overton Stone (S3, E3) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "D-2n4DQFgkM",
-      "viewsPerHour": 675,
-      "views": 24502,
-      "ageHours": 36.3
+      "viewsPerHour": 644,
+      "views": 24660,
+      "ageHours": 38.3
     },
     {
       "title": "PBS loses 70 yrs of data: my perspective as a privacy advocate, business owner, & data recovery tech",
       "channel": "Louis Rossmann",
       "videoId": "Cxmo57cD3Ck",
-      "viewsPerHour": 646,
+      "viewsPerHour": 615,
       "views": 25443,
-      "ageHours": 39.4
+      "ageHours": 41.4
     },
     {
       "title": "S10 E5: Silicon Valley Bank & Timeshares: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "7WRG9UVcGgU",
-      "viewsPerHour": 378,
-      "views": 15976,
-      "ageHours": 42.3
+      "viewsPerHour": 364,
+      "views": 16149,
+      "ageHours": 44.3
     },
     {
       "title": "Is Extraterrestrial Life Hiding in Plain Sight? w/Prof Simon",
       "channel": "Chris Lehto",
       "videoId": "ERMn7BakXTo",
-      "viewsPerHour": 186,
-      "views": 7696,
-      "ageHours": 41.3
+      "viewsPerHour": 179,
+      "views": 7766,
+      "ageHours": 43.3
     },
     {
       "title": "Exposing Cartels: Inside Colombia’s Most Dangerous City for Journalists",
       "channel": "Real Stories",
       "videoId": "9XC079gniX8",
-      "viewsPerHour": 96,
-      "views": 3857,
-      "ageHours": 40.3
+      "viewsPerHour": 93,
+      "views": 3942,
+      "ageHours": 42.3
     },
     {
       "title": "Dems vs. GOP messaging: Sunday political panel digs into partisanship ahead of midterms",
       "channel": "MS NOW",
       "videoId": "_iEZrUEp6-g",
-      "viewsPerHour": 67,
+      "viewsPerHour": 60,
       "views": 1253,
-      "ageHours": 18.8
+      "ageHours": 20.8
     },
     {
       "title": "Country Star Tim McGraw’s Hidden Ties To George Washington | Who Do You Think You Are?",
       "channel": "Real Stories",
       "videoId": "yxYV1hS4BqQ",
-      "viewsPerHour": 42,
-      "views": 765,
-      "ageHours": 18.3
+      "viewsPerHour": 40,
+      "views": 819,
+      "ageHours": 20.3
     },
     {
       "title": "Doctors are forcing AI recording on patients without their consent: DON'T SIGN THE FORM!",
       "channel": "Louis Rossmann",
       "videoId": "ocL56MPG-vM",
-      "viewsPerHour": 15,
+      "viewsPerHour": 14,
       "views": 437,
-      "ageHours": 29.6
+      "ageHours": 31.6
     }
   ]
 }
