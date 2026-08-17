@@ -1,6 +1,10 @@
 {
   "videosPerChannel": [
     {
+      "channel": "The Rest Is Science",
+      "count": 5
+    },
+    {
       "channel": "Real Stories",
       "count": 39
     },
@@ -14,7 +18,7 @@
     },
     {
       "channel": "MS NOW",
-      "count": 5
+      "count": 2
     },
     {
       "channel": "Louis Rossmann",
@@ -57,10 +61,6 @@
       "count": 4
     },
     {
-      "channel": "The Rest Is Science",
-      "count": 4
-    },
-    {
       "channel": "Mayim Bialik",
       "count": 8
     },
@@ -75,6 +75,10 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "The Rest Is Science",
+      "count": 5
+    },
+    {
       "keyword": "Real Stories",
       "count": 24
     },
@@ -88,7 +92,7 @@
     },
     {
       "keyword": "MS NOW",
-      "count": 5
+      "count": 2
     },
     {
       "keyword": "Louis Rossmann, AI",
@@ -133,10 +137,6 @@
     {
       "keyword": "The Daily Show",
       "count": 3
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "count": 4
     },
     {
       "keyword": "UAP, UFO",
@@ -194,11 +194,11 @@
   "dailySummary": [
     {
       "date": "2026-08-16",
-      "videos": 6
+      "videos": 7
     },
     {
       "date": "2026-08-15",
-      "videos": 12
+      "videos": 9
     },
     {
       "date": "2026-08-14",
@@ -419,6 +419,10 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "The Rest Is Science",
+      "matches": 2
+    },
+    {
       "keyword": "Real Stories",
       "matches": 5
     },
@@ -432,7 +436,7 @@
     },
     {
       "keyword": "MS NOW",
-      "matches": 5
+      "matches": 2
     },
     {
       "keyword": "Louis Rossmann, AI",
@@ -479,10 +483,6 @@
       "matches": 3
     },
     {
-      "keyword": "The Rest Is Science",
-      "matches": 1
-    },
-    {
       "keyword": "UAP, UFO",
       "matches": 1
     },
@@ -500,153 +500,129 @@
       "title": "AI agent hijacks a tank, does exactly what experts warned",
       "channel": "Inside AI",
       "videoId": "sQysEweaLjA",
-      "viewsPerHour": 10333,
-      "views": 299959,
-      "ageHours": 29
+      "viewsPerHour": 10182,
+      "views": 315979,
+      "ageHours": 31
     },
     {
       "title": "What’s Really Hidden Beneath the Pyramids of Giza? | The UnXplained",
       "channel": "History",
       "videoId": "rU6DORQU--k",
-      "viewsPerHour": 8043,
-      "views": 219474,
-      "ageHours": 27.3
+      "viewsPerHour": 7875,
+      "views": 230679,
+      "ageHours": 29.3
+    },
+    {
+      "title": "Why Your Brain Thinks You're Full (Even When You're Not)",
+      "channel": "The Rest Is Science",
+      "videoId": "DPRGuFobXSk",
+      "viewsPerHour": 6220,
+      "views": 20468,
+      "ageHours": 3.3
     },
     {
       "title": "The Island's Most Dangerous Flood Traps | The Curse of Oak Island",
       "channel": "History",
       "videoId": "92LD89lcG88",
-      "viewsPerHour": 3419,
-      "views": 21473,
-      "ageHours": 6.3
+      "viewsPerHour": 3505,
+      "views": 29043,
+      "ageHours": 8.3
     },
     {
       "title": "S10 E6: French Retirement Protests & Solitary Confinement: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "0y91DFVClQ8",
-      "viewsPerHour": 1911,
-      "views": 12000,
-      "ageHours": 6.3
-    },
-    {
-      "title": "‘NOBODY in the White House’ thinks Trump’s focus on vanity projects is good: NYT WH Correspondent",
-      "channel": "MS NOW",
-      "videoId": "3VZOLmNYKys",
-      "viewsPerHour": 1215,
-      "views": 30849,
-      "ageHours": 25.4
-    },
-    {
-      "title": "PBS loses 70 yrs of data: my perspective as a privacy advocate, business owner, & data recovery tech",
-      "channel": "Louis Rossmann",
-      "videoId": "Cxmo57cD3Ck",
-      "viewsPerHour": 930,
-      "views": 25443,
-      "ageHours": 27.4
+      "viewsPerHour": 1888,
+      "views": 15638,
+      "ageHours": 8.3
     },
     {
       "title": "Matthew Rhys Is on a Tear. If Only He Knew It. | The Interview",
       "channel": "The Interview",
       "videoId": "ftrXkV9iu_U",
-      "viewsPerHour": 897,
-      "views": 30073,
-      "ageHours": 33.5
+      "viewsPerHour": 892,
+      "views": 31714,
+      "ageHours": 35.5
+    },
+    {
+      "title": "PBS loses 70 yrs of data: my perspective as a privacy advocate, business owner, & data recovery tech",
+      "channel": "Louis Rossmann",
+      "videoId": "Cxmo57cD3Ck",
+      "viewsPerHour": 867,
+      "views": 25443,
+      "ageHours": 29.4
     },
     {
       "title": "The Overton Stone (S3, E3) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "D-2n4DQFgkM",
-      "viewsPerHour": 849,
-      "views": 20613,
-      "ageHours": 24.3
-    },
-    {
-      "title": "The 4th amendment isn't a Ubisoft game",
-      "channel": "Louis Rossmann",
-      "videoId": "UeUGXfz1IdI",
-      "viewsPerHour": 691,
-      "views": 32077,
-      "ageHours": 46.4
+      "viewsPerHour": 814,
+      "views": 21408,
+      "ageHours": 26.3
     },
     {
       "title": "What he cares about MOST': Trump asks Supreme Court to keep BALLROOM construction | COMPILATION",
       "channel": "MS NOW",
       "videoId": "4qOA0-SzNOM",
-      "viewsPerHour": 631,
+      "viewsPerHour": 579,
       "views": 14012,
-      "ageHours": 22.2
-    },
-    {
-      "title": "Iran can ‘poke the bear’ to keep war going and Trump will respond every time: Military expert",
-      "channel": "MS NOW",
-      "videoId": "XJOc8yL_pWM",
-      "viewsPerHour": 614,
-      "views": 15490,
-      "ageHours": 25.2
+      "ageHours": 24.2
     },
     {
       "title": "happy anniversary mini liebschti :) ❤️",
       "channel": "Louis Rossmann",
       "videoId": "DP2_cXjcifE",
-      "viewsPerHour": 571,
+      "viewsPerHour": 545,
       "views": 24682,
-      "ageHours": 43.2
+      "ageHours": 45.2
     },
     {
       "title": "S10 E5: Silicon Valley Bank & Timeshares: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "7WRG9UVcGgU",
-      "viewsPerHour": 491,
-      "views": 14857,
-      "ageHours": 30.3
+      "viewsPerHour": 470,
+      "views": 15191,
+      "ageHours": 32.3
     },
     {
       "title": "Is Extraterrestrial Life Hiding in Plain Sight? w/Prof Simon",
       "channel": "Chris Lehto",
       "videoId": "ERMn7BakXTo",
-      "viewsPerHour": 228,
-      "views": 6680,
-      "ageHours": 29.3
+      "viewsPerHour": 224,
+      "views": 7021,
+      "ageHours": 31.3
     },
     {
       "title": "Dems vs. GOP messaging: Sunday political panel digs into partisanship ahead of midterms",
       "channel": "MS NOW",
       "videoId": "_iEZrUEp6-g",
-      "viewsPerHour": 184,
+      "viewsPerHour": 142,
       "views": 1253,
-      "ageHours": 6.8
+      "ageHours": 8.8
     },
     {
       "title": "Exposing Cartels: Inside Colombia’s Most Dangerous City for Journalists",
       "channel": "Real Stories",
       "videoId": "9XC079gniX8",
-      "viewsPerHour": 123,
-      "views": 3479,
-      "ageHours": 28.3
+      "viewsPerHour": 118,
+      "views": 3575,
+      "ageHours": 30.3
     },
     {
       "title": "Country Star Tim McGraw’s Hidden Ties To George Washington | Who Do You Think You Are?",
       "channel": "Real Stories",
       "videoId": "yxYV1hS4BqQ",
-      "viewsPerHour": 78,
-      "views": 487,
-      "ageHours": 6.3
-    },
-    {
-      "title": "‘Kids have been going to court ALONE’: Inside plan to choose who defends migrant kids in court",
-      "channel": "MS NOW",
-      "videoId": "h41MEEhT6kg",
-      "viewsPerHour": 56,
-      "views": 1334,
-      "ageHours": 24
+      "viewsPerHour": 70,
+      "views": 583,
+      "ageHours": 8.3
     },
     {
       "title": "Doctors are forcing AI recording on patients without their consent: DON'T SIGN THE FORM!",
       "channel": "Louis Rossmann",
       "videoId": "ocL56MPG-vM",
-      "viewsPerHour": 25,
+      "viewsPerHour": 22,
       "views": 437,
-      "ageHours": 17.5
+      "ageHours": 19.6
     }
   ]
 }
