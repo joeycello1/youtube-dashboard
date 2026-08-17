@@ -1,16 +1,28 @@
 {
   "videosPerChannel": [
     {
-      "channel": "Diary of a CEO",
-      "count": 5
+      "channel": "MS NOW",
+      "count": 4
     },
     {
       "channel": "Last Week Tonight",
       "count": 21
     },
     {
-      "channel": "MS NOW",
-      "count": 2
+      "channel": "The Daily Show",
+      "count": 3
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 20
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 9
+    },
+    {
+      "channel": "Diary of a CEO",
+      "count": 5
     },
     {
       "channel": "The Rest Is Science",
@@ -18,15 +30,11 @@
     },
     {
       "channel": "Real Stories",
-      "count": 39
+      "count": 38
     },
     {
       "channel": "History",
       "count": 47
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 19
     },
     {
       "channel": "Inside AI",
@@ -45,16 +53,8 @@
       "count": 5
     },
     {
-      "channel": "Conan O'Brien",
-      "count": 10
-    },
-    {
       "channel": "More Perfect Union",
       "count": 17
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 3
     },
     {
       "channel": "NOVA",
@@ -75,16 +75,28 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "AI",
-      "count": 11
+      "keyword": "MS NOW",
+      "count": 4
     },
     {
       "keyword": "Last Week Tonight",
       "count": 20
     },
     {
-      "keyword": "MS NOW",
-      "count": 2
+      "keyword": "The Daily Show",
+      "count": 3
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 18
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 9
+    },
+    {
+      "keyword": "AI",
+      "count": 11
     },
     {
       "keyword": "The Rest Is Science",
@@ -107,10 +119,6 @@
       "count": 3
     },
     {
-      "keyword": "Louis Rossmann",
-      "count": 17
-    },
-    {
       "keyword": "UAP",
       "count": 5
     },
@@ -127,16 +135,8 @@
       "count": 1
     },
     {
-      "keyword": "Conan O'Brien",
-      "count": 10
-    },
-    {
       "keyword": "More Perfect Union",
       "count": 15
-    },
-    {
-      "keyword": "The Daily Show",
-      "count": 3
     },
     {
       "keyword": "UAP, UFO",
@@ -152,7 +152,7 @@
     },
     {
       "keyword": "Real Stories, Louis Theroux",
-      "count": 15
+      "count": 14
     },
     {
       "keyword": "UFO, UAP",
@@ -194,11 +194,11 @@
   "dailySummary": [
     {
       "date": "2026-08-17",
-      "videos": 4
+      "videos": 11
     },
     {
       "date": "2026-08-16",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-08-15",
@@ -222,7 +222,7 @@
     },
     {
       "date": "2026-08-10",
-      "videos": 9
+      "videos": 8
     },
     {
       "date": "2026-08-09",
@@ -234,7 +234,7 @@
     },
     {
       "date": "2026-08-07",
-      "videos": 6
+      "videos": 4
     },
     {
       "date": "2026-08-06",
@@ -254,7 +254,7 @@
     },
     {
       "date": "2026-08-02",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-08-01",
@@ -414,7 +414,7 @@
     },
     {
       "date": "2026-06-18",
-      "videos": 2
+      "videos": 1
     },
     {
       "date": "2026-06-14",
@@ -423,16 +423,28 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "AI",
-      "matches": 3
+      "keyword": "MS NOW",
+      "matches": 4
     },
     {
       "keyword": "Last Week Tonight",
-      "matches": 7
+      "matches": 8
     },
     {
-      "keyword": "MS NOW",
-      "matches": 2
+      "keyword": "The Daily Show",
+      "matches": 3
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 12
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
+    },
+    {
+      "keyword": "AI",
+      "matches": 3
     },
     {
       "keyword": "The Rest Is Science",
@@ -455,10 +467,6 @@
       "matches": 2
     },
     {
-      "keyword": "Louis Rossmann",
-      "matches": 11
-    },
-    {
       "keyword": "UAP",
       "matches": 1
     },
@@ -468,23 +476,15 @@
     },
     {
       "keyword": "UFO",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "AI, FOIA, UAP",
       "matches": 1
     },
     {
-      "keyword": "Conan O'Brien",
-      "matches": 7
-    },
-    {
       "keyword": "More Perfect Union",
       "matches": 1
-    },
-    {
-      "keyword": "The Daily Show",
-      "matches": 2
     },
     {
       "keyword": "UAP, UFO",
@@ -504,121 +504,145 @@
       "title": "Fetal Personhood: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "sCSt45rev7w",
-      "viewsPerHour": 44603,
-      "views": 436985,
-      "ageHours": 9.8
+      "viewsPerHour": 46506,
+      "views": 548362,
+      "ageHours": 11.8
     },
     {
       "title": "S13 E21: Iran War, Soap Operas & Fetal Personhood: 8/16/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "z8vvaDqAgJI",
-      "viewsPerHour": 19586,
-      "views": 260365,
-      "ageHours": 13.3
+      "viewsPerHour": 18879,
+      "views": 288609,
+      "ageHours": 15.3
     },
     {
       "title": "Top Scientist REVEALS: We Invented Heaven, God Is A Human Invention! | Prof Brian Greene",
       "channel": "Diary of a CEO",
       "videoId": "Qifsxitq_q4",
-      "viewsPerHour": 18157,
-      "views": 168734,
-      "ageHours": 9.3
-    },
-    {
-      "title": "AI agent hijacks a tank, does exactly what experts warned",
-      "channel": "Inside AI",
-      "videoId": "sQysEweaLjA",
-      "viewsPerHour": 7918,
-      "views": 372494,
-      "ageHours": 47
+      "viewsPerHour": 17927,
+      "views": 202338,
+      "ageHours": 11.3
     },
     {
       "title": "What’s Really Hidden Beneath the Pyramids of Giza? | The UnXplained",
       "channel": "History",
       "videoId": "rU6DORQU--k",
-      "viewsPerHour": 7115,
-      "views": 322283,
-      "ageHours": 45.3
+      "viewsPerHour": 6936,
+      "views": 328020,
+      "ageHours": 47.3
+    },
+    {
+      "title": "Six Flags stops honoring pre-purchased passes to their parks. CEOs, backlash is coming: please stop.",
+      "channel": "Louis Rossmann",
+      "videoId": "EoOPzFH7NRc",
+      "viewsPerHour": 5752,
+      "views": 30499,
+      "ageHours": 5.3
     },
     {
       "title": "Why Your Brain Thinks You're Full (Even When You're Not)",
       "channel": "The Rest Is Science",
       "videoId": "DPRGuFobXSk",
-      "viewsPerHour": 5638,
-      "views": 108801,
-      "ageHours": 19.3
+      "viewsPerHour": 5466,
+      "views": 116376,
+      "ageHours": 21.3
+    },
+    {
+      "title": "We want answers': Top Armed Services Dem demands Hegseth address USS Lincoln controversy",
+      "channel": "MS NOW",
+      "videoId": "U1v1obVObZU",
+      "viewsPerHour": 5090,
+      "views": 10075,
+      "ageHours": 2
+    },
+    {
+      "title": "Gillian Anderson (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "d3bCel607lQ",
+      "viewsPerHour": 4616,
+      "views": 33669,
+      "ageHours": 7.3
+    },
+    {
+      "title": "The Best F**king News Team Reminisces on 30 Years of TDS | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "uKvwzkfnCtY",
+      "viewsPerHour": 3844,
+      "views": 20327,
+      "ageHours": 5.3
+    },
+    {
+      "title": "LIVE: House Democrats examine deadly ICE shooting",
+      "channel": "MS NOW",
+      "videoId": "sDZwDOm7E_M",
+      "viewsPerHour": 3020,
+      "views": 14485,
+      "ageHours": 4.8
     },
     {
       "title": "The Island's Most Dangerous Flood Traps | The Curse of Oak Island",
       "channel": "History",
       "videoId": "92LD89lcG88",
-      "viewsPerHour": 2134,
-      "views": 51834,
-      "ageHours": 24.3
+      "viewsPerHour": 2031,
+      "views": 53398,
+      "ageHours": 26.3
     },
     {
       "title": "S10 E6: French Retirement Protests & Solitary Confinement: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "0y91DFVClQ8",
-      "viewsPerHour": 988,
-      "views": 23988,
-      "ageHours": 24.3
+      "viewsPerHour": 927,
+      "views": 24360,
+      "ageHours": 26.3
+    },
+    {
+      "title": "Peter Alexander asks GOP Rep. Donalds how he differs from Pres. Trump",
+      "channel": "MS NOW",
+      "videoId": "8IVcwZadf0U",
+      "viewsPerHour": 756,
+      "views": 1352,
+      "ageHours": 1.8
+    },
+    {
+      "title": "S10 E7: Tennessee Mass Shooting & Homeowners Associations: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "jEaSeKBkNG4",
+      "viewsPerHour": 628,
+      "views": 1441,
+      "ageHours": 2.3
     },
     {
       "title": "The Overton Stone (S3, E3) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "D-2n4DQFgkM",
-      "viewsPerHour": 591,
-      "views": 24980,
-      "ageHours": 42.3
+      "viewsPerHour": 570,
+      "views": 25248,
+      "ageHours": 44.3
     },
     {
       "title": "PBS loses 70 yrs of data: my perspective as a privacy advocate, business owner, & data recovery tech",
       "channel": "Louis Rossmann",
       "videoId": "Cxmo57cD3Ck",
-      "viewsPerHour": 561,
+      "viewsPerHour": 537,
       "views": 25443,
-      "ageHours": 45.4
+      "ageHours": 47.4
     },
     {
       "title": "MS NOW Highlights - August 16",
       "channel": "MS NOW",
       "videoId": "DfSsXMqFFGk",
-      "viewsPerHour": 490,
+      "viewsPerHour": 436,
       "views": 7979,
-      "ageHours": 16.3
-    },
-    {
-      "title": "Is Extraterrestrial Life Hiding in Plain Sight? w/Prof Simon",
-      "channel": "Chris Lehto",
-      "videoId": "ERMn7BakXTo",
-      "viewsPerHour": 166,
-      "views": 7857,
-      "ageHours": 47.3
-    },
-    {
-      "title": "Exposing Cartels: Inside Colombia’s Most Dangerous City for Journalists",
-      "channel": "Real Stories",
-      "videoId": "9XC079gniX8",
-      "viewsPerHour": 86,
-      "views": 3998,
-      "ageHours": 46.3
-    },
-    {
-      "title": "Dems vs. GOP messaging: Sunday political panel digs into partisanship ahead of midterms",
-      "channel": "MS NOW",
-      "videoId": "_iEZrUEp6-g",
-      "viewsPerHour": 50,
-      "views": 1253,
-      "ageHours": 24.8
+      "ageHours": 18.3
     },
     {
       "title": "Country Star Tim McGraw’s Hidden Ties To George Washington | Who Do You Think You Are?",
       "channel": "Real Stories",
       "videoId": "yxYV1hS4BqQ",
-      "viewsPerHour": 36,
-      "views": 873,
-      "ageHours": 24.3
+      "viewsPerHour": 34,
+      "views": 902,
+      "ageHours": 26.3
     },
     {
       "title": "Doctors are forcing AI recording on patients without their consent: DON'T SIGN THE FORM!",
@@ -626,7 +650,7 @@
       "videoId": "ocL56MPG-vM",
       "viewsPerHour": 12,
       "views": 437,
-      "ageHours": 35.6
+      "ageHours": 37.6
     }
   ]
 }
