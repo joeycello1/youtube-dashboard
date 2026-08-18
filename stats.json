@@ -2,31 +2,35 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 6
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 6
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 19
-    },
-    {
-      "channel": "History",
-      "count": 48
+      "count": 5
     },
     {
       "channel": "Last Week Tonight",
       "count": 19
     },
     {
-      "channel": "The Daily Show",
-      "count": 3
+      "channel": "Conan O'Brien",
+      "count": 11
     },
     {
-      "channel": "Conan O'Brien",
+      "channel": "Louis Rossmann",
+      "count": 20
+    },
+    {
+      "channel": "Mayim Bialik",
       "count": 9
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 6
+    },
+    {
+      "channel": "History",
+      "count": 48
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 3
     },
     {
       "channel": "Diary of a CEO",
@@ -54,7 +58,7 @@
     },
     {
       "channel": "Area 52",
-      "count": 5
+      "count": 4
     },
     {
       "channel": "More Perfect Union",
@@ -65,12 +69,8 @@
       "count": 12
     },
     {
-      "channel": "Mayim Bialik",
-      "count": 8
-    },
-    {
       "channel": "Jonathan Pie",
-      "count": 7
+      "count": 6
     },
     {
       "channel": "Nat Geo",
@@ -80,31 +80,31 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 6
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 6
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 17
-    },
-    {
-      "keyword": "AI",
-      "count": 11
+      "count": 5
     },
     {
       "keyword": "Last Week Tonight",
       "count": 18
     },
     {
-      "keyword": "The Daily Show",
-      "count": 3
+      "keyword": "Conan O'Brien",
+      "count": 11
     },
     {
-      "keyword": "Conan O'Brien",
-      "count": 9
+      "keyword": "Louis Rossmann",
+      "count": 18
+    },
+    {
+      "keyword": "AI",
+      "count": 12
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 6
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 3
     },
     {
       "keyword": "The Rest Is Science",
@@ -136,7 +136,7 @@
     },
     {
       "keyword": "UFO",
-      "count": 26
+      "count": 25
     },
     {
       "keyword": "AI, FOIA, UAP",
@@ -168,7 +168,7 @@
     },
     {
       "keyword": "Jonathan Pie",
-      "count": 7
+      "count": 6
     },
     {
       "keyword": "NOVA, AI, artificial intelligence",
@@ -202,11 +202,11 @@
   "dailySummary": [
     {
       "date": "2026-08-18",
-      "videos": 2
+      "videos": 9
     },
     {
       "date": "2026-08-17",
-      "videos": 19
+      "videos": 16
     },
     {
       "date": "2026-08-16",
@@ -262,7 +262,7 @@
     },
     {
       "date": "2026-08-03",
-      "videos": 3
+      "videos": 2
     },
     {
       "date": "2026-08-02",
@@ -421,10 +421,6 @@
       "videos": 1
     },
     {
-      "date": "2026-06-19",
-      "videos": 2
-    },
-    {
       "date": "2026-06-14",
       "videos": 1
     }
@@ -432,31 +428,31 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 6
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 6
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 11
-    },
-    {
-      "keyword": "AI",
-      "matches": 4
+      "matches": 5
     },
     {
       "keyword": "Last Week Tonight",
       "matches": 8
     },
     {
-      "keyword": "The Daily Show",
-      "matches": 3
+      "keyword": "Conan O'Brien",
+      "matches": 8
     },
     {
-      "keyword": "Conan O'Brien",
+      "keyword": "Louis Rossmann",
+      "matches": 12
+    },
+    {
+      "keyword": "AI",
+      "matches": 5
+    },
+    {
+      "keyword": "PBS NewsHour",
       "matches": 6
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 2
     },
     {
       "keyword": "The Rest Is Science",
@@ -512,177 +508,209 @@
       "title": "Fetal Personhood: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "sCSt45rev7w",
-      "viewsPerHour": 32661,
-      "views": 1103715,
-      "ageHours": 33.8
+      "viewsPerHour": 31722,
+      "views": 1135616,
+      "ageHours": 35.8
     },
     {
       "title": "Top Scientist REVEALS: We Invented Heaven, God Is A Human Invention! | Prof Brian Greene",
       "channel": "Diary of a CEO",
       "videoId": "Qifsxitq_q4",
-      "viewsPerHour": 16383,
-      "views": 545393,
-      "ageHours": 33.3
+      "viewsPerHour": 16263,
+      "views": 574011,
+      "ageHours": 35.3
     },
     {
       "title": "S13 E21: Iran War, Soap Operas & Fetal Personhood: 8/16/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "z8vvaDqAgJI",
-      "viewsPerHour": 11967,
-      "views": 446243,
-      "ageHours": 37.3
+      "viewsPerHour": 11620,
+      "views": 456618,
+      "ageHours": 39.3
     },
     {
       "title": "PBS News Hour full show, August 17, 2026",
       "channel": "PBS NewsHour",
       "videoId": "J4aKj8fg2mA",
-      "viewsPerHour": 5313,
+      "viewsPerHour": 4753,
       "views": 90430,
-      "ageHours": 17
+      "ageHours": 19
+    },
+    {
+      "title": "lemon gets cease & desist from company selling subscriptions to car manuals ",
+      "channel": "Louis Rossmann",
+      "videoId": "Awe6o9TemlQ",
+      "viewsPerHour": 4597,
+      "views": 29167,
+      "ageHours": 6.3
     },
     {
       "title": "Why Your Brain Thinks You're Full (Even When You're Not)",
       "channel": "The Rest Is Science",
       "videoId": "DPRGuFobXSk",
-      "viewsPerHour": 3759,
-      "views": 162742,
-      "ageHours": 43.3
+      "viewsPerHour": 3666,
+      "views": 166085,
+      "ageHours": 45.3
     },
     {
-      "title": "Tamara Keith and Amy Walter on primary races to watch in Florida and Alaska",
-      "channel": "PBS NewsHour",
-      "videoId": "7cItt5zmecw",
-      "viewsPerHour": 3050,
-      "views": 52434,
-      "ageHours": 17.2
+      "title": "Conan & Sona Take A Friendship Compatibility Quiz | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "VoNMyr-Tu7k",
+      "viewsPerHour": 3175,
+      "views": 20002,
+      "ageHours": 6.3
     },
     {
       "title": "The Best F**king News Team Reminisces on 30 Years of TDS | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "uKvwzkfnCtY",
-      "viewsPerHour": 2902,
-      "views": 79195,
-      "ageHours": 27.3
+      "viewsPerHour": 2800,
+      "views": 82033,
+      "ageHours": 29.3
+    },
+    {
+      "title": "Tamara Keith and Amy Walter on primary races to watch in Florida and Alaska",
+      "channel": "PBS NewsHour",
+      "videoId": "7cItt5zmecw",
+      "viewsPerHour": 2731,
+      "views": 52434,
+      "ageHours": 19.2
+    },
+    {
+      "title": "95% Of Your Life Runs On A Program You Never Chose - Here’s How to Change it | Dr. Bruce Lipton",
+      "channel": "Mayim Bialik",
+      "videoId": "ThUi_cMi-wU",
+      "viewsPerHour": 2711,
+      "views": 19790,
+      "ageHours": 7.3
+    },
+    {
+      "title": "Shows Trump doesn't think strategically': John Bolton on president's relationship with Kim Jong Un",
+      "channel": "MS NOW",
+      "videoId": "u4kWUBOCv64",
+      "viewsPerHour": 1606,
+      "views": 2897,
+      "ageHours": 1.8
+    },
+    {
+      "title": "S10 E8: Mifepristone Ruling & Farmworkers: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "GQwFXp1uYuw",
+      "viewsPerHour": 1119,
+      "views": 2575,
+      "ageHours": 2.3
     },
     {
       "title": "Gillian Anderson (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "d3bCel607lQ",
-      "viewsPerHour": 1149,
+      "viewsPerHour": 1076,
       "views": 33669,
-      "ageHours": 29.3
+      "ageHours": 31.3
     },
     {
       "title": "Six Flags stops honoring pre-purchased passes to their parks. CEOs, backlash is coming: please stop.",
       "channel": "Louis Rossmann",
       "videoId": "EoOPzFH7NRc",
-      "viewsPerHour": 1117,
+      "viewsPerHour": 1041,
       "views": 30499,
-      "ageHours": 27.3
+      "ageHours": 29.3
     },
     {
       "title": "The Robotic Quest for Artificial Humans | Ancient Aliens",
       "channel": "History",
       "videoId": "vYYep2n1dCQ",
-      "viewsPerHour": 977,
-      "views": 21781,
-      "ageHours": 22.3
+      "viewsPerHour": 933,
+      "views": 22674,
+      "ageHours": 24.3
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Aug. 17 | Audio Only",
       "channel": "MS NOW",
       "videoId": "LBYctM3K5M8",
-      "viewsPerHour": 908,
+      "viewsPerHour": 772,
       "views": 10291,
-      "ageHours": 11.3
+      "ageHours": 13.3
     },
     {
       "title": "INVITATION TO RICK BOUCHER: honoring a hero for tech freedom",
       "channel": "Louis Rossmann",
       "videoId": "W_Sz8eJJGRg",
-      "viewsPerHour": 765,
+      "viewsPerHour": 686,
       "views": 13234,
-      "ageHours": 17.3
+      "ageHours": 19.3
     },
     {
       "title": "Trump needs to be ASHAMED': Military grandma SHREDS Trump over mistreatment of USS Lincoln sailors",
       "channel": "MS NOW",
       "videoId": "9IPX5aoTwZo",
-      "viewsPerHour": 697,
+      "viewsPerHour": 630,
       "views": 13197,
-      "ageHours": 18.9
-    },
-    {
-      "title": "They are right to be worried': Fmr Sen candidate on state Dems prepping for GOP voter suppression",
-      "channel": "MS NOW",
-      "videoId": "HQ8Nz7Nka98",
-      "viewsPerHour": 607,
-      "views": 6873,
-      "ageHours": 11.3
+      "ageHours": 21
     },
     {
       "title": "S10 E7: Tennessee Mass Shooting & Homeowners Associations: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "jEaSeKBkNG4",
-      "viewsPerHour": 604,
-      "views": 14677,
-      "ageHours": 24.3
+      "viewsPerHour": 611,
+      "views": 16078,
+      "ageHours": 26.3
     },
     {
-      "title": "LIVE: House Democrats examine deadly ICE shooting",
+      "title": "They are right to be worried': Fmr Sen candidate on state Dems prepping for GOP voter suppression",
       "channel": "MS NOW",
-      "videoId": "sDZwDOm7E_M",
-      "viewsPerHour": 541,
-      "views": 14485,
-      "ageHours": 26.8
+      "videoId": "HQ8Nz7Nka98",
+      "viewsPerHour": 516,
+      "views": 6873,
+      "ageHours": 13.3
     },
     {
-      "title": "We want answers': Top Armed Services Dem demands Hegseth address USS Lincoln controversy",
-      "channel": "MS NOW",
-      "videoId": "U1v1obVObZU",
-      "viewsPerHour": 420,
-      "views": 10075,
-      "ageHours": 24
+      "title": "Andy Richter Stole David Letterman's Ashtray (Until Dave Stole It Back) | The Three Questions",
+      "channel": "Conan O'Brien",
+      "videoId": "OwRZDvi31qM",
+      "viewsPerHour": 461,
+      "views": 1524,
+      "ageHours": 3.3
     },
     {
       "title": "Instead of selling, business owner donates company to trust for charity",
       "channel": "PBS NewsHour",
       "videoId": "nySPCTvnfPs",
-      "viewsPerHour": 369,
+      "viewsPerHour": 330,
       "views": 6320,
-      "ageHours": 17.1
+      "ageHours": 19.1
     },
     {
       "title": "PBS News Hour live episode, August 17, 2026",
       "channel": "PBS NewsHour",
       "videoId": "qlfANC8Q5PE",
-      "viewsPerHour": 221,
+      "viewsPerHour": 200,
       "views": 4210,
-      "ageHours": 19
+      "ageHours": 21
     },
     {
-      "title": "Peter Alexander asks GOP Rep. Donalds how he differs from Pres. Trump",
+      "title": "We need someone that understands this community': Manley on race against Rep. Wasserman Schultz",
       "channel": "MS NOW",
-      "videoId": "8IVcwZadf0U",
-      "viewsPerHour": 57,
-      "views": 1352,
-      "ageHours": 23.8
+      "videoId": "mYhoiq9C_aU",
+      "viewsPerHour": 190,
+      "views": 345,
+      "ageHours": 1.8
     },
     {
       "title": "National debt nears $40 trillion: How we got here and why it matters",
       "channel": "PBS NewsHour",
       "videoId": "M0ab0U4mFRo",
-      "viewsPerHour": 12,
+      "viewsPerHour": 11,
       "views": 208,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
       "title": "Remembering the life and career of Hayden Panettiere",
       "channel": "PBS NewsHour",
       "videoId": "F_FPjH0Ni28",
-      "viewsPerHour": 11,
+      "viewsPerHour": 10,
       "views": 187,
-      "ageHours": 17.6
+      "ageHours": 19.6
     }
   ]
 }
