@@ -456,7 +456,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "The Rest Is Science",
@@ -464,11 +464,11 @@
     },
     {
       "keyword": "Real Stories",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "NOVA",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "Louis Rossmann, AI",
@@ -505,10 +505,6 @@
     {
       "keyword": "Last Week Tonight, artificial intelligence, AI",
       "matches": 1
-    },
-    {
-      "keyword": "More Perfect Union, AI",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -516,201 +512,177 @@
       "title": "Fetal Personhood: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "sCSt45rev7w",
-      "viewsPerHour": 35376,
-      "views": 1054163,
-      "ageHours": 29.8
+      "viewsPerHour": 32661,
+      "views": 1103715,
+      "ageHours": 33.8
     },
     {
       "title": "Top Scientist REVEALS: We Invented Heaven, God Is A Human Invention! | Prof Brian Greene",
       "channel": "Diary of a CEO",
       "videoId": "Qifsxitq_q4",
-      "viewsPerHour": 16906,
-      "views": 495240,
-      "ageHours": 29.3
+      "viewsPerHour": 16383,
+      "views": 545393,
+      "ageHours": 33.3
     },
     {
       "title": "S13 E21: Iran War, Soap Operas & Fetal Personhood: 8/16/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "z8vvaDqAgJI",
-      "viewsPerHour": 12809,
-      "views": 426465,
-      "ageHours": 33.3
+      "viewsPerHour": 11967,
+      "views": 446243,
+      "ageHours": 37.3
     },
     {
       "title": "PBS News Hour full show, August 17, 2026",
       "channel": "PBS NewsHour",
       "videoId": "J4aKj8fg2mA",
-      "viewsPerHour": 6942,
+      "viewsPerHour": 5313,
       "views": 90430,
-      "ageHours": 13
+      "ageHours": 17
     },
     {
       "title": "Why Your Brain Thinks You're Full (Even When You're Not)",
       "channel": "The Rest Is Science",
       "videoId": "DPRGuFobXSk",
-      "viewsPerHour": 3992,
-      "views": 156902,
-      "ageHours": 39.3
+      "viewsPerHour": 3759,
+      "views": 162742,
+      "ageHours": 43.3
     },
     {
       "title": "Tamara Keith and Amy Walter on primary races to watch in Florida and Alaska",
       "channel": "PBS NewsHour",
       "videoId": "7cItt5zmecw",
-      "viewsPerHour": 3973,
+      "viewsPerHour": 3050,
       "views": 52434,
-      "ageHours": 13.2
+      "ageHours": 17.2
     },
     {
       "title": "The Best F**king News Team Reminisces on 30 Years of TDS | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "uKvwzkfnCtY",
-      "viewsPerHour": 3093,
-      "views": 72063,
-      "ageHours": 23.3
-    },
-    {
-      "title": "The Island's Most Dangerous Flood Traps | The Curse of Oak Island",
-      "channel": "History",
-      "videoId": "92LD89lcG88",
-      "viewsPerHour": 1452,
-      "views": 64315,
-      "ageHours": 44.3
-    },
-    {
-      "title": "The Last Word with Lawrence O'Donnell - Aug. 17 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "LBYctM3K5M8",
-      "viewsPerHour": 1403,
-      "views": 10291,
-      "ageHours": 7.3
+      "viewsPerHour": 2902,
+      "views": 79195,
+      "ageHours": 27.3
     },
     {
       "title": "Gillian Anderson (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "d3bCel607lQ",
-      "viewsPerHour": 1331,
+      "viewsPerHour": 1149,
       "views": 33669,
-      "ageHours": 25.3
+      "ageHours": 29.3
     },
     {
       "title": "Six Flags stops honoring pre-purchased passes to their parks. CEOs, backlash is coming: please stop.",
       "channel": "Louis Rossmann",
       "videoId": "EoOPzFH7NRc",
-      "viewsPerHour": 1308,
+      "viewsPerHour": 1117,
       "views": 30499,
-      "ageHours": 23.3
+      "ageHours": 27.3
     },
     {
       "title": "The Robotic Quest for Artificial Humans | Ancient Aliens",
       "channel": "History",
       "videoId": "vYYep2n1dCQ",
-      "viewsPerHour": 1090,
-      "views": 19939,
-      "ageHours": 18.3
+      "viewsPerHour": 977,
+      "views": 21781,
+      "ageHours": 22.3
+    },
+    {
+      "title": "The Last Word with Lawrence O'Donnell - Aug. 17 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "LBYctM3K5M8",
+      "viewsPerHour": 908,
+      "views": 10291,
+      "ageHours": 11.3
     },
     {
       "title": "INVITATION TO RICK BOUCHER: honoring a hero for tech freedom",
       "channel": "Louis Rossmann",
       "videoId": "W_Sz8eJJGRg",
-      "viewsPerHour": 995,
+      "viewsPerHour": 765,
       "views": 13234,
-      "ageHours": 13.3
-    },
-    {
-      "title": "They are right to be worried': Fmr Sen candidate on state Dems prepping for GOP voter suppression",
-      "channel": "MS NOW",
-      "videoId": "HQ8Nz7Nka98",
-      "viewsPerHour": 938,
-      "views": 6873,
-      "ageHours": 7.3
+      "ageHours": 17.3
     },
     {
       "title": "Trump needs to be ASHAMED': Military grandma SHREDS Trump over mistreatment of USS Lincoln sailors",
       "channel": "MS NOW",
       "videoId": "9IPX5aoTwZo",
-      "viewsPerHour": 883,
+      "viewsPerHour": 697,
       "views": 13197,
-      "ageHours": 15
+      "ageHours": 18.9
     },
     {
-      "title": "LIVE: House Democrats examine deadly ICE shooting",
+      "title": "They are right to be worried': Fmr Sen candidate on state Dems prepping for GOP voter suppression",
       "channel": "MS NOW",
-      "videoId": "sDZwDOm7E_M",
-      "viewsPerHour": 635,
-      "views": 14485,
-      "ageHours": 22.8
-    },
-    {
-      "title": "S10 E6: French Retirement Protests & Solitary Confinement: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "0y91DFVClQ8",
-      "viewsPerHour": 594,
-      "views": 26314,
-      "ageHours": 44.3
+      "videoId": "HQ8Nz7Nka98",
+      "viewsPerHour": 607,
+      "views": 6873,
+      "ageHours": 11.3
     },
     {
       "title": "S10 E7: Tennessee Mass Shooting & Homeowners Associations: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "jEaSeKBkNG4",
-      "viewsPerHour": 592,
-      "views": 12025,
-      "ageHours": 20.3
+      "viewsPerHour": 604,
+      "views": 14677,
+      "ageHours": 24.3
+    },
+    {
+      "title": "LIVE: House Democrats examine deadly ICE shooting",
+      "channel": "MS NOW",
+      "videoId": "sDZwDOm7E_M",
+      "viewsPerHour": 541,
+      "views": 14485,
+      "ageHours": 26.8
     },
     {
       "title": "We want answers': Top Armed Services Dem demands Hegseth address USS Lincoln controversy",
       "channel": "MS NOW",
       "videoId": "U1v1obVObZU",
-      "viewsPerHour": 504,
+      "viewsPerHour": 420,
       "views": 10075,
-      "ageHours": 20
+      "ageHours": 24
     },
     {
       "title": "Instead of selling, business owner donates company to trust for charity",
       "channel": "PBS NewsHour",
       "videoId": "nySPCTvnfPs",
-      "viewsPerHour": 481,
+      "viewsPerHour": 369,
       "views": 6320,
-      "ageHours": 13.1
+      "ageHours": 17.1
     },
     {
       "title": "PBS News Hour live episode, August 17, 2026",
       "channel": "PBS NewsHour",
       "videoId": "qlfANC8Q5PE",
-      "viewsPerHour": 280,
+      "viewsPerHour": 221,
       "views": 4210,
-      "ageHours": 15
+      "ageHours": 19
     },
     {
       "title": "Peter Alexander asks GOP Rep. Donalds how he differs from Pres. Trump",
       "channel": "MS NOW",
       "videoId": "8IVcwZadf0U",
-      "viewsPerHour": 68,
+      "viewsPerHour": 57,
       "views": 1352,
-      "ageHours": 19.8
-    },
-    {
-      "title": "Country Star Tim McGraw’s Hidden Ties To George Washington | Who Do You Think You Are?",
-      "channel": "Real Stories",
-      "videoId": "yxYV1hS4BqQ",
-      "viewsPerHour": 24,
-      "views": 1056,
-      "ageHours": 44.3
+      "ageHours": 23.8
     },
     {
       "title": "National debt nears $40 trillion: How we got here and why it matters",
       "channel": "PBS NewsHour",
       "videoId": "M0ab0U4mFRo",
-      "viewsPerHour": 15,
+      "viewsPerHour": 12,
       "views": 208,
-      "ageHours": 13.6
+      "ageHours": 17.6
     },
     {
       "title": "Remembering the life and career of Hayden Panettiere",
       "channel": "PBS NewsHour",
       "videoId": "F_FPjH0Ni28",
-      "viewsPerHour": 14,
+      "viewsPerHour": 11,
       "views": 187,
-      "ageHours": 13.6
+      "ageHours": 17.6
     }
   ]
 }
