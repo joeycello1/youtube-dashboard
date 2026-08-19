@@ -1,11 +1,19 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
-      "count": 3
+      "channel": "MS NOW",
+      "count": 6
     },
     {
-      "channel": "MS NOW",
+      "channel": "NOVA",
+      "count": 13
+    },
+    {
+      "channel": "History",
+      "count": 49
+    },
+    {
+      "channel": "PBS NewsHour",
       "count": 6
     },
     {
@@ -27,10 +35,6 @@
     {
       "channel": "Mayim Bialik",
       "count": 9
-    },
-    {
-      "channel": "History",
-      "count": 48
     },
     {
       "channel": "The Daily Show",
@@ -65,10 +69,6 @@
       "count": 16
     },
     {
-      "channel": "NOVA",
-      "count": 12
-    },
-    {
       "channel": "Jonathan Pie",
       "count": 6
     },
@@ -79,11 +79,19 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "PBS NewsHour",
-      "count": 3
+      "keyword": "MS NOW",
+      "count": 6
     },
     {
-      "keyword": "MS NOW",
+      "keyword": "NOVA",
+      "count": 28
+    },
+    {
+      "keyword": "UFO",
+      "count": 26
+    },
+    {
+      "keyword": "PBS NewsHour",
       "count": 6
     },
     {
@@ -115,10 +123,6 @@
       "count": 4
     },
     {
-      "keyword": "NOVA",
-      "count": 27
-    },
-    {
       "keyword": "Louis Rossmann, AI",
       "count": 2
     },
@@ -133,10 +137,6 @@
     {
       "keyword": "The Interview",
       "count": 6
-    },
-    {
-      "keyword": "UFO",
-      "count": 25
     },
     {
       "keyword": "AI, FOIA, UAP",
@@ -201,8 +201,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-08-19",
+      "videos": 4
+    },
+    {
       "date": "2026-08-18",
-      "videos": 15
+      "videos": 16
     },
     {
       "date": "2026-08-17",
@@ -427,11 +431,19 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
-      "matches": 3
+      "keyword": "MS NOW",
+      "matches": 6
     },
     {
-      "keyword": "MS NOW",
+      "keyword": "NOVA",
+      "matches": 5
+    },
+    {
+      "keyword": "UFO",
+      "matches": 4
+    },
+    {
+      "keyword": "PBS NewsHour",
       "matches": 6
     },
     {
@@ -444,7 +456,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "Louis Rossmann",
@@ -463,10 +475,6 @@
       "matches": 2
     },
     {
-      "keyword": "NOVA",
-      "matches": 4
-    },
-    {
       "keyword": "Louis Rossmann, AI",
       "matches": 1
     },
@@ -481,10 +489,6 @@
     {
       "keyword": "The Interview",
       "matches": 1
-    },
-    {
-      "keyword": "UFO",
-      "matches": 3
     },
     {
       "keyword": "AI, FOIA, UAP",
@@ -505,172 +509,204 @@
   ],
   "mostViral48h": [
     {
+      "title": "PBS News Hour full episode, August 18, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "XhU4wauvujo",
+      "viewsPerHour": 6151,
+      "views": 80031,
+      "ageHours": 13
+    },
+    {
       "title": "95% Of Your Life Runs On A Program You Never Chose - Here’s How to Change it | Dr. Bruce Lipton",
       "channel": "Mayim Bialik",
       "videoId": "ThUi_cMi-wU",
-      "viewsPerHour": 2456,
-      "views": 57253,
-      "ageHours": 23.3
+      "viewsPerHour": 2331,
+      "views": 58949,
+      "ageHours": 25.3
     },
     {
       "title": "The Best F**king News Team Reminisces on 30 Years of TDS | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "uKvwzkfnCtY",
-      "viewsPerHour": 2251,
-      "views": 101988,
-      "ageHours": 45.3
+      "viewsPerHour": 2184,
+      "views": 103248,
+      "ageHours": 47.3
+    },
+    {
+      "title": "‘How much is a Trump deal worth?’: Trump pauses new tariffs as US and Canada finalize agreement",
+      "channel": "MS NOW",
+      "videoId": "2Q0hCmCyiyo",
+      "viewsPerHour": 1302,
+      "views": 2343,
+      "ageHours": 1.8
     },
     {
       "title": "lemon gets cease & desist from company selling subscriptions to car manuals ",
       "channel": "Louis Rossmann",
       "videoId": "Awe6o9TemlQ",
-      "viewsPerHour": 1305,
+      "viewsPerHour": 1199,
       "views": 29167,
-      "ageHours": 22.4
-    },
-    {
-      "title": "Conan & Sona Take A Friendship Compatibility Quiz | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "VoNMyr-Tu7k",
-      "viewsPerHour": 897,
-      "views": 20002,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "S10 E8: Mifepristone Ruling & Farmworkers: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "GQwFXp1uYuw",
-      "viewsPerHour": 865,
-      "views": 15846,
-      "ageHours": 18.3
+      "viewsPerHour": 849,
+      "views": 17223,
+      "ageHours": 20.3
     },
     {
-      "title": "Gillian Anderson (Full Episode) | Conan O'Brien Needs A Friend",
+      "title": "Conan & Sona Take A Friendship Compatibility Quiz | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
-      "videoId": "d3bCel607lQ",
-      "viewsPerHour": 712,
-      "views": 33669,
-      "ageHours": 47.3
+      "videoId": "VoNMyr-Tu7k",
+      "viewsPerHour": 823,
+      "views": 20002,
+      "ageHours": 24.3
+    },
+    {
+      "title": "Night Visions (S1, E2) | The Secret of Skinwalker Ranch | Full Episode",
+      "channel": "History",
+      "videoId": "7xiSdTUPHuM",
+      "viewsPerHour": 800,
+      "views": 9832,
+      "ageHours": 12.3
     },
     {
       "title": "Six Flags stops honoring pre-purchased passes to their parks. CEOs, backlash is coming: please stop.",
       "channel": "Louis Rossmann",
       "videoId": "EoOPzFH7NRc",
-      "viewsPerHour": 673,
+      "viewsPerHour": 645,
       "views": 30499,
-      "ageHours": 45.3
+      "ageHours": 47.3
     },
     {
       "title": "The Robotic Quest for Artificial Humans | Ancient Aliens",
       "channel": "History",
       "videoId": "vYYep2n1dCQ",
-      "viewsPerHour": 654,
-      "views": 26356,
-      "ageHours": 40.3
+      "viewsPerHour": 630,
+      "views": 26651,
+      "ageHours": 42.3
     },
     {
       "title": "While the war with Iran continues, Defense Secy. Hegseth is on the campaign trail",
       "channel": "MS NOW",
       "videoId": "H1YHkjSvzqg",
-      "viewsPerHour": 494,
+      "viewsPerHour": 424,
       "views": 5944,
-      "ageHours": 12
-    },
-    {
-      "title": "Ossoff getting under Trump's skin? WH concerned about Natalie Harp getting more attention: Haberman",
-      "channel": "MS NOW",
-      "videoId": "NzYwUDTZmkc",
-      "viewsPerHour": 465,
-      "views": 5577,
-      "ageHours": 12
+      "ageHours": 14
     },
     {
       "title": "S10 E7: Tennessee Mass Shooting & Homeowners Associations: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "jEaSeKBkNG4",
-      "viewsPerHour": 436,
-      "views": 18454,
-      "ageHours": 42.3
+      "viewsPerHour": 423,
+      "views": 18718,
+      "ageHours": 44.3
+    },
+    {
+      "title": "Ossoff getting under Trump's skin? WH concerned about Natalie Harp getting more attention: Haberman",
+      "channel": "MS NOW",
+      "videoId": "NzYwUDTZmkc",
+      "viewsPerHour": 399,
+      "views": 5577,
+      "ageHours": 14
+    },
+    {
+      "title": "Quilt exhibit showcases artwork of inmate turned criminal justice activist",
+      "channel": "PBS NewsHour",
+      "videoId": "KkuXEU4TYvo",
+      "viewsPerHour": 399,
+      "views": 5273,
+      "ageHours": 13.2
+    },
+    {
+      "title": "The Not-So-Cute Truth About Antarctic Penguins",
+      "channel": "NOVA",
+      "videoId": "D_rdyJ9HYCc",
+      "viewsPerHour": 383,
+      "views": 4610,
+      "ageHours": 12
     },
     {
       "title": "INVITATION TO RICK BOUCHER: honoring a hero for tech freedom",
       "channel": "Louis Rossmann",
       "videoId": "W_Sz8eJJGRg",
-      "viewsPerHour": 375,
+      "viewsPerHour": 355,
       "views": 13234,
-      "ageHours": 35.3
-    },
-    {
-      "title": "The Last Word with Lawrence O'Donnell - Aug. 17 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "LBYctM3K5M8",
-      "viewsPerHour": 351,
-      "views": 10291,
-      "ageHours": 29.3
+      "ageHours": 37.3
     },
     {
       "title": "PBS News Hour live episode, August 18, 2026",
       "channel": "PBS NewsHour",
       "videoId": "-iQpR9H0WAQ",
-      "viewsPerHour": 336,
+      "viewsPerHour": 291,
       "views": 4304,
-      "ageHours": 12.8
+      "ageHours": 14.8
     },
     {
-      "title": "They are right to be worried': Fmr Sen candidate on state Dems prepping for GOP voter suppression",
-      "channel": "MS NOW",
-      "videoId": "HQ8Nz7Nka98",
-      "viewsPerHour": 234,
-      "views": 6873,
-      "ageHours": 29.3
+      "title": "WATCH: California AG speaks after opening day of Meta trial",
+      "channel": "PBS NewsHour",
+      "videoId": "KWppdXmS9Us",
+      "viewsPerHour": 228,
+      "views": 2817,
+      "ageHours": 12.3
     },
     {
       "title": "Shows Trump doesn't think strategically': John Bolton on president's relationship with Kim Jong Un",
       "channel": "MS NOW",
       "videoId": "u4kWUBOCv64",
-      "viewsPerHour": 163,
+      "viewsPerHour": 146,
       "views": 2897,
-      "ageHours": 17.8
+      "ageHours": 19.8
+    },
+    {
+      "title": " “A Valhalla of election reform.” Alaska’s ranked choice voting system encourages candidate civility",
+      "channel": "MS NOW",
+      "videoId": "K3O_85w6o9E",
+      "viewsPerHour": 137,
+      "views": 248,
+      "ageHours": 1.8
     },
     {
       "title": "How Freeports Help The Super Rich Evade Tax and Hide Their Wealth Explained",
       "channel": "Real Stories",
       "videoId": "8VZMV2p7NHc",
-      "viewsPerHour": 87,
-      "views": 1417,
-      "ageHours": 16.3
+      "viewsPerHour": 80,
+      "views": 1472,
+      "ageHours": 18.3
     },
     {
       "title": "Andy Richter Stole David Letterman's Ashtray (Until Dave Stole It Back) | The Three Questions",
       "channel": "Conan O'Brien",
       "videoId": "OwRZDvi31qM",
-      "viewsPerHour": 79,
+      "viewsPerHour": 72,
       "views": 1524,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "We need someone that understands this community': Manley on race against Rep. Wasserman Schultz",
       "channel": "MS NOW",
       "videoId": "mYhoiq9C_aU",
-      "viewsPerHour": 19,
+      "viewsPerHour": 17,
       "views": 345,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "2020 election deniers on the ballot for key offices in battleground states",
       "channel": "PBS NewsHour",
       "videoId": "B8bbXIZIOBc",
-      "viewsPerHour": 12,
+      "viewsPerHour": 11,
       "views": 146,
-      "ageHours": 11.8
+      "ageHours": 13.8
     },
     {
       "title": "The growing debate over big money influence in American politics",
       "channel": "PBS NewsHour",
       "videoId": "sn-fJm-6gGc",
-      "viewsPerHour": 12,
+      "viewsPerHour": 11,
       "views": 144,
-      "ageHours": 11.7
+      "ageHours": 13.7
     }
   ]
 }
