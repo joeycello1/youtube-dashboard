@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "PBS NewsHour",
-      "count": 6
+      "count": 3
     },
     {
       "channel": "MS NOW",
@@ -80,7 +80,7 @@
   "keywordFrequency": [
     {
       "keyword": "PBS NewsHour",
-      "count": 6
+      "count": 3
     },
     {
       "keyword": "MS NOW",
@@ -206,7 +206,7 @@
     },
     {
       "date": "2026-08-17",
-      "videos": 12
+      "videos": 9
     },
     {
       "date": "2026-08-16",
@@ -428,7 +428,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "PBS NewsHour",
-      "matches": 6
+      "matches": 3
     },
     {
       "keyword": "MS NOW",
@@ -508,209 +508,185 @@
       "title": "Fetal Personhood: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "sCSt45rev7w",
-      "viewsPerHour": 27134,
+      "viewsPerHour": 26011,
       "views": 1243058,
-      "ageHours": 45.8
+      "ageHours": 47.8
     },
     {
       "title": "Top Scientist REVEALS: We Invented Heaven, God Is A Human Invention! | Prof Brian Greene",
       "channel": "Diary of a CEO",
       "videoId": "Qifsxitq_q4",
-      "viewsPerHour": 15134,
-      "views": 685677,
-      "ageHours": 45.3
-    },
-    {
-      "title": "PBS News Hour full show, August 17, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "J4aKj8fg2mA",
-      "viewsPerHour": 3114,
-      "views": 90430,
-      "ageHours": 29
+      "viewsPerHour": 15288,
+      "views": 722924,
+      "ageHours": 47.3
     },
     {
       "title": "95% Of Your Life Runs On A Program You Never Chose - Here’s How to Change it | Dr. Bruce Lipton",
       "channel": "Mayim Bialik",
       "videoId": "ThUi_cMi-wU",
-      "viewsPerHour": 2538,
+      "viewsPerHour": 2278,
       "views": 43943,
-      "ageHours": 17.3
+      "ageHours": 19.3
     },
     {
       "title": "The Best F**king News Team Reminisces on 30 Years of TDS | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "uKvwzkfnCtY",
-      "viewsPerHour": 2366,
+      "viewsPerHour": 2253,
       "views": 93022,
-      "ageHours": 39.3
-    },
-    {
-      "title": "Tamara Keith and Amy Walter on primary races to watch in Florida and Alaska",
-      "channel": "PBS NewsHour",
-      "videoId": "7cItt5zmecw",
-      "viewsPerHour": 1795,
-      "views": 52434,
-      "ageHours": 29.2
+      "ageHours": 41.3
     },
     {
       "title": "lemon gets cease & desist from company selling subscriptions to car manuals ",
       "channel": "Louis Rossmann",
       "videoId": "Awe6o9TemlQ",
-      "viewsPerHour": 1783,
+      "viewsPerHour": 1591,
       "views": 29167,
-      "ageHours": 16.4
+      "ageHours": 18.3
     },
     {
       "title": "Conan & Sona Take A Friendship Compatibility Quiz | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "VoNMyr-Tu7k",
-      "viewsPerHour": 1226,
+      "viewsPerHour": 1094,
       "views": 20002,
-      "ageHours": 16.3
-    },
-    {
-      "title": "While the war with Iran continues, Defense Secy. Hegseth is on the campaign trail",
-      "channel": "MS NOW",
-      "videoId": "H1YHkjSvzqg",
-      "viewsPerHour": 986,
-      "views": 5944,
-      "ageHours": 6
-    },
-    {
-      "title": "Ossoff getting under Trump's skin? WH concerned about Natalie Harp getting more attention: Haberman",
-      "channel": "MS NOW",
-      "videoId": "NzYwUDTZmkc",
-      "viewsPerHour": 929,
-      "views": 5577,
-      "ageHours": 6
-    },
-    {
-      "title": "S10 E8: Mifepristone Ruling & Farmworkers: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "GQwFXp1uYuw",
-      "viewsPerHour": 898,
-      "views": 11062,
-      "ageHours": 12.3
+      "ageHours": 18.3
     },
     {
       "title": "Gillian Anderson (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "d3bCel607lQ",
-      "viewsPerHour": 815,
+      "viewsPerHour": 778,
       "views": 33669,
-      "ageHours": 41.3
+      "ageHours": 43.3
+    },
+    {
+      "title": "S10 E8: Mifepristone Ruling & Farmworkers: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "GQwFXp1uYuw",
+      "viewsPerHour": 774,
+      "views": 11062,
+      "ageHours": 14.3
+    },
+    {
+      "title": "While the war with Iran continues, Defense Secy. Hegseth is on the campaign trail",
+      "channel": "MS NOW",
+      "videoId": "H1YHkjSvzqg",
+      "viewsPerHour": 742,
+      "views": 5944,
+      "ageHours": 8
     },
     {
       "title": "Six Flags stops honoring pre-purchased passes to their parks. CEOs, backlash is coming: please stop.",
       "channel": "Louis Rossmann",
       "videoId": "EoOPzFH7NRc",
-      "viewsPerHour": 776,
+      "viewsPerHour": 738,
       "views": 30499,
-      "ageHours": 39.3
+      "ageHours": 41.3
+    },
+    {
+      "title": "Ossoff getting under Trump's skin? WH concerned about Natalie Harp getting more attention: Haberman",
+      "channel": "MS NOW",
+      "videoId": "NzYwUDTZmkc",
+      "viewsPerHour": 699,
+      "views": 5577,
+      "ageHours": 8
     },
     {
       "title": "The Robotic Quest for Artificial Humans | Ancient Aliens",
       "channel": "History",
       "videoId": "vYYep2n1dCQ",
-      "viewsPerHour": 723,
+      "viewsPerHour": 684,
       "views": 24812,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
       "title": "PBS News Hour live episode, August 18, 2026",
       "channel": "PBS NewsHour",
       "videoId": "-iQpR9H0WAQ",
-      "viewsPerHour": 633,
+      "viewsPerHour": 490,
       "views": 4304,
-      "ageHours": 6.8
+      "ageHours": 8.8
     },
     {
       "title": "S10 E7: Tennessee Mass Shooting & Homeowners Associations: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "jEaSeKBkNG4",
-      "viewsPerHour": 492,
+      "viewsPerHour": 467,
       "views": 17882,
-      "ageHours": 36.3
+      "ageHours": 38.3
     },
     {
       "title": "INVITATION TO RICK BOUCHER: honoring a hero for tech freedom",
       "channel": "Louis Rossmann",
       "videoId": "W_Sz8eJJGRg",
-      "viewsPerHour": 452,
+      "viewsPerHour": 423,
       "views": 13234,
-      "ageHours": 29.3
+      "ageHours": 31.3
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Aug. 17 | Audio Only",
       "channel": "MS NOW",
       "videoId": "LBYctM3K5M8",
-      "viewsPerHour": 441,
+      "viewsPerHour": 406,
       "views": 10291,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "They are right to be worried': Fmr Sen candidate on state Dems prepping for GOP voter suppression",
       "channel": "MS NOW",
       "videoId": "HQ8Nz7Nka98",
-      "viewsPerHour": 294,
+      "viewsPerHour": 271,
       "views": 6873,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "Shows Trump doesn't think strategically': John Bolton on president's relationship with Kim Jong Un",
       "channel": "MS NOW",
       "videoId": "u4kWUBOCv64",
-      "viewsPerHour": 245,
+      "viewsPerHour": 210,
       "views": 2897,
-      "ageHours": 11.8
-    },
-    {
-      "title": "Instead of selling, business owner donates company to trust for charity",
-      "channel": "PBS NewsHour",
-      "videoId": "nySPCTvnfPs",
-      "viewsPerHour": 217,
-      "views": 6320,
-      "ageHours": 29.2
+      "ageHours": 13.8
     },
     {
       "title": "Andy Richter Stole David Letterman's Ashtray (Until Dave Stole It Back) | The Three Questions",
       "channel": "Conan O'Brien",
       "videoId": "OwRZDvi31qM",
-      "viewsPerHour": 114,
+      "viewsPerHour": 100,
       "views": 1524,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "How Freeports Help The Super Rich Evade Tax and Hide Their Wealth Explained",
       "channel": "Real Stories",
       "videoId": "8VZMV2p7NHc",
-      "viewsPerHour": 97,
+      "viewsPerHour": 81,
       "views": 998,
-      "ageHours": 10.3
+      "ageHours": 12.3
     },
     {
       "title": "We need someone that understands this community': Manley on race against Rep. Wasserman Schultz",
       "channel": "MS NOW",
       "videoId": "mYhoiq9C_aU",
-      "viewsPerHour": 29,
-      "views": 345,
-      "ageHours": 11.8
-    },
-    {
-      "title": "The growing debate over big money influence in American politics",
-      "channel": "PBS NewsHour",
-      "videoId": "sn-fJm-6gGc",
       "viewsPerHour": 25,
-      "views": 144,
-      "ageHours": 5.7
+      "views": 345,
+      "ageHours": 13.8
     },
     {
       "title": "2020 election deniers on the ballot for key offices in battleground states",
       "channel": "PBS NewsHour",
       "videoId": "B8bbXIZIOBc",
-      "viewsPerHour": 25,
+      "viewsPerHour": 19,
       "views": 146,
-      "ageHours": 5.8
+      "ageHours": 7.8
+    },
+    {
+      "title": "The growing debate over big money influence in American politics",
+      "channel": "PBS NewsHour",
+      "videoId": "sn-fJm-6gGc",
+      "viewsPerHour": 19,
+      "views": 144,
+      "ageHours": 7.7
     }
   ]
 }
