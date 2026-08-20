@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "PBS NewsHour",
-      "count": 8
+      "count": 5
     },
     {
       "channel": "MS NOW",
@@ -80,7 +80,7 @@
   "keywordFrequency": [
     {
       "keyword": "PBS NewsHour",
-      "count": 8
+      "count": 5
     },
     {
       "keyword": "MS NOW",
@@ -206,7 +206,7 @@
     },
     {
       "date": "2026-08-18",
-      "videos": 9
+      "videos": 6
     },
     {
       "date": "2026-08-17",
@@ -428,7 +428,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "PBS NewsHour",
-      "matches": 8
+      "matches": 5
     },
     {
       "keyword": "MS NOW",
@@ -500,241 +500,217 @@
       "title": "We Investigated Uber Again. It’s Worse Than Last Time.",
       "channel": "More Perfect Union",
       "videoId": "tLIgmEibBL0",
-      "viewsPerHour": 9046,
+      "viewsPerHour": 7002,
       "views": 61904,
-      "ageHours": 6.8
+      "ageHours": 8.8
     },
     {
       "title": "You CANNOT make it up': Nicolle reacts to Trump gushing about GRASS",
       "channel": "MS NOW",
       "videoId": "Cd13FvRS-mo",
-      "viewsPerHour": 5027,
+      "viewsPerHour": 3844,
       "views": 32637,
-      "ageHours": 6.5
+      "ageHours": 8.5
     },
     {
       "title": "There's something weird going on': Ex-Trump staffer SPILLS on Natalie Harp's extreme Trump devotion",
       "channel": "MS NOW",
       "videoId": "VfXg6Q1_ziM",
-      "viewsPerHour": 3497,
+      "viewsPerHour": 2713,
       "views": 24151,
-      "ageHours": 6.9
+      "ageHours": 8.9
     },
     {
       "title": "The Presidential Neck Vag: When You Want to Look JUST Like the President | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "r2uCEzgv06w",
-      "viewsPerHour": 3015,
+      "viewsPerHour": 2666,
       "views": 46118,
-      "ageHours": 15.3
-    },
-    {
-      "title": "PBS News Hour full episode, August 18, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "XhU4wauvujo",
-      "viewsPerHour": 2758,
-      "views": 80031,
-      "ageHours": 29
+      "ageHours": 17.3
     },
     {
       "title": "Benn Jordan gets kicked from Hilton hotel during flock event 🤦",
       "channel": "Louis Rossmann",
       "videoId": "5vTqFgtM3Wo",
-      "viewsPerHour": 2257,
+      "viewsPerHour": 1994,
       "views": 34159,
-      "ageHours": 15.1
+      "ageHours": 17.1
     },
     {
       "title": "95% Of Your Life Runs On A Program You Never Chose - Here’s How to Change it | Dr. Bruce Lipton",
       "channel": "Mayim Bialik",
       "videoId": "ThUi_cMi-wU",
-      "viewsPerHour": 1818,
+      "viewsPerHour": 1734,
       "views": 75076,
-      "ageHours": 41.3
+      "ageHours": 43.3
     },
     {
       "title": "Evaluation of TOP SECRET Evidence | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "R-PpIxdRa68",
-      "viewsPerHour": 1157,
+      "viewsPerHour": 969,
       "views": 11910,
-      "ageHours": 10.3
+      "ageHours": 12.3
     },
     {
       "title": "Floating Orb in Brazilian National Forest | The Proof Is Out There",
       "channel": "History",
       "videoId": "v22F3qo9PfY",
-      "viewsPerHour": 931,
+      "viewsPerHour": 801,
       "views": 11449,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "S10 E9: Bud Light Trans Rights Panic & Cryptocurrencies Update: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "JSzcDcDkmqU",
-      "viewsPerHour": 828,
+      "viewsPerHour": 712,
       "views": 10179,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "lemon gets cease & desist from company selling subscriptions to car manuals ",
       "channel": "Louis Rossmann",
       "videoId": "Awe6o9TemlQ",
-      "viewsPerHour": 723,
+      "viewsPerHour": 689,
       "views": 29167,
-      "ageHours": 40.3
+      "ageHours": 42.3
     },
     {
       "title": "S10 E8: Mifepristone Ruling & Farmworkers: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "GQwFXp1uYuw",
-      "viewsPerHour": 633,
+      "viewsPerHour": 600,
       "views": 22962,
-      "ageHours": 36.3
-    },
-    {
-      "title": "PBS News Hour live episode, August 19, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "fGKDFSbFJ50",
-      "viewsPerHour": 567,
-      "views": 4219,
-      "ageHours": 7.4
+      "ageHours": 38.3
     },
     {
       "title": "Night Visions (S1, E2) | The Secret of Skinwalker Ranch | Full Episode",
       "channel": "History",
       "videoId": "7xiSdTUPHuM",
-      "viewsPerHour": 507,
+      "viewsPerHour": 473,
       "views": 14333,
-      "ageHours": 28.3
+      "ageHours": 30.3
     },
     {
       "title": "Conan & Sona Take A Friendship Compatibility Quiz | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "VoNMyr-Tu7k",
-      "viewsPerHour": 496,
+      "viewsPerHour": 473,
       "views": 20002,
-      "ageHours": 40.3
+      "ageHours": 42.3
+    },
+    {
+      "title": "PBS News Hour live episode, August 19, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "fGKDFSbFJ50",
+      "viewsPerHour": 447,
+      "views": 4219,
+      "ageHours": 9.4
     },
     {
       "title": "The Not-So-Cute Truth About Antarctic Penguins",
       "channel": "NOVA",
       "videoId": "D_rdyJ9HYCc",
-      "viewsPerHour": 251,
+      "viewsPerHour": 234,
       "views": 7034,
-      "ageHours": 28
-    },
-    {
-      "title": "Quilt exhibit showcases artwork of inmate turned criminal justice activist",
-      "channel": "PBS NewsHour",
-      "videoId": "KkuXEU4TYvo",
-      "viewsPerHour": 180,
-      "views": 5273,
-      "ageHours": 29.2
+      "ageHours": 30
     },
     {
       "title": "If the election were tonight we would win': Jolly SPEAKS OUT on facing Donalds in FL Gov. race",
       "channel": "MS NOW",
       "videoId": "0rr1UjgmqE8",
-      "viewsPerHour": 180,
+      "viewsPerHour": 154,
       "views": 2165,
-      "ageHours": 12
+      "ageHours": 14
     },
     {
       "title": "Gillian Anderson Lied About Her Age At \"X-Files\" Audition | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "WVKKjhRDRSA",
-      "viewsPerHour": 164,
+      "viewsPerHour": 142,
       "views": 2174,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "D'Arcy Carden (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "7bUt4xQqBuw",
-      "viewsPerHour": 135,
+      "viewsPerHour": 121,
       "views": 2206,
-      "ageHours": 16.3
-    },
-    {
-      "title": "Soul Survivor: Overcoming Homelessness and Addiction on America's Toughest Street",
-      "channel": "Real Stories",
-      "videoId": "6Dc5eWDyauA",
-      "viewsPerHour": 134,
-      "views": 1645,
-      "ageHours": 12.3
+      "ageHours": 18.3
     },
     {
       "title": "‘How much is a Trump deal worth?’: Trump pauses new tariffs as US and Canada finalize agreement",
       "channel": "MS NOW",
       "videoId": "2Q0hCmCyiyo",
-      "viewsPerHour": 132,
+      "viewsPerHour": 118,
       "views": 2343,
-      "ageHours": 17.8
+      "ageHours": 19.8
+    },
+    {
+      "title": "Soul Survivor: Overcoming Homelessness and Addiction on America's Toughest Street",
+      "channel": "Real Stories",
+      "videoId": "6Dc5eWDyauA",
+      "viewsPerHour": 115,
+      "views": 1645,
+      "ageHours": 14.3
     },
     {
       "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
       "channel": "PBS NewsHour",
       "videoId": "vau_2aDhYxg",
-      "viewsPerHour": 110,
+      "viewsPerHour": 82,
       "views": 623,
-      "ageHours": 5.6
-    },
-    {
-      "title": "WATCH: California AG speaks after opening day of Meta trial",
-      "channel": "PBS NewsHour",
-      "videoId": "KWppdXmS9Us",
-      "viewsPerHour": 99,
-      "views": 2817,
-      "ageHours": 28.3
+      "ageHours": 7.6
     },
     {
       "title": "WATCH: Trans CIA officer on serving under Trump: ‘Wanted my service but didn’t want anyone to know’",
       "channel": "MS NOW",
       "videoId": "T9JjfgejtZg",
-      "viewsPerHour": 90,
+      "viewsPerHour": 77,
       "views": 1063,
-      "ageHours": 11.8
+      "ageHours": 13.8
     },
     {
       "title": "How Freeports Help The Super Rich Evade Tax and Hide Their Wealth Explained",
       "channel": "Real Stories",
       "videoId": "8VZMV2p7NHc",
-      "viewsPerHour": 52,
+      "viewsPerHour": 49,
       "views": 1777,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
       "title": "Andy Richter Stole David Letterman's Ashtray (Until Dave Stole It Back) | The Three Questions",
       "channel": "Conan O'Brien",
       "videoId": "OwRZDvi31qM",
-      "viewsPerHour": 41,
+      "viewsPerHour": 39,
       "views": 1524,
-      "ageHours": 37.3
-    },
-    {
-      "title": "Why states claim Meta designed addictive features for children",
-      "channel": "PBS NewsHour",
-      "videoId": "4LClrPfOy5I",
-      "viewsPerHour": 23,
-      "views": 132,
-      "ageHours": 5.8
+      "ageHours": 39.3
     },
     {
       "title": "WATCH: Trump previews new White House helipad",
       "channel": "PBS NewsHour",
       "videoId": "g7Z6fnHz6ho",
-      "viewsPerHour": 22,
+      "viewsPerHour": 19,
       "views": 266,
-      "ageHours": 11.9
+      "ageHours": 13.9
+    },
+    {
+      "title": "Why states claim Meta designed addictive features for children",
+      "channel": "PBS NewsHour",
+      "videoId": "4LClrPfOy5I",
+      "viewsPerHour": 17,
+      "views": 132,
+      "ageHours": 7.8
     },
     {
       "title": " “A Valhalla of election reform.” Alaska’s ranked choice voting system encourages candidate civility",
       "channel": "MS NOW",
       "videoId": "K3O_85w6o9E",
-      "viewsPerHour": 14,
+      "viewsPerHour": 13,
       "views": 248,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "WATCH LIVE: Trump speaks after hosting cryptocurrency leaders at the White House",
@@ -742,7 +718,7 @@
       "videoId": "t44g0NkIieE",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 13.8
+      "ageHours": 15.8
     }
   ]
 }
