@@ -464,7 +464,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "matches": 9
+      "matches": 8
     },
     {
       "keyword": "Real Stories",
@@ -472,11 +472,11 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "Louis Rossmann",
-      "matches": 10
+      "matches": 9
     },
     {
       "keyword": "The Daily Show",
@@ -512,241 +512,225 @@
       "title": "Financial Crash Expert: He Predicted The 2008 Crash, Now He Says Capitalism Failed, It’s Too Late!",
       "channel": "Diary of a CEO",
       "videoId": "Y43T7VQGtOs",
-      "viewsPerHour": 36588,
-      "views": 266235,
-      "ageHours": 7.3
+      "viewsPerHour": 38772,
+      "views": 360035,
+      "ageHours": 9.3
     },
     {
       "title": "We Investigated Uber Again. It’s Worse Than Last Time.",
       "channel": "More Perfect Union",
       "videoId": "tLIgmEibBL0",
-      "viewsPerHour": 9101,
-      "views": 153236,
-      "ageHours": 16.8
-    },
-    {
-      "title": "PBS News Hour full episode, August 19, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "lze_-nTgYbQ",
-      "viewsPerHour": 4654,
-      "views": 68545,
-      "ageHours": 14.7
+      "viewsPerHour": 9271,
+      "views": 174734,
+      "ageHours": 18.8
     },
     {
       "title": "Hannah Ranks Michael's Bizarre Watches",
       "channel": "The Rest Is Science",
       "videoId": "ujR6PWvQemM",
-      "viewsPerHour": 4495,
-      "views": 68337,
-      "ageHours": 15.2
+      "viewsPerHour": 4404,
+      "views": 75796,
+      "ageHours": 17.2
+    },
+    {
+      "title": "PBS News Hour full episode, August 19, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "lze_-nTgYbQ",
+      "viewsPerHour": 4095,
+      "views": 68545,
+      "ageHours": 16.7
     },
     {
       "title": "WATCH LIVE: Tipping Point — The Colorado River Reimagined | A PBS News Special",
       "channel": "PBS NewsHour",
       "videoId": "i-J-eyPH8ec",
-      "viewsPerHour": 3517,
+      "viewsPerHour": 3034,
       "views": 44433,
-      "ageHours": 12.6
+      "ageHours": 14.6
     },
     {
       "title": "The Presidential Neck Vag: When You Want to Look JUST Like the President | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "r2uCEzgv06w",
-      "viewsPerHour": 2523,
-      "views": 63808,
-      "ageHours": 25.3
-    },
-    {
-      "title": "‘They’ve abandoned us’: Tensions boil over between Trump admin and state election officials",
-      "channel": "MS NOW",
-      "videoId": "fJ0tbtF9Vws",
-      "viewsPerHour": 2010,
-      "views": 17441,
-      "ageHours": 8.7
+      "viewsPerHour": 2463,
+      "views": 67256,
+      "ageHours": 27.3
     },
     {
       "title": "You CANNOT make it up': Nicolle reacts to Trump gushing about GRASS",
       "channel": "MS NOW",
       "videoId": "Cd13FvRS-mo",
-      "viewsPerHour": 1980,
+      "viewsPerHour": 1765,
       "views": 32637,
-      "ageHours": 16.5
+      "ageHours": 18.5
+    },
+    {
+      "title": "‘They’ve abandoned us’: Tensions boil over between Trump admin and state election officials",
+      "channel": "MS NOW",
+      "videoId": "fJ0tbtF9Vws",
+      "viewsPerHour": 1632,
+      "views": 17441,
+      "ageHours": 10.7
     },
     {
       "title": "Trump's transportation secretary releases reality show infomercial",
       "channel": "MS NOW",
       "videoId": "5KN6IdcknZ0",
-      "viewsPerHour": 1848,
+      "viewsPerHour": 1445,
       "views": 13303,
-      "ageHours": 7.2
+      "ageHours": 9.2
     },
     {
       "title": "There's something weird going on': Ex-Trump staffer SPILLS on Natalie Harp's extreme Trump devotion",
       "channel": "MS NOW",
       "videoId": "VfXg6Q1_ziM",
-      "viewsPerHour": 1429,
+      "viewsPerHour": 1277,
       "views": 24151,
-      "ageHours": 16.9
+      "ageHours": 18.9
     },
     {
       "title": "Benn Jordan gets kicked from Hilton hotel during flock event 🤦",
       "channel": "Louis Rossmann",
       "videoId": "5vTqFgtM3Wo",
-      "viewsPerHour": 1359,
+      "viewsPerHour": 1259,
       "views": 34159,
-      "ageHours": 25.1
+      "ageHours": 27.1
     },
     {
       "title": "Evaluation of TOP SECRET Evidence | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "R-PpIxdRa68",
-      "viewsPerHour": 1035,
-      "views": 21004,
-      "ageHours": 20.3
+      "viewsPerHour": 979,
+      "views": 21831,
+      "ageHours": 22.3
     },
     {
       "title": "S10 E9: Bud Light Trans Rights Panic & Cryptocurrencies Update: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "JSzcDcDkmqU",
-      "viewsPerHour": 772,
-      "views": 17214,
-      "ageHours": 22.3
+      "viewsPerHour": 758,
+      "views": 18418,
+      "ageHours": 24.3
     },
     {
       "title": "Floating Orb in Brazilian National Forest | The Proof Is Out There",
       "channel": "History",
       "videoId": "v22F3qo9PfY",
-      "viewsPerHour": 694,
-      "views": 15473,
-      "ageHours": 22.3
+      "viewsPerHour": 659,
+      "views": 16015,
+      "ageHours": 24.3
     },
     {
       "title": " Why data centers are everywhere right now-- and why people hate them",
       "channel": "MS NOW",
       "videoId": "efzqKggiGCc",
-      "viewsPerHour": 669,
+      "viewsPerHour": 541,
       "views": 5709,
-      "ageHours": 8.5
+      "ageHours": 10.5
     },
     {
       "title": "Seeing double at the Twins Days Festival in Ohio",
       "channel": "PBS NewsHour",
       "videoId": "oZvdX2utx-w",
-      "viewsPerHour": 544,
+      "viewsPerHour": 480,
       "views": 8173,
-      "ageHours": 15
-    },
-    {
-      "title": "S10 E8: Mifepristone Ruling & Farmworkers: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "GQwFXp1uYuw",
-      "viewsPerHour": 535,
-      "views": 24760,
-      "ageHours": 46.3
+      "ageHours": 17
     },
     {
       "title": "Night Visions (S1, E2) | The Secret of Skinwalker Ranch | Full Episode",
       "channel": "History",
       "videoId": "7xiSdTUPHuM",
-      "viewsPerHour": 416,
-      "views": 15942,
-      "ageHours": 38.3
+      "viewsPerHour": 401,
+      "views": 16177,
+      "ageHours": 40.3
     },
     {
       "title": "PBS News Hour live episode, August 19, 2026",
       "channel": "PBS NewsHour",
       "videoId": "fGKDFSbFJ50",
-      "viewsPerHour": 242,
+      "viewsPerHour": 217,
       "views": 4219,
-      "ageHours": 17.4
+      "ageHours": 19.4
     },
     {
       "title": "The Not-So-Cute Truth About Antarctic Penguins",
       "channel": "NOVA",
       "videoId": "D_rdyJ9HYCc",
-      "viewsPerHour": 204,
-      "views": 7770,
-      "ageHours": 38
+      "viewsPerHour": 198,
+      "views": 7911,
+      "ageHours": 40
     },
     {
       "title": "Soul Survivor: Overcoming Homelessness and Addiction on America's Toughest Street",
       "channel": "Real Stories",
       "videoId": "6Dc5eWDyauA",
-      "viewsPerHour": 109,
-      "views": 2421,
-      "ageHours": 22.3
+      "viewsPerHour": 104,
+      "views": 2526,
+      "ageHours": 24.3
     },
     {
       "title": "If the election were tonight we would win': Jolly SPEAKS OUT on facing Donalds in FL Gov. race",
       "channel": "MS NOW",
       "videoId": "0rr1UjgmqE8",
-      "viewsPerHour": 98,
+      "viewsPerHour": 90,
       "views": 2165,
-      "ageHours": 22
+      "ageHours": 24
     },
     {
       "title": "Gillian Anderson Lied About Her Age At \"X-Files\" Audition | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "WVKKjhRDRSA",
-      "viewsPerHour": 93,
+      "viewsPerHour": 86,
       "views": 2174,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "D'Arcy Carden (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "7bUt4xQqBuw",
-      "viewsPerHour": 84,
+      "viewsPerHour": 78,
       "views": 2206,
-      "ageHours": 26.3
+      "ageHours": 28.3
     },
     {
       "title": "WATCH: Trans CIA officer on serving under Trump: ‘Wanted my service but didn’t want anyone to know’",
       "channel": "MS NOW",
       "videoId": "T9JjfgejtZg",
-      "viewsPerHour": 49,
+      "viewsPerHour": 45,
       "views": 1063,
-      "ageHours": 21.8
+      "ageHours": 23.8
     },
     {
       "title": "How Freeports Help The Super Rich Evade Tax and Hide Their Wealth Explained",
       "channel": "Real Stories",
       "videoId": "8VZMV2p7NHc",
-      "viewsPerHour": 43,
-      "views": 1884,
-      "ageHours": 44.3
+      "viewsPerHour": 41,
+      "views": 1902,
+      "ageHours": 46.3
     },
     {
       "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
       "channel": "PBS NewsHour",
       "videoId": "vau_2aDhYxg",
-      "viewsPerHour": 40,
+      "viewsPerHour": 35,
       "views": 623,
-      "ageHours": 15.6
-    },
-    {
-      "title": "Andy Richter Stole David Letterman's Ashtray (Until Dave Stole It Back) | The Three Questions",
-      "channel": "Conan O'Brien",
-      "videoId": "OwRZDvi31qM",
-      "viewsPerHour": 32,
-      "views": 1524,
-      "ageHours": 47.3
+      "ageHours": 17.6
     },
     {
       "title": "WATCH: Trump previews new White House helipad",
       "channel": "PBS NewsHour",
       "videoId": "g7Z6fnHz6ho",
-      "viewsPerHour": 12,
+      "viewsPerHour": 11,
       "views": 266,
-      "ageHours": 21.9
+      "ageHours": 23.9
     },
     {
       "title": "Why states claim Meta designed addictive features for children",
       "channel": "PBS NewsHour",
       "videoId": "4LClrPfOy5I",
-      "viewsPerHour": 8,
+      "viewsPerHour": 7,
       "views": 132,
-      "ageHours": 15.8
+      "ageHours": 17.8
     },
     {
       "title": "WATCH LIVE: Trump speaks after hosting cryptocurrency leaders at the White House",
@@ -754,7 +738,7 @@
       "videoId": "t44g0NkIieE",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 23.8
+      "ageHours": 25.8
     }
   ]
 }
