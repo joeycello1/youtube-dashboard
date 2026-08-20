@@ -1,12 +1,20 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
+      "channel": "MS NOW",
+      "count": 7
+    },
+    {
+      "channel": "Diary of a CEO",
       "count": 5
     },
     {
-      "channel": "MS NOW",
-      "count": 6
+      "channel": "PBS NewsHour",
+      "count": 8
+    },
+    {
+      "channel": "The Rest Is Science",
+      "count": 5
     },
     {
       "channel": "More Perfect Union",
@@ -45,14 +53,6 @@
       "count": 9
     },
     {
-      "channel": "Diary of a CEO",
-      "count": 4
-    },
-    {
-      "channel": "The Rest Is Science",
-      "count": 4
-    },
-    {
       "channel": "Inside AI",
       "count": 2
     },
@@ -79,12 +79,24 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "PBS NewsHour",
-      "count": 5
-    },
-    {
       "keyword": "MS NOW",
       "count": 6
+    },
+    {
+      "keyword": "AI",
+      "count": 13
+    },
+    {
+      "keyword": "MS NOW, AI",
+      "count": 1
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 8
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "count": 5
     },
     {
       "keyword": "More Perfect Union",
@@ -117,14 +129,6 @@
     {
       "keyword": "NOVA",
       "count": 28
-    },
-    {
-      "keyword": "AI",
-      "count": 12
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "count": 4
     },
     {
       "keyword": "Louis Rossmann, AI",
@@ -201,8 +205,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-08-20",
+      "videos": 5
+    },
+    {
       "date": "2026-08-19",
-      "videos": 22
+      "videos": 23
     },
     {
       "date": "2026-08-18",
@@ -427,12 +435,24 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
+      "keyword": "MS NOW",
+      "matches": 6
+    },
+    {
+      "keyword": "AI",
       "matches": 5
     },
     {
-      "keyword": "MS NOW",
-      "matches": 6
+      "keyword": "MS NOW, AI",
+      "matches": 1
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 8
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "matches": 2
     },
     {
       "keyword": "More Perfect Union",
@@ -452,7 +472,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 9
+      "matches": 8
     },
     {
       "keyword": "Louis Rossmann",
@@ -465,14 +485,6 @@
     {
       "keyword": "NOVA",
       "matches": 4
-    },
-    {
-      "keyword": "AI",
-      "matches": 4
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "matches": 1
     },
     {
       "keyword": "Louis Rossmann, AI",
@@ -497,220 +509,244 @@
   ],
   "mostViral48h": [
     {
+      "title": "Financial Crash Expert: He Predicted The 2008 Crash, Now He Says Capitalism Failed, It’s Too Late!",
+      "channel": "Diary of a CEO",
+      "videoId": "Y43T7VQGtOs",
+      "viewsPerHour": 31509,
+      "views": 166805,
+      "ageHours": 5.3
+    },
+    {
       "title": "We Investigated Uber Again. It’s Worse Than Last Time.",
       "channel": "More Perfect Union",
       "videoId": "tLIgmEibBL0",
-      "viewsPerHour": 10388,
-      "views": 133400,
-      "ageHours": 12.8
+      "viewsPerHour": 9515,
+      "views": 141345,
+      "ageHours": 14.9
+    },
+    {
+      "title": "PBS News Hour full episode, August 19, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "lze_-nTgYbQ",
+      "viewsPerHour": 5378,
+      "views": 68545,
+      "ageHours": 12.7
+    },
+    {
+      "title": "Hannah Ranks Michael's Bizarre Watches",
+      "channel": "The Rest Is Science",
+      "videoId": "ujR6PWvQemM",
+      "viewsPerHour": 4560,
+      "views": 60280,
+      "ageHours": 13.2
+    },
+    {
+      "title": "WATCH LIVE: Tipping Point — The Colorado River Reimagined | A PBS News Special",
+      "channel": "PBS NewsHour",
+      "videoId": "i-J-eyPH8ec",
+      "viewsPerHour": 4171,
+      "views": 44433,
+      "ageHours": 10.7
+    },
+    {
+      "title": "‘They’ve abandoned us’: Tensions boil over between Trump admin and state election officials",
+      "channel": "MS NOW",
+      "videoId": "fJ0tbtF9Vws",
+      "viewsPerHour": 2605,
+      "views": 17441,
+      "ageHours": 6.7
     },
     {
       "title": "The Presidential Neck Vag: When You Want to Look JUST Like the President | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "r2uCEzgv06w",
-      "viewsPerHour": 2745,
-      "views": 58468,
-      "ageHours": 21.3
+      "viewsPerHour": 2597,
+      "views": 60530,
+      "ageHours": 23.3
+    },
+    {
+      "title": "Trump's transportation secretary releases reality show infomercial",
+      "channel": "MS NOW",
+      "videoId": "5KN6IdcknZ0",
+      "viewsPerHour": 2551,
+      "views": 13303,
+      "ageHours": 5.2
     },
     {
       "title": "You CANNOT make it up': Nicolle reacts to Trump gushing about GRASS",
       "channel": "MS NOW",
       "videoId": "Cd13FvRS-mo",
-      "viewsPerHour": 2613,
+      "viewsPerHour": 2250,
       "views": 32637,
-      "ageHours": 12.5
+      "ageHours": 14.5
     },
     {
       "title": "There's something weird going on': Ex-Trump staffer SPILLS on Natalie Harp's extreme Trump devotion",
       "channel": "MS NOW",
       "videoId": "VfXg6Q1_ziM",
-      "viewsPerHour": 1872,
+      "viewsPerHour": 1619,
       "views": 24151,
-      "ageHours": 12.9
-    },
-    {
-      "title": "95% Of Your Life Runs On A Program You Never Chose - Here’s How to Change it | Dr. Bruce Lipton",
-      "channel": "Mayim Bialik",
-      "videoId": "ThUi_cMi-wU",
-      "viewsPerHour": 1778,
-      "views": 84095,
-      "ageHours": 47.3
+      "ageHours": 14.9
     },
     {
       "title": "Benn Jordan gets kicked from Hilton hotel during flock event 🤦",
       "channel": "Louis Rossmann",
       "videoId": "5vTqFgtM3Wo",
-      "viewsPerHour": 1616,
+      "viewsPerHour": 1476,
       "views": 34159,
-      "ageHours": 21.1
+      "ageHours": 23.1
     },
     {
       "title": "Evaluation of TOP SECRET Evidence | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "R-PpIxdRa68",
-      "viewsPerHour": 1188,
-      "views": 19365,
-      "ageHours": 16.3
+      "viewsPerHour": 1100,
+      "views": 20137,
+      "ageHours": 18.3
+    },
+    {
+      "title": " Why data centers are everywhere right now-- and why people hate them",
+      "channel": "MS NOW",
+      "videoId": "efzqKggiGCc",
+      "viewsPerHour": 871,
+      "views": 5709,
+      "ageHours": 6.6
     },
     {
       "title": "S10 E9: Bud Light Trans Rights Panic & Cryptocurrencies Update: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "JSzcDcDkmqU",
-      "viewsPerHour": 791,
-      "views": 14463,
-      "ageHours": 18.3
+      "viewsPerHour": 775,
+      "views": 15727,
+      "ageHours": 20.3
     },
     {
       "title": "Floating Orb in Brazilian National Forest | The Proof Is Out There",
       "channel": "History",
       "videoId": "v22F3qo9PfY",
-      "viewsPerHour": 785,
-      "views": 14367,
-      "ageHours": 18.3
+      "viewsPerHour": 735,
+      "views": 14923,
+      "ageHours": 20.3
     },
     {
-      "title": "lemon gets cease & desist from company selling subscriptions to car manuals ",
-      "channel": "Louis Rossmann",
-      "videoId": "Awe6o9TemlQ",
-      "viewsPerHour": 629,
-      "views": 29167,
-      "ageHours": 46.3
+      "title": "Seeing double at the Twins Days Festival in Ohio",
+      "channel": "PBS NewsHour",
+      "videoId": "oZvdX2utx-w",
+      "viewsPerHour": 627,
+      "views": 8173,
+      "ageHours": 13
     },
     {
       "title": "S10 E8: Mifepristone Ruling & Farmworkers: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "GQwFXp1uYuw",
-      "viewsPerHour": 563,
-      "views": 23819,
-      "ageHours": 42.3
+      "viewsPerHour": 547,
+      "views": 24232,
+      "ageHours": 44.3
     },
     {
       "title": "Night Visions (S1, E2) | The Secret of Skinwalker Ranch | Full Episode",
       "channel": "History",
       "videoId": "7xiSdTUPHuM",
-      "viewsPerHour": 457,
-      "views": 15686,
-      "ageHours": 34.3
-    },
-    {
-      "title": "Conan & Sona Take A Friendship Compatibility Quiz | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "VoNMyr-Tu7k",
-      "viewsPerHour": 432,
-      "views": 20002,
-      "ageHours": 46.3
+      "viewsPerHour": 435,
+      "views": 15808,
+      "ageHours": 36.3
     },
     {
       "title": "PBS News Hour live episode, August 19, 2026",
       "channel": "PBS NewsHour",
       "videoId": "fGKDFSbFJ50",
-      "viewsPerHour": 314,
+      "viewsPerHour": 273,
       "views": 4219,
-      "ageHours": 13.4
+      "ageHours": 15.5
     },
     {
       "title": "The Not-So-Cute Truth About Antarctic Penguins",
       "channel": "NOVA",
       "videoId": "D_rdyJ9HYCc",
-      "viewsPerHour": 225,
-      "views": 7642,
-      "ageHours": 34
+      "viewsPerHour": 213,
+      "views": 7691,
+      "ageHours": 36
     },
     {
       "title": "Soul Survivor: Overcoming Homelessness and Addiction on America's Toughest Street",
       "channel": "Real Stories",
       "videoId": "6Dc5eWDyauA",
-      "viewsPerHour": 122,
-      "views": 2234,
-      "ageHours": 18.3
+      "viewsPerHour": 115,
+      "views": 2341,
+      "ageHours": 20.3
     },
     {
       "title": "If the election were tonight we would win': Jolly SPEAKS OUT on facing Donalds in FL Gov. race",
       "channel": "MS NOW",
       "videoId": "0rr1UjgmqE8",
-      "viewsPerHour": 120,
+      "viewsPerHour": 108,
       "views": 2165,
-      "ageHours": 18
+      "ageHours": 20
     },
     {
       "title": "Gillian Anderson Lied About Her Age At \"X-Files\" Audition | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "WVKKjhRDRSA",
-      "viewsPerHour": 113,
+      "viewsPerHour": 102,
       "views": 2174,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "D'Arcy Carden (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "7bUt4xQqBuw",
-      "viewsPerHour": 99,
+      "viewsPerHour": 91,
       "views": 2206,
-      "ageHours": 22.3
-    },
-    {
-      "title": "‘How much is a Trump deal worth?’: Trump pauses new tariffs as US and Canada finalize agreement",
-      "channel": "MS NOW",
-      "videoId": "2Q0hCmCyiyo",
-      "viewsPerHour": 98,
-      "views": 2343,
-      "ageHours": 23.8
+      "ageHours": 24.3
     },
     {
       "title": "WATCH: Trans CIA officer on serving under Trump: ‘Wanted my service but didn’t want anyone to know’",
       "channel": "MS NOW",
       "videoId": "T9JjfgejtZg",
-      "viewsPerHour": 60,
+      "viewsPerHour": 54,
       "views": 1063,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
       "channel": "PBS NewsHour",
       "videoId": "vau_2aDhYxg",
-      "viewsPerHour": 54,
+      "viewsPerHour": 46,
       "views": 623,
-      "ageHours": 11.6
+      "ageHours": 13.7
     },
     {
       "title": "How Freeports Help The Super Rich Evade Tax and Hide Their Wealth Explained",
       "channel": "Real Stories",
       "videoId": "8VZMV2p7NHc",
-      "viewsPerHour": 46,
-      "views": 1865,
-      "ageHours": 40.3
+      "viewsPerHour": 44,
+      "views": 1873,
+      "ageHours": 42.3
     },
     {
       "title": "Andy Richter Stole David Letterman's Ashtray (Until Dave Stole It Back) | The Three Questions",
       "channel": "Conan O'Brien",
       "videoId": "OwRZDvi31qM",
-      "viewsPerHour": 35,
+      "viewsPerHour": 34,
       "views": 1524,
-      "ageHours": 43.3
+      "ageHours": 45.3
     },
     {
       "title": "WATCH: Trump previews new White House helipad",
       "channel": "PBS NewsHour",
       "videoId": "g7Z6fnHz6ho",
-      "viewsPerHour": 15,
+      "viewsPerHour": 13,
       "views": 266,
-      "ageHours": 17.9
+      "ageHours": 19.9
     },
     {
       "title": "Why states claim Meta designed addictive features for children",
       "channel": "PBS NewsHour",
       "videoId": "4LClrPfOy5I",
-      "viewsPerHour": 11,
-      "views": 132,
-      "ageHours": 11.8
-    },
-    {
-      "title": " “A Valhalla of election reform.” Alaska’s ranked choice voting system encourages candidate civility",
-      "channel": "MS NOW",
-      "videoId": "K3O_85w6o9E",
       "viewsPerHour": 10,
-      "views": 248,
-      "ageHours": 23.8
+      "views": 132,
+      "ageHours": 13.8
     },
     {
       "title": "WATCH LIVE: Trump speaks after hosting cryptocurrency leaders at the White House",
@@ -718,7 +754,7 @@
       "videoId": "t44g0NkIieE",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 19.8
+      "ageHours": 21.8
     }
   ]
 }
