@@ -2,31 +2,43 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 4
+      "count": 5
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 7
+      "channel": "More Perfect Union",
+      "count": 18
     },
     {
-      "channel": "NOVA",
-      "count": 14
+      "channel": "Area 52",
+      "count": 5
     },
     {
       "channel": "Last Week Tonight",
       "count": 19
     },
     {
-      "channel": "The Daily Show",
-      "count": 3
+      "channel": "PBS NewsHour",
+      "count": 6
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 22
     },
     {
       "channel": "Conan O'Brien",
       "count": 13
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 21
+      "channel": "Nat Geo",
+      "count": 3
+    },
+    {
+      "channel": "NOVA",
+      "count": 14
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 3
     },
     {
       "channel": "Diary of a CEO",
@@ -35,10 +47,6 @@
     {
       "channel": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "channel": "More Perfect Union",
-      "count": 17
     },
     {
       "channel": "History",
@@ -65,42 +73,50 @@
       "count": 7
     },
     {
-      "channel": "Area 52",
-      "count": 4
-    },
-    {
       "channel": "Jonathan Pie",
       "count": 6
-    },
-    {
-      "channel": "Nat Geo",
-      "count": 2
     }
   ],
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 4
+      "count": 5
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 7
+      "keyword": "More Perfect Union",
+      "count": 16
     },
     {
-      "keyword": "NOVA",
-      "count": 29
+      "keyword": "FOIA, UFO",
+      "count": 1
     },
     {
       "keyword": "Last Week Tonight",
       "count": 18
     },
     {
-      "keyword": "The Daily Show",
+      "keyword": "PBS NewsHour",
+      "count": 6
+    },
+    {
+      "keyword": "Louis Rossmann, AI",
       "count": 3
     },
     {
       "keyword": "Conan O'Brien",
       "count": 13
+    },
+    {
+      "keyword": "UFO",
+      "count": 29
+    },
+    {
+      "keyword": "NOVA",
+      "count": 29
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 3
     },
     {
       "keyword": "Louis Rossmann",
@@ -119,20 +135,8 @@
       "count": 4
     },
     {
-      "keyword": "More Perfect Union",
-      "count": 15
-    },
-    {
-      "keyword": "UFO",
-      "count": 28
-    },
-    {
       "keyword": "Real Stories",
       "count": 25
-    },
-    {
-      "keyword": "Louis Rossmann, AI",
-      "count": 2
     },
     {
       "keyword": "Giza",
@@ -206,11 +210,11 @@
   "dailySummary": [
     {
       "date": "2026-08-21",
-      "videos": 1
+      "videos": 10
     },
     {
       "date": "2026-08-20",
-      "videos": 17
+      "videos": 15
     },
     {
       "date": "2026-08-19",
@@ -246,7 +250,7 @@
     },
     {
       "date": "2026-08-11",
-      "videos": 9
+      "videos": 7
     },
     {
       "date": "2026-08-10",
@@ -266,7 +270,7 @@
     },
     {
       "date": "2026-08-06",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-08-05",
@@ -436,27 +440,43 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 4
+      "matches": 5
+    },
+    {
+      "keyword": "More Perfect Union",
+      "matches": 2
+    },
+    {
+      "keyword": "FOIA, UFO",
+      "matches": 1
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 9
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 7
+      "matches": 6
+    },
+    {
+      "keyword": "Louis Rossmann, AI",
+      "matches": 2
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
+    },
+    {
+      "keyword": "UFO",
+      "matches": 6
     },
     {
       "keyword": "NOVA",
       "matches": 4
     },
     {
-      "keyword": "Last Week Tonight",
-      "matches": 8
-    },
-    {
       "keyword": "The Daily Show",
       "matches": 3
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 6
     },
     {
       "keyword": "Louis Rossmann",
@@ -475,20 +495,8 @@
       "matches": 2
     },
     {
-      "keyword": "More Perfect Union",
-      "matches": 1
-    },
-    {
-      "keyword": "UFO",
-      "matches": 5
-    },
-    {
       "keyword": "Real Stories",
       "matches": 4
-    },
-    {
-      "keyword": "Louis Rossmann, AI",
-      "matches": 1
     },
     {
       "keyword": "Giza",
@@ -508,161 +516,209 @@
       "title": "Financial Crash Expert: He Predicted The 2008 Crash, Now He Says Capitalism Failed, It’s Too Late!",
       "channel": "Diary of a CEO",
       "videoId": "Y43T7VQGtOs",
-      "viewsPerHour": 27641,
-      "views": 920477,
-      "ageHours": 33.3
+      "viewsPerHour": 26967,
+      "views": 951421,
+      "ageHours": 35.3
     },
     {
       "title": "We Investigated Uber Again. It’s Worse Than Last Time.",
       "channel": "More Perfect Union",
       "videoId": "tLIgmEibBL0",
-      "viewsPerHour": 8537,
-      "views": 365906,
-      "ageHours": 42.9
+      "viewsPerHour": 8608,
+      "views": 386010,
+      "ageHours": 44.8
+    },
+    {
+      "title": "Counterintelligence Agent Shares WILD Alien Encounters - Richard Doty | ep. 100",
+      "channel": "Area 52",
+      "videoId": "T-3CmY_ztwo",
+      "viewsPerHour": 7392,
+      "views": 16896,
+      "ageHours": 2.3
+    },
+    {
+      "title": "Could There Be No Baseball Games Next Year? These Owners Are Betting On It.",
+      "channel": "More Perfect Union",
+      "videoId": "OHvE6vlrwDc",
+      "viewsPerHour": 3470,
+      "views": 6781,
+      "ageHours": 2
     },
     {
       "title": "PBS News Hour full episode, August 20, 2026",
       "channel": "PBS NewsHour",
       "videoId": "3zd-xMPNhSc",
-      "viewsPerHour": 3507,
+      "viewsPerHour": 3132,
       "views": 58045,
-      "ageHours": 16.6
+      "ageHours": 18.5
     },
     {
       "title": "Hannah Ranks Michael's Bizarre Watches",
       "channel": "The Rest Is Science",
       "videoId": "ujR6PWvQemM",
-      "viewsPerHour": 3003,
-      "views": 123786,
-      "ageHours": 41.2
+      "viewsPerHour": 2928,
+      "views": 126484,
+      "ageHours": 43.2
+    },
+    {
+      "title": "Conan Catches Bley In A \"Nerd Sting Operation\" | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "XdRscSr2KYU",
+      "viewsPerHour": 2244,
+      "views": 7379,
+      "ageHours": 3.3
+    },
+    {
+      "title": "Therapist responds to question about AI tool by being a tool",
+      "channel": "Louis Rossmann",
+      "videoId": "45yTNYuBDUs",
+      "viewsPerHour": 2225,
+      "views": 7296,
+      "ageHours": 3.3
+    },
+    {
+      "title": "What was she hiding?': Ex-WH official reacts to Harp refusing to get security clearance for a year",
+      "channel": "MS NOW",
+      "videoId": "nAZUpUi8tag",
+      "viewsPerHour": 1918,
+      "views": 3341,
+      "ageHours": 1.7
     },
     {
       "title": "TDS Celebrates 250 Years with a Look at America's Greatest Innovations | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "l0FUqUXXWDI",
-      "viewsPerHour": 1916,
-      "views": 52335,
-      "ageHours": 27.3
+      "viewsPerHour": 1851,
+      "views": 54236,
+      "ageHours": 29.3
     },
     {
       "title": "Conan & His Wife Liza Recount Their First Date | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ijo4fQkGmkI",
-      "viewsPerHour": 1726,
+      "viewsPerHour": 1613,
       "views": 48873,
-      "ageHours": 28.3
+      "ageHours": 30.3
     },
     {
-      "title": "Psaki: Trump administration's 'adult babysitters' are not normal",
-      "channel": "MS NOW",
-      "videoId": "gWI0k9tOBOY",
-      "viewsPerHour": 1324,
-      "views": 7947,
-      "ageHours": 6
+      "title": "Real Alien Encounters & UFO Sightings (Full Episode) | UFOs: Investigating the Unknown | Nat Geo",
+      "channel": "Nat Geo",
+      "videoId": "_XzKxf0d908",
+      "viewsPerHour": 1432,
+      "views": 7572,
+      "ageHours": 5.3
     },
     {
       "title": "Bring your spouse to work day': Officials ALARMED by Hegseth's wife attending HIGH LEVEL meetings",
       "channel": "MS NOW",
       "videoId": "0SGGnxO1cWI",
-      "viewsPerHour": 1211,
+      "viewsPerHour": 1093,
       "views": 22080,
-      "ageHours": 18.2
+      "ageHours": 20.2
     },
     {
       "title": "Samsung evades SSD warranty in Canada. Solution: SUE THEM & WIN!!!",
       "channel": "Louis Rossmann",
       "videoId": "mpTTX1JC47A",
-      "viewsPerHour": 1078,
+      "viewsPerHour": 1010,
       "views": 31445,
-      "ageHours": 29.2
+      "ageHours": 31.1
+    },
+    {
+      "title": "Psaki: Trump administration's 'adult babysitters' are not normal",
+      "channel": "MS NOW",
+      "videoId": "gWI0k9tOBOY",
+      "viewsPerHour": 996,
+      "views": 7947,
+      "ageHours": 8
     },
     {
       "title": "S10 E10: King Charles' Coronation Quiche, Biden & The Border: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "ciCIrZHUgL4",
-      "viewsPerHour": 746,
-      "views": 18128,
-      "ageHours": 24.3
+      "viewsPerHour": 723,
+      "views": 19015,
+      "ageHours": 26.3
+    },
+    {
+      "title": "S10 E11: Return from WGA Strike & Prison Healthcare: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "wB9bkcHwq4w",
+      "viewsPerHour": 678,
+      "views": 1553,
+      "ageHours": 2.3
     },
     {
       "title": "Hide behind a telephone': GOP officials FREAK OUT over backlash to Trump, cancel in-person events",
       "channel": "MS NOW",
       "videoId": "4gER8nGTTsI",
-      "viewsPerHour": 616,
+      "viewsPerHour": 555,
       "views": 11147,
-      "ageHours": 18.1
+      "ageHours": 20.1
     },
     {
-      "title": "Evaluation of TOP SECRET Evidence | The Secret of Skinwalker Ranch",
-      "channel": "History",
-      "videoId": "R-PpIxdRa68",
-      "viewsPerHour": 605,
-      "views": 28027,
-      "ageHours": 46.3
-    },
-    {
-      "title": "Why primary polls appear to be so inaccurate this year",
-      "channel": "PBS NewsHour",
-      "videoId": "1jMGO22D1zw",
-      "viewsPerHour": 389,
-      "views": 6685,
-      "ageHours": 17.2
+      "title": "The Greatest One Man Army Isn't a Man | Bley's Arcade",
+      "channel": "Conan O'Brien",
+      "videoId": "7eWgSMDfmtE",
+      "viewsPerHour": 374,
+      "views": 2356,
+      "ageHours": 6.3
     },
     {
       "title": "BREAKING POINT? USS Lincoln returns home as PANIC grows over state of U.S. Navy",
       "channel": "MS NOW",
       "videoId": "8jwuyVwO7LE",
-      "viewsPerHour": 388,
+      "viewsPerHour": 349,
       "views": 6909,
-      "ageHours": 17.8
+      "ageHours": 19.8
+    },
+    {
+      "title": "Why primary polls appear to be so inaccurate this year",
+      "channel": "PBS NewsHour",
+      "videoId": "1jMGO22D1zw",
+      "viewsPerHour": 349,
+      "views": 6685,
+      "ageHours": 19.2
     },
     {
       "title": "Cats Accidentally Solved a Physics Mystery | What the Physics?!",
       "channel": "NOVA",
       "videoId": "uZ3vZmR69uY",
-      "viewsPerHour": 349,
-      "views": 6888,
-      "ageHours": 19.7
+      "viewsPerHour": 330,
+      "views": 7177,
+      "ageHours": 21.7
     },
     {
       "title": "PBS News Hour live episode, August 20, 2026",
       "channel": "PBS NewsHour",
       "videoId": "tdvVjLGqJ10",
-      "viewsPerHour": 217,
+      "viewsPerHour": 197,
       "views": 4220,
-      "ageHours": 19.4
+      "ageHours": 21.4
     },
     {
       "title": "Right to race' laws aim to protect racetracks from noise complaints",
       "channel": "PBS NewsHour",
       "videoId": "Dyk9lEXQv8M",
-      "viewsPerHour": 191,
+      "viewsPerHour": 172,
       "views": 3255,
-      "ageHours": 17
+      "ageHours": 19
+    },
+    {
+      "title": "WATCH LIVE: Vance delivers remarks on economic agenda at Ohio manufacturing plant",
+      "channel": "PBS NewsHour",
+      "videoId": "NJEsPgQwyAY",
+      "viewsPerHour": 152,
+      "views": 424,
+      "ageHours": 2.8
     },
     {
       "title": "WATCH LIVE: 'Balance of Power: Redistricting, Courts, and the Right to Vote' - 2026 Hutchins Forum",
       "channel": "PBS NewsHour",
       "videoId": "yIhqVZOULXY",
-      "viewsPerHour": 55,
+      "viewsPerHour": 50,
       "views": 1077,
-      "ageHours": 19.5
-    },
-    {
-      "title": "WATCH LIVE: President Trump and first lady make announcement on Fostering the Future initiative",
-      "channel": "PBS NewsHour",
-      "videoId": "gYuZEo4rZz8",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 24.3
-    },
-    {
-      "title": "WATCH LIVE: INDYCAR hosts Freedom 250 Grand Prix news conference ahead of Washington race",
-      "channel": "PBS NewsHour",
-      "videoId": "8K1SQ8qZGu8",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 24.4
+      "ageHours": 21.5
     },
     {
       "title": "FULU own your shit tour in Raleigh, NC w/ guest star @GamersNexus",
@@ -670,7 +726,7 @@
       "videoId": "u1NSbRkIIK0",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 29
+      "ageHours": 30.9
     }
   ]
 }
