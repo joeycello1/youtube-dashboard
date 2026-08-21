@@ -1,12 +1,20 @@
 {
   "videosPerChannel": [
     {
-      "channel": "Last Week Tonight",
-      "count": 19
+      "channel": "MS NOW",
+      "count": 6
     },
     {
       "channel": "PBS NewsHour",
-      "count": 8
+      "count": 7
+    },
+    {
+      "channel": "NOVA",
+      "count": 14
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 19
     },
     {
       "channel": "The Daily Show",
@@ -19,10 +27,6 @@
     {
       "channel": "Louis Rossmann",
       "count": 22
-    },
-    {
-      "channel": "MS NOW",
-      "count": 5
     },
     {
       "channel": "Diary of a CEO",
@@ -42,11 +46,7 @@
     },
     {
       "channel": "Real Stories",
-      "count": 39
-    },
-    {
-      "channel": "NOVA",
-      "count": 13
+      "count": 38
     },
     {
       "channel": "Mayim Bialik",
@@ -79,12 +79,20 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "Last Week Tonight",
-      "count": 18
+      "keyword": "MS NOW",
+      "count": 5
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 8
+      "count": 7
+    },
+    {
+      "keyword": "NOVA",
+      "count": 29
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 18
     },
     {
       "keyword": "The Daily Show",
@@ -101,10 +109,6 @@
     {
       "keyword": "Louis Rossmann, Samsung",
       "count": 1
-    },
-    {
-      "keyword": "MS NOW",
-      "count": 4
     },
     {
       "keyword": "AI",
@@ -129,10 +133,6 @@
     {
       "keyword": "Real Stories",
       "count": 25
-    },
-    {
-      "keyword": "NOVA",
-      "count": 28
     },
     {
       "keyword": "Louis Rossmann, AI",
@@ -168,7 +168,7 @@
     },
     {
       "keyword": "Real Stories, Louis Theroux",
-      "count": 14
+      "count": 13
     },
     {
       "keyword": "UFO, UAP",
@@ -210,11 +210,11 @@
   "dailySummary": [
     {
       "date": "2026-08-20",
-      "videos": 12
+      "videos": 18
     },
     {
       "date": "2026-08-19",
-      "videos": 19
+      "videos": 14
     },
     {
       "date": "2026-08-18",
@@ -429,22 +429,26 @@
       "videos": 3
     },
     {
-      "date": "2026-06-21",
-      "videos": 1
-    },
-    {
       "date": "2026-06-14",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "Last Week Tonight",
-      "matches": 9
+      "keyword": "MS NOW",
+      "matches": 5
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 8
+      "matches": 7
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 5
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 9
     },
     {
       "keyword": "The Daily Show",
@@ -461,10 +465,6 @@
     {
       "keyword": "Louis Rossmann, Samsung",
       "matches": 1
-    },
-    {
-      "keyword": "MS NOW",
-      "matches": 4
     },
     {
       "keyword": "AI",
@@ -488,10 +488,6 @@
     },
     {
       "keyword": "Real Stories",
-      "matches": 4
-    },
-    {
-      "keyword": "NOVA",
       "matches": 4
     },
     {
@@ -520,225 +516,217 @@
       "title": "Financial Crash Expert: He Predicted The 2008 Crash, Now He Says Capitalism Failed, It’s Too Late!",
       "channel": "Diary of a CEO",
       "videoId": "Y43T7VQGtOs",
-      "viewsPerHour": 39049,
-      "views": 596587,
-      "ageHours": 15.3
+      "viewsPerHour": 37614,
+      "views": 650176,
+      "ageHours": 17.3
+    },
+    {
+      "title": "Bring your spouse to work day': Officials ALARMED by Hegseth's wife attending HIGH LEVEL meetings",
+      "channel": "MS NOW",
+      "videoId": "0SGGnxO1cWI",
+      "viewsPerHour": 9991,
+      "views": 22080,
+      "ageHours": 2.2
     },
     {
       "title": "We Investigated Uber Again. It’s Worse Than Last Time.",
       "channel": "More Perfect Union",
       "videoId": "tLIgmEibBL0",
-      "viewsPerHour": 9469,
-      "views": 235204,
-      "ageHours": 24.8
+      "viewsPerHour": 9463,
+      "views": 254046,
+      "ageHours": 26.8
     },
     {
-      "title": "Conan & His Wife Liza Recount Their First Date | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "ijo4fQkGmkI",
-      "viewsPerHour": 4750,
-      "views": 48873,
-      "ageHours": 10.3
+      "title": "Hide behind a telephone': GOP officials FREAK OUT over backlash to Trump, cancel in-person events",
+      "channel": "MS NOW",
+      "videoId": "4gER8nGTTsI",
+      "viewsPerHour": 5367,
+      "views": 11147,
+      "ageHours": 2.1
     },
     {
       "title": "Hannah Ranks Michael's Bizarre Watches",
       "channel": "The Rest Is Science",
       "videoId": "ujR6PWvQemM",
-      "viewsPerHour": 4089,
-      "views": 94879,
-      "ageHours": 23.2
+      "viewsPerHour": 4008,
+      "views": 101034,
+      "ageHours": 25.2
+    },
+    {
+      "title": "Conan & His Wife Liza Recount Their First Date | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "ijo4fQkGmkI",
+      "viewsPerHour": 3975,
+      "views": 48873,
+      "ageHours": 12.3
+    },
+    {
+      "title": "BREAKING POINT? USS Lincoln returns home as PANIC grows over state of U.S. Navy",
+      "channel": "MS NOW",
+      "videoId": "8jwuyVwO7LE",
+      "viewsPerHour": 3883,
+      "views": 6909,
+      "ageHours": 1.8
     },
     {
       "title": "PBS News Hour full episode, August 19, 2026",
       "channel": "PBS NewsHour",
       "videoId": "lze_-nTgYbQ",
-      "viewsPerHour": 3016,
+      "viewsPerHour": 2771,
       "views": 68545,
-      "ageHours": 22.7
-    },
-    {
-      "title": "Samsung evades SSD warranty in Canada. Solution: SUE THEM & WIN!!!",
-      "channel": "Louis Rossmann",
-      "videoId": "mpTTX1JC47A",
-      "viewsPerHour": 2822,
-      "views": 31445,
-      "ageHours": 11.1
+      "ageHours": 24.7
     },
     {
       "title": "TDS Celebrates 250 Years with a Look at America's Greatest Innovations | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "l0FUqUXXWDI",
-      "viewsPerHour": 2604,
-      "views": 24204,
-      "ageHours": 9.3
+      "viewsPerHour": 2498,
+      "views": 28234,
+      "ageHours": 11.3
+    },
+    {
+      "title": "Samsung evades SSD warranty in Canada. Solution: SUE THEM & WIN!!!",
+      "channel": "Louis Rossmann",
+      "videoId": "mpTTX1JC47A",
+      "viewsPerHour": 2392,
+      "views": 31445,
+      "ageHours": 13.1
     },
     {
       "title": "The Presidential Neck Vag: When You Want to Look JUST Like the President | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "r2uCEzgv06w",
-      "viewsPerHour": 2234,
-      "views": 74375,
-      "ageHours": 33.3
+      "viewsPerHour": 2187,
+      "views": 77205,
+      "ageHours": 35.3
     },
     {
       "title": "WATCH LIVE: Tipping Point — The Colorado River Reimagined | A PBS News Special",
       "channel": "PBS NewsHour",
       "videoId": "i-J-eyPH8ec",
-      "viewsPerHour": 2153,
+      "viewsPerHour": 1962,
       "views": 44433,
-      "ageHours": 20.6
+      "ageHours": 22.6
     },
     {
-      "title": "You CANNOT make it up': Nicolle reacts to Trump gushing about GRASS",
-      "channel": "MS NOW",
-      "videoId": "Cd13FvRS-mo",
-      "viewsPerHour": 1333,
-      "views": 32637,
-      "ageHours": 24.5
-    },
-    {
-      "title": "‘They’ve abandoned us’: Tensions boil over between Trump admin and state election officials",
-      "channel": "MS NOW",
-      "videoId": "fJ0tbtF9Vws",
-      "viewsPerHour": 1046,
-      "views": 17441,
-      "ageHours": 16.7
-    },
-    {
-      "title": "Benn Jordan gets kicked from Hilton hotel during flock event 🤦",
-      "channel": "Louis Rossmann",
-      "videoId": "5vTqFgtM3Wo",
-      "viewsPerHour": 1031,
-      "views": 34159,
-      "ageHours": 33.1
+      "title": "PBS News Hour live episode, August 20, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "tdvVjLGqJ10",
+      "viewsPerHour": 1231,
+      "views": 4220,
+      "ageHours": 3.4
     },
     {
       "title": "S10 E10: King Charles' Coronation Quiche, Biden & The Border: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "ciCIrZHUgL4",
-      "viewsPerHour": 980,
-      "views": 6164,
-      "ageHours": 6.3
+      "viewsPerHour": 1026,
+      "views": 8513,
+      "ageHours": 8.3
     },
     {
-      "title": "There's something weird going on': Ex-Trump staffer SPILLS on Natalie Harp's extreme Trump devotion",
-      "channel": "MS NOW",
-      "videoId": "VfXg6Q1_ziM",
-      "viewsPerHour": 970,
-      "views": 24151,
-      "ageHours": 24.9
+      "title": "Benn Jordan gets kicked from Hilton hotel during flock event 🤦",
+      "channel": "Louis Rossmann",
+      "videoId": "5vTqFgtM3Wo",
+      "viewsPerHour": 972,
+      "views": 34159,
+      "ageHours": 35.1
     },
     {
-      "title": "Trump's transportation secretary releases reality show infomercial",
+      "title": "‘They’ve abandoned us’: Tensions boil over between Trump admin and state election officials",
       "channel": "MS NOW",
-      "videoId": "5KN6IdcknZ0",
-      "viewsPerHour": 875,
-      "views": 13303,
-      "ageHours": 15.2
+      "videoId": "fJ0tbtF9Vws",
+      "viewsPerHour": 933,
+      "views": 17441,
+      "ageHours": 18.7
     },
     {
       "title": "Evaluation of TOP SECRET Evidence | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "R-PpIxdRa68",
-      "viewsPerHour": 849,
-      "views": 24032,
-      "ageHours": 28.3
+      "viewsPerHour": 814,
+      "views": 24662,
+      "ageHours": 30.3
+    },
+    {
+      "title": "Trump's transportation secretary releases reality show infomercial",
+      "channel": "MS NOW",
+      "videoId": "5KN6IdcknZ0",
+      "viewsPerHour": 773,
+      "views": 13303,
+      "ageHours": 17.2
     },
     {
       "title": "S10 E9: Bud Light Trans Rights Panic & Cryptocurrencies Update: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "JSzcDcDkmqU",
-      "viewsPerHour": 677,
-      "views": 20515,
-      "ageHours": 30.3
+      "viewsPerHour": 645,
+      "views": 20833,
+      "ageHours": 32.3
     },
     {
       "title": "Floating Orb in Brazilian National Forest | The Proof Is Out There",
       "channel": "History",
       "videoId": "v22F3qo9PfY",
-      "viewsPerHour": 584,
-      "views": 17675,
-      "ageHours": 30.3
+      "viewsPerHour": 565,
+      "views": 18253,
+      "ageHours": 32.3
     },
     {
-      "title": "Night Visions (S1, E2) | The Secret of Skinwalker Ranch | Full Episode",
-      "channel": "History",
-      "videoId": "7xiSdTUPHuM",
-      "viewsPerHour": 380,
-      "views": 17611,
-      "ageHours": 46.3
+      "title": "Cats Accidentally Solved a Physics Mystery | What the Physics?!",
+      "channel": "NOVA",
+      "videoId": "uZ3vZmR69uY",
+      "viewsPerHour": 383,
+      "views": 1426,
+      "ageHours": 3.7
     },
     {
       "title": "Seeing double at the Twins Days Festival in Ohio",
       "channel": "PBS NewsHour",
       "videoId": "oZvdX2utx-w",
-      "viewsPerHour": 355,
+      "viewsPerHour": 327,
       "views": 8173,
-      "ageHours": 23
+      "ageHours": 25
+    },
+    {
+      "title": "WATCH LIVE: 'Balance of Power: Redistricting, Courts, and the Right to Vote' - 2026 Hutchins Forum",
+      "channel": "PBS NewsHour",
+      "videoId": "yIhqVZOULXY",
+      "viewsPerHour": 310,
+      "views": 1077,
+      "ageHours": 3.5
     },
     {
       "title": " Why data centers are everywhere right now-- and why people hate them",
       "channel": "MS NOW",
       "videoId": "efzqKggiGCc",
-      "viewsPerHour": 345,
+      "viewsPerHour": 308,
       "views": 5709,
-      "ageHours": 16.5
-    },
-    {
-      "title": "The Not-So-Cute Truth About Antarctic Penguins",
-      "channel": "NOVA",
-      "videoId": "D_rdyJ9HYCc",
-      "viewsPerHour": 185,
-      "views": 8525,
-      "ageHours": 46
-    },
-    {
-      "title": "PBS News Hour live episode, August 19, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "fGKDFSbFJ50",
-      "viewsPerHour": 166,
-      "views": 4219,
-      "ageHours": 25.4
+      "ageHours": 18.5
     },
     {
       "title": "Soul Survivor: Overcoming Homelessness and Addiction on America's Toughest Street",
       "channel": "Real Stories",
       "videoId": "6Dc5eWDyauA",
-      "viewsPerHour": 92,
-      "views": 2791,
-      "ageHours": 30.3
+      "viewsPerHour": 90,
+      "views": 2892,
+      "ageHours": 32.3
     },
     {
       "title": "Gillian Anderson Lied About Her Age At \"X-Files\" Audition | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "WVKKjhRDRSA",
-      "viewsPerHour": 69,
+      "viewsPerHour": 65,
       "views": 2174,
-      "ageHours": 31.3
+      "ageHours": 33.3
     },
     {
       "title": "D'Arcy Carden (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "7bUt4xQqBuw",
-      "viewsPerHour": 64,
+      "viewsPerHour": 61,
       "views": 2206,
-      "ageHours": 34.3
-    },
-    {
-      "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
-      "channel": "PBS NewsHour",
-      "videoId": "vau_2aDhYxg",
-      "viewsPerHour": 26,
-      "views": 623,
-      "ageHours": 23.6
-    },
-    {
-      "title": "Why states claim Meta designed addictive features for children",
-      "channel": "PBS NewsHour",
-      "videoId": "4LClrPfOy5I",
-      "viewsPerHour": 6,
-      "views": 132,
-      "ageHours": 23.8
+      "ageHours": 36.3
     },
     {
       "title": "WATCH LIVE: President Trump and first lady make announcement on Fostering the Future initiative",
@@ -746,7 +734,7 @@
       "videoId": "gYuZEo4rZz8",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 6.3
+      "ageHours": 8.3
     },
     {
       "title": "WATCH LIVE: INDYCAR hosts Freedom 250 Grand Prix news conference ahead of Washington race",
@@ -754,7 +742,7 @@
       "videoId": "8K1SQ8qZGu8",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 6.4
+      "ageHours": 8.4
     },
     {
       "title": "FULU own your shit tour in Raleigh, NC w/ guest star @GamersNexus",
@@ -762,7 +750,7 @@
       "videoId": "u1NSbRkIIK0",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 10.9
+      "ageHours": 12.9
     }
   ]
 }
