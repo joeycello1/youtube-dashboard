@@ -448,7 +448,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "Giza",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "Last Week Tonight",
@@ -460,7 +460,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "The Interview",
@@ -496,7 +496,7 @@
     },
     {
       "keyword": "NOVA",
-      "matches": 4
+      "matches": 3
     },
     {
       "keyword": "The Daily Show",
@@ -524,161 +524,153 @@
       "title": "Counterintelligence Agent Shares WILD Alien Encounters - Richard Doty | ep. 100",
       "channel": "Area 52",
       "videoId": "T-3CmY_ztwo",
-      "viewsPerHour": 5352,
-      "views": 140670,
-      "ageHours": 26.3
+      "viewsPerHour": 5073,
+      "views": 153624,
+      "ageHours": 30.3
     },
     {
       "title": "Real Alien Encounters & UFO Sightings (Full Episode) | UFOs: Investigating the Unknown | Nat Geo",
       "channel": "Nat Geo",
       "videoId": "_XzKxf0d908",
-      "viewsPerHour": 2347,
-      "views": 68732,
-      "ageHours": 29.3
+      "viewsPerHour": 2521,
+      "views": 83915,
+      "ageHours": 33.3
     },
     {
       "title": "Could There Be No Baseball Games Next Year? These Owners Are Betting On It.",
       "channel": "More Perfect Union",
       "videoId": "OHvE6vlrwDc",
-      "viewsPerHour": 2305,
-      "views": 59803,
-      "ageHours": 26
-    },
-    {
-      "title": "The point of this youtube channel; put what I talk about into practice!",
-      "channel": "Louis Rossmann",
-      "videoId": "k_ObU2Pn8-I",
-      "viewsPerHour": 1051,
-      "views": 5680,
-      "ageHours": 5.4
+      "viewsPerHour": 2283,
+      "views": 68391,
+      "ageHours": 30
     },
     {
       "title": "Experiment Triggers MYSTERIOUS Thermal Anomaly | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "zm0SdB_8CSY",
-      "viewsPerHour": 1008,
-      "views": 23467,
-      "ageHours": 23.3
+      "viewsPerHour": 912,
+      "views": 24892,
+      "ageHours": 27.3
     },
     {
       "title": "S10 E12: Tennessee Mayoral Race & Homeschooling: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "juCyYV7kauw",
-      "viewsPerHour": 622,
-      "views": 1424,
-      "ageHours": 2.3
+      "viewsPerHour": 743,
+      "views": 4679,
+      "ageHours": 6.3
     },
     {
-      "title": "Mainers 'want a change’: Democratic Candidate Troy Jackson reflects on must-watch ME Senate race",
-      "channel": "MS NOW",
-      "videoId": "ZFoNKb39TJY",
-      "viewsPerHour": 597,
-      "views": 1790,
-      "ageHours": 3
+      "title": "The point of this youtube channel; put what I talk about into practice!",
+      "channel": "Louis Rossmann",
+      "videoId": "k_ObU2Pn8-I",
+      "viewsPerHour": 604,
+      "views": 5680,
+      "ageHours": 9.4
     },
     {
       "title": "S10 E11: Return from WGA Strike & Prison Healthcare: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "wB9bkcHwq4w",
-      "viewsPerHour": 595,
-      "views": 15637,
-      "ageHours": 26.3
+      "viewsPerHour": 534,
+      "views": 16170,
+      "ageHours": 30.3
     },
     {
       "title": "New York logic",
       "channel": "Louis Rossmann",
       "videoId": "vFAx13QhBv4",
-      "viewsPerHour": 566,
+      "viewsPerHour": 482,
       "views": 12934,
-      "ageHours": 22.9
-    },
-    {
-      "title": "The Last Word with Lawrence O'Donnell - Aug. 21 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "D4a5UtuJ0no",
-      "viewsPerHour": 491,
-      "views": 6216,
-      "ageHours": 12.7
-    },
-    {
-      "title": "How Fighting Can Save a Relationship | Priya Parker on ‘The Interview’",
-      "channel": "The Interview",
-      "videoId": "neZTYCPGd4s",
-      "viewsPerHour": 379,
-      "views": 2100,
-      "ageHours": 5.5
+      "ageHours": 26.9
     },
     {
       "title": "Giza Pyramids Hold a Far Deeper Cosmic Purpose | Ancient Aliens",
       "channel": "History",
       "videoId": "UNZbmEubZ18",
-      "viewsPerHour": 342,
-      "views": 778,
-      "ageHours": 2.3
+      "viewsPerHour": 438,
+      "views": 2750,
+      "ageHours": 6.3
+    },
+    {
+      "title": "How Fighting Can Save a Relationship | Priya Parker on ‘The Interview’",
+      "channel": "The Interview",
+      "videoId": "neZTYCPGd4s",
+      "viewsPerHour": 425,
+      "views": 4052,
+      "ageHours": 9.5
+    },
+    {
+      "title": "The Last Word with Lawrence O'Donnell - Aug. 21 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "D4a5UtuJ0no",
+      "viewsPerHour": 373,
+      "views": 6216,
+      "ageHours": 16.7
+    },
+    {
+      "title": "Mainers 'want a change’: Democratic Candidate Troy Jackson reflects on must-watch ME Senate race",
+      "channel": "MS NOW",
+      "videoId": "ZFoNKb39TJY",
+      "viewsPerHour": 256,
+      "views": 1790,
+      "ageHours": 7
     },
     {
       "title": "Conan Catches Bley In A \"Nerd Sting Operation\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "XdRscSr2KYU",
-      "viewsPerHour": 270,
+      "viewsPerHour": 236,
       "views": 7379,
-      "ageHours": 27.3
+      "ageHours": 31.3
     },
     {
       "title": "Therapist responds to question about AI tool by being a tool",
       "channel": "Louis Rossmann",
       "videoId": "45yTNYuBDUs",
-      "viewsPerHour": 267,
+      "viewsPerHour": 233,
       "views": 7296,
-      "ageHours": 27.3
+      "ageHours": 31.3
     },
     {
       "title": "The Night Light: A new hope for cancer patients",
       "channel": "MS NOW",
       "videoId": "Ffj3UTLiems",
-      "viewsPerHour": 260,
+      "viewsPerHour": 201,
       "views": 3515,
-      "ageHours": 13.5
-    },
-    {
-      "title": "Cats Accidentally Solved a Physics Mystery | What the Physics?!",
-      "channel": "NOVA",
-      "videoId": "uZ3vZmR69uY",
-      "viewsPerHour": 216,
-      "views": 9876,
-      "ageHours": 45.7
+      "ageHours": 17.5
     },
     {
       "title": "PBS News Hour live episode, August 21, 2026",
       "channel": "PBS NewsHour",
       "videoId": "r3LN4TFKLRI",
-      "viewsPerHour": 207,
+      "viewsPerHour": 174,
       "views": 4315,
-      "ageHours": 20.8
+      "ageHours": 24.8
     },
     {
       "title": "Velshi Banned Book Club: 'Dead But Dreaming of Electric Sheep' by Paul Tremblay",
       "channel": "MS NOW",
       "videoId": "20Ckh2cZue4",
-      "viewsPerHour": 121,
+      "viewsPerHour": 94,
       "views": 1661,
-      "ageHours": 13.7
+      "ageHours": 17.7
     },
     {
       "title": "The Greatest One Man Army Isn't a Man | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "7eWgSMDfmtE",
-      "viewsPerHour": 78,
+      "viewsPerHour": 69,
       "views": 2356,
-      "ageHours": 30.3
+      "ageHours": 34.3
     },
     {
       "title": "U.S. ambassador responds to rising tensions between Israel, Turkey and Syria",
       "channel": "PBS NewsHour",
       "videoId": "9EIJIRtbjn8",
-      "viewsPerHour": 15,
+      "viewsPerHour": 13,
       "views": 302,
-      "ageHours": 19.6
+      "ageHours": 23.6
     }
   ]
 }
