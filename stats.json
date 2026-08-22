@@ -1,20 +1,28 @@
 {
   "videosPerChannel": [
     {
+      "channel": "History",
+      "count": 53
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 19
+    },
+    {
       "channel": "MS NOW",
       "count": 4
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 4
-    },
-    {
       "channel": "Louis Rossmann",
-      "count": 23
+      "count": 24
     },
     {
-      "channel": "History",
-      "count": 52
+      "channel": "The Interview",
+      "count": 8
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 2
     },
     {
       "channel": "More Perfect Union",
@@ -25,12 +33,8 @@
       "count": 5
     },
     {
-      "channel": "Last Week Tonight",
-      "count": 19
-    },
-    {
       "channel": "Conan O'Brien",
-      "count": 13
+      "count": 12
     },
     {
       "channel": "Nat Geo",
@@ -54,11 +58,11 @@
     },
     {
       "channel": "Real Stories",
-      "count": 38
+      "count": 37
     },
     {
       "channel": "Mayim Bialik",
-      "count": 9
+      "count": 8
     },
     {
       "channel": "Inside AI",
@@ -69,18 +73,30 @@
       "count": 6
     },
     {
-      "channel": "The Interview",
-      "count": 7
-    },
-    {
       "channel": "Jonathan Pie",
       "count": 6
     }
   ],
   "keywordFrequency": [
     {
+      "keyword": "Giza",
+      "count": 4
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 18
+    },
+    {
       "keyword": "MS NOW",
       "count": 3
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 20
+    },
+    {
+      "keyword": "The Interview",
+      "count": 7
     },
     {
       "keyword": "MS NOW, AI",
@@ -88,15 +104,11 @@
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 4
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 19
+      "count": 2
     },
     {
       "keyword": "UFO",
-      "count": 30
+      "count": 29
     },
     {
       "keyword": "More Perfect Union",
@@ -107,16 +119,12 @@
       "count": 1
     },
     {
-      "keyword": "Last Week Tonight",
-      "count": 18
-    },
-    {
       "keyword": "Louis Rossmann, AI",
       "count": 3
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 13
+      "count": 12
     },
     {
       "keyword": "NOVA",
@@ -140,19 +148,11 @@
     },
     {
       "keyword": "Real Stories",
-      "count": 25
-    },
-    {
-      "keyword": "Giza",
-      "count": 3
+      "count": 24
     },
     {
       "keyword": "UAP",
       "count": 5
-    },
-    {
-      "keyword": "The Interview",
-      "count": 6
     },
     {
       "keyword": "AI, FOIA, UAP",
@@ -214,11 +214,11 @@
   "dailySummary": [
     {
       "date": "2026-08-22",
-      "videos": 3
+      "videos": 8
     },
     {
       "date": "2026-08-21",
-      "videos": 14
+      "videos": 11
     },
     {
       "date": "2026-08-20",
@@ -254,7 +254,7 @@
     },
     {
       "date": "2026-08-12",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-08-11",
@@ -274,7 +274,7 @@
     },
     {
       "date": "2026-08-07",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-08-06",
@@ -438,7 +438,7 @@
     },
     {
       "date": "2026-06-23",
-      "videos": 3
+      "videos": 1
     },
     {
       "date": "2026-06-14",
@@ -447,8 +447,24 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "Giza",
+      "matches": 2
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 9
+    },
+    {
       "keyword": "MS NOW",
       "matches": 3
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 8
+    },
+    {
+      "keyword": "The Interview",
+      "matches": 1
     },
     {
       "keyword": "MS NOW, AI",
@@ -456,11 +472,7 @@
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 4
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 7
+      "matches": 2
     },
     {
       "keyword": "UFO",
@@ -473,10 +485,6 @@
     {
       "keyword": "FOIA, UFO",
       "matches": 1
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "matches": 8
     },
     {
       "keyword": "Louis Rossmann, AI",
@@ -500,7 +508,7 @@
     },
     {
       "keyword": "AI",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "The Rest Is Science",
@@ -508,15 +516,7 @@
     },
     {
       "keyword": "Real Stories",
-      "matches": 4
-    },
-    {
-      "keyword": "Giza",
-      "matches": 1
-    },
-    {
-      "keyword": "UAP",
-      "matches": 1
+      "matches": 3
     }
   ],
   "mostViral48h": [
@@ -524,145 +524,161 @@
       "title": "Counterintelligence Agent Shares WILD Alien Encounters - Richard Doty | ep. 100",
       "channel": "Area 52",
       "videoId": "T-3CmY_ztwo",
-      "viewsPerHour": 5497,
-      "views": 133567,
-      "ageHours": 24.3
+      "viewsPerHour": 5352,
+      "views": 140670,
+      "ageHours": 26.3
     },
     {
       "title": "Real Alien Encounters & UFO Sightings (Full Episode) | UFOs: Investigating the Unknown | Nat Geo",
       "channel": "Nat Geo",
       "videoId": "_XzKxf0d908",
-      "viewsPerHour": 2340,
-      "views": 63892,
-      "ageHours": 27.3
+      "viewsPerHour": 2347,
+      "views": 68732,
+      "ageHours": 29.3
     },
     {
       "title": "Could There Be No Baseball Games Next Year? These Owners Are Betting On It.",
       "channel": "More Perfect Union",
       "videoId": "OHvE6vlrwDc",
-      "viewsPerHour": 2242,
-      "views": 53722,
-      "ageHours": 24
+      "viewsPerHour": 2305,
+      "views": 59803,
+      "ageHours": 26
+    },
+    {
+      "title": "The point of this youtube channel; put what I talk about into practice!",
+      "channel": "Louis Rossmann",
+      "videoId": "k_ObU2Pn8-I",
+      "viewsPerHour": 1051,
+      "views": 5680,
+      "ageHours": 5.4
     },
     {
       "title": "Experiment Triggers MYSTERIOUS Thermal Anomaly | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "zm0SdB_8CSY",
-      "viewsPerHour": 1063,
-      "views": 22647,
-      "ageHours": 21.3
+      "viewsPerHour": 1008,
+      "views": 23467,
+      "ageHours": 23.3
     },
     {
-      "title": "New York logic",
-      "channel": "Louis Rossmann",
-      "videoId": "vFAx13QhBv4",
-      "viewsPerHour": 620,
-      "views": 12934,
-      "ageHours": 20.9
+      "title": "S10 E12: Tennessee Mayoral Race & Homeschooling: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "juCyYV7kauw",
+      "viewsPerHour": 622,
+      "views": 1424,
+      "ageHours": 2.3
+    },
+    {
+      "title": "Mainers 'want a change’: Democratic Candidate Troy Jackson reflects on must-watch ME Senate race",
+      "channel": "MS NOW",
+      "videoId": "ZFoNKb39TJY",
+      "viewsPerHour": 597,
+      "views": 1790,
+      "ageHours": 3
     },
     {
       "title": "S10 E11: Return from WGA Strike & Prison Healthcare: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "wB9bkcHwq4w",
-      "viewsPerHour": 617,
-      "views": 14983,
-      "ageHours": 24.3
+      "viewsPerHour": 595,
+      "views": 15637,
+      "ageHours": 26.3
+    },
+    {
+      "title": "New York logic",
+      "channel": "Louis Rossmann",
+      "videoId": "vFAx13QhBv4",
+      "viewsPerHour": 566,
+      "views": 12934,
+      "ageHours": 22.9
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Aug. 21 | Audio Only",
       "channel": "MS NOW",
       "videoId": "D4a5UtuJ0no",
-      "viewsPerHour": 582,
+      "viewsPerHour": 491,
       "views": 6216,
-      "ageHours": 10.7
+      "ageHours": 12.7
     },
     {
-      "title": "The Night Light: A new hope for cancer patients",
-      "channel": "MS NOW",
-      "videoId": "Ffj3UTLiems",
-      "viewsPerHour": 305,
-      "views": 3515,
-      "ageHours": 11.5
+      "title": "How Fighting Can Save a Relationship | Priya Parker on ‘The Interview’",
+      "channel": "The Interview",
+      "videoId": "neZTYCPGd4s",
+      "viewsPerHour": 379,
+      "views": 2100,
+      "ageHours": 5.5
+    },
+    {
+      "title": "Giza Pyramids Hold a Far Deeper Cosmic Purpose | Ancient Aliens",
+      "channel": "History",
+      "videoId": "UNZbmEubZ18",
+      "viewsPerHour": 342,
+      "views": 778,
+      "ageHours": 2.3
     },
     {
       "title": "Conan Catches Bley In A \"Nerd Sting Operation\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "XdRscSr2KYU",
-      "viewsPerHour": 292,
+      "viewsPerHour": 270,
       "views": 7379,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
       "title": "Therapist responds to question about AI tool by being a tool",
       "channel": "Louis Rossmann",
       "videoId": "45yTNYuBDUs",
-      "viewsPerHour": 288,
+      "viewsPerHour": 267,
       "views": 7296,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
-      "title": "PBS News Hour live episode, August 21, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "r3LN4TFKLRI",
-      "viewsPerHour": 229,
-      "views": 4315,
-      "ageHours": 18.8
+      "title": "The Night Light: A new hope for cancer patients",
+      "channel": "MS NOW",
+      "videoId": "Ffj3UTLiems",
+      "viewsPerHour": 260,
+      "views": 3515,
+      "ageHours": 13.5
     },
     {
       "title": "Cats Accidentally Solved a Physics Mystery | What the Physics?!",
       "channel": "NOVA",
       "videoId": "uZ3vZmR69uY",
-      "viewsPerHour": 223,
-      "views": 9761,
-      "ageHours": 43.7
+      "viewsPerHour": 216,
+      "views": 9876,
+      "ageHours": 45.7
+    },
+    {
+      "title": "PBS News Hour live episode, August 21, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "r3LN4TFKLRI",
+      "viewsPerHour": 207,
+      "views": 4315,
+      "ageHours": 20.8
     },
     {
       "title": "Velshi Banned Book Club: 'Dead But Dreaming of Electric Sheep' by Paul Tremblay",
       "channel": "MS NOW",
       "videoId": "20Ckh2cZue4",
-      "viewsPerHour": 142,
+      "viewsPerHour": 121,
       "views": 1661,
-      "ageHours": 11.7
-    },
-    {
-      "title": "What was she hiding?': Ex-WH official reacts to Harp refusing to get security clearance for a year",
-      "channel": "MS NOW",
-      "videoId": "nAZUpUi8tag",
-      "viewsPerHour": 141,
-      "views": 3341,
-      "ageHours": 23.8
+      "ageHours": 13.7
     },
     {
       "title": "The Greatest One Man Army Isn't a Man | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "7eWgSMDfmtE",
-      "viewsPerHour": 83,
+      "viewsPerHour": 78,
       "views": 2356,
-      "ageHours": 28.3
-    },
-    {
-      "title": "WATCH LIVE: Trump stumps for S.C. Sen. Darline Graham ahead of GOP runoff",
-      "channel": "PBS NewsHour",
-      "videoId": "oWVFEfWHD6M",
-      "viewsPerHour": 50,
-      "views": 1290,
-      "ageHours": 26
+      "ageHours": 30.3
     },
     {
       "title": "U.S. ambassador responds to rising tensions between Israel, Turkey and Syria",
       "channel": "PBS NewsHour",
       "videoId": "9EIJIRtbjn8",
-      "viewsPerHour": 17,
+      "viewsPerHour": 15,
       "views": 302,
-      "ageHours": 17.6
-    },
-    {
-      "title": "WATCH LIVE: Vance delivers remarks on economic agenda at Ohio manufacturing plant",
-      "channel": "PBS NewsHour",
-      "videoId": "NJEsPgQwyAY",
-      "viewsPerHour": 17,
-      "views": 424,
-      "ageHours": 24.8
+      "ageHours": 19.6
     }
   ]
 }
