@@ -1,6 +1,10 @@
 {
   "videosPerChannel": [
     {
+      "channel": "MS NOW",
+      "count": 4
+    },
+    {
       "channel": "PBS NewsHour",
       "count": 4
     },
@@ -11,10 +15,6 @@
     {
       "channel": "History",
       "count": 52
-    },
-    {
-      "channel": "MS NOW",
-      "count": 2
     },
     {
       "channel": "More Perfect Union",
@@ -79,6 +79,14 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "MS NOW",
+      "count": 3
+    },
+    {
+      "keyword": "MS NOW, AI",
+      "count": 1
+    },
+    {
       "keyword": "PBS NewsHour",
       "count": 4
     },
@@ -89,10 +97,6 @@
     {
       "keyword": "UFO",
       "count": 30
-    },
-    {
-      "keyword": "MS NOW",
-      "count": 2
     },
     {
       "keyword": "More Perfect Union",
@@ -209,8 +213,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-08-22",
+      "videos": 3
+    },
+    {
       "date": "2026-08-21",
-      "videos": 15
+      "videos": 14
     },
     {
       "date": "2026-08-20",
@@ -439,6 +447,14 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "MS NOW",
+      "matches": 3
+    },
+    {
+      "keyword": "MS NOW, AI",
+      "matches": 1
+    },
+    {
       "keyword": "PBS NewsHour",
       "matches": 4
     },
@@ -449,10 +465,6 @@
     {
       "keyword": "UFO",
       "matches": 5
-    },
-    {
-      "keyword": "MS NOW",
-      "matches": 2
     },
     {
       "keyword": "More Perfect Union",
@@ -516,169 +528,161 @@
       "title": "Counterintelligence Agent Shares WILD Alien Encounters - Richard Doty | ep. 100",
       "channel": "Area 52",
       "videoId": "T-3CmY_ztwo",
-      "viewsPerHour": 6316,
-      "views": 115787,
-      "ageHours": 18.3
+      "viewsPerHour": 5957,
+      "views": 120823,
+      "ageHours": 20.3
     },
     {
       "title": "Real Alien Encounters & UFO Sightings (Full Episode) | UFOs: Investigating the Unknown | Nat Geo",
       "channel": "Nat Geo",
       "videoId": "_XzKxf0d908",
-      "viewsPerHour": 2497,
-      "views": 53267,
-      "ageHours": 21.3
+      "viewsPerHour": 2426,
+      "views": 56493,
+      "ageHours": 23.3
     },
     {
       "title": "Could There Be No Baseball Games Next Year? These Owners Are Betting On It.",
       "channel": "More Perfect Union",
       "videoId": "OHvE6vlrwDc",
-      "viewsPerHour": 2496,
-      "views": 44927,
-      "ageHours": 18
+      "viewsPerHour": 2315,
+      "views": 46180,
+      "ageHours": 20
     },
     {
       "title": "TDS Celebrates 250 Years with a Look at America's Greatest Innovations | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "l0FUqUXXWDI",
-      "viewsPerHour": 1452,
-      "views": 65825,
-      "ageHours": 45.3
+      "viewsPerHour": 1407,
+      "views": 66527,
+      "ageHours": 47.3
     },
     {
       "title": "Experiment Triggers MYSTERIOUS Thermal Anomaly | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "zm0SdB_8CSY",
-      "viewsPerHour": 1308,
-      "views": 20073,
-      "ageHours": 15.3
+      "viewsPerHour": 1208,
+      "views": 20885,
+      "ageHours": 17.3
     },
     {
-      "title": "Conan & His Wife Liza Recount Their First Date | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "ijo4fQkGmkI",
-      "viewsPerHour": 1055,
-      "views": 48873,
-      "ageHours": 46.3
+      "title": "The Last Word with Lawrence O'Donnell - Aug. 21 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "D4a5UtuJ0no",
+      "viewsPerHour": 934,
+      "views": 6216,
+      "ageHours": 6.7
     },
     {
       "title": "New York logic",
       "channel": "Louis Rossmann",
       "videoId": "vFAx13QhBv4",
-      "viewsPerHour": 868,
+      "viewsPerHour": 767,
       "views": 12934,
-      "ageHours": 14.9
-    },
-    {
-      "title": "Samsung evades SSD warranty in Canada. Solution: SUE THEM & WIN!!!",
-      "channel": "Louis Rossmann",
-      "videoId": "mpTTX1JC47A",
-      "viewsPerHour": 666,
-      "views": 31445,
-      "ageHours": 47.2
+      "ageHours": 16.9
     },
     {
       "title": "S10 E11: Return from WGA Strike & Prison Healthcare: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "wB9bkcHwq4w",
-      "viewsPerHour": 652,
-      "views": 11950,
-      "ageHours": 18.3
+      "viewsPerHour": 649,
+      "views": 13169,
+      "ageHours": 20.3
     },
     {
       "title": "S10 E10: King Charles' Coronation Quiche, Biden & The Border: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "ciCIrZHUgL4",
-      "viewsPerHour": 493,
-      "views": 20881,
-      "ageHours": 42.3
+      "viewsPerHour": 476,
+      "views": 21097,
+      "ageHours": 44.3
+    },
+    {
+      "title": "The Night Light: A new hope for cancer patients",
+      "channel": "MS NOW",
+      "videoId": "Ffj3UTLiems",
+      "viewsPerHour": 467,
+      "views": 3515,
+      "ageHours": 7.5
     },
     {
       "title": "Conan Catches Bley In A \"Nerd Sting Operation\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "XdRscSr2KYU",
-      "viewsPerHour": 382,
+      "viewsPerHour": 347,
       "views": 7379,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "Therapist responds to question about AI tool by being a tool",
       "channel": "Louis Rossmann",
       "videoId": "45yTNYuBDUs",
-      "viewsPerHour": 377,
+      "viewsPerHour": 343,
       "views": 7296,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "PBS News Hour live episode, August 21, 2026",
       "channel": "PBS NewsHour",
       "videoId": "r3LN4TFKLRI",
-      "viewsPerHour": 335,
+      "viewsPerHour": 291,
       "views": 4315,
-      "ageHours": 12.9
-    },
-    {
-      "title": "Psaki: Trump administration's 'adult babysitters' are not normal",
-      "channel": "MS NOW",
-      "videoId": "gWI0k9tOBOY",
-      "viewsPerHour": 331,
-      "views": 7947,
-      "ageHours": 24
+      "ageHours": 14.8
     },
     {
       "title": "Cats Accidentally Solved a Physics Mystery | What the Physics?!",
       "channel": "NOVA",
       "videoId": "uZ3vZmR69uY",
-      "viewsPerHour": 250,
-      "views": 9439,
-      "ageHours": 37.8
+      "viewsPerHour": 240,
+      "views": 9528,
+      "ageHours": 39.7
+    },
+    {
+      "title": "Velshi Banned Book Club: 'Dead But Dreaming of Electric Sheep' by Paul Tremblay",
+      "channel": "MS NOW",
+      "videoId": "20Ckh2cZue4",
+      "viewsPerHour": 216,
+      "views": 1661,
+      "ageHours": 7.7
     },
     {
       "title": "What was she hiding?': Ex-WH official reacts to Harp refusing to get security clearance for a year",
       "channel": "MS NOW",
       "videoId": "nAZUpUi8tag",
-      "viewsPerHour": 188,
+      "viewsPerHour": 169,
       "views": 3341,
-      "ageHours": 17.8
+      "ageHours": 19.7
     },
     {
       "title": "The Greatest One Man Army Isn't a Man | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "7eWgSMDfmtE",
-      "viewsPerHour": 105,
+      "viewsPerHour": 97,
       "views": 2356,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "WATCH LIVE: Trump stumps for S.C. Sen. Darline Graham ahead of GOP runoff",
       "channel": "PBS NewsHour",
       "videoId": "oWVFEfWHD6M",
-      "viewsPerHour": 64,
+      "viewsPerHour": 59,
       "views": 1290,
-      "ageHours": 20.1
+      "ageHours": 22
     },
     {
       "title": "U.S. ambassador responds to rising tensions between Israel, Turkey and Syria",
       "channel": "PBS NewsHour",
       "videoId": "9EIJIRtbjn8",
-      "viewsPerHour": 26,
+      "viewsPerHour": 22,
       "views": 302,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "WATCH LIVE: Vance delivers remarks on economic agenda at Ohio manufacturing plant",
       "channel": "PBS NewsHour",
       "videoId": "NJEsPgQwyAY",
-      "viewsPerHour": 23,
+      "viewsPerHour": 20,
       "views": 424,
-      "ageHours": 18.8
-    },
-    {
-      "title": "FULU own your shit tour in Raleigh, NC w/ guest star @GamersNexus",
-      "channel": "Louis Rossmann",
-      "videoId": "u1NSbRkIIK0",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 47
+      "ageHours": 20.8
     }
   ]
 }
