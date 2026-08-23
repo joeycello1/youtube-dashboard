@@ -1,16 +1,16 @@
 {
   "videosPerChannel": [
     {
+      "channel": "History",
+      "count": 54
+    },
+    {
       "channel": "MS NOW",
-      "count": 6
+      "count": 5
     },
     {
       "channel": "Real Stories",
       "count": 38
-    },
-    {
-      "channel": "History",
-      "count": 53
     },
     {
       "channel": "Last Week Tonight",
@@ -75,6 +75,10 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "NOVA",
+      "count": 30
+    },
+    {
       "keyword": "MS NOW",
       "count": 5
     },
@@ -99,10 +103,6 @@
       "count": 7
     },
     {
-      "keyword": "MS NOW, AI",
-      "count": 1
-    },
-    {
       "keyword": "UFO",
       "count": 29
     },
@@ -121,10 +121,6 @@
     {
       "keyword": "Conan O'Brien",
       "count": 12
-    },
-    {
-      "keyword": "NOVA",
-      "count": 29
     },
     {
       "keyword": "The Daily Show",
@@ -205,8 +201,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-08-23",
+      "videos": 2
+    },
+    {
       "date": "2026-08-22",
-      "videos": 11
+      "videos": 9
     },
     {
       "date": "2026-08-21",
@@ -435,6 +435,10 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "NOVA",
+      "matches": 4
+    },
+    {
       "keyword": "MS NOW",
       "matches": 5
     },
@@ -459,10 +463,6 @@
       "matches": 1
     },
     {
-      "keyword": "MS NOW, AI",
-      "matches": 1
-    },
-    {
       "keyword": "UFO",
       "matches": 5
     },
@@ -476,15 +476,11 @@
     },
     {
       "keyword": "Louis Rossmann, AI",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "Conan O'Brien",
       "matches": 8
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 3
     },
     {
       "keyword": "The Daily Show",
@@ -508,161 +504,161 @@
       "title": "Counterintelligence Agent Shares WILD Alien Encounters - Richard Doty | ep. 100",
       "channel": "Area 52",
       "videoId": "T-3CmY_ztwo",
-      "viewsPerHour": 4716,
-      "views": 171117,
-      "ageHours": 36.3
+      "viewsPerHour": 4602,
+      "views": 176265,
+      "ageHours": 38.3
     },
     {
       "title": "Real Alien Encounters & UFO Sightings (Full Episode) | UFOs: Investigating the Unknown | Nat Geo",
       "channel": "Nat Geo",
       "videoId": "_XzKxf0d908",
-      "viewsPerHour": 2932,
-      "views": 115171,
-      "ageHours": 39.3
+      "viewsPerHour": 3021,
+      "views": 124781,
+      "ageHours": 41.3
     },
     {
       "title": "Could There Be No Baseball Games Next Year? These Owners Are Betting On It.",
       "channel": "More Perfect Union",
       "videoId": "OHvE6vlrwDc",
-      "viewsPerHour": 2082,
-      "views": 74856,
-      "ageHours": 36
+      "viewsPerHour": 2017,
+      "views": 76564,
+      "ageHours": 38
+    },
+    {
+      "title": "Columbus Day (S3, E8) | The Curse of Oak Island | Full Episode",
+      "channel": "History",
+      "videoId": "F8hzwg9VEcc",
+      "viewsPerHour": 1542,
+      "views": 9726,
+      "ageHours": 6.3
     },
     {
       "title": "‘Total FAILURE of leadership’: Dem Rep. slams Hegseth amid crisis aboard USS Lincoln",
       "channel": "MS NOW",
       "videoId": "h9617aaravo",
-      "viewsPerHour": 1795,
+      "viewsPerHour": 1406,
       "views": 13089,
-      "ageHours": 7.3
+      "ageHours": 9.3
+    },
+    {
+      "title": "MS NOW Highlights - August 22",
+      "channel": "MS NOW",
+      "videoId": "zeSucM44_sQ",
+      "viewsPerHour": 1404,
+      "views": 8856,
+      "ageHours": 6.3
     },
     {
       "title": "Experiment Triggers MYSTERIOUS Thermal Anomaly | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "zm0SdB_8CSY",
-      "viewsPerHour": 805,
-      "views": 26804,
-      "ageHours": 33.3
+      "viewsPerHour": 772,
+      "views": 27248,
+      "ageHours": 35.3
     },
     {
       "title": "S10 E12: Tennessee Mayoral Race & Homeschooling: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "juCyYV7kauw",
-      "viewsPerHour": 722,
-      "views": 8873,
-      "ageHours": 12.3
+      "viewsPerHour": 682,
+      "views": 9753,
+      "ageHours": 14.3
     },
     {
       "title": "S10 E11: Return from WGA Strike & Prison Healthcare: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "wB9bkcHwq4w",
-      "viewsPerHour": 458,
-      "views": 16634,
-      "ageHours": 36.3
+      "viewsPerHour": 437,
+      "views": 16727,
+      "ageHours": 38.3
     },
     {
       "title": "New York logic",
       "channel": "Louis Rossmann",
       "videoId": "vFAx13QhBv4",
-      "viewsPerHour": 394,
+      "viewsPerHour": 371,
       "views": 12934,
-      "ageHours": 32.9
-    },
-    {
-      "title": "The point of this youtube channel; put what I talk about into practice!",
-      "channel": "Louis Rossmann",
-      "videoId": "k_ObU2Pn8-I",
-      "viewsPerHour": 369,
-      "views": 5680,
-      "ageHours": 15.4
+      "ageHours": 34.9
     },
     {
       "title": "How Fighting Can Save a Relationship | Priya Parker on ‘The Interview’",
       "channel": "The Interview",
       "videoId": "neZTYCPGd4s",
-      "viewsPerHour": 367,
-      "views": 5701,
-      "ageHours": 15.5
+      "viewsPerHour": 347,
+      "views": 6091,
+      "ageHours": 17.6
+    },
+    {
+      "title": "The point of this youtube channel; put what I talk about into practice!",
+      "channel": "Louis Rossmann",
+      "videoId": "k_ObU2Pn8-I",
+      "viewsPerHour": 326,
+      "views": 5680,
+      "ageHours": 17.4
     },
     {
       "title": "Giza Pyramids Hold a Far Deeper Cosmic Purpose | Ancient Aliens",
       "channel": "History",
       "videoId": "UNZbmEubZ18",
-      "viewsPerHour": 299,
-      "views": 3668,
-      "ageHours": 12.3
+      "viewsPerHour": 265,
+      "views": 3781,
+      "ageHours": 14.3
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Aug. 21 | Audio Only",
       "channel": "MS NOW",
       "videoId": "D4a5UtuJ0no",
-      "viewsPerHour": 274,
+      "viewsPerHour": 252,
       "views": 6216,
-      "ageHours": 22.7
-    },
-    {
-      "title": "DNC Chair: Democrats have been winning ‘IN SPITE of the big money’ spent by GOP this election",
-      "channel": "MS NOW",
-      "videoId": "Q9QEcZtTiwo",
-      "viewsPerHour": 211,
-      "views": 1516,
-      "ageHours": 7.2
+      "ageHours": 24.7
     },
     {
       "title": "Conan Catches Bley In A \"Nerd Sting Operation\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "XdRscSr2KYU",
-      "viewsPerHour": 198,
+      "viewsPerHour": 188,
       "views": 7379,
-      "ageHours": 37.3
+      "ageHours": 39.3
     },
     {
       "title": "Therapist responds to question about AI tool by being a tool",
       "channel": "Louis Rossmann",
       "videoId": "45yTNYuBDUs",
-      "viewsPerHour": 196,
+      "viewsPerHour": 186,
       "views": 7296,
-      "ageHours": 37.3
+      "ageHours": 39.3
     },
     {
-      "title": "The Night Light: A new hope for cancer patients",
+      "title": "DNC Chair: Democrats have been winning ‘IN SPITE of the big money’ spent by GOP this election",
       "channel": "MS NOW",
-      "videoId": "Ffj3UTLiems",
-      "viewsPerHour": 149,
-      "views": 3515,
-      "ageHours": 23.5
+      "videoId": "Q9QEcZtTiwo",
+      "viewsPerHour": 165,
+      "views": 1516,
+      "ageHours": 9.2
     },
     {
       "title": "Mainers 'want a change’: Democratic Candidate Troy Jackson reflects on must-watch ME Senate race",
       "channel": "MS NOW",
       "videoId": "ZFoNKb39TJY",
-      "viewsPerHour": 138,
+      "viewsPerHour": 119,
       "views": 1790,
-      "ageHours": 13
+      "ageHours": 15
     },
     {
       "title": "Why Did Two Dancers Perform in the World's Coldest Place?",
       "channel": "Real Stories",
       "videoId": "z3NREMqx6GY",
-      "viewsPerHour": 103,
-      "views": 1161,
-      "ageHours": 11.3
-    },
-    {
-      "title": "Velshi Banned Book Club: 'Dead But Dreaming of Electric Sheep' by Paul Tremblay",
-      "channel": "MS NOW",
-      "videoId": "20Ckh2cZue4",
-      "viewsPerHour": 70,
-      "views": 1661,
-      "ageHours": 23.7
+      "viewsPerHour": 96,
+      "views": 1283,
+      "ageHours": 13.3
     },
     {
       "title": "The Greatest One Man Army Isn't a Man | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "7eWgSMDfmtE",
-      "viewsPerHour": 58,
+      "viewsPerHour": 56,
       "views": 2356,
-      "ageHours": 40.3
+      "ageHours": 42.3
     }
   ]
 }
