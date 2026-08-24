@@ -1,6 +1,22 @@
 {
   "videosPerChannel": [
     {
+      "channel": "MS NOW",
+      "count": 4
+    },
+    {
+      "channel": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 25
+    },
+    {
+      "channel": "Real Stories",
+      "count": 39
+    },
+    {
       "channel": "Last Week Tonight",
       "count": 19
     },
@@ -11,18 +27,6 @@
     {
       "channel": "History",
       "count": 54
-    },
-    {
-      "channel": "MS NOW",
-      "count": 3
-    },
-    {
-      "channel": "Real Stories",
-      "count": 38
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 24
     },
     {
       "channel": "The Interview",
@@ -57,10 +61,6 @@
       "count": 4
     },
     {
-      "channel": "The Rest Is Science",
-      "count": 4
-    },
-    {
       "channel": "Mayim Bialik",
       "count": 8
     },
@@ -75,6 +75,22 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "MS NOW",
+      "count": 4
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 21
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 26
+    },
+    {
       "keyword": "Last Week Tonight",
       "count": 18
     },
@@ -87,20 +103,8 @@
       "count": 30
     },
     {
-      "keyword": "MS NOW",
-      "count": 3
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 25
-    },
-    {
       "keyword": "Giza",
       "count": 4
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 20
     },
     {
       "keyword": "The Interview",
@@ -137,10 +141,6 @@
     {
       "keyword": "AI",
       "count": 12
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "count": 4
     },
     {
       "keyword": "UAP",
@@ -202,11 +202,11 @@
   "dailySummary": [
     {
       "date": "2026-08-23",
-      "videos": 4
+      "videos": 10
     },
     {
       "date": "2026-08-22",
-      "videos": 7
+      "videos": 5
     },
     {
       "date": "2026-08-21",
@@ -435,6 +435,22 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "MS NOW",
+      "matches": 4
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "matches": 2
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 8
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 4
+    },
+    {
       "keyword": "Last Week Tonight",
       "matches": 9
     },
@@ -447,20 +463,8 @@
       "matches": 3
     },
     {
-      "keyword": "MS NOW",
-      "matches": 3
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 3
-    },
-    {
       "keyword": "Giza",
       "matches": 1
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 7
     },
     {
       "keyword": "The Interview",
@@ -497,10 +501,6 @@
     {
       "keyword": "AI",
       "matches": 4
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -508,89 +508,121 @@
       "title": "Blame Canada!",
       "channel": "Jonathan Pie",
       "videoId": "cowIo-eTpLQ",
-      "viewsPerHour": 20840,
-      "views": 139272,
-      "ageHours": 6.7
+      "viewsPerHour": 23242,
+      "views": 202128,
+      "ageHours": 8.7
+    },
+    {
+      "title": "Youtube sued over ads in Premium: youtube claims \"promotions\" are not \"ads\" 🤣🤦",
+      "channel": "Louis Rossmann",
+      "videoId": "oxg7AHYeSBk",
+      "viewsPerHour": 10389,
+      "views": 55491,
+      "ageHours": 5.3
+    },
+    {
+      "title": "The Worst Way To Get To Space",
+      "channel": "The Rest Is Science",
+      "videoId": "qZvmF1Bwwo8",
+      "viewsPerHour": 6813,
+      "views": 22514,
+      "ageHours": 3.3
+    },
+    {
+      "title": "‘Let them eat HELIPADS!’: Journalist on Trump’s focus on vanity and corruption",
+      "channel": "MS NOW",
+      "videoId": "Oc21D_fcFG0",
+      "viewsPerHour": 2576,
+      "views": 5182,
+      "ageHours": 2
     },
     {
       "title": "S10 E13: Gaza War, Congress & Food Safety: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "FG4RX9uC6dE",
-      "viewsPerHour": 1774,
-      "views": 11154,
-      "ageHours": 6.3
+      "viewsPerHour": 1817,
+      "views": 15082,
+      "ageHours": 8.3
+    },
+    {
+      "title": "‘Data is CLEAR’: Dem Rep. says there’s little doubt Democrats will control the House in January",
+      "channel": "MS NOW",
+      "videoId": "qP6Q9ZB7CPI",
+      "viewsPerHour": 1224,
+      "views": 3666,
+      "ageHours": 3
     },
     {
       "title": "S10 E12: Tennessee Mayoral Race & Homeschooling: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "juCyYV7kauw",
-      "viewsPerHour": 770,
-      "views": 23325,
-      "ageHours": 30.3
+      "viewsPerHour": 747,
+      "views": 24143,
+      "ageHours": 32.3
     },
     {
       "title": "Columbus Day (S3, E8) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "F8hzwg9VEcc",
-      "viewsPerHour": 737,
-      "views": 16437,
-      "ageHours": 22.3
+      "viewsPerHour": 701,
+      "views": 17040,
+      "ageHours": 24.3
     },
     {
-      "title": "‘Total FAILURE of leadership’: Dem Rep. slams Hegseth amid crisis aboard USS Lincoln",
+      "title": "New documentary reveals details of Boeing’s retaliation against whistleblowers",
       "channel": "MS NOW",
-      "videoId": "h9617aaravo",
-      "viewsPerHour": 517,
-      "views": 13089,
-      "ageHours": 25.3
+      "videoId": "3rPLdF1Jq3k",
+      "viewsPerHour": 564,
+      "views": 1682,
+      "ageHours": 3
     },
     {
       "title": "MS NOW Highlights - August 22",
       "channel": "MS NOW",
       "videoId": "zeSucM44_sQ",
-      "viewsPerHour": 397,
+      "viewsPerHour": 364,
       "views": 8856,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "How Fighting Can Save a Relationship | Priya Parker on ‘The Interview’",
       "channel": "The Interview",
       "videoId": "neZTYCPGd4s",
-      "viewsPerHour": 272,
-      "views": 9141,
-      "ageHours": 33.5
+      "viewsPerHour": 267,
+      "views": 9496,
+      "ageHours": 35.6
     },
     {
       "title": "Giza Pyramids Hold a Far Deeper Cosmic Purpose | Ancient Aliens",
       "channel": "History",
       "videoId": "UNZbmEubZ18",
-      "viewsPerHour": 191,
-      "views": 5776,
-      "ageHours": 30.3
+      "viewsPerHour": 187,
+      "views": 6041,
+      "ageHours": 32.3
     },
     {
       "title": "The point of this youtube channel; put what I talk about into practice!",
       "channel": "Louis Rossmann",
       "videoId": "k_ObU2Pn8-I",
-      "viewsPerHour": 170,
+      "viewsPerHour": 160,
       "views": 5680,
-      "ageHours": 33.4
+      "ageHours": 35.4
     },
     {
-      "title": "DNC Chair: Democrats have been winning ‘IN SPITE of the big money’ spent by GOP this election",
-      "channel": "MS NOW",
-      "videoId": "Q9QEcZtTiwo",
-      "viewsPerHour": 60,
-      "views": 1516,
-      "ageHours": 25.2
+      "title": "Rosie O’Donnell Uncovers Her Family's Heartbreaking Past",
+      "channel": "Real Stories",
+      "videoId": "xYTHSzNmHuE",
+      "viewsPerHour": 112,
+      "views": 650,
+      "ageHours": 5.8
     },
     {
       "title": "Why Did Two Dancers Perform in the World's Coldest Place?",
       "channel": "Real Stories",
       "videoId": "z3NREMqx6GY",
-      "viewsPerHour": 58,
-      "views": 1708,
-      "ageHours": 29.3
+      "viewsPerHour": 55,
+      "views": 1723,
+      "ageHours": 31.3
     }
   ]
 }
