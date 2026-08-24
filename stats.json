@@ -1,12 +1,24 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 3
+    },
+    {
       "channel": "MS NOW",
-      "count": 5
+      "count": 8
     },
     {
       "channel": "Last Week Tonight",
       "count": 21
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 3
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 9
     },
     {
       "channel": "Louis Rossmann",
@@ -41,20 +53,12 @@
       "count": 5
     },
     {
-      "channel": "Conan O'Brien",
-      "count": 10
-    },
-    {
       "channel": "Nat Geo",
       "count": 3
     },
     {
       "channel": "NOVA",
       "count": 14
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 3
     },
     {
       "channel": "Diary of a CEO",
@@ -75,12 +79,24 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "PBS NewsHour",
+      "count": 3
+    },
+    {
       "keyword": "MS NOW",
-      "count": 5
+      "count": 8
     },
     {
       "keyword": "Last Week Tonight",
       "count": 20
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 3
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 9
     },
     {
       "keyword": "Louis Rossmann",
@@ -124,14 +140,6 @@
     },
     {
       "keyword": "Louis Rossmann, AI",
-      "count": 3
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 10
-    },
-    {
-      "keyword": "The Daily Show",
       "count": 3
     },
     {
@@ -202,7 +210,7 @@
   "dailySummary": [
     {
       "date": "2026-08-24",
-      "videos": 5
+      "videos": 14
     },
     {
       "date": "2026-08-23",
@@ -230,7 +238,7 @@
     },
     {
       "date": "2026-08-17",
-      "videos": 9
+      "videos": 8
     },
     {
       "date": "2026-08-16",
@@ -242,7 +250,7 @@
     },
     {
       "date": "2026-08-14",
-      "videos": 11
+      "videos": 9
     },
     {
       "date": "2026-08-13",
@@ -262,7 +270,7 @@
     },
     {
       "date": "2026-08-09",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-08-08",
@@ -439,11 +447,23 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour",
+      "matches": 3
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 5
+      "matches": 8
     },
     {
       "keyword": "Last Week Tonight",
+      "matches": 9
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 3
+    },
+    {
+      "keyword": "Conan O'Brien",
       "matches": 8
     },
     {
@@ -491,20 +511,12 @@
       "matches": 1
     },
     {
-      "keyword": "Conan O'Brien",
-      "matches": 7
-    },
-    {
-      "keyword": "The Daily Show",
-      "matches": 2
-    },
-    {
       "keyword": "Louis Rossmann, Samsung",
       "matches": 1
     },
     {
       "keyword": "AI",
-      "matches": 3
+      "matches": 2
     }
   ],
   "mostViral48h": [
@@ -512,121 +524,185 @@
       "title": "Subscriptions: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "Wko-2c7lZL8",
-      "viewsPerHour": 50661,
-      "views": 496788,
-      "ageHours": 9.8
+      "viewsPerHour": 53885,
+      "views": 637362,
+      "ageHours": 11.8
     },
     {
       "title": "S13 E22: Sean Duffy & Subscriptions: 8/23/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "WaJsPikptyo",
-      "viewsPerHour": 19419,
-      "views": 258257,
-      "ageHours": 13.3
+      "viewsPerHour": 18680,
+      "views": 286200,
+      "ageHours": 15.3
     },
     {
       "title": "Blame Canada!",
       "channel": "Jonathan Pie",
       "videoId": "cowIo-eTpLQ",
-      "viewsPerHour": 13805,
-      "views": 340909,
-      "ageHours": 24.7
+      "viewsPerHour": 13207,
+      "views": 352825,
+      "ageHours": 26.7
     },
     {
       "title": "The Worst Way To Get To Space",
       "channel": "The Rest Is Science",
       "videoId": "qZvmF1Bwwo8",
-      "viewsPerHour": 8028,
-      "views": 154964,
-      "ageHours": 19.3
+      "viewsPerHour": 7781,
+      "views": 165932,
+      "ageHours": 21.3
+    },
+    {
+      "title": "John Cena (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "YUOQpm_WGe8",
+      "viewsPerHour": 4588,
+      "views": 33624,
+      "ageHours": 7.3
+    },
+    {
+      "title": "Jessica Williams on How SNAP Cuts Make America Look Like the Hunger Games | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "QF5EyK-r09w",
+      "viewsPerHour": 3300,
+      "views": 17580,
+      "ageHours": 5.3
     },
     {
       "title": "Youtube sued over ads in Premium: youtube claims \"promotions\" are not \"ads\" 🤣🤦",
       "channel": "Louis Rossmann",
       "videoId": "oxg7AHYeSBk",
-      "viewsPerHour": 2600,
+      "viewsPerHour": 2375,
       "views": 55491,
-      "ageHours": 21.3
+      "ageHours": 23.4
     },
     {
       "title": "Let's talk about people defending false advertising on ads...",
       "channel": "Louis Rossmann",
       "videoId": "E4xegAdLmjg",
-      "viewsPerHour": 1648,
+      "viewsPerHour": 1383,
       "views": 17401,
-      "ageHours": 10.6
+      "ageHours": 12.6
     },
     {
       "title": "Trump's plan to lower beef prices sparks MAJOR BACKLASH",
       "channel": "MS NOW",
       "videoId": "KQk-WG73Tvs",
-      "viewsPerHour": 1380,
+      "viewsPerHour": 1034,
       "views": 8353,
-      "ageHours": 6.1
+      "ageHours": 8.1
+    },
+    {
+      "title": "Used the White House as a casino': Dem Sen. on report Trump made $15.5M on oil, gas stocks in 2026",
+      "channel": "MS NOW",
+      "videoId": "DJRdF9QNOJg",
+      "viewsPerHour": 1028,
+      "views": 1727,
+      "ageHours": 1.7
+    },
+    {
+      "title": "WATCH LIVE: Vance speaks at a defense manufacturing facility in Maine",
+      "channel": "PBS NewsHour",
+      "videoId": "5Us1C41bYvk",
+      "viewsPerHour": 1023,
+      "views": 1555,
+      "ageHours": 1.5
     },
     {
       "title": "S10 E13: Gaza War, Congress & Food Safety: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "FG4RX9uC6dE",
-      "viewsPerHour": 1057,
-      "views": 25690,
-      "ageHours": 24.3
+      "viewsPerHour": 993,
+      "views": 26144,
+      "ageHours": 26.3
     },
     {
       "title": "MS NOW Highlights - August 23",
       "channel": "MS NOW",
       "videoId": "xlY4RvkrcSk",
-      "viewsPerHour": 746,
+      "viewsPerHour": 664,
       "views": 12165,
-      "ageHours": 16.3
+      "ageHours": 18.3
+    },
+    {
+      "title": "S10 E14: Bob Menendez & McKinsey: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "-BRWR6iK2iY",
+      "viewsPerHour": 572,
+      "views": 1328,
+      "ageHours": 2.3
     },
     {
       "title": "Columbus Day (S3, E8) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "F8hzwg9VEcc",
-      "viewsPerHour": 508,
-      "views": 20456,
-      "ageHours": 40.3
+      "viewsPerHour": 487,
+      "views": 20595,
+      "ageHours": 42.3
+    },
+    {
+      "title": "Jen Palmieri explains why Scott Colom could FLIP Mississippi's Senate seat BLUE",
+      "channel": "MS NOW",
+      "videoId": "pK3BJQ5hVqU",
+      "viewsPerHour": 334,
+      "views": 666,
+      "ageHours": 2
+    },
+    {
+      "title": "Stars and Stripes reporter SPEAKS OUT after being fired by Pentagon",
+      "channel": "MS NOW",
+      "videoId": "CMkF0XpWPlc",
+      "viewsPerHour": 300,
+      "views": 508,
+      "ageHours": 1.7
     },
     {
       "title": "‘Let them eat HELIPADS!’: Journalist on Trump’s focus on vanity and corruption",
       "channel": "MS NOW",
       "videoId": "Oc21D_fcFG0",
-      "viewsPerHour": 288,
+      "viewsPerHour": 259,
       "views": 5182,
-      "ageHours": 18
+      "ageHours": 20
     },
     {
       "title": "‘Data is CLEAR’: Dem Rep. says there’s little doubt Democrats will control the House in January",
       "channel": "MS NOW",
       "videoId": "qP6Q9ZB7CPI",
-      "viewsPerHour": 193,
+      "viewsPerHour": 174,
       "views": 3666,
-      "ageHours": 19
+      "ageHours": 21
     },
     {
       "title": "New documentary reveals details of Boeing’s retaliation against whistleblowers",
       "channel": "MS NOW",
       "videoId": "3rPLdF1Jq3k",
-      "viewsPerHour": 89,
+      "viewsPerHour": 80,
       "views": 1682,
-      "ageHours": 19
+      "ageHours": 21
+    },
+    {
+      "title": "WATCH LIVE: U.S. health and agriculture leaders hold a back-to-school rally at USDA headquarters",
+      "channel": "PBS NewsHour",
+      "videoId": "wk-_bTP5rWg",
+      "viewsPerHour": 80,
+      "views": 299,
+      "ageHours": 3.7
     },
     {
       "title": "Rosie O’Donnell Uncovers Her Family's Heartbreaking Past",
       "channel": "Real Stories",
       "videoId": "xYTHSzNmHuE",
-      "viewsPerHour": 65,
-      "views": 1418,
-      "ageHours": 21.8
+      "viewsPerHour": 61,
+      "views": 1464,
+      "ageHours": 23.8
     },
     {
-      "title": "Why Did Two Dancers Perform in the World's Coldest Place?",
-      "channel": "Real Stories",
-      "videoId": "z3NREMqx6GY",
-      "viewsPerHour": 40,
-      "views": 1900,
-      "ageHours": 47.3
+      "title": "WATCH LIVE: Bessent expected to announce new round of Iran sanctions",
+      "channel": "PBS NewsHour",
+      "videoId": "EIzzhQi__5U",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 3.6
     }
   ]
 }
