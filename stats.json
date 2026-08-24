@@ -1,6 +1,10 @@
 {
   "videosPerChannel": [
     {
+      "channel": "Last Week Tonight",
+      "count": 20
+    },
+    {
       "channel": "MS NOW",
       "count": 4
     },
@@ -15,10 +19,6 @@
     {
       "channel": "Real Stories",
       "count": 39
-    },
-    {
-      "channel": "Last Week Tonight",
-      "count": 19
     },
     {
       "channel": "Jonathan Pie",
@@ -75,6 +75,10 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "Last Week Tonight",
+      "count": 19
+    },
+    {
       "keyword": "MS NOW",
       "count": 4
     },
@@ -89,10 +93,6 @@
     {
       "keyword": "Real Stories",
       "count": 26
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "count": 18
     },
     {
       "keyword": "Jonathan Pie",
@@ -201,8 +201,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-08-24",
+      "videos": 2
+    },
+    {
       "date": "2026-08-23",
-      "videos": 10
+      "videos": 9
     },
     {
       "date": "2026-08-22",
@@ -435,6 +439,10 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "Last Week Tonight",
+      "matches": 9
+    },
+    {
       "keyword": "MS NOW",
       "matches": 4
     },
@@ -449,10 +457,6 @@
     {
       "keyword": "Real Stories",
       "matches": 4
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "matches": 8
     },
     {
       "keyword": "Jonathan Pie",
@@ -508,121 +512,129 @@
       "title": "Blame Canada!",
       "channel": "Jonathan Pie",
       "videoId": "cowIo-eTpLQ",
-      "viewsPerHour": 20055,
+      "viewsPerHour": 17340,
       "views": 254848,
-      "ageHours": 12.7
+      "ageHours": 14.7
     },
     {
       "title": "The Worst Way To Get To Space",
       "channel": "The Rest Is Science",
       "videoId": "qZvmF1Bwwo8",
-      "viewsPerHour": 8426,
-      "views": 61642,
-      "ageHours": 7.3
+      "viewsPerHour": 8584,
+      "views": 79877,
+      "ageHours": 9.3
+    },
+    {
+      "title": "S13 E22: Sean Duffy & Subscriptions: 8/23/26: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "WaJsPikptyo",
+      "viewsPerHour": 7034,
+      "views": 23230,
+      "ageHours": 3.3
     },
     {
       "title": "Youtube sued over ads in Premium: youtube claims \"promotions\" are not \"ads\" 🤣🤦",
       "channel": "Louis Rossmann",
       "videoId": "oxg7AHYeSBk",
-      "viewsPerHour": 5934,
+      "viewsPerHour": 4893,
       "views": 55491,
-      "ageHours": 9.4
+      "ageHours": 11.3
+    },
+    {
+      "title": "MS NOW Highlights - August 23",
+      "channel": "MS NOW",
+      "videoId": "xlY4RvkrcSk",
+      "viewsPerHour": 1931,
+      "views": 12165,
+      "ageHours": 6.3
     },
     {
       "title": "S10 E13: Gaza War, Congress & Food Safety: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "FG4RX9uC6dE",
-      "viewsPerHour": 1676,
+      "viewsPerHour": 1443,
       "views": 20637,
-      "ageHours": 12.3
-    },
-    {
-      "title": "‘Let them eat HELIPADS!’: Journalist on Trump’s focus on vanity and corruption",
-      "channel": "MS NOW",
-      "videoId": "Oc21D_fcFG0",
-      "viewsPerHour": 860,
-      "views": 5182,
-      "ageHours": 6
+      "ageHours": 14.3
     },
     {
       "title": "S10 E12: Tennessee Mayoral Race & Homeschooling: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "juCyYV7kauw",
-      "viewsPerHour": 694,
+      "viewsPerHour": 658,
       "views": 25192,
-      "ageHours": 36.3
+      "ageHours": 38.3
+    },
+    {
+      "title": "‘Let them eat HELIPADS!’: Journalist on Trump’s focus on vanity and corruption",
+      "channel": "MS NOW",
+      "videoId": "Oc21D_fcFG0",
+      "viewsPerHour": 647,
+      "views": 5182,
+      "ageHours": 8
     },
     {
       "title": "Columbus Day (S3, E8) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "F8hzwg9VEcc",
-      "viewsPerHour": 672,
+      "viewsPerHour": 628,
       "views": 19024,
-      "ageHours": 28.3
+      "ageHours": 30.3
     },
     {
       "title": "‘Data is CLEAR’: Dem Rep. says there’s little doubt Democrats will control the House in January",
       "channel": "MS NOW",
       "videoId": "qP6Q9ZB7CPI",
-      "viewsPerHour": 523,
+      "viewsPerHour": 408,
       "views": 3666,
-      "ageHours": 7
-    },
-    {
-      "title": "MS NOW Highlights - August 22",
-      "channel": "MS NOW",
-      "videoId": "zeSucM44_sQ",
-      "viewsPerHour": 313,
-      "views": 8856,
-      "ageHours": 28.3
+      "ageHours": 9
     },
     {
       "title": "How Fighting Can Save a Relationship | Priya Parker on ‘The Interview’",
       "channel": "The Interview",
       "videoId": "neZTYCPGd4s",
-      "viewsPerHour": 256,
+      "viewsPerHour": 244,
       "views": 10149,
-      "ageHours": 39.6
+      "ageHours": 41.6
     },
     {
       "title": "New documentary reveals details of Boeing’s retaliation against whistleblowers",
       "channel": "MS NOW",
       "videoId": "3rPLdF1Jq3k",
-      "viewsPerHour": 240,
+      "viewsPerHour": 187,
       "views": 1682,
-      "ageHours": 7
+      "ageHours": 9
     },
     {
       "title": "Giza Pyramids Hold a Far Deeper Cosmic Purpose | Ancient Aliens",
       "channel": "History",
       "videoId": "UNZbmEubZ18",
-      "viewsPerHour": 177,
+      "viewsPerHour": 168,
       "views": 6439,
-      "ageHours": 36.3
+      "ageHours": 38.3
     },
     {
       "title": "The point of this youtube channel; put what I talk about into practice!",
       "channel": "Louis Rossmann",
       "videoId": "k_ObU2Pn8-I",
-      "viewsPerHour": 144,
+      "viewsPerHour": 137,
       "views": 5680,
-      "ageHours": 39.4
+      "ageHours": 41.4
     },
     {
       "title": "Rosie O’Donnell Uncovers Her Family's Heartbreaking Past",
       "channel": "Real Stories",
       "videoId": "xYTHSzNmHuE",
-      "viewsPerHour": 96,
+      "viewsPerHour": 79,
       "views": 939,
-      "ageHours": 9.8
+      "ageHours": 11.8
     },
     {
       "title": "Why Did Two Dancers Perform in the World's Coldest Place?",
       "channel": "Real Stories",
       "videoId": "z3NREMqx6GY",
-      "viewsPerHour": 50,
+      "viewsPerHour": 47,
       "views": 1770,
-      "ageHours": 35.3
+      "ageHours": 37.3
     }
   ]
 }
