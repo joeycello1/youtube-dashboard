@@ -460,7 +460,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "matches": 9
+      "matches": 8
     },
     {
       "keyword": "The Daily Show",
@@ -468,7 +468,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "The Rest Is Science",
@@ -524,217 +524,201 @@
       "title": "Subscriptions: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "Wko-2c7lZL8",
-      "viewsPerHour": 45713,
-      "views": 1453642,
-      "ageHours": 31.8
+      "viewsPerHour": 44184,
+      "views": 1495302,
+      "ageHours": 33.8
     },
     {
       "title": "S13 E22: Sean Duffy & Subscriptions: 8/23/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "WaJsPikptyo",
-      "viewsPerHour": 12434,
-      "views": 438835,
-      "ageHours": 35.3
-    },
-    {
-      "title": "Blame Canada!",
-      "channel": "Jonathan Pie",
-      "videoId": "cowIo-eTpLQ",
-      "viewsPerHour": 9077,
-      "views": 423760,
-      "ageHours": 46.7
+      "viewsPerHour": 11975,
+      "views": 447105,
+      "ageHours": 37.3
     },
     {
       "title": "The Worst Way To Get To Space",
       "channel": "The Rest Is Science",
       "videoId": "qZvmF1Bwwo8",
-      "viewsPerHour": 6311,
-      "views": 260598,
-      "ageHours": 41.3
+      "viewsPerHour": 6173,
+      "views": 267510,
+      "ageHours": 43.3
     },
     {
       "title": "PBS News Hour full episode, August 24, 2026",
       "channel": "PBS NewsHour",
       "videoId": "8kJhzrFKkRY",
-      "viewsPerHour": 5985,
+      "viewsPerHour": 5257,
       "views": 88299,
-      "ageHours": 14.8
-    },
-    {
-      "title": "Tamara Keith and Amy Walter on Trump's midterm strategy",
-      "channel": "PBS NewsHour",
-      "videoId": "aUWGygJ5rVw",
-      "viewsPerHour": 4486,
-      "views": 67720,
-      "ageHours": 15.1
+      "ageHours": 16.8
     },
     {
       "title": "Jessica Williams on How SNAP Cuts Make America Look Like the Hunger Games | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "QF5EyK-r09w",
-      "viewsPerHour": 4349,
-      "views": 110024,
-      "ageHours": 25.3
+      "viewsPerHour": 4316,
+      "views": 117996,
+      "ageHours": 27.3
+    },
+    {
+      "title": "Tamara Keith and Amy Walter on Trump's midterm strategy",
+      "channel": "PBS NewsHour",
+      "videoId": "aUWGygJ5rVw",
+      "viewsPerHour": 3951,
+      "views": 67720,
+      "ageHours": 17.1
     },
     {
       "title": "BREAKING: Trump-aligned Supreme Court hands Trump SHOCKING voter suppression win",
       "channel": "MS NOW",
       "videoId": "CYYPjHrfxPw",
-      "viewsPerHour": 2632,
+      "viewsPerHour": 2343,
       "views": 43556,
-      "ageHours": 16.5
+      "ageHours": 18.6
     },
     {
       "title": "Youtube sued over ads in Premium: youtube claims \"promotions\" are not \"ads\" 🤣🤦",
       "channel": "Louis Rossmann",
       "videoId": "oxg7AHYeSBk",
-      "viewsPerHour": 1281,
+      "viewsPerHour": 1223,
       "views": 55491,
-      "ageHours": 43.3
+      "ageHours": 45.4
     },
     {
       "title": "John Cena (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "YUOQpm_WGe8",
-      "viewsPerHour": 1232,
+      "viewsPerHour": 1146,
       "views": 33624,
-      "ageHours": 27.3
-    },
-    {
-      "title": "S10 E13: Gaza War, Congress & Food Safety: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "FG4RX9uC6dE",
-      "viewsPerHour": 629,
-      "views": 29101,
-      "ageHours": 46.3
+      "ageHours": 29.3
     },
     {
       "title": "S10 E14: Bob Menendez & McKinsey: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "-BRWR6iK2iY",
       "viewsPerHour": 617,
-      "views": 13762,
-      "ageHours": 22.3
+      "views": 15010,
+      "ageHours": 24.3
     },
     {
       "title": "Let's talk about people defending false advertising on ads...",
       "channel": "Louis Rossmann",
       "videoId": "E4xegAdLmjg",
-      "viewsPerHour": 535,
+      "viewsPerHour": 503,
       "views": 17401,
-      "ageHours": 32.6
-    },
-    {
-      "title": "Ted Cruz: GOP not decided on Vance for 2028",
-      "channel": "MS NOW",
-      "videoId": "HMHE_2X_bDg",
-      "viewsPerHour": 336,
-      "views": 1444,
-      "ageHours": 4.3
+      "ageHours": 34.6
     },
     {
       "title": "Help me get footage in San Angelo, Texas",
       "channel": "Louis Rossmann",
       "videoId": "cRWvjVGB3sI",
-      "viewsPerHour": 324,
+      "viewsPerHour": 296,
       "views": 6857,
-      "ageHours": 21.2
+      "ageHours": 23.2
     },
     {
       "title": "HEARTBREAKING for me': USS Lincoln Sailor speaks out about dad's arrest by Trump's Border Patrol",
       "channel": "MS NOW",
       "videoId": "mSeF1cTJR54",
-      "viewsPerHour": 303,
+      "viewsPerHour": 269,
       "views": 4785,
-      "ageHours": 15.8
+      "ageHours": 17.8
     },
     {
       "title": "In new novel 'Under the Falls,' Richard Russo explores places left behind",
       "channel": "PBS NewsHour",
       "videoId": "5vyfMIAaHWA",
-      "viewsPerHour": 266,
+      "viewsPerHour": 234,
       "views": 3983,
-      "ageHours": 15
+      "ageHours": 17
+    },
+    {
+      "title": "Ted Cruz: GOP not decided on Vance for 2028",
+      "channel": "MS NOW",
+      "videoId": "HMHE_2X_bDg",
+      "viewsPerHour": 228,
+      "views": 1444,
+      "ageHours": 6.3
     },
     {
       "title": "PBS News Hour live episode, August 24, 2026",
       "channel": "PBS NewsHour",
       "videoId": "IIS1SUaD1Vk",
-      "viewsPerHour": 245,
+      "viewsPerHour": 219,
       "views": 4233,
-      "ageHours": 17.3
+      "ageHours": 19.3
     },
     {
       "title": "Ted Cruz BUCKS Blanche on Abortion: DOJ ‘DOESN'T have a direct role in making Dobbs permanent’",
       "channel": "MS NOW",
       "videoId": "GsVCblpzyJo",
-      "viewsPerHour": 201,
+      "viewsPerHour": 132,
       "views": 784,
-      "ageHours": 3.9
+      "ageHours": 5.9
     },
     {
       "title": "Used the White House as a casino': Dem Sen. on report Trump made $15.5M on oil, gas stocks in 2026",
       "channel": "MS NOW",
       "videoId": "DJRdF9QNOJg",
-      "viewsPerHour": 80,
+      "viewsPerHour": 73,
       "views": 1727,
-      "ageHours": 21.7
+      "ageHours": 23.7
     },
     {
       "title": "WATCH LIVE: Vance speaks at a defense manufacturing facility in Maine",
       "channel": "PBS NewsHour",
       "videoId": "5Us1C41bYvk",
-      "viewsPerHour": 72,
+      "viewsPerHour": 66,
       "views": 1555,
-      "ageHours": 21.5
+      "ageHours": 23.5
     },
     {
       "title": "Rosie O’Donnell Uncovers Her Family's Heartbreaking Past",
       "channel": "Real Stories",
       "videoId": "xYTHSzNmHuE",
-      "viewsPerHour": 41,
-      "views": 1793,
-      "ageHours": 43.8
+      "viewsPerHour": 39,
+      "views": 1800,
+      "ageHours": 45.8
     },
     {
       "title": "Jen Palmieri explains why Scott Colom could FLIP Mississippi's Senate seat BLUE",
       "channel": "MS NOW",
       "videoId": "pK3BJQ5hVqU",
-      "viewsPerHour": 30,
+      "viewsPerHour": 28,
       "views": 666,
-      "ageHours": 22
+      "ageHours": 24
     },
     {
       "title": "Stars and Stripes reporter SPEAKS OUT after being fired by Pentagon",
       "channel": "MS NOW",
       "videoId": "CMkF0XpWPlc",
-      "viewsPerHour": 23,
+      "viewsPerHour": 21,
       "views": 508,
-      "ageHours": 21.7
+      "ageHours": 23.7
     },
     {
       "title": "News Wrap: Wildfire forces evacuations near Reno",
       "channel": "PBS NewsHour",
       "videoId": "iXpx7Srn3so",
-      "viewsPerHour": 23,
+      "viewsPerHour": 20,
       "views": 353,
-      "ageHours": 15.7
+      "ageHours": 17.7
     },
     {
       "title": "Bon Appétit reveals the 2026 Best New Restaurants List",
       "channel": "MS NOW",
       "videoId": "AiDHHq0J5aI",
-      "viewsPerHour": 19,
+      "viewsPerHour": 17,
       "views": 329,
-      "ageHours": 16.9
+      "ageHours": 18.9
     },
     {
       "title": "WATCH LIVE: U.S. health and agriculture leaders hold a back-to-school rally at USDA headquarters",
       "channel": "PBS NewsHour",
       "videoId": "wk-_bTP5rWg",
-      "viewsPerHour": 13,
+      "viewsPerHour": 12,
       "views": 299,
-      "ageHours": 23.7
+      "ageHours": 25.8
     },
     {
       "title": "How Trump intervened in the DOJ case against Live Nation",
@@ -742,7 +726,7 @@
       "videoId": "U_QJCjJZMXE",
       "viewsPerHour": 1,
       "views": 12,
-      "ageHours": 15.5
+      "ageHours": 17.6
     },
     {
       "title": "WATCH LIVE: Bessent expected to announce new round of Iran sanctions",
@@ -750,7 +734,7 @@
       "videoId": "EIzzhQi__5U",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 23.5
+      "ageHours": 25.6
     }
   ]
 }
