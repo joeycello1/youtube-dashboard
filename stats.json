@@ -517,140 +517,132 @@
   ],
   "mostViral48h": [
     {
-      "title": "Subscriptions: Last Week Tonight with John Oliver (HBO)",
-      "channel": "Last Week Tonight",
-      "videoId": "Wko-2c7lZL8",
-      "viewsPerHour": 35674,
-      "views": 1705031,
-      "ageHours": 47.8
-    },
-    {
       "title": "Jessica Williams on How SNAP Cuts Make America Look Like the Hunger Games | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "QF5EyK-r09w",
-      "viewsPerHour": 3452,
-      "views": 142527,
-      "ageHours": 41.3
+      "viewsPerHour": 3611,
+      "views": 156373,
+      "ageHours": 43.3
     },
     {
       "title": "S10 E15: Argentina & Chocolate: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "SqLJz--S-1w",
-      "viewsPerHour": 1159,
-      "views": 16568,
-      "ageHours": 14.3
+      "viewsPerHour": 1330,
+      "views": 21672,
+      "ageHours": 16.3
     },
     {
       "title": "John Cena (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "YUOQpm_WGe8",
-      "viewsPerHour": 777,
+      "viewsPerHour": 742,
       "views": 33624,
-      "ageHours": 43.3
+      "ageHours": 45.3
     },
     {
       "title": "WATCH LIVE: Final witnesses expected to testify in Lindsay Clancy trial",
       "channel": "PBS NewsHour",
       "videoId": "l52woEd_tOc",
-      "viewsPerHour": 767,
+      "viewsPerHour": 687,
       "views": 13315,
-      "ageHours": 17.4
+      "ageHours": 19.4
     },
     {
       "title": "WATCH LIVE: Canada announces retaliatory tariffs against the U.S.",
       "channel": "PBS NewsHour",
       "videoId": "b-NWm5Zcaq4",
-      "viewsPerHour": 569,
+      "viewsPerHour": 497,
       "views": 7890,
-      "ageHours": 13.9
+      "ageHours": 15.9
     },
     {
       "title": "S10 E14: Bob Menendez & McKinsey: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "-BRWR6iK2iY",
-      "viewsPerHour": 470,
-      "views": 17979,
-      "ageHours": 38.3
+      "viewsPerHour": 458,
+      "views": 18442,
+      "ageHours": 40.3
     },
     {
       "title": "John Cena Was Almost Fired From WWE | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "3ZJ0C9Rkioo",
-      "viewsPerHour": 454,
+      "viewsPerHour": 409,
       "views": 8308,
-      "ageHours": 18.3
+      "ageHours": 20.3
     },
     {
       "title": "WATCH LIVE: Astronauts replace critical antenna outside International Space Station",
       "channel": "PBS NewsHour",
       "videoId": "gwgwmg7hQE8",
-      "viewsPerHour": 420,
+      "viewsPerHour": 377,
       "views": 7420,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "Conan & Sona React To Gourley's Weird Pasadena Lore | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "CxOfmyQiogk",
-      "viewsPerHour": 395,
+      "viewsPerHour": 349,
       "views": 6040,
-      "ageHours": 15.3
+      "ageHours": 17.3
     },
     {
       "title": "Trump 'has never appreciated' strength of U.S.-Canada's symbiotic relationship: Fmr. Ambassador",
       "channel": "MS NOW",
       "videoId": "wwhZHeN2cHo",
-      "viewsPerHour": 378,
+      "viewsPerHour": 331,
       "views": 5249,
-      "ageHours": 13.9
+      "ageHours": 15.9
     },
     {
       "title": "Help me get footage in San Angelo, Texas",
       "channel": "Louis Rossmann",
       "videoId": "cRWvjVGB3sI",
-      "viewsPerHour": 185,
+      "viewsPerHour": 175,
       "views": 6857,
-      "ageHours": 37.1
-    },
-    {
-      "title": "Trump is trying to 'lay the groundwork' to reject midterm results: CO Secy. of State",
-      "channel": "MS NOW",
-      "videoId": "uj_rpdaVd3E",
-      "viewsPerHour": 72,
-      "views": 1004,
-      "ageHours": 13.9
+      "ageHours": 39.2
     },
     {
       "title": "Ted Cruz: GOP not decided on Vance for 2028",
       "channel": "MS NOW",
       "videoId": "HMHE_2X_bDg",
-      "viewsPerHour": 71,
+      "viewsPerHour": 65,
       "views": 1444,
-      "ageHours": 20.3
+      "ageHours": 22.3
+    },
+    {
+      "title": "Trump is trying to 'lay the groundwork' to reject midterm results: CO Secy. of State",
+      "channel": "MS NOW",
+      "videoId": "uj_rpdaVd3E",
+      "viewsPerHour": 63,
+      "views": 1004,
+      "ageHours": 15.9
     },
     {
       "title": "Trump's support among farmers has 'taken a hit': Cattleman's Pres. SPEAKS OUT on beef import plan",
       "channel": "MS NOW",
       "videoId": "RZde7rI-fFk",
-      "viewsPerHour": 54,
+      "viewsPerHour": 47,
       "views": 753,
-      "ageHours": 13.9
+      "ageHours": 15.9
     },
     {
       "title": "Ted Cruz BUCKS Blanche on Abortion: DOJ ‘DOESN'T have a direct role in making Dobbs permanent’",
       "channel": "MS NOW",
       "videoId": "GsVCblpzyJo",
-      "viewsPerHour": 39,
+      "viewsPerHour": 36,
       "views": 784,
-      "ageHours": 19.9
+      "ageHours": 21.9
     },
     {
       "title": "Inside The Mind Of A School Shooter",
       "channel": "Real Stories",
       "videoId": "ojt1S7rScZg",
       "viewsPerHour": 1,
-      "views": 11,
-      "ageHours": 14.3
+      "views": 12,
+      "ageHours": 16.3
     }
   ]
 }
