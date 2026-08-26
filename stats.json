@@ -460,7 +460,7 @@
     },
     {
       "keyword": "UFO",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "NOVA",
@@ -468,15 +468,15 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "matches": 9
+      "matches": 8
     },
     {
       "keyword": "Real Stories",
-      "matches": 4
+      "matches": 3
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "The Daily Show",
@@ -524,169 +524,161 @@
       "title": "Your Reality Is a Simulation | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "4hzoXRbVapg",
-      "viewsPerHour": 7457,
-      "views": 137103,
-      "ageHours": 18.4
+      "viewsPerHour": 7135,
+      "views": 145405,
+      "ageHours": 20.4
     },
     {
       "title": "PBS News Hour full episode, Aug. 25, 2026",
       "channel": "PBS NewsHour",
       "videoId": "eGj0n9QihTQ",
-      "viewsPerHour": 4648,
+      "viewsPerHour": 4096,
       "views": 68633,
-      "ageHours": 14.8
+      "ageHours": 16.8
     },
     {
       "title": "Remembering Dolly Parton, whose artistry and generosity touched generations",
       "channel": "PBS NewsHour",
       "videoId": "jzc1Q0tOXjc",
-      "viewsPerHour": 4195,
+      "viewsPerHour": 3706,
       "views": 63364,
-      "ageHours": 15.1
+      "ageHours": 17.1
     },
     {
       "title": "Trump provokes price-hiking trade war with Canada amid an affordability election",
       "channel": "MS NOW",
       "videoId": "wVfLtZkDlVw",
-      "viewsPerHour": 4088,
+      "viewsPerHour": 3324,
       "views": 35437,
-      "ageHours": 8.7
+      "ageHours": 10.7
     },
     {
       "title": "S10 E15: Argentina & Chocolate: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "SqLJz--S-1w",
-      "viewsPerHour": 1314,
-      "views": 29308,
-      "ageHours": 22.3
+      "viewsPerHour": 1293,
+      "views": 31408,
+      "ageHours": 24.3
     },
     {
       "title": "Mysterious Radiation Beams | The Secret of Skinwalker Ranch | Full Episode",
       "channel": "History",
       "videoId": "Bq9R6wqRRtE",
-      "viewsPerHour": 1043,
-      "views": 17000,
-      "ageHours": 16.3
+      "viewsPerHour": 956,
+      "views": 17496,
+      "ageHours": 18.3
     },
     {
       "title": "If at First You DON’T (Constitutionally) SUCCEED, Try TRY AGAIN",
       "channel": "MS NOW",
       "videoId": "ANKj8tfda1c",
-      "viewsPerHour": 984,
+      "viewsPerHour": 811,
       "views": 9149,
-      "ageHours": 9.3
-    },
-    {
-      "title": "@3DMusketeers: \"we are living in an onion article\" ",
-      "channel": "Louis Rossmann",
-      "videoId": "c8eEJtUHT6U",
-      "viewsPerHour": 595,
-      "views": 5158,
-      "ageHours": 8.7
+      "ageHours": 11.3
     },
     {
       "title": "WATCH LIVE: Final witnesses expected to testify in Lindsay Clancy trial",
       "channel": "PBS NewsHour",
       "videoId": "l52woEd_tOc",
-      "viewsPerHour": 525,
+      "viewsPerHour": 487,
       "views": 13315,
-      "ageHours": 25.4
+      "ageHours": 27.4
     },
     {
-      "title": "S10 E14: Bob Menendez & McKinsey: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "-BRWR6iK2iY",
-      "viewsPerHour": 419,
-      "views": 19378,
-      "ageHours": 46.3
+      "title": "@3DMusketeers: \"we are living in an onion article\" ",
+      "channel": "Louis Rossmann",
+      "videoId": "c8eEJtUHT6U",
+      "viewsPerHour": 484,
+      "views": 5158,
+      "ageHours": 10.7
     },
     {
       "title": "WATCH LIVE: Canada announces retaliatory tariffs against the U.S.",
       "channel": "PBS NewsHour",
       "videoId": "b-NWm5Zcaq4",
-      "viewsPerHour": 361,
+      "viewsPerHour": 331,
       "views": 7890,
-      "ageHours": 21.9
+      "ageHours": 23.9
     },
     {
       "title": "John Cena Was Almost Fired From WWE | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "3ZJ0C9Rkioo",
-      "viewsPerHour": 316,
+      "viewsPerHour": 294,
       "views": 8308,
-      "ageHours": 26.3
+      "ageHours": 28.3
     },
     {
       "title": "WATCH LIVE: Astronauts replace critical antenna outside International Space Station",
       "channel": "PBS NewsHour",
       "videoId": "gwgwmg7hQE8",
-      "viewsPerHour": 289,
+      "viewsPerHour": 268,
       "views": 7420,
-      "ageHours": 25.7
+      "ageHours": 27.7
     },
     {
       "title": "Conan & Sona React To Gourley's Weird Pasadena Lore | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "CxOfmyQiogk",
-      "viewsPerHour": 259,
+      "viewsPerHour": 239,
       "views": 6040,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "Trump 'has never appreciated' strength of U.S.-Canada's symbiotic relationship: Fmr. Ambassador",
       "channel": "MS NOW",
       "videoId": "wwhZHeN2cHo",
-      "viewsPerHour": 240,
+      "viewsPerHour": 220,
       "views": 5249,
-      "ageHours": 21.9
-    },
-    {
-      "title": "The Last Word with Lawrence O'Donnell - Aug. 25 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "slDKwekXoVo",
-      "viewsPerHour": 227,
-      "views": 914,
-      "ageHours": 4
+      "ageHours": 23.9
     },
     {
       "title": "A look at the devastating impact of USAID cuts in rural Afghanistan",
       "channel": "PBS NewsHour",
       "videoId": "21-WyoiUOo8",
-      "viewsPerHour": 189,
+      "viewsPerHour": 167,
       "views": 2881,
-      "ageHours": 15.2
+      "ageHours": 17.2
+    },
+    {
+      "title": "The Last Word with Lawrence O'Donnell - Aug. 25 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "slDKwekXoVo",
+      "viewsPerHour": 152,
+      "views": 914,
+      "ageHours": 6
     },
     {
       "title": "Help me get footage in San Angelo, Texas",
       "channel": "Louis Rossmann",
       "videoId": "cRWvjVGB3sI",
-      "viewsPerHour": 152,
+      "viewsPerHour": 145,
       "views": 6857,
-      "ageHours": 45.2
+      "ageHours": 47.1
     },
     {
       "title": "Trump is trying to 'lay the groundwork' to reject midterm results: CO Secy. of State",
       "channel": "MS NOW",
       "videoId": "uj_rpdaVd3E",
-      "viewsPerHour": 46,
+      "viewsPerHour": 42,
       "views": 1004,
-      "ageHours": 21.9
+      "ageHours": 23.9
     },
     {
       "title": "Trump's support among farmers has 'taken a hit': Cattleman's Pres. SPEAKS OUT on beef import plan",
       "channel": "MS NOW",
       "videoId": "RZde7rI-fFk",
-      "viewsPerHour": 34,
+      "viewsPerHour": 32,
       "views": 753,
-      "ageHours": 21.9
+      "ageHours": 23.9
     },
     {
       "title": "Inside The Mind Of A School Shooter",
       "channel": "Real Stories",
       "videoId": "ojt1S7rScZg",
       "viewsPerHour": 1,
-      "views": 16,
-      "ageHours": 22.3
+      "views": 19,
+      "ageHours": 24.3
     }
   ]
 }
