@@ -1,12 +1,24 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
-      "count": 3
+      "channel": "MS NOW",
+      "count": 6
     },
     {
-      "channel": "MS NOW",
-      "count": 5
+      "channel": "Louis Rossmann",
+      "count": 24
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 6
+    },
+    {
+      "channel": "History",
+      "count": 55
+    },
+    {
+      "channel": "NOVA",
+      "count": 15
     },
     {
       "channel": "Last Week Tonight",
@@ -21,10 +33,6 @@
       "count": 11
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 23
-    },
-    {
       "channel": "The Daily Show",
       "count": 3
     },
@@ -35,10 +43,6 @@
     {
       "channel": "Jonathan Pie",
       "count": 7
-    },
-    {
-      "channel": "History",
-      "count": 54
     },
     {
       "channel": "The Interview",
@@ -55,10 +59,6 @@
     {
       "channel": "Nat Geo",
       "count": 3
-    },
-    {
-      "channel": "NOVA",
-      "count": 14
     },
     {
       "channel": "Diary of a CEO",
@@ -79,12 +79,24 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "PBS NewsHour",
-      "count": 3
+      "keyword": "MS NOW",
+      "count": 6
     },
     {
-      "keyword": "MS NOW",
-      "count": 5
+      "keyword": "Louis Rossmann",
+      "count": 20
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 6
+    },
+    {
+      "keyword": "UFO",
+      "count": 29
+    },
+    {
+      "keyword": "NOVA",
+      "count": 31
     },
     {
       "keyword": "Last Week Tonight",
@@ -99,10 +111,6 @@
       "count": 11
     },
     {
-      "keyword": "Louis Rossmann",
-      "count": 19
-    },
-    {
       "keyword": "The Daily Show",
       "count": 3
     },
@@ -115,20 +123,12 @@
       "count": 7
     },
     {
-      "keyword": "NOVA",
-      "count": 30
-    },
-    {
       "keyword": "Giza",
       "count": 4
     },
     {
       "keyword": "The Interview",
       "count": 7
-    },
-    {
-      "keyword": "UFO",
-      "count": 28
     },
     {
       "keyword": "More Perfect Union",
@@ -209,8 +209,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-08-26",
+      "videos": 4
+    },
+    {
       "date": "2026-08-25",
-      "videos": 12
+      "videos": 15
     },
     {
       "date": "2026-08-24",
@@ -443,12 +447,24 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
-      "matches": 3
+      "keyword": "MS NOW",
+      "matches": 6
     },
     {
-      "keyword": "MS NOW",
+      "keyword": "Louis Rossmann",
+      "matches": 8
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 6
+    },
+    {
+      "keyword": "UFO",
       "matches": 5
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 3
     },
     {
       "keyword": "Last Week Tonight",
@@ -460,10 +476,6 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 8
-    },
-    {
-      "keyword": "Louis Rossmann",
       "matches": 7
     },
     {
@@ -479,20 +491,12 @@
       "matches": 1
     },
     {
-      "keyword": "NOVA",
-      "matches": 2
-    },
-    {
       "keyword": "Giza",
       "matches": 1
     },
     {
       "keyword": "The Interview",
       "matches": 1
-    },
-    {
-      "keyword": "UFO",
-      "matches": 4
     },
     {
       "keyword": "More Perfect Union",
@@ -517,132 +521,180 @@
   ],
   "mostViral48h": [
     {
+      "title": "Your Reality Is a Simulation | NOVA | PBS",
+      "channel": "NOVA",
+      "videoId": "4hzoXRbVapg",
+      "viewsPerHour": 7748,
+      "views": 126954,
+      "ageHours": 16.4
+    },
+    {
+      "title": "PBS News Hour full episode, Aug. 25, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "eGj0n9QihTQ",
+      "viewsPerHour": 5377,
+      "views": 68633,
+      "ageHours": 12.8
+    },
+    {
+      "title": "Trump provokes price-hiking trade war with Canada amid an affordability election",
+      "channel": "MS NOW",
+      "videoId": "wVfLtZkDlVw",
+      "viewsPerHour": 5315,
+      "views": 35437,
+      "ageHours": 6.7
+    },
+    {
+      "title": "Remembering Dolly Parton, whose artistry and generosity touched generations",
+      "channel": "PBS NewsHour",
+      "videoId": "jzc1Q0tOXjc",
+      "viewsPerHour": 4835,
+      "views": 63364,
+      "ageHours": 13.1
+    },
+    {
       "title": "Jessica Williams on How SNAP Cuts Make America Look Like the Hunger Games | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "QF5EyK-r09w",
-      "viewsPerHour": 3524,
-      "views": 159613,
-      "ageHours": 45.3
+      "viewsPerHour": 3417,
+      "views": 161643,
+      "ageHours": 47.3
     },
     {
       "title": "S10 E15: Argentina & Chocolate: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "SqLJz--S-1w",
-      "viewsPerHour": 1348,
-      "views": 24649,
-      "ageHours": 18.3
+      "viewsPerHour": 1302,
+      "views": 26431,
+      "ageHours": 20.3
     },
     {
-      "title": "John Cena (Full Episode) | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "YUOQpm_WGe8",
-      "viewsPerHour": 711,
-      "views": 33624,
-      "ageHours": 47.3
+      "title": "If at First You DON’T (Constitutionally) SUCCEED, Try TRY AGAIN",
+      "channel": "MS NOW",
+      "videoId": "ANKj8tfda1c",
+      "viewsPerHour": 1255,
+      "views": 9149,
+      "ageHours": 7.3
+    },
+    {
+      "title": "Mysterious Radiation Beams | The Secret of Skinwalker Ranch | Full Episode",
+      "channel": "History",
+      "videoId": "Bq9R6wqRRtE",
+      "viewsPerHour": 1134,
+      "views": 16222,
+      "ageHours": 14.3
+    },
+    {
+      "title": "@3DMusketeers: \"we are living in an onion article\" ",
+      "channel": "Louis Rossmann",
+      "videoId": "c8eEJtUHT6U",
+      "viewsPerHour": 773,
+      "views": 5158,
+      "ageHours": 6.7
     },
     {
       "title": "WATCH LIVE: Final witnesses expected to testify in Lindsay Clancy trial",
       "channel": "PBS NewsHour",
       "videoId": "l52woEd_tOc",
-      "viewsPerHour": 623,
+      "viewsPerHour": 570,
       "views": 13315,
-      "ageHours": 21.4
+      "ageHours": 23.4
+    },
+    {
+      "title": "The Last Word with Lawrence O'Donnell - Aug. 25 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "slDKwekXoVo",
+      "viewsPerHour": 451,
+      "views": 914,
+      "ageHours": 2
     },
     {
       "title": "S10 E14: Bob Menendez & McKinsey: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "-BRWR6iK2iY",
-      "viewsPerHour": 444,
-      "views": 18773,
-      "ageHours": 42.3
+      "viewsPerHour": 429,
+      "views": 19013,
+      "ageHours": 44.3
     },
     {
       "title": "WATCH LIVE: Canada announces retaliatory tariffs against the U.S.",
       "channel": "PBS NewsHour",
       "videoId": "b-NWm5Zcaq4",
-      "viewsPerHour": 442,
+      "viewsPerHour": 397,
       "views": 7890,
-      "ageHours": 17.9
+      "ageHours": 19.9
     },
     {
       "title": "John Cena Was Almost Fired From WWE | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "3ZJ0C9Rkioo",
-      "viewsPerHour": 373,
+      "viewsPerHour": 342,
       "views": 8308,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "WATCH LIVE: Astronauts replace critical antenna outside International Space Station",
       "channel": "PBS NewsHour",
       "videoId": "gwgwmg7hQE8",
-      "viewsPerHour": 342,
+      "viewsPerHour": 313,
       "views": 7420,
-      "ageHours": 21.7
+      "ageHours": 23.7
     },
     {
       "title": "Conan & Sona React To Gourley's Weird Pasadena Lore | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "CxOfmyQiogk",
-      "viewsPerHour": 313,
+      "viewsPerHour": 284,
       "views": 6040,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "Trump 'has never appreciated' strength of U.S.-Canada's symbiotic relationship: Fmr. Ambassador",
       "channel": "MS NOW",
       "videoId": "wwhZHeN2cHo",
-      "viewsPerHour": 294,
+      "viewsPerHour": 264,
       "views": 5249,
-      "ageHours": 17.9
+      "ageHours": 19.9
+    },
+    {
+      "title": "A look at the devastating impact of USAID cuts in rural Afghanistan",
+      "channel": "PBS NewsHour",
+      "videoId": "21-WyoiUOo8",
+      "viewsPerHour": 218,
+      "views": 2881,
+      "ageHours": 13.2
     },
     {
       "title": "Help me get footage in San Angelo, Texas",
       "channel": "Louis Rossmann",
       "videoId": "cRWvjVGB3sI",
-      "viewsPerHour": 167,
+      "viewsPerHour": 159,
       "views": 6857,
-      "ageHours": 41.1
-    },
-    {
-      "title": "Ted Cruz: GOP not decided on Vance for 2028",
-      "channel": "MS NOW",
-      "videoId": "HMHE_2X_bDg",
-      "viewsPerHour": 59,
-      "views": 1444,
-      "ageHours": 24.3
+      "ageHours": 43.2
     },
     {
       "title": "Trump is trying to 'lay the groundwork' to reject midterm results: CO Secy. of State",
       "channel": "MS NOW",
       "videoId": "uj_rpdaVd3E",
-      "viewsPerHour": 56,
+      "viewsPerHour": 50,
       "views": 1004,
-      "ageHours": 17.9
+      "ageHours": 19.9
     },
     {
       "title": "Trump's support among farmers has 'taken a hit': Cattleman's Pres. SPEAKS OUT on beef import plan",
       "channel": "MS NOW",
       "videoId": "RZde7rI-fFk",
-      "viewsPerHour": 42,
+      "viewsPerHour": 38,
       "views": 753,
-      "ageHours": 17.9
-    },
-    {
-      "title": "Ted Cruz BUCKS Blanche on Abortion: DOJ ‘DOESN'T have a direct role in making Dobbs permanent’",
-      "channel": "MS NOW",
-      "videoId": "GsVCblpzyJo",
-      "viewsPerHour": 33,
-      "views": 784,
-      "ageHours": 23.9
+      "ageHours": 19.9
     },
     {
       "title": "Inside The Mind Of A School Shooter",
       "channel": "Real Stories",
       "videoId": "ojt1S7rScZg",
       "viewsPerHour": 1,
-      "views": 12,
-      "ageHours": 18.3
+      "views": 15,
+      "ageHours": 20.3
     }
   ]
 }
