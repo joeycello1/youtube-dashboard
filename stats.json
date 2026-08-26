@@ -520,201 +520,193 @@
       "title": "Subscriptions: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "Wko-2c7lZL8",
-      "viewsPerHour": 38924,
+      "viewsPerHour": 37230,
       "views": 1705031,
-      "ageHours": 43.8
-    },
-    {
-      "title": "S13 E22: Sean Duffy & Subscriptions: 8/23/26: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "WaJsPikptyo",
-      "viewsPerHour": 10298,
-      "views": 487048,
-      "ageHours": 47.3
+      "ageHours": 45.8
     },
     {
       "title": "Jessica Williams on How SNAP Cuts Make America Look Like the Hunger Games | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "QF5EyK-r09w",
-      "viewsPerHour": 3821,
+      "viewsPerHour": 3627,
       "views": 142527,
-      "ageHours": 37.3
+      "ageHours": 39.3
     },
     {
       "title": "PBS News Hour full episode, August 24, 2026",
       "channel": "PBS NewsHour",
       "videoId": "8kJhzrFKkRY",
-      "viewsPerHour": 3300,
+      "viewsPerHour": 3071,
       "views": 88299,
-      "ageHours": 26.8
+      "ageHours": 28.8
     },
     {
       "title": "Tamara Keith and Amy Walter on Trump's midterm strategy",
       "channel": "PBS NewsHour",
       "videoId": "aUWGygJ5rVw",
-      "viewsPerHour": 2499,
+      "viewsPerHour": 2328,
       "views": 67720,
-      "ageHours": 27.1
-    },
-    {
-      "title": "S10 E15: Argentina & Chocolate: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "SqLJz--S-1w",
-      "viewsPerHour": 1608,
-      "views": 16568,
-      "ageHours": 10.3
+      "ageHours": 29.1
     },
     {
       "title": "BREAKING: Trump-aligned Supreme Court hands Trump SHOCKING voter suppression win",
       "channel": "MS NOW",
       "videoId": "CYYPjHrfxPw",
-      "viewsPerHour": 1525,
+      "viewsPerHour": 1426,
       "views": 43556,
-      "ageHours": 28.6
+      "ageHours": 30.5
+    },
+    {
+      "title": "S10 E15: Argentina & Chocolate: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "SqLJz--S-1w",
+      "viewsPerHour": 1348,
+      "views": 16568,
+      "ageHours": 12.3
     },
     {
       "title": "WATCH LIVE: Final witnesses expected to testify in Lindsay Clancy trial",
       "channel": "PBS NewsHour",
       "videoId": "l52woEd_tOc",
-      "viewsPerHour": 996,
+      "viewsPerHour": 867,
       "views": 13315,
-      "ageHours": 13.4
+      "ageHours": 15.4
     },
     {
       "title": "John Cena (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "YUOQpm_WGe8",
-      "viewsPerHour": 855,
+      "viewsPerHour": 814,
       "views": 33624,
-      "ageHours": 39.3
+      "ageHours": 41.3
     },
     {
       "title": "WATCH LIVE: Canada announces retaliatory tariffs against the U.S.",
       "channel": "PBS NewsHour",
       "videoId": "b-NWm5Zcaq4",
-      "viewsPerHour": 800,
+      "viewsPerHour": 665,
       "views": 7890,
-      "ageHours": 9.9
+      "ageHours": 11.9
     },
     {
       "title": "John Cena Was Almost Fired From WWE | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "3ZJ0C9Rkioo",
-      "viewsPerHour": 581,
+      "viewsPerHour": 510,
       "views": 8308,
-      "ageHours": 14.3
-    },
-    {
-      "title": "WATCH LIVE: Astronauts replace critical antenna outside International Space Station",
-      "channel": "PBS NewsHour",
-      "videoId": "gwgwmg7hQE8",
-      "viewsPerHour": 542,
-      "views": 7420,
-      "ageHours": 13.7
-    },
-    {
-      "title": "Conan & Sona React To Gourley's Weird Pasadena Lore | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "CxOfmyQiogk",
-      "viewsPerHour": 534,
-      "views": 6040,
-      "ageHours": 11.3
-    },
-    {
-      "title": "Trump 'has never appreciated' strength of U.S.-Canada's symbiotic relationship: Fmr. Ambassador",
-      "channel": "MS NOW",
-      "videoId": "wwhZHeN2cHo",
-      "viewsPerHour": 531,
-      "views": 5249,
-      "ageHours": 9.9
+      "ageHours": 16.3
     },
     {
       "title": "S10 E14: Bob Menendez & McKinsey: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "-BRWR6iK2iY",
-      "viewsPerHour": 524,
+      "viewsPerHour": 495,
       "views": 17979,
-      "ageHours": 34.3
+      "ageHours": 36.3
+    },
+    {
+      "title": "WATCH LIVE: Astronauts replace critical antenna outside International Space Station",
+      "channel": "PBS NewsHour",
+      "videoId": "gwgwmg7hQE8",
+      "viewsPerHour": 473,
+      "views": 7420,
+      "ageHours": 15.7
+    },
+    {
+      "title": "Conan & Sona React To Gourley's Weird Pasadena Lore | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "CxOfmyQiogk",
+      "viewsPerHour": 454,
+      "views": 6040,
+      "ageHours": 13.3
+    },
+    {
+      "title": "Trump 'has never appreciated' strength of U.S.-Canada's symbiotic relationship: Fmr. Ambassador",
+      "channel": "MS NOW",
+      "videoId": "wwhZHeN2cHo",
+      "viewsPerHour": 442,
+      "views": 5249,
+      "ageHours": 11.9
     },
     {
       "title": "Let's talk about people defending false advertising on ads...",
       "channel": "Louis Rossmann",
       "videoId": "E4xegAdLmjg",
-      "viewsPerHour": 391,
+      "viewsPerHour": 374,
       "views": 17401,
-      "ageHours": 44.6
+      "ageHours": 46.6
     },
     {
       "title": "Help me get footage in San Angelo, Texas",
       "channel": "Louis Rossmann",
       "videoId": "cRWvjVGB3sI",
-      "viewsPerHour": 207,
+      "viewsPerHour": 195,
       "views": 6857,
-      "ageHours": 33.2
+      "ageHours": 35.1
     },
     {
       "title": "HEARTBREAKING for me': USS Lincoln Sailor speaks out about dad's arrest by Trump's Border Patrol",
       "channel": "MS NOW",
       "videoId": "mSeF1cTJR54",
-      "viewsPerHour": 172,
+      "viewsPerHour": 161,
       "views": 4785,
-      "ageHours": 27.8
+      "ageHours": 29.8
     },
     {
       "title": "In new novel 'Under the Falls,' Richard Russo explores places left behind",
       "channel": "PBS NewsHour",
       "videoId": "5vyfMIAaHWA",
-      "viewsPerHour": 147,
+      "viewsPerHour": 137,
       "views": 3983,
-      "ageHours": 27
+      "ageHours": 29
     },
     {
       "title": "PBS News Hour live episode, August 24, 2026",
       "channel": "PBS NewsHour",
       "videoId": "IIS1SUaD1Vk",
-      "viewsPerHour": 145,
+      "viewsPerHour": 135,
       "views": 4233,
-      "ageHours": 29.3
+      "ageHours": 31.3
     },
     {
       "title": "Trump is trying to 'lay the groundwork' to reject midterm results: CO Secy. of State",
       "channel": "MS NOW",
       "videoId": "uj_rpdaVd3E",
-      "viewsPerHour": 102,
+      "viewsPerHour": 84,
       "views": 1004,
-      "ageHours": 9.9
+      "ageHours": 11.9
     },
     {
       "title": "Ted Cruz: GOP not decided on Vance for 2028",
       "channel": "MS NOW",
       "videoId": "HMHE_2X_bDg",
-      "viewsPerHour": 89,
+      "viewsPerHour": 79,
       "views": 1444,
-      "ageHours": 16.3
+      "ageHours": 18.3
     },
     {
       "title": "Trump's support among farmers has 'taken a hit': Cattleman's Pres. SPEAKS OUT on beef import plan",
       "channel": "MS NOW",
       "videoId": "RZde7rI-fFk",
-      "viewsPerHour": 76,
+      "viewsPerHour": 63,
       "views": 753,
-      "ageHours": 9.9
+      "ageHours": 11.9
     },
     {
       "title": "Ted Cruz BUCKS Blanche on Abortion: DOJ ‘DOESN'T have a direct role in making Dobbs permanent’",
       "channel": "MS NOW",
       "videoId": "GsVCblpzyJo",
-      "viewsPerHour": 49,
+      "viewsPerHour": 44,
       "views": 784,
-      "ageHours": 15.9
+      "ageHours": 17.9
     },
     {
       "title": "News Wrap: Wildfire forces evacuations near Reno",
       "channel": "PBS NewsHour",
       "videoId": "iXpx7Srn3so",
-      "viewsPerHour": 13,
+      "viewsPerHour": 12,
       "views": 353,
-      "ageHours": 27.7
+      "ageHours": 29.7
     },
     {
       "title": "Bon Appétit reveals the 2026 Best New Restaurants List",
@@ -722,7 +714,7 @@
       "videoId": "AiDHHq0J5aI",
       "viewsPerHour": 11,
       "views": 329,
-      "ageHours": 28.9
+      "ageHours": 30.9
     },
     {
       "title": "Inside The Mind Of A School Shooter",
@@ -730,7 +722,7 @@
       "videoId": "ojt1S7rScZg",
       "viewsPerHour": 1,
       "views": 11,
-      "ageHours": 10.3
+      "ageHours": 12.3
     },
     {
       "title": "How Trump intervened in the DOJ case against Live Nation",
@@ -738,7 +730,7 @@
       "videoId": "U_QJCjJZMXE",
       "viewsPerHour": 0,
       "views": 12,
-      "ageHours": 27.5
+      "ageHours": 29.5
     }
   ]
 }
