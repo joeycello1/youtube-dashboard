@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "PBS NewsHour",
-      "count": 7
+      "count": 4
     },
     {
       "channel": "MS NOW",
@@ -80,7 +80,7 @@
   "keywordFrequency": [
     {
       "keyword": "PBS NewsHour",
-      "count": 7
+      "count": 4
     },
     {
       "keyword": "MS NOW",
@@ -210,7 +210,7 @@
     },
     {
       "date": "2026-08-25",
-      "videos": 9
+      "videos": 6
     },
     {
       "date": "2026-08-24",
@@ -440,7 +440,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "PBS NewsHour",
-      "matches": 7
+      "matches": 4
     },
     {
       "keyword": "MS NOW",
@@ -516,169 +516,145 @@
       "title": "BOMBSHELL: Troops allege Hegseth and Trump pushing them to VIOLATE laws as discharge requests SURGE",
       "channel": "MS NOW",
       "videoId": "WWbRc5c9v78",
-      "viewsPerHour": 6637,
+      "viewsPerHour": 5027,
       "views": 41489,
-      "ageHours": 6.3
+      "ageHours": 8.3
     },
     {
       "title": "Your Reality Is a Simulation | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "4hzoXRbVapg",
-      "viewsPerHour": 5333,
+      "viewsPerHour": 5022,
       "views": 172642,
-      "ageHours": 32.4
+      "ageHours": 34.4
     },
     {
       "title": "Inside Afghanistan: Rare Uncensored Footage From The Battle For Marjah",
       "channel": "Real Stories",
       "videoId": "qOmUIFrAXJs",
-      "viewsPerHour": 4225,
+      "viewsPerHour": 3633,
       "views": 51916,
-      "ageHours": 12.3
-    },
-    {
-      "title": "PBS News Hour full episode, Aug. 25, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "eGj0n9QihTQ",
-      "viewsPerHour": 2387,
-      "views": 68633,
-      "ageHours": 28.8
-    },
-    {
-      "title": "Remembering Dolly Parton, whose artistry and generosity touched generations",
-      "channel": "PBS NewsHour",
-      "videoId": "jzc1Q0tOXjc",
-      "viewsPerHour": 2178,
-      "views": 63364,
-      "ageHours": 29.1
+      "ageHours": 14.3
     },
     {
       "title": "Trump provokes price-hiking trade war with Canada amid an affordability election",
       "channel": "MS NOW",
       "videoId": "wVfLtZkDlVw",
-      "viewsPerHour": 1564,
+      "viewsPerHour": 1437,
       "views": 35437,
-      "ageHours": 22.7
+      "ageHours": 24.7
     },
     {
       "title": "S10 E15: Argentina & Chocolate: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "SqLJz--S-1w",
-      "viewsPerHour": 1087,
+      "viewsPerHour": 1030,
       "views": 39435,
-      "ageHours": 36.3
+      "ageHours": 38.3
     },
     {
       "title": "Mysterious Radiation Beams | The Secret of Skinwalker Ranch | Full Episode",
       "channel": "History",
       "videoId": "Bq9R6wqRRtE",
-      "viewsPerHour": 694,
+      "viewsPerHour": 651,
       "views": 21017,
-      "ageHours": 30.3
+      "ageHours": 32.3
     },
     {
       "title": "S10 E16: Bird of the Year & Abortion Rights: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "kYjRBnFKNN4",
-      "viewsPerHour": 551,
+      "viewsPerHour": 474,
       "views": 6770,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "PBS News Hour live episode, Aug. 26, 2026",
       "channel": "PBS NewsHour",
       "videoId": "vTdjQmPrLOw",
-      "viewsPerHour": 534,
+      "viewsPerHour": 419,
       "views": 3874,
-      "ageHours": 7.3
-    },
-    {
-      "title": "Very disturbing': Ret. Army General on fired general reportedly told to drop Kid Rock probe",
-      "channel": "MS NOW",
-      "videoId": "gtySSsCnNVU",
-      "viewsPerHour": 434,
-      "views": 5116,
-      "ageHours": 11.8
+      "ageHours": 9.3
     },
     {
       "title": "WATCH LIVE: Presentation of evidence expected to conclude in Lindsay Clancy trial",
       "channel": "PBS NewsHour",
       "videoId": "dO97m7q3MLc",
-      "viewsPerHour": 434,
+      "viewsPerHour": 384,
       "views": 6674,
-      "ageHours": 15.4
+      "ageHours": 17.4
+    },
+    {
+      "title": "Very disturbing': Ret. Army General on fired general reportedly told to drop Kid Rock probe",
+      "channel": "MS NOW",
+      "videoId": "gtySSsCnNVU",
+      "viewsPerHour": 371,
+      "views": 5116,
+      "ageHours": 13.8
     },
     {
       "title": "If at First You DON’T (Constitutionally) SUCCEED, Try TRY AGAIN",
       "channel": "MS NOW",
       "videoId": "ANKj8tfda1c",
-      "viewsPerHour": 393,
+      "viewsPerHour": 362,
       "views": 9149,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "@3DMusketeers: \"we are living in an onion article\" ",
       "channel": "Louis Rossmann",
       "videoId": "c8eEJtUHT6U",
-      "viewsPerHour": 228,
+      "viewsPerHour": 209,
       "views": 5158,
-      "ageHours": 22.7
+      "ageHours": 24.7
     },
     {
       "title": "John Cena Was Almost Fired From WWE | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "3ZJ0C9Rkioo",
-      "viewsPerHour": 206,
+      "viewsPerHour": 196,
       "views": 8308,
-      "ageHours": 40.3
-    },
-    {
-      "title": "Wall of mud and debris floods communities in Nepal and Tibet",
-      "channel": "PBS NewsHour",
-      "videoId": "82lF25thpOQ",
-      "viewsPerHour": 162,
-      "views": 961,
-      "ageHours": 5.9
+      "ageHours": 42.3
     },
     {
       "title": "Conan & Sona React To Gourley's Weird Pasadena Lore | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "CxOfmyQiogk",
-      "viewsPerHour": 162,
+      "viewsPerHour": 154,
       "views": 6040,
-      "ageHours": 37.3
+      "ageHours": 39.3
+    },
+    {
+      "title": "Wall of mud and debris floods communities in Nepal and Tibet",
+      "channel": "PBS NewsHour",
+      "videoId": "82lF25thpOQ",
+      "viewsPerHour": 121,
+      "views": 961,
+      "ageHours": 7.9
     },
     {
       "title": "Will Forte Returns! (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "cwpMuaMlk7s",
-      "viewsPerHour": 103,
+      "viewsPerHour": 92,
       "views": 1684,
-      "ageHours": 16.3
-    },
-    {
-      "title": "A look at the devastating impact of USAID cuts in rural Afghanistan",
-      "channel": "PBS NewsHour",
-      "videoId": "21-WyoiUOo8",
-      "viewsPerHour": 99,
-      "views": 2881,
-      "ageHours": 29.2
+      "ageHours": 18.3
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Aug. 25 | Audio Only",
       "channel": "MS NOW",
       "videoId": "slDKwekXoVo",
-      "viewsPerHour": 51,
+      "viewsPerHour": 46,
       "views": 914,
-      "ageHours": 18
+      "ageHours": 20
     },
     {
       "title": "$17B Meta settlement puts focus on youth mental health crisis, Colorado AG says",
       "channel": "PBS NewsHour",
       "videoId": "uZs_V08Nwx8",
-      "viewsPerHour": 25,
+      "viewsPerHour": 19,
       "views": 152,
-      "ageHours": 6
+      "ageHours": 8
     },
     {
       "title": "Inside The Mind Of A School Shooter",
@@ -686,7 +662,7 @@
       "videoId": "ojt1S7rScZg",
       "viewsPerHour": 1,
       "views": 21,
-      "ageHours": 36.3
+      "ageHours": 38.3
     }
   ]
 }
