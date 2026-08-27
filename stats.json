@@ -2,7 +2,27 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 4
+      "count": 5
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 19
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 6
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 2
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 12
+    },
+    {
+      "channel": "Mayim Bialik",
+      "count": 9
     },
     {
       "channel": "NOVA",
@@ -17,32 +37,16 @@
       "count": 23
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 6
-    },
-    {
       "channel": "The Rest Is Science",
       "count": 5
-    },
-    {
-      "channel": "Last Week Tonight",
-      "count": 19
     },
     {
       "channel": "Real Stories",
       "count": 39
     },
     {
-      "channel": "Conan O'Brien",
-      "count": 12
-    },
-    {
       "channel": "History",
       "count": 55
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 2
     },
     {
       "channel": "Jonathan Pie",
@@ -65,10 +69,6 @@
       "count": 2
     },
     {
-      "channel": "Mayim Bialik",
-      "count": 8
-    },
-    {
       "channel": "Inside AI",
       "count": 2
     },
@@ -80,7 +80,27 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 4
+      "count": 5
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 19
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 6
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 2
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 12
+    },
+    {
+      "keyword": "AI, artificial intelligence, UAP",
+      "count": 1
     },
     {
       "keyword": "NOVA, AI",
@@ -99,24 +119,12 @@
       "count": 32
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 6
-    },
-    {
       "keyword": "The Rest Is Science",
       "count": 5
     },
     {
-      "keyword": "Last Week Tonight",
-      "count": 18
-    },
-    {
       "keyword": "Real Stories",
       "count": 27
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 12
     },
     {
       "keyword": "Louis Rossmann",
@@ -125,10 +133,6 @@
     {
       "keyword": "UFO",
       "count": 29
-    },
-    {
-      "keyword": "The Daily Show",
-      "count": 2
     },
     {
       "keyword": "Jonathan Pie",
@@ -165,10 +169,6 @@
     {
       "keyword": "UAP, UFO",
       "count": 4
-    },
-    {
-      "keyword": "Last Week Tonight, artificial intelligence, AI",
-      "count": 1
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -210,11 +210,11 @@
   "dailySummary": [
     {
       "date": "2026-08-27",
-      "videos": 6
+      "videos": 13
     },
     {
       "date": "2026-08-26",
-      "videos": 13
+      "videos": 11
     },
     {
       "date": "2026-08-25",
@@ -238,7 +238,7 @@
     },
     {
       "date": "2026-08-20",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-08-19",
@@ -250,7 +250,7 @@
     },
     {
       "date": "2026-08-17",
-      "videos": 8
+      "videos": 7
     },
     {
       "date": "2026-08-16",
@@ -270,7 +270,7 @@
     },
     {
       "date": "2026-08-12",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-08-11",
@@ -448,7 +448,27 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 4
+      "matches": 5
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 9
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 6
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 2
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 7
+    },
+    {
+      "keyword": "AI, artificial intelligence, UAP",
+      "matches": 1
     },
     {
       "keyword": "NOVA, AI",
@@ -467,24 +487,12 @@
       "matches": 4
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 6
-    },
-    {
       "keyword": "The Rest Is Science",
       "matches": 2
     },
     {
-      "keyword": "Last Week Tonight",
-      "matches": 8
-    },
-    {
       "keyword": "Real Stories",
       "matches": 4
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 6
     },
     {
       "keyword": "Louis Rossmann",
@@ -493,10 +501,6 @@
     {
       "keyword": "UFO",
       "matches": 3
-    },
-    {
-      "keyword": "The Daily Show",
-      "matches": 1
     },
     {
       "keyword": "Jonathan Pie",
@@ -524,161 +528,201 @@
       "title": "The Man Who Calls BS On AI: They’re LYING About AI, 2027 Is When It All Breaks! | Ed Zitron",
       "channel": "Diary of a CEO",
       "videoId": "Lf5oqGOCRCM",
-      "viewsPerHour": 94479,
-      "views": 881277,
-      "ageHours": 9.3
+      "viewsPerHour": 103808,
+      "views": 1173989,
+      "ageHours": 11.3
+    },
+    {
+      "title": "John Oliver Investigates Australian Gun Control | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "dFJWYpPrLGs",
+      "viewsPerHour": 16569,
+      "views": 87989,
+      "ageHours": 5.3
+    },
+    {
+      "title": "Conan, Sona, & Gourley's Spouses Take Over The Podcast | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "YRX3Utn-ZX8",
+      "viewsPerHour": 11046,
+      "views": 69688,
+      "ageHours": 6.3
     },
     {
       "title": "Inside Afghanistan: Rare Uncensored Footage From The Battle For Marjah",
       "channel": "Real Stories",
       "videoId": "qOmUIFrAXJs",
-      "viewsPerHour": 9608,
-      "views": 233707,
-      "ageHours": 24.3
+      "viewsPerHour": 9335,
+      "views": 245558,
+      "ageHours": 26.3
+    },
+    {
+      "title": "You Don’t Die. NASA Physicist: What Happens After Death & Why Your Soul Keeps Returning",
+      "channel": "Mayim Bialik",
+      "videoId": "tdlcUSSqb1o",
+      "viewsPerHour": 6032,
+      "views": 44107,
+      "ageHours": 7.3
     },
     {
       "title": "Can A Word Make A Smell Exist?",
       "channel": "The Rest Is Science",
       "videoId": "D2d4wtfr42s",
-      "viewsPerHour": 5954,
-      "views": 102651,
-      "ageHours": 17.2
+      "viewsPerHour": 5968,
+      "views": 114725,
+      "ageHours": 19.2
     },
     {
       "title": "Your Reality Is a Simulation | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "4hzoXRbVapg",
-      "viewsPerHour": 5394,
-      "views": 239546,
-      "ageHours": 44.4
+      "viewsPerHour": 5293,
+      "views": 245552,
+      "ageHours": 46.4
+    },
+    {
+      "title": "Is Trump recognizing GOP's shrinking chances in November? 'No other way to look at it': Haberman",
+      "channel": "MS NOW",
+      "videoId": "ocAHxrgGuAg",
+      "viewsPerHour": 3799,
+      "views": 8015,
+      "ageHours": 2.1
     },
     {
       "title": "PBS News Hour full episode, Aug. 26, 2026",
       "channel": "PBS NewsHour",
       "videoId": "AgSKX_NnGUg",
-      "viewsPerHour": 4141,
+      "viewsPerHour": 3700,
       "views": 68819,
-      "ageHours": 16.6
+      "ageHours": 18.6
     },
     {
       "title": "BOMBSHELL: Troops allege Hegseth and Trump pushing them to VIOLATE laws as discharge requests SURGE",
       "channel": "MS NOW",
       "videoId": "WWbRc5c9v78",
-      "viewsPerHour": 2269,
+      "viewsPerHour": 2047,
       "views": 41489,
-      "ageHours": 18.3
+      "ageHours": 20.3
     },
     {
       "title": "Petlibro AI cat feeder starves cats & let random people view its cloud connected camera 🤦 ",
       "channel": "Louis Rossmann",
       "videoId": "BCYvo_6L2R8",
-      "viewsPerHour": 2123,
+      "viewsPerHour": 1878,
       "views": 32267,
-      "ageHours": 15.2
+      "ageHours": 17.2
+    },
+    {
+      "title": "S10 E17: Bird of the Year Update & Gaza War: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "Rsgqav1Ua2U",
+      "viewsPerHour": 1282,
+      "views": 2960,
+      "ageHours": 2.3
     },
     {
       "title": "Interview: The Hidden Math Behind Everything with Jordan Ellenberg | Particles of Thought",
       "channel": "NOVA",
       "videoId": "D4SG91asfwk",
-      "viewsPerHour": 874,
-      "views": 5530,
-      "ageHours": 6.3
+      "viewsPerHour": 975,
+      "views": 8100,
+      "ageHours": 8.3
+    },
+    {
+      "title": "One of my biggest concerns' with Trump admin and Pentagon is 'the culture': Iraq War Vet",
+      "channel": "MS NOW",
+      "videoId": "6mKPcUn0z_g",
+      "viewsPerHour": 845,
+      "views": 1663,
+      "ageHours": 2
     },
     {
       "title": "Chasing Pluto Full Documentary | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "4XVgg8bJjiU",
-      "viewsPerHour": 863,
-      "views": 13219,
-      "ageHours": 15.3
+      "viewsPerHour": 830,
+      "views": 14365,
+      "ageHours": 17.3
     },
     {
       "title": "S10 E16: Bird of the Year & Abortion Rights: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "kYjRBnFKNN4",
-      "viewsPerHour": 777,
-      "views": 18903,
-      "ageHours": 24.3
+      "viewsPerHour": 770,
+      "views": 20246,
+      "ageHours": 26.3
     },
     {
       "title": "Mysterious Radiation Beams | The Secret of Skinwalker Ranch | Full Episode",
       "channel": "History",
       "videoId": "Bq9R6wqRRtE",
-      "viewsPerHour": 633,
-      "views": 26809,
-      "ageHours": 42.3
+      "viewsPerHour": 621,
+      "views": 27498,
+      "ageHours": 44.3
+    },
+    {
+      "title": "WATCH LIVE: Attorney General Blanche holds news conference on homeland security",
+      "channel": "PBS NewsHour",
+      "videoId": "legDChisKRc",
+      "viewsPerHour": 425,
+      "views": 1018,
+      "ageHours": 2.4
     },
     {
       "title": "Martina McBride shares her favorite Dolly Parton memories",
       "channel": "PBS NewsHour",
       "videoId": "hV9Favj8alE",
-      "viewsPerHour": 426,
+      "viewsPerHour": 381,
       "views": 7167,
-      "ageHours": 16.8
+      "ageHours": 18.8
     },
     {
       "title": "Trump holds Texas fundraiser for Ken Paxton, plans to make midterms about his record",
       "channel": "MS NOW",
       "videoId": "lKdBSFR4Dds",
-      "viewsPerHour": 314,
+      "viewsPerHour": 235,
       "views": 1871,
-      "ageHours": 6
-    },
-    {
-      "title": "WATCH LIVE: Presentation of evidence expected to conclude in Lindsay Clancy trial",
-      "channel": "PBS NewsHour",
-      "videoId": "dO97m7q3MLc",
-      "viewsPerHour": 243,
-      "views": 6674,
-      "ageHours": 27.4
-    },
-    {
-      "title": "Very disturbing': Ret. Army General on fired general reportedly told to drop Kid Rock probe",
-      "channel": "MS NOW",
-      "videoId": "gtySSsCnNVU",
-      "viewsPerHour": 215,
-      "views": 5116,
-      "ageHours": 23.8
+      "ageHours": 7.9
     },
     {
       "title": "PBS News Hour live episode, Aug. 26, 2026",
       "channel": "PBS NewsHour",
       "videoId": "vTdjQmPrLOw",
-      "viewsPerHour": 201,
+      "viewsPerHour": 182,
       "views": 3874,
-      "ageHours": 19.3
-    },
-    {
-      "title": "MS NOW Highlights - August 26",
-      "channel": "MS NOW",
-      "videoId": "59ClvLIpFsk",
-      "viewsPerHour": 154,
-      "views": 916,
-      "ageHours": 6
+      "ageHours": 21.3
     },
     {
       "title": "@3DMusketeers: \"we are living in an onion article\" ",
       "channel": "Louis Rossmann",
       "videoId": "c8eEJtUHT6U",
-      "viewsPerHour": 149,
+      "viewsPerHour": 141,
       "views": 5158,
-      "ageHours": 34.7
+      "ageHours": 36.7
+    },
+    {
+      "title": "MS NOW Highlights - August 26",
+      "channel": "MS NOW",
+      "videoId": "59ClvLIpFsk",
+      "viewsPerHour": 115,
+      "views": 916,
+      "ageHours": 7.9
     },
     {
       "title": "Will Forte Returns! (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "cwpMuaMlk7s",
-      "viewsPerHour": 59,
+      "viewsPerHour": 56,
       "views": 1684,
-      "ageHours": 28.3
+      "ageHours": 30.3
     },
     {
       "title": "Wall of mud and debris floods communities in Nepal and Tibet",
       "channel": "PBS NewsHour",
       "videoId": "82lF25thpOQ",
-      "viewsPerHour": 54,
+      "viewsPerHour": 48,
       "views": 961,
-      "ageHours": 18
+      "ageHours": 19.9
     },
     {
       "title": "$17B Meta settlement puts focus on youth mental health crisis, Colorado AG says",
@@ -686,7 +730,7 @@
       "videoId": "uZs_V08Nwx8",
       "viewsPerHour": 8,
       "views": 152,
-      "ageHours": 18
+      "ageHours": 20
     }
   ]
 }
