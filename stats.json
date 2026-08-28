@@ -1,12 +1,16 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
-      "count": 7
+      "channel": "MS NOW",
+      "count": 5
     },
     {
-      "channel": "MS NOW",
-      "count": 6
+      "channel": "Louis Rossmann",
+      "count": 23
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 7
     },
     {
       "channel": "Last Week Tonight",
@@ -30,11 +34,7 @@
     },
     {
       "channel": "Diary of a CEO",
-      "count": 4
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 22
+      "count": 3
     },
     {
       "channel": "The Rest Is Science",
@@ -79,12 +79,16 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "PBS NewsHour",
-      "count": 7
+      "keyword": "MS NOW",
+      "count": 5
     },
     {
-      "keyword": "MS NOW",
-      "count": 6
+      "keyword": "Louis Rossmann",
+      "count": 19
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 7
     },
     {
       "keyword": "Last Week Tonight",
@@ -108,7 +112,7 @@
     },
     {
       "keyword": "AI",
-      "count": 12
+      "count": 11
     },
     {
       "keyword": "Louis Rossmann, AI",
@@ -125,10 +129,6 @@
     {
       "keyword": "Real Stories",
       "count": 27
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 18
     },
     {
       "keyword": "UFO",
@@ -209,8 +209,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-08-28",
+      "videos": 1
+    },
+    {
       "date": "2026-08-27",
-      "videos": 21
+      "videos": 20
     },
     {
       "date": "2026-08-26",
@@ -266,7 +270,7 @@
     },
     {
       "date": "2026-08-13",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-08-12",
@@ -443,12 +447,16 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
+      "keyword": "MS NOW",
+      "matches": 5
+    },
+    {
+      "keyword": "Louis Rossmann",
       "matches": 7
     },
     {
-      "keyword": "MS NOW",
-      "matches": 6
+      "keyword": "PBS NewsHour",
+      "matches": 7
     },
     {
       "keyword": "Last Week Tonight",
@@ -460,7 +468,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "AI, artificial intelligence, UAP",
@@ -489,10 +497,6 @@
     {
       "keyword": "Real Stories",
       "matches": 4
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 6
     },
     {
       "keyword": "UFO",
@@ -524,201 +528,193 @@
       "title": "The Man Who Calls BS On AI: They’re LYING About AI, 2027 Is When It All Breaks! | Ed Zitron",
       "channel": "Diary of a CEO",
       "videoId": "Lf5oqGOCRCM",
-      "viewsPerHour": 86109,
-      "views": 2350901,
-      "ageHours": 27.3
+      "viewsPerHour": 83385,
+      "views": 2442629,
+      "ageHours": 29.3
     },
     {
       "title": "John Oliver Investigates Australian Gun Control | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "dFJWYpPrLGs",
-      "viewsPerHour": 13700,
-      "views": 291850,
-      "ageHours": 21.3
+      "viewsPerHour": 13198,
+      "views": 307446,
+      "ageHours": 23.3
     },
     {
       "title": "Inside Afghanistan: Rare Uncensored Footage From The Battle For Marjah",
       "channel": "Real Stories",
       "videoId": "qOmUIFrAXJs",
-      "viewsPerHour": 8216,
-      "views": 347511,
-      "ageHours": 42.3
+      "viewsPerHour": 8019,
+      "views": 355137,
+      "ageHours": 44.3
     },
     {
       "title": "PBS News Hour full episode, Aug. 27, 2026",
       "channel": "PBS NewsHour",
       "videoId": "TvxnZ8mfGFs",
-      "viewsPerHour": 6222,
+      "viewsPerHour": 5252,
       "views": 67141,
-      "ageHours": 10.8
+      "ageHours": 12.8
     },
     {
       "title": "Can A Word Make A Smell Exist?",
       "channel": "The Rest Is Science",
       "videoId": "D2d4wtfr42s",
-      "viewsPerHour": 4850,
-      "views": 170792,
-      "ageHours": 35.2
+      "viewsPerHour": 4681,
+      "views": 174152,
+      "ageHours": 37.2
     },
     {
       "title": "You Don’t Die. NASA Physicist: What Happens After Death & Why Your Soul Keeps Returning",
       "channel": "Mayim Bialik",
       "videoId": "tdlcUSSqb1o",
-      "viewsPerHour": 4728,
-      "views": 110184,
-      "ageHours": 23.3
+      "viewsPerHour": 4489,
+      "views": 113568,
+      "ageHours": 25.3
+    },
+    {
+      "title": "Salvagedata, fake reviews & psychics: @GoogleTrustandSafetyTeam you there?",
+      "channel": "Louis Rossmann",
+      "videoId": "HGWeCHw7dWc",
+      "viewsPerHour": 3411,
+      "views": 42130,
+      "ageHours": 12.3
     },
     {
       "title": "Conan, Sona, & Gourley's Spouses Take Over The Podcast | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "YRX3Utn-ZX8",
-      "viewsPerHour": 3125,
+      "viewsPerHour": 2869,
       "views": 69688,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "S10 E17: Bird of the Year Update & Gaza War: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "Rsgqav1Ua2U",
-      "viewsPerHour": 2110,
-      "views": 38621,
-      "ageHours": 18.3
+      "viewsPerHour": 2017,
+      "views": 40934,
+      "ageHours": 20.3
     },
     {
       "title": "Extremely disappointed': Trump infuriates GOP senators after latest move SCREWS OVER core base",
       "channel": "MS NOW",
       "videoId": "adAQblMd8e4",
-      "viewsPerHour": 1253,
+      "viewsPerHour": 1078,
       "views": 15420,
-      "ageHours": 12.3
+      "ageHours": 14.3
+    },
+    {
+      "title": "Iran war reaches 6 months with NO END in sight",
+      "channel": "MS NOW",
+      "videoId": "-bfGgoWiui4",
+      "viewsPerHour": 926,
+      "views": 1775,
+      "ageHours": 1.9
     },
     {
       "title": "Petlibro AI cat feeder starves cats & let random people view its cloud connected camera 🤦 ",
       "channel": "Louis Rossmann",
       "videoId": "BCYvo_6L2R8",
-      "viewsPerHour": 973,
+      "viewsPerHour": 918,
       "views": 32267,
-      "ageHours": 33.2
+      "ageHours": 35.2
     },
     {
       "title": "Chasing Pluto Full Documentary | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "4XVgg8bJjiU",
-      "viewsPerHour": 808,
-      "views": 26906,
-      "ageHours": 33.3
+      "viewsPerHour": 782,
+      "views": 27596,
+      "ageHours": 35.3
     },
     {
       "title": "Interview: The Hidden Math Behind Everything with Jordan Ellenberg | Particles of Thought",
       "channel": "NOVA",
       "videoId": "D4SG91asfwk",
-      "viewsPerHour": 635,
-      "views": 15423,
-      "ageHours": 24.3
-    },
-    {
-      "title": "How the Mayo Clinic is using improv to engage dementia patients",
-      "channel": "PBS NewsHour",
-      "videoId": "NEsFQzYuWao",
-      "viewsPerHour": 563,
-      "views": 6247,
-      "ageHours": 11.1
+      "viewsPerHour": 601,
+      "views": 15796,
+      "ageHours": 26.3
     },
     {
       "title": "S10 E16: Bird of the Year & Abortion Rights: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "kYjRBnFKNN4",
-      "viewsPerHour": 549,
-      "views": 23205,
-      "ageHours": 42.3
+      "viewsPerHour": 531,
+      "views": 23523,
+      "ageHours": 44.3
+    },
+    {
+      "title": "How the Mayo Clinic is using improv to engage dementia patients",
+      "channel": "PBS NewsHour",
+      "videoId": "NEsFQzYuWao",
+      "viewsPerHour": 478,
+      "views": 6247,
+      "ageHours": 13.1
     },
     {
       "title": "Pretend I'M on the ballot!': Trump shrugs off panicking GOP and proposes ABSURD midterms strategy",
       "channel": "MS NOW",
       "videoId": "bnFklIasgoM",
-      "viewsPerHour": 529,
+      "viewsPerHour": 457,
       "views": 6756,
-      "ageHours": 12.8
-    },
-    {
-      "title": "Craig Fugate and Amna Nawaz discuss climate change and disaster response on 'Settle In'",
-      "channel": "PBS NewsHour",
-      "videoId": "5j93FO7PY9M",
-      "viewsPerHour": 447,
-      "views": 4922,
-      "ageHours": 11
+      "ageHours": 14.8
     },
     {
       "title": "Is Trump recognizing GOP's shrinking chances in November? 'No other way to look at it': Haberman",
       "channel": "MS NOW",
       "videoId": "ocAHxrgGuAg",
-      "viewsPerHour": 443,
+      "viewsPerHour": 399,
       "views": 8015,
-      "ageHours": 18.1
+      "ageHours": 20.1
+    },
+    {
+      "title": "Craig Fugate and Amna Nawaz discuss climate change and disaster response on 'Settle In'",
+      "channel": "PBS NewsHour",
+      "videoId": "5j93FO7PY9M",
+      "viewsPerHour": 378,
+      "views": 4922,
+      "ageHours": 13
     },
     {
       "title": "PBS News Hour live episode, Aug. 27, 2026",
       "channel": "PBS NewsHour",
       "videoId": "R37s0wUlvyo",
-      "viewsPerHour": 318,
+      "viewsPerHour": 276,
       "views": 4242,
-      "ageHours": 13.4
+      "ageHours": 15.3
     },
     {
       "title": "One of my biggest concerns' with Trump admin and Pentagon is 'the culture': Iraq War Vet",
       "channel": "MS NOW",
       "videoId": "6mKPcUn0z_g",
-      "viewsPerHour": 93,
+      "viewsPerHour": 83,
       "views": 1663,
-      "ageHours": 18
-    },
-    {
-      "title": "Trump holds Texas fundraiser for Ken Paxton, plans to make midterms about his record",
-      "channel": "MS NOW",
-      "videoId": "lKdBSFR4Dds",
-      "viewsPerHour": 78,
-      "views": 1871,
-      "ageHours": 23.9
+      "ageHours": 20
     },
     {
       "title": "WATCH LIVE: Attorney General Blanche holds news conference on homeland security",
       "channel": "PBS NewsHour",
       "videoId": "legDChisKRc",
-      "viewsPerHour": 55,
+      "viewsPerHour": 50,
       "views": 1018,
-      "ageHours": 18.4
-    },
-    {
-      "title": "MS NOW Highlights - August 26",
-      "channel": "MS NOW",
-      "videoId": "59ClvLIpFsk",
-      "viewsPerHour": 38,
-      "views": 916,
-      "ageHours": 23.9
-    },
-    {
-      "title": "Will Forte Returns! (Full Episode) | Where Everybody Knows Your Name",
-      "channel": "Conan O'Brien",
-      "videoId": "cwpMuaMlk7s",
-      "viewsPerHour": 36,
-      "views": 1684,
-      "ageHours": 46.3
+      "ageHours": 20.4
     },
     {
       "title": "Lindsay Clancy trial draws attention to postpartum mental health",
       "channel": "PBS NewsHour",
       "videoId": "fP2u5eouGlU",
-      "viewsPerHour": 29,
+      "viewsPerHour": 25,
       "views": 344,
-      "ageHours": 11.8
+      "ageHours": 13.8
     },
     {
       "title": "Latvia's foreign minister warns of Russian sabotage acts on Europe",
       "channel": "PBS NewsHour",
       "videoId": "6we8ABFMqOE",
-      "viewsPerHour": 7,
+      "viewsPerHour": 6,
       "views": 80,
-      "ageHours": 11.6
+      "ageHours": 13.6
     }
   ]
 }
