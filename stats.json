@@ -476,7 +476,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "matches": 9
+      "matches": 8
     },
     {
       "keyword": "Conan O'Brien",
@@ -513,10 +513,6 @@
     {
       "keyword": "Jonathan Pie",
       "matches": 1
-    },
-    {
-      "keyword": "Giza",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -524,121 +520,113 @@
       "title": "UFO Experts Come Forward (Full Documentary) - IPN LIVE TOUR",
       "channel": "Area 52",
       "videoId": "OwksWJifxYk",
-      "viewsPerHour": 12405,
-      "views": 276516,
-      "ageHours": 22.3
+      "viewsPerHour": 11778,
+      "views": 286895,
+      "ageHours": 24.4
     },
     {
       "title": "S10 E18: Congress, Dollar Stores & BOTY Update II: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "RXTJOqZdDe0",
-      "viewsPerHour": 4532,
-      "views": 101038,
-      "ageHours": 22.3
+      "viewsPerHour": 4453,
+      "views": 108478,
+      "ageHours": 24.4
     },
     {
       "title": "UNKNOWN TECH Discovered on the Ranch?! | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "arS6iu-q9hQ",
-      "viewsPerHour": 3033,
-      "views": 58527,
-      "ageHours": 19.3
+      "viewsPerHour": 2963,
+      "views": 63282,
+      "ageHours": 21.4
     },
     {
       "title": "Sony's job listings tell me Playstations are getting more ads 🤦",
       "channel": "Louis Rossmann",
       "videoId": "KkKaUKHNQ4c",
-      "viewsPerHour": 2858,
+      "viewsPerHour": 2605,
       "views": 60854,
-      "ageHours": 21.3
+      "ageHours": 23.4
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Aug. 28 | Audio Only",
       "channel": "MS NOW",
       "videoId": "xr3_ecEBuvw",
-      "viewsPerHour": 1289,
+      "viewsPerHour": 1046,
       "views": 11488,
-      "ageHours": 8.9
-    },
-    {
-      "title": "S10 E17: Bird of the Year Update & Gaza War: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "Rsgqav1Ua2U",
-      "viewsPerHour": 1170,
-      "views": 54170,
-      "ageHours": 46.3
+      "ageHours": 11
     },
     {
       "title": "Salvagedata, fake reviews & psychics: @GoogleTrustandSafetyTeam you there?",
       "channel": "Louis Rossmann",
       "videoId": "HGWeCHw7dWc",
-      "viewsPerHour": 1099,
+      "viewsPerHour": 1042,
       "views": 42130,
-      "ageHours": 38.4
+      "ageHours": 40.4
     },
     {
       "title": "WATCH: Why Dolly Parton cherished her 'book lady' title",
       "channel": "PBS NewsHour",
       "videoId": "PDWuUIjJpwk",
-      "viewsPerHour": 1074,
+      "viewsPerHour": 935,
       "views": 14955,
-      "ageHours": 13.9
+      "ageHours": 16
     },
     {
       "title": "From Terminator to Jumanji: Franchises That Should End | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "5yIfvCMOHhs",
-      "viewsPerHour": 534,
+      "viewsPerHour": 495,
       "views": 14050,
-      "ageHours": 26.3
+      "ageHours": 28.4
     },
     {
       "title": "Black Summer: Surviving Australia's Most Apocalyptic Wildfires",
       "channel": "Real Stories",
       "videoId": "jfti-yWuhps",
-      "viewsPerHour": 255,
-      "views": 5677,
-      "ageHours": 22.3
+      "viewsPerHour": 243,
+      "views": 5922,
+      "ageHours": 24.4
     },
     {
       "title": "PBS News Hour live episode, Aug. 28, 2026",
       "channel": "PBS NewsHour",
       "videoId": "JAUMIECAFBY",
-      "viewsPerHour": 248,
+      "viewsPerHour": 221,
       "views": 4242,
-      "ageHours": 17.1
+      "ageHours": 19.2
     },
     {
       "title": "John Cena On Conan's 1992 Ford Taurus: That Car F**ks! | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "fZ6sMCnumDk",
-      "viewsPerHour": 110,
+      "viewsPerHour": 101,
       "views": 2571,
-      "ageHours": 23.3
+      "ageHours": 25.4
     },
     {
       "title": "Treat each other like adults': Nova Scotia Premier SPEAKS OUT on Trump's trade war with Canada",
       "channel": "MS NOW",
       "videoId": "fd94UylaIxE",
-      "viewsPerHour": 74,
+      "viewsPerHour": 68,
       "views": 1613,
-      "ageHours": 21.7
+      "ageHours": 23.8
     },
     {
       "title": "WATCH LIVE: Trumps bestows Artemis II crew with Congressional Space Medal of Honor",
       "channel": "PBS NewsHour",
       "videoId": "vYyLtH5q83Q",
-      "viewsPerHour": 50,
+      "viewsPerHour": 46,
       "views": 1164,
-      "ageHours": 23.1
+      "ageHours": 25.2
     },
     {
       "title": "Groundbreaking treatments and vaccines offer hope in fight against cancer",
       "channel": "PBS NewsHour",
       "videoId": "HTinmH-K530",
-      "viewsPerHour": 5,
+      "viewsPerHour": 4,
       "views": 72,
-      "ageHours": 15.6
+      "ageHours": 17.7
     },
     {
       "title": "National parks under strain from Trump's construction projects and political pressure",
@@ -646,7 +634,7 @@
       "videoId": "JOPP3FvKKTc",
       "viewsPerHour": 1,
       "views": 21,
-      "ageHours": 15.5
+      "ageHours": 17.6
     },
     {
       "title": "Why Trump wants a meeting with Kim Jong Un – and what North Korea wants in return",
@@ -654,7 +642,7 @@
       "videoId": "KXJePx034bI",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 23
+      "ageHours": 25
     }
   ]
 }
