@@ -1,6 +1,22 @@
 {
   "videosPerChannel": [
     {
+      "channel": "Real Stories",
+      "count": 40
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 19
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 20
+    },
+    {
+      "channel": "Nat Geo",
+      "count": 3
+    },
+    {
       "channel": "Chris Lehto",
       "count": 7
     },
@@ -9,20 +25,8 @@
       "count": 3
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 19
-    },
-    {
       "channel": "History",
       "count": 58
-    },
-    {
-      "channel": "Real Stories",
-      "count": 39
-    },
-    {
-      "channel": "Last Week Tonight",
-      "count": 19
     },
     {
       "channel": "The Interview",
@@ -34,7 +38,7 @@
     },
     {
       "channel": "Conan O'Brien",
-      "count": 10
+      "count": 9
     },
     {
       "channel": "The Daily Show",
@@ -62,11 +66,7 @@
     },
     {
       "channel": "More Perfect Union",
-      "count": 15
-    },
-    {
-      "channel": "Nat Geo",
-      "count": 2
+      "count": 14
     },
     {
       "channel": "Inside AI",
@@ -74,6 +74,22 @@
     }
   ],
   "keywordFrequency": [
+    {
+      "keyword": "Real Stories",
+      "count": 29
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 19
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 16
+    },
+    {
+      "keyword": "testimony",
+      "count": 1
+    },
     {
       "keyword": "UAP",
       "count": 6
@@ -83,20 +99,8 @@
       "count": 3
     },
     {
-      "keyword": "Louis Rossmann",
-      "count": 15
-    },
-    {
       "keyword": "NOVA",
       "count": 33
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 28
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "count": 19
     },
     {
       "keyword": "UFO",
@@ -108,7 +112,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 10
+      "count": 9
     },
     {
       "keyword": "The Daily Show",
@@ -144,7 +148,7 @@
     },
     {
       "keyword": "More Perfect Union",
-      "count": 13
+      "count": 12
     },
     {
       "keyword": "FOIA, UFO",
@@ -202,7 +206,7 @@
   "dailySummary": [
     {
       "date": "2026-08-30",
-      "videos": 2
+      "videos": 6
     },
     {
       "date": "2026-08-29",
@@ -242,7 +246,7 @@
     },
     {
       "date": "2026-08-20",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-08-19",
@@ -262,7 +266,7 @@
     },
     {
       "date": "2026-08-15",
-      "videos": 8
+      "videos": 7
     },
     {
       "date": "2026-08-14",
@@ -429,15 +433,27 @@
       "videos": 2
     },
     {
-      "date": "2026-07-01",
-      "videos": 1
-    },
-    {
       "date": "2026-06-14",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
+    {
+      "keyword": "Real Stories",
+      "matches": 6
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 9
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 8
+    },
+    {
+      "keyword": "testimony",
+      "matches": 1
+    },
     {
       "keyword": "UAP",
       "matches": 1
@@ -447,20 +463,8 @@
       "matches": 3
     },
     {
-      "keyword": "Louis Rossmann",
-      "matches": 7
-    },
-    {
       "keyword": "NOVA",
       "matches": 3
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 5
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "matches": 8
     },
     {
       "keyword": "UFO",
@@ -501,100 +505,124 @@
   ],
   "mostViral48h": [
     {
+      "title": "I'm Coming For You, Brother (Full Episode) | 9/11: One Day in America | National Geographic",
+      "channel": "Nat Geo",
+      "videoId": "bseXTZ9ZwHY",
+      "viewsPerHour": 6869,
+      "views": 36326,
+      "ageHours": 5.3
+    },
+    {
       "title": "Everything is About to Change - here's why",
       "channel": "Chris Lehto",
       "videoId": "GPF4DWrarI0",
-      "viewsPerHour": 5558,
-      "views": 88908,
-      "ageHours": 16
+      "viewsPerHour": 5299,
+      "views": 95375,
+      "ageHours": 18
     },
     {
       "title": "At 78, Ina Garten Doesn’t Want Haters Along for the Ride | The Interview",
       "channel": "The Interview",
       "videoId": "eCzZKpO4rqI",
-      "viewsPerHour": 3638,
-      "views": 100196,
-      "ageHours": 27.5
+      "viewsPerHour": 3671,
+      "views": 108481,
+      "ageHours": 29.5
     },
     {
       "title": "Texas governor blocks agencies from spending state money on Flock - THE TIDE IS TURNING!",
       "channel": "Louis Rossmann",
       "videoId": "xUwY2BcNShw",
-      "viewsPerHour": 3086,
+      "viewsPerHour": 2760,
       "views": 52374,
-      "ageHours": 17
+      "ageHours": 19
+    },
+    {
+      "title": "Meet Clinton, the anti-DMCA cat ",
+      "channel": "Louis Rossmann",
+      "videoId": "5MZjhyGe7eE",
+      "viewsPerHour": 2551,
+      "views": 6503,
+      "ageHours": 2.5
     },
     {
       "title": "Silence in the Dark (S3, E9) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "qChAEDXNaiE",
-      "viewsPerHour": 2350,
-      "views": 42970,
-      "ageHours": 18.3
+      "viewsPerHour": 2209,
+      "views": 44818,
+      "ageHours": 20.3
     },
     {
       "title": "UNKNOWN TECH Discovered on the Ranch?! | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "arS6iu-q9hQ",
-      "viewsPerHour": 2247,
-      "views": 101767,
-      "ageHours": 45.3
+      "viewsPerHour": 2205,
+      "views": 104278,
+      "ageHours": 47.3
     },
     {
       "title": "Amazon Rainforest Alien Orbs | Ancient Aliens",
       "channel": "History",
       "videoId": "moUXGidwr30",
-      "viewsPerHour": 1788,
-      "views": 45218,
-      "ageHours": 25.3
+      "viewsPerHour": 1723,
+      "views": 47012,
+      "ageHours": 27.3
     },
     {
       "title": "The Beat Weekly Highlights | Aug. 24-28",
       "channel": "MS NOW",
       "videoId": "tWsMnonq_1U",
-      "viewsPerHour": 1448,
+      "viewsPerHour": 1289,
       "views": 23588,
-      "ageHours": 16.3
-    },
-    {
-      "title": "Sony's job listings tell me Playstations are getting more ads 🤦",
-      "channel": "Louis Rossmann",
-      "videoId": "KkKaUKHNQ4c",
-      "viewsPerHour": 1287,
-      "views": 60854,
-      "ageHours": 47.3
+      "ageHours": 18.3
     },
     {
       "title": "S10 E19: Organ and Body Donations & George Santos: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "xD7i7CYmuSs",
-      "viewsPerHour": 1132,
-      "views": 27504,
-      "ageHours": 24.3
+      "viewsPerHour": 1111,
+      "views": 29207,
+      "ageHours": 26.3
+    },
+    {
+      "title": "S10 E20: Mike Johnson & Freight Trains: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "U5378zFEVLQ",
+      "viewsPerHour": 1082,
+      "views": 2481,
+      "ageHours": 2.3
     },
     {
       "title": "Rep. Dingell to introduce bill to undo Trump’s Lake Ontario to ‘Lake America’ name change",
       "channel": "MS NOW",
       "videoId": "LwCI-gZwaYI",
-      "viewsPerHour": 723,
+      "viewsPerHour": 656,
       "views": 14120,
-      "ageHours": 19.5
+      "ageHours": 21.5
     },
     {
       "title": "Tupac Shakur: Never Seen Before Rare Interview",
       "channel": "Real Stories",
       "videoId": "bnu8msDJfZ4",
-      "viewsPerHour": 600,
-      "views": 13968,
-      "ageHours": 23.3
+      "viewsPerHour": 570,
+      "views": 14429,
+      "ageHours": 25.3
+    },
+    {
+      "title": "Vanessa Williams Unlocks Her Ancestry With A Rare Civil War Photo | Who Do You Think You Are?",
+      "channel": "Real Stories",
+      "videoId": "S4uKp6bCQaw",
+      "viewsPerHour": 371,
+      "views": 849,
+      "ageHours": 2.3
     },
     {
       "title": "Chris Matthews says the U.S. ‘has nothing to show’ for the Iran war",
       "channel": "MS NOW",
       "videoId": "jKnGPk62yiE",
-      "viewsPerHour": 361,
+      "viewsPerHour": 327,
       "views": 7108,
-      "ageHours": 19.7
+      "ageHours": 21.7
     }
   ]
 }
