@@ -460,7 +460,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "matches": 9
+      "matches": 8
     },
     {
       "keyword": "UFO",
@@ -497,140 +497,104 @@
     {
       "keyword": "The Rest Is Science",
       "matches": 2
-    },
-    {
-      "keyword": "Jonathan Pie",
-      "matches": 1
     }
   ],
   "mostViral48h": [
     {
-      "title": "UFO Experts Come Forward (Full Documentary) - IPN LIVE TOUR",
-      "channel": "Area 52",
-      "videoId": "OwksWJifxYk",
-      "viewsPerHour": 7712,
-      "views": 356970,
-      "ageHours": 46.3
-    },
-    {
       "title": "Everything is About to Change - here's why",
       "channel": "Chris Lehto",
       "videoId": "GPF4DWrarI0",
-      "viewsPerHour": 5863,
-      "views": 82047,
-      "ageHours": 14
+      "viewsPerHour": 5558,
+      "views": 88908,
+      "ageHours": 16
     },
     {
       "title": "At 78, Ina Garten Doesn’t Want Haters Along for the Ride | The Interview",
       "channel": "The Interview",
       "videoId": "eCzZKpO4rqI",
-      "viewsPerHour": 3682,
-      "views": 94065,
-      "ageHours": 25.5
+      "viewsPerHour": 3638,
+      "views": 100196,
+      "ageHours": 27.5
     },
     {
       "title": "Texas governor blocks agencies from spending state money on Flock - THE TIDE IS TURNING!",
       "channel": "Louis Rossmann",
       "videoId": "xUwY2BcNShw",
-      "viewsPerHour": 3499,
+      "viewsPerHour": 3086,
       "views": 52374,
-      "ageHours": 15
-    },
-    {
-      "title": "S10 E18: Congress, Dollar Stores & BOTY Update II: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "RXTJOqZdDe0",
-      "viewsPerHour": 3211,
-      "views": 148629,
-      "ageHours": 46.3
+      "ageHours": 17
     },
     {
       "title": "Silence in the Dark (S3, E9) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "qChAEDXNaiE",
-      "viewsPerHour": 2545,
-      "views": 41435,
-      "ageHours": 16.3
+      "viewsPerHour": 2350,
+      "views": 42970,
+      "ageHours": 18.3
     },
     {
       "title": "UNKNOWN TECH Discovered on the Ranch?! | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "arS6iu-q9hQ",
-      "viewsPerHour": 2308,
-      "views": 99931,
-      "ageHours": 43.3
+      "viewsPerHour": 2247,
+      "views": 101767,
+      "ageHours": 45.3
     },
     {
       "title": "Amazon Rainforest Alien Orbs | Ancient Aliens",
       "channel": "History",
       "videoId": "moUXGidwr30",
-      "viewsPerHour": 1880,
-      "views": 43775,
-      "ageHours": 23.3
+      "viewsPerHour": 1788,
+      "views": 45218,
+      "ageHours": 25.3
     },
     {
       "title": "The Beat Weekly Highlights | Aug. 24-28",
       "channel": "MS NOW",
       "videoId": "tWsMnonq_1U",
-      "viewsPerHour": 1650,
+      "viewsPerHour": 1448,
       "views": 23588,
-      "ageHours": 14.3
+      "ageHours": 16.3
     },
     {
       "title": "Sony's job listings tell me Playstations are getting more ads 🤦",
       "channel": "Louis Rossmann",
       "videoId": "KkKaUKHNQ4c",
-      "viewsPerHour": 1344,
+      "viewsPerHour": 1287,
       "views": 60854,
-      "ageHours": 45.3
+      "ageHours": 47.3
     },
     {
       "title": "S10 E19: Organ and Body Donations & George Santos: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "xD7i7CYmuSs",
-      "viewsPerHour": 1168,
-      "views": 26020,
-      "ageHours": 22.3
+      "viewsPerHour": 1132,
+      "views": 27504,
+      "ageHours": 24.3
     },
     {
       "title": "Rep. Dingell to introduce bill to undo Trump’s Lake Ontario to ‘Lake America’ name change",
       "channel": "MS NOW",
       "videoId": "LwCI-gZwaYI",
-      "viewsPerHour": 805,
+      "viewsPerHour": 723,
       "views": 14120,
-      "ageHours": 17.5
+      "ageHours": 19.5
     },
     {
       "title": "Tupac Shakur: Never Seen Before Rare Interview",
       "channel": "Real Stories",
       "videoId": "bnu8msDJfZ4",
-      "viewsPerHour": 636,
-      "views": 13545,
-      "ageHours": 21.3
+      "viewsPerHour": 600,
+      "views": 13968,
+      "ageHours": 23.3
     },
     {
       "title": "Chris Matthews says the U.S. ‘has nothing to show’ for the Iran war",
       "channel": "MS NOW",
       "videoId": "jKnGPk62yiE",
-      "viewsPerHour": 401,
+      "viewsPerHour": 361,
       "views": 7108,
-      "ageHours": 17.7
-    },
-    {
-      "title": "Black Summer: Surviving Australia's Most Apocalyptic Wildfires",
-      "channel": "Real Stories",
-      "videoId": "jfti-yWuhps",
-      "viewsPerHour": 150,
-      "views": 6923,
-      "ageHours": 46.3
-    },
-    {
-      "title": "John Cena On Conan's 1992 Ford Taurus: That Car F**ks! | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "fZ6sMCnumDk",
-      "viewsPerHour": 54,
-      "views": 2571,
-      "ageHours": 47.3
+      "ageHours": 19.7
     }
   ]
 }
