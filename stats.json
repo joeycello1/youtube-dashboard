@@ -1,6 +1,18 @@
 {
   "videosPerChannel": [
     {
+      "channel": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "channel": "MS NOW",
+      "count": 3
+    },
+    {
+      "channel": "More Perfect Union",
+      "count": 15
+    },
+    {
       "channel": "Real Stories",
       "count": 40
     },
@@ -10,7 +22,7 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 20
+      "count": 19
     },
     {
       "channel": "Nat Geo",
@@ -19,10 +31,6 @@
     {
       "channel": "Chris Lehto",
       "count": 7
-    },
-    {
-      "channel": "MS NOW",
-      "count": 3
     },
     {
       "channel": "History",
@@ -57,16 +65,8 @@
       "count": 3
     },
     {
-      "channel": "The Rest Is Science",
-      "count": 4
-    },
-    {
       "channel": "Jonathan Pie",
       "count": 7
-    },
-    {
-      "channel": "More Perfect Union",
-      "count": 14
     },
     {
       "channel": "Inside AI",
@@ -74,6 +74,18 @@
     }
   ],
   "keywordFrequency": [
+    {
+      "keyword": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "keyword": "MS NOW",
+      "count": 3
+    },
+    {
+      "keyword": "More Perfect Union, AI",
+      "count": 2
+    },
     {
       "keyword": "Real Stories",
       "count": 29
@@ -84,7 +96,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 16
+      "count": 15
     },
     {
       "keyword": "testimony",
@@ -93,10 +105,6 @@
     {
       "keyword": "UAP",
       "count": 6
-    },
-    {
-      "keyword": "MS NOW",
-      "count": 3
     },
     {
       "keyword": "NOVA",
@@ -135,10 +143,6 @@
       "count": 3
     },
     {
-      "keyword": "The Rest Is Science",
-      "count": 4
-    },
-    {
       "keyword": "Jonathan Pie",
       "count": 7
     },
@@ -165,10 +169,6 @@
     {
       "keyword": "UAP, UFO",
       "count": 4
-    },
-    {
-      "keyword": "More Perfect Union, AI",
-      "count": 1
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -206,11 +206,11 @@
   "dailySummary": [
     {
       "date": "2026-08-30",
-      "videos": 6
+      "videos": 10
     },
     {
       "date": "2026-08-29",
-      "videos": 8
+      "videos": 6
     },
     {
       "date": "2026-08-28",
@@ -266,7 +266,7 @@
     },
     {
       "date": "2026-08-15",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-08-14",
@@ -439,6 +439,18 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "The Rest Is Science",
+      "matches": 2
+    },
+    {
+      "keyword": "MS NOW",
+      "matches": 3
+    },
+    {
+      "keyword": "More Perfect Union, AI",
+      "matches": 1
+    },
+    {
       "keyword": "Real Stories",
       "matches": 5
     },
@@ -457,10 +469,6 @@
     {
       "keyword": "UAP",
       "matches": 1
-    },
-    {
-      "keyword": "MS NOW",
-      "matches": 3
     },
     {
       "keyword": "NOVA",
@@ -497,124 +505,136 @@
     {
       "keyword": "Louis Rossmann, AI",
       "matches": 1
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "matches": 1
     }
   ],
   "mostViral48h": [
     {
+      "title": "Why Gen Z Hates AI But Uses It The Most (ft. Bernie Sanders)",
+      "channel": "More Perfect Union",
+      "videoId": "NmHhXoTckcM",
+      "viewsPerHour": 24611,
+      "views": 130243,
+      "ageHours": 5.3
+    },
+    {
+      "title": "This Episode Will Make You Angry",
+      "channel": "The Rest Is Science",
+      "videoId": "EjN7Bu03Ldc",
+      "viewsPerHour": 11449,
+      "views": 37679,
+      "ageHours": 3.3
+    },
+    {
+      "title": "What prevents Trump from knocking down the Kennedy Center like the White House East Wing?",
+      "channel": "MS NOW",
+      "videoId": "VxKfU2cYvN8",
+      "viewsPerHour": 10537,
+      "views": 39443,
+      "ageHours": 3.7
+    },
+    {
       "title": "I'm Coming For You, Brother (Full Episode) | 9/11: One Day in America | National Geographic",
       "channel": "Nat Geo",
       "videoId": "bseXTZ9ZwHY",
-      "viewsPerHour": 7306,
-      "views": 67866,
-      "ageHours": 9.3
+      "viewsPerHour": 7111,
+      "views": 80251,
+      "ageHours": 11.3
     },
     {
       "title": "Everything is About to Change - here's why",
       "channel": "Chris Lehto",
       "videoId": "GPF4DWrarI0",
-      "viewsPerHour": 4718,
-      "views": 103806,
-      "ageHours": 22
+      "viewsPerHour": 4444,
+      "views": 106642,
+      "ageHours": 24
     },
     {
       "title": "At 78, Ina Garten Doesn’t Want Haters Along for the Ride | The Interview",
       "channel": "The Interview",
       "videoId": "eCzZKpO4rqI",
-      "viewsPerHour": 3822,
-      "views": 128217,
-      "ageHours": 33.5
+      "viewsPerHour": 3853,
+      "views": 136967,
+      "ageHours": 35.5
+    },
+    {
+      "title": "‘I really believe it’s about his ego’: Hayes Brown on Trump’s Lake Ontario to ‘Lake America’ change",
+      "channel": "MS NOW",
+      "videoId": "VBARgE4nl6s",
+      "viewsPerHour": 3673,
+      "views": 14528,
+      "ageHours": 4
     },
     {
       "title": "S10 E20: Mike Johnson & Freight Trains: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "U5378zFEVLQ",
-      "viewsPerHour": 3146,
-      "views": 19803,
-      "ageHours": 6.3
+      "viewsPerHour": 3483,
+      "views": 28877,
+      "ageHours": 8.3
     },
     {
       "title": "Texas governor blocks agencies from spending state money on Flock - THE TIDE IS TURNING!",
       "channel": "Louis Rossmann",
       "videoId": "xUwY2BcNShw",
-      "viewsPerHour": 2280,
+      "viewsPerHour": 2097,
       "views": 52374,
-      "ageHours": 23
+      "ageHours": 25
     },
     {
       "title": "Silence in the Dark (S3, E9) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "qChAEDXNaiE",
-      "viewsPerHour": 1964,
-      "views": 47713,
-      "ageHours": 24.3
-    },
-    {
-      "title": "Vanessa Williams Unlocks Her Ancestry With A Rare Civil War Photo | Who Do You Think You Are?",
-      "channel": "Real Stories",
-      "videoId": "S4uKp6bCQaw",
-      "viewsPerHour": 1607,
-      "views": 10111,
-      "ageHours": 6.3
+      "viewsPerHour": 1880,
+      "views": 49404,
+      "ageHours": 26.3
     },
     {
       "title": "Amazon Rainforest Alien Orbs | Ancient Aliens",
       "channel": "History",
       "videoId": "moUXGidwr30",
-      "viewsPerHour": 1596,
-      "views": 49955,
-      "ageHours": 31.3
+      "viewsPerHour": 1544,
+      "views": 51397,
+      "ageHours": 33.3
+    },
+    {
+      "title": "Vanessa Williams Unlocks Her Ancestry With A Rare Civil War Photo | Who Do You Think You Are?",
+      "channel": "Real Stories",
+      "videoId": "S4uKp6bCQaw",
+      "viewsPerHour": 1433,
+      "views": 11871,
+      "ageHours": 8.3
     },
     {
       "title": "The Beat Weekly Highlights | Aug. 24-28",
       "channel": "MS NOW",
       "videoId": "tWsMnonq_1U",
-      "viewsPerHour": 1058,
+      "viewsPerHour": 971,
       "views": 23588,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "S10 E19: Organ and Body Donations & George Santos: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "xD7i7CYmuSs",
-      "viewsPerHour": 1010,
-      "views": 30591,
-      "ageHours": 30.3
+      "viewsPerHour": 961,
+      "views": 31027,
+      "ageHours": 32.3
     },
     {
       "title": "Meet Clinton, the anti-DMCA cat ",
       "channel": "Louis Rossmann",
       "videoId": "5MZjhyGe7eE",
-      "viewsPerHour": 993,
+      "viewsPerHour": 761,
       "views": 6503,
-      "ageHours": 6.5
-    },
-    {
-      "title": "Rep. Dingell to introduce bill to undo Trump’s Lake Ontario to ‘Lake America’ name change",
-      "channel": "MS NOW",
-      "videoId": "LwCI-gZwaYI",
-      "viewsPerHour": 553,
-      "views": 14120,
-      "ageHours": 25.5
+      "ageHours": 8.5
     },
     {
       "title": "Tupac Shakur: Never Seen Before Rare Interview",
       "channel": "Real Stories",
       "videoId": "bnu8msDJfZ4",
-      "viewsPerHour": 515,
-      "views": 15087,
-      "ageHours": 29.3
-    },
-    {
-      "title": "Chris Matthews says the U.S. ‘has nothing to show’ for the Iran war",
-      "channel": "MS NOW",
-      "videoId": "jKnGPk62yiE",
-      "viewsPerHour": 276,
-      "views": 7108,
-      "ageHours": 25.7
+      "viewsPerHour": 493,
+      "views": 15417,
+      "ageHours": 31.3
     }
   ]
 }
