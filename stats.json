@@ -2,7 +2,11 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 3
+      "count": 6
+    },
+    {
+      "channel": "Diary of a CEO",
+      "count": 4
     },
     {
       "channel": "The Rest Is Science",
@@ -58,11 +62,7 @@
     },
     {
       "channel": "NOVA",
-      "count": 17
-    },
-    {
-      "channel": "Diary of a CEO",
-      "count": 3
+      "count": 16
     },
     {
       "channel": "Jonathan Pie",
@@ -76,7 +76,11 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 3
+      "count": 6
+    },
+    {
+      "keyword": "AI",
+      "count": 12
     },
     {
       "keyword": "The Rest Is Science",
@@ -108,7 +112,7 @@
     },
     {
       "keyword": "NOVA",
-      "count": 33
+      "count": 32
     },
     {
       "keyword": "UFO",
@@ -133,10 +137,6 @@
     {
       "keyword": "NOVA, AI",
       "count": 1
-    },
-    {
-      "keyword": "AI",
-      "count": 11
     },
     {
       "keyword": "Louis Rossmann, AI",
@@ -206,7 +206,7 @@
   "dailySummary": [
     {
       "date": "2026-08-31",
-      "videos": 1
+      "videos": 5
     },
     {
       "date": "2026-08-30",
@@ -434,7 +434,7 @@
     },
     {
       "date": "2026-07-02",
-      "videos": 2
+      "videos": 1
     },
     {
       "date": "2026-06-14",
@@ -444,7 +444,11 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 3
+      "matches": 6
+    },
+    {
+      "keyword": "AI",
+      "matches": 2
     },
     {
       "keyword": "The Rest Is Science",
@@ -488,7 +492,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "The Daily Show",
@@ -503,142 +507,170 @@
       "matches": 1
     },
     {
-      "keyword": "AI",
-      "matches": 1
-    },
-    {
       "keyword": "Louis Rossmann, AI",
       "matches": 1
     }
   ],
   "mostViral48h": [
     {
+      "title": "Top White House Advisor: The US Empire Is Dying And Socialism Is Coming Next! | David Friedberg",
+      "channel": "Diary of a CEO",
+      "videoId": "OYg6BTjb90E",
+      "viewsPerHour": 36399,
+      "views": 192887,
+      "ageHours": 5.3
+    },
+    {
       "title": "Why Gen Z Hates AI But Uses It The Most (ft. Bernie Sanders)",
       "channel": "More Perfect Union",
       "videoId": "NmHhXoTckcM",
-      "viewsPerHour": 21571,
-      "views": 329899,
-      "ageHours": 15.3
+      "viewsPerHour": 20109,
+      "views": 347855,
+      "ageHours": 17.3
     },
     {
       "title": "This Episode Will Make You Angry",
       "channel": "The Rest Is Science",
       "videoId": "EjN7Bu03Ldc",
-      "viewsPerHour": 11743,
-      "views": 156094,
-      "ageHours": 13.3
-    },
-    {
-      "title": "I'm Coming For You, Brother (Full Episode) | 9/11: One Day in America | National Geographic",
-      "channel": "Nat Geo",
-      "videoId": "bseXTZ9ZwHY",
-      "viewsPerHour": 5745,
-      "views": 122287,
-      "ageHours": 21.3
+      "viewsPerHour": 11115,
+      "views": 170038,
+      "ageHours": 15.3
     },
     {
       "title": "S10 E20: Mike Johnson & Freight Trains: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "U5378zFEVLQ",
-      "viewsPerHour": 4377,
-      "views": 80055,
-      "ageHours": 18.3
+      "viewsPerHour": 5514,
+      "views": 111926,
+      "ageHours": 20.3
+    },
+    {
+      "title": "I'm Coming For You, Brother (Full Episode) | 9/11: One Day in America | National Geographic",
+      "channel": "Nat Geo",
+      "videoId": "bseXTZ9ZwHY",
+      "viewsPerHour": 5421,
+      "views": 126278,
+      "ageHours": 23.3
     },
     {
       "title": "At 78, Ina Garten Doesn’t Want Haters Along for the Ride | The Interview",
       "channel": "The Interview",
       "videoId": "eCzZKpO4rqI",
-      "viewsPerHour": 3615,
-      "views": 164656,
-      "ageHours": 45.5
+      "viewsPerHour": 3494,
+      "views": 166140,
+      "ageHours": 47.6
     },
     {
       "title": "Everything is About to Change - here's why",
       "channel": "Chris Lehto",
       "videoId": "GPF4DWrarI0",
-      "viewsPerHour": 3590,
-      "views": 122052,
-      "ageHours": 34
+      "viewsPerHour": 3469,
+      "views": 124883,
+      "ageHours": 36
+    },
+    {
+      "title": "U.S. and Iran trade fire for the first time in a month",
+      "channel": "MS NOW",
+      "videoId": "ocoXdq66TPA",
+      "viewsPerHour": 2747,
+      "views": 6064,
+      "ageHours": 2.2
     },
     {
       "title": "What prevents Trump from knocking down the Kennedy Center like the White House East Wing?",
       "channel": "MS NOW",
       "videoId": "VxKfU2cYvN8",
-      "viewsPerHour": 2870,
+      "viewsPerHour": 2504,
       "views": 39443,
-      "ageHours": 13.7
+      "ageHours": 15.7
     },
     {
       "title": "Deadline: White House Weekly Highlights | Aug. 24-28",
       "channel": "MS NOW",
       "videoId": "KourZdBwu1A",
-      "viewsPerHour": 2297,
+      "viewsPerHour": 1916,
       "views": 23136,
-      "ageHours": 10.1
+      "ageHours": 12.1
     },
     {
       "title": "Silence in the Dark (S3, E9) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "qChAEDXNaiE",
-      "viewsPerHour": 1545,
-      "views": 56058,
-      "ageHours": 36.3
+      "viewsPerHour": 1472,
+      "views": 56361,
+      "ageHours": 38.3
     },
     {
       "title": "Texas governor blocks agencies from spending state money on Flock - THE TIDE IS TURNING!",
       "channel": "Louis Rossmann",
       "videoId": "xUwY2BcNShw",
-      "viewsPerHour": 1498,
+      "viewsPerHour": 1416,
       "views": 52374,
-      "ageHours": 35
+      "ageHours": 37
     },
     {
       "title": "Amazon Rainforest Alien Orbs | Ancient Aliens",
       "channel": "History",
       "videoId": "moUXGidwr30",
-      "viewsPerHour": 1314,
-      "views": 56864,
-      "ageHours": 43.3
+      "viewsPerHour": 1273,
+      "views": 57645,
+      "ageHours": 45.3
     },
     {
       "title": "‘I really believe it’s about his ego’: Hayes Brown on Trump’s Lake Ontario to ‘Lake America’ change",
       "channel": "MS NOW",
       "videoId": "VBARgE4nl6s",
-      "viewsPerHour": 1041,
+      "viewsPerHour": 910,
       "views": 14528,
-      "ageHours": 14
+      "ageHours": 16
     },
     {
       "title": "Vanessa Williams Unlocks Her Ancestry With A Rare Civil War Photo | Who Do You Think You Are?",
       "channel": "Real Stories",
       "videoId": "S4uKp6bCQaw",
-      "viewsPerHour": 866,
-      "views": 15843,
-      "ageHours": 18.3
+      "viewsPerHour": 803,
+      "views": 16304,
+      "ageHours": 20.3
+    },
+    {
+      "title": "‘UNSUSTAINABLE: Military leaders WARN Hegseth against extending Iran operations: Report",
+      "channel": "MS NOW",
+      "videoId": "rgMYubP8ZFk",
+      "viewsPerHour": 793,
+      "views": 1295,
+      "ageHours": 1.6
     },
     {
       "title": "S10 E19: Organ and Body Donations & George Santos: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "xD7i7CYmuSs",
-      "viewsPerHour": 778,
-      "views": 32918,
-      "ageHours": 42.3
+      "viewsPerHour": 757,
+      "views": 33526,
+      "ageHours": 44.3
+    },
+    {
+      "title": "MS NOW Highlights - August 30",
+      "channel": "MS NOW",
+      "videoId": "BVdPmEBe7HQ",
+      "viewsPerHour": 548,
+      "views": 1260,
+      "ageHours": 2.3
     },
     {
       "title": "Tupac Shakur: Never Seen Before Rare Interview",
       "channel": "Real Stories",
       "videoId": "bnu8msDJfZ4",
-      "viewsPerHour": 397,
-      "views": 16386,
-      "ageHours": 41.3
+      "viewsPerHour": 381,
+      "views": 16504,
+      "ageHours": 43.3
     },
     {
       "title": "Meet Clinton, the anti-DMCA cat ",
       "channel": "Louis Rossmann",
       "videoId": "5MZjhyGe7eE",
-      "viewsPerHour": 351,
+      "viewsPerHour": 316,
       "views": 6503,
-      "ageHours": 18.5
+      "ageHours": 20.6
     }
   ]
 }
