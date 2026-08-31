@@ -2,7 +2,23 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 6
+      "count": 9
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 3
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 19
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 2
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 8
     },
     {
       "channel": "Diary of a CEO",
@@ -19,10 +35,6 @@
     {
       "channel": "Real Stories",
       "count": 40
-    },
-    {
-      "channel": "Last Week Tonight",
-      "count": 19
     },
     {
       "channel": "Louis Rossmann",
@@ -49,14 +61,6 @@
       "count": 5
     },
     {
-      "channel": "Conan O'Brien",
-      "count": 9
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 2
-    },
-    {
       "channel": "Mayim Bialik",
       "count": 9
     },
@@ -76,7 +80,23 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 9
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 3
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 19
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 2
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 8
     },
     {
       "keyword": "AI",
@@ -93,10 +113,6 @@
     {
       "keyword": "Real Stories",
       "count": 29
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "count": 19
     },
     {
       "keyword": "Louis Rossmann",
@@ -121,14 +137,6 @@
     {
       "keyword": "The Interview",
       "count": 7
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 9
-    },
-    {
-      "keyword": "The Daily Show",
-      "count": 2
     },
     {
       "keyword": "AI, artificial intelligence, UAP",
@@ -206,7 +214,7 @@
   "dailySummary": [
     {
       "date": "2026-08-31",
-      "videos": 5
+      "videos": 14
     },
     {
       "date": "2026-08-30",
@@ -234,7 +242,7 @@
     },
     {
       "date": "2026-08-24",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-08-23",
@@ -246,7 +254,7 @@
     },
     {
       "date": "2026-08-21",
-      "videos": 9
+      "videos": 7
     },
     {
       "date": "2026-08-20",
@@ -266,7 +274,7 @@
     },
     {
       "date": "2026-08-16",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-08-15",
@@ -444,7 +452,23 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 9
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 3
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 7
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 2
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 7
     },
     {
       "keyword": "AI",
@@ -463,12 +487,8 @@
       "matches": 5
     },
     {
-      "keyword": "Last Week Tonight",
-      "matches": 6
-    },
-    {
       "keyword": "Louis Rossmann",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "testimony",
@@ -491,14 +511,6 @@
       "matches": 1
     },
     {
-      "keyword": "Conan O'Brien",
-      "matches": 6
-    },
-    {
-      "keyword": "The Daily Show",
-      "matches": 1
-    },
-    {
       "keyword": "AI, artificial intelligence, UAP",
       "matches": 1
     },
@@ -516,137 +528,201 @@
       "title": "Top White House Advisor: The US Empire Is Dying And Socialism Is Coming Next! | David Friedberg",
       "channel": "Diary of a CEO",
       "videoId": "OYg6BTjb90E",
-      "viewsPerHour": 42720,
-      "views": 398493,
-      "ageHours": 9.3
+      "viewsPerHour": 44092,
+      "views": 498647,
+      "ageHours": 11.3
     },
     {
       "title": "Why Gen Z Hates AI But Uses It The Most (ft. Bernie Sanders)",
       "channel": "More Perfect Union",
       "videoId": "NmHhXoTckcM",
-      "viewsPerHour": 19277,
-      "views": 411129,
-      "ageHours": 21.3
+      "viewsPerHour": 19696,
+      "views": 459097,
+      "ageHours": 23.3
     },
     {
       "title": "This Episode Will Make You Angry",
       "channel": "The Rest Is Science",
       "videoId": "EjN7Bu03Ldc",
-      "viewsPerHour": 10146,
-      "views": 196093,
-      "ageHours": 19.3
+      "viewsPerHour": 9765,
+      "views": 208061,
+      "ageHours": 21.3
+    },
+    {
+      "title": "Samantha Bee’s Iconic “I Watch The Five” Performance | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "3nQVaZY8m7A",
+      "viewsPerHour": 9587,
+      "views": 50834,
+      "ageHours": 5.3
+    },
+    {
+      "title": "Andy Daly (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "ifbPmnfNy8A",
+      "viewsPerHour": 7620,
+      "views": 55658,
+      "ageHours": 7.3
     },
     {
       "title": "S10 E20: Mike Johnson & Freight Trains: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "U5378zFEVLQ",
-      "viewsPerHour": 6879,
-      "views": 167332,
-      "ageHours": 24.3
+      "viewsPerHour": 7205,
+      "views": 189541,
+      "ageHours": 26.3
+    },
+    {
+      "title": "Rahm Emanuel BLASTS Trump's trade war with Canada: 'No adult supervision!'",
+      "channel": "MS NOW",
+      "videoId": "9aLcyX3tqE8",
+      "viewsPerHour": 6738,
+      "views": 28704,
+      "ageHours": 4.3
     },
     {
       "title": "I'm Coming For You, Brother (Full Episode) | 9/11: One Day in America | National Geographic",
       "channel": "Nat Geo",
       "videoId": "bseXTZ9ZwHY",
-      "viewsPerHour": 5031,
-      "views": 137457,
-      "ageHours": 27.3
+      "viewsPerHour": 4891,
+      "views": 143310,
+      "ageHours": 29.3
     },
     {
       "title": "Everything is About to Change - here's why",
       "channel": "Chris Lehto",
       "videoId": "GPF4DWrarI0",
-      "viewsPerHour": 3329,
-      "views": 133264,
-      "ageHours": 40
+      "viewsPerHour": 3252,
+      "views": 136628,
+      "ageHours": 42
+    },
+    {
+      "title": "S10 E21: Elon Musk & Season Finale: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "AMzHGmgjQfo",
+      "viewsPerHour": 3203,
+      "views": 7407,
+      "ageHours": 2.3
+    },
+    {
+      "title": "Rahm Emanuel SLAMS DSA: Democrats 'not open to being taken over'",
+      "channel": "MS NOW",
+      "videoId": "lVcOeu9hNCs",
+      "viewsPerHour": 2613,
+      "views": 14460,
+      "ageHours": 5.5
     },
     {
       "title": "What prevents Trump from knocking down the Kennedy Center like the White House East Wing?",
       "channel": "MS NOW",
       "videoId": "VxKfU2cYvN8",
-      "viewsPerHour": 1994,
+      "viewsPerHour": 1813,
       "views": 39443,
-      "ageHours": 19.8
-    },
-    {
-      "title": "Deadline: White House Weekly Highlights | Aug. 24-28",
-      "channel": "MS NOW",
-      "videoId": "KourZdBwu1A",
-      "viewsPerHour": 1436,
-      "views": 23136,
-      "ageHours": 16.1
+      "ageHours": 21.8
     },
     {
       "title": "Silence in the Dark (S3, E9) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "qChAEDXNaiE",
-      "viewsPerHour": 1347,
-      "views": 56994,
-      "ageHours": 42.3
+      "viewsPerHour": 1297,
+      "views": 57472,
+      "ageHours": 44.3
+    },
+    {
+      "title": "Deadline: White House Weekly Highlights | Aug. 24-28",
+      "channel": "MS NOW",
+      "videoId": "KourZdBwu1A",
+      "viewsPerHour": 1279,
+      "views": 23136,
+      "ageHours": 18.1
     },
     {
       "title": "Texas governor blocks agencies from spending state money on Flock - THE TIDE IS TURNING!",
       "channel": "Louis Rossmann",
       "videoId": "xUwY2BcNShw",
-      "viewsPerHour": 1277,
+      "viewsPerHour": 1218,
       "views": 52374,
-      "ageHours": 41
+      "ageHours": 43
+    },
+    {
+      "title": "Ruhle SHREDS GOP for blaming economic crisis on media, ignoring 'lived experience' of voters",
+      "channel": "MS NOW",
+      "videoId": "FSiyLBZ4esE",
+      "viewsPerHour": 1040,
+      "views": 1813,
+      "ageHours": 1.7
     },
     {
       "title": "U.S. and Iran trade fire for the first time in a month",
       "channel": "MS NOW",
       "videoId": "ocoXdq66TPA",
-      "viewsPerHour": 972,
+      "viewsPerHour": 738,
       "views": 6064,
-      "ageHours": 6.2
+      "ageHours": 8.2
     },
     {
       "title": "‘I really believe it’s about his ego’: Hayes Brown on Trump’s Lake Ontario to ‘Lake America’ change",
       "channel": "MS NOW",
       "videoId": "VBARgE4nl6s",
-      "viewsPerHour": 727,
+      "viewsPerHour": 661,
       "views": 14528,
-      "ageHours": 20
+      "ageHours": 22
     },
     {
       "title": "Vanessa Williams Unlocks Her Ancestry With A Rare Civil War Photo | Who Do You Think You Are?",
       "channel": "Real Stories",
       "videoId": "S4uKp6bCQaw",
-      "viewsPerHour": 699,
-      "views": 16995,
-      "ageHours": 24.3
+      "viewsPerHour": 660,
+      "views": 17368,
+      "ageHours": 26.3
     },
     {
-      "title": "Tupac Shakur: Never Seen Before Rare Interview",
-      "channel": "Real Stories",
-      "videoId": "bnu8msDJfZ4",
-      "viewsPerHour": 354,
-      "views": 16754,
-      "ageHours": 47.3
+      "title": "WATCH LIVE: House returns after August recess to tackle stopgap spending bill and more",
+      "channel": "PBS NewsHour",
+      "videoId": "R0F4o9AvLi4",
+      "viewsPerHour": 285,
+      "views": 1728,
+      "ageHours": 6.1
     },
     {
       "title": "Meet Clinton, the anti-DMCA cat ",
       "channel": "Louis Rossmann",
       "videoId": "5MZjhyGe7eE",
-      "viewsPerHour": 265,
+      "viewsPerHour": 245,
       "views": 6503,
-      "ageHours": 24.6
+      "ageHours": 26.6
+    },
+    {
+      "title": "WATCH LIVE: House Intelligence panel hosts roundtable with 9/11 first-responders, Flight 93 families",
+      "channel": "PBS NewsHour",
+      "videoId": "0oEYhgXQ2eI",
+      "viewsPerHour": 182,
+      "views": 456,
+      "ageHours": 2.5
     },
     {
       "title": "‘UNSUSTAINABLE: Military leaders WARN Hegseth against extending Iran operations: Report",
       "channel": "MS NOW",
       "videoId": "rgMYubP8ZFk",
-      "viewsPerHour": 229,
+      "viewsPerHour": 169,
       "views": 1295,
-      "ageHours": 5.7
+      "ageHours": 7.6
     },
     {
       "title": "MS NOW Highlights - August 30",
       "channel": "MS NOW",
       "videoId": "BVdPmEBe7HQ",
-      "viewsPerHour": 199,
+      "viewsPerHour": 152,
       "views": 1260,
-      "ageHours": 6.3
+      "ageHours": 8.3
+    },
+    {
+      "title": "WATCH LIVE: Jeffries holds news conference as House returns to work on stopgap spending bill",
+      "channel": "PBS NewsHour",
+      "videoId": "Aybe_8UCqqY",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 1.9
     }
   ]
 }
