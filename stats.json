@@ -1,12 +1,12 @@
 {
   "videosPerChannel": [
     {
-      "channel": "The Rest Is Science",
-      "count": 5
-    },
-    {
       "channel": "MS NOW",
       "count": 3
+    },
+    {
+      "channel": "The Rest Is Science",
+      "count": 5
     },
     {
       "channel": "More Perfect Union",
@@ -22,7 +22,7 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 19
+      "count": 18
     },
     {
       "channel": "Nat Geo",
@@ -75,12 +75,12 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "The Rest Is Science",
-      "count": 5
-    },
-    {
       "keyword": "MS NOW",
       "count": 3
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "count": 5
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -140,7 +140,7 @@
     },
     {
       "keyword": "Louis Rossmann, AI",
-      "count": 3
+      "count": 2
     },
     {
       "keyword": "Jonathan Pie",
@@ -205,8 +205,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-08-31",
+      "videos": 1
+    },
+    {
       "date": "2026-08-30",
-      "videos": 10
+      "videos": 9
     },
     {
       "date": "2026-08-29",
@@ -262,7 +266,7 @@
     },
     {
       "date": "2026-08-16",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-08-15",
@@ -439,12 +443,12 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "The Rest Is Science",
-      "matches": 2
-    },
-    {
       "keyword": "MS NOW",
       "matches": 3
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "matches": 2
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -460,7 +464,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "testimony",
@@ -512,129 +516,129 @@
       "title": "Why Gen Z Hates AI But Uses It The Most (ft. Bernie Sanders)",
       "channel": "More Perfect Union",
       "videoId": "NmHhXoTckcM",
-      "viewsPerHour": 26300,
-      "views": 245142,
-      "ageHours": 9.3
+      "viewsPerHour": 23749,
+      "views": 268881,
+      "ageHours": 11.3
     },
     {
       "title": "This Episode Will Make You Angry",
       "channel": "The Rest Is Science",
       "videoId": "EjN7Bu03Ldc",
-      "viewsPerHour": 13626,
-      "views": 99739,
-      "ageHours": 7.3
+      "viewsPerHour": 12182,
+      "views": 113542,
+      "ageHours": 9.3
     },
     {
       "title": "I'm Coming For You, Brother (Full Episode) | 9/11: One Day in America | National Geographic",
       "channel": "Nat Geo",
       "videoId": "bseXTZ9ZwHY",
-      "viewsPerHour": 6474,
-      "views": 99148,
-      "ageHours": 15.3
+      "viewsPerHour": 6106,
+      "views": 105723,
+      "ageHours": 17.3
     },
     {
       "title": "What prevents Trump from knocking down the Kennedy Center like the White House East Wing?",
       "channel": "MS NOW",
       "videoId": "VxKfU2cYvN8",
-      "viewsPerHour": 5075,
+      "viewsPerHour": 4036,
       "views": 39443,
-      "ageHours": 7.8
-    },
-    {
-      "title": "Everything is About to Change - here's why",
-      "channel": "Chris Lehto",
-      "videoId": "GPF4DWrarI0",
-      "viewsPerHour": 4013,
-      "views": 112460,
-      "ageHours": 28
+      "ageHours": 9.8
     },
     {
       "title": "At 78, Ina Garten Doesn’t Want Haters Along for the Ride | The Interview",
       "channel": "The Interview",
       "videoId": "eCzZKpO4rqI",
-      "viewsPerHour": 3903,
-      "views": 154449,
-      "ageHours": 39.6
+      "viewsPerHour": 3814,
+      "views": 158586,
+      "ageHours": 41.6
+    },
+    {
+      "title": "Deadline: White House Weekly Highlights | Aug. 24-28",
+      "channel": "MS NOW",
+      "videoId": "KourZdBwu1A",
+      "viewsPerHour": 3792,
+      "views": 23136,
+      "ageHours": 6.1
+    },
+    {
+      "title": "Everything is About to Change - here's why",
+      "channel": "Chris Lehto",
+      "videoId": "GPF4DWrarI0",
+      "viewsPerHour": 3745,
+      "views": 112460,
+      "ageHours": 30
     },
     {
       "title": "S10 E20: Mike Johnson & Freight Trains: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "U5378zFEVLQ",
-      "viewsPerHour": 3102,
+      "viewsPerHour": 2668,
       "views": 38210,
-      "ageHours": 12.3
-    },
-    {
-      "title": "‘I really believe it’s about his ego’: Hayes Brown on Trump’s Lake Ontario to ‘Lake America’ change",
-      "channel": "MS NOW",
-      "videoId": "VBARgE4nl6s",
-      "viewsPerHour": 1819,
-      "views": 14528,
-      "ageHours": 8
+      "ageHours": 14.3
     },
     {
       "title": "Texas governor blocks agencies from spending state money on Flock - THE TIDE IS TURNING!",
       "channel": "Louis Rossmann",
       "videoId": "xUwY2BcNShw",
-      "viewsPerHour": 1806,
+      "viewsPerHour": 1689,
       "views": 52374,
-      "ageHours": 29
+      "ageHours": 31
     },
     {
       "title": "Silence in the Dark (S3, E9) | The Curse of Oak Island | Full Episode",
       "channel": "History",
       "videoId": "qChAEDXNaiE",
-      "viewsPerHour": 1762,
+      "viewsPerHour": 1653,
       "views": 53411,
-      "ageHours": 30.3
+      "ageHours": 32.3
+    },
+    {
+      "title": "‘I really believe it’s about his ego’: Hayes Brown on Trump’s Lake Ontario to ‘Lake America’ change",
+      "channel": "MS NOW",
+      "videoId": "VBARgE4nl6s",
+      "viewsPerHour": 1455,
+      "views": 14528,
+      "ageHours": 10
     },
     {
       "title": "Amazon Rainforest Alien Orbs | Ancient Aliens",
       "channel": "History",
       "videoId": "moUXGidwr30",
-      "viewsPerHour": 1442,
+      "viewsPerHour": 1368,
       "views": 53801,
-      "ageHours": 37.3
+      "ageHours": 39.3
     },
     {
       "title": "Vanessa Williams Unlocks Her Ancestry With A Rare Civil War Photo | Who Do You Think You Are?",
       "channel": "Real Stories",
       "videoId": "S4uKp6bCQaw",
-      "viewsPerHour": 1136,
+      "viewsPerHour": 977,
       "views": 13986,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "S10 E19: Organ and Body Donations & George Santos: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "xD7i7CYmuSs",
-      "viewsPerHour": 866,
+      "viewsPerHour": 821,
       "views": 31458,
-      "ageHours": 36.3
-    },
-    {
-      "title": "The Beat Weekly Highlights | Aug. 24-28",
-      "channel": "MS NOW",
-      "videoId": "tWsMnonq_1U",
-      "viewsPerHour": 833,
-      "views": 23588,
-      "ageHours": 28.3
+      "ageHours": 38.3
     },
     {
       "title": "Meet Clinton, the anti-DMCA cat ",
       "channel": "Louis Rossmann",
       "videoId": "5MZjhyGe7eE",
-      "viewsPerHour": 517,
+      "viewsPerHour": 446,
       "views": 6503,
-      "ageHours": 12.6
+      "ageHours": 14.6
     },
     {
       "title": "Tupac Shakur: Never Seen Before Rare Interview",
       "channel": "Real Stories",
       "videoId": "bnu8msDJfZ4",
-      "viewsPerHour": 450,
+      "viewsPerHour": 426,
       "views": 15894,
-      "ageHours": 35.3
+      "ageHours": 37.3
     }
   ]
 }
