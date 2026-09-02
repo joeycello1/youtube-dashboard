@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "PBS NewsHour",
-      "count": 7
+      "count": 6
     },
     {
       "channel": "NOVA",
@@ -10,7 +10,7 @@
     },
     {
       "channel": "MS NOW",
-      "count": 6
+      "count": 4
     },
     {
       "channel": "Real Stories",
@@ -26,7 +26,7 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 20
+      "count": 19
     },
     {
       "channel": "Last Week Tonight",
@@ -92,7 +92,7 @@
     },
     {
       "keyword": "MS NOW",
-      "count": 5
+      "count": 3
     },
     {
       "keyword": "Real Stories",
@@ -108,11 +108,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 17
-    },
-    {
-      "keyword": "PBS NewsHour, AI, artificial intelligence",
-      "count": 1
+      "count": 16
     },
     {
       "keyword": "Last Week Tonight",
@@ -222,11 +218,11 @@
   "dailySummary": [
     {
       "date": "2026-09-01",
-      "videos": 19
+      "videos": 17
     },
     {
       "date": "2026-08-31",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-08-30",
@@ -282,7 +278,7 @@
     },
     {
       "date": "2026-08-17",
-      "videos": 2
+      "videos": 1
     },
     {
       "date": "2026-08-16",
@@ -468,7 +464,7 @@
     },
     {
       "keyword": "MS NOW",
-      "matches": 5
+      "matches": 3
     },
     {
       "keyword": "Real Stories",
@@ -484,11 +480,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "matches": 8
-    },
-    {
-      "keyword": "PBS NewsHour, AI, artificial intelligence",
-      "matches": 1
+      "matches": 7
     },
     {
       "keyword": "Last Week Tonight",
@@ -540,201 +532,177 @@
       "title": "Top White House Advisor: The US Empire Is Dying And Socialism Is Coming Next! | David Friedberg",
       "channel": "Diary of a CEO",
       "videoId": "OYg6BTjb90E",
-      "viewsPerHour": 27890,
+      "viewsPerHour": 26706,
       "views": 1263210,
-      "ageHours": 45.3
+      "ageHours": 47.3
     },
     {
       "title": "Facing a COLOSSAL WIPEOUT': Republicans PANIC as Trump approval sinks before midterms",
       "channel": "MS NOW",
       "videoId": "KTYn2nV4yHk",
-      "viewsPerHour": 9149,
+      "viewsPerHour": 8390,
       "views": 203003,
-      "ageHours": 22.2
+      "ageHours": 24.2
     },
     {
       "title": "S10 E21: Elon Musk & Season Finale: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "AMzHGmgjQfo",
-      "viewsPerHour": 7744,
+      "viewsPerHour": 7338,
       "views": 281059,
-      "ageHours": 36.3
+      "ageHours": 38.3
     },
     {
       "title": "Near Death Experiences, Telepathy & The Multiverse. An Astrophysicist Explains | Dr. Charles Liu",
       "channel": "Mayim Bialik",
       "videoId": "ZqoGDc_O-Uo",
-      "viewsPerHour": 7106,
+      "viewsPerHour": 6366,
       "views": 122838,
-      "ageHours": 17.3
+      "ageHours": 19.3
     },
     {
       "title": "Samantha Bee’s Iconic “I Watch The Five” Performance | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "3nQVaZY8m7A",
-      "viewsPerHour": 5152,
+      "viewsPerHour": 4901,
       "views": 202392,
-      "ageHours": 39.3
-    },
-    {
-      "title": "PBS News Hour full episode, Aug. 31, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "miQy9ED-hGc",
-      "viewsPerHour": 4005,
-      "views": 115275,
-      "ageHours": 28.8
+      "ageHours": 41.3
     },
     {
       "title": "Showing up WORKED! CA's 3D Printer Spyware Bill is now a Clown Show 🤡🤡🤡",
       "channel": "Louis Rossmann",
       "videoId": "bu06phCgeZ8",
-      "viewsPerHour": 3554,
+      "viewsPerHour": 3310,
       "views": 96727,
-      "ageHours": 27.2
-    },
-    {
-      "title": "OUTRAGEOUS!': See Trump’s Kennedy Center threat TORN APART legally",
-      "channel": "MS NOW",
-      "videoId": "WdOfpUnKvOs",
-      "viewsPerHour": 2290,
-      "views": 14977,
-      "ageHours": 6.5
-    },
-    {
-      "title": "SCOTUS Chief Justice BLASTS Trump’s 'likely unlawful' White House ballroom",
-      "channel": "MS NOW",
-      "videoId": "tnSeziaGwHo",
-      "viewsPerHour": 2197,
-      "views": 53234,
-      "ageHours": 24.2
+      "ageHours": 29.2
     },
     {
       "title": "Activate windows",
       "channel": "Louis Rossmann",
       "videoId": "15vlbbfKJZg",
-      "viewsPerHour": 2100,
+      "viewsPerHour": 1941,
       "views": 51496,
-      "ageHours": 24.5
+      "ageHours": 26.5
+    },
+    {
+      "title": "OUTRAGEOUS!': See Trump’s Kennedy Center threat TORN APART legally",
+      "channel": "MS NOW",
+      "videoId": "WdOfpUnKvOs",
+      "viewsPerHour": 1752,
+      "views": 14977,
+      "ageHours": 8.5
     },
     {
       "title": "Conan Debunks Rumors About Taylor Swift & Travis Kelce's Wedding | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "88KA8sxcnwM",
-      "viewsPerHour": 1677,
+      "viewsPerHour": 1493,
       "views": 27319,
-      "ageHours": 16.3
+      "ageHours": 18.3
     },
     {
       "title": "Andy Daly (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ifbPmnfNy8A",
-      "viewsPerHour": 1348,
+      "viewsPerHour": 1286,
       "views": 55658,
-      "ageHours": 41.3
+      "ageHours": 43.3
     },
     {
       "title": "Is Quantum Entanglement Real? The Ultimate Test | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "RCehjcdvm1Y",
-      "viewsPerHour": 953,
+      "viewsPerHour": 727,
       "views": 6149,
-      "ageHours": 6.4
-    },
-    {
-      "title": "The Last Word with Lawrence O'Donnell - Aug. 31 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "2QkuTuyuUVM",
-      "viewsPerHour": 712,
-      "views": 16838,
-      "ageHours": 23.6
+      "ageHours": 8.5
     },
     {
       "title": "Torture In Syria's Prisons: Why This Journalist Was Targeted by Her Own Government",
       "channel": "Real Stories",
       "videoId": "owHv5ekplQQ",
-      "viewsPerHour": 582,
+      "viewsPerHour": 497,
       "views": 6865,
-      "ageHours": 11.8
+      "ageHours": 13.8
     },
     {
       "title": "PBS News Hour live episode, Sept. 1, 2026",
       "channel": "PBS NewsHour",
       "videoId": "vtkHH7Xsztg",
-      "viewsPerHour": 576,
+      "viewsPerHour": 460,
       "views": 4565,
-      "ageHours": 7.9
+      "ageHours": 9.9
     },
     {
       "title": "Conan Compares Bley’s Voice To An Amber Alert | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "nFfwLlj87Ck",
-      "viewsPerHour": 308,
+      "viewsPerHour": 267,
       "views": 4089,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "ALPRs are changing how police ask women out!",
       "channel": "Louis Rossmann",
       "videoId": "VROD_GLz3Sw",
-      "viewsPerHour": 279,
+      "viewsPerHour": 262,
       "views": 8760,
-      "ageHours": 31.4
+      "ageHours": 33.4
     },
     {
       "title": "What are Putin and Xi thinking about all of this?': Reaction to Pentagon shake up under Hegseth",
       "channel": "MS NOW",
       "videoId": "ob6WdicfYvE",
-      "viewsPerHour": 99,
-      "views": 1168,
-      "ageHours": 11.8
-    },
-    {
-      "title": "Army secretary's resignation adds to turmoil at Pentagon under Hegseth",
-      "channel": "PBS NewsHour",
-      "videoId": "43wlvfPKWqI",
       "viewsPerHour": 85,
-      "views": 490,
-      "ageHours": 5.7
+      "views": 1168,
+      "ageHours": 13.8
     },
     {
       "title": "WATCH LIVE: House panel holds hearing on sanctuary policies in California, Colorado and Maryland",
       "channel": "PBS NewsHour",
       "videoId": "2IomkpQAjwE",
-      "viewsPerHour": 84,
+      "viewsPerHour": 75,
       "views": 1283,
-      "ageHours": 15.2
+      "ageHours": 17.2
+    },
+    {
+      "title": "Army secretary's resignation adds to turmoil at Pentagon under Hegseth",
+      "channel": "PBS NewsHour",
+      "videoId": "43wlvfPKWqI",
+      "viewsPerHour": 63,
+      "views": 490,
+      "ageHours": 7.8
     },
     {
       "title": "Hegseth has created 'climate of fear' at Pentagon, former Air Force secretary says",
       "channel": "PBS NewsHour",
       "videoId": "AOwZ87ZpChc",
-      "viewsPerHour": 66,
+      "viewsPerHour": 49,
       "views": 373,
-      "ageHours": 5.7
+      "ageHours": 7.7
     },
     {
       "title": "WATCH LIVE: House considers censure of Rep. Chuck Edwards, stopgap spending bill",
       "channel": "PBS NewsHour",
       "videoId": "huRDp3psjTI",
-      "viewsPerHour": 49,
+      "viewsPerHour": 43,
       "views": 723,
-      "ageHours": 14.6
+      "ageHours": 16.7
     },
     {
       "title": "Time for him to resign!': Top Armed Services Dem says Hegseth is doing 'great damage' to U.S.",
       "channel": "MS NOW",
       "videoId": "WTEx3qoBGpI",
-      "viewsPerHour": 15,
+      "viewsPerHour": 12,
       "views": 169,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "WATCH LIVE: Trump health officials speak about reducing 'harmful screen use' for kids",
       "channel": "PBS NewsHour",
       "videoId": "o1P2IrNX9S0",
-      "viewsPerHour": 5,
+      "viewsPerHour": 4,
       "views": 76,
-      "ageHours": 14.9
+      "ageHours": 16.9
     }
   ]
 }
