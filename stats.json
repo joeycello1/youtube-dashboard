@@ -5,32 +5,36 @@
       "count": 4
     },
     {
-      "channel": "History",
-      "count": 59
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 8
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 20
-    },
-    {
-      "channel": "NOVA",
-      "count": 17
+      "channel": "Jeremy Corbell",
+      "count": 2
     },
     {
       "channel": "Real Stories",
       "count": 40
     },
     {
-      "channel": "Conan O'Brien",
-      "count": 10
+      "channel": "More Perfect Union",
+      "count": 16
     },
     {
-      "channel": "Jeremy Corbell",
-      "count": 1
+      "channel": "PBS NewsHour",
+      "count": 7
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 11
+    },
+    {
+      "channel": "History",
+      "count": 59
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 19
+    },
+    {
+      "channel": "NOVA",
+      "count": 17
     },
     {
       "channel": "Mayim Bialik",
@@ -38,7 +42,7 @@
     },
     {
       "channel": "Last Week Tonight",
-      "count": 16
+      "count": 15
     },
     {
       "channel": "The Daily Show",
@@ -53,10 +57,6 @@
       "count": 4
     },
     {
-      "channel": "More Perfect Union",
-      "count": 15
-    },
-    {
       "channel": "Nat Geo",
       "count": 3
     },
@@ -66,7 +66,7 @@
     },
     {
       "channel": "The Interview",
-      "count": 8
+      "count": 7
     },
     {
       "channel": "Area 52",
@@ -74,7 +74,7 @@
     },
     {
       "channel": "Jonathan Pie",
-      "count": 7
+      "count": 6
     },
     {
       "channel": "Inside AI",
@@ -87,6 +87,26 @@
       "count": 3
     },
     {
+      "keyword": "Corbell, UFO, George Knapp",
+      "count": 1
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 30
+    },
+    {
+      "keyword": "More Perfect Union",
+      "count": 13
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 6
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 11
+    },
+    {
       "keyword": "UFO",
       "count": 33
     },
@@ -96,11 +116,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 17
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 7
+      "count": 16
     },
     {
       "keyword": "NOVA",
@@ -109,14 +125,6 @@
     {
       "keyword": "MS NOW, AI",
       "count": 1
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 30
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 10
     },
     {
       "keyword": "Corbell, UFO, testimony, UAP, whistleblower",
@@ -128,7 +136,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "count": 16
+      "count": 15
     },
     {
       "keyword": "The Daily Show",
@@ -168,15 +176,11 @@
     },
     {
       "keyword": "Jonathan Pie",
-      "count": 7
+      "count": 6
     },
     {
       "keyword": "Giza",
       "count": 4
-    },
-    {
-      "keyword": "More Perfect Union",
-      "count": 12
     },
     {
       "keyword": "FOIA, UFO",
@@ -221,20 +225,16 @@
     {
       "keyword": "testimony, UAP",
       "count": 1
-    },
-    {
-      "keyword": "The Interview, AI",
-      "count": 1
     }
   ],
   "dailySummary": [
     {
       "date": "2026-09-02",
-      "videos": 2
+      "videos": 10
     },
     {
       "date": "2026-09-01",
-      "videos": 20
+      "videos": 15
     },
     {
       "date": "2026-08-31",
@@ -290,7 +290,7 @@
     },
     {
       "date": "2026-08-18",
-      "videos": 4
+      "videos": 2
     },
     {
       "date": "2026-08-17",
@@ -457,10 +457,6 @@
       "videos": 1
     },
     {
-      "date": "2026-07-04",
-      "videos": 3
-    },
-    {
       "date": "2026-06-14",
       "videos": 1
     }
@@ -469,6 +465,26 @@
     {
       "keyword": "MS NOW",
       "matches": 3
+    },
+    {
+      "keyword": "Corbell, UFO, George Knapp",
+      "matches": 1
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 5
+    },
+    {
+      "keyword": "More Perfect Union",
+      "matches": 1
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 6
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 7
     },
     {
       "keyword": "UFO",
@@ -483,24 +499,12 @@
       "matches": 8
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 7
-    },
-    {
       "keyword": "NOVA",
       "matches": 3
     },
     {
       "keyword": "MS NOW, AI",
       "matches": 1
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 4
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 6
     },
     {
       "keyword": "Corbell, UFO, testimony, UAP, whistleblower",
@@ -556,177 +560,201 @@
       "title": "Is Quantum Entanglement Real? The Ultimate Test | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "RCehjcdvm1Y",
-      "viewsPerHour": 15268,
-      "views": 282103,
-      "ageHours": 18.5
+      "viewsPerHour": 14331,
+      "views": 293072,
+      "ageHours": 20.5
+    },
+    {
+      "title": "Could A Bitcoin Crash Wipe Out Your Savings? These Elites Are Betting On It. (ft. Ben McKenzie)",
+      "channel": "More Perfect Union",
+      "videoId": "XD0QT_g6fuk",
+      "viewsPerHour": 12344,
+      "views": 46436,
+      "ageHours": 3.8
     },
     {
       "title": "Near Death Experiences, Telepathy & The Multiverse. An Astrophysicist Explains | Dr. Charles Liu",
       "channel": "Mayim Bialik",
       "videoId": "ZqoGDc_O-Uo",
-      "viewsPerHour": 6601,
-      "views": 193500,
-      "ageHours": 29.3
+      "viewsPerHour": 6461,
+      "views": 202139,
+      "ageHours": 31.3
     },
     {
       "title": "PBS News Hour full episode, Sept. 1, 2026",
       "channel": "PBS NewsHour",
       "videoId": "89iaw6ctIR0",
-      "viewsPerHour": 6245,
+      "viewsPerHour": 5582,
       "views": 103702,
-      "ageHours": 16.6
+      "ageHours": 18.6
     },
     {
       "title": "Flock shills don't understand CONSENT - this word MATTERS!",
       "channel": "Louis Rossmann",
       "videoId": "g9O-79P8yKM",
-      "viewsPerHour": 5134,
+      "viewsPerHour": 4597,
       "views": 86613,
-      "ageHours": 16.9
+      "ageHours": 18.8
+    },
+    {
+      "title": "Unhealthy climate in the Pentagon right now': Fmr. Air Force Secy. SPEAKS OUT on Hegseth",
+      "channel": "MS NOW",
+      "videoId": "s90TTGqc5YA",
+      "viewsPerHour": 3012,
+      "views": 6105,
+      "ageHours": 2
+    },
+    {
+      "title": "Sona Movsesian (Full Episode) | Where Everybody Knows Your Name",
+      "channel": "Conan O'Brien",
+      "videoId": "NbFsmDqc-XE",
+      "viewsPerHour": 2859,
+      "views": 17990,
+      "ageHours": 6.3
     },
     {
       "title": "Showing up WORKED! CA's 3D Printer Spyware Bill is now a Clown Show 🤡🤡🤡",
       "channel": "Louis Rossmann",
       "videoId": "bu06phCgeZ8",
-      "viewsPerHour": 2465,
+      "viewsPerHour": 2347,
       "views": 96727,
-      "ageHours": 39.2
+      "ageHours": 41.2
     },
     {
       "title": "Did They Just Witness TWO UFOs? | The Secret of Skinwalker Ranch (S1, E4) | Full Episode",
       "channel": "History",
       "videoId": "QE-CbmePkaw",
-      "viewsPerHour": 2379,
-      "views": 38808,
-      "ageHours": 16.3
-    },
-    {
-      "title": "Decades after Tupac Shakur's murder, Duane ‘Keffe D’ Davis convicted",
-      "channel": "PBS NewsHour",
-      "videoId": "IZmbet3RBUU",
-      "viewsPerHour": 1423,
-      "views": 24110,
-      "ageHours": 16.9
+      "viewsPerHour": 2201,
+      "views": 40247,
+      "ageHours": 18.3
     },
     {
       "title": "Activate windows",
       "channel": "Louis Rossmann",
       "videoId": "15vlbbfKJZg",
-      "viewsPerHour": 1409,
+      "viewsPerHour": 1337,
       "views": 51496,
-      "ageHours": 36.6
+      "ageHours": 38.5
+    },
+    {
+      "title": "Decades after Tupac Shakur's murder, Duane ‘Keffe D’ Davis convicted",
+      "channel": "PBS NewsHour",
+      "videoId": "IZmbet3RBUU",
+      "viewsPerHour": 1274,
+      "views": 24110,
+      "ageHours": 18.9
+    },
+    {
+      "title": "Back into a live hot war': U.S., Iran trades strikes again as war enters seventh month",
+      "channel": "MS NOW",
+      "videoId": "Uv7WuUuaheU",
+      "viewsPerHour": 1245,
+      "views": 2107,
+      "ageHours": 1.7
+    },
+    {
+      "title": "WATCH LIVE: House considers constitutional amendment to limit number of Supreme Court justices",
+      "channel": "PBS NewsHour",
+      "videoId": "eSXhZeMnDVA",
+      "viewsPerHour": 1125,
+      "views": 5228,
+      "ageHours": 4.6
     },
     {
       "title": "Conan Debunks Rumors About Taylor Swift & Travis Kelce's Wedding | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "88KA8sxcnwM",
-      "viewsPerHour": 965,
+      "viewsPerHour": 902,
       "views": 27319,
-      "ageHours": 28.3
+      "ageHours": 30.3
+    },
+    {
+      "title": "“THE CIA SPIED ON UFO WHISTLEBLOWERS”",
+      "channel": "Jeremy Corbell",
+      "videoId": "sNMSTgNazjs",
+      "viewsPerHour": 767,
+      "views": 1757,
+      "ageHours": 2.3
     },
     {
       "title": "OUTRAGEOUS!': See Trump’s Kennedy Center threat TORN APART legally",
       "channel": "MS NOW",
       "videoId": "WdOfpUnKvOs",
-      "viewsPerHour": 807,
+      "viewsPerHour": 729,
       "views": 14977,
-      "ageHours": 18.6
+      "ageHours": 20.5
     },
     {
       "title": "Torture In Syria's Prisons: Why This Journalist Was Targeted by Her Own Government",
       "channel": "Real Stories",
       "videoId": "owHv5ekplQQ",
-      "viewsPerHour": 436,
-      "views": 10393,
-      "ageHours": 23.8
+      "viewsPerHour": 418,
+      "views": 10776,
+      "ageHours": 25.8
+    },
+    {
+      "title": "WATCH LIVE: House Science committee hearing on advanced nuclear reactor research in the U.S.",
+      "channel": "PBS NewsHour",
+      "videoId": "XYXt0ZZ9_zo",
+      "viewsPerHour": 263,
+      "views": 1699,
+      "ageHours": 6.5
     },
     {
       "title": "PBS News Hour live episode, Sept. 1, 2026",
       "channel": "PBS NewsHour",
       "videoId": "vtkHH7Xsztg",
-      "viewsPerHour": 229,
+      "viewsPerHour": 208,
       "views": 4565,
-      "ageHours": 20
+      "ageHours": 21.9
     },
     {
       "title": "ALPRs are changing how police ask women out!",
       "channel": "Louis Rossmann",
       "videoId": "VROD_GLz3Sw",
-      "viewsPerHour": 202,
+      "viewsPerHour": 193,
       "views": 8760,
-      "ageHours": 43.4
+      "ageHours": 45.4
+    },
+    {
+      "title": "How One Late Diagnosis Changed A Family's Future | The Colours of Us",
+      "channel": "Real Stories",
+      "videoId": "cyfnNZUZTlM",
+      "viewsPerHour": 151,
+      "views": 346,
+      "ageHours": 2.3
     },
     {
       "title": "Conan Compares Bley’s Voice To An Amber Alert | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "nFfwLlj87Ck",
-      "viewsPerHour": 162,
+      "viewsPerHour": 150,
       "views": 4089,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
       "title": "MS NOW Highlights - September 1",
       "channel": "MS NOW",
       "videoId": "KhJAjfuPOmA",
-      "viewsPerHour": 76,
+      "viewsPerHour": 57,
       "views": 452,
-      "ageHours": 5.9
-    },
-    {
-      "title": "What are Putin and Xi thinking about all of this?': Reaction to Pentagon shake up under Hegseth",
-      "channel": "MS NOW",
-      "videoId": "ob6WdicfYvE",
-      "viewsPerHour": 49,
-      "views": 1168,
-      "ageHours": 23.8
-    },
-    {
-      "title": "WATCH LIVE: House panel holds hearing on sanctuary policies in California, Colorado and Maryland",
-      "channel": "PBS NewsHour",
-      "videoId": "2IomkpQAjwE",
-      "viewsPerHour": 47,
-      "views": 1283,
-      "ageHours": 27.2
+      "ageHours": 7.9
     },
     {
       "title": "Army secretary's resignation adds to turmoil at Pentagon under Hegseth",
       "channel": "PBS NewsHour",
       "videoId": "43wlvfPKWqI",
-      "viewsPerHour": 28,
+      "viewsPerHour": 25,
       "views": 490,
-      "ageHours": 17.8
-    },
-    {
-      "title": "WATCH LIVE: House considers censure of Rep. Chuck Edwards, stopgap spending bill",
-      "channel": "PBS NewsHour",
-      "videoId": "huRDp3psjTI",
-      "viewsPerHour": 27,
-      "views": 723,
-      "ageHours": 26.7
+      "ageHours": 19.7
     },
     {
       "title": "Hegseth has created 'climate of fear' at Pentagon, former Air Force secretary says",
       "channel": "PBS NewsHour",
       "videoId": "AOwZ87ZpChc",
-      "viewsPerHour": 21,
+      "viewsPerHour": 19,
       "views": 373,
-      "ageHours": 17.7
-    },
-    {
-      "title": "Time for him to resign!': Top Armed Services Dem says Hegseth is doing 'great damage' to U.S.",
-      "channel": "MS NOW",
-      "videoId": "WTEx3qoBGpI",
-      "viewsPerHour": 7,
-      "views": 169,
-      "ageHours": 23.6
-    },
-    {
-      "title": "WATCH LIVE: Trump health officials speak about reducing 'harmful screen use' for kids",
-      "channel": "PBS NewsHour",
-      "videoId": "o1P2IrNX9S0",
-      "viewsPerHour": 3,
-      "views": 76,
-      "ageHours": 26.9
+      "ageHours": 19.7
     },
     {
       "title": "A New Wave of UFO News - Why They’re Spying on Whistleblowers",
@@ -734,7 +762,7 @@
       "videoId": "mNfsX2RbZ2M",
       "viewsPerHour": 0,
       "views": 5,
-      "ageHours": 26.2
+      "ageHours": 28.2
     }
   ]
 }
