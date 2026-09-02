@@ -1,8 +1,16 @@
 {
   "videosPerChannel": [
     {
-      "channel": "MS NOW",
+      "channel": "PBS NewsHour",
       "count": 7
+    },
+    {
+      "channel": "NOVA",
+      "count": 17
+    },
+    {
+      "channel": "MS NOW",
+      "count": 6
     },
     {
       "channel": "Real Stories",
@@ -11,10 +19,6 @@
     {
       "channel": "Conan O'Brien",
       "count": 10
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 7
     },
     {
       "channel": "Mayim Bialik",
@@ -50,7 +54,7 @@
     },
     {
       "channel": "Chris Lehto",
-      "count": 7
+      "count": 6
     },
     {
       "channel": "History",
@@ -65,10 +69,6 @@
       "count": 4
     },
     {
-      "channel": "NOVA",
-      "count": 16
-    },
-    {
       "channel": "Jonathan Pie",
       "count": 7
     },
@@ -79,8 +79,20 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "MS NOW",
+      "keyword": "PBS NewsHour",
       "count": 6
+    },
+    {
+      "keyword": "NOVA",
+      "count": 33
+    },
+    {
+      "keyword": "MS NOW, AI",
+      "count": 1
+    },
+    {
+      "keyword": "MS NOW",
+      "count": 5
     },
     {
       "keyword": "Real Stories",
@@ -89,10 +101,6 @@
     {
       "keyword": "Conan O'Brien",
       "count": 10
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 6
     },
     {
       "keyword": "AI",
@@ -104,10 +112,6 @@
     },
     {
       "keyword": "PBS NewsHour, AI, artificial intelligence",
-      "count": 1
-    },
-    {
-      "keyword": "MS NOW, Associated Press",
       "count": 1
     },
     {
@@ -132,11 +136,7 @@
     },
     {
       "keyword": "UAP",
-      "count": 6
-    },
-    {
-      "keyword": "NOVA",
-      "count": 32
+      "count": 5
     },
     {
       "keyword": "UFO",
@@ -222,11 +222,11 @@
   "dailySummary": [
     {
       "date": "2026-09-01",
-      "videos": 14
+      "videos": 19
     },
     {
       "date": "2026-08-31",
-      "videos": 11
+      "videos": 6
     },
     {
       "date": "2026-08-30",
@@ -449,18 +449,26 @@
       "videos": 3
     },
     {
-      "date": "2026-07-03",
-      "videos": 1
-    },
-    {
       "date": "2026-06-14",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "MS NOW",
+      "keyword": "PBS NewsHour",
       "matches": 6
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 3
+    },
+    {
+      "keyword": "MS NOW, AI",
+      "matches": 1
+    },
+    {
+      "keyword": "MS NOW",
+      "matches": 5
     },
     {
       "keyword": "Real Stories",
@@ -469,10 +477,6 @@
     {
       "keyword": "Conan O'Brien",
       "matches": 7
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 6
     },
     {
       "keyword": "AI",
@@ -484,10 +488,6 @@
     },
     {
       "keyword": "PBS NewsHour, AI, artificial intelligence",
-      "matches": 1
-    },
-    {
-      "keyword": "MS NOW, Associated Press",
       "matches": 1
     },
     {
@@ -515,10 +515,6 @@
       "matches": 1
     },
     {
-      "keyword": "NOVA",
-      "matches": 2
-    },
-    {
       "keyword": "UFO",
       "matches": 3
     },
@@ -544,201 +540,201 @@
       "title": "Top White House Advisor: The US Empire Is Dying And Socialism Is Coming Next! | David Friedberg",
       "channel": "Diary of a CEO",
       "videoId": "OYg6BTjb90E",
-      "viewsPerHour": 31219,
-      "views": 1227227,
-      "ageHours": 39.3
+      "viewsPerHour": 30588,
+      "views": 1263210,
+      "ageHours": 41.3
     },
     {
       "title": "Facing a COLOSSAL WIPEOUT': Republicans PANIC as Trump approval sinks before midterms",
       "channel": "MS NOW",
       "videoId": "KTYn2nV4yHk",
-      "viewsPerHour": 12526,
+      "viewsPerHour": 11158,
       "views": 203003,
-      "ageHours": 16.2
+      "ageHours": 18.2
     },
     {
       "title": "Near Death Experiences, Telepathy & The Multiverse. An Astrophysicist Explains | Dr. Charles Liu",
       "channel": "Mayim Bialik",
       "videoId": "ZqoGDc_O-Uo",
-      "viewsPerHour": 9606,
-      "views": 108613,
-      "ageHours": 11.3
+      "viewsPerHour": 9241,
+      "views": 122838,
+      "ageHours": 13.3
     },
     {
       "title": "S10 E21: Elon Musk & Season Finale: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "AMzHGmgjQfo",
-      "viewsPerHour": 8608,
-      "views": 260930,
-      "ageHours": 30.3
+      "viewsPerHour": 8701,
+      "views": 281059,
+      "ageHours": 32.3
+    },
+    {
+      "title": "OUTRAGEOUS!': See Trump’s Kennedy Center threat TORN APART legally",
+      "channel": "MS NOW",
+      "videoId": "WdOfpUnKvOs",
+      "viewsPerHour": 5887,
+      "views": 14977,
+      "ageHours": 2.5
     },
     {
       "title": "Samantha Bee’s Iconic “I Watch The Five” Performance | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "3nQVaZY8m7A",
-      "viewsPerHour": 5920,
-      "views": 197146,
-      "ageHours": 33.3
+      "viewsPerHour": 5735,
+      "views": 202392,
+      "ageHours": 35.3
     },
     {
       "title": "PBS News Hour full episode, Aug. 31, 2026",
       "channel": "PBS NewsHour",
       "videoId": "miQy9ED-hGc",
-      "viewsPerHour": 5055,
+      "viewsPerHour": 4650,
       "views": 115275,
-      "ageHours": 22.8
+      "ageHours": 24.8
     },
     {
       "title": "Showing up WORKED! CA's 3D Printer Spyware Bill is now a Clown Show 🤡🤡🤡",
       "channel": "Louis Rossmann",
       "videoId": "bu06phCgeZ8",
-      "viewsPerHour": 4555,
+      "viewsPerHour": 4165,
       "views": 96727,
-      "ageHours": 21.2
+      "ageHours": 23.2
     },
     {
       "title": "SCOTUS Chief Justice BLASTS Trump’s 'likely unlawful' White House ballroom",
       "channel": "MS NOW",
       "videoId": "tnSeziaGwHo",
-      "viewsPerHour": 2917,
+      "viewsPerHour": 2631,
       "views": 53234,
-      "ageHours": 18.2
+      "ageHours": 20.2
     },
     {
       "title": "Activate windows",
       "channel": "Louis Rossmann",
       "videoId": "15vlbbfKJZg",
-      "viewsPerHour": 2777,
+      "viewsPerHour": 2508,
       "views": 51496,
-      "ageHours": 18.5
+      "ageHours": 20.5
+    },
+    {
+      "title": "Is Quantum Entanglement Real? The Ultimate Test | NOVA | PBS",
+      "channel": "NOVA",
+      "videoId": "RCehjcdvm1Y",
+      "viewsPerHour": 2504,
+      "views": 6149,
+      "ageHours": 2.5
     },
     {
       "title": "Conan Debunks Rumors About Taylor Swift & Travis Kelce's Wedding | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "88KA8sxcnwM",
-      "viewsPerHour": 2649,
+      "viewsPerHour": 2221,
       "views": 27319,
-      "ageHours": 10.3
+      "ageHours": 12.3
     },
     {
       "title": "Andy Daly (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ifbPmnfNy8A",
-      "viewsPerHour": 1576,
+      "viewsPerHour": 1492,
       "views": 55658,
-      "ageHours": 35.3
+      "ageHours": 37.3
+    },
+    {
+      "title": "PBS News Hour live episode, Sept. 1, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "vtkHH7Xsztg",
+      "viewsPerHour": 1161,
+      "views": 4565,
+      "ageHours": 3.9
     },
     {
       "title": "Torture In Syria's Prisons: Why This Journalist Was Targeted by Her Own Government",
       "channel": "Real Stories",
       "videoId": "owHv5ekplQQ",
-      "viewsPerHour": 971,
-      "views": 5646,
-      "ageHours": 5.8
+      "viewsPerHour": 880,
+      "views": 6865,
+      "ageHours": 7.8
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Aug. 31 | Audio Only",
       "channel": "MS NOW",
       "videoId": "2QkuTuyuUVM",
-      "viewsPerHour": 953,
+      "viewsPerHour": 857,
       "views": 16838,
-      "ageHours": 17.7
+      "ageHours": 19.6
     },
     {
       "title": "Conan Compares Bley’s Voice To An Amber Alert | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "nFfwLlj87Ck",
-      "viewsPerHour": 560,
+      "viewsPerHour": 440,
       "views": 4089,
-      "ageHours": 7.3
+      "ageHours": 9.3
     },
     {
       "title": "ALPRs are changing how police ask women out!",
       "channel": "Louis Rossmann",
       "videoId": "VROD_GLz3Sw",
-      "viewsPerHour": 344,
+      "viewsPerHour": 319,
       "views": 8760,
-      "ageHours": 25.4
+      "ageHours": 27.4
+    },
+    {
+      "title": "Army secretary's resignation adds to turmoil at Pentagon under Hegseth",
+      "channel": "PBS NewsHour",
+      "videoId": "43wlvfPKWqI",
+      "viewsPerHour": 280,
+      "views": 490,
+      "ageHours": 1.7
+    },
+    {
+      "title": "Hegseth has created 'climate of fear' at Pentagon, former Air Force secretary says",
+      "channel": "PBS NewsHour",
+      "videoId": "AOwZ87ZpChc",
+      "viewsPerHour": 224,
+      "views": 373,
+      "ageHours": 1.7
     },
     {
       "title": "What are Putin and Xi thinking about all of this?': Reaction to Pentagon shake up under Hegseth",
       "channel": "MS NOW",
       "videoId": "ob6WdicfYvE",
-      "viewsPerHour": 201,
+      "viewsPerHour": 150,
       "views": 1168,
-      "ageHours": 5.8
-    },
-    {
-      "title": "PBS News Hour live episode, Aug. 31, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "spA1GoslEUE",
-      "viewsPerHour": 182,
-      "views": 4564,
-      "ageHours": 25.1
+      "ageHours": 7.8
     },
     {
       "title": "WATCH LIVE: House panel holds hearing on sanctuary policies in California, Colorado and Maryland",
       "channel": "PBS NewsHour",
       "videoId": "2IomkpQAjwE",
-      "viewsPerHour": 139,
+      "viewsPerHour": 115,
       "views": 1283,
-      "ageHours": 9.2
-    },
-    {
-      "title": "It's them, NOT me': Reality-dodging Trump creates midterms NIGHTMARE for GOP while voters SEETHE",
-      "channel": "MS NOW",
-      "videoId": "tcyuQe0P0Ls",
-      "viewsPerHour": 136,
-      "views": 3246,
-      "ageHours": 23.8
-    },
-    {
-      "title": "Grand Canyon flash flood leaves 2 dead, others missing",
-      "channel": "PBS NewsHour",
-      "videoId": "hhiM6dKGDmM",
-      "viewsPerHour": 121,
-      "views": 2874,
-      "ageHours": 23.8
-    },
-    {
-      "title": "MONSTROUS': Kash Patel's FBI lowers hiring standards for people with history of SEX OFFENSES",
-      "channel": "MS NOW",
-      "videoId": "4-jwouUxMq0",
-      "viewsPerHour": 90,
-      "views": 2170,
-      "ageHours": 24
+      "ageHours": 11.2
     },
     {
       "title": "WATCH LIVE: House considers censure of Rep. Chuck Edwards, stopgap spending bill",
       "channel": "PBS NewsHour",
       "videoId": "huRDp3psjTI",
-      "viewsPerHour": 83,
+      "viewsPerHour": 68,
       "views": 723,
-      "ageHours": 8.7
+      "ageHours": 10.6
     },
     {
       "title": "Time for him to resign!': Top Armed Services Dem says Hegseth is doing 'great damage' to U.S.",
       "channel": "MS NOW",
       "videoId": "WTEx3qoBGpI",
-      "viewsPerHour": 30,
+      "viewsPerHour": 22,
       "views": 169,
-      "ageHours": 5.6
-    },
-    {
-      "title": "News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges",
-      "channel": "PBS NewsHour",
-      "videoId": "JsFvkuRq4Vo",
-      "viewsPerHour": 30,
-      "views": 706,
-      "ageHours": 23.8
+      "ageHours": 7.6
     },
     {
       "title": "WATCH LIVE: Trump health officials speak about reducing 'harmful screen use' for kids",
       "channel": "PBS NewsHour",
       "videoId": "o1P2IrNX9S0",
-      "viewsPerHour": 9,
+      "viewsPerHour": 7,
       "views": 76,
-      "ageHours": 8.9
+      "ageHours": 10.9
     }
   ]
 }
