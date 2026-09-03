@@ -1,11 +1,15 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
-      "count": 5
+      "channel": "MS NOW",
+      "count": 6
     },
     {
-      "channel": "MS NOW",
+      "channel": "PBS NewsHour",
+      "count": 7
+    },
+    {
+      "channel": "The Rest Is Science",
       "count": 5
     },
     {
@@ -53,10 +57,6 @@
       "count": 3
     },
     {
-      "channel": "The Rest Is Science",
-      "count": 4
-    },
-    {
       "channel": "Nat Geo",
       "count": 3
     },
@@ -83,11 +83,19 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "PBS NewsHour",
+      "keyword": "MS NOW",
+      "count": 6
+    },
+    {
+      "keyword": "PBS NewsHour, whistleblower",
+      "count": 2
+    },
+    {
+      "keyword": "The Rest Is Science",
       "count": 5
     },
     {
-      "keyword": "MS NOW",
+      "keyword": "PBS NewsHour",
       "count": 5
     },
     {
@@ -133,10 +141,6 @@
     {
       "keyword": "The Daily Show",
       "count": 2
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "count": 4
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -221,8 +225,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-09-03",
+      "videos": 3
+    },
+    {
       "date": "2026-09-02",
-      "videos": 18
+      "videos": 19
     },
     {
       "date": "2026-09-01",
@@ -455,11 +463,19 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
-      "matches": 5
+      "keyword": "MS NOW",
+      "matches": 6
     },
     {
-      "keyword": "MS NOW",
+      "keyword": "PBS NewsHour, whistleblower",
+      "matches": 2
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "matches": 2
+    },
+    {
+      "keyword": "PBS NewsHour",
       "matches": 5
     },
     {
@@ -484,7 +500,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "NOVA",
@@ -507,10 +523,6 @@
       "matches": 2
     },
     {
-      "keyword": "The Rest Is Science",
-      "matches": 1
-    },
-    {
       "keyword": "More Perfect Union, AI",
       "matches": 1
     },
@@ -525,10 +537,6 @@
     {
       "keyword": "The Interview",
       "matches": 1
-    },
-    {
-      "keyword": "AI, artificial intelligence, UAP",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -536,201 +544,217 @@
       "title": "Could A Bitcoin Crash Wipe Out Your Savings? These Elites Are Betting On It. (ft. Ben McKenzie)",
       "channel": "More Perfect Union",
       "videoId": "XD0QT_g6fuk",
-      "viewsPerHour": 16661,
-      "views": 329247,
-      "ageHours": 19.8
+      "viewsPerHour": 15254,
+      "views": 332260,
+      "ageHours": 21.8
     },
     {
       "title": "Is Quantum Entanglement Real? The Ultimate Test | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "RCehjcdvm1Y",
-      "viewsPerHour": 13438,
-      "views": 489807,
-      "ageHours": 36.4
+      "viewsPerHour": 12786,
+      "views": 491877,
+      "ageHours": 38.5
+    },
+    {
+      "title": "The Scale Of The Universe",
+      "channel": "The Rest Is Science",
+      "videoId": "9yGdvsASj5c",
+      "viewsPerHour": 11748,
+      "views": 155357,
+      "ageHours": 13.2
+    },
+    {
+      "title": "PBS News Hour full episode, Sept. 2, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "ph90Yycorgg",
+      "viewsPerHour": 7500,
+      "views": 94359,
+      "ageHours": 12.6
     },
     {
       "title": "Reptilian Legends & Extraterrestrial Encounters | Ancient Aliens",
       "channel": "History",
       "videoId": "GAqSSISFRQI",
-      "viewsPerHour": 7915,
-      "views": 128907,
-      "ageHours": 16.3
-    },
-    {
-      "title": "Near Death Experiences, Telepathy & The Multiverse. An Astrophysicist Explains | Dr. Charles Liu",
-      "channel": "Mayim Bialik",
-      "videoId": "ZqoGDc_O-Uo",
-      "viewsPerHour": 5408,
-      "views": 255709,
-      "ageHours": 47.3
+      "viewsPerHour": 7256,
+      "views": 132836,
+      "ageHours": 18.3
     },
     {
       "title": "Cowboys and Close Encounters | Ancient Aliens (S3, E1) | Full Episode",
       "channel": "History",
       "videoId": "jJo0lKNhSDI",
-      "viewsPerHour": 3939,
-      "views": 48385,
-      "ageHours": 12.3
+      "viewsPerHour": 3461,
+      "views": 49515,
+      "ageHours": 14.3
     },
     {
       "title": "‘CRAZY actions of a weird person on the internet’: Nicolle reacts to unhinged Trump SCARING GOP",
       "channel": "MS NOW",
       "videoId": "FB3gUBkmzlw",
-      "viewsPerHour": 3632,
+      "viewsPerHour": 3130,
       "views": 45714,
-      "ageHours": 12.6
-    },
-    {
-      "title": "Flock shills don't understand CONSENT - this word MATTERS!",
-      "channel": "Louis Rossmann",
-      "videoId": "g9O-79P8yKM",
-      "viewsPerHour": 2486,
-      "views": 86613,
-      "ageHours": 34.8
+      "ageHours": 14.6
     },
     {
       "title": "A New Wave of UFO News - Why They’re Spying on Whistleblowers",
       "channel": "Jeremy Corbell",
       "videoId": "mNfsX2RbZ2M",
-      "viewsPerHour": 2460,
-      "views": 108654,
-      "ageHours": 44.2
+      "viewsPerHour": 2397,
+      "views": 110699,
+      "ageHours": 46.2
+    },
+    {
+      "title": "Flock shills don't understand CONSENT - this word MATTERS!",
+      "channel": "Louis Rossmann",
+      "videoId": "g9O-79P8yKM",
+      "viewsPerHour": 2350,
+      "views": 86613,
+      "ageHours": 36.9
     },
     {
       "title": "Did They Just Witness TWO UFOs? | The Secret of Skinwalker Ranch (S1, E4) | Full Episode",
       "channel": "History",
       "videoId": "QE-CbmePkaw",
-      "viewsPerHour": 1560,
-      "views": 53480,
-      "ageHours": 34.3
+      "viewsPerHour": 1477,
+      "views": 53610,
+      "ageHours": 36.3
+    },
+    {
+      "title": "PBS News Hour full episode, Sept. 2, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "GNe7n2mNF5Y",
+      "viewsPerHour": 839,
+      "views": 10299,
+      "ageHours": 12.3
     },
     {
       "title": "Sona Movsesian (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "NbFsmDqc-XE",
-      "viewsPerHour": 807,
+      "viewsPerHour": 740,
       "views": 17990,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "Sony argues expecting ownership is unreasonable in court, uses forced arbitration to get case tossed",
       "channel": "Louis Rossmann",
       "videoId": "KJ-srVn2aG0",
-      "viewsPerHour": 757,
+      "viewsPerHour": 654,
       "views": 9718,
-      "ageHours": 12.8
+      "ageHours": 14.9
     },
     {
       "title": "“THE CIA SPIED ON UFO WHISTLEBLOWERS”",
       "channel": "Jeremy Corbell",
       "videoId": "sNMSTgNazjs",
-      "viewsPerHour": 675,
-      "views": 12347,
-      "ageHours": 18.3
-    },
-    {
-      "title": "Conan Debunks Rumors About Taylor Swift & Travis Kelce's Wedding | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "88KA8sxcnwM",
-      "viewsPerHour": 590,
-      "views": 27319,
-      "ageHours": 46.3
+      "viewsPerHour": 610,
+      "views": 12386,
+      "ageHours": 20.3
     },
     {
       "title": "How One Late Diagnosis Changed A Family's Future | The Colours of Us",
       "channel": "Real Stories",
       "videoId": "cyfnNZUZTlM",
-      "viewsPerHour": 546,
-      "views": 9984,
-      "ageHours": 18.3
+      "viewsPerHour": 496,
+      "views": 10065,
+      "ageHours": 20.3
     },
     {
       "title": "Nicolle ROASTS 'comical' and 'dysfunctional' Republican senators for WHINING about Trump on Fox News",
       "channel": "MS NOW",
       "videoId": "XTYzPIbTkEM",
-      "viewsPerHour": 427,
+      "viewsPerHour": 366,
       "views": 5203,
-      "ageHours": 12.2
+      "ageHours": 14.2
     },
     {
       "title": "Unhealthy climate in the Pentagon right now': Fmr. Air Force Secy. SPEAKS OUT on Hegseth",
       "channel": "MS NOW",
       "videoId": "s90TTGqc5YA",
-      "viewsPerHour": 339,
+      "viewsPerHour": 305,
       "views": 6105,
-      "ageHours": 18
-    },
-    {
-      "title": "PBS News Hour live episode, Sept. 2, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "CBRr-WsaVuk",
-      "viewsPerHour": 311,
-      "views": 4002,
-      "ageHours": 12.9
+      "ageHours": 20
     },
     {
       "title": "Torture In Syria's Prisons: Why This Journalist Was Targeted by Her Own Government",
       "channel": "Real Stories",
       "videoId": "owHv5ekplQQ",
-      "viewsPerHour": 287,
-      "views": 11978,
-      "ageHours": 41.8
+      "viewsPerHour": 273,
+      "views": 11980,
+      "ageHours": 43.8
+    },
+    {
+      "title": "PBS News Hour live episode, Sept. 2, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "CBRr-WsaVuk",
+      "viewsPerHour": 269,
+      "views": 4002,
+      "ageHours": 14.9
     },
     {
       "title": "WATCH LIVE: House considers constitutional amendment to limit number of Supreme Court justices",
       "channel": "PBS NewsHour",
       "videoId": "eSXhZeMnDVA",
-      "viewsPerHour": 253,
+      "viewsPerHour": 231,
       "views": 5228,
-      "ageHours": 20.6
+      "ageHours": 22.7
     },
     {
       "title": "Back into a live hot war': U.S., Iran trades strikes again as war enters seventh month",
       "channel": "MS NOW",
       "videoId": "Uv7WuUuaheU",
-      "viewsPerHour": 119,
+      "viewsPerHour": 107,
       "views": 2107,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "Conan Compares Bley’s Voice To An Amber Alert | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "nFfwLlj87Ck",
-      "viewsPerHour": 94,
+      "viewsPerHour": 90,
       "views": 4089,
-      "ageHours": 43.3
+      "ageHours": 45.3
     },
     {
       "title": "WATCH LIVE: House Science committee hearing on advanced nuclear reactor research in the U.S.",
       "channel": "PBS NewsHour",
       "videoId": "XYXt0ZZ9_zo",
-      "viewsPerHour": 76,
+      "viewsPerHour": 69,
       "views": 1699,
-      "ageHours": 22.5
+      "ageHours": 24.5
     },
     {
       "title": "Prolonged Iran war creating major dent in global economy, Cliff Kupchan says",
       "channel": "PBS NewsHour",
       "videoId": "JKqBMfrPfR8",
-      "viewsPerHour": 27,
+      "viewsPerHour": 23,
       "views": 321,
-      "ageHours": 11.9
-    },
-    {
-      "title": "MS NOW Highlights - September 1",
-      "channel": "MS NOW",
-      "videoId": "KhJAjfuPOmA",
-      "viewsPerHour": 19,
-      "views": 452,
-      "ageHours": 23.9
+      "ageHours": 13.9
     },
     {
       "title": "News Wrap: Lindsay Clancy jury deadlocked and unable to reach verdict",
       "channel": "PBS NewsHour",
       "videoId": "U30V2ledAjw",
-      "viewsPerHour": 5,
+      "viewsPerHour": 4,
       "views": 56,
-      "ageHours": 11.8
+      "ageHours": 13.8
+    },
+    {
+      "title": "Trump, White House prepare for Democratic investigations: Reports",
+      "channel": "MS NOW",
+      "videoId": "ExGbd308Zrk",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 1.7
+    },
+    {
+      "title": "Hegseth faces GOP BACKLASH for ‘massive’ Pentagon purge | MS NOW Highlights",
+      "channel": "MS NOW",
+      "videoId": "qixe83KiEB8",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 1.7
     }
   ]
 }
