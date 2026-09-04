@@ -1,36 +1,40 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
-      "count": 8
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 20
-    },
-    {
-      "channel": "NOVA",
-      "count": 18
-    },
-    {
       "channel": "MS NOW",
-      "count": 3
+      "count": 1
     },
     {
-      "channel": "Real Stories",
-      "count": 40
+      "channel": "PBS NewsHour",
+      "count": 9
     },
     {
-      "channel": "The Daily Show",
-      "count": 2
+      "channel": "More Perfect Union",
+      "count": 17
+    },
+    {
+      "channel": "History",
+      "count": 63
     },
     {
       "channel": "Conan O'Brien",
       "count": 11
     },
     {
-      "channel": "History",
-      "count": 62
+      "channel": "Louis Rossmann",
+      "count": 18
+    },
+    {
+      "channel": "NOVA",
+      "count": 18
+    },
+    {
+      "channel": "Real Stories",
+      "count": 41
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 2
     },
     {
       "channel": "The Rest Is Science",
@@ -41,16 +45,12 @@
       "count": 2
     },
     {
-      "channel": "More Perfect Union",
-      "count": 16
-    },
-    {
       "channel": "Mayim Bialik",
       "count": 9
     },
     {
       "channel": "Last Week Tonight",
-      "count": 14
+      "count": 13
     },
     {
       "channel": "Diary of a CEO",
@@ -83,32 +83,36 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "PBS NewsHour",
-      "count": 8
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 17
-    },
-    {
-      "keyword": "NOVA",
-      "count": 34
-    },
-    {
       "keyword": "MS NOW",
+      "count": 1
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 9
+    },
+    {
+      "keyword": "More Perfect Union, AI",
       "count": 3
     },
     {
-      "keyword": "Real Stories",
-      "count": 31
-    },
-    {
-      "keyword": "The Daily Show",
-      "count": 2
+      "keyword": "NOVA",
+      "count": 35
     },
     {
       "keyword": "Conan O'Brien",
       "count": 11
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 16
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 32
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 2
     },
     {
       "keyword": "UFO",
@@ -136,11 +140,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "count": 14
-    },
-    {
-      "keyword": "More Perfect Union, AI",
-      "count": 2
+      "count": 13
     },
     {
       "keyword": "testimony",
@@ -176,10 +176,6 @@
     },
     {
       "keyword": "FOIA, UFO",
-      "count": 1
-    },
-    {
-      "keyword": "Louis Rossmann, Samsung",
       "count": 1
     },
     {
@@ -221,12 +217,16 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-09-04",
+      "videos": 8
+    },
+    {
       "date": "2026-09-03",
-      "videos": 17
+      "videos": 12
     },
     {
       "date": "2026-09-02",
-      "videos": 9
+      "videos": 10
     },
     {
       "date": "2026-09-01",
@@ -258,7 +258,7 @@
     },
     {
       "date": "2026-08-25",
-      "videos": 6
+      "videos": 4
     },
     {
       "date": "2026-08-24",
@@ -278,7 +278,7 @@
     },
     {
       "date": "2026-08-20",
-      "videos": 4
+      "videos": 1
     },
     {
       "date": "2026-08-19",
@@ -455,32 +455,36 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
-      "matches": 8
+      "keyword": "MS NOW",
+      "matches": 1
     },
     {
-      "keyword": "Louis Rossmann",
+      "keyword": "PBS NewsHour",
       "matches": 9
     },
     {
-      "keyword": "NOVA",
-      "matches": 3
+      "keyword": "More Perfect Union, AI",
+      "matches": 2
     },
     {
-      "keyword": "MS NOW",
-      "matches": 3
+      "keyword": "NOVA",
+      "matches": 4
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 7
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 8
     },
     {
       "keyword": "Real Stories",
-      "matches": 5
+      "matches": 6
     },
     {
       "keyword": "The Daily Show",
       "matches": 2
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 5
     },
     {
       "keyword": "UFO",
@@ -511,10 +515,6 @@
       "matches": 3
     },
     {
-      "keyword": "More Perfect Union, AI",
-      "matches": 1
-    },
-    {
       "keyword": "testimony",
       "matches": 1
     },
@@ -532,145 +532,169 @@
       "title": "The Scale Of The Universe",
       "channel": "The Rest Is Science",
       "videoId": "9yGdvsASj5c",
-      "viewsPerHour": 9901,
-      "views": 408209,
-      "ageHours": 41.2
+      "viewsPerHour": 9427,
+      "views": 407499,
+      "ageHours": 43.2
+    },
+    {
+      "title": "Silicon Valley Congressman: I Know These AI CEOs, And I Know What They Want To Do",
+      "channel": "More Perfect Union",
+      "videoId": "UFWtwObTgmQ",
+      "viewsPerHour": 8239,
+      "views": 18918,
+      "ageHours": 2.3
     },
     {
       "title": "Stephen Colbert Investigates the Saratoga Springs Tax Scandal | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "M5Mktrf7784",
-      "viewsPerHour": 6559,
-      "views": 166065,
-      "ageHours": 25.3
+      "viewsPerHour": 6119,
+      "views": 167164,
+      "ageHours": 27.3
     },
     {
       "title": "PBS News Hour full episode, Sept. 3, 2026",
       "channel": "PBS NewsHour",
       "videoId": "NrjfSu5Lj9s",
-      "viewsPerHour": 6545,
+      "viewsPerHour": 5848,
       "views": 109808,
-      "ageHours": 16.8
-    },
-    {
-      "title": "Reptilian Legends & Extraterrestrial Encounters | Ancient Aliens",
-      "channel": "History",
-      "videoId": "GAqSSISFRQI",
-      "viewsPerHour": 5090,
-      "views": 235701,
-      "ageHours": 46.3
+      "ageHours": 18.8
     },
     {
       "title": "UFO Encounters the Government Couldn't Explain | Secret Access | Full Special",
       "channel": "History",
       "videoId": "vvYlta7PHzw",
-      "viewsPerHour": 3390,
-      "views": 136665,
-      "ageHours": 40.3
+      "viewsPerHour": 3232,
+      "views": 136763,
+      "ageHours": 42.3
     },
     {
       "title": "Cowboys and Close Encounters | Ancient Aliens (S3, E1) | Full Episode",
       "channel": "History",
       "videoId": "jJo0lKNhSDI",
-      "viewsPerHour": 2630,
-      "views": 111272,
-      "ageHours": 42.3
+      "viewsPerHour": 2514,
+      "views": 111403,
+      "ageHours": 44.3
+    },
+    {
+      "title": "Is WALL-E Secretly the Greatest Apocalypse Movie Ever? (feat. Sona Movsesian) | Bley's Arcade",
+      "channel": "Conan O'Brien",
+      "videoId": "09h6PHaumxc",
+      "viewsPerHour": 2258,
+      "views": 14267,
+      "ageHours": 6.3
     },
     {
       "title": "9/11 The Day That Changed America: Full Timeline 20 Hours of Raw Footage",
       "channel": "Real Stories",
       "videoId": "rvgAoj5zk4I",
-      "viewsPerHour": 2229,
-      "views": 53090,
-      "ageHours": 23.8
+      "viewsPerHour": 2075,
+      "views": 53566,
+      "ageHours": 25.8
     },
     {
       "title": "The Final Episode Of \"Summer S'pouses\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "t9ySHjwKKqw",
-      "viewsPerHour": 2142,
+      "viewsPerHour": 2001,
       "views": 60645,
-      "ageHours": 28.3
+      "ageHours": 30.3
+    },
+    {
+      "title": "Conan Wants Angelenos To Start Dressing Like Adults | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "DagRU3Yu-v0",
+      "viewsPerHour": 1630,
+      "views": 5408,
+      "ageHours": 3.3
     },
     {
       "title": "\"The Axis of Evil\": The Universe's Unexplained Center | What the Physics?!",
       "channel": "NOVA",
       "videoId": "ybTTMxvBDCk",
-      "viewsPerHour": 1324,
-      "views": 29481,
-      "ageHours": 22.3
+      "viewsPerHour": 1218,
+      "views": 29554,
+      "ageHours": 24.3
+    },
+    {
+      "title": "Hidden Tunnels & Buried Silver | The Curse of Oak Island",
+      "channel": "History",
+      "videoId": "e5vI8sOIaLI",
+      "viewsPerHour": 903,
+      "views": 2089,
+      "ageHours": 2.3
     },
     {
       "title": "Shiyazh Pete on inspiring Navajo Nation and the speech that made him a viral sensation",
       "channel": "PBS NewsHour",
       "videoId": "3VL6C29mrWI",
-      "viewsPerHour": 926,
+      "viewsPerHour": 830,
       "views": 15963,
-      "ageHours": 17.2
+      "ageHours": 19.2
+    },
+    {
+      "title": "WATCH: Lindsay Clancy judge says he'll declare a mistrial, then gives defense hour to appeal",
+      "channel": "PBS NewsHour",
+      "videoId": "2na3ln-1pcw",
+      "viewsPerHour": 593,
+      "views": 1174,
+      "ageHours": 2
     },
     {
       "title": "Rozina Ali and Amna Nawaz discuss Islamophobia in America on 'Settle In'",
       "channel": "PBS NewsHour",
       "videoId": "tw_L-ip3qUQ",
-      "viewsPerHour": 469,
+      "viewsPerHour": 420,
       "views": 7978,
-      "ageHours": 17
+      "ageHours": 19
     },
     {
       "title": "Sony argues expecting ownership is unreasonable in court, uses forced arbitration to get case tossed",
       "channel": "Louis Rossmann",
       "videoId": "KJ-srVn2aG0",
-      "viewsPerHour": 227,
+      "viewsPerHour": 217,
       "views": 9718,
-      "ageHours": 42.9
+      "ageHours": 44.9
     },
     {
       "title": "PBS News Hour live episode, Sept. 3, 2026",
       "channel": "PBS NewsHour",
       "videoId": "Jf1gG7wwKIg",
-      "viewsPerHour": 214,
+      "viewsPerHour": 194,
       "views": 4038,
-      "ageHours": 18.8
+      "ageHours": 20.8
     },
     {
-      "title": "Report: Hegseth extends troop deployments as Trump declares 'mission accomplished' in Iran",
+      "title": "‘It’s CRAZY’: Trump again asks Supreme Court to allow mail-in voting restrictions",
       "channel": "MS NOW",
-      "videoId": "a18wx1CQve8",
-      "viewsPerHour": 183,
-      "views": 4352,
-      "ageHours": 23.8
-    },
-    {
-      "title": "WATCH: Comer says he would hold Leon Black in contempt 'right now' after billionaire defies subpoena",
-      "channel": "PBS NewsHour",
-      "videoId": "w0ZoMJwIedY",
-      "viewsPerHour": 83,
-      "views": 2063,
-      "ageHours": 25
-    },
-    {
-      "title": "She was a model for the rest of us': Nancy Pelosi remembers legendary feminist Gloria Steinem",
-      "channel": "MS NOW",
-      "videoId": "dZ9ij3MXhL4",
-      "viewsPerHour": 22,
-      "views": 519,
-      "ageHours": 23.8
-    },
-    {
-      "title": "Kamala Harris pays tribute to trailblazer Gloria Steinem: She was 'an icon in so many ways'",
-      "channel": "MS NOW",
-      "videoId": "EDIIprWHwAU",
-      "viewsPerHour": 11,
-      "views": 257,
-      "ageHours": 23.8
+      "videoId": "Q6G9eqQqdDg",
+      "viewsPerHour": 46,
+      "views": 79,
+      "ageHours": 1.7
     },
     {
       "title": "Sony's WORST argument 🤦",
       "channel": "Louis Rossmann",
       "videoId": "U2rgyl-auF4",
-      "viewsPerHour": 6,
+      "viewsPerHour": 5,
       "views": 105,
-      "ageHours": 18.1
+      "ageHours": 20.1
+    },
+    {
+      "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 2",
+      "channel": "PBS NewsHour",
+      "videoId": "vuh8w-nDxMg",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 3
+    },
+    {
+      "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 1",
+      "channel": "PBS NewsHour",
+      "videoId": "G647RN4WjB8",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 3.1
     },
     {
       "title": "European countries confront Russian sabotage and shadow warfare",
@@ -678,7 +702,7 @@
       "videoId": "uVt2hg-QpOI",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
       "title": "News Wrap: Trump asks Supreme Court to lift block on mail ballot order",
@@ -686,15 +710,7 @@
       "videoId": "_Qu4xBtDVoU",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 17.8
-    },
-    {
-      "title": "WATCH LIVE: Vance holds White House briefing after Leavitt's departure",
-      "channel": "PBS NewsHour",
-      "videoId": "6Vo6kLtsRVc",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 24.9
+      "ageHours": 19.8
     }
   ]
 }
