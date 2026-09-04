@@ -488,7 +488,7 @@
     },
     {
       "keyword": "UFO",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "The Rest Is Science",
@@ -529,148 +529,148 @@
   ],
   "mostViral48h": [
     {
-      "title": "The Scale Of The Universe",
-      "channel": "The Rest Is Science",
-      "videoId": "9yGdvsASj5c",
-      "viewsPerHour": 9427,
-      "views": 407499,
-      "ageHours": 43.2
-    },
-    {
       "title": "Silicon Valley Congressman: I Know These AI CEOs, And I Know What They Want To Do",
       "channel": "More Perfect Union",
       "videoId": "UFWtwObTgmQ",
-      "viewsPerHour": 8239,
-      "views": 18918,
-      "ageHours": 2.3
+      "viewsPerHour": 20086,
+      "views": 85942,
+      "ageHours": 4.3
+    },
+    {
+      "title": "The Scale Of The Universe",
+      "channel": "The Rest Is Science",
+      "videoId": "9yGdvsASj5c",
+      "viewsPerHour": 9258,
+      "views": 418550,
+      "ageHours": 45.2
     },
     {
       "title": "Stephen Colbert Investigates the Saratoga Springs Tax Scandal | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "M5Mktrf7784",
-      "viewsPerHour": 6119,
-      "views": 167164,
-      "ageHours": 27.3
+      "viewsPerHour": 5920,
+      "views": 173465,
+      "ageHours": 29.3
     },
     {
       "title": "PBS News Hour full episode, Sept. 3, 2026",
       "channel": "PBS NewsHour",
       "videoId": "NrjfSu5Lj9s",
-      "viewsPerHour": 5848,
+      "viewsPerHour": 5290,
       "views": 109808,
-      "ageHours": 18.8
+      "ageHours": 20.8
     },
     {
       "title": "UFO Encounters the Government Couldn't Explain | Secret Access | Full Special",
       "channel": "History",
       "videoId": "vvYlta7PHzw",
-      "viewsPerHour": 3232,
-      "views": 136763,
-      "ageHours": 42.3
+      "viewsPerHour": 3102,
+      "views": 137417,
+      "ageHours": 44.3
     },
     {
       "title": "Cowboys and Close Encounters | Ancient Aliens (S3, E1) | Full Episode",
       "channel": "History",
       "videoId": "jJo0lKNhSDI",
-      "viewsPerHour": 2514,
-      "views": 111403,
-      "ageHours": 44.3
-    },
-    {
-      "title": "Is WALL-E Secretly the Greatest Apocalypse Movie Ever? (feat. Sona Movsesian) | Bley's Arcade",
-      "channel": "Conan O'Brien",
-      "videoId": "09h6PHaumxc",
-      "viewsPerHour": 2258,
-      "views": 14267,
-      "ageHours": 6.3
-    },
-    {
-      "title": "9/11 The Day That Changed America: Full Timeline 20 Hours of Raw Footage",
-      "channel": "Real Stories",
-      "videoId": "rvgAoj5zk4I",
-      "viewsPerHour": 2075,
-      "views": 53566,
-      "ageHours": 25.8
-    },
-    {
-      "title": "The Final Episode Of \"Summer S'pouses\" | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "t9ySHjwKKqw",
-      "viewsPerHour": 2001,
-      "views": 60645,
-      "ageHours": 30.3
-    },
-    {
-      "title": "Conan Wants Angelenos To Start Dressing Like Adults | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "DagRU3Yu-v0",
-      "viewsPerHour": 1630,
-      "views": 5408,
-      "ageHours": 3.3
-    },
-    {
-      "title": "\"The Axis of Evil\": The Universe's Unexplained Center | What the Physics?!",
-      "channel": "NOVA",
-      "videoId": "ybTTMxvBDCk",
-      "viewsPerHour": 1218,
-      "views": 29554,
-      "ageHours": 24.3
+      "viewsPerHour": 2461,
+      "views": 113913,
+      "ageHours": 46.3
     },
     {
       "title": "Hidden Tunnels & Buried Silver | The Curse of Oak Island",
       "channel": "History",
       "videoId": "e5vI8sOIaLI",
-      "viewsPerHour": 903,
-      "views": 2089,
-      "ageHours": 2.3
+      "viewsPerHour": 2444,
+      "views": 10498,
+      "ageHours": 4.3
+    },
+    {
+      "title": "9/11 The Day That Changed America: Full Timeline 20 Hours of Raw Footage",
+      "channel": "Real Stories",
+      "videoId": "rvgAoj5zk4I",
+      "viewsPerHour": 2003,
+      "views": 55666,
+      "ageHours": 27.8
+    },
+    {
+      "title": "The Final Episode Of \"Summer S'pouses\" | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "t9ySHjwKKqw",
+      "viewsPerHour": 1878,
+      "views": 60645,
+      "ageHours": 32.3
+    },
+    {
+      "title": "Is WALL-E Secretly the Greatest Apocalypse Movie Ever? (feat. Sona Movsesian) | Bley's Arcade",
+      "channel": "Conan O'Brien",
+      "videoId": "09h6PHaumxc",
+      "viewsPerHour": 1719,
+      "views": 14267,
+      "ageHours": 8.3
+    },
+    {
+      "title": "\"The Axis of Evil\": The Universe's Unexplained Center | What the Physics?!",
+      "channel": "NOVA",
+      "videoId": "ybTTMxvBDCk",
+      "viewsPerHour": 1145,
+      "views": 30052,
+      "ageHours": 26.2
+    },
+    {
+      "title": "Conan Wants Angelenos To Start Dressing Like Adults | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "DagRU3Yu-v0",
+      "viewsPerHour": 1020,
+      "views": 5408,
+      "ageHours": 5.3
     },
     {
       "title": "Shiyazh Pete on inspiring Navajo Nation and the speech that made him a viral sensation",
       "channel": "PBS NewsHour",
       "videoId": "3VL6C29mrWI",
-      "viewsPerHour": 830,
+      "viewsPerHour": 752,
       "views": 15963,
-      "ageHours": 19.2
-    },
-    {
-      "title": "WATCH: Lindsay Clancy judge says he'll declare a mistrial, then gives defense hour to appeal",
-      "channel": "PBS NewsHour",
-      "videoId": "2na3ln-1pcw",
-      "viewsPerHour": 593,
-      "views": 1174,
-      "ageHours": 2
+      "ageHours": 21.2
     },
     {
       "title": "Rozina Ali and Amna Nawaz discuss Islamophobia in America on 'Settle In'",
       "channel": "PBS NewsHour",
       "videoId": "tw_L-ip3qUQ",
-      "viewsPerHour": 420,
+      "viewsPerHour": 380,
       "views": 7978,
-      "ageHours": 19
+      "ageHours": 21
+    },
+    {
+      "title": "WATCH: Lindsay Clancy judge says he'll declare a mistrial, then gives defense hour to appeal",
+      "channel": "PBS NewsHour",
+      "videoId": "2na3ln-1pcw",
+      "viewsPerHour": 296,
+      "views": 1174,
+      "ageHours": 4
     },
     {
       "title": "Sony argues expecting ownership is unreasonable in court, uses forced arbitration to get case tossed",
       "channel": "Louis Rossmann",
       "videoId": "KJ-srVn2aG0",
-      "viewsPerHour": 217,
+      "viewsPerHour": 207,
       "views": 9718,
-      "ageHours": 44.9
+      "ageHours": 46.9
     },
     {
       "title": "PBS News Hour live episode, Sept. 3, 2026",
       "channel": "PBS NewsHour",
       "videoId": "Jf1gG7wwKIg",
-      "viewsPerHour": 194,
+      "viewsPerHour": 177,
       "views": 4038,
-      "ageHours": 20.8
+      "ageHours": 22.8
     },
     {
       "title": "‘It’s CRAZY’: Trump again asks Supreme Court to allow mail-in voting restrictions",
       "channel": "MS NOW",
       "videoId": "Q6G9eqQqdDg",
-      "viewsPerHour": 46,
+      "viewsPerHour": 21,
       "views": 79,
-      "ageHours": 1.7
+      "ageHours": 3.7
     },
     {
       "title": "Sony's WORST argument 🤦",
@@ -678,7 +678,7 @@
       "videoId": "U2rgyl-auF4",
       "viewsPerHour": 5,
       "views": 105,
-      "ageHours": 20.1
+      "ageHours": 22.1
     },
     {
       "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 2",
@@ -686,7 +686,7 @@
       "videoId": "vuh8w-nDxMg",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 3
+      "ageHours": 5
     },
     {
       "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 1",
@@ -694,7 +694,7 @@
       "videoId": "G647RN4WjB8",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 3.1
+      "ageHours": 5.1
     },
     {
       "title": "European countries confront Russian sabotage and shadow warfare",
@@ -702,7 +702,7 @@
       "videoId": "uVt2hg-QpOI",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 19.6
+      "ageHours": 21.6
     },
     {
       "title": "News Wrap: Trump asks Supreme Court to lift block on mail ballot order",
@@ -710,7 +710,7 @@
       "videoId": "_Qu4xBtDVoU",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 19.8
+      "ageHours": 21.7
     }
   ]
 }
