@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "PBS NewsHour",
-      "count": 5
+      "count": 8
     },
     {
       "channel": "Louis Rossmann",
@@ -14,7 +14,7 @@
     },
     {
       "channel": "MS NOW",
-      "count": 5
+      "count": 3
     },
     {
       "channel": "Real Stories",
@@ -54,7 +54,7 @@
     },
     {
       "channel": "Diary of a CEO",
-      "count": 3
+      "count": 2
     },
     {
       "channel": "Nat Geo",
@@ -84,7 +84,7 @@
   "keywordFrequency": [
     {
       "keyword": "PBS NewsHour",
-      "count": 5
+      "count": 8
     },
     {
       "keyword": "Louis Rossmann",
@@ -96,7 +96,7 @@
     },
     {
       "keyword": "MS NOW",
-      "count": 5
+      "count": 3
     },
     {
       "keyword": "Real Stories",
@@ -132,7 +132,7 @@
     },
     {
       "keyword": "AI",
-      "count": 11
+      "count": 10
     },
     {
       "keyword": "Last Week Tonight",
@@ -222,7 +222,7 @@
   "dailySummary": [
     {
       "date": "2026-09-03",
-      "videos": 16
+      "videos": 17
     },
     {
       "date": "2026-09-02",
@@ -278,7 +278,7 @@
     },
     {
       "date": "2026-08-20",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-08-19",
@@ -456,7 +456,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "PBS NewsHour",
-      "matches": 5
+      "matches": 8
     },
     {
       "keyword": "Louis Rossmann",
@@ -468,7 +468,7 @@
     },
     {
       "keyword": "MS NOW",
-      "matches": 5
+      "matches": 3
     },
     {
       "keyword": "Real Stories",
@@ -480,7 +480,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "UFO",
@@ -532,153 +532,169 @@
       "title": "Could A Bitcoin Crash Wipe Out Your Savings? These Elites Are Betting On It. (ft. Ben McKenzie)",
       "channel": "More Perfect Union",
       "videoId": "XD0QT_g6fuk",
-      "viewsPerHour": 11691,
-      "views": 511659,
-      "ageHours": 43.8
+      "viewsPerHour": 11289,
+      "views": 516651,
+      "ageHours": 45.8
     },
     {
       "title": "The Scale Of The Universe",
       "channel": "The Rest Is Science",
       "videoId": "9yGdvsASj5c",
-      "viewsPerHour": 10682,
-      "views": 376069,
-      "ageHours": 35.2
+      "viewsPerHour": 10334,
+      "views": 384537,
+      "ageHours": 37.2
+    },
+    {
+      "title": "PBS News Hour full episode, Sept. 3, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "NrjfSu5Lj9s",
+      "viewsPerHour": 8607,
+      "views": 109808,
+      "ageHours": 12.8
     },
     {
       "title": "Stephen Colbert Investigates the Saratoga Springs Tax Scandal | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "M5Mktrf7784",
-      "viewsPerHour": 7429,
-      "views": 143365,
-      "ageHours": 19.3
+      "viewsPerHour": 7029,
+      "views": 149732,
+      "ageHours": 21.3
     },
     {
       "title": "Reptilian Legends & Extraterrestrial Encounters | Ancient Aliens",
       "channel": "History",
       "videoId": "GAqSSISFRQI",
-      "viewsPerHour": 5595,
-      "views": 225413,
-      "ageHours": 40.3
+      "viewsPerHour": 5384,
+      "views": 227721,
+      "ageHours": 42.3
     },
     {
       "title": "UFO Encounters the Government Couldn't Explain | Secret Access | Full Special",
       "channel": "History",
       "videoId": "vvYlta7PHzw",
-      "viewsPerHour": 3757,
-      "views": 128848,
-      "ageHours": 34.3
+      "viewsPerHour": 3622,
+      "views": 131450,
+      "ageHours": 36.3
     },
     {
       "title": "Cowboys and Close Encounters | Ancient Aliens (S3, E1) | Full Episode",
       "channel": "History",
       "videoId": "jJo0lKNhSDI",
-      "viewsPerHour": 2824,
-      "views": 102484,
-      "ageHours": 36.3
+      "viewsPerHour": 2751,
+      "views": 105329,
+      "ageHours": 38.3
     },
     {
       "title": "The Final Episode Of \"Summer S'pouses\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "t9ySHjwKKqw",
-      "viewsPerHour": 2720,
+      "viewsPerHour": 2496,
       "views": 60645,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "9/11 The Day That Changed America: Full Timeline 20 Hours of Raw Footage",
       "channel": "Real Stories",
       "videoId": "rvgAoj5zk4I",
-      "viewsPerHour": 2555,
-      "views": 45468,
-      "ageHours": 17.8
+      "viewsPerHour": 2396,
+      "views": 47424,
+      "ageHours": 19.8
     },
     {
       "title": "\"The Axis of Evil\": The Universe's Unexplained Center | What the Physics?!",
       "channel": "NOVA",
       "videoId": "ybTTMxvBDCk",
-      "viewsPerHour": 1640,
-      "views": 26632,
-      "ageHours": 16.2
+      "viewsPerHour": 1506,
+      "views": 27465,
+      "ageHours": 18.2
     },
     {
-      "title": "Sona Movsesian (Full Episode) | Where Everybody Knows Your Name",
-      "channel": "Conan O'Brien",
-      "videoId": "NbFsmDqc-XE",
-      "viewsPerHour": 389,
-      "views": 17990,
-      "ageHours": 46.3
+      "title": "Shiyazh Pete on inspiring Navajo Nation and the speech that made him a viral sensation",
+      "channel": "PBS NewsHour",
+      "videoId": "3VL6C29mrWI",
+      "viewsPerHour": 1208,
+      "views": 15963,
+      "ageHours": 13.2
+    },
+    {
+      "title": "Rozina Ali and Amna Nawaz discuss Islamophobia in America on 'Settle In'",
+      "channel": "PBS NewsHour",
+      "videoId": "tw_L-ip3qUQ",
+      "viewsPerHour": 614,
+      "views": 7978,
+      "ageHours": 13
     },
     {
       "title": "“THE CIA SPIED ON UFO WHISTLEBLOWERS”",
       "channel": "Jeremy Corbell",
       "videoId": "sNMSTgNazjs",
-      "viewsPerHour": 341,
-      "views": 14433,
-      "ageHours": 42.3
+      "viewsPerHour": 328,
+      "views": 14527,
+      "ageHours": 44.3
     },
     {
       "title": "How One Late Diagnosis Changed A Family's Future | The Colours of Us",
       "channel": "Real Stories",
       "videoId": "cyfnNZUZTlM",
-      "viewsPerHour": 327,
-      "views": 13845,
-      "ageHours": 42.3
+      "viewsPerHour": 313,
+      "views": 13871,
+      "ageHours": 44.3
     },
     {
       "title": "PBS News Hour live episode, Sept. 3, 2026",
       "channel": "PBS NewsHour",
       "videoId": "Jf1gG7wwKIg",
-      "viewsPerHour": 315,
+      "viewsPerHour": 273,
       "views": 4038,
-      "ageHours": 12.8
+      "ageHours": 14.8
     },
     {
       "title": "Sony argues expecting ownership is unreasonable in court, uses forced arbitration to get case tossed",
       "channel": "Louis Rossmann",
       "videoId": "KJ-srVn2aG0",
-      "viewsPerHour": 264,
+      "viewsPerHour": 250,
       "views": 9718,
-      "ageHours": 36.8
+      "ageHours": 38.8
     },
     {
       "title": "Report: Hegseth extends troop deployments as Trump declares 'mission accomplished' in Iran",
       "channel": "MS NOW",
       "videoId": "a18wx1CQve8",
-      "viewsPerHour": 245,
+      "viewsPerHour": 220,
       "views": 4352,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "WATCH: Comer says he would hold Leon Black in contempt 'right now' after billionaire defies subpoena",
       "channel": "PBS NewsHour",
       "videoId": "w0ZoMJwIedY",
-      "viewsPerHour": 109,
+      "viewsPerHour": 98,
       "views": 2063,
-      "ageHours": 19
+      "ageHours": 21
     },
     {
       "title": "She was a model for the rest of us': Nancy Pelosi remembers legendary feminist Gloria Steinem",
       "channel": "MS NOW",
       "videoId": "dZ9ij3MXhL4",
-      "viewsPerHour": 29,
+      "viewsPerHour": 26,
       "views": 519,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "Kamala Harris pays tribute to trailblazer Gloria Steinem: She was 'an icon in so many ways'",
       "channel": "MS NOW",
       "videoId": "EDIIprWHwAU",
-      "viewsPerHour": 14,
+      "viewsPerHour": 13,
       "views": 257,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "Sony's WORST argument 🤦",
       "channel": "Louis Rossmann",
       "videoId": "U2rgyl-auF4",
-      "viewsPerHour": 9,
+      "viewsPerHour": 7,
       "views": 105,
-      "ageHours": 12.1
+      "ageHours": 14.1
     },
     {
       "title": "European countries confront Russian sabotage and shadow warfare",
@@ -686,7 +702,7 @@
       "videoId": "uVt2hg-QpOI",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "News Wrap: Trump asks Supreme Court to lift block on mail ballot order",
@@ -694,7 +710,7 @@
       "videoId": "_Qu4xBtDVoU",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 11.7
+      "ageHours": 13.7
     },
     {
       "title": "WATCH LIVE: Vance holds White House briefing after Leavitt's departure",
@@ -702,23 +718,7 @@
       "videoId": "6Vo6kLtsRVc",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 18.9
-    },
-    {
-      "title": "Trump, White House prepare for Democratic investigations: Reports",
-      "channel": "MS NOW",
-      "videoId": "ExGbd308Zrk",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 23.7
-    },
-    {
-      "title": "Hegseth faces GOP BACKLASH for ‘massive’ Pentagon purge | MS NOW Highlights",
-      "channel": "MS NOW",
-      "videoId": "qixe83KiEB8",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 23.7
+      "ageHours": 20.9
     }
   ]
 }
