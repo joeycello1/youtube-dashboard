@@ -5,12 +5,20 @@
       "count": 6
     },
     {
+      "channel": "Real Stories",
+      "count": 41
+    },
+    {
+      "channel": "Jonathan Pie",
+      "count": 7
+    },
+    {
       "channel": "Louis Rossmann",
-      "count": 21
+      "count": 20
     },
     {
       "channel": "PBS NewsHour",
-      "count": 8
+      "count": 5
     },
     {
       "channel": "More Perfect Union",
@@ -22,15 +30,11 @@
     },
     {
       "channel": "Conan O'Brien",
-      "count": 11
+      "count": 10
     },
     {
       "channel": "NOVA",
       "count": 18
-    },
-    {
-      "channel": "Real Stories",
-      "count": 41
     },
     {
       "channel": "The Daily Show",
@@ -46,11 +50,11 @@
     },
     {
       "channel": "Mayim Bialik",
-      "count": 9
+      "count": 8
     },
     {
       "channel": "Last Week Tonight",
-      "count": 13
+      "count": 12
     },
     {
       "channel": "Diary of a CEO",
@@ -73,10 +77,6 @@
       "count": 4
     },
     {
-      "channel": "Jonathan Pie",
-      "count": 6
-    },
-    {
       "channel": "Inside AI",
       "count": 2
     }
@@ -87,12 +87,20 @@
       "count": 6
     },
     {
+      "keyword": "Real Stories",
+      "count": 32
+    },
+    {
+      "keyword": "Jonathan Pie",
+      "count": 7
+    },
+    {
       "keyword": "Louis Rossmann",
       "count": 19
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 8
+      "count": 5
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -104,11 +112,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 11
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 32
+      "count": 10
     },
     {
       "keyword": "The Daily Show",
@@ -140,7 +144,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "count": 13
+      "count": 12
     },
     {
       "keyword": "testimony",
@@ -164,11 +168,7 @@
     },
     {
       "keyword": "Louis Rossmann, AI",
-      "count": 2
-    },
-    {
-      "keyword": "Jonathan Pie",
-      "count": 6
+      "count": 1
     },
     {
       "keyword": "Giza",
@@ -209,20 +209,16 @@
     {
       "keyword": "More Perfect Union, whistleblower",
       "count": 1
-    },
-    {
-      "keyword": "testimony, UAP",
-      "count": 1
     }
   ],
   "dailySummary": [
     {
       "date": "2026-09-05",
-      "videos": 3
+      "videos": 6
     },
     {
       "date": "2026-09-04",
-      "videos": 18
+      "videos": 14
     },
     {
       "date": "2026-09-03",
@@ -258,7 +254,7 @@
     },
     {
       "date": "2026-08-26",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-08-25",
@@ -278,7 +274,7 @@
     },
     {
       "date": "2026-08-21",
-      "videos": 7
+      "videos": 5
     },
     {
       "date": "2026-08-20",
@@ -450,7 +446,7 @@
     },
     {
       "date": "2026-07-07",
-      "videos": 4
+      "videos": 2
     },
     {
       "date": "2026-06-14",
@@ -463,12 +459,20 @@
       "matches": 6
     },
     {
+      "keyword": "Real Stories",
+      "matches": 6
+    },
+    {
+      "keyword": "Jonathan Pie",
+      "matches": 1
+    },
+    {
       "keyword": "Louis Rossmann",
       "matches": 11
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 8
+      "matches": 5
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -481,10 +485,6 @@
     {
       "keyword": "Conan O'Brien",
       "matches": 7
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 6
     },
     {
       "keyword": "The Daily Show",
@@ -532,161 +532,153 @@
       "title": "Silicon Valley Congressman: I Know These AI CEOs, And I Know What They Want To Do",
       "channel": "More Perfect Union",
       "videoId": "UFWtwObTgmQ",
-      "viewsPerHour": 19235,
-      "views": 466771,
-      "ageHours": 24.3
+      "viewsPerHour": 18726,
+      "views": 492043,
+      "ageHours": 26.3
+    },
+    {
+      "title": "The Reform Witch Hunt",
+      "channel": "Jonathan Pie",
+      "videoId": "ZLufh8gEj_Q",
+      "viewsPerHour": 18085,
+      "views": 83692,
+      "ageHours": 4.6
     },
     {
       "title": "PBS News Hour full episode, Sept. 4, 2026",
       "channel": "PBS NewsHour",
       "videoId": "NCTfz88384w",
-      "viewsPerHour": 6480,
+      "viewsPerHour": 5792,
       "views": 109580,
-      "ageHours": 16.9
+      "ageHours": 18.9
     },
     {
       "title": "Hidden Tunnels & Buried Silver | The Curse of Oak Island",
       "channel": "History",
       "videoId": "e5vI8sOIaLI",
-      "viewsPerHour": 3511,
-      "views": 85251,
-      "ageHours": 24.3
+      "viewsPerHour": 3394,
+      "views": 89247,
+      "ageHours": 26.3
     },
     {
       "title": "TIVO paid plan drops ad-skipping feature, then paywalls ad-skipping behind a 2nd subscription!",
       "channel": "Louis Rossmann",
       "videoId": "NUky0OKIiG4",
-      "viewsPerHour": 3104,
+      "viewsPerHour": 2784,
       "views": 54209,
-      "ageHours": 17.5
+      "ageHours": 19.5
     },
     {
       "title": "How the U.S. and Canada fell into a feud – and how it could end",
       "channel": "PBS NewsHour",
       "videoId": "Z-qCtXIDfWs",
-      "viewsPerHour": 3094,
+      "viewsPerHour": 2764,
       "views": 52053,
-      "ageHours": 16.8
+      "ageHours": 18.8
     },
     {
       "title": "I need birth control... ",
       "channel": "Louis Rossmann",
       "videoId": "4QrBimCnCQ0",
-      "viewsPerHour": 2410,
+      "viewsPerHour": 2109,
       "views": 33929,
-      "ageHours": 14.1
+      "ageHours": 16.1
     },
     {
-      "title": "9/11 The Day That Changed America: Full Timeline 20 Hours of Raw Footage",
-      "channel": "Real Stories",
-      "videoId": "rvgAoj5zk4I",
-      "viewsPerHour": 1527,
-      "views": 72974,
-      "ageHours": 47.8
+      "title": "We're going to win': House Dem touts 'new generation' ready to end Trump's 'circus'",
+      "channel": "MS NOW",
+      "videoId": "Z6mYwCaAtJw",
+      "viewsPerHour": 1823,
+      "views": 4110,
+      "ageHours": 2.3
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Sept. 4, 8 p.m. ET | Audio Only",
       "channel": "MS NOW",
       "videoId": "rCgcFEnYokc",
-      "viewsPerHour": 1300,
+      "viewsPerHour": 1121,
       "views": 16396,
-      "ageHours": 12.6
+      "ageHours": 14.6
     },
     {
       "title": "Unfounded DELUSIONS': Nicolle slams hypocritical Trump for ABSURD election lies and attacks",
       "channel": "MS NOW",
       "videoId": "KRiEwk1Bc0c",
-      "viewsPerHour": 782,
+      "viewsPerHour": 704,
       "views": 14292,
-      "ageHours": 18.3
-    },
-    {
-      "title": "\"The Axis of Evil\": The Universe's Unexplained Center | What the Physics?!",
-      "channel": "NOVA",
-      "videoId": "ybTTMxvBDCk",
-      "viewsPerHour": 761,
-      "views": 35159,
-      "ageHours": 46.2
+      "ageHours": 20.3
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Sept. 4, 7 p.m. ET | Audio Only",
       "channel": "MS NOW",
       "videoId": "AMEO4FPnqBE",
-      "viewsPerHour": 552,
+      "viewsPerHour": 476,
       "views": 6983,
-      "ageHours": 12.7
+      "ageHours": 14.7
     },
     {
       "title": "Is WALL-E Secretly the Greatest Apocalypse Movie Ever? (feat. Sona Movsesian) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "09h6PHaumxc",
-      "viewsPerHour": 504,
+      "viewsPerHour": 471,
       "views": 14267,
-      "ageHours": 28.3
+      "ageHours": 30.3
     },
     {
       "title": "TRAVELING THE COUNTRY TO FIX THE DMCA!",
       "channel": "Louis Rossmann",
       "videoId": "lyFcIlkngiY",
-      "viewsPerHour": 470,
+      "viewsPerHour": 430,
       "views": 10138,
-      "ageHours": 21.6
+      "ageHours": 23.6
     },
     {
       "title": "PBS News Hour live episode, Sept. 4, 2026",
       "channel": "PBS NewsHour",
       "videoId": "FEwQ-BfIDqE",
-      "viewsPerHour": 223,
+      "viewsPerHour": 202,
       "views": 4292,
-      "ageHours": 19.2
+      "ageHours": 21.2
     },
     {
       "title": "Shrine to his INEPTITUDE': Nicolle on embarrassed GOP BEGGING toxic Trump NOT to campaign with them",
       "channel": "MS NOW",
       "videoId": "kWOY9t7Nb_w",
-      "viewsPerHour": 223,
+      "viewsPerHour": 200,
       "views": 3956,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "Conan Wants Angelenos To Start Dressing Like Adults | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "DagRU3Yu-v0",
-      "viewsPerHour": 214,
+      "viewsPerHour": 198,
       "views": 5408,
-      "ageHours": 25.3
+      "ageHours": 27.3
+    },
+    {
+      "title": "Why Are Muslims Being Targeted in Myanmar?",
+      "channel": "Real Stories",
+      "videoId": "8vt7c6Ueiys",
+      "viewsPerHour": 188,
+      "views": 431,
+      "ageHours": 2.3
     },
     {
       "title": "BREAKING: Judge rules that Pentagon CAN fire military newspaper journalists",
       "channel": "MS NOW",
       "videoId": "eWewLD1fdqA",
-      "viewsPerHour": 153,
+      "viewsPerHour": 137,
       "views": 2735,
-      "ageHours": 17.9
-    },
-    {
-      "title": "WATCH: Lindsay Clancy judge says he'll declare a mistrial, then gives defense hour to appeal",
-      "channel": "PBS NewsHour",
-      "videoId": "2na3ln-1pcw",
-      "viewsPerHour": 49,
-      "views": 1174,
-      "ageHours": 24
+      "ageHours": 19.9
     },
     {
       "title": "How Trump's attempt to restrict mail ballots is being challenged in court",
       "channel": "PBS NewsHour",
       "videoId": "rJjmrqyky8w",
-      "viewsPerHour": 31,
+      "viewsPerHour": 27,
       "views": 540,
-      "ageHours": 17.7
-    },
-    {
-      "title": "‘It’s CRAZY’: Trump again asks Supreme Court to allow mail-in voting restrictions",
-      "channel": "MS NOW",
-      "videoId": "Q6G9eqQqdDg",
-      "viewsPerHour": 3,
-      "views": 79,
-      "ageHours": 23.7
+      "ageHours": 19.7
     },
     {
       "title": "Sony's WORST argument 🤦",
@@ -694,7 +686,7 @@
       "videoId": "U2rgyl-auF4",
       "viewsPerHour": 2,
       "views": 105,
-      "ageHours": 42.1
+      "ageHours": 44.1
     },
     {
       "title": "Retired general calls Trump's proposed arch near Arlington a 'sacrilege'",
@@ -702,23 +694,7 @@
       "videoId": "aqn6UjYxoRU",
       "viewsPerHour": 1,
       "views": 15,
-      "ageHours": 17.6
-    },
-    {
-      "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 2",
-      "channel": "PBS NewsHour",
-      "videoId": "vuh8w-nDxMg",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 25
-    },
-    {
-      "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 1",
-      "channel": "PBS NewsHour",
-      "videoId": "G647RN4WjB8",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 25.1
+      "ageHours": 19.6
     }
   ]
 }
