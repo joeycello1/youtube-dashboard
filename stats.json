@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "PBS NewsHour",
-      "count": 9
+      "count": 6
     },
     {
       "channel": "MS NOW",
@@ -84,7 +84,7 @@
   "keywordFrequency": [
     {
       "keyword": "PBS NewsHour",
-      "count": 9
+      "count": 6
     },
     {
       "keyword": "MS NOW",
@@ -222,7 +222,7 @@
     },
     {
       "date": "2026-09-03",
-      "videos": 9
+      "videos": 6
     },
     {
       "date": "2026-09-02",
@@ -456,7 +456,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "PBS NewsHour",
-      "matches": 9
+      "matches": 6
     },
     {
       "keyword": "MS NOW",
@@ -532,153 +532,129 @@
       "title": "Silicon Valley Congressman: I Know These AI CEOs, And I Know What They Want To Do",
       "channel": "More Perfect Union",
       "videoId": "UFWtwObTgmQ",
-      "viewsPerHour": 26755,
+      "viewsPerHour": 22992,
       "views": 328232,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "Stephen Colbert Investigates the Saratoga Springs Tax Scandal | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "M5Mktrf7784",
-      "viewsPerHour": 4973,
+      "viewsPerHour": 4719,
       "views": 185442,
-      "ageHours": 37.3
+      "ageHours": 39.3
     },
     {
       "title": "Hidden Tunnels & Buried Silver | The Curse of Oak Island",
       "channel": "History",
       "videoId": "e5vI8sOIaLI",
-      "viewsPerHour": 4326,
-      "views": 53147,
-      "ageHours": 12.3
-    },
-    {
-      "title": "PBS News Hour full episode, Sept. 3, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "NrjfSu5Lj9s",
-      "viewsPerHour": 3820,
-      "views": 109808,
-      "ageHours": 28.7
+      "viewsPerHour": 4256,
+      "views": 60836,
+      "ageHours": 14.3
     },
     {
       "title": "Unfounded DELUSIONS': Nicolle slams hypocritical Trump for ABSURD election lies and attacks",
       "channel": "MS NOW",
       "videoId": "KRiEwk1Bc0c",
-      "viewsPerHour": 2273,
+      "viewsPerHour": 1723,
       "views": 14292,
-      "ageHours": 6.3
+      "ageHours": 8.3
     },
     {
       "title": "9/11 The Day That Changed America: Full Timeline 20 Hours of Raw Footage",
       "channel": "Real Stories",
       "videoId": "rvgAoj5zk4I",
-      "viewsPerHour": 1704,
+      "viewsPerHour": 1613,
       "views": 60980,
-      "ageHours": 35.8
+      "ageHours": 37.8
     },
     {
       "title": "The Final Episode Of \"Summer S'pouses\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "t9ySHjwKKqw",
-      "viewsPerHour": 1505,
+      "viewsPerHour": 1434,
       "views": 60645,
-      "ageHours": 40.3
+      "ageHours": 42.3
     },
     {
       "title": "TRAVELING THE COUNTRY TO FIX THE DMCA!",
       "channel": "Louis Rossmann",
       "videoId": "lyFcIlkngiY",
-      "viewsPerHour": 1058,
+      "viewsPerHour": 875,
       "views": 10138,
-      "ageHours": 9.6
+      "ageHours": 11.6
     },
     {
       "title": "\"The Axis of Evil\": The Universe's Unexplained Center | What the Physics?!",
       "channel": "NOVA",
       "videoId": "ybTTMxvBDCk",
-      "viewsPerHour": 925,
+      "viewsPerHour": 874,
       "views": 31658,
-      "ageHours": 34.2
+      "ageHours": 36.2
     },
     {
       "title": "Is WALL-E Secretly the Greatest Apocalypse Movie Ever? (feat. Sona Movsesian) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "09h6PHaumxc",
-      "viewsPerHour": 876,
+      "viewsPerHour": 780,
       "views": 14267,
-      "ageHours": 16.3
+      "ageHours": 18.3
     },
     {
       "title": "Shrine to his INEPTITUDE': Nicolle on embarrassed GOP BEGGING toxic Trump NOT to campaign with them",
       "channel": "MS NOW",
       "videoId": "kWOY9t7Nb_w",
-      "viewsPerHour": 690,
+      "viewsPerHour": 511,
       "views": 3956,
-      "ageHours": 5.7
+      "ageHours": 7.7
     },
     {
       "title": "PBS News Hour live episode, Sept. 4, 2026",
       "channel": "PBS NewsHour",
       "videoId": "FEwQ-BfIDqE",
-      "viewsPerHour": 594,
+      "viewsPerHour": 465,
       "views": 4292,
-      "ageHours": 7.2
-    },
-    {
-      "title": "Shiyazh Pete on inspiring Navajo Nation and the speech that made him a viral sensation",
-      "channel": "PBS NewsHour",
-      "videoId": "3VL6C29mrWI",
-      "viewsPerHour": 547,
-      "views": 15963,
-      "ageHours": 29.2
-    },
-    {
-      "title": "BREAKING: Judge rules that Pentagon CAN fire military newspaper journalists",
-      "channel": "MS NOW",
-      "videoId": "eWewLD1fdqA",
-      "viewsPerHour": 461,
-      "views": 2735,
-      "ageHours": 5.9
+      "ageHours": 9.2
     },
     {
       "title": "Conan Wants Angelenos To Start Dressing Like Adults | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "DagRU3Yu-v0",
-      "viewsPerHour": 407,
+      "viewsPerHour": 354,
       "views": 5408,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
-      "title": "Rozina Ali and Amna Nawaz discuss Islamophobia in America on 'Settle In'",
-      "channel": "PBS NewsHour",
-      "videoId": "tw_L-ip3qUQ",
-      "viewsPerHour": 275,
-      "views": 7978,
-      "ageHours": 29
+      "title": "BREAKING: Judge rules that Pentagon CAN fire military newspaper journalists",
+      "channel": "MS NOW",
+      "videoId": "eWewLD1fdqA",
+      "viewsPerHour": 345,
+      "views": 2735,
+      "ageHours": 7.9
     },
     {
       "title": "WATCH: Lindsay Clancy judge says he'll declare a mistrial, then gives defense hour to appeal",
       "channel": "PBS NewsHour",
       "videoId": "2na3ln-1pcw",
-      "viewsPerHour": 98,
+      "viewsPerHour": 84,
       "views": 1174,
-      "ageHours": 12
+      "ageHours": 14
     },
     {
       "title": "How Trump's attempt to restrict mail ballots is being challenged in court",
       "channel": "PBS NewsHour",
       "videoId": "rJjmrqyky8w",
-      "viewsPerHour": 95,
+      "viewsPerHour": 70,
       "views": 540,
-      "ageHours": 5.7
+      "ageHours": 7.7
     },
     {
       "title": "‘It’s CRAZY’: Trump again asks Supreme Court to allow mail-in voting restrictions",
       "channel": "MS NOW",
       "videoId": "Q6G9eqQqdDg",
-      "viewsPerHour": 7,
+      "viewsPerHour": 6,
       "views": 79,
-      "ageHours": 11.7
+      "ageHours": 13.7
     },
     {
       "title": "Sony's WORST argument 🤦",
@@ -686,15 +662,15 @@
       "videoId": "U2rgyl-auF4",
       "viewsPerHour": 3,
       "views": 105,
-      "ageHours": 30.1
+      "ageHours": 32.1
     },
     {
       "title": "Retired general calls Trump's proposed arch near Arlington a 'sacrilege'",
       "channel": "PBS NewsHour",
       "videoId": "aqn6UjYxoRU",
-      "viewsPerHour": 3,
+      "viewsPerHour": 2,
       "views": 15,
-      "ageHours": 5.6
+      "ageHours": 7.6
     },
     {
       "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 2",
@@ -702,7 +678,7 @@
       "videoId": "vuh8w-nDxMg",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 13
+      "ageHours": 15
     },
     {
       "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 1",
@@ -710,7 +686,7 @@
       "videoId": "G647RN4WjB8",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 13.1
+      "ageHours": 15.1
     }
   ]
 }
