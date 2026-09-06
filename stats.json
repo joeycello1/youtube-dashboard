@@ -472,7 +472,7 @@
     },
     {
       "keyword": "More Perfect Union, AI",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "Conan O'Brien",
@@ -516,113 +516,105 @@
       "title": "The Reform Witch Hunt",
       "channel": "Jonathan Pie",
       "videoId": "ZLufh8gEj_Q",
-      "viewsPerHour": 14275,
-      "views": 408970,
-      "ageHours": 28.6
+      "viewsPerHour": 13958,
+      "views": 428451,
+      "ageHours": 30.7
     },
     {
       "title": "Sony threatens $500,000 lawsuit over a bad review. This company is now a meme.",
       "channel": "Louis Rossmann",
       "videoId": "7EXGoebeJtY",
-      "viewsPerHour": 13008,
+      "viewsPerHour": 11433,
       "views": 193216,
-      "ageHours": 14.9
+      "ageHours": 16.9
     },
     {
       "title": "Are We on the Verge of Finding Alien Life? | Ancient Aliens (S20, E14) | Full Episode",
       "channel": "History",
       "videoId": "SqoLyCsXzug",
-      "viewsPerHour": 5110,
-      "views": 93601,
-      "ageHours": 18.3
+      "viewsPerHour": 4869,
+      "views": 99145,
+      "ageHours": 20.4
     },
     {
       "title": "All In with Chris Hayes Weekly Highlights | Aug. 31-Sept. 3",
       "channel": "MS NOW",
       "videoId": "j3RRAWBxZ0w",
-      "viewsPerHour": 3009,
+      "viewsPerHour": 2691,
       "views": 52098,
-      "ageHours": 17.3
+      "ageHours": 19.4
     },
     {
       "title": "New Evidence Points to Hidden Treasure | The Curse of Oak Island (S3, E10) | Full Episode",
       "channel": "History",
       "videoId": "1AjK6SpjCu0",
-      "viewsPerHour": 2402,
-      "views": 48784,
-      "ageHours": 20.3
+      "viewsPerHour": 2312,
+      "views": 51702,
+      "ageHours": 22.4
     },
     {
       "title": "‘Most INCOMPETENT administration in American history!’: Dem Rep. torches Trump over Iran war",
       "channel": "MS NOW",
       "videoId": "_uB2xahVB6E",
-      "viewsPerHour": 1535,
+      "viewsPerHour": 1403,
       "views": 33492,
-      "ageHours": 21.8
+      "ageHours": 23.9
     },
     {
       "title": "TIVO paid plan drops ad-skipping feature, then paywalls ad-skipping behind a 2nd subscription!",
       "channel": "Louis Rossmann",
       "videoId": "NUky0OKIiG4",
-      "viewsPerHour": 1246,
+      "viewsPerHour": 1190,
       "views": 54209,
-      "ageHours": 43.5
+      "ageHours": 45.5
     },
     {
       "title": "I need birth control... ",
       "channel": "Louis Rossmann",
       "videoId": "4QrBimCnCQ0",
-      "viewsPerHour": 846,
+      "viewsPerHour": 805,
       "views": 33929,
-      "ageHours": 40.1
+      "ageHours": 42.2
     },
     {
       "title": "Why Are Muslims Being Targeted in Myanmar?",
       "channel": "Real Stories",
       "videoId": "8vt7c6Ueiys",
-      "viewsPerHour": 523,
-      "views": 13757,
-      "ageHours": 26.3
-    },
-    {
-      "title": "‘Drifting’: Trump’s focus shifts to pet projects as Republican midterm prospects crumble",
-      "channel": "MS NOW",
-      "videoId": "gUOF-5H8h2k",
-      "viewsPerHour": 260,
-      "views": 5662,
-      "ageHours": 21.8
-    },
-    {
-      "title": "Morning Joe Weekly Highlights | Aug. 31- Sept. 4",
-      "channel": "MS NOW",
-      "videoId": "ewUfGKJpNN4",
-      "viewsPerHour": 258,
-      "views": 2144,
-      "ageHours": 8.3
-    },
-    {
-      "title": "TRAVELING THE COUNTRY TO FIX THE DMCA!",
-      "channel": "Louis Rossmann",
-      "videoId": "lyFcIlkngiY",
-      "viewsPerHour": 213,
-      "views": 10138,
-      "ageHours": 47.6
-    },
-    {
-      "title": "Deadline: White House Weekly Highlights | Aug. 31-Sept. 4",
-      "channel": "MS NOW",
-      "videoId": "9nyq0vh9hC0",
-      "viewsPerHour": 144,
-      "views": 3217,
-      "ageHours": 22.3
+      "viewsPerHour": 505,
+      "views": 14332,
+      "ageHours": 28.4
     },
     {
       "title": "The Darkest Secret Hidden in Lionel Richie’s Family Tree | Who Do You Think You Are USA",
       "channel": "Real Stories",
       "videoId": "BGp7CRQ8wZ4",
-      "viewsPerHour": 90,
-      "views": 209,
-      "ageHours": 2.3
+      "viewsPerHour": 352,
+      "views": 1533,
+      "ageHours": 4.4
+    },
+    {
+      "title": "‘Drifting’: Trump’s focus shifts to pet projects as Republican midterm prospects crumble",
+      "channel": "MS NOW",
+      "videoId": "gUOF-5H8h2k",
+      "viewsPerHour": 238,
+      "views": 5662,
+      "ageHours": 23.8
+    },
+    {
+      "title": "Morning Joe Weekly Highlights | Aug. 31- Sept. 4",
+      "channel": "MS NOW",
+      "videoId": "ewUfGKJpNN4",
+      "viewsPerHour": 207,
+      "views": 2144,
+      "ageHours": 10.4
+    },
+    {
+      "title": "Deadline: White House Weekly Highlights | Aug. 31-Sept. 4",
+      "channel": "MS NOW",
+      "videoId": "9nyq0vh9hC0",
+      "viewsPerHour": 132,
+      "views": 3217,
+      "ageHours": 24.4
     }
   ]
 }
