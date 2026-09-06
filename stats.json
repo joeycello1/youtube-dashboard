@@ -1,20 +1,20 @@
 {
   "videosPerChannel": [
     {
+      "channel": "Real Stories",
+      "count": 42
+    },
+    {
       "channel": "MS NOW",
-      "count": 6
+      "count": 5
     },
     {
       "channel": "Louis Rossmann",
-      "count": 20
+      "count": 19
     },
     {
       "channel": "History",
       "count": 65
-    },
-    {
-      "channel": "Real Stories",
-      "count": 41
     },
     {
       "channel": "Jonathan Pie",
@@ -26,7 +26,7 @@
     },
     {
       "channel": "Conan O'Brien",
-      "count": 10
+      "count": 9
     },
     {
       "channel": "NOVA",
@@ -50,7 +50,7 @@
     },
     {
       "channel": "Last Week Tonight",
-      "count": 12
+      "count": 11
     },
     {
       "channel": "Diary of a CEO",
@@ -79,12 +79,16 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "Real Stories",
+      "count": 33
+    },
+    {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 5
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 19
+      "count": 18
     },
     {
       "keyword": "artificial intelligence",
@@ -93,10 +97,6 @@
     {
       "keyword": "NOVA",
       "count": 35
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 32
     },
     {
       "keyword": "Jonathan Pie",
@@ -108,7 +108,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 10
+      "count": 9
     },
     {
       "keyword": "The Daily Show",
@@ -140,7 +140,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "count": 12
+      "count": 11
     },
     {
       "keyword": "testimony",
@@ -206,11 +206,11 @@
   "dailySummary": [
     {
       "date": "2026-09-06",
-      "videos": 4
+      "videos": 5
     },
     {
       "date": "2026-09-05",
-      "videos": 8
+      "videos": 7
     },
     {
       "date": "2026-09-04",
@@ -246,7 +246,7 @@
     },
     {
       "date": "2026-08-27",
-      "videos": 8
+      "videos": 7
     },
     {
       "date": "2026-08-26",
@@ -266,7 +266,7 @@
     },
     {
       "date": "2026-08-22",
-      "videos": 5
+      "videos": 3
     },
     {
       "date": "2026-08-21",
@@ -447,8 +447,12 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "MS NOW",
+      "keyword": "Real Stories",
       "matches": 6
+    },
+    {
+      "keyword": "MS NOW",
+      "matches": 5
     },
     {
       "keyword": "Louis Rossmann",
@@ -461,10 +465,6 @@
     {
       "keyword": "NOVA",
       "matches": 4
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 5
     },
     {
       "keyword": "Jonathan Pie",
@@ -513,116 +513,116 @@
   ],
   "mostViral48h": [
     {
-      "title": "Sony threatens $500,000 lawsuit over a bad review. This company is now a meme.",
-      "channel": "Louis Rossmann",
-      "videoId": "7EXGoebeJtY",
-      "viewsPerHour": 15048,
-      "views": 193216,
-      "ageHours": 12.8
-    },
-    {
       "title": "The Reform Witch Hunt",
       "channel": "Jonathan Pie",
       "videoId": "ZLufh8gEj_Q",
-      "viewsPerHour": 15037,
-      "views": 400521,
-      "ageHours": 26.6
+      "viewsPerHour": 14275,
+      "views": 408970,
+      "ageHours": 28.6
+    },
+    {
+      "title": "Sony threatens $500,000 lawsuit over a bad review. This company is now a meme.",
+      "channel": "Louis Rossmann",
+      "videoId": "7EXGoebeJtY",
+      "viewsPerHour": 13008,
+      "views": 193216,
+      "ageHours": 14.9
     },
     {
       "title": "Are We on the Verge of Finding Alien Life? | Ancient Aliens (S20, E14) | Full Episode",
       "channel": "History",
       "videoId": "SqoLyCsXzug",
-      "viewsPerHour": 5575,
-      "views": 90880,
-      "ageHours": 16.3
+      "viewsPerHour": 5110,
+      "views": 93601,
+      "ageHours": 18.3
     },
     {
       "title": "All In with Chris Hayes Weekly Highlights | Aug. 31-Sept. 3",
       "channel": "MS NOW",
       "videoId": "j3RRAWBxZ0w",
-      "viewsPerHour": 3405,
+      "viewsPerHour": 3009,
       "views": 52098,
-      "ageHours": 15.3
+      "ageHours": 17.3
     },
     {
       "title": "New Evidence Points to Hidden Treasure | The Curse of Oak Island (S3, E10) | Full Episode",
       "channel": "History",
       "videoId": "1AjK6SpjCu0",
-      "viewsPerHour": 2595,
-      "views": 47486,
-      "ageHours": 18.3
+      "viewsPerHour": 2402,
+      "views": 48784,
+      "ageHours": 20.3
     },
     {
       "title": "‘Most INCOMPETENT administration in American history!’: Dem Rep. torches Trump over Iran war",
       "channel": "MS NOW",
       "videoId": "_uB2xahVB6E",
-      "viewsPerHour": 1691,
+      "viewsPerHour": 1535,
       "views": 33492,
-      "ageHours": 19.8
+      "ageHours": 21.8
     },
     {
       "title": "TIVO paid plan drops ad-skipping feature, then paywalls ad-skipping behind a 2nd subscription!",
       "channel": "Louis Rossmann",
       "videoId": "NUky0OKIiG4",
-      "viewsPerHour": 1307,
+      "viewsPerHour": 1246,
       "views": 54209,
-      "ageHours": 41.5
+      "ageHours": 43.5
     },
     {
       "title": "I need birth control... ",
       "channel": "Louis Rossmann",
       "videoId": "4QrBimCnCQ0",
-      "viewsPerHour": 891,
+      "viewsPerHour": 846,
       "views": 33929,
-      "ageHours": 38.1
+      "ageHours": 40.1
     },
     {
       "title": "Why Are Muslims Being Targeted in Myanmar?",
       "channel": "Real Stories",
       "videoId": "8vt7c6Ueiys",
-      "viewsPerHour": 554,
-      "views": 13478,
-      "ageHours": 24.3
-    },
-    {
-      "title": "Morning Joe Weekly Highlights | Aug. 31- Sept. 4",
-      "channel": "MS NOW",
-      "videoId": "ewUfGKJpNN4",
-      "viewsPerHour": 340,
-      "views": 2144,
-      "ageHours": 6.3
+      "viewsPerHour": 523,
+      "views": 13757,
+      "ageHours": 26.3
     },
     {
       "title": "‘Drifting’: Trump’s focus shifts to pet projects as Republican midterm prospects crumble",
       "channel": "MS NOW",
       "videoId": "gUOF-5H8h2k",
-      "viewsPerHour": 287,
+      "viewsPerHour": 260,
       "views": 5662,
-      "ageHours": 19.8
+      "ageHours": 21.8
+    },
+    {
+      "title": "Morning Joe Weekly Highlights | Aug. 31- Sept. 4",
+      "channel": "MS NOW",
+      "videoId": "ewUfGKJpNN4",
+      "viewsPerHour": 258,
+      "views": 2144,
+      "ageHours": 8.3
     },
     {
       "title": "TRAVELING THE COUNTRY TO FIX THE DMCA!",
       "channel": "Louis Rossmann",
       "videoId": "lyFcIlkngiY",
-      "viewsPerHour": 222,
+      "viewsPerHour": 213,
       "views": 10138,
-      "ageHours": 45.6
-    },
-    {
-      "title": "We're going to win': House Dem touts 'new generation' ready to end Trump's 'circus'",
-      "channel": "MS NOW",
-      "videoId": "Z6mYwCaAtJw",
-      "viewsPerHour": 169,
-      "views": 4110,
-      "ageHours": 24.3
+      "ageHours": 47.6
     },
     {
       "title": "Deadline: White House Weekly Highlights | Aug. 31-Sept. 4",
       "channel": "MS NOW",
       "videoId": "9nyq0vh9hC0",
-      "viewsPerHour": 158,
+      "viewsPerHour": 144,
       "views": 3217,
-      "ageHours": 20.3
+      "ageHours": 22.3
+    },
+    {
+      "title": "The Darkest Secret Hidden in Lionel Richie’s Family Tree | Who Do You Think You Are USA",
+      "channel": "Real Stories",
+      "videoId": "BGp7CRQ8wZ4",
+      "viewsPerHour": 90,
+      "views": 209,
+      "ageHours": 2.3
     }
   ]
 }
