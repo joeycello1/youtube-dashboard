@@ -505,10 +505,6 @@
     {
       "keyword": "AI",
       "matches": 1
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -516,97 +512,89 @@
       "title": "The Smallest Thing You Can Feel",
       "channel": "The Rest Is Science",
       "videoId": "-a6zw7HFk3Y",
-      "viewsPerHour": 11768,
-      "views": 203417,
-      "ageHours": 17.3
+      "viewsPerHour": 11336,
+      "views": 218619,
+      "ageHours": 19.3
     },
     {
       "title": "Sony threatens $500,000 lawsuit over a bad review. This company is now a meme.",
       "channel": "Louis Rossmann",
       "videoId": "7EXGoebeJtY",
-      "viewsPerHour": 5548,
+      "viewsPerHour": 5246,
       "views": 193216,
-      "ageHours": 34.8
+      "ageHours": 36.8
     },
     {
       "title": "Hidden UFO Reports Revealed | UFO Conspiracy: Hunt For The Truth | Full Special",
       "channel": "History",
       "videoId": "g06KzNAWaUs",
-      "viewsPerHour": 4075,
-      "views": 66388,
-      "ageHours": 16.3
+      "viewsPerHour": 3822,
+      "views": 69900,
+      "ageHours": 18.3
     },
     {
       "title": "Are We on the Verge of Finding Alien Life? | Ancient Aliens (S20, E14) | Full Episode",
       "channel": "History",
       "videoId": "SqoLyCsXzug",
-      "viewsPerHour": 3609,
-      "views": 138187,
-      "ageHours": 38.3
+      "viewsPerHour": 3478,
+      "views": 140131,
+      "ageHours": 40.3
     },
     {
       "title": "Sony covers their tracks worse than werecoverdata",
       "channel": "Louis Rossmann",
       "videoId": "cUjDCoLSBlc",
-      "viewsPerHour": 3092,
+      "viewsPerHour": 2798,
       "views": 58794,
-      "ageHours": 19
+      "ageHours": 21
     },
     {
       "title": "New Evidence Points to Hidden Treasure | The Curse of Oak Island (S3, E10) | Full Episode",
       "channel": "History",
       "videoId": "1AjK6SpjCu0",
-      "viewsPerHour": 1642,
-      "views": 66140,
-      "ageHours": 40.3
+      "viewsPerHour": 1584,
+      "views": 66975,
+      "ageHours": 42.3
     },
     {
       "title": "Crack your video editing software: seriously.",
       "channel": "Louis Rossmann",
       "videoId": "tPhQ4gAylek",
-      "viewsPerHour": 1469,
+      "viewsPerHour": 1263,
       "views": 18054,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "The 11th Hour with Ali Velshi Weekly Highlights | Aug. 31- Sept. 3",
       "channel": "MS NOW",
       "videoId": "3x2G68osDic",
-      "viewsPerHour": 873,
+      "viewsPerHour": 759,
       "views": 11605,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "MS NOW Highlights - September 6",
       "channel": "MS NOW",
       "videoId": "RW3F3copIVg",
-      "viewsPerHour": 469,
+      "viewsPerHour": 403,
       "views": 5758,
-      "ageHours": 12.3
-    },
-    {
-      "title": "Why Are Muslims Being Targeted in Myanmar?",
-      "channel": "Real Stories",
-      "videoId": "8vt7c6Ueiys",
-      "viewsPerHour": 359,
-      "views": 16598,
-      "ageHours": 46.3
+      "ageHours": 14.3
     },
     {
       "title": "The Darkest Secret Hidden in Lionel Richie’s Family Tree | Who Do You Think You Are USA",
       "channel": "Real Stories",
       "videoId": "BGp7CRQ8wZ4",
-      "viewsPerHour": 305,
-      "views": 6793,
-      "ageHours": 22.3
+      "viewsPerHour": 286,
+      "views": 6947,
+      "ageHours": 24.3
     },
     {
       "title": "BREAKING: 5 dead after cargo jet overshoots runway at Miami Airport",
       "channel": "MS NOW",
       "videoId": "y8CiupBRhqw",
-      "viewsPerHour": 206,
+      "viewsPerHour": 183,
       "views": 3226,
-      "ageHours": 15.7
+      "ageHours": 17.7
     }
   ]
 }
