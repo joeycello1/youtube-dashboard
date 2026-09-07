@@ -504,7 +504,7 @@
     },
     {
       "keyword": "AI",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "Last Week Tonight",
@@ -513,116 +513,116 @@
   ],
   "mostViral48h": [
     {
-      "title": "The Reform Witch Hunt",
-      "channel": "Jonathan Pie",
-      "videoId": "ZLufh8gEj_Q",
-      "viewsPerHour": 11814,
-      "views": 480125,
-      "ageHours": 40.6
-    },
-    {
       "title": "The Smallest Thing You Can Feel",
       "channel": "The Rest Is Science",
       "videoId": "-a6zw7HFk3Y",
-      "viewsPerHour": 11389,
-      "views": 105930,
-      "ageHours": 9.3
+      "viewsPerHour": 13350,
+      "views": 150821,
+      "ageHours": 11.3
+    },
+    {
+      "title": "The Reform Witch Hunt",
+      "channel": "Jonathan Pie",
+      "videoId": "ZLufh8gEj_Q",
+      "viewsPerHour": 11419,
+      "views": 486882,
+      "ageHours": 42.6
     },
     {
       "title": "Sony threatens $500,000 lawsuit over a bad review. This company is now a meme.",
       "channel": "Louis Rossmann",
       "videoId": "7EXGoebeJtY",
-      "viewsPerHour": 7198,
+      "viewsPerHour": 6700,
       "views": 193216,
-      "ageHours": 26.8
-    },
-    {
-      "title": "Sony covers their tracks worse than werecoverdata",
-      "channel": "Louis Rossmann",
-      "videoId": "cUjDCoLSBlc",
-      "viewsPerHour": 5331,
-      "views": 58794,
-      "ageHours": 11
-    },
-    {
-      "title": "Crack your video editing software: seriously.",
-      "channel": "Louis Rossmann",
-      "videoId": "tPhQ4gAylek",
-      "viewsPerHour": 4191,
-      "views": 18054,
-      "ageHours": 4.3
-    },
-    {
-      "title": "Are We on the Verge of Finding Alien Life? | Ancient Aliens (S20, E14) | Full Episode",
-      "channel": "History",
-      "videoId": "SqoLyCsXzug",
-      "viewsPerHour": 3950,
-      "views": 119714,
-      "ageHours": 30.3
+      "ageHours": 28.8
     },
     {
       "title": "Hidden UFO Reports Revealed | UFO Conspiracy: Hunt For The Truth | Full Special",
       "channel": "History",
       "videoId": "g06KzNAWaUs",
-      "viewsPerHour": 3604,
-      "views": 29931,
-      "ageHours": 8.3
+      "viewsPerHour": 5027,
+      "views": 51786,
+      "ageHours": 10.3
     },
     {
-      "title": "The 11th Hour with Ali Velshi Weekly Highlights | Aug. 31- Sept. 3",
-      "channel": "MS NOW",
-      "videoId": "3x2G68osDic",
-      "viewsPerHour": 2187,
-      "views": 11605,
-      "ageHours": 5.3
+      "title": "Sony covers their tracks worse than werecoverdata",
+      "channel": "Louis Rossmann",
+      "videoId": "cUjDCoLSBlc",
+      "viewsPerHour": 4514,
+      "views": 58794,
+      "ageHours": 13
+    },
+    {
+      "title": "Are We on the Verge of Finding Alien Life? | Ancient Aliens (S20, E14) | Full Episode",
+      "channel": "History",
+      "videoId": "SqoLyCsXzug",
+      "viewsPerHour": 4036,
+      "views": 130386,
+      "ageHours": 32.3
+    },
+    {
+      "title": "Crack your video editing software: seriously.",
+      "channel": "Louis Rossmann",
+      "videoId": "tPhQ4gAylek",
+      "viewsPerHour": 2864,
+      "views": 18054,
+      "ageHours": 6.3
     },
     {
       "title": "New Evidence Points to Hidden Treasure | The Curse of Oak Island (S3, E10) | Full Episode",
       "channel": "History",
       "videoId": "1AjK6SpjCu0",
-      "viewsPerHour": 1895,
-      "views": 61198,
-      "ageHours": 32.3
+      "viewsPerHour": 1880,
+      "views": 64463,
+      "ageHours": 34.3
+    },
+    {
+      "title": "The 11th Hour with Ali Velshi Weekly Highlights | Aug. 31- Sept. 3",
+      "channel": "MS NOW",
+      "videoId": "3x2G68osDic",
+      "viewsPerHour": 1589,
+      "views": 11605,
+      "ageHours": 7.3
     },
     {
       "title": "MS NOW Highlights - September 6",
       "channel": "MS NOW",
       "videoId": "RW3F3copIVg",
-      "viewsPerHour": 1339,
+      "viewsPerHour": 914,
       "views": 5758,
-      "ageHours": 4.3
-    },
-    {
-      "title": "BREAKING: 5 dead after cargo jet overshoots runway at Miami Airport",
-      "channel": "MS NOW",
-      "videoId": "y8CiupBRhqw",
-      "viewsPerHour": 421,
-      "views": 3226,
-      "ageHours": 7.7
+      "ageHours": 6.3
     },
     {
       "title": "Why Are Muslims Being Targeted in Myanmar?",
       "channel": "Real Stories",
       "videoId": "8vt7c6Ueiys",
-      "viewsPerHour": 412,
-      "views": 15777,
-      "ageHours": 38.3
+      "viewsPerHour": 401,
+      "views": 16181,
+      "ageHours": 40.3
     },
     {
       "title": "The Darkest Secret Hidden in Lionel Richie’s Family Tree | Who Do You Think You Are USA",
       "channel": "Real Stories",
       "videoId": "BGp7CRQ8wZ4",
-      "viewsPerHour": 365,
-      "views": 5221,
-      "ageHours": 14.3
+      "viewsPerHour": 357,
+      "views": 5825,
+      "ageHours": 16.3
+    },
+    {
+      "title": "BREAKING: 5 dead after cargo jet overshoots runway at Miami Airport",
+      "channel": "MS NOW",
+      "videoId": "y8CiupBRhqw",
+      "viewsPerHour": 334,
+      "views": 3226,
+      "ageHours": 9.7
     },
     {
       "title": "Morning Joe Weekly Highlights | Aug. 31- Sept. 4",
       "channel": "MS NOW",
       "videoId": "ewUfGKJpNN4",
-      "viewsPerHour": 106,
+      "viewsPerHour": 96,
       "views": 2144,
-      "ageHours": 20.3
+      "ageHours": 22.3
     }
   ]
 }
