@@ -1,8 +1,16 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 1
+    },
+    {
       "channel": "MS NOW",
-      "count": 3
+      "count": 5
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 8
     },
     {
       "channel": "Louis Rossmann",
@@ -29,16 +37,12 @@
       "count": 16
     },
     {
-      "channel": "Conan O'Brien",
-      "count": 9
-    },
-    {
       "channel": "NOVA",
       "count": 17
     },
     {
       "channel": "The Daily Show",
-      "count": 2
+      "count": 1
     },
     {
       "channel": "Jeremy Corbell",
@@ -50,7 +54,7 @@
     },
     {
       "channel": "Last Week Tonight",
-      "count": 11
+      "count": 10
     },
     {
       "channel": "Diary of a CEO",
@@ -79,8 +83,16 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "PBS NewsHour",
+      "count": 1
+    },
+    {
       "keyword": "MS NOW",
-      "count": 3
+      "count": 5
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 8
     },
     {
       "keyword": "Louis Rossmann",
@@ -115,12 +127,8 @@
       "count": 3
     },
     {
-      "keyword": "Conan O'Brien",
-      "count": 9
-    },
-    {
       "keyword": "The Daily Show",
-      "count": 2
+      "count": 1
     },
     {
       "keyword": "Corbell, UFO, George Knapp",
@@ -140,7 +148,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "count": 11
+      "count": 10
     },
     {
       "keyword": "testimony",
@@ -206,7 +214,7 @@
   "dailySummary": [
     {
       "date": "2026-09-07",
-      "videos": 3
+      "videos": 7
     },
     {
       "date": "2026-09-06",
@@ -234,7 +242,7 @@
     },
     {
       "date": "2026-08-31",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-08-30",
@@ -246,7 +254,7 @@
     },
     {
       "date": "2026-08-28",
-      "videos": 7
+      "videos": 5
     },
     {
       "date": "2026-08-27",
@@ -266,7 +274,7 @@
     },
     {
       "date": "2026-08-23",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-08-22",
@@ -447,8 +455,16 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour",
+      "matches": 1
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 3
+      "matches": 5
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 7
     },
     {
       "keyword": "Louis Rossmann",
@@ -483,10 +499,6 @@
       "matches": 1
     },
     {
-      "keyword": "Conan O'Brien",
-      "matches": 6
-    },
-    {
       "keyword": "The Daily Show",
       "matches": 1
     },
@@ -512,89 +524,121 @@
       "title": "The Smallest Thing You Can Feel",
       "channel": "The Rest Is Science",
       "videoId": "-a6zw7HFk3Y",
-      "viewsPerHour": 11336,
-      "views": 218619,
-      "ageHours": 19.3
+      "viewsPerHour": 10958,
+      "views": 233646,
+      "ageHours": 21.3
+    },
+    {
+      "title": "Matt Groening (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "ZjWPkOHk_BM",
+      "viewsPerHour": 8778,
+      "views": 64284,
+      "ageHours": 7.3
     },
     {
       "title": "Sony threatens $500,000 lawsuit over a bad review. This company is now a meme.",
       "channel": "Louis Rossmann",
       "videoId": "7EXGoebeJtY",
-      "viewsPerHour": 5246,
+      "viewsPerHour": 4971,
       "views": 193216,
-      "ageHours": 36.8
+      "ageHours": 38.9
     },
     {
       "title": "Hidden UFO Reports Revealed | UFO Conspiracy: Hunt For The Truth | Full Special",
       "channel": "History",
       "videoId": "g06KzNAWaUs",
-      "viewsPerHour": 3822,
-      "views": 69900,
-      "ageHours": 18.3
+      "viewsPerHour": 3613,
+      "views": 73433,
+      "ageHours": 20.3
     },
     {
       "title": "Are We on the Verge of Finding Alien Life? | Ancient Aliens (S20, E14) | Full Episode",
       "channel": "History",
       "videoId": "SqoLyCsXzug",
-      "viewsPerHour": 3478,
-      "views": 140131,
-      "ageHours": 40.3
+      "viewsPerHour": 3361,
+      "views": 142248,
+      "ageHours": 42.3
     },
     {
       "title": "Sony covers their tracks worse than werecoverdata",
       "channel": "Louis Rossmann",
       "videoId": "cUjDCoLSBlc",
-      "viewsPerHour": 2798,
+      "viewsPerHour": 2551,
       "views": 58794,
-      "ageHours": 21
+      "ageHours": 23.1
+    },
+    {
+      "title": "What is he doing?': Fmr. GOP lawmaker reacts to Trump post about renaming New Mexico 'New America'",
+      "channel": "MS NOW",
+      "videoId": "1O0tqsVmpAE",
+      "viewsPerHour": 2199,
+      "views": 3974,
+      "ageHours": 1.8
+    },
+    {
+      "title": "Tim Miller: Democrats need to 'aggressively' ATTACK Trump on Iran war",
+      "channel": "MS NOW",
+      "videoId": "UsrOPw0Tqhk",
+      "viewsPerHour": 1718,
+      "views": 3332,
+      "ageHours": 1.9
     },
     {
       "title": "New Evidence Points to Hidden Treasure | The Curse of Oak Island (S3, E10) | Full Episode",
       "channel": "History",
       "videoId": "1AjK6SpjCu0",
-      "viewsPerHour": 1584,
-      "views": 66975,
-      "ageHours": 42.3
+      "viewsPerHour": 1533,
+      "views": 67938,
+      "ageHours": 44.3
     },
     {
       "title": "Crack your video editing software: seriously.",
       "channel": "Louis Rossmann",
       "videoId": "tPhQ4gAylek",
-      "viewsPerHour": 1263,
+      "viewsPerHour": 1106,
       "views": 18054,
-      "ageHours": 14.3
+      "ageHours": 16.3
     },
     {
       "title": "The 11th Hour with Ali Velshi Weekly Highlights | Aug. 31- Sept. 3",
       "channel": "MS NOW",
       "videoId": "3x2G68osDic",
-      "viewsPerHour": 759,
+      "viewsPerHour": 670,
       "views": 11605,
-      "ageHours": 15.3
+      "ageHours": 17.3
     },
     {
       "title": "MS NOW Highlights - September 6",
       "channel": "MS NOW",
       "videoId": "RW3F3copIVg",
-      "viewsPerHour": 403,
+      "viewsPerHour": 353,
       "views": 5758,
-      "ageHours": 14.3
+      "ageHours": 16.3
     },
     {
       "title": "The Darkest Secret Hidden in Lionel Richie’s Family Tree | Who Do You Think You Are USA",
       "channel": "Real Stories",
       "videoId": "BGp7CRQ8wZ4",
-      "viewsPerHour": 286,
-      "views": 6947,
-      "ageHours": 24.3
+      "viewsPerHour": 280,
+      "views": 7370,
+      "ageHours": 26.3
     },
     {
       "title": "BREAKING: 5 dead after cargo jet overshoots runway at Miami Airport",
       "channel": "MS NOW",
       "videoId": "y8CiupBRhqw",
-      "viewsPerHour": 183,
+      "viewsPerHour": 164,
       "views": 3226,
-      "ageHours": 17.7
+      "ageHours": 19.7
+    },
+    {
+      "title": "WATCH LIVE: NTSB holds initial briefing on Amazon Air crash at Miami International Airport",
+      "channel": "PBS NewsHour",
+      "videoId": "WudTGtUjjaU",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 1.7
     }
   ]
 }
