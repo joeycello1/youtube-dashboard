@@ -509,108 +509,100 @@
   ],
   "mostViral48h": [
     {
-      "title": "The Reform Witch Hunt",
-      "channel": "Jonathan Pie",
-      "videoId": "ZLufh8gEj_Q",
-      "viewsPerHour": 13550,
-      "views": 469273,
-      "ageHours": 34.6
-    },
-    {
-      "title": "Sony covers their tracks worse than werecoverdata",
-      "channel": "Louis Rossmann",
-      "videoId": "cUjDCoLSBlc",
-      "viewsPerHour": 11706,
-      "views": 58794,
-      "ageHours": 5
-    },
-    {
       "title": "The Smallest Thing You Can Feel",
       "channel": "The Rest Is Science",
       "videoId": "-a6zw7HFk3Y",
-      "viewsPerHour": 11402,
-      "views": 37564,
-      "ageHours": 3.3
+      "viewsPerHour": 14375,
+      "views": 75948,
+      "ageHours": 5.3
+    },
+    {
+      "title": "The Reform Witch Hunt",
+      "channel": "Jonathan Pie",
+      "videoId": "ZLufh8gEj_Q",
+      "viewsPerHour": 13006,
+      "views": 476308,
+      "ageHours": 36.6
     },
     {
       "title": "Sony threatens $500,000 lawsuit over a bad review. This company is now a meme.",
       "channel": "Louis Rossmann",
       "videoId": "7EXGoebeJtY",
-      "viewsPerHour": 9273,
+      "viewsPerHour": 8465,
       "views": 193216,
-      "ageHours": 20.8
+      "ageHours": 22.8
+    },
+    {
+      "title": "Sony covers their tracks worse than werecoverdata",
+      "channel": "Louis Rossmann",
+      "videoId": "cUjDCoLSBlc",
+      "viewsPerHour": 8385,
+      "views": 58794,
+      "ageHours": 7
     },
     {
       "title": "Are We on the Verge of Finding Alien Life? | Ancient Aliens (S20, E14) | Full Episode",
       "channel": "History",
       "videoId": "SqoLyCsXzug",
-      "viewsPerHour": 4524,
-      "views": 109927,
-      "ageHours": 24.3
-    },
-    {
-      "title": "All In with Chris Hayes Weekly Highlights | Aug. 31-Sept. 3",
-      "channel": "MS NOW",
-      "videoId": "j3RRAWBxZ0w",
-      "viewsPerHour": 2236,
-      "views": 52098,
-      "ageHours": 23.3
-    },
-    {
-      "title": "New Evidence Points to Hidden Treasure | The Curse of Oak Island (S3, E10) | Full Episode",
-      "channel": "History",
-      "videoId": "1AjK6SpjCu0",
-      "viewsPerHour": 2169,
-      "views": 57021,
+      "viewsPerHour": 4339,
+      "views": 114055,
       "ageHours": 26.3
-    },
-    {
-      "title": "BREAKING: 5 dead after cargo jet overshoots runway at Miami Airport",
-      "channel": "MS NOW",
-      "videoId": "y8CiupBRhqw",
-      "viewsPerHour": 1937,
-      "views": 3226,
-      "ageHours": 1.7
     },
     {
       "title": "Hidden UFO Reports Revealed | UFO Conspiracy: Hunt For The Truth | Full Special",
       "channel": "History",
       "videoId": "g06KzNAWaUs",
-      "viewsPerHour": 1401,
-      "views": 3222,
-      "ageHours": 2.3
+      "viewsPerHour": 3726,
+      "views": 15976,
+      "ageHours": 4.3
     },
     {
-      "title": "I need birth control... ",
-      "channel": "Louis Rossmann",
-      "videoId": "4QrBimCnCQ0",
-      "viewsPerHour": 736,
-      "views": 33929,
-      "ageHours": 46.1
+      "title": "New Evidence Points to Hidden Treasure | The Curse of Oak Island (S3, E10) | Full Episode",
+      "channel": "History",
+      "videoId": "1AjK6SpjCu0",
+      "viewsPerHour": 2097,
+      "views": 59311,
+      "ageHours": 28.3
+    },
+    {
+      "title": "All In with Chris Hayes Weekly Highlights | Aug. 31-Sept. 3",
+      "channel": "MS NOW",
+      "videoId": "j3RRAWBxZ0w",
+      "viewsPerHour": 2060,
+      "views": 52098,
+      "ageHours": 25.3
+    },
+    {
+      "title": "BREAKING: 5 dead after cargo jet overshoots runway at Miami Airport",
+      "channel": "MS NOW",
+      "videoId": "y8CiupBRhqw",
+      "viewsPerHour": 883,
+      "views": 3226,
+      "ageHours": 3.7
     },
     {
       "title": "The Darkest Secret Hidden in Lionel Richie’s Family Tree | Who Do You Think You Are USA",
       "channel": "Real Stories",
       "videoId": "BGp7CRQ8wZ4",
-      "viewsPerHour": 532,
-      "views": 4412,
-      "ageHours": 8.3
+      "viewsPerHour": 473,
+      "views": 4868,
+      "ageHours": 10.3
     },
     {
       "title": "Why Are Muslims Being Targeted in Myanmar?",
       "channel": "Real Stories",
       "videoId": "8vt7c6Ueiys",
-      "viewsPerHour": 478,
-      "views": 15441,
-      "ageHours": 32.3
+      "viewsPerHour": 457,
+      "views": 15679,
+      "ageHours": 34.3
     },
     {
       "title": "Morning Joe Weekly Highlights | Aug. 31- Sept. 4",
       "channel": "MS NOW",
       "videoId": "ewUfGKJpNN4",
-      "viewsPerHour": 150,
+      "viewsPerHour": 132,
       "views": 2144,
-      "ageHours": 14.3
+      "ageHours": 16.3
     }
   ]
 }
