@@ -6,7 +6,7 @@
     },
     {
       "channel": "MS NOW",
-      "count": 6
+      "count": 4
     },
     {
       "channel": "Conan O'Brien",
@@ -54,7 +54,7 @@
     },
     {
       "channel": "Last Week Tonight",
-      "count": 10
+      "count": 9
     },
     {
       "channel": "Diary of a CEO",
@@ -66,7 +66,7 @@
     },
     {
       "channel": "Chris Lehto",
-      "count": 6
+      "count": 5
     },
     {
       "channel": "The Interview",
@@ -88,7 +88,7 @@
     },
     {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 4
     },
     {
       "keyword": "Conan O'Brien",
@@ -148,7 +148,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "count": 10
+      "count": 9
     },
     {
       "keyword": "testimony",
@@ -205,16 +205,12 @@
     {
       "keyword": "AI, UAP, UFO",
       "count": 1
-    },
-    {
-      "keyword": "Grusch, UAP, UFO",
-      "count": 1
     }
   ],
   "dailySummary": [
     {
       "date": "2026-09-07",
-      "videos": 12
+      "videos": 10
     },
     {
       "date": "2026-09-06",
@@ -270,7 +266,7 @@
     },
     {
       "date": "2026-08-24",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-08-23",
@@ -442,7 +438,7 @@
     },
     {
       "date": "2026-07-10",
-      "videos": 3
+      "videos": 2
     },
     {
       "date": "2026-06-14",
@@ -456,7 +452,7 @@
     },
     {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 4
     },
     {
       "keyword": "Conan O'Brien",
@@ -520,121 +516,105 @@
       "title": "The Smallest Thing You Can Feel",
       "channel": "The Rest Is Science",
       "videoId": "-a6zw7HFk3Y",
-      "viewsPerHour": 8950,
+      "viewsPerHour": 8410,
       "views": 280029,
-      "ageHours": 31.3
+      "ageHours": 33.3
     },
     {
       "title": "Utter devastation': NTSB provides update on deadly Miami plane crash",
       "channel": "MS NOW",
       "videoId": "oKRUvl9-wgA",
-      "viewsPerHour": 5248,
+      "viewsPerHour": 4139,
       "views": 39429,
-      "ageHours": 7.5
+      "ageHours": 9.5
     },
     {
       "title": "Matt Groening (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ZjWPkOHk_BM",
-      "viewsPerHour": 3718,
+      "viewsPerHour": 3331,
       "views": 64284,
-      "ageHours": 17.3
+      "ageHours": 19.3
     },
     {
       "title": "Hidden UFO Reports Revealed | UFO Conspiracy: Hunt For The Truth | Full Special",
       "channel": "History",
       "videoId": "g06KzNAWaUs",
-      "viewsPerHour": 2704,
+      "viewsPerHour": 2536,
       "views": 81914,
-      "ageHours": 30.3
+      "ageHours": 32.3
     },
     {
       "title": "Sony covers their tracks worse than werecoverdata",
       "channel": "Louis Rossmann",
       "videoId": "cUjDCoLSBlc",
-      "viewsPerHour": 1781,
+      "viewsPerHour": 1679,
       "views": 58794,
-      "ageHours": 33
-    },
-    {
-      "title": "“A legal argument that is just BUNK”: Experts SLAM Trump’s latest voter suppression push at SCOTUS",
-      "channel": "MS NOW",
-      "videoId": "XjmWA62INWw",
-      "viewsPerHour": 802,
-      "views": 4908,
-      "ageHours": 6.1
+      "ageHours": 35
     },
     {
       "title": "Crack your video editing software: seriously.",
       "channel": "Louis Rossmann",
       "videoId": "tPhQ4gAylek",
-      "viewsPerHour": 687,
+      "viewsPerHour": 638,
       "views": 18054,
-      "ageHours": 26.3
+      "ageHours": 28.3
+    },
+    {
+      "title": "“A legal argument that is just BUNK”: Experts SLAM Trump’s latest voter suppression push at SCOTUS",
+      "channel": "MS NOW",
+      "videoId": "XjmWA62INWw",
+      "viewsPerHour": 604,
+      "views": 4908,
+      "ageHours": 8.1
     },
     {
       "title": "PBS News Hour live episode, Sept. 7, 2026",
       "channel": "PBS NewsHour",
       "videoId": "JfK27Jt30SE",
-      "viewsPerHour": 617,
+      "viewsPerHour": 484,
       "views": 4512,
-      "ageHours": 7.3
-    },
-    {
-      "title": "The 11th Hour with Ali Velshi Weekly Highlights | Aug. 31- Sept. 3",
-      "channel": "MS NOW",
-      "videoId": "3x2G68osDic",
-      "viewsPerHour": 425,
-      "views": 11605,
-      "ageHours": 27.3
+      "ageHours": 9.3
     },
     {
       "title": "What is he doing?': Fmr. GOP lawmaker reacts to Trump post about renaming New Mexico 'New America'",
       "channel": "MS NOW",
       "videoId": "1O0tqsVmpAE",
-      "viewsPerHour": 338,
+      "viewsPerHour": 288,
       "views": 3974,
-      "ageHours": 11.8
+      "ageHours": 13.8
     },
     {
       "title": "Tim Miller: Democrats need to 'aggressively' ATTACK Trump on Iran war",
       "channel": "MS NOW",
       "videoId": "UsrOPw0Tqhk",
-      "viewsPerHour": 280,
+      "viewsPerHour": 239,
       "views": 3332,
-      "ageHours": 11.9
+      "ageHours": 13.9
     },
     {
       "title": "The Darkest Secret Hidden in Lionel Richie’s Family Tree | Who Do You Think You Are USA",
       "channel": "Real Stories",
       "videoId": "BGp7CRQ8wZ4",
-      "viewsPerHour": 228,
+      "viewsPerHour": 216,
       "views": 8281,
-      "ageHours": 36.3
-    },
-    {
-      "title": "MS NOW Highlights - September 6",
-      "channel": "MS NOW",
-      "videoId": "RW3F3copIVg",
-      "viewsPerHour": 219,
-      "views": 5758,
-      "ageHours": 26.3
+      "ageHours": 38.3
     },
     {
       "title": "Far-right AfD win signals shift in Germany, raises alarm in Europe",
       "channel": "PBS NewsHour",
       "videoId": "67DWe7xM378",
-      "viewsPerHour": 212,
+      "viewsPerHour": 158,
       "views": 1230,
-      "ageHours": 5.8
+      "ageHours": 7.8
     },
     {
       "title": "News Wrap: Tropical Storm Marie brings dangerous surf to California coast",
       "channel": "PBS NewsHour",
       "videoId": "jcQ2qD2ye4U",
-      "viewsPerHour": 43,
+      "viewsPerHour": 32,
       "views": 243,
-      "ageHours": 5.6
+      "ageHours": 7.6
     },
     {
       "title": "WATCH LIVE: NTSB holds initial briefing on Amazon Air crash at Miami International Airport",
@@ -642,7 +622,7 @@
       "videoId": "WudTGtUjjaU",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 11.6
+      "ageHours": 13.6
     }
   ]
 }
