@@ -2,11 +2,11 @@
   "videosPerChannel": [
     {
       "channel": "PBS NewsHour",
-      "count": 1
+      "count": 4
     },
     {
       "channel": "MS NOW",
-      "count": 5
+      "count": 6
     },
     {
       "channel": "Conan O'Brien",
@@ -14,19 +14,19 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 21
+      "count": 20
     },
     {
       "channel": "History",
-      "count": 65
+      "count": 64
     },
     {
       "channel": "The Rest Is Science",
-      "count": 5
+      "count": 4
     },
     {
       "channel": "Real Stories",
-      "count": 42
+      "count": 41
     },
     {
       "channel": "Jonathan Pie",
@@ -34,7 +34,7 @@
     },
     {
       "channel": "More Perfect Union",
-      "count": 16
+      "count": 15
     },
     {
       "channel": "NOVA",
@@ -84,11 +84,11 @@
   "keywordFrequency": [
     {
       "keyword": "PBS NewsHour",
-      "count": 1
+      "count": 4
     },
     {
       "keyword": "MS NOW",
-      "count": 5
+      "count": 6
     },
     {
       "keyword": "Conan O'Brien",
@@ -96,15 +96,15 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 20
+      "count": 19
     },
     {
       "keyword": "UFO",
-      "count": 36
+      "count": 35
     },
     {
       "keyword": "The Rest Is Science",
-      "count": 5
+      "count": 4
     },
     {
       "keyword": "Real Stories",
@@ -136,7 +136,7 @@
     },
     {
       "keyword": "More Perfect Union",
-      "count": 13
+      "count": 12
     },
     {
       "keyword": "Corbell, UFO, testimony, UAP, whistleblower",
@@ -192,7 +192,7 @@
     },
     {
       "keyword": "Real Stories, Louis Theroux",
-      "count": 9
+      "count": 8
     },
     {
       "keyword": "UFO, UAP",
@@ -214,11 +214,11 @@
   "dailySummary": [
     {
       "date": "2026-09-07",
-      "videos": 7
+      "videos": 12
     },
     {
       "date": "2026-09-06",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-09-05",
@@ -274,7 +274,7 @@
     },
     {
       "date": "2026-08-23",
-      "videos": 5
+      "videos": 3
     },
     {
       "date": "2026-08-22",
@@ -445,10 +445,6 @@
       "videos": 3
     },
     {
-      "date": "2026-07-09",
-      "videos": 3
-    },
-    {
       "date": "2026-06-14",
       "videos": 1
     }
@@ -456,11 +452,11 @@
   "topKeywordsWeek": [
     {
       "keyword": "PBS NewsHour",
-      "matches": 1
+      "matches": 4
     },
     {
       "keyword": "MS NOW",
-      "matches": 5
+      "matches": 6
     },
     {
       "keyword": "Conan O'Brien",
@@ -521,108 +517,132 @@
   ],
   "mostViral48h": [
     {
+      "title": "Utter devastation': NTSB provides update on deadly Miami plane crash",
+      "channel": "MS NOW",
+      "videoId": "oKRUvl9-wgA",
+      "viewsPerHour": 11164,
+      "views": 39429,
+      "ageHours": 3.5
+    },
+    {
       "title": "The Smallest Thing You Can Feel",
       "channel": "The Rest Is Science",
       "videoId": "-a6zw7HFk3Y",
-      "viewsPerHour": 10453,
-      "views": 264298,
-      "ageHours": 25.3
+      "viewsPerHour": 10256,
+      "views": 280029,
+      "ageHours": 27.3
     },
     {
       "title": "Matt Groening (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ZjWPkOHk_BM",
-      "viewsPerHour": 5696,
+      "viewsPerHour": 4831,
       "views": 64284,
-      "ageHours": 11.3
+      "ageHours": 13.3
     },
     {
       "title": "Sony threatens $500,000 lawsuit over a bad review. This company is now a meme.",
       "channel": "Louis Rossmann",
       "videoId": "7EXGoebeJtY",
-      "viewsPerHour": 4512,
+      "viewsPerHour": 4308,
       "views": 193216,
-      "ageHours": 42.8
+      "ageHours": 44.8
     },
     {
       "title": "Hidden UFO Reports Revealed | UFO Conspiracy: Hunt For The Truth | Full Special",
       "channel": "History",
       "videoId": "g06KzNAWaUs",
-      "viewsPerHour": 3276,
-      "views": 79581,
-      "ageHours": 24.3
+      "viewsPerHour": 3113,
+      "views": 81914,
+      "ageHours": 26.3
     },
     {
-      "title": "Are We on the Verge of Finding Alien Life? | Ancient Aliens (S20, E14) | Full Episode",
-      "channel": "History",
-      "videoId": "SqoLyCsXzug",
-      "viewsPerHour": 3168,
-      "views": 146632,
-      "ageHours": 46.3
+      "title": "“A legal argument that is just BUNK”: Experts SLAM Trump’s latest voter suppression push at SCOTUS",
+      "channel": "MS NOW",
+      "videoId": "XjmWA62INWw",
+      "viewsPerHour": 2298,
+      "views": 4908,
+      "ageHours": 2.1
     },
     {
       "title": "Sony covers their tracks worse than werecoverdata",
       "channel": "Louis Rossmann",
       "videoId": "cUjDCoLSBlc",
-      "viewsPerHour": 2177,
+      "viewsPerHour": 2025,
       "views": 58794,
-      "ageHours": 27
+      "ageHours": 29
+    },
+    {
+      "title": "PBS News Hour live episode, Sept. 7, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "JfK27Jt30SE",
+      "viewsPerHour": 1355,
+      "views": 4512,
+      "ageHours": 3.3
     },
     {
       "title": "Crack your video editing software: seriously.",
       "channel": "Louis Rossmann",
       "videoId": "tPhQ4gAylek",
-      "viewsPerHour": 890,
+      "viewsPerHour": 809,
       "views": 18054,
-      "ageHours": 20.3
+      "ageHours": 22.3
+    },
+    {
+      "title": "Far-right AfD win signals shift in Germany, raises alarm in Europe",
+      "channel": "PBS NewsHour",
+      "videoId": "67DWe7xM378",
+      "viewsPerHour": 678,
+      "views": 1230,
+      "ageHours": 1.8
     },
     {
       "title": "What is he doing?': Fmr. GOP lawmaker reacts to Trump post about renaming New Mexico 'New America'",
       "channel": "MS NOW",
       "videoId": "1O0tqsVmpAE",
-      "viewsPerHour": 689,
+      "viewsPerHour": 510,
       "views": 3974,
-      "ageHours": 5.8
-    },
-    {
-      "title": "Tim Miller: Democrats need to 'aggressively' ATTACK Trump on Iran war",
-      "channel": "MS NOW",
-      "videoId": "UsrOPw0Tqhk",
-      "viewsPerHour": 565,
-      "views": 3332,
-      "ageHours": 5.9
+      "ageHours": 7.8
     },
     {
       "title": "The 11th Hour with Ali Velshi Weekly Highlights | Aug. 31- Sept. 3",
       "channel": "MS NOW",
       "videoId": "3x2G68osDic",
-      "viewsPerHour": 545,
+      "viewsPerHour": 498,
       "views": 11605,
-      "ageHours": 21.3
+      "ageHours": 23.3
+    },
+    {
+      "title": "Tim Miller: Democrats need to 'aggressively' ATTACK Trump on Iran war",
+      "channel": "MS NOW",
+      "videoId": "UsrOPw0Tqhk",
+      "viewsPerHour": 421,
+      "views": 3332,
+      "ageHours": 7.9
     },
     {
       "title": "MS NOW Highlights - September 6",
       "channel": "MS NOW",
       "videoId": "RW3F3copIVg",
-      "viewsPerHour": 284,
+      "viewsPerHour": 258,
       "views": 5758,
-      "ageHours": 20.3
+      "ageHours": 22.3
     },
     {
       "title": "The Darkest Secret Hidden in Lionel Richie’s Family Tree | Who Do You Think You Are USA",
       "channel": "Real Stories",
       "videoId": "BGp7CRQ8wZ4",
-      "viewsPerHour": 264,
-      "views": 8003,
-      "ageHours": 30.3
+      "viewsPerHour": 256,
+      "views": 8281,
+      "ageHours": 32.3
     },
     {
-      "title": "BREAKING: 5 dead after cargo jet overshoots runway at Miami Airport",
-      "channel": "MS NOW",
-      "videoId": "y8CiupBRhqw",
-      "viewsPerHour": 136,
-      "views": 3226,
-      "ageHours": 23.7
+      "title": "News Wrap: Tropical Storm Marie brings dangerous surf to California coast",
+      "channel": "PBS NewsHour",
+      "videoId": "jcQ2qD2ye4U",
+      "viewsPerHour": 148,
+      "views": 243,
+      "ageHours": 1.6
     },
     {
       "title": "WATCH LIVE: NTSB holds initial briefing on Amazon Air crash at Miami International Airport",
@@ -630,7 +650,7 @@
       "videoId": "WudTGtUjjaU",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 5.6
+      "ageHours": 7.6
     }
   ]
 }
