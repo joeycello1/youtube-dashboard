@@ -6,11 +6,15 @@
     },
     {
       "channel": "PBS NewsHour",
-      "count": 7
+      "count": 8
+    },
+    {
+      "channel": "Real Stories",
+      "count": 42
     },
     {
       "channel": "Conan O'Brien",
-      "count": 8
+      "count": 10
     },
     {
       "channel": "Louis Rossmann",
@@ -18,15 +22,11 @@
     },
     {
       "channel": "History",
-      "count": 64
+      "count": 63
     },
     {
       "channel": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "channel": "Real Stories",
-      "count": 41
     },
     {
       "channel": "Jonathan Pie",
@@ -54,7 +54,7 @@
     },
     {
       "channel": "Last Week Tonight",
-      "count": 8
+      "count": 7
     },
     {
       "channel": "Diary of a CEO",
@@ -88,11 +88,15 @@
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 7
+      "count": 8
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 34
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 8
+      "count": 10
     },
     {
       "keyword": "Louis Rossmann",
@@ -107,16 +111,12 @@
       "count": 4
     },
     {
-      "keyword": "Real Stories",
-      "count": 33
-    },
-    {
       "keyword": "artificial intelligence",
       "count": 1
     },
     {
       "keyword": "NOVA",
-      "count": 35
+      "count": 34
     },
     {
       "keyword": "Jonathan Pie",
@@ -148,7 +148,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "count": 8
+      "count": 7
     },
     {
       "keyword": "testimony",
@@ -210,11 +210,11 @@
   "dailySummary": [
     {
       "date": "2026-09-08",
-      "videos": 4
+      "videos": 11
     },
     {
       "date": "2026-09-07",
-      "videos": 12
+      "videos": 9
     },
     {
       "date": "2026-09-06",
@@ -270,7 +270,7 @@
     },
     {
       "date": "2026-08-24",
-      "videos": 2
+      "videos": 1
     },
     {
       "date": "2026-08-23",
@@ -442,7 +442,7 @@
     },
     {
       "date": "2026-07-10",
-      "videos": 2
+      "videos": 1
     },
     {
       "date": "2026-06-14",
@@ -456,11 +456,15 @@
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 7
+      "matches": 8
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 6
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 5
+      "matches": 7
     },
     {
       "keyword": "Louis Rossmann",
@@ -473,10 +477,6 @@
     {
       "keyword": "The Rest Is Science",
       "matches": 2
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 6
     },
     {
       "keyword": "artificial intelligence",
@@ -512,153 +512,185 @@
       "title": "The Smallest Thing You Can Feel",
       "channel": "The Rest Is Science",
       "videoId": "-a6zw7HFk3Y",
-      "viewsPerHour": 8042,
-      "views": 348199,
-      "ageHours": 43.3
+      "viewsPerHour": 7850,
+      "views": 355585,
+      "ageHours": 45.3
     },
     {
       "title": "Tamara Keith and Amy Walter on GOP's midterm challenges",
       "channel": "PBS NewsHour",
       "videoId": "--QgeHbX6a0",
-      "viewsPerHour": 7840,
+      "viewsPerHour": 7025,
       "views": 134917,
-      "ageHours": 17.2
+      "ageHours": 19.2
     },
     {
       "title": "PBS News Hour full episode, Sept. 7, 2026",
       "channel": "PBS NewsHour",
       "videoId": "lHJZDl636-c",
-      "viewsPerHour": 5997,
+      "viewsPerHour": 5327,
       "views": 95147,
-      "ageHours": 15.9
+      "ageHours": 17.9
     },
     {
       "title": "Anger and anxiety:' Economic inequality on the rise under Trump",
       "channel": "MS NOW",
       "videoId": "v5Ach3cXsNo",
-      "viewsPerHour": 5180,
+      "viewsPerHour": 4543,
       "views": 73742,
-      "ageHours": 14.2
+      "ageHours": 16.2
     },
     {
-      "title": "Canada HITS BACK at Trump with retaliatory tariffs on $20B in goods",
-      "channel": "MS NOW",
-      "videoId": "AVEBZtOavlY",
-      "viewsPerHour": 2742,
-      "views": 17302,
+      "title": "A Live Reading Of Conan & Sona's Text Messages | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "7mTr5kkn-Fg",
+      "viewsPerHour": 4444,
+      "views": 28010,
       "ageHours": 6.3
     },
     {
       "title": "Hidden UFO Reports Revealed | UFO Conspiracy: Hunt For The Truth | Full Special",
       "channel": "History",
       "videoId": "g06KzNAWaUs",
-      "viewsPerHour": 2247,
-      "views": 95074,
-      "ageHours": 42.3
+      "viewsPerHour": 2168,
+      "views": 96025,
+      "ageHours": 44.3
+    },
+    {
+      "title": "Canada HITS BACK at Trump with retaliatory tariffs on $20B in goods",
+      "channel": "MS NOW",
+      "videoId": "AVEBZtOavlY",
+      "viewsPerHour": 2083,
+      "views": 17302,
+      "ageHours": 8.3
     },
     {
       "title": "Matt Groening (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ZjWPkOHk_BM",
-      "viewsPerHour": 2194,
+      "viewsPerHour": 2054,
       "views": 64284,
-      "ageHours": 29.3
+      "ageHours": 31.3
     },
     {
       "title": "Utter devastation': NTSB provides update on deadly Miami plane crash",
       "channel": "MS NOW",
       "videoId": "oKRUvl9-wgA",
-      "viewsPerHour": 2019,
+      "viewsPerHour": 1832,
       "views": 39429,
-      "ageHours": 19.5
+      "ageHours": 21.5
     },
     {
       "title": "Sony covers their tracks worse than werecoverdata",
       "channel": "Louis Rossmann",
       "videoId": "cUjDCoLSBlc",
-      "viewsPerHour": 1306,
+      "viewsPerHour": 1250,
       "views": 58794,
-      "ageHours": 45
+      "ageHours": 47
+    },
+    {
+      "title": "Matt Groening & Conan's Favorite Homer Simpson Moments | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "0IA0tOWCMJQ",
+      "viewsPerHour": 1060,
+      "views": 3498,
+      "ageHours": 3.3
     },
     {
       "title": "Inside southern Lebanon's villages where Israeli occupation has upended daily life",
       "channel": "PBS NewsHour",
       "videoId": "m7AorR8Ao7w",
-      "viewsPerHour": 717,
+      "viewsPerHour": 640,
       "views": 11790,
-      "ageHours": 16.4
+      "ageHours": 18.4
     },
     {
       "title": "Crack your video editing software: seriously.",
       "channel": "Louis Rossmann",
       "videoId": "tPhQ4gAylek",
-      "viewsPerHour": 471,
+      "viewsPerHour": 448,
       "views": 18054,
-      "ageHours": 38.3
+      "ageHours": 40.3
+    },
+    {
+      "title": "EXCLUSIVE: Dismissed trans Army Sgt. SLAMS trans troops ban 'bigoted' and 'based on a culture war'",
+      "channel": "MS NOW",
+      "videoId": "5yhP-BB-tpQ",
+      "viewsPerHour": 439,
+      "views": 751,
+      "ageHours": 1.7
     },
     {
       "title": "Vulnerable Republicans face a choice on Trump on the campaign trail: ‘Delicate balancing act’",
       "channel": "MS NOW",
       "videoId": "zBLFxY5XJ9c",
-      "viewsPerHour": 362,
+      "viewsPerHour": 271,
       "views": 2145,
-      "ageHours": 5.9
+      "ageHours": 7.9
+    },
+    {
+      "title": "How $158M paid to Jeffrey Epstein TOPPLED Wall Street tycoon Leon Black",
+      "channel": "MS NOW",
+      "videoId": "lUOVxriaYdQ",
+      "viewsPerHour": 251,
+      "views": 401,
+      "ageHours": 1.6
     },
     {
       "title": "“A legal argument that is just BUNK”: Experts SLAM Trump’s latest voter suppression push at SCOTUS",
       "channel": "MS NOW",
       "videoId": "XjmWA62INWw",
-      "viewsPerHour": 271,
+      "viewsPerHour": 244,
       "views": 4908,
-      "ageHours": 18.1
+      "ageHours": 20.1
+    },
+    {
+      "title": "WATCH: Trump claims he was saved by 2 firemen near Ground Zero wreckage",
+      "channel": "PBS NewsHour",
+      "videoId": "MdgVrr04xxk",
+      "viewsPerHour": 217,
+      "views": 441,
+      "ageHours": 2
     },
     {
       "title": "PBS News Hour live episode, Sept. 7, 2026",
       "channel": "PBS NewsHour",
       "videoId": "JfK27Jt30SE",
-      "viewsPerHour": 234,
+      "viewsPerHour": 212,
       "views": 4512,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
-      "title": "What is he doing?': Fmr. GOP lawmaker reacts to Trump post about renaming New Mexico 'New America'",
-      "channel": "MS NOW",
-      "videoId": "1O0tqsVmpAE",
-      "viewsPerHour": 167,
-      "views": 3974,
-      "ageHours": 23.8
+      "title": "The World's Biggest Tech Scam: How a 20-Year-Old Conned Royalty, the Media, and the FBI",
+      "channel": "Real Stories",
+      "videoId": "CptB8GT4g-U",
+      "viewsPerHour": 182,
+      "views": 420,
+      "ageHours": 2.3
     },
     {
-      "title": "Tim Miller: Democrats need to 'aggressively' ATTACK Trump on Iran war",
-      "channel": "MS NOW",
-      "videoId": "UsrOPw0Tqhk",
-      "viewsPerHour": 139,
-      "views": 3332,
-      "ageHours": 23.9
+      "title": "WATCH: Trump presents Presidential Medal of Freedom to family of 9/11 hero Welles Crowther",
+      "channel": "PBS NewsHour",
+      "videoId": "MDl_4ObvH3w",
+      "viewsPerHour": 87,
+      "views": 171,
+      "ageHours": 2
     },
     {
       "title": "Far-right AfD win signals shift in Germany, raises alarm in Europe",
       "channel": "PBS NewsHour",
       "videoId": "67DWe7xM378",
-      "viewsPerHour": 69,
+      "viewsPerHour": 62,
       "views": 1230,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "News Wrap: Tropical Storm Marie brings dangerous surf to California coast",
       "channel": "PBS NewsHour",
       "videoId": "jcQ2qD2ye4U",
-      "viewsPerHour": 14,
+      "viewsPerHour": 12,
       "views": 243,
-      "ageHours": 17.6
-    },
-    {
-      "title": "WATCH LIVE: NTSB holds initial briefing on Amazon Air crash at Miami International Airport",
-      "channel": "PBS NewsHour",
-      "videoId": "WudTGtUjjaU",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 23.6
+      "ageHours": 19.6
     }
   ]
 }
