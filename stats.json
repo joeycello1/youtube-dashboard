@@ -1,12 +1,32 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 8
+    },
+    {
       "channel": "MS NOW",
       "count": 7
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 8
+      "channel": "Louis Rossmann",
+      "count": 19
+    },
+    {
+      "channel": "NOVA",
+      "count": 18
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 2
+    },
+    {
+      "channel": "Jeremy Corbell",
+      "count": 4
+    },
+    {
+      "channel": "More Perfect Union",
+      "count": 16
     },
     {
       "channel": "Real Stories",
@@ -15,10 +35,6 @@
     {
       "channel": "Conan O'Brien",
       "count": 10
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 19
     },
     {
       "channel": "History",
@@ -31,22 +47,6 @@
     {
       "channel": "Jonathan Pie",
       "count": 6
-    },
-    {
-      "channel": "More Perfect Union",
-      "count": 15
-    },
-    {
-      "channel": "NOVA",
-      "count": 17
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 1
-    },
-    {
-      "channel": "Jeremy Corbell",
-      "count": 2
     },
     {
       "channel": "Mayim Bialik",
@@ -74,7 +74,7 @@
     },
     {
       "channel": "Area 52",
-      "count": 4
+      "count": 3
     },
     {
       "channel": "Inside AI",
@@ -83,12 +83,40 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "MS NOW",
-      "count": 7
-    },
-    {
       "keyword": "PBS NewsHour",
       "count": 8
+    },
+    {
+      "keyword": "MS NOW",
+      "count": 6
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 18
+    },
+    {
+      "keyword": "NOVA",
+      "count": 35
+    },
+    {
+      "keyword": "MS NOW, AI",
+      "count": 1
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 2
+    },
+    {
+      "keyword": "Corbell, George Knapp, UAP, UFO",
+      "count": 1
+    },
+    {
+      "keyword": "More Perfect Union",
+      "count": 13
+    },
+    {
+      "keyword": "Corbell, George Knapp",
+      "count": 1
     },
     {
       "keyword": "Real Stories",
@@ -99,12 +127,8 @@
       "count": 10
     },
     {
-      "keyword": "Louis Rossmann",
-      "count": 18
-    },
-    {
       "keyword": "UFO",
-      "count": 35
+      "count": 34
     },
     {
       "keyword": "The Rest Is Science",
@@ -115,10 +139,6 @@
       "count": 1
     },
     {
-      "keyword": "NOVA",
-      "count": 34
-    },
-    {
       "keyword": "Jonathan Pie",
       "count": 6
     },
@@ -127,16 +147,8 @@
       "count": 3
     },
     {
-      "keyword": "The Daily Show",
-      "count": 1
-    },
-    {
       "keyword": "Corbell, UFO, George Knapp",
       "count": 1
-    },
-    {
-      "keyword": "More Perfect Union",
-      "count": 12
     },
     {
       "keyword": "Corbell, UFO, testimony, UAP, whistleblower",
@@ -210,11 +222,11 @@
   "dailySummary": [
     {
       "date": "2026-09-08",
-      "videos": 11
+      "videos": 22
     },
     {
       "date": "2026-09-07",
-      "videos": 9
+      "videos": 4
     },
     {
       "date": "2026-09-06",
@@ -267,10 +279,6 @@
     {
       "date": "2026-08-25",
       "videos": 4
-    },
-    {
-      "date": "2026-08-24",
-      "videos": 1
     },
     {
       "date": "2026-08-23",
@@ -441,22 +449,46 @@
       "videos": 2
     },
     {
-      "date": "2026-07-10",
-      "videos": 1
-    },
-    {
       "date": "2026-06-14",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "MS NOW",
-      "matches": 7
-    },
-    {
       "keyword": "PBS NewsHour",
       "matches": 8
+    },
+    {
+      "keyword": "MS NOW",
+      "matches": 6
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 9
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 4
+    },
+    {
+      "keyword": "MS NOW, AI",
+      "matches": 1
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 2
+    },
+    {
+      "keyword": "Corbell, George Knapp, UAP, UFO",
+      "matches": 1
+    },
+    {
+      "keyword": "More Perfect Union",
+      "matches": 2
+    },
+    {
+      "keyword": "Corbell, George Knapp",
+      "matches": 1
     },
     {
       "keyword": "Real Stories",
@@ -467,12 +499,8 @@
       "matches": 7
     },
     {
-      "keyword": "Louis Rossmann",
-      "matches": 9
-    },
-    {
       "keyword": "UFO",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "The Rest Is Science",
@@ -483,10 +511,6 @@
       "matches": 1
     },
     {
-      "keyword": "NOVA",
-      "matches": 3
-    },
-    {
       "keyword": "Jonathan Pie",
       "matches": 1
     },
@@ -495,178 +519,218 @@
       "matches": 1
     },
     {
-      "keyword": "The Daily Show",
-      "matches": 1
-    },
-    {
       "keyword": "Corbell, UFO, George Knapp",
-      "matches": 1
-    },
-    {
-      "keyword": "More Perfect Union",
       "matches": 1
     }
   ],
   "mostViral48h": [
     {
+      "title": "We Found Rampant Waste And Fraud In Welfare. It’s Not Where You Think.",
+      "channel": "More Perfect Union",
+      "videoId": "YKAD7l1a9hc",
+      "viewsPerHour": 22724,
+      "views": 143330,
+      "ageHours": 6.3
+    },
+    {
+      "title": "Bizarre, unhinged AI slop': Nicolle STINGS Trump for appalling posts and BOGUS 9/11 claims",
+      "channel": "MS NOW",
+      "videoId": "PvHLUAzAd94",
+      "viewsPerHour": 22304,
+      "views": 70917,
+      "ageHours": 3.2
+    },
+    {
+      "title": "Trump's \"Lake America\" Rebrand, NBA vs. the Clippers & Meta vs. Teen Mental Health | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "UWuntiE_CBw",
+      "viewsPerHour": 8703,
+      "views": 35899,
+      "ageHours": 4.1
+    },
+    {
+      "title": "He Saw Four TIC TAC UFOs - Then AARO Came Calling",
+      "channel": "Jeremy Corbell",
+      "videoId": "YEO7dy88pyw",
+      "viewsPerHour": 6068,
+      "views": 32144,
+      "ageHours": 5.3
+    },
+    {
+      "title": "Microsoft gamepass changes 'unlimited time' to '5 hours' 🤣 xbox trying to be worse than sony",
+      "channel": "Louis Rossmann",
+      "videoId": "QefkUcbDtSU",
+      "viewsPerHour": 5931,
+      "views": 17263,
+      "ageHours": 2.9
+    },
+    {
       "title": "Tamara Keith and Amy Walter on GOP's midterm challenges",
       "channel": "PBS NewsHour",
       "videoId": "--QgeHbX6a0",
-      "viewsPerHour": 5805,
+      "viewsPerHour": 5354,
       "views": 134917,
-      "ageHours": 23.2
+      "ageHours": 25.2
+    },
+    {
+      "title": "He's WEAK and FAILING': Nicolle and Sarah Longwell on the end of wannabe-tyrant Trump's reign",
+      "channel": "MS NOW",
+      "videoId": "re0ofGUXCfs",
+      "viewsPerHour": 4792,
+      "views": 8591,
+      "ageHours": 1.8
     },
     {
       "title": "PBS News Hour full episode, Sept. 7, 2026",
       "channel": "PBS NewsHour",
       "videoId": "lHJZDl636-c",
-      "viewsPerHour": 4345,
+      "viewsPerHour": 3988,
       "views": 95147,
-      "ageHours": 21.9
+      "ageHours": 23.9
     },
     {
       "title": "Anger and anxiety:' Economic inequality on the rise under Trump",
       "channel": "MS NOW",
       "videoId": "v5Ach3cXsNo",
-      "viewsPerHour": 3638,
+      "viewsPerHour": 3318,
       "views": 73742,
-      "ageHours": 20.3
+      "ageHours": 22.2
     },
     {
       "title": "A Live Reading Of Conan & Sona's Text Messages | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "7mTr5kkn-Fg",
-      "viewsPerHour": 2709,
+      "viewsPerHour": 2278,
       "views": 28010,
-      "ageHours": 10.3
+      "ageHours": 12.3
     },
     {
       "title": "Matt Groening (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ZjWPkOHk_BM",
-      "viewsPerHour": 1819,
+      "viewsPerHour": 1724,
       "views": 64284,
-      "ageHours": 35.3
+      "ageHours": 37.3
     },
     {
-      "title": "Utter devastation': NTSB provides update on deadly Miami plane crash",
-      "channel": "MS NOW",
-      "videoId": "oKRUvl9-wgA",
-      "viewsPerHour": 1543,
-      "views": 39429,
-      "ageHours": 25.6
+      "title": "PBS News Hour live episode, Sept. 8, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "ZGLy_rQLkH0",
+      "viewsPerHour": 1323,
+      "views": 4513,
+      "ageHours": 3.4
+    },
+    {
+      "title": "Mona Lisa Smile: Science Reveals Leonardo's Secrets | NOVA | PBS",
+      "channel": "NOVA",
+      "videoId": "GEzlMB9B21U",
+      "viewsPerHour": 1268,
+      "views": 3951,
+      "ageHours": 3.1
     },
     {
       "title": "Canada HITS BACK at Trump with retaliatory tariffs on $20B in goods",
       "channel": "MS NOW",
       "videoId": "AVEBZtOavlY",
-      "viewsPerHour": 1402,
+      "viewsPerHour": 1210,
       "views": 17302,
-      "ageHours": 12.3
+      "ageHours": 14.3
+    },
+    {
+      "title": "“AARO TRIED TO FORCE HIM INTO A SCIF TO SILENCE HIM”",
+      "channel": "Jeremy Corbell",
+      "videoId": "n2Ulq8uygYw",
+      "viewsPerHour": 1154,
+      "views": 8127,
+      "ageHours": 7
     },
     {
       "title": "The World's Biggest Tech Scam: How a 20-Year-Old Conned Royalty, the Media, and the FBI",
       "channel": "Real Stories",
       "videoId": "CptB8GT4g-U",
-      "viewsPerHour": 866,
-      "views": 5493,
-      "ageHours": 6.3
+      "viewsPerHour": 857,
+      "views": 7113,
+      "ageHours": 8.3
     },
     {
       "title": "Inside southern Lebanon's villages where Israeli occupation has upended daily life",
       "channel": "PBS NewsHour",
       "videoId": "m7AorR8Ao7w",
-      "viewsPerHour": 525,
+      "viewsPerHour": 483,
       "views": 11790,
-      "ageHours": 22.5
-    },
-    {
-      "title": "Matt Groening & Conan's Favorite Homer Simpson Moments | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "0IA0tOWCMJQ",
-      "viewsPerHour": 477,
-      "views": 3498,
-      "ageHours": 7.3
+      "ageHours": 24.4
     },
     {
       "title": "Crack your video editing software: seriously.",
       "channel": "Louis Rossmann",
       "videoId": "tPhQ4gAylek",
-      "viewsPerHour": 407,
+      "viewsPerHour": 390,
       "views": 18054,
-      "ageHours": 44.3
+      "ageHours": 46.3
     },
     {
-      "title": "“A legal argument that is just BUNK”: Experts SLAM Trump’s latest voter suppression push at SCOTUS",
-      "channel": "MS NOW",
-      "videoId": "XjmWA62INWw",
-      "viewsPerHour": 203,
-      "views": 4908,
-      "ageHours": 24.2
+      "title": "Matt Groening & Conan's Favorite Homer Simpson Moments | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "0IA0tOWCMJQ",
+      "viewsPerHour": 376,
+      "views": 3498,
+      "ageHours": 9.3
+    },
+    {
+      "title": "News Wrap: NYC officials release documents showing city was aware of toxic air after 9/11",
+      "channel": "PBS NewsHour",
+      "videoId": "mAATBiyV1Co",
+      "viewsPerHour": 334,
+      "views": 559,
+      "ageHours": 1.7
     },
     {
       "title": "Vulnerable Republicans face a choice on Trump on the campaign trail: ‘Delicate balancing act’",
       "channel": "MS NOW",
       "videoId": "zBLFxY5XJ9c",
-      "viewsPerHour": 179,
+      "viewsPerHour": 154,
       "views": 2145,
-      "ageHours": 12
-    },
-    {
-      "title": "PBS News Hour live episode, Sept. 7, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "JfK27Jt30SE",
-      "viewsPerHour": 178,
-      "views": 4512,
-      "ageHours": 25.4
+      "ageHours": 13.9
     },
     {
       "title": "EXCLUSIVE: Dismissed trans Army Sgt. SLAMS trans troops ban 'bigoted' and 'based on a culture war'",
       "channel": "MS NOW",
       "videoId": "5yhP-BB-tpQ",
-      "viewsPerHour": 131,
+      "viewsPerHour": 97,
       "views": 751,
-      "ageHours": 5.7
+      "ageHours": 7.7
     },
     {
       "title": "WATCH: Trump claims he was saved by 2 firemen near Ground Zero wreckage",
       "channel": "PBS NewsHour",
       "videoId": "MdgVrr04xxk",
-      "viewsPerHour": 73,
+      "viewsPerHour": 55,
       "views": 441,
-      "ageHours": 6.1
+      "ageHours": 8
     },
     {
       "title": "How $158M paid to Jeffrey Epstein TOPPLED Wall Street tycoon Leon Black",
       "channel": "MS NOW",
       "videoId": "lUOVxriaYdQ",
-      "viewsPerHour": 71,
+      "viewsPerHour": 53,
       "views": 401,
-      "ageHours": 5.6
-    },
-    {
-      "title": "Far-right AfD win signals shift in Germany, raises alarm in Europe",
-      "channel": "PBS NewsHour",
-      "videoId": "67DWe7xM378",
-      "viewsPerHour": 52,
-      "views": 1230,
-      "ageHours": 23.8
+      "ageHours": 7.6
     },
     {
       "title": "WATCH: Trump presents Presidential Medal of Freedom to family of 9/11 hero Welles Crowther",
       "channel": "PBS NewsHour",
       "videoId": "MDl_4ObvH3w",
-      "viewsPerHour": 29,
+      "viewsPerHour": 22,
       "views": 171,
-      "ageHours": 6
+      "ageHours": 8
     },
     {
-      "title": "News Wrap: Tropical Storm Marie brings dangerous surf to California coast",
+      "title": "Lonnie Bunch on his legacy and protecting the Smithsonian from political pressure",
       "channel": "PBS NewsHour",
-      "videoId": "jcQ2qD2ye4U",
-      "viewsPerHour": 10,
-      "views": 243,
-      "ageHours": 23.7
+      "videoId": "7WUNkRKfKkI",
+      "viewsPerHour": 6,
+      "views": 9,
+      "ageHours": 1.5
     }
   ]
 }
