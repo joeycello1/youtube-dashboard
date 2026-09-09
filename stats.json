@@ -2,7 +2,19 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 6
+      "count": 5
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 8
+    },
+    {
+      "channel": "Real Stories",
+      "count": 42
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 12
     },
     {
       "channel": "The Daily Show",
@@ -11,10 +23,6 @@
     {
       "channel": "Louis Rossmann",
       "count": 20
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 8
     },
     {
       "channel": "NOVA",
@@ -27,14 +35,6 @@
     {
       "channel": "More Perfect Union",
       "count": 16
-    },
-    {
-      "channel": "Real Stories",
-      "count": 42
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 10
     },
     {
       "channel": "History",
@@ -54,7 +54,7 @@
     },
     {
       "channel": "Last Week Tonight",
-      "count": 7
+      "count": 6
     },
     {
       "channel": "Diary of a CEO",
@@ -70,7 +70,7 @@
     },
     {
       "channel": "The Interview",
-      "count": 7
+      "count": 6
     },
     {
       "channel": "Area 52",
@@ -84,7 +84,19 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 5
+      "count": 4
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 8
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 34
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 12
     },
     {
       "keyword": "The Daily Show",
@@ -93,10 +105,6 @@
     {
       "keyword": "Louis Rossmann",
       "count": 19
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 8
     },
     {
       "keyword": "NOVA",
@@ -117,14 +125,6 @@
     {
       "keyword": "Corbell, George Knapp",
       "count": 1
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 34
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 10
     },
     {
       "keyword": "UFO",
@@ -160,7 +160,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "count": 7
+      "count": 6
     },
     {
       "keyword": "testimony",
@@ -172,7 +172,7 @@
     },
     {
       "keyword": "The Interview",
-      "count": 7
+      "count": 6
     },
     {
       "keyword": "AI, artificial intelligence, UAP",
@@ -222,11 +222,11 @@
   "dailySummary": [
     {
       "date": "2026-09-09",
-      "videos": 5
+      "videos": 11
     },
     {
       "date": "2026-09-08",
-      "videos": 21
+      "videos": 17
     },
     {
       "date": "2026-09-07",
@@ -282,7 +282,7 @@
     },
     {
       "date": "2026-08-25",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-08-23",
@@ -449,10 +449,6 @@
       "videos": 3
     },
     {
-      "date": "2026-07-11",
-      "videos": 2
-    },
-    {
       "date": "2026-06-14",
       "videos": 1
     }
@@ -460,7 +456,19 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
+      "matches": 4
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 8
+    },
+    {
+      "keyword": "Real Stories",
       "matches": 5
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
     },
     {
       "keyword": "The Daily Show",
@@ -469,10 +477,6 @@
     {
       "keyword": "Louis Rossmann",
       "matches": 10
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 8
     },
     {
       "keyword": "NOVA",
@@ -495,16 +499,8 @@
       "matches": 1
     },
     {
-      "keyword": "Real Stories",
-      "matches": 4
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 6
-    },
-    {
       "keyword": "UFO",
-      "matches": 4
+      "matches": 3
     },
     {
       "keyword": "The Rest Is Science",
@@ -528,201 +524,217 @@
       "title": "Jon on Trump's Meme Assault on Canada & the Alternate Reality He's Constructed | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "rDZ_gaUQab4",
-      "viewsPerHour": 229076,
-      "views": 3050592,
-      "ageHours": 13.3
+      "viewsPerHour": 237454,
+      "views": 3631555,
+      "ageHours": 15.3
     },
     {
       "title": "We Found Rampant Waste And Fraud In Welfare. It’s Not Where You Think.",
       "channel": "More Perfect Union",
       "videoId": "YKAD7l1a9hc",
-      "viewsPerHour": 12778,
-      "views": 285372,
-      "ageHours": 22.3
+      "viewsPerHour": 12564,
+      "views": 305428,
+      "ageHours": 24.3
     },
     {
       "title": "Gov. Spencer Cox On Why Charlie Kirk’s Assassination Made Him Finish His Book | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "kBQQAbssaGY",
-      "viewsPerHour": 11286,
-      "views": 144824,
-      "ageHours": 12.8
+      "viewsPerHour": 11851,
+      "views": 175493,
+      "ageHours": 14.8
     },
     {
       "title": "PBS News Hour full episode, Sept. 8, 2026",
       "channel": "PBS NewsHour",
       "videoId": "24_C_lpAO7I",
-      "viewsPerHour": 7934,
+      "viewsPerHour": 7101,
       "views": 133804,
-      "ageHours": 16.9
+      "ageHours": 18.8
     },
     {
       "title": "Fighter pilot reflects on order to sacrifice herself to stop Flight 93 on 9/11",
       "channel": "PBS NewsHour",
       "videoId": "ZBw5Nn2uv8Y",
-      "viewsPerHour": 6738,
+      "viewsPerHour": 6040,
       "views": 115238,
-      "ageHours": 17.1
+      "ageHours": 19.1
     },
     {
       "title": "Trump's \"Lake America\" Rebrand, NBA vs. the Clippers & Meta vs. Teen Mental Health | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "UWuntiE_CBw",
-      "viewsPerHour": 5375,
-      "views": 108308,
-      "ageHours": 20.2
+      "viewsPerHour": 5074,
+      "views": 112277,
+      "ageHours": 22.1
     },
     {
       "title": "He Saw Four TIC TAC UFOs - Then AARO Came Calling",
       "channel": "Jeremy Corbell",
       "videoId": "YEO7dy88pyw",
-      "viewsPerHour": 3796,
-      "views": 80944,
-      "ageHours": 21.3
+      "viewsPerHour": 3592,
+      "views": 83694,
+      "ageHours": 23.3
     },
     {
       "title": "Bizarre, unhinged AI slop': Nicolle STINGS Trump for appalling posts and BOGUS 9/11 claims",
       "channel": "MS NOW",
       "videoId": "PvHLUAzAd94",
-      "viewsPerHour": 3693,
+      "viewsPerHour": 3348,
       "views": 70917,
-      "ageHours": 19.2
+      "ageHours": 21.2
     },
     {
       "title": "Mona Lisa Smile: Science Reveals Leonardo's Secrets | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "GEzlMB9B21U",
-      "viewsPerHour": 3406,
-      "views": 65206,
-      "ageHours": 19.1
+      "viewsPerHour": 3243,
+      "views": 68491,
+      "ageHours": 21.1
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Sept. 8 | Audio Only",
       "channel": "MS NOW",
       "videoId": "4DjiIEUkzS4",
-      "viewsPerHour": 1742,
+      "viewsPerHour": 1475,
       "views": 19009,
-      "ageHours": 10.9
+      "ageHours": 12.9
+    },
+    {
+      "title": "Conan Thinks Self-Driving Cars Are Just Ghosts Commuting | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "TWHrWPfc1EY",
+      "viewsPerHour": 1181,
+      "views": 3893,
+      "ageHours": 3.3
+    },
+    {
+      "title": "Holland Taylor (Full Episode) | Where Everybody Knows Your Name",
+      "channel": "Conan O'Brien",
+      "videoId": "7l3_bV7GZz8",
+      "viewsPerHour": 972,
+      "views": 6119,
+      "ageHours": 6.3
     },
     {
       "title": "A Live Reading Of Conan & Sona's Text Messages | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "7mTr5kkn-Fg",
-      "viewsPerHour": 989,
+      "viewsPerHour": 924,
       "views": 28010,
-      "ageHours": 28.3
+      "ageHours": 30.3
     },
     {
       "title": "Microsoft gamepass changes 'unlimited time' to '5 hours' 🤣 xbox trying to be worse than sony",
       "channel": "Louis Rossmann",
       "videoId": "QefkUcbDtSU",
-      "viewsPerHour": 912,
+      "viewsPerHour": 825,
       "views": 17263,
-      "ageHours": 18.9
+      "ageHours": 20.9
     },
     {
-      "title": "Trump's wars: U.S. strikes Iranian oil tankers, bans Canadian goods in trade war ",
-      "channel": "MS NOW",
-      "videoId": "q2qydmi6O5U",
-      "viewsPerHour": 688,
-      "views": 4067,
-      "ageHours": 5.9
+      "title": "WATCH LIVE: Democrats hold news conference ahead of RNC midterm convention",
+      "channel": "PBS NewsHour",
+      "videoId": "lqt7pp4A9DA",
+      "viewsPerHour": 634,
+      "views": 1129,
+      "ageHours": 1.8
     },
     {
       "title": "Youth sports become big business, putting stress on families and leaving some behind",
       "channel": "PBS NewsHour",
       "videoId": "TeKDATaw-pM",
-      "viewsPerHour": 663,
+      "viewsPerHour": 595,
       "views": 11453,
-      "ageHours": 17.3
+      "ageHours": 19.3
+    },
+    {
+      "title": "Trump's wars: U.S. strikes Iranian oil tankers, bans Canadian goods in trade war ",
+      "channel": "MS NOW",
+      "videoId": "q2qydmi6O5U",
+      "viewsPerHour": 515,
+      "views": 4067,
+      "ageHours": 7.9
     },
     {
       "title": "The World's Biggest Tech Scam: How a 20-Year-Old Conned Royalty, the Media, and the FBI",
       "channel": "Real Stories",
       "videoId": "CptB8GT4g-U",
-      "viewsPerHour": 503,
-      "views": 12243,
-      "ageHours": 24.3
+      "viewsPerHour": 480,
+      "views": 12627,
+      "ageHours": 26.3
     },
     {
-      "title": "He's WEAK and FAILING': Nicolle and Sarah Longwell on the end of wannabe-tyrant Trump's reign",
-      "channel": "MS NOW",
-      "videoId": "re0ofGUXCfs",
-      "viewsPerHour": 482,
-      "views": 8591,
-      "ageHours": 17.8
+      "title": "9/11: 25 Years Later  Remembering The Day the World Stood Still",
+      "channel": "Real Stories",
+      "videoId": "rno-0Jp6bnY",
+      "viewsPerHour": 462,
+      "views": 1060,
+      "ageHours": 2.3
     },
     {
       "title": "“AARO TRIED TO FORCE HIM INTO A SCIF TO SILENCE HIM”",
       "channel": "Jeremy Corbell",
       "videoId": "n2Ulq8uygYw",
-      "viewsPerHour": 473,
-      "views": 10918,
-      "ageHours": 23.1
+      "viewsPerHour": 444,
+      "views": 11129,
+      "ageHours": 25
+    },
+    {
+      "title": "He's WEAK and FAILING': Nicolle and Sarah Longwell on the end of wannabe-tyrant Trump's reign",
+      "channel": "MS NOW",
+      "videoId": "re0ofGUXCfs",
+      "viewsPerHour": 434,
+      "views": 8591,
+      "ageHours": 19.8
+    },
+    {
+      "title": "Total chaos.' How PBS News crews filmed the Pentagon on 9/11",
+      "channel": "PBS NewsHour",
+      "videoId": "9gjZF2CZke4",
+      "viewsPerHour": 271,
+      "views": 1125,
+      "ageHours": 4.2
     },
     {
       "title": "PBS News Hour live episode, Sept. 8, 2026",
       "channel": "PBS NewsHour",
       "videoId": "ZGLy_rQLkH0",
-      "viewsPerHour": 232,
+      "viewsPerHour": 211,
       "views": 4513,
-      "ageHours": 19.4
+      "ageHours": 21.4
     },
     {
       "title": "Matt Groening & Conan's Favorite Homer Simpson Moments | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "0IA0tOWCMJQ",
-      "viewsPerHour": 138,
+      "viewsPerHour": 128,
       "views": 3498,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
-      "title": "EXCLUSIVE: Dismissed trans Army Sgt. SLAMS trans troops ban 'bigoted' and 'based on a culture war'",
+      "title": "Joe SLAMS Trump’s midterm convention happening during NFL kickoff: 'Beta males will tune in'",
       "channel": "MS NOW",
-      "videoId": "5yhP-BB-tpQ",
-      "viewsPerHour": 32,
-      "views": 751,
-      "ageHours": 23.7
+      "videoId": "xWaYtWUun28",
+      "viewsPerHour": 89,
+      "views": 140,
+      "ageHours": 1.6
     },
     {
       "title": "News Wrap: NYC officials release documents showing city was aware of toxic air after 9/11",
       "channel": "PBS NewsHour",
       "videoId": "mAATBiyV1Co",
-      "viewsPerHour": 32,
+      "viewsPerHour": 28,
       "views": 559,
-      "ageHours": 17.7
-    },
-    {
-      "title": "WATCH: Trump claims he was saved by 2 firemen near Ground Zero wreckage",
-      "channel": "PBS NewsHour",
-      "videoId": "MdgVrr04xxk",
-      "viewsPerHour": 18,
-      "views": 441,
-      "ageHours": 24.1
-    },
-    {
-      "title": "How $158M paid to Jeffrey Epstein TOPPLED Wall Street tycoon Leon Black",
-      "channel": "MS NOW",
-      "videoId": "lUOVxriaYdQ",
-      "viewsPerHour": 17,
-      "views": 401,
-      "ageHours": 23.6
-    },
-    {
-      "title": "WATCH: Trump presents Presidential Medal of Freedom to family of 9/11 hero Welles Crowther",
-      "channel": "PBS NewsHour",
-      "videoId": "MDl_4ObvH3w",
-      "viewsPerHour": 7,
-      "views": 171,
-      "ageHours": 24
+      "ageHours": 19.7
     },
     {
       "title": "Lonnie Bunch on his legacy and protecting the Smithsonian from political pressure",
       "channel": "PBS NewsHour",
       "videoId": "7WUNkRKfKkI",
-      "viewsPerHour": 1,
+      "viewsPerHour": 0,
       "views": 9,
-      "ageHours": 17.6
+      "ageHours": 19.5
     },
     {
       "title": "come out to los angeles 7 pm thursday at boomtown brewery",
@@ -730,7 +742,7 @@
       "videoId": "wdvE3gXQ1Ag",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 13.3
+      "ageHours": 15.2
     }
   ]
 }
