@@ -2,11 +2,11 @@
   "videosPerChannel": [
     {
       "channel": "PBS NewsHour",
-      "count": 8
+      "count": 5
     },
     {
       "channel": "MS NOW",
-      "count": 7
+      "count": 6
     },
     {
       "channel": "Louis Rossmann",
@@ -84,11 +84,11 @@
   "keywordFrequency": [
     {
       "keyword": "PBS NewsHour",
-      "count": 8
+      "count": 5
     },
     {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 5
     },
     {
       "keyword": "Louis Rossmann",
@@ -222,11 +222,11 @@
   "dailySummary": [
     {
       "date": "2026-09-08",
-      "videos": 22
+      "videos": 20
     },
     {
       "date": "2026-09-07",
-      "videos": 4
+      "videos": 2
     },
     {
       "date": "2026-09-06",
@@ -456,11 +456,11 @@
   "topKeywordsWeek": [
     {
       "keyword": "PBS NewsHour",
-      "matches": 8
+      "matches": 5
     },
     {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "Louis Rossmann",
@@ -528,201 +528,169 @@
       "title": "We Found Rampant Waste And Fraud In Welfare. It’s Not Where You Think.",
       "channel": "More Perfect Union",
       "videoId": "YKAD7l1a9hc",
-      "viewsPerHour": 13882,
+      "viewsPerHour": 11650,
       "views": 143330,
-      "ageHours": 10.3
+      "ageHours": 12.3
     },
     {
       "title": "Bizarre, unhinged AI slop': Nicolle STINGS Trump for appalling posts and BOGUS 9/11 claims",
       "channel": "MS NOW",
       "videoId": "PvHLUAzAd94",
-      "viewsPerHour": 9853,
+      "viewsPerHour": 7729,
       "views": 70917,
-      "ageHours": 7.2
-    },
-    {
-      "title": "Tamara Keith and Amy Walter on GOP's midterm challenges",
-      "channel": "PBS NewsHour",
-      "videoId": "--QgeHbX6a0",
-      "viewsPerHour": 4618,
-      "views": 134917,
-      "ageHours": 29.2
+      "ageHours": 9.2
     },
     {
       "title": "Trump's \"Lake America\" Rebrand, NBA vs. the Clippers & Meta vs. Teen Mental Health | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "UWuntiE_CBw",
-      "viewsPerHour": 4409,
+      "viewsPerHour": 3547,
       "views": 35899,
-      "ageHours": 8.1
+      "ageHours": 10.1
     },
     {
       "title": "He Saw Four TIC TAC UFOs - Then AARO Came Calling",
       "channel": "Jeremy Corbell",
       "videoId": "YEO7dy88pyw",
-      "viewsPerHour": 3451,
+      "viewsPerHour": 2846,
       "views": 32144,
-      "ageHours": 9.3
-    },
-    {
-      "title": "PBS News Hour full episode, Sept. 7, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "lHJZDl636-c",
-      "viewsPerHour": 3414,
-      "views": 95147,
-      "ageHours": 27.9
-    },
-    {
-      "title": "Anger and anxiety:' Economic inequality on the rise under Trump",
-      "channel": "MS NOW",
-      "videoId": "v5Ach3cXsNo",
-      "viewsPerHour": 2810,
-      "views": 73742,
-      "ageHours": 26.2
+      "ageHours": 11.3
     },
     {
       "title": "Microsoft gamepass changes 'unlimited time' to '5 hours' 🤣 xbox trying to be worse than sony",
       "channel": "Louis Rossmann",
       "videoId": "QefkUcbDtSU",
-      "viewsPerHour": 2492,
+      "viewsPerHour": 1938,
       "views": 17263,
-      "ageHours": 6.9
+      "ageHours": 8.9
     },
     {
       "title": "A Live Reading Of Conan & Sona's Text Messages | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "7mTr5kkn-Fg",
-      "viewsPerHour": 1717,
+      "viewsPerHour": 1531,
       "views": 28010,
-      "ageHours": 16.3
+      "ageHours": 18.3
     },
     {
       "title": "Matt Groening (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ZjWPkOHk_BM",
-      "viewsPerHour": 1556,
+      "viewsPerHour": 1485,
       "views": 64284,
-      "ageHours": 41.3
+      "ageHours": 43.3
     },
     {
       "title": "He's WEAK and FAILING': Nicolle and Sarah Longwell on the end of wannabe-tyrant Trump's reign",
       "channel": "MS NOW",
       "videoId": "re0ofGUXCfs",
-      "viewsPerHour": 1478,
+      "viewsPerHour": 1103,
       "views": 8591,
-      "ageHours": 5.8
+      "ageHours": 7.8
     },
     {
       "title": "Canada HITS BACK at Trump with retaliatory tariffs on $20B in goods",
       "channel": "MS NOW",
       "videoId": "AVEBZtOavlY",
-      "viewsPerHour": 945,
+      "viewsPerHour": 853,
       "views": 17302,
-      "ageHours": 18.3
+      "ageHours": 20.3
     },
     {
       "title": "“AARO TRIED TO FORCE HIM INTO A SCIF TO SILENCE HIM”",
       "channel": "Jeremy Corbell",
       "videoId": "n2Ulq8uygYw",
-      "viewsPerHour": 735,
+      "viewsPerHour": 623,
       "views": 8127,
-      "ageHours": 11.1
-    },
-    {
-      "title": "PBS News Hour live episode, Sept. 8, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "ZGLy_rQLkH0",
-      "viewsPerHour": 607,
-      "views": 4513,
-      "ageHours": 7.4
+      "ageHours": 13
     },
     {
       "title": "The World's Biggest Tech Scam: How a 20-Year-Old Conned Royalty, the Media, and the FBI",
       "channel": "Real Stories",
       "videoId": "CptB8GT4g-U",
-      "viewsPerHour": 578,
+      "viewsPerHour": 498,
       "views": 7113,
-      "ageHours": 12.3
+      "ageHours": 14.3
+    },
+    {
+      "title": "PBS News Hour live episode, Sept. 8, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "ZGLy_rQLkH0",
+      "viewsPerHour": 480,
+      "views": 4513,
+      "ageHours": 9.4
     },
     {
       "title": "Mona Lisa Smile: Science Reveals Leonardo's Secrets | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "GEzlMB9B21U",
-      "viewsPerHour": 554,
+      "viewsPerHour": 434,
       "views": 3951,
-      "ageHours": 7.1
-    },
-    {
-      "title": "Inside southern Lebanon's villages where Israeli occupation has upended daily life",
-      "channel": "PBS NewsHour",
-      "videoId": "m7AorR8Ao7w",
-      "viewsPerHour": 415,
-      "views": 11790,
-      "ageHours": 28.4
+      "ageHours": 9.1
     },
     {
       "title": "Matt Groening & Conan's Favorite Homer Simpson Moments | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "0IA0tOWCMJQ",
-      "viewsPerHour": 263,
+      "viewsPerHour": 229,
       "views": 3498,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "Vulnerable Republicans face a choice on Trump on the campaign trail: ‘Delicate balancing act’",
       "channel": "MS NOW",
       "videoId": "zBLFxY5XJ9c",
-      "viewsPerHour": 120,
+      "viewsPerHour": 108,
       "views": 2145,
-      "ageHours": 17.9
+      "ageHours": 19.9
     },
     {
       "title": "News Wrap: NYC officials release documents showing city was aware of toxic air after 9/11",
       "channel": "PBS NewsHour",
       "videoId": "mAATBiyV1Co",
-      "viewsPerHour": 98,
+      "viewsPerHour": 73,
       "views": 559,
-      "ageHours": 5.7
+      "ageHours": 7.7
     },
     {
       "title": "EXCLUSIVE: Dismissed trans Army Sgt. SLAMS trans troops ban 'bigoted' and 'based on a culture war'",
       "channel": "MS NOW",
       "videoId": "5yhP-BB-tpQ",
-      "viewsPerHour": 64,
+      "viewsPerHour": 55,
       "views": 751,
-      "ageHours": 11.7
+      "ageHours": 13.7
     },
     {
       "title": "WATCH: Trump claims he was saved by 2 firemen near Ground Zero wreckage",
       "channel": "PBS NewsHour",
       "videoId": "MdgVrr04xxk",
-      "viewsPerHour": 37,
+      "viewsPerHour": 31,
       "views": 441,
-      "ageHours": 12
+      "ageHours": 14
     },
     {
       "title": "How $158M paid to Jeffrey Epstein TOPPLED Wall Street tycoon Leon Black",
       "channel": "MS NOW",
       "videoId": "lUOVxriaYdQ",
-      "viewsPerHour": 35,
+      "viewsPerHour": 30,
       "views": 401,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "WATCH: Trump presents Presidential Medal of Freedom to family of 9/11 hero Welles Crowther",
       "channel": "PBS NewsHour",
       "videoId": "MDl_4ObvH3w",
-      "viewsPerHour": 14,
+      "viewsPerHour": 12,
       "views": 171,
-      "ageHours": 12
+      "ageHours": 13.9
     },
     {
       "title": "Lonnie Bunch on his legacy and protecting the Smithsonian from political pressure",
       "channel": "PBS NewsHour",
       "videoId": "7WUNkRKfKkI",
-      "viewsPerHour": 2,
+      "viewsPerHour": 1,
       "views": 9,
-      "ageHours": 5.5
+      "ageHours": 7.5
     }
   ]
 }
