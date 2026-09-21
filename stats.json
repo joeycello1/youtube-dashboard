@@ -2,79 +2,79 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 5
-    },
-    {
-      "channel": "PBS NewsHour",
       "count": 8
     },
     {
-      "channel": "Real Stories",
-      "count": 42
+      "channel": "PBS NewsHour",
+      "count": 3
     },
     {
       "channel": "Conan O'Brien",
-      "count": 12
+      "count": 9
     },
     {
-      "channel": "The Daily Show",
-      "count": 4
+      "channel": "Last Week Tonight",
+      "count": 2
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 20
-    },
-    {
-      "channel": "NOVA",
-      "count": 18
-    },
-    {
-      "channel": "Jeremy Corbell",
-      "count": 4
-    },
-    {
-      "channel": "More Perfect Union",
-      "count": 16
-    },
-    {
-      "channel": "History",
-      "count": 63
+      "channel": "Diary of a CEO",
+      "count": 3
     },
     {
       "channel": "The Rest Is Science",
-      "count": 4
+      "count": 5
     },
     {
-      "channel": "Jonathan Pie",
+      "channel": "History",
+      "count": 64
+    },
+    {
+      "channel": "Real Stories",
+      "count": 46
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 19
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 11
+    },
+    {
+      "channel": "The Interview",
+      "count": 7
+    },
+    {
+      "channel": "Jeremy Corbell",
       "count": 6
+    },
+    {
+      "channel": "More Perfect Union",
+      "count": 17
+    },
+    {
+      "channel": "Area 52",
+      "count": 5
+    },
+    {
+      "channel": "NOVA",
+      "count": 19
     },
     {
       "channel": "Mayim Bialik",
       "count": 8
     },
     {
-      "channel": "Last Week Tonight",
-      "count": 6
-    },
-    {
-      "channel": "Diary of a CEO",
-      "count": 2
-    },
-    {
-      "channel": "Nat Geo",
-      "count": 3
-    },
-    {
       "channel": "Chris Lehto",
       "count": 5
     },
     {
-      "channel": "The Interview",
-      "count": 6
+      "channel": "Nat Geo",
+      "count": 4
     },
     {
-      "channel": "Area 52",
-      "count": 3
+      "channel": "Jonathan Pie",
+      "count": 5
     },
     {
       "channel": "Inside AI",
@@ -84,86 +84,86 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 4
+      "count": 7
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 8
+      "count": 2
     },
     {
-      "keyword": "Real Stories",
-      "count": 34
+      "keyword": "PBS NewsHour, AI",
+      "count": 1
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 12
+      "count": 9
     },
     {
-      "keyword": "The Daily Show",
-      "count": 4
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 19
-    },
-    {
-      "keyword": "NOVA",
-      "count": 35
-    },
-    {
-      "keyword": "MS NOW, AI",
+      "keyword": "MS NOW, artificial intelligence",
       "count": 1
     },
     {
-      "keyword": "Corbell, George Knapp, UAP, UFO",
-      "count": 1
-    },
-    {
-      "keyword": "More Perfect Union",
-      "count": 13
-    },
-    {
-      "keyword": "Corbell, George Knapp",
-      "count": 1
-    },
-    {
-      "keyword": "UFO",
-      "count": 34
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "count": 4
-    },
-    {
-      "keyword": "artificial intelligence",
-      "count": 1
-    },
-    {
-      "keyword": "Jonathan Pie",
-      "count": 6
-    },
-    {
-      "keyword": "More Perfect Union, AI",
-      "count": 3
-    },
-    {
-      "keyword": "Corbell, UFO, George Knapp",
-      "count": 1
-    },
-    {
-      "keyword": "Corbell, UFO, testimony, UAP, whistleblower",
-      "count": 1
+      "keyword": "Last Week Tonight",
+      "count": 2
     },
     {
       "keyword": "AI",
       "count": 10
     },
     {
-      "keyword": "Last Week Tonight",
-      "count": 6
+      "keyword": "The Rest Is Science",
+      "count": 5
     },
     {
-      "keyword": "testimony",
+      "keyword": "UFO",
+      "count": 40
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 41
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 19
+    },
+    {
+      "keyword": "The Daily Show, AI",
+      "count": 3
+    },
+    {
+      "keyword": "The Interview, AI",
+      "count": 1
+    },
+    {
+      "keyword": "artificial intelligence",
+      "count": 2
+    },
+    {
+      "keyword": "Corbell, UFO, whistleblower, George Knapp, UAP",
+      "count": 1
+    },
+    {
+      "keyword": "More Perfect Union",
+      "count": 14
+    },
+    {
+      "keyword": "Corbell, UFO, George Knapp",
+      "count": 2
+    },
+    {
+      "keyword": "NOVA",
+      "count": 35
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 8
+    },
+    {
+      "keyword": "Real Stories, testimony",
+      "count": 1
+    },
+    {
+      "keyword": "AI, artificial intelligence",
       "count": 1
     },
     {
@@ -171,8 +171,36 @@
       "count": 5
     },
     {
+      "keyword": "whistleblower",
+      "count": 1
+    },
+    {
       "keyword": "The Interview",
       "count": 6
+    },
+    {
+      "keyword": "Jonathan Pie",
+      "count": 5
+    },
+    {
+      "keyword": "Corbell, George Knapp, UAP, UFO",
+      "count": 1
+    },
+    {
+      "keyword": "Corbell, George Knapp",
+      "count": 1
+    },
+    {
+      "keyword": "More Perfect Union, AI",
+      "count": 3
+    },
+    {
+      "keyword": "Corbell, UFO, testimony, UAP, whistleblower",
+      "count": 1
+    },
+    {
+      "keyword": "testimony",
+      "count": 1
     },
     {
       "keyword": "AI, artificial intelligence, UAP",
@@ -180,10 +208,6 @@
     },
     {
       "keyword": "NOVA, AI",
-      "count": 1
-    },
-    {
-      "keyword": "Louis Rossmann, AI",
       "count": 1
     },
     {
@@ -200,85 +224,125 @@
     },
     {
       "keyword": "UAP, UFO",
-      "count": 3
+      "count": 2
     },
     {
       "keyword": "Real Stories, Louis Theroux",
-      "count": 8
-    },
-    {
-      "keyword": "UFO, UAP",
       "count": 5
     },
     {
-      "keyword": "NOVA, AI, artificial intelligence",
-      "count": 1
+      "keyword": "UFO, UAP",
+      "count": 3
     },
     {
-      "keyword": "AI, UAP, UFO",
+      "keyword": "NOVA, AI, artificial intelligence",
       "count": 1
     }
   ],
   "dailySummary": [
     {
-      "date": "2026-09-09",
-      "videos": 11
+      "date": "2026-09-21",
+      "videos": 13
     },
     {
-      "date": "2026-09-08",
-      "videos": 17
-    },
-    {
-      "date": "2026-09-07",
-      "videos": 2
-    },
-    {
-      "date": "2026-09-06",
+      "date": "2026-09-20",
       "videos": 6
     },
     {
-      "date": "2026-09-05",
-      "videos": 4
-    },
-    {
-      "date": "2026-09-04",
+      "date": "2026-09-19",
       "videos": 6
     },
     {
-      "date": "2026-09-03",
-      "videos": 6
+      "date": "2026-09-18",
+      "videos": 14
     },
     {
-      "date": "2026-09-02",
+      "date": "2026-09-17",
+      "videos": 13
+    },
+    {
+      "date": "2026-09-16",
       "videos": 10
     },
     {
-      "date": "2026-09-01",
-      "videos": 9
+      "date": "2026-09-15",
+      "videos": 7
     },
     {
-      "date": "2026-08-31",
+      "date": "2026-09-14",
+      "videos": 4
+    },
+    {
+      "date": "2026-09-13",
+      "videos": 5
+    },
+    {
+      "date": "2026-09-12",
+      "videos": 6
+    },
+    {
+      "date": "2026-09-11",
+      "videos": 6
+    },
+    {
+      "date": "2026-09-10",
+      "videos": 6
+    },
+    {
+      "date": "2026-09-09",
+      "videos": 4
+    },
+    {
+      "date": "2026-09-08",
+      "videos": 6
+    },
+    {
+      "date": "2026-09-07",
+      "videos": 1
+    },
+    {
+      "date": "2026-09-06",
+      "videos": 5
+    },
+    {
+      "date": "2026-09-05",
+      "videos": 3
+    },
+    {
+      "date": "2026-09-04",
+      "videos": 2
+    },
+    {
+      "date": "2026-09-03",
+      "videos": 3
+    },
+    {
+      "date": "2026-09-02",
+      "videos": 7
+    },
+    {
+      "date": "2026-09-01",
       "videos": 4
     },
     {
       "date": "2026-08-30",
-      "videos": 7
+      "videos": 4
     },
     {
       "date": "2026-08-29",
-      "videos": 6
+      "videos": 4
     },
     {
       "date": "2026-08-28",
-      "videos": 5
+      "videos": 3
     },
     {
       "date": "2026-08-27",
-      "videos": 7
+      "videos": 3
     },
     {
       "date": "2026-08-26",
-      "videos": 4
+      "videos": 1
     },
     {
       "date": "2026-08-25",
@@ -406,47 +470,7 @@
     },
     {
       "date": "2026-07-23",
-      "videos": 3
-    },
-    {
-      "date": "2026-07-22",
-      "videos": 2
-    },
-    {
-      "date": "2026-07-21",
-      "videos": 4
-    },
-    {
-      "date": "2026-07-19",
-      "videos": 3
-    },
-    {
-      "date": "2026-07-18",
-      "videos": 3
-    },
-    {
-      "date": "2026-07-17",
-      "videos": 5
-    },
-    {
-      "date": "2026-07-16",
-      "videos": 2
-    },
-    {
-      "date": "2026-07-15",
-      "videos": 2
-    },
-    {
-      "date": "2026-07-14",
-      "videos": 4
-    },
-    {
-      "date": "2026-07-13",
       "videos": 1
-    },
-    {
-      "date": "2026-07-12",
-      "videos": 3
     },
     {
       "date": "2026-06-14",
@@ -456,22 +480,42 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 4
+      "matches": 7
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 8
+      "matches": 2
     },
     {
-      "keyword": "Real Stories",
-      "matches": 5
+      "keyword": "PBS NewsHour, AI",
+      "matches": 1
     },
     {
       "keyword": "Conan O'Brien",
       "matches": 8
     },
     {
-      "keyword": "The Daily Show",
+      "keyword": "MS NOW, artificial intelligence",
+      "matches": 1
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 2
+    },
+    {
+      "keyword": "AI",
+      "matches": 1
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "matches": 2
+    },
+    {
+      "keyword": "UFO",
+      "matches": 7
+    },
+    {
+      "keyword": "Real Stories",
       "matches": 4
     },
     {
@@ -479,270 +523,222 @@
       "matches": 10
     },
     {
-      "keyword": "NOVA",
-      "matches": 4
-    },
-    {
-      "keyword": "MS NOW, AI",
-      "matches": 1
-    },
-    {
-      "keyword": "Corbell, George Knapp, UAP, UFO",
-      "matches": 1
-    },
-    {
-      "keyword": "More Perfect Union",
-      "matches": 1
-    },
-    {
-      "keyword": "Corbell, George Knapp",
-      "matches": 1
-    },
-    {
-      "keyword": "UFO",
+      "keyword": "The Daily Show, AI",
       "matches": 3
     },
     {
-      "keyword": "The Rest Is Science",
-      "matches": 2
+      "keyword": "The Interview, AI",
+      "matches": 1
     },
     {
       "keyword": "artificial intelligence",
       "matches": 1
     },
     {
-      "keyword": "Jonathan Pie",
+      "keyword": "Corbell, UFO, whistleblower, George Knapp, UAP",
       "matches": 1
     },
     {
-      "keyword": "More Perfect Union, AI",
+      "keyword": "More Perfect Union",
+      "matches": 3
+    },
+    {
+      "keyword": "Corbell, UFO, George Knapp",
+      "matches": 1
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 4
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 8
+    },
+    {
+      "keyword": "Real Stories, testimony",
+      "matches": 1
+    },
+    {
+      "keyword": "AI, artificial intelligence",
       "matches": 1
     }
   ],
   "mostViral48h": [
     {
-      "title": "Jon on Trump's Meme Assault on Canada & the Alternate Reality He's Constructed | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "rDZ_gaUQab4",
-      "viewsPerHour": 237454,
-      "views": 3631555,
-      "ageHours": 15.3
+      "title": "UnitedHealthcare & UnitedHealth Group: Last Week Tonight with John Oliver (HBO)",
+      "channel": "Last Week Tonight",
+      "videoId": "h1pXm0GjLho",
+      "viewsPerHour": 98429,
+      "views": 1022993,
+      "ageHours": 10.4
     },
     {
-      "title": "We Found Rampant Waste And Fraud In Welfare. It’s Not Where You Think.",
-      "channel": "More Perfect Union",
-      "videoId": "YKAD7l1a9hc",
-      "viewsPerHour": 12564,
-      "views": 305428,
-      "ageHours": 24.3
-    },
-    {
-      "title": "Gov. Spencer Cox On Why Charlie Kirk’s Assassination Made Him Finish His Book | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "kBQQAbssaGY",
-      "viewsPerHour": 11851,
-      "views": 175493,
-      "ageHours": 14.8
-    },
-    {
-      "title": "PBS News Hour full episode, Sept. 8, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "24_C_lpAO7I",
-      "viewsPerHour": 7101,
-      "views": 133804,
-      "ageHours": 18.8
-    },
-    {
-      "title": "Fighter pilot reflects on order to sacrifice herself to stop Flight 93 on 9/11",
-      "channel": "PBS NewsHour",
-      "videoId": "ZBw5Nn2uv8Y",
-      "viewsPerHour": 6040,
-      "views": 115238,
-      "ageHours": 19.1
-    },
-    {
-      "title": "Trump's \"Lake America\" Rebrand, NBA vs. the Clippers & Meta vs. Teen Mental Health | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "UWuntiE_CBw",
-      "viewsPerHour": 5074,
-      "views": 112277,
-      "ageHours": 22.1
-    },
-    {
-      "title": "He Saw Four TIC TAC UFOs - Then AARO Came Calling",
-      "channel": "Jeremy Corbell",
-      "videoId": "YEO7dy88pyw",
-      "viewsPerHour": 3592,
-      "views": 83694,
-      "ageHours": 23.3
-    },
-    {
-      "title": "Bizarre, unhinged AI slop': Nicolle STINGS Trump for appalling posts and BOGUS 9/11 claims",
+      "title": "BREAKING: White House press pool SUSPENDS TV coverage of Trump amid ban",
       "channel": "MS NOW",
-      "videoId": "PvHLUAzAd94",
-      "viewsPerHour": 3348,
-      "views": 70917,
-      "ageHours": 21.2
+      "videoId": "obI8YeVnCVY",
+      "viewsPerHour": 59972,
+      "views": 12623,
+      "ageHours": 0.2
     },
     {
-      "title": "Mona Lisa Smile: Science Reveals Leonardo's Secrets | NOVA | PBS",
-      "channel": "NOVA",
-      "videoId": "GEzlMB9B21U",
-      "viewsPerHour": 3243,
-      "views": 68491,
-      "ageHours": 21.1
+      "title": "Rick Rubin: The Only Skill That Matters Now Is The One Thing AI Can Never Steal!",
+      "channel": "Diary of a CEO",
+      "videoId": "a_GiFiHXJ6g",
+      "viewsPerHour": 38915,
+      "views": 462939,
+      "ageHours": 11.9
     },
     {
-      "title": "The Last Word with Lawrence O'Donnell - Sept. 8 | Audio Only",
+      "title": "S13 E23: UnitedHealthcare & UnitedHealth Group: 9/20/26: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "Oz0y4CdYmvI",
+      "viewsPerHour": 23849,
+      "views": 331391,
+      "ageHours": 13.9
+    },
+    {
+      "title": "Earth Is A Cradle But Not A Grave",
+      "channel": "The Rest Is Science",
+      "videoId": "7R06bDgZLCQ",
+      "viewsPerHour": 10270,
+      "views": 204277,
+      "ageHours": 19.9
+    },
+    {
+      "title": "Joel McHale (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "ehda7OyjnuA",
+      "viewsPerHour": 9220,
+      "views": 54347,
+      "ageHours": 5.9
+    },
+    {
+      "title": "The world 'is watching U.S.-Canadian relations very closely' because they could be next: Economist",
       "channel": "MS NOW",
-      "videoId": "4DjiIEUkzS4",
-      "viewsPerHour": 1475,
-      "views": 19009,
-      "ageHours": 12.9
+      "videoId": "2nswAnUGHus",
+      "viewsPerHour": 4822,
+      "views": 972,
+      "ageHours": 0.2
     },
     {
-      "title": "Conan Thinks Self-Driving Cars Are Just Ghosts Commuting | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "TWHrWPfc1EY",
-      "viewsPerHour": 1181,
-      "views": 3893,
-      "ageHours": 3.3
+      "title": "History of UFOs and The Government | The UnXplained (S2, E4) | Full Episode",
+      "channel": "History",
+      "videoId": "RPhOFP-tcyU",
+      "viewsPerHour": 3787,
+      "views": 162460,
+      "ageHours": 42.9
     },
     {
-      "title": "Holland Taylor (Full Episode) | Where Everybody Knows Your Name",
-      "channel": "Conan O'Brien",
-      "videoId": "7l3_bV7GZz8",
-      "viewsPerHour": 972,
-      "views": 6119,
+      "title": "ENORMOUS MISTAKE': Trump decides AGAINST joining Saudi strikes against Houthis",
+      "channel": "MS NOW",
+      "videoId": "8re08BB8a_o",
+      "viewsPerHour": 3177,
+      "views": 21692,
+      "ageHours": 6.8
+    },
+    {
+      "title": "The Last Word with Lawrence O'Donnell Weekly Highlights | Sept. 15-18",
+      "channel": "MS NOW",
+      "videoId": "-zcX86ax8PM",
+      "viewsPerHour": 3068,
+      "views": 42622,
+      "ageHours": 13.9
+    },
+    {
+      "title": "The Bizarre Roswell Rock That Defies Explanation | In Search of Aliens (S1)",
+      "channel": "History",
+      "videoId": "grG5KT20vTk",
+      "viewsPerHour": 2859,
+      "views": 65453,
+      "ageHours": 22.9
+    },
+    {
+      "title": "I think he's just sacrificing us': Farmers SPEAK OUT on impact of Trump's policies",
+      "channel": "MS NOW",
+      "videoId": "OUDCPNRfdUo",
+      "viewsPerHour": 2820,
+      "views": 541,
+      "ageHours": 0.2
+    },
+    {
+      "title": "Austin officials brief on ICE shooting",
+      "channel": "MS NOW",
+      "videoId": "H6uuMF5glxQ",
+      "viewsPerHour": 2012,
+      "views": 39002,
+      "ageHours": 19.4
+    },
+    {
+      "title": "Based arbitrator destroys uber",
+      "channel": "Louis Rossmann",
+      "videoId": "O2B3uBQuGnU",
+      "viewsPerHour": 1389,
+      "views": 48983,
+      "ageHours": 35.3
+    },
+    {
+      "title": "BREAKING: MS NOW, CNN, and POLITICO filing lawsuit against White House over press ban",
+      "channel": "MS NOW",
+      "videoId": "K5DUcXAv2FU",
+      "viewsPerHour": 917,
+      "views": 5743,
       "ageHours": 6.3
     },
     {
-      "title": "A Live Reading Of Conan & Sona's Text Messages | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "7mTr5kkn-Fg",
-      "viewsPerHour": 924,
-      "views": 28010,
-      "ageHours": 30.3
+      "title": "Gwyneth Paltrow Shocked By Secrets Hidden In Her Past | Who Do You Think You Are USA",
+      "channel": "Real Stories",
+      "videoId": "Hsm89FN6Eh4",
+      "viewsPerHour": 558,
+      "views": 13886,
+      "ageHours": 24.9
     },
     {
-      "title": "Microsoft gamepass changes 'unlimited time' to '5 hours' 🤣 xbox trying to be worse than sony",
+      "title": "Stay strong taylor texas!",
       "channel": "Louis Rossmann",
-      "videoId": "QefkUcbDtSU",
-      "viewsPerHour": 825,
-      "views": 17263,
-      "ageHours": 20.9
+      "videoId": "jhpX3Of1ZIE",
+      "viewsPerHour": 529,
+      "views": 25323,
+      "ageHours": 47.9
     },
     {
-      "title": "WATCH LIVE: Democrats hold news conference ahead of RNC midterm convention",
-      "channel": "PBS NewsHour",
-      "videoId": "lqt7pp4A9DA",
-      "viewsPerHour": 634,
-      "views": 1129,
-      "ageHours": 1.8
-    },
-    {
-      "title": "Youth sports become big business, putting stress on families and leaving some behind",
-      "channel": "PBS NewsHour",
-      "videoId": "TeKDATaw-pM",
-      "viewsPerHour": 595,
-      "views": 11453,
+      "title": "BREAKING: One injured in ICE shooting in North Austin, Texas, reports say",
+      "channel": "MS NOW",
+      "videoId": "VdJuXAaS7PE",
+      "viewsPerHour": 415,
+      "views": 8018,
       "ageHours": 19.3
     },
     {
-      "title": "Trump's wars: U.S. strikes Iranian oil tankers, bans Canadian goods in trade war ",
-      "channel": "MS NOW",
-      "videoId": "q2qydmi6O5U",
-      "viewsPerHour": 515,
-      "views": 4067,
-      "ageHours": 7.9
-    },
-    {
-      "title": "The World's Biggest Tech Scam: How a 20-Year-Old Conned Royalty, the Media, and the FBI",
+      "title": "Inside America’s Most Secretive Religious Community",
       "channel": "Real Stories",
-      "videoId": "CptB8GT4g-U",
-      "viewsPerHour": 480,
-      "views": 12627,
-      "ageHours": 26.3
+      "videoId": "1R6E3MXcPGA",
+      "viewsPerHour": 412,
+      "views": 18511,
+      "ageHours": 44.9
     },
     {
-      "title": "9/11: 25 Years Later  Remembering The Day the World Stood Still",
-      "channel": "Real Stories",
-      "videoId": "rno-0Jp6bnY",
-      "viewsPerHour": 462,
-      "views": 1060,
-      "ageHours": 2.3
-    },
-    {
-      "title": "“AARO TRIED TO FORCE HIM INTO A SCIF TO SILENCE HIM”",
-      "channel": "Jeremy Corbell",
-      "videoId": "n2Ulq8uygYw",
-      "viewsPerHour": 444,
-      "views": 11129,
-      "ageHours": 25
-    },
-    {
-      "title": "He's WEAK and FAILING': Nicolle and Sarah Longwell on the end of wannabe-tyrant Trump's reign",
-      "channel": "MS NOW",
-      "videoId": "re0ofGUXCfs",
-      "viewsPerHour": 434,
-      "views": 8591,
-      "ageHours": 19.8
-    },
-    {
-      "title": "Total chaos.' How PBS News crews filmed the Pentagon on 9/11",
+      "title": "WATCH LIVE: Duffy rolls out AI-powered air traffic management tool at DC area airports",
       "channel": "PBS NewsHour",
-      "videoId": "9gjZF2CZke4",
-      "viewsPerHour": 271,
-      "views": 1125,
-      "ageHours": 4.2
+      "videoId": "ibkVK2XKTes",
+      "viewsPerHour": 359,
+      "views": 636,
+      "ageHours": 1.8
     },
     {
-      "title": "PBS News Hour live episode, Sept. 8, 2026",
+      "title": "WATCH LIVE: Vance speaks at GOP midterm election rally in North Carolina",
       "channel": "PBS NewsHour",
-      "videoId": "ZGLy_rQLkH0",
-      "viewsPerHour": 211,
-      "views": 4513,
-      "ageHours": 21.4
-    },
-    {
-      "title": "Matt Groening & Conan's Favorite Homer Simpson Moments | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "0IA0tOWCMJQ",
-      "viewsPerHour": 128,
-      "views": 3498,
-      "ageHours": 27.3
-    },
-    {
-      "title": "Joe SLAMS Trump’s midterm convention happening during NFL kickoff: 'Beta males will tune in'",
-      "channel": "MS NOW",
-      "videoId": "xWaYtWUun28",
-      "viewsPerHour": 89,
-      "views": 140,
-      "ageHours": 1.6
-    },
-    {
-      "title": "News Wrap: NYC officials release documents showing city was aware of toxic air after 9/11",
-      "channel": "PBS NewsHour",
-      "videoId": "mAATBiyV1Co",
-      "viewsPerHour": 28,
-      "views": 559,
-      "ageHours": 19.7
-    },
-    {
-      "title": "Lonnie Bunch on his legacy and protecting the Smithsonian from political pressure",
-      "channel": "PBS NewsHour",
-      "videoId": "7WUNkRKfKkI",
-      "viewsPerHour": 0,
-      "views": 9,
-      "ageHours": 19.5
-    },
-    {
-      "title": "come out to los angeles 7 pm thursday at boomtown brewery",
-      "channel": "Louis Rossmann",
-      "videoId": "wdvE3gXQ1Ag",
+      "videoId": "Z56Yf0hy_gU",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 15.2
+      "ageHours": 1
+    },
+    {
+      "title": "WATCH LIVE: Day 1 of the 2026 United Nations General Assembly",
+      "channel": "PBS NewsHour",
+      "videoId": "7weLF2kowqQ",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 2.1
     }
   ]
 }
