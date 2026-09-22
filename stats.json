@@ -6,7 +6,7 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 19
+      "count": 18
     },
     {
       "channel": "Chris Lehto",
@@ -14,7 +14,7 @@
     },
     {
       "channel": "MS NOW",
-      "count": 6
+      "count": 5
     },
     {
       "channel": "Conan O'Brien",
@@ -88,7 +88,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 19
+      "count": 18
     },
     {
       "keyword": "AI, UAP",
@@ -96,7 +96,7 @@
     },
     {
       "keyword": "MS NOW",
-      "count": 5
+      "count": 4
     },
     {
       "keyword": "PBS NewsHour, AI",
@@ -246,7 +246,7 @@
   "dailySummary": [
     {
       "date": "2026-09-21",
-      "videos": 18
+      "videos": 17
     },
     {
       "date": "2026-09-20",
@@ -299,10 +299,6 @@
     {
       "date": "2026-09-08",
       "videos": 6
-    },
-    {
-      "date": "2026-09-07",
-      "videos": 1
     },
     {
       "date": "2026-09-06",
@@ -492,7 +488,7 @@
     },
     {
       "keyword": "MS NOW",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "PBS NewsHour, AI",
@@ -572,161 +568,145 @@
       "title": "UnitedHealthcare & UnitedHealth Group: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "h1pXm0GjLho",
-      "viewsPerHour": 93571,
+      "viewsPerHour": 85704,
       "views": 2039074,
-      "ageHours": 21.8
+      "ageHours": 23.8
     },
     {
       "title": "Rick Rubin: The Only Skill That Matters Now Is The One Thing AI Can Never Steal!",
       "channel": "Diary of a CEO",
       "videoId": "a_GiFiHXJ6g",
-      "viewsPerHour": 36165,
+      "viewsPerHour": 33306,
       "views": 842457,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "S13 E23: UnitedHealthcare & UnitedHealth Group: 9/20/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "Oz0y4CdYmvI",
-      "viewsPerHour": 17533,
+      "viewsPerHour": 16248,
       "views": 443478,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
       "title": "Earth Is A Cradle But Not A Grave",
       "channel": "The Rest Is Science",
       "videoId": "7R06bDgZLCQ",
-      "viewsPerHour": 7866,
+      "viewsPerHour": 7393,
       "views": 246118,
-      "ageHours": 31.3
+      "ageHours": 33.3
     },
     {
       "title": "Joel McHale (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ehda7OyjnuA",
-      "viewsPerHour": 3143,
+      "viewsPerHour": 2817,
       "views": 54347,
-      "ageHours": 17.3
+      "ageHours": 19.3
     },
     {
       "title": "Denuvo sues anonymous discord user for breaking DRM to games that they didn't make",
       "channel": "Louis Rossmann",
       "videoId": "62exWJmTaXg",
-      "viewsPerHour": 2709,
+      "viewsPerHour": 2152,
       "views": 20962,
-      "ageHours": 7.7
+      "ageHours": 9.7
     },
     {
       "title": "The Bizarre Roswell Rock That Defies Explanation | In Search of Aliens (S1)",
       "channel": "History",
       "videoId": "grG5KT20vTk",
-      "viewsPerHour": 2135,
+      "viewsPerHour": 2017,
       "views": 73221,
-      "ageHours": 34.3
-    },
-    {
-      "title": "The Last Word with Lawrence O'Donnell Weekly Highlights | Sept. 15-18",
-      "channel": "MS NOW",
-      "videoId": "-zcX86ax8PM",
-      "viewsPerHour": 1685,
-      "views": 42622,
-      "ageHours": 25.3
+      "ageHours": 36.3
     },
     {
       "title": "ENORMOUS MISTAKE': Trump decides AGAINST joining Saudi strikes against Houthis",
       "channel": "MS NOW",
       "videoId": "8re08BB8a_o",
-      "viewsPerHour": 1190,
+      "viewsPerHour": 1072,
       "views": 21692,
-      "ageHours": 18.2
+      "ageHours": 20.2
     },
     {
       "title": "BREAKING: White House press pool SUSPENDS TV coverage of Trump amid ban",
       "channel": "MS NOW",
       "videoId": "obI8YeVnCVY",
-      "viewsPerHour": 1087,
+      "viewsPerHour": 928,
       "views": 12623,
-      "ageHours": 11.6
-    },
-    {
-      "title": "Based arbitrator destroys uber",
-      "channel": "Louis Rossmann",
-      "videoId": "O2B3uBQuGnU",
-      "viewsPerHour": 1050,
-      "views": 48983,
-      "ageHours": 46.7
+      "ageHours": 13.6
     },
     {
       "title": "PBS News Hour live episode, Sept. 21, 2026",
       "channel": "PBS NewsHour",
       "videoId": "J_hIOqUwGsI",
-      "viewsPerHour": 779,
+      "viewsPerHour": 602,
       "views": 5309,
-      "ageHours": 6.8
+      "ageHours": 8.8
     },
     {
       "title": "Gwyneth Paltrow Shocked By Secrets Hidden In Her Past | Who Do You Think You Are USA",
       "channel": "Real Stories",
       "videoId": "Hsm89FN6Eh4",
-      "viewsPerHour": 417,
+      "viewsPerHour": 395,
       "views": 15125,
-      "ageHours": 36.3
+      "ageHours": 38.3
     },
     {
       "title": "BREAKING: MS NOW, CNN, and POLITICO filing lawsuit against White House over press ban",
       "channel": "MS NOW",
       "videoId": "K5DUcXAv2FU",
-      "viewsPerHour": 325,
+      "viewsPerHour": 292,
       "views": 5743,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "Tic Tac Physics: Can We Explain the Impossible Flight?",
       "channel": "Chris Lehto",
       "videoId": "K_SP_-LN9r0",
-      "viewsPerHour": 295,
+      "viewsPerHour": 237,
       "views": 2445,
-      "ageHours": 8.3
+      "ageHours": 10.3
     },
     {
       "title": "The world 'is watching U.S.-Canadian relations very closely' because they could be next: Economist",
       "channel": "MS NOW",
       "videoId": "2nswAnUGHus",
-      "viewsPerHour": 84,
+      "viewsPerHour": 71,
       "views": 972,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "WATCH LIVE: Judy Woodruff and Jamelle Bouie discuss the freedom of the press",
       "channel": "PBS NewsHour",
       "videoId": "xsb5RFHiGgk",
-      "viewsPerHour": 74,
+      "viewsPerHour": 61,
       "views": 694,
-      "ageHours": 9.4
+      "ageHours": 11.4
     },
     {
       "title": "WATCH LIVE: Duffy rolls out AI-powered air traffic management tool at DC area airports",
       "channel": "PBS NewsHour",
       "videoId": "ibkVK2XKTes",
-      "viewsPerHour": 48,
+      "viewsPerHour": 42,
       "views": 636,
-      "ageHours": 13.2
+      "ageHours": 15.2
     },
     {
       "title": "I think he's just sacrificing us': Farmers SPEAK OUT on impact of Trump's policies",
       "channel": "MS NOW",
       "videoId": "OUDCPNRfdUo",
-      "viewsPerHour": 47,
+      "viewsPerHour": 40,
       "views": 541,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "How abortion drug restrictions make it harder to treat other conditions",
       "channel": "PBS NewsHour",
       "videoId": "JSm-j3MC9nI",
-      "viewsPerHour": 6,
+      "viewsPerHour": 4,
       "views": 31,
-      "ageHours": 5.6
+      "ageHours": 7.6
     },
     {
       "title": "WATCH LIVE: Vance speaks at GOP midterm election rally in North Carolina",
@@ -734,7 +714,7 @@
       "videoId": "Z56Yf0hy_gU",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 12.4
+      "ageHours": 14.4
     },
     {
       "title": "WATCH LIVE: Day 1 of the 2026 United Nations General Assembly",
@@ -742,7 +722,7 @@
       "videoId": "7weLF2kowqQ",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 13.5
+      "ageHours": 15.5
     }
   ]
 }
