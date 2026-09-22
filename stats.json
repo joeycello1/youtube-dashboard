@@ -488,7 +488,7 @@
     },
     {
       "keyword": "The Daily Show, AI",
-      "matches": 4
+      "matches": 3
     },
     {
       "keyword": "The Daily Show, AI, MS NOW",
@@ -512,7 +512,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "Last Week Tonight",
@@ -532,7 +532,7 @@
     },
     {
       "keyword": "Real Stories",
-      "matches": 4
+      "matches": 3
     },
     {
       "keyword": "The Interview, AI",
@@ -572,185 +572,177 @@
       "title": "White House Bans Media Outlets & MAGA Embraces AI While Demonizing Immigrants | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "k6WLJ5co3PE",
-      "viewsPerHour": 214085,
-      "views": 2388500,
-      "ageHours": 11.2
+      "viewsPerHour": 225993,
+      "views": 2973264,
+      "ageHours": 13.2
     },
     {
       "title": "UnitedHealthcare & UnitedHealth Group: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "h1pXm0GjLho",
-      "viewsPerHour": 85597,
-      "views": 2721461,
-      "ageHours": 31.8
+      "viewsPerHour": 81906,
+      "views": 2767876,
+      "ageHours": 33.8
     },
     {
       "title": "Rick Rubin: The Only Skill That Matters Now Is The One Thing AI Can Never Steal!",
       "channel": "Diary of a CEO",
       "videoId": "a_GiFiHXJ6g",
-      "viewsPerHour": 31950,
-      "views": 1063831,
-      "ageHours": 33.3
+      "viewsPerHour": 31122,
+      "views": 1098470,
+      "ageHours": 35.3
     },
     {
       "title": "Trump's WH Press Ban Riles Even Fox News & D.C. Arch to Double as Military Complex? | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "RvK8jkSTN9Q",
-      "viewsPerHour": 16095,
-      "views": 190997,
-      "ageHours": 11.9
+      "viewsPerHour": 15159,
+      "views": 210203,
+      "ageHours": 13.9
     },
     {
       "title": "S13 E23: UnitedHealthcare & UnitedHealth Group: 9/20/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "Oz0y4CdYmvI",
-      "viewsPerHour": 14092,
-      "views": 497405,
-      "ageHours": 35.3
+      "viewsPerHour": 13516,
+      "views": 504075,
+      "ageHours": 37.3
     },
     {
       "title": "Ari Emanuel on Channeling Rage and Ego Into Hollywood Success | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ctuvImgGpvE",
-      "viewsPerHour": 9339,
-      "views": 100799,
-      "ageHours": 10.8
+      "viewsPerHour": 9405,
+      "views": 120324,
+      "ageHours": 12.8
     },
     {
       "title": "PBS News Hour full episode, Sept. 21, 2026",
       "channel": "PBS NewsHour",
       "videoId": "VRtLQeekWV0",
-      "viewsPerHour": 8147,
+      "viewsPerHour": 7177,
       "views": 120602,
-      "ageHours": 14.8
+      "ageHours": 16.8
     },
     {
       "title": "Earth Is A Cradle But Not A Grave",
       "channel": "The Rest Is Science",
       "videoId": "7R06bDgZLCQ",
-      "viewsPerHour": 6821,
-      "views": 281637,
-      "ageHours": 41.3
+      "viewsPerHour": 6608,
+      "views": 286075,
+      "ageHours": 43.3
     },
     {
       "title": "Flock is down, here's how we finish them(and all ALPRs)",
       "channel": "Louis Rossmann",
       "videoId": "Cj5YaNQSRyE",
-      "viewsPerHour": 6631,
+      "viewsPerHour": 5832,
       "views": 96774,
-      "ageHours": 14.6
+      "ageHours": 16.6
     },
     {
       "title": "Trump-tied group bought a house for former Greenland politician, Danish report says",
       "channel": "MS NOW",
       "videoId": "pN3tWUkYk9U",
-      "viewsPerHour": 2717,
+      "viewsPerHour": 2137,
       "views": 20013,
-      "ageHours": 7.4
+      "ageHours": 9.4
     },
     {
       "title": "Joel McHale (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ehda7OyjnuA",
-      "viewsPerHour": 1991,
+      "viewsPerHour": 1855,
       "views": 54347,
-      "ageHours": 27.3
+      "ageHours": 29.3
     },
     {
       "title": "The Bizarre Roswell Rock That Defies Explanation | In Search of Aliens (S1)",
       "channel": "History",
       "videoId": "grG5KT20vTk",
-      "viewsPerHour": 1780,
-      "views": 78863,
-      "ageHours": 44.3
+      "viewsPerHour": 1717,
+      "views": 79488,
+      "ageHours": 46.3
     },
     {
       "title": "ICE shoots Door Dasher, imprisons him with bullet in his back",
       "channel": "MS NOW",
       "videoId": "Q6EZJyReb3w",
-      "viewsPerHour": 1761,
+      "viewsPerHour": 1393,
       "views": 13355,
-      "ageHours": 7.6
+      "ageHours": 9.6
     },
     {
       "title": "Maddow: Why the Constitution and the American spirit are against Trump's war on the free press",
       "channel": "MS NOW",
       "videoId": "39TXDINi2B4",
-      "viewsPerHour": 1742,
+      "viewsPerHour": 1380,
       "views": 13260,
-      "ageHours": 7.6
+      "ageHours": 9.6
     },
     {
       "title": "Denuvo sues anonymous discord user for breaking DRM to games that they didn't make",
       "channel": "Louis Rossmann",
       "videoId": "62exWJmTaXg",
-      "viewsPerHour": 1182,
+      "viewsPerHour": 1062,
       "views": 20962,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "BREAKING: White House press pool SUSPENDS TV coverage of Trump amid ban",
       "channel": "MS NOW",
       "videoId": "obI8YeVnCVY",
-      "viewsPerHour": 584,
+      "viewsPerHour": 535,
       "views": 12623,
-      "ageHours": 21.6
+      "ageHours": 23.6
     },
     {
       "title": "Tic Tac Physics: Can We Explain the Impossible Flight?",
       "channel": "Chris Lehto",
       "videoId": "K_SP_-LN9r0",
-      "viewsPerHour": 536,
-      "views": 9818,
-      "ageHours": 18.3
-    },
-    {
-      "title": "Gwyneth Paltrow Shocked By Secrets Hidden In Her Past | Who Do You Think You Are USA",
-      "channel": "Real Stories",
-      "videoId": "Hsm89FN6Eh4",
-      "viewsPerHour": 354,
-      "views": 16393,
-      "ageHours": 46.3
+      "viewsPerHour": 507,
+      "views": 10296,
+      "ageHours": 20.3
     },
     {
       "title": "PBS News Hour live episode, Sept. 21, 2026",
       "channel": "PBS NewsHour",
       "videoId": "J_hIOqUwGsI",
-      "viewsPerHour": 316,
+      "viewsPerHour": 282,
       "views": 5309,
-      "ageHours": 16.8
+      "ageHours": 18.8
     },
     {
       "title": "The world 'is watching U.S.-Canadian relations very closely' because they could be next: Economist",
       "channel": "MS NOW",
       "videoId": "2nswAnUGHus",
-      "viewsPerHour": 45,
+      "viewsPerHour": 41,
       "views": 972,
-      "ageHours": 21.6
+      "ageHours": 23.6
     },
     {
       "title": "WATCH LIVE: Judy Woodruff and Jamelle Bouie discuss the freedom of the press",
       "channel": "PBS NewsHour",
       "videoId": "xsb5RFHiGgk",
-      "viewsPerHour": 36,
+      "viewsPerHour": 32,
       "views": 694,
-      "ageHours": 19.4
+      "ageHours": 21.4
     },
     {
       "title": "WATCH LIVE: Duffy rolls out AI-powered air traffic management tool at DC area airports",
       "channel": "PBS NewsHour",
       "videoId": "ibkVK2XKTes",
-      "viewsPerHour": 27,
+      "viewsPerHour": 25,
       "views": 636,
-      "ageHours": 23.2
+      "ageHours": 25.2
     },
     {
       "title": "I think he's just sacrificing us': Farmers SPEAK OUT on impact of Trump's policies",
       "channel": "MS NOW",
       "videoId": "OUDCPNRfdUo",
-      "viewsPerHour": 25,
+      "viewsPerHour": 23,
       "views": 541,
-      "ageHours": 21.6
+      "ageHours": 23.6
     },
     {
       "title": "How abortion drug restrictions make it harder to treat other conditions",
@@ -758,7 +750,7 @@
       "videoId": "JSm-j3MC9nI",
       "viewsPerHour": 2,
       "views": 31,
-      "ageHours": 15.6
+      "ageHours": 17.6
     },
     {
       "title": "WATCH LIVE: Vance speaks at GOP midterm election rally in North Carolina",
@@ -766,7 +758,7 @@
       "videoId": "Z56Yf0hy_gU",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 22.4
+      "ageHours": 24.4
     },
     {
       "title": "WATCH LIVE: Day 1 of the 2026 United Nations General Assembly",
@@ -774,7 +766,7 @@
       "videoId": "7weLF2kowqQ",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 23.5
+      "ageHours": 25.5
     }
   ]
 }
