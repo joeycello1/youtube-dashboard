@@ -1,20 +1,24 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
+      "channel": "MS NOW",
       "count": 6
     },
     {
+      "channel": "The Daily Show",
+      "count": 14
+    },
+    {
       "channel": "Louis Rossmann",
-      "count": 18
+      "count": 19
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 7
     },
     {
       "channel": "Chris Lehto",
       "count": 6
-    },
-    {
-      "channel": "MS NOW",
-      "count": 5
     },
     {
       "channel": "Conan O'Brien",
@@ -39,10 +43,6 @@
     {
       "channel": "Real Stories",
       "count": 45
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 11
     },
     {
       "channel": "The Interview",
@@ -83,20 +83,32 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "PBS NewsHour",
-      "count": 5
+      "keyword": "MS NOW",
+      "count": 6
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 9
+    },
+    {
+      "keyword": "The Daily Show, AI",
+      "count": 4
+    },
+    {
+      "keyword": "The Daily Show, AI, MS NOW",
+      "count": 1
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 18
+      "count": 19
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 6
     },
     {
       "keyword": "AI, UAP",
       "count": 1
-    },
-    {
-      "keyword": "MS NOW",
-      "count": 4
     },
     {
       "keyword": "PBS NewsHour, AI",
@@ -105,10 +117,6 @@
     {
       "keyword": "Conan O'Brien",
       "count": 9
-    },
-    {
-      "keyword": "MS NOW, artificial intelligence",
-      "count": 1
     },
     {
       "keyword": "Last Week Tonight",
@@ -129,10 +137,6 @@
     {
       "keyword": "Real Stories",
       "count": 41
-    },
-    {
-      "keyword": "The Daily Show, AI",
-      "count": 3
     },
     {
       "keyword": "The Interview, AI",
@@ -157,10 +161,6 @@
     {
       "keyword": "NOVA",
       "count": 35
-    },
-    {
-      "keyword": "The Daily Show",
-      "count": 8
     },
     {
       "keyword": "Real Stories, testimony",
@@ -244,6 +244,10 @@
     }
   ],
   "dailySummary": [
+    {
+      "date": "2026-09-22",
+      "videos": 6
+    },
     {
       "date": "2026-09-21",
       "videos": 17
@@ -475,20 +479,32 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
-      "matches": 5
+      "keyword": "MS NOW",
+      "matches": 6
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 9
+    },
+    {
+      "keyword": "The Daily Show, AI",
+      "matches": 4
+    },
+    {
+      "keyword": "The Daily Show, AI, MS NOW",
+      "matches": 1
     },
     {
       "keyword": "Louis Rossmann",
-      "matches": 11
+      "matches": 12
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 6
     },
     {
       "keyword": "AI, UAP",
       "matches": 1
-    },
-    {
-      "keyword": "MS NOW",
-      "matches": 4
     },
     {
       "keyword": "PBS NewsHour, AI",
@@ -496,11 +512,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 8
-    },
-    {
-      "keyword": "MS NOW, artificial intelligence",
-      "matches": 1
+      "matches": 7
     },
     {
       "keyword": "Last Week Tonight",
@@ -521,10 +533,6 @@
     {
       "keyword": "Real Stories",
       "matches": 4
-    },
-    {
-      "keyword": "The Daily Show, AI",
-      "matches": 3
     },
     {
       "keyword": "The Interview, AI",
@@ -551,10 +559,6 @@
       "matches": 4
     },
     {
-      "keyword": "The Daily Show",
-      "matches": 8
-    },
-    {
       "keyword": "Real Stories, testimony",
       "matches": 1
     },
@@ -565,148 +569,196 @@
   ],
   "mostViral48h": [
     {
+      "title": "White House Bans Media Outlets & MAGA Embraces AI While Demonizing Immigrants | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "k6WLJ5co3PE",
+      "viewsPerHour": 207365,
+      "views": 1899200,
+      "ageHours": 9.2
+    },
+    {
       "title": "UnitedHealthcare & UnitedHealth Group: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "h1pXm0GjLho",
-      "viewsPerHour": 95658,
-      "views": 2658453,
-      "ageHours": 27.8
+      "viewsPerHour": 90032,
+      "views": 2682570,
+      "ageHours": 29.8
     },
     {
       "title": "Rick Rubin: The Only Skill That Matters Now Is The One Thing AI Can Never Steal!",
       "channel": "Diary of a CEO",
       "videoId": "a_GiFiHXJ6g",
-      "viewsPerHour": 34498,
-      "views": 1010586,
-      "ageHours": 29.3
+      "viewsPerHour": 33061,
+      "views": 1034769,
+      "ageHours": 31.3
+    },
+    {
+      "title": "Trump's WH Press Ban Riles Even Fox News & D.C. Arch to Double as Military Complex? | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "RvK8jkSTN9Q",
+      "viewsPerHour": 17721,
+      "views": 174880,
+      "ageHours": 9.9
     },
     {
       "title": "S13 E23: UnitedHealthcare & UnitedHealth Group: 9/20/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "Oz0y4CdYmvI",
-      "viewsPerHour": 15419,
-      "views": 482524,
-      "ageHours": 31.3
+      "viewsPerHour": 14684,
+      "views": 488934,
+      "ageHours": 33.3
+    },
+    {
+      "title": "Ari Emanuel on Channeling Rage and Ego Into Hollywood Success | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "ctuvImgGpvE",
+      "viewsPerHour": 9592,
+      "views": 84369,
+      "ageHours": 8.8
+    },
+    {
+      "title": "PBS News Hour full episode, Sept. 21, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "VRtLQeekWV0",
+      "viewsPerHour": 9418,
+      "views": 120602,
+      "ageHours": 12.8
+    },
+    {
+      "title": "Flock is down, here's how we finish them(and all ALPRs)",
+      "channel": "Louis Rossmann",
+      "videoId": "Cj5YaNQSRyE",
+      "viewsPerHour": 7683,
+      "views": 96774,
+      "ageHours": 12.6
     },
     {
       "title": "Earth Is A Cradle But Not A Grave",
       "channel": "The Rest Is Science",
       "videoId": "7R06bDgZLCQ",
-      "viewsPerHour": 7358,
-      "views": 274385,
-      "ageHours": 37.3
+      "viewsPerHour": 7068,
+      "views": 277723,
+      "ageHours": 39.3
+    },
+    {
+      "title": "Trump-tied group bought a house for former Greenland politician, Danish report says",
+      "channel": "MS NOW",
+      "videoId": "pN3tWUkYk9U",
+      "viewsPerHour": 3728,
+      "views": 20013,
+      "ageHours": 5.4
+    },
+    {
+      "title": "ICE shoots Door Dasher, imprisons him with bullet in his back",
+      "channel": "MS NOW",
+      "videoId": "Q6EZJyReb3w",
+      "viewsPerHour": 2390,
+      "views": 13355,
+      "ageHours": 5.6
+    },
+    {
+      "title": "Maddow: Why the Constitution and the American spirit are against Trump's war on the free press",
+      "channel": "MS NOW",
+      "videoId": "39TXDINi2B4",
+      "viewsPerHour": 2362,
+      "views": 13260,
+      "ageHours": 5.6
     },
     {
       "title": "Joel McHale (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ehda7OyjnuA",
-      "viewsPerHour": 2333,
+      "viewsPerHour": 2148,
       "views": 54347,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "The Bizarre Roswell Rock That Defies Explanation | In Search of Aliens (S1)",
       "channel": "History",
       "videoId": "grG5KT20vTk",
-      "viewsPerHour": 1928,
-      "views": 77687,
-      "ageHours": 40.3
+      "viewsPerHour": 1850,
+      "views": 78234,
+      "ageHours": 42.3
     },
     {
       "title": "Denuvo sues anonymous discord user for breaking DRM to games that they didn't make",
       "channel": "Louis Rossmann",
       "videoId": "62exWJmTaXg",
-      "viewsPerHour": 1526,
+      "viewsPerHour": 1332,
       "views": 20962,
-      "ageHours": 13.7
-    },
-    {
-      "title": "ENORMOUS MISTAKE': Trump decides AGAINST joining Saudi strikes against Houthis",
-      "channel": "MS NOW",
-      "videoId": "8re08BB8a_o",
-      "viewsPerHour": 895,
-      "views": 21692,
-      "ageHours": 24.2
+      "ageHours": 15.7
     },
     {
       "title": "BREAKING: White House press pool SUSPENDS TV coverage of Trump amid ban",
       "channel": "MS NOW",
       "videoId": "obI8YeVnCVY",
-      "viewsPerHour": 717,
+      "viewsPerHour": 644,
       "views": 12623,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
       "title": "Tic Tac Physics: Can We Explain the Impossible Flight?",
       "channel": "Chris Lehto",
       "videoId": "K_SP_-LN9r0",
-      "viewsPerHour": 617,
-      "views": 8815,
-      "ageHours": 14.3
-    },
-    {
-      "title": "PBS News Hour live episode, Sept. 21, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "J_hIOqUwGsI",
-      "viewsPerHour": 414,
-      "views": 5309,
-      "ageHours": 12.8
+      "viewsPerHour": 568,
+      "views": 9256,
+      "ageHours": 16.3
     },
     {
       "title": "Gwyneth Paltrow Shocked By Secrets Hidden In Her Past | Who Do You Think You Are USA",
       "channel": "Real Stories",
       "videoId": "Hsm89FN6Eh4",
-      "viewsPerHour": 381,
-      "views": 16124,
-      "ageHours": 42.3
+      "viewsPerHour": 367,
+      "views": 16249,
+      "ageHours": 44.3
     },
     {
-      "title": "BREAKING: MS NOW, CNN, and POLITICO filing lawsuit against White House over press ban",
-      "channel": "MS NOW",
-      "videoId": "K5DUcXAv2FU",
-      "viewsPerHour": 243,
-      "views": 5743,
-      "ageHours": 23.7
+      "title": "PBS News Hour live episode, Sept. 21, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "J_hIOqUwGsI",
+      "viewsPerHour": 358,
+      "views": 5309,
+      "ageHours": 14.8
     },
     {
       "title": "The world 'is watching U.S.-Canadian relations very closely' because they could be next: Economist",
       "channel": "MS NOW",
       "videoId": "2nswAnUGHus",
-      "viewsPerHour": 55,
+      "viewsPerHour": 50,
       "views": 972,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
       "title": "WATCH LIVE: Judy Woodruff and Jamelle Bouie discuss the freedom of the press",
       "channel": "PBS NewsHour",
       "videoId": "xsb5RFHiGgk",
-      "viewsPerHour": 45,
+      "viewsPerHour": 40,
       "views": 694,
-      "ageHours": 15.4
+      "ageHours": 17.4
     },
     {
       "title": "WATCH LIVE: Duffy rolls out AI-powered air traffic management tool at DC area airports",
       "channel": "PBS NewsHour",
       "videoId": "ibkVK2XKTes",
-      "viewsPerHour": 33,
+      "viewsPerHour": 30,
       "views": 636,
-      "ageHours": 19.2
+      "ageHours": 21.2
     },
     {
       "title": "I think he's just sacrificing us': Farmers SPEAK OUT on impact of Trump's policies",
       "channel": "MS NOW",
       "videoId": "OUDCPNRfdUo",
-      "viewsPerHour": 31,
+      "viewsPerHour": 28,
       "views": 541,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
       "title": "How abortion drug restrictions make it harder to treat other conditions",
       "channel": "PBS NewsHour",
       "videoId": "JSm-j3MC9nI",
-      "viewsPerHour": 3,
+      "viewsPerHour": 2,
       "views": 31,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "WATCH LIVE: Vance speaks at GOP midterm election rally in North Carolina",
@@ -714,7 +766,7 @@
       "videoId": "Z56Yf0hy_gU",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 18.4
+      "ageHours": 20.4
     },
     {
       "title": "WATCH LIVE: Day 1 of the 2026 United Nations General Assembly",
@@ -722,7 +774,7 @@
       "videoId": "7weLF2kowqQ",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 19.5
+      "ageHours": 21.5
     }
   ]
 }
