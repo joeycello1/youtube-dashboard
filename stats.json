@@ -2,19 +2,23 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 5
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 3
+      "count": 4
     },
     {
       "channel": "Louis Rossmann",
-      "count": 20
+      "count": 21
     },
     {
       "channel": "The Daily Show",
-      "count": 11
+      "count": 13
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 5
+    },
+    {
+      "channel": "History",
+      "count": 63
     },
     {
       "channel": "Chris Lehto",
@@ -35,10 +39,6 @@
     {
       "channel": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "channel": "History",
-      "count": 62
     },
     {
       "channel": "Real Stories",
@@ -74,7 +74,7 @@
     },
     {
       "channel": "Jonathan Pie",
-      "count": 5
+      "count": 4
     },
     {
       "channel": "Inside AI",
@@ -84,23 +84,31 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 5
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 3
+      "count": 4
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 20
+      "count": 21
     },
     {
       "keyword": "The Daily Show",
-      "count": 8
+      "count": 9
+    },
+    {
+      "keyword": "PBS NewsHour, AI",
+      "count": 1
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 4
     },
     {
       "keyword": "The Daily Show, AI",
-      "count": 2
+      "count": 3
+    },
+    {
+      "keyword": "UFO",
+      "count": 40
     },
     {
       "keyword": "The Daily Show, AI, MS NOW",
@@ -125,10 +133,6 @@
     {
       "keyword": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "keyword": "UFO",
-      "count": 39
     },
     {
       "keyword": "Real Stories",
@@ -180,7 +184,7 @@
     },
     {
       "keyword": "Jonathan Pie",
-      "count": 5
+      "count": 4
     },
     {
       "keyword": "Corbell, George Knapp, UAP, UFO",
@@ -241,8 +245,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-09-23",
+      "videos": 8
+    },
+    {
       "date": "2026-09-22",
-      "videos": 12
+      "videos": 9
     },
     {
       "date": "2026-09-21",
@@ -462,7 +470,7 @@
     },
     {
       "date": "2026-07-25",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-06-14",
@@ -472,23 +480,31 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 5
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 3
+      "matches": 4
     },
     {
       "keyword": "Louis Rossmann",
-      "matches": 11
+      "matches": 12
     },
     {
       "keyword": "The Daily Show",
       "matches": 8
     },
     {
+      "keyword": "PBS NewsHour, AI",
+      "matches": 1
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 4
+    },
+    {
       "keyword": "The Daily Show, AI",
-      "matches": 2
+      "matches": 3
+    },
+    {
+      "keyword": "UFO",
+      "matches": 7
     },
     {
       "keyword": "The Daily Show, AI, MS NOW",
@@ -500,7 +516,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "Last Week Tonight",
@@ -513,10 +529,6 @@
     {
       "keyword": "The Rest Is Science",
       "matches": 2
-    },
-    {
-      "keyword": "UFO",
-      "matches": 6
     },
     {
       "keyword": "Real Stories",
@@ -560,121 +572,153 @@
       "title": "White House Bans Media Outlets & MAGA Embraces AI While Demonizing Immigrants | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "k6WLJ5co3PE",
-      "viewsPerHour": 174029,
-      "views": 5421980,
-      "ageHours": 31.2
+      "viewsPerHour": 164883,
+      "views": 5467346,
+      "ageHours": 33.2
+    },
+    {
+      "title": "Trump Talks S**t at the U.N., Rebrands AI as \"Superintelligence\" & Praises Mamdani | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "P-UucwAj0aQ",
+      "viewsPerHour": 161562,
+      "views": 1663392,
+      "ageHours": 10.3
+    },
+    {
+      "title": "Tom Morello On “Everyone Gets Everything They Want” & Power to the People Festival | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "0Y3tvfR8yXw",
+      "viewsPerHour": 10537,
+      "views": 92878,
+      "ageHours": 8.8
     },
     {
       "title": "Trump's WH Press Ban Riles Even Fox News & D.C. Arch to Double as Military Complex? | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "RvK8jkSTN9Q",
-      "viewsPerHour": 9398,
-      "views": 299483,
-      "ageHours": 31.9
+      "viewsPerHour": 8902,
+      "views": 301507,
+      "ageHours": 33.9
+    },
+    {
+      "title": "Bill to \"block piracy\" in foreign countries introduced 🤦‍♂️ DMCA-adjacent laws become EVEN WORSE!",
+      "channel": "Louis Rossmann",
+      "videoId": "QrAhwf-hkVU",
+      "viewsPerHour": 7401,
+      "views": 49444,
+      "ageHours": 6.7
     },
     {
       "title": "Ari Emanuel on Channeling Rage and Ego Into Hollywood Success | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ctuvImgGpvE",
-      "viewsPerHour": 6731,
-      "views": 207260,
-      "ageHours": 30.8
+      "viewsPerHour": 6372,
+      "views": 208972,
+      "ageHours": 32.8
+    },
+    {
+      "title": "WATCH LIVE: Senate meets as Trump addresses UN, dismisses AI concerns",
+      "channel": "PBS NewsHour",
+      "videoId": "NY7b0QvTAF0",
+      "viewsPerHour": 3598,
+      "views": 35702,
+      "ageHours": 9.9
     },
     {
       "title": "Flock is down, here's how we finish them(and all ALPRs)",
       "channel": "Louis Rossmann",
       "videoId": "Cj5YaNQSRyE",
-      "viewsPerHour": 2798,
+      "viewsPerHour": 2644,
       "views": 96774,
-      "ageHours": 34.6
+      "ageHours": 36.6
+    },
+    {
+      "title": "Unexplained Cattle Death | The Secret of Skinwalker Ranch (S1, E7) | Full Episode",
+      "channel": "History",
+      "videoId": "VRngZnirTrg",
+      "viewsPerHour": 1713,
+      "views": 21075,
+      "ageHours": 12.3
     },
     {
       "title": "VERY striking': Maggie Haberman shares the REAL REASON behind Trump's shrinking inner circle",
       "channel": "MS NOW",
       "videoId": "M7TlVUR-BUg",
-      "viewsPerHour": 1989,
+      "viewsPerHour": 1704,
       "views": 23797,
-      "ageHours": 12
+      "ageHours": 14
     },
     {
-      "title": "Joel McHale (Full Episode) | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "ehda7OyjnuA",
-      "viewsPerHour": 1149,
-      "views": 54347,
-      "ageHours": 47.3
-    },
-    {
-      "title": "Trump-tied group bought a house for former Greenland politician, Danish report says",
+      "title": "Iran war exposes fragility of oil choke points",
       "channel": "MS NOW",
-      "videoId": "pN3tWUkYk9U",
-      "viewsPerHour": 731,
-      "views": 20013,
-      "ageHours": 27.4
+      "videoId": "A33HtqHDmjU",
+      "viewsPerHour": 690,
+      "views": 1390,
+      "ageHours": 2
     },
     {
       "title": "Denuvo sues anonymous discord user for breaking DRM to games that they didn't make",
       "channel": "Louis Rossmann",
       "videoId": "62exWJmTaXg",
-      "viewsPerHour": 555,
+      "viewsPerHour": 527,
       "views": 20962,
-      "ageHours": 37.7
-    },
-    {
-      "title": "ICE shoots Door Dasher, imprisons him with bullet in his back",
-      "channel": "MS NOW",
-      "videoId": "Q6EZJyReb3w",
-      "viewsPerHour": 484,
-      "views": 13355,
-      "ageHours": 27.6
-    },
-    {
-      "title": "Maddow: Why the Constitution and the American spirit are against Trump's war on the free press",
-      "channel": "MS NOW",
-      "videoId": "39TXDINi2B4",
-      "viewsPerHour": 480,
-      "views": 13260,
-      "ageHours": 27.6
+      "ageHours": 39.7
     },
     {
       "title": "PBS News Hour live episode, Sept. 22, 2026",
       "channel": "PBS NewsHour",
       "videoId": "Kx7i8X-9siU",
-      "viewsPerHour": 369,
+      "viewsPerHour": 321,
       "views": 4868,
-      "ageHours": 13.2
+      "ageHours": 15.2
     },
     {
       "title": "Tic Tac Physics: Can We Explain the Impossible Flight?",
       "channel": "Chris Lehto",
       "videoId": "K_SP_-LN9r0",
-      "viewsPerHour": 319,
-      "views": 12236,
-      "ageHours": 38.3
+      "viewsPerHour": 305,
+      "views": 12288,
+      "ageHours": 40.3
+    },
+    {
+      "title": "“Folks are paying attention to Iowa this year,” as Democrats work to flip the House",
+      "channel": "MS NOW",
+      "videoId": "hXH9njFz2Xs",
+      "viewsPerHour": 266,
+      "views": 530,
+      "ageHours": 2
     },
     {
       "title": "We're gonna get CRUSHED': GOP candidates SCRAMBLING because of Trump's historically bad polls",
       "channel": "MS NOW",
       "videoId": "_MtPgwiMNPc",
-      "viewsPerHour": 283,
+      "viewsPerHour": 242,
       "views": 3306,
-      "ageHours": 11.7
+      "ageHours": 13.7
     },
     {
       "title": "News Wrap: Grand jury declines to bring charges in death of Nolan Wells",
       "channel": "PBS NewsHour",
       "videoId": "3owPwbVxhBk",
-      "viewsPerHour": 24,
+      "viewsPerHour": 21,
       "views": 289,
-      "ageHours": 11.9
+      "ageHours": 13.9
     },
     {
       "title": "What the Paramount -Warner Bros. merger settlement means for Hollywood",
       "channel": "PBS NewsHour",
       "videoId": "XipjqWDLYX8",
-      "viewsPerHour": 8,
+      "viewsPerHour": 7,
       "views": 99,
-      "ageHours": 11.8
+      "ageHours": 13.8
+    },
+    {
+      "title": "WATCH LIVE: Day 2 of the 2026 United Nations General Assembly",
+      "channel": "PBS NewsHour",
+      "videoId": "hnv9iw5rI3I",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 10.3
     },
     {
       "title": "When normal people have enough: Taylor TX woman runs against incumbent County Commissioner",
@@ -682,7 +726,7 @@
       "videoId": "w6Pki6BzGO8",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 14.8
+      "ageHours": 16.8
     }
   ]
 }
