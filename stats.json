@@ -1,8 +1,16 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 7
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 23
+    },
+    {
       "channel": "MS NOW",
-      "count": 4
+      "count": 5
     },
     {
       "channel": "More Perfect Union",
@@ -10,7 +18,7 @@
     },
     {
       "channel": "Real Stories",
-      "count": 45
+      "count": 44
     },
     {
       "channel": "Jonathan Pie",
@@ -21,16 +29,8 @@
       "count": 10
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 7
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 22
-    },
-    {
       "channel": "The Daily Show",
-      "count": 13
+      "count": 12
     },
     {
       "channel": "NOVA",
@@ -42,7 +42,7 @@
     },
     {
       "channel": "History",
-      "count": 62
+      "count": 61
     },
     {
       "channel": "Chris Lehto",
@@ -83,8 +83,16 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "PBS NewsHour",
+      "count": 7
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 23
+    },
+    {
       "keyword": "MS NOW",
-      "count": 4
+      "count": 5
     },
     {
       "keyword": "More Perfect Union",
@@ -103,20 +111,12 @@
       "count": 10
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 7
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 22
-    },
-    {
       "keyword": "The Daily Show",
-      "count": 9
+      "count": 8
     },
     {
       "keyword": "NOVA",
-      "count": 34
+      "count": 33
     },
     {
       "keyword": "The Rest Is Science",
@@ -228,7 +228,7 @@
     },
     {
       "keyword": "Real Stories, Louis Theroux",
-      "count": 4
+      "count": 3
     },
     {
       "keyword": "UFO, UAP",
@@ -242,11 +242,11 @@
   "dailySummary": [
     {
       "date": "2026-09-24",
-      "videos": 16
+      "videos": 22
     },
     {
       "date": "2026-09-23",
-      "videos": 15
+      "videos": 11
     },
     {
       "date": "2026-09-22",
@@ -270,7 +270,7 @@
     },
     {
       "date": "2026-09-17",
-      "videos": 11
+      "videos": 10
     },
     {
       "date": "2026-09-16",
@@ -465,18 +465,22 @@
       "videos": 4
     },
     {
-      "date": "2026-07-26",
-      "videos": 2
-    },
-    {
       "date": "2026-06-14",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour",
+      "matches": 7
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 12
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 4
+      "matches": 5
     },
     {
       "keyword": "More Perfect Union",
@@ -493,14 +497,6 @@
     {
       "keyword": "Conan O'Brien",
       "matches": 5
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 7
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 11
     },
     {
       "keyword": "The Daily Show",
@@ -564,249 +560,257 @@
       "title": "Trump Can’t Find Rubio, Pirro Tackles Meteorite Corruption & Melania Gets a Sequel | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "W7009vJkPA8",
-      "viewsPerHour": 80614,
-      "views": 1633816,
-      "ageHours": 20.3
+      "viewsPerHour": 76704,
+      "views": 1709710,
+      "ageHours": 22.3
     },
     {
       "title": "Trump Talks S**t at the U.N., Rebrands AI as \"Superintelligence\" & Praises Mamdani | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "P-UucwAj0aQ",
-      "viewsPerHour": 77266,
-      "views": 3421974,
-      "ageHours": 44.3
+      "viewsPerHour": 75235,
+      "views": 3484195,
+      "ageHours": 46.3
     },
     {
       "title": "Midterm Anal-a-Zone: Hot Dog Rage, BDSM Pics & Salsa with a Side of Racism | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "-vydnMiw1PM",
-      "viewsPerHour": 54122,
-      "views": 582432,
-      "ageHours": 10.8
+      "viewsPerHour": 51580,
+      "views": 659397,
+      "ageHours": 12.8
     },
     {
       "title": "We Uncovered The Radical Solution To Our Rigged Tax Code",
       "channel": "More Perfect Union",
       "videoId": "ihIJZ8HHNhY",
-      "viewsPerHour": 27170,
-      "views": 157058,
-      "ageHours": 5.8
+      "viewsPerHour": 29235,
+      "views": 228124,
+      "ageHours": 7.8
     },
     {
       "title": "Jessica Tarlov - “I Disagree: Winning Arguments Without Losing Friends” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "q27E9n7Tomg",
-      "viewsPerHour": 25263,
-      "views": 474811,
-      "ageHours": 18.8
+      "viewsPerHour": 25036,
+      "views": 521177,
+      "ageHours": 20.8
+    },
+    {
+      "title": "BREAKING: Lawyer who DEFEATED Trump's ban on MS NOW in court speaks out for FIRST TIME",
+      "channel": "MS NOW",
+      "videoId": "I_hVoQKWFJs",
+      "viewsPerHour": 13325,
+      "views": 42544,
+      "ageHours": 3.2
     },
     {
       "title": "Hannah's Favorite Fountain Pens",
       "channel": "The Rest Is Science",
       "videoId": "pV6MWmXo_Ss",
-      "viewsPerHour": 8369,
-      "views": 194236,
-      "ageHours": 23.2
+      "viewsPerHour": 8274,
+      "views": 208753,
+      "ageHours": 25.2
     },
     {
       "title": "Beyond Area 51 | Ancient Aliens",
       "channel": "History",
       "videoId": "daKi33dnA_0",
-      "viewsPerHour": 6256,
-      "views": 189478,
-      "ageHours": 30.3
+      "viewsPerHour": 6027,
+      "views": 194731,
+      "ageHours": 32.3
     },
     {
       "title": "Tom Morello On “Everyone Gets Everything They Want” & Power to the People Festival | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "0Y3tvfR8yXw",
-      "viewsPerHour": 5720,
-      "views": 244840,
-      "ageHours": 42.8
+      "viewsPerHour": 5576,
+      "views": 249988,
+      "ageHours": 44.8
+    },
+    {
+      "title": "revoking my endorsement of privacy.com",
+      "channel": "Louis Rossmann",
+      "videoId": "1P1y5YhMHXs",
+      "viewsPerHour": 4978,
+      "views": 15411,
+      "ageHours": 3.1
     },
     {
       "title": "PBS News Hour full episode, Sept. 23, 2026",
       "channel": "PBS NewsHour",
       "videoId": "to__W0CirZ8",
-      "viewsPerHour": 4802,
+      "viewsPerHour": 4409,
       "views": 108934,
-      "ageHours": 22.7
+      "ageHours": 24.7
     },
     {
       "title": "The End of The World",
       "channel": "Jonathan Pie",
       "videoId": "L0-lMb0NLTk",
-      "viewsPerHour": 4288,
-      "views": 29626,
-      "ageHours": 6.9
+      "viewsPerHour": 4370,
+      "views": 39029,
+      "ageHours": 8.9
     },
     {
       "title": "LIVE University of Michigan Students vs Billionaires Town Hall ft. Abdul El-Sayed",
       "channel": "More Perfect Union",
       "videoId": "EBN0F7o9_38",
-      "viewsPerHour": 2647,
-      "views": 65077,
-      "ageHours": 24.6
+      "viewsPerHour": 2486,
+      "views": 66138,
+      "ageHours": 26.6
     },
     {
       "title": "Trump's nominee to lead the FDA testifies in front of the Senate",
       "channel": "MS NOW",
       "videoId": "oYRmXhVm3zM",
-      "viewsPerHour": 2252,
+      "viewsPerHour": 1651,
       "views": 12510,
-      "ageHours": 5.6
+      "ageHours": 7.6
+    },
+    {
+      "title": "Some Republicans changing their tune on Trump's policies",
+      "channel": "MS NOW",
+      "videoId": "qoNOsIBSHqk",
+      "viewsPerHour": 1597,
+      "views": 5443,
+      "ageHours": 3.4
+    },
+    {
+      "title": "PBS News Hour live episode, Sept. 24, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "EfeDNDKk7is",
+      "viewsPerHour": 1520,
+      "views": 5292,
+      "ageHours": 3.5
     },
     {
       "title": "WATCH LIVE: Day 3 of the 2026 United Nations General Assembly",
       "channel": "PBS NewsHour",
       "videoId": "TkgrRA0Naqs",
-      "viewsPerHour": 1783,
+      "viewsPerHour": 1469,
       "views": 16842,
-      "ageHours": 9.4
-    },
-    {
-      "title": "Conan Learns About The Art Of Body Modification (Part 2) | Conan O'Brien Needs A Fan",
-      "channel": "Conan O'Brien",
-      "videoId": "jB6VYWbSvHI",
-      "viewsPerHour": 1678,
-      "views": 17258,
-      "ageHours": 10.3
+      "ageHours": 11.5
     },
     {
       "title": "Where is Ken Paxton?",
       "channel": "Louis Rossmann",
       "videoId": "m0Ihs5wfnrk",
-      "viewsPerHour": 1576,
+      "viewsPerHour": 1451,
       "views": 36858,
-      "ageHours": 23.4
+      "ageHours": 25.4
+    },
+    {
+      "title": "Conan Learns About The Art Of Body Modification (Part 2) | Conan O'Brien Needs A Fan",
+      "channel": "Conan O'Brien",
+      "videoId": "jB6VYWbSvHI",
+      "viewsPerHour": 1402,
+      "views": 17258,
+      "ageHours": 12.3
     },
     {
       "title": "Bill to \"block piracy\" in foreign countries introduced 🤦‍♂️ DMCA-adjacent laws become EVEN WORSE!",
       "channel": "Louis Rossmann",
       "videoId": "QrAhwf-hkVU",
-      "viewsPerHour": 1216,
+      "viewsPerHour": 1158,
       "views": 49444,
-      "ageHours": 40.7
-    },
-    {
-      "title": "POV: Louis Rossmann arrives to your corrupt town hall",
-      "channel": "Louis Rossmann",
-      "videoId": "jGCj7dwJleo",
-      "viewsPerHour": 1063,
-      "views": 31349,
-      "ageHours": 29.5
+      "ageHours": 42.7
     },
     {
       "title": "No GPS. No Compass. Navigating the Subarctic Wilderness | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "r3x--geJngE",
-      "viewsPerHour": 1053,
-      "views": 30255,
-      "ageHours": 28.7
+      "viewsPerHour": 995,
+      "views": 30596,
+      "ageHours": 30.8
+    },
+    {
+      "title": "POV: Louis Rossmann arrives to your corrupt town hall",
+      "channel": "Louis Rossmann",
+      "videoId": "jGCj7dwJleo",
+      "viewsPerHour": 995,
+      "views": 31349,
+      "ageHours": 31.5
     },
     {
       "title": "Inside America's Most Shocking Police Torture Scandal",
       "channel": "Real Stories",
       "videoId": "E6fnIw8h9e4",
-      "viewsPerHour": 955,
-      "views": 6007,
-      "ageHours": 6.3
-    },
-    {
-      "title": "Tish Flores runs for office in response to taylor datacenter corruption",
-      "channel": "Louis Rossmann",
-      "videoId": "6MlIInowLBk",
-      "viewsPerHour": 922,
-      "views": 8761,
-      "ageHours": 9.5
+      "viewsPerHour": 949,
+      "views": 7894,
+      "ageHours": 8.3
     },
     {
       "title": "Interview: What Are Dogs Saying? Cracking Animal Language w/ Federico Rossano | Particles of Thought",
       "channel": "NOVA",
       "videoId": "XS3grn2h6DQ",
-      "viewsPerHour": 898,
-      "views": 11033,
-      "ageHours": 12.3
+      "viewsPerHour": 837,
+      "views": 11984,
+      "ageHours": 14.3
+    },
+    {
+      "title": "Tish Flores runs for office in response to taylor datacenter corruption",
+      "channel": "Louis Rossmann",
+      "videoId": "6MlIInowLBk",
+      "viewsPerHour": 760,
+      "views": 8761,
+      "ageHours": 11.5
     },
     {
       "title": "WATCH LIVE: Senators question Heidi Overton in confirmation hearing for FDA commissioner",
       "channel": "PBS NewsHour",
       "videoId": "dGZkn55BTsg",
-      "viewsPerHour": 817,
+      "viewsPerHour": 660,
       "views": 6906,
-      "ageHours": 8.4
-    },
-    {
-      "title": "Unexplained Cattle Death | The Secret of Skinwalker Ranch (S1, E7) | Full Episode",
-      "channel": "History",
-      "videoId": "VRngZnirTrg",
-      "viewsPerHour": 691,
-      "views": 31991,
-      "ageHours": 46.3
+      "ageHours": 10.5
     },
     {
       "title": "Weissmann: Judge 'could jail people' if WH fails to comply with press access order",
       "channel": "MS NOW",
       "videoId": "Q4J3t6je1R0",
-      "viewsPerHour": 503,
+      "viewsPerHour": 371,
       "views": 2857,
-      "ageHours": 5.7
-    },
-    {
-      "title": "He SHOULD have egg on his face': Jim Acosta's SCATHING message to Trump for 'disgusting' policies",
-      "channel": "MS NOW",
-      "videoId": "Pzd1WyH15eI",
-      "viewsPerHour": 325,
-      "views": 7902,
-      "ageHours": 24.3
+      "ageHours": 7.7
     },
     {
       "title": "WATCH LIVE: Senate convenes as lawmakers consider another war powers vote on Iran",
       "channel": "PBS NewsHour",
       "videoId": "B4_2yPl8rDg",
-      "viewsPerHour": 276,
+      "viewsPerHour": 224,
       "views": 2386,
-      "ageHours": 8.6
-    },
-    {
-      "title": "PBS News Hour live episode, Sept. 23, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "3u5xv-0nrX8",
-      "viewsPerHour": 209,
-      "views": 5306,
-      "ageHours": 25.4
-    },
-    {
-      "title": "Seems as though we have been regranted our access': MS NOW WH Reporter",
-      "channel": "MS NOW",
-      "videoId": "rmQg10YUmBY",
-      "viewsPerHour": 166,
-      "views": 924,
-      "ageHours": 5.6
+      "ageHours": 10.7
     },
     {
       "title": "Kesha Had Her First Kiss Outside Of A Megachurch | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "RHZjeV_iJAQ",
-      "viewsPerHour": 164,
+      "viewsPerHour": 129,
       "views": 1198,
-      "ageHours": 7.3
+      "ageHours": 9.3
     },
     {
-      "title": "News Wrap: FBI investigating hacking group's claim it breached jobs website",
-      "channel": "PBS NewsHour",
-      "videoId": "W3cOJPQF0pk",
-      "viewsPerHour": 20,
-      "views": 482,
-      "ageHours": 23.7
+      "title": "Seems as though we have been regranted our access': MS NOW WH Reporter",
+      "channel": "MS NOW",
+      "videoId": "rmQg10YUmBY",
+      "viewsPerHour": 122,
+      "views": 924,
+      "ageHours": 7.6
     },
     {
-      "title": "New poll reveals how Trump's low approval might affect midterms",
+      "title": "News Wrap: Netanyahu calls allegations of genocide in Gaza ‘the biggest lie'",
       "channel": "PBS NewsHour",
-      "videoId": "jxy1Txou1oU",
-      "viewsPerHour": 7,
-      "views": 164,
-      "ageHours": 23.6
+      "videoId": "OsEr0qB9vTc",
+      "viewsPerHour": 116,
+      "views": 188,
+      "ageHours": 1.6
+    },
+    {
+      "title": "How the diesel price spike is rippling through nearly every part of the economy",
+      "channel": "PBS NewsHour",
+      "videoId": "mSaGPAYvzTs",
+      "viewsPerHour": 40,
+      "views": 62,
+      "ageHours": 1.5
     }
   ]
 }
