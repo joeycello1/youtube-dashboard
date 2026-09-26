@@ -5,24 +5,32 @@
       "count": 7
     },
     {
+      "channel": "Louis Rossmann",
+      "count": 23
+    },
+    {
+      "channel": "Jeremy Corbell",
+      "count": 8
+    },
+    {
       "channel": "MS NOW",
       "count": 5
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 10
     },
     {
       "channel": "History",
       "count": 62
     },
     {
-      "channel": "Conan O'Brien",
-      "count": 9
-    },
-    {
       "channel": "The Daily Show",
       "count": 12
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 22
+      "channel": "NOVA",
+      "count": 21
     },
     {
       "channel": "More Perfect Union",
@@ -35,10 +43,6 @@
     {
       "channel": "Jonathan Pie",
       "count": 5
-    },
-    {
-      "channel": "NOVA",
-      "count": 20
     },
     {
       "channel": "The Rest Is Science",
@@ -58,10 +62,6 @@
     },
     {
       "channel": "The Interview",
-      "count": 6
-    },
-    {
-      "channel": "Jeremy Corbell",
       "count": 6
     },
     {
@@ -87,16 +87,28 @@
       "count": 6
     },
     {
+      "keyword": "Louis Rossmann",
+      "count": 23
+    },
+    {
+      "keyword": "Corbell, UAP, UFO, George Knapp",
+      "count": 1
+    },
+    {
       "keyword": "MS NOW",
       "count": 5
     },
     {
-      "keyword": "NOVA",
-      "count": 34
+      "keyword": "Corbell, UFO, George Knapp",
+      "count": 3
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 9
+      "count": 10
+    },
+    {
+      "keyword": "NOVA",
+      "count": 35
     },
     {
       "keyword": "The Daily Show",
@@ -105,10 +117,6 @@
     {
       "keyword": "PBS NewsHour, AI",
       "count": 1
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 22
     },
     {
       "keyword": "More Perfect Union",
@@ -165,10 +173,6 @@
     {
       "keyword": "Corbell, UFO, whistleblower, George Knapp, UAP",
       "count": 1
-    },
-    {
-      "keyword": "Corbell, UFO, George Knapp",
-      "count": 2
     },
     {
       "keyword": "AI, artificial intelligence",
@@ -246,11 +250,11 @@
   "dailySummary": [
     {
       "date": "2026-09-25",
-      "videos": 10
+      "videos": 19
     },
     {
       "date": "2026-09-24",
-      "videos": 18
+      "videos": 14
     },
     {
       "date": "2026-09-23",
@@ -483,15 +487,27 @@
       "matches": 6
     },
     {
+      "keyword": "Louis Rossmann",
+      "matches": 12
+    },
+    {
+      "keyword": "Corbell, UAP, UFO, George Knapp",
+      "matches": 1
+    },
+    {
       "keyword": "MS NOW",
       "matches": 5
     },
     {
-      "keyword": "NOVA",
-      "matches": 3
+      "keyword": "Corbell, UFO, George Knapp",
+      "matches": 1
     },
     {
       "keyword": "Conan O'Brien",
+      "matches": 5
+    },
+    {
+      "keyword": "NOVA",
       "matches": 4
     },
     {
@@ -501,10 +517,6 @@
     {
       "keyword": "PBS NewsHour, AI",
       "matches": 1
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 11
     },
     {
       "keyword": "More Perfect Union",
@@ -560,241 +572,265 @@
       "title": "Trump Spooked by Plane at Xi Meeting & Sen. Tuberville Rails Against Flying Furries | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "DhNEcUGaVmI",
-      "viewsPerHour": 122181,
-      "views": 2485260,
-      "ageHours": 20.3
+      "viewsPerHour": 116096,
+      "views": 2589669,
+      "ageHours": 22.3
     },
     {
       "title": "Tech Yeah: Eavesdropping Smart Watches, Humanoid Games & Busty Robo-Companions | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "oCJ88M2Sc9M",
-      "viewsPerHour": 48146,
-      "views": 519813,
-      "ageHours": 10.8
+      "viewsPerHour": 45669,
+      "views": 582841,
+      "ageHours": 12.8
     },
     {
       "title": "Trump Can’t Find Rubio, Pirro Tackles Meteorite Corruption & Melania Gets a Sequel | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "W7009vJkPA8",
-      "viewsPerHour": 43491,
-      "views": 1926818,
-      "ageHours": 44.3
+      "viewsPerHour": 41903,
+      "views": 1938826,
+      "ageHours": 46.3
     },
     {
       "title": "Midterm Anal-a-Zone: Hot Dog Rage, BDSM Pics & Salsa with a Side of Racism | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "-vydnMiw1PM",
-      "viewsPerHour": 26332,
-      "views": 916288,
-      "ageHours": 34.8
+      "viewsPerHour": 25240,
+      "views": 927924,
+      "ageHours": 36.8
     },
     {
       "title": "Jessica Tarlov - “I Disagree: Winning Arguments Without Losing Friends” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "q27E9n7Tomg",
-      "viewsPerHour": 16372,
-      "views": 701251,
-      "ageHours": 42.8
+      "viewsPerHour": 15954,
+      "views": 714696,
+      "ageHours": 44.8
     },
     {
       "title": "We Uncovered The Radical Solution To Our Rigged Tax Code",
       "channel": "More Perfect Union",
       "videoId": "ihIJZ8HHNhY",
-      "viewsPerHour": 16217,
-      "views": 483538,
-      "ageHours": 29.8
+      "viewsPerHour": 15521,
+      "views": 493312,
+      "ageHours": 31.8
     },
     {
-      "title": "Merritt Wever’s Late Night Debut & “Primetime” | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "3o1Jr7QdwwU",
-      "viewsPerHour": 7852,
-      "views": 147905,
-      "ageHours": 18.8
+      "title": "ALERT: Trump-aligned Supreme Court justices hand Trump STUNNING voter suppression win",
+      "channel": "MS NOW",
+      "videoId": "MtJSuP1qYH8",
+      "viewsPerHour": 8412,
+      "views": 24581,
+      "ageHours": 2.9
     },
     {
       "title": "Closing in on the Vault | The Curse of Oak Island",
       "channel": "History",
       "videoId": "7Mnv2IgQYGU",
-      "viewsPerHour": 6839,
-      "views": 43291,
-      "ageHours": 6.3
+      "viewsPerHour": 7894,
+      "views": 65488,
+      "ageHours": 8.3
     },
     {
-      "title": "Hannah's Favorite Fountain Pens",
-      "channel": "The Rest Is Science",
-      "videoId": "pV6MWmXo_Ss",
-      "viewsPerHour": 5772,
-      "views": 272702,
-      "ageHours": 47.2
+      "title": "Merritt Wever’s Late Night Debut & “Primetime” | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "3o1Jr7QdwwU",
+      "viewsPerHour": 7513,
+      "views": 156284,
+      "ageHours": 20.8
     },
     {
       "title": "PBS News Hour full episode, Sept. 24, 2026",
       "channel": "PBS NewsHour",
       "videoId": "8VZkLRotXFg",
-      "viewsPerHour": 5109,
+      "viewsPerHour": 4705,
       "views": 116811,
-      "ageHours": 22.9
+      "ageHours": 24.8
     },
     {
       "title": "BREAKING: Supreme Court RESTORES Trump's voter verification system",
       "channel": "MS NOW",
       "videoId": "IedzyVzqdec",
-      "viewsPerHour": 3215,
+      "viewsPerHour": 2434,
       "views": 19713,
-      "ageHours": 6.1
+      "ageHours": 8.1
+    },
+    {
+      "title": "Pursue UAP Release #6 — The UFO Files The Government Still Can’t Find",
+      "channel": "Jeremy Corbell",
+      "videoId": "8FXCiExnziU",
+      "viewsPerHour": 2366,
+      "views": 5432,
+      "ageHours": 2.3
+    },
+    {
+      "title": "PBS News Hour live episode, Sept. 25, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "0YeBwgLB8CM",
+      "viewsPerHour": 1781,
+      "views": 5307,
+      "ageHours": 3
     },
     {
       "title": "The End of The World",
       "channel": "Jonathan Pie",
       "videoId": "L0-lMb0NLTk",
-      "viewsPerHour": 1743,
-      "views": 53947,
-      "ageHours": 30.9
+      "viewsPerHour": 1654,
+      "views": 54432,
+      "ageHours": 32.9
     },
     {
-      "title": "BREAKING: Lawyer who DEFEATED Trump's ban on MS NOW in court speaks out for FIRST TIME",
-      "channel": "MS NOW",
-      "videoId": "I_hVoQKWFJs",
-      "viewsPerHour": 1688,
-      "views": 42544,
-      "ageHours": 25.2
+      "title": "Billy Madison vs The Breakfast Club: What's the Best School Movie? | Bley's Arcade",
+      "channel": "Conan O'Brien",
+      "videoId": "_kya_HEPLUo",
+      "viewsPerHour": 1443,
+      "views": 9084,
+      "ageHours": 6.3
+    },
+    {
+      "title": "“WHERE ARE THE MISSING UFO FILES?”",
+      "channel": "Jeremy Corbell",
+      "videoId": "WxxOVPXvA7c",
+      "viewsPerHour": 1231,
+      "views": 6135,
+      "ageHours": 5
     },
     {
       "title": "Conan Talks About His New Band \"The Vigodas\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "djBGFjSAxmI",
-      "viewsPerHour": 1415,
+      "viewsPerHour": 1188,
       "views": 14607,
-      "ageHours": 10.3
+      "ageHours": 12.3
     },
     {
       "title": "Lock of hair settles questions about Thomas Jefferson and Sally Hemings",
       "channel": "PBS NewsHour",
       "videoId": "7PK0K2aHFxs",
-      "viewsPerHour": 1278,
+      "viewsPerHour": 1178,
       "views": 29440,
-      "ageHours": 23
+      "ageHours": 25
     },
     {
-      "title": "Where is Ken Paxton?",
+      "title": "I'm finally legit",
       "channel": "Louis Rossmann",
-      "videoId": "m0Ihs5wfnrk",
-      "viewsPerHour": 777,
-      "views": 36858,
-      "ageHours": 47.4
-    },
-    {
-      "title": "WATCH LIVE: Trump greets Xi as Chinese leader's state visit wraps up",
-      "channel": "PBS NewsHour",
-      "videoId": "1Qx9hGxmAGo",
-      "viewsPerHour": 653,
-      "views": 4895,
-      "ageHours": 7.5
+      "videoId": "AUbpYkLl8Bs",
+      "viewsPerHour": 1060,
+      "views": 2113,
+      "ageHours": 2
     },
     {
       "title": "revoking my endorsement of privacy.com",
       "channel": "Louis Rossmann",
       "videoId": "1P1y5YhMHXs",
-      "viewsPerHour": 614,
+      "viewsPerHour": 569,
       "views": 15411,
-      "ageHours": 25.1
+      "ageHours": 27.1
     },
     {
-      "title": "Watching Trump 'kiss the a**' of authoritarians and dictators is 'un-American': Dem Rep. SLAMS",
-      "channel": "MS NOW",
-      "videoId": "y9fOkGBm5-I",
-      "viewsPerHour": 583,
-      "views": 3599,
-      "ageHours": 6.2
+      "title": "WATCH LIVE: Trump greets Xi as Chinese leader's state visit wraps up",
+      "channel": "PBS NewsHour",
+      "videoId": "1Qx9hGxmAGo",
+      "viewsPerHour": 517,
+      "views": 4895,
+      "ageHours": 9.5
     },
     {
       "title": "Conan Learns About The Art Of Body Modification (Part 2) | Conan O'Brien Needs A Fan",
       "channel": "Conan O'Brien",
       "videoId": "jB6VYWbSvHI",
-      "viewsPerHour": 503,
+      "viewsPerHour": 476,
       "views": 17258,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
       "title": "Interview: What Are Dogs Saying? Cracking Animal Language w/ Federico Rossano | Particles of Thought",
       "channel": "NOVA",
       "videoId": "XS3grn2h6DQ",
-      "viewsPerHour": 466,
-      "views": 16939,
-      "ageHours": 36.3
+      "viewsPerHour": 446,
+      "views": 17076,
+      "ageHours": 38.3
+    },
+    {
+      "title": "Watching Trump 'kiss the a**' of authoritarians and dictators is 'un-American': Dem Rep. SLAMS",
+      "channel": "MS NOW",
+      "videoId": "y9fOkGBm5-I",
+      "viewsPerHour": 442,
+      "views": 3599,
+      "ageHours": 8.1
     },
     {
       "title": "Inside America's Most Shocking Police Torture Scandal",
       "channel": "Real Stories",
       "videoId": "E6fnIw8h9e4",
-      "viewsPerHour": 459,
-      "views": 13933,
-      "ageHours": 30.3
+      "viewsPerHour": 438,
+      "views": 14133,
+      "ageHours": 32.3
+    },
+    {
+      "title": "Put some respect on our names': Angie Nixon's plan to defeat Trump's GOP, urges Dems to 'do more'",
+      "channel": "MS NOW",
+      "videoId": "6883ZQmoD1A",
+      "viewsPerHour": 294,
+      "views": 967,
+      "ageHours": 3.3
     },
     {
       "title": "Tish Flores runs for office in response to taylor datacenter corruption",
       "channel": "Louis Rossmann",
       "videoId": "6MlIInowLBk",
-      "viewsPerHour": 261,
+      "viewsPerHour": 247,
       "views": 8761,
-      "ageHours": 33.5
+      "ageHours": 35.5
     },
     {
-      "title": "Some Republicans changing their tune on Trump's policies",
-      "channel": "MS NOW",
-      "videoId": "qoNOsIBSHqk",
-      "viewsPerHour": 214,
-      "views": 5443,
-      "ageHours": 25.4
-    },
-    {
-      "title": "PBS News Hour live episode, Sept. 24, 2026",
+      "title": "Mexico's foreign secretary on Trump, cartel violence and U.S. trade talks",
       "channel": "PBS NewsHour",
-      "videoId": "EfeDNDKk7is",
-      "viewsPerHour": 208,
-      "views": 5292,
-      "ageHours": 25.5
+      "videoId": "kOjU-NStNcs",
+      "viewsPerHour": 156,
+      "views": 268,
+      "ageHours": 1.7
+    },
+    {
+      "title": "Health care costs a major concern for voters ahead of midterms",
+      "channel": "PBS NewsHour",
+      "videoId": "cc1ClRe3oZw",
+      "viewsPerHour": 47,
+      "views": 76,
+      "ageHours": 1.6
     },
     {
       "title": "Kesha Had Her First Kiss Outside Of A Megachurch | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "RHZjeV_iJAQ",
-      "viewsPerHour": 38,
+      "viewsPerHour": 36,
       "views": 1198,
-      "ageHours": 31.3
-    },
-    {
-      "title": "WATCH: Xi invites Trump to China again this year as U.S. state visit nears end",
-      "channel": "PBS NewsHour",
-      "videoId": "JiYbvg89jlg",
-      "viewsPerHour": 17,
-      "views": 101,
-      "ageHours": 5.8
+      "ageHours": 33.3
     },
     {
       "title": "Velshi Banned Book Club: 'Exit Party' by Emily St. John Mandel",
       "channel": "MS NOW",
       "videoId": "6TdnOP1ZrCw",
-      "viewsPerHour": 17,
+      "viewsPerHour": 15,
       "views": 207,
-      "ageHours": 12
+      "ageHours": 14
     },
     {
-      "title": "News Wrap: Netanyahu calls allegations of genocide in Gaza ‘the biggest lie'",
+      "title": "WATCH: Xi invites Trump to China again this year as U.S. state visit nears end",
       "channel": "PBS NewsHour",
-      "videoId": "OsEr0qB9vTc",
-      "viewsPerHour": 8,
-      "views": 188,
-      "ageHours": 23.6
+      "videoId": "JiYbvg89jlg",
+      "viewsPerHour": 13,
+      "views": 101,
+      "ageHours": 7.8
     },
     {
-      "title": "How the diesel price spike is rippling through nearly every part of the economy",
-      "channel": "PBS NewsHour",
-      "videoId": "mSaGPAYvzTs",
-      "viewsPerHour": 3,
-      "views": 62,
-      "ageHours": 23.6
+      "title": "Stone Age Masterpiece | Full Documentary | NOVA | PBS",
+      "channel": "NOVA",
+      "videoId": "Z8RQwJ9tGDo",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 26.8
     }
   ]
 }
