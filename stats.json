@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 6
+      "count": 4
     },
     {
       "channel": "Chris Lehto",
@@ -19,10 +19,6 @@
     {
       "channel": "The Interview",
       "count": 7
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 1
     },
     {
       "channel": "Louis Rossmann",
@@ -84,7 +80,7 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 4
     },
     {
       "keyword": "AI, artificial intelligence, UAP",
@@ -101,10 +97,6 @@
     {
       "keyword": "The Interview",
       "count": 6
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 1
     },
     {
       "keyword": "Louis Rossmann",
@@ -246,7 +238,7 @@
   "dailySummary": [
     {
       "date": "2026-09-26",
-      "videos": 11
+      "videos": 8
     },
     {
       "date": "2026-09-25",
@@ -480,7 +472,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 4
     },
     {
       "keyword": "AI, artificial intelligence, UAP",
@@ -499,12 +491,8 @@
       "matches": 1
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 1
-    },
-    {
       "keyword": "Louis Rossmann",
-      "matches": 10
+      "matches": 9
     },
     {
       "keyword": "Corbell, UAP, UFO, George Knapp",
@@ -568,145 +556,121 @@
       "title": "Jon Stewart on MAGA's Embrace of AI & Desi Lydic on Trump's U.N. Rant and Xi Meetup | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "IU0eY96lAoI",
-      "viewsPerHour": 26786,
+      "viewsPerHour": 23690,
       "views": 409479,
-      "ageHours": 15.3
+      "ageHours": 17.3
     },
     {
       "title": "Tech Yeah: Eavesdropping Smart Watches, Humanoid Games & Busty Robo-Companions | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "oCJ88M2Sc9M",
-      "viewsPerHour": 21140,
+      "viewsPerHour": 20152,
       "views": 861715,
-      "ageHours": 40.8
+      "ageHours": 42.8
     },
     {
       "title": "Closing in on the Vault | The Curse of Oak Island",
       "channel": "History",
       "videoId": "7Mnv2IgQYGU",
-      "viewsPerHour": 4648,
+      "viewsPerHour": 4406,
       "views": 168720,
-      "ageHours": 36.3
-    },
-    {
-      "title": "WATCH LIVE: Day 4 of the 2026 United Nations General Assembly",
-      "channel": "PBS NewsHour",
-      "videoId": "PABrsqye-sk",
-      "viewsPerHour": 4566,
-      "views": 118679,
-      "ageHours": 26
+      "ageHours": 38.3
     },
     {
       "title": "Sylvester Stallone Hid His Struggles. At 80, He’s Coming Clean. | The Interview",
       "channel": "The Interview",
       "videoId": "ccs-B_nTfZs",
-      "viewsPerHour": 3667,
+      "viewsPerHour": 3250,
       "views": 57006,
-      "ageHours": 15.5
+      "ageHours": 17.5
     },
     {
       "title": "The President who cries ‘NATIONAL SECURITY’",
       "channel": "MS NOW",
       "videoId": "pLd0OaoZWXw",
-      "viewsPerHour": 3433,
+      "viewsPerHour": 2579,
       "views": 20729,
-      "ageHours": 6
-    },
-    {
-      "title": "Trump campaigns in safe spaces to avoid embarrassment and minimize damage",
-      "channel": "MS NOW",
-      "videoId": "r6EnrB41Wbw",
-      "viewsPerHour": 2622,
-      "views": 61710,
-      "ageHours": 23.5
+      "ageHours": 8
     },
     {
       "title": "Pursue UAP Release #6 — The UFO Files The Government Still Can’t Find",
       "channel": "Jeremy Corbell",
       "videoId": "8FXCiExnziU",
-      "viewsPerHour": 2442,
+      "viewsPerHour": 2290,
       "views": 73969,
-      "ageHours": 30.3
-    },
-    {
-      "title": "Texans are ready for a change': Democrat Gina Hinojosa on her campaign for Texas governor",
-      "channel": "MS NOW",
-      "videoId": "_CE-aoD_mLE",
-      "viewsPerHour": 747,
-      "views": 17764,
-      "ageHours": 23.8
+      "ageHours": 32.3
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Sept. 25 | Audio Only",
       "channel": "MS NOW",
       "videoId": "O3R6bx8Kz4A",
-      "viewsPerHour": 747,
+      "viewsPerHour": 688,
       "views": 17395,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "“WHERE ARE THE MISSING UFO FILES?”",
       "channel": "Jeremy Corbell",
       "videoId": "WxxOVPXvA7c",
-      "viewsPerHour": 408,
+      "viewsPerHour": 385,
       "views": 13459,
-      "ageHours": 33
-    },
-    {
-      "title": "Mohamed Al-Fayed Scandal: Harrods Insiders Finally Break Their Silence",
-      "channel": "Real Stories",
-      "videoId": "lo0bEKBFMzw",
-      "viewsPerHour": 388,
-      "views": 4378,
-      "ageHours": 11.3
+      "ageHours": 35
     },
     {
       "title": "Conan Talks About His New Band \"The Vigodas\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "djBGFjSAxmI",
-      "viewsPerHour": 363,
+      "viewsPerHour": 345,
       "views": 14607,
-      "ageHours": 40.3
+      "ageHours": 42.3
+    },
+    {
+      "title": "Mohamed Al-Fayed Scandal: Harrods Insiders Finally Break Their Silence",
+      "channel": "Real Stories",
+      "videoId": "lo0bEKBFMzw",
+      "viewsPerHour": 330,
+      "views": 4378,
+      "ageHours": 13.3
     },
     {
       "title": "Billy Madison vs The Breakfast Club: What's the Best School Movie? | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "_kya_HEPLUo",
-      "viewsPerHour": 265,
+      "viewsPerHour": 250,
       "views": 9084,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
       "title": "Everyone Asks If AI Will Replace Us. That's the Wrong Question.",
       "channel": "Chris Lehto",
       "videoId": "i5kWpytUtbE",
-      "viewsPerHour": 138,
+      "viewsPerHour": 109,
       "views": 1010,
-      "ageHours": 7.3
-    },
-    {
-      "title": "Big Time Breakup: Tucker Carlson rethinks Trump support after Trump dismissed his Iran war advice",
-      "channel": "MS NOW",
-      "videoId": "Db5tOT-eMF0",
-      "viewsPerHour": 85,
-      "views": 533,
-      "ageHours": 6.3
+      "ageHours": 9.3
     },
     {
       "title": "I'm finally legit",
       "channel": "Louis Rossmann",
       "videoId": "AUbpYkLl8Bs",
-      "viewsPerHour": 70,
+      "viewsPerHour": 66,
       "views": 2113,
-      "ageHours": 30
+      "ageHours": 32
+    },
+    {
+      "title": "Big Time Breakup: Tucker Carlson rethinks Trump support after Trump dismissed his Iran war advice",
+      "channel": "MS NOW",
+      "videoId": "Db5tOT-eMF0",
+      "viewsPerHour": 64,
+      "views": 533,
+      "ageHours": 8.3
     },
     {
       "title": "‘You CAN’T make this up!’: GOP Senator makes bizarre claim of ‘furry’ epidemic in airline industry",
       "channel": "MS NOW",
       "videoId": "5rDCo4QY3Ak",
-      "viewsPerHour": 36,
+      "viewsPerHour": 27,
       "views": 228,
-      "ageHours": 6.3
+      "ageHours": 8.3
     }
   ]
 }
