@@ -1,16 +1,16 @@
 {
   "videosPerChannel": [
     {
+      "channel": "Real Stories",
+      "count": 44
+    },
+    {
       "channel": "MS NOW",
       "count": 5
     },
     {
       "channel": "Chris Lehto",
       "count": 6
-    },
-    {
-      "channel": "Real Stories",
-      "count": 44
     },
     {
       "channel": "The Daily Show",
@@ -30,7 +30,7 @@
     },
     {
       "channel": "Conan O'Brien",
-      "count": 9
+      "count": 7
     },
     {
       "channel": "History",
@@ -42,7 +42,7 @@
     },
     {
       "channel": "More Perfect Union",
-      "count": 18
+      "count": 17
     },
     {
       "channel": "Jonathan Pie",
@@ -79,16 +79,16 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "Real Stories",
+      "count": 40
+    },
+    {
       "keyword": "MS NOW",
       "count": 5
     },
     {
       "keyword": "AI, artificial intelligence, UAP",
       "count": 2
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 40
     },
     {
       "keyword": "The Daily Show, AI",
@@ -112,7 +112,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 9
+      "count": 7
     },
     {
       "keyword": "NOVA",
@@ -124,7 +124,7 @@
     },
     {
       "keyword": "More Perfect Union",
-      "count": 15
+      "count": 14
     },
     {
       "keyword": "Real Stories, testimony",
@@ -238,7 +238,7 @@
   "dailySummary": [
     {
       "date": "2026-09-27",
-      "videos": 2
+      "videos": 3
     },
     {
       "date": "2026-09-26",
@@ -278,7 +278,7 @@
     },
     {
       "date": "2026-09-17",
-      "videos": 10
+      "videos": 8
     },
     {
       "date": "2026-09-16",
@@ -466,7 +466,7 @@
     },
     {
       "date": "2026-07-29",
-      "videos": 3
+      "videos": 1
     },
     {
       "date": "2026-06-14",
@@ -475,15 +475,15 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "Real Stories",
+      "matches": 2
+    },
+    {
       "keyword": "MS NOW",
       "matches": 5
     },
     {
       "keyword": "AI, artificial intelligence, UAP",
-      "matches": 1
-    },
-    {
-      "keyword": "Real Stories",
       "matches": 1
     },
     {
@@ -536,7 +536,7 @@
     },
     {
       "keyword": "UFO",
-      "matches": 3
+      "matches": 2
     },
     {
       "keyword": "The Daily Show, AI, MS NOW",
@@ -560,105 +560,105 @@
       "title": "Jon Stewart on MAGA's Embrace of AI & Desi Lydic on Trump's U.N. Rant and Xi Meetup | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "IU0eY96lAoI",
-      "viewsPerHour": 26409,
-      "views": 720611,
-      "ageHours": 27.3
+      "viewsPerHour": 25252,
+      "views": 739556,
+      "ageHours": 29.3
     },
     {
       "title": "Sylvester Stallone Hid His Struggles. At 80, He’s Coming Clean. | The Interview",
       "channel": "The Interview",
       "videoId": "ccs-B_nTfZs",
-      "viewsPerHour": 6412,
-      "views": 176615,
-      "ageHours": 27.5
+      "viewsPerHour": 6349,
+      "views": 187559,
+      "ageHours": 29.5
     },
     {
       "title": "The Beat with Ari Melber Weekly Highlights | Sept. 21-25",
       "channel": "MS NOW",
       "videoId": "hWMPGjrcXeM",
-      "viewsPerHour": 2422,
+      "viewsPerHour": 2124,
       "views": 34597,
-      "ageHours": 14.3
+      "ageHours": 16.3
     },
     {
       "title": "Pursue UAP Release #6 — The UFO Files The Government Still Can’t Find",
       "channel": "Jeremy Corbell",
       "videoId": "8FXCiExnziU",
-      "viewsPerHour": 2198,
-      "views": 92968,
-      "ageHours": 42.3
+      "viewsPerHour": 2120,
+      "views": 93924,
+      "ageHours": 44.3
     },
     {
       "title": "The Weeknight Weekly Highlights | Sept. 21-25",
       "channel": "MS NOW",
       "videoId": "eSIJJHbQGRY",
-      "viewsPerHour": 1940,
+      "viewsPerHour": 1686,
       "views": 25778,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "The President who cries ‘NATIONAL SECURITY’",
       "channel": "MS NOW",
       "videoId": "pLd0OaoZWXw",
-      "viewsPerHour": 1149,
+      "viewsPerHour": 1034,
       "views": 20729,
-      "ageHours": 18
+      "ageHours": 20
     },
     {
       "title": "Everyone Asks If AI Will Replace Us. That's the Wrong Question.",
       "channel": "Chris Lehto",
       "videoId": "i5kWpytUtbE",
-      "viewsPerHour": 441,
-      "views": 8515,
-      "ageHours": 19.3
+      "viewsPerHour": 412,
+      "views": 8762,
+      "ageHours": 21.3
     },
     {
       "title": "Mohamed Al-Fayed Scandal: Harrods Insiders Finally Break Their Silence",
       "channel": "Real Stories",
       "videoId": "lo0bEKBFMzw",
-      "viewsPerHour": 334,
-      "views": 7773,
-      "ageHours": 23.3
+      "viewsPerHour": 313,
+      "views": 7909,
+      "ageHours": 25.3
     },
     {
       "title": "“WHERE ARE THE MISSING UFO FILES?”",
       "channel": "Jeremy Corbell",
       "videoId": "WxxOVPXvA7c",
-      "viewsPerHour": 324,
-      "views": 14583,
-      "ageHours": 45
+      "viewsPerHour": 312,
+      "views": 14662,
+      "ageHours": 47
     },
     {
-      "title": "Billy Madison vs The Breakfast Club: What's the Best School Movie? | Bley's Arcade",
-      "channel": "Conan O'Brien",
-      "videoId": "_kya_HEPLUo",
-      "viewsPerHour": 196,
-      "views": 9084,
-      "ageHours": 46.3
+      "title": "Ashley Judd Uncovers Her Family’s Darkest Chapter | Who Do You Think You Are USA?",
+      "channel": "Real Stories",
+      "videoId": "sNZtGbXmkBs",
+      "viewsPerHour": 134,
+      "views": 241,
+      "ageHours": 1.8
     },
     {
       "title": "I'm finally legit",
       "channel": "Louis Rossmann",
       "videoId": "AUbpYkLl8Bs",
-      "viewsPerHour": 50,
+      "viewsPerHour": 48,
       "views": 2113,
-      "ageHours": 42
+      "ageHours": 44
     },
     {
       "title": "Big Time Breakup: Tucker Carlson rethinks Trump support after Trump dismissed his Iran war advice",
       "channel": "MS NOW",
       "videoId": "Db5tOT-eMF0",
-      "viewsPerHour": 29,
+      "viewsPerHour": 26,
       "views": 533,
-      "ageHours": 18.3
+      "ageHours": 20.3
     },
     {
       "title": "‘You CAN’T make this up!’: GOP Senator makes bizarre claim of ‘furry’ epidemic in airline industry",
       "channel": "MS NOW",
       "videoId": "5rDCo4QY3Ak",
-      "viewsPerHour": 12,
+      "viewsPerHour": 11,
       "views": 228,
-      "ageHours": 18.3
+      "ageHours": 20.3
     }
   ]
 }
