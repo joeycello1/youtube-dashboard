@@ -1,6 +1,18 @@
 {
   "videosPerChannel": [
     {
+      "channel": "MS NOW",
+      "count": 6
+    },
+    {
+      "channel": "Chris Lehto",
+      "count": 6
+    },
+    {
+      "channel": "Real Stories",
+      "count": 44
+    },
+    {
       "channel": "The Daily Show",
       "count": 12
     },
@@ -9,12 +21,8 @@
       "count": 7
     },
     {
-      "channel": "MS NOW",
-      "count": 5
-    },
-    {
       "channel": "PBS NewsHour",
-      "count": 4
+      "count": 1
     },
     {
       "channel": "Louis Rossmann",
@@ -30,19 +38,15 @@
     },
     {
       "channel": "History",
-      "count": 62
+      "count": 61
     },
     {
       "channel": "NOVA",
-      "count": 21
+      "count": 20
     },
     {
       "channel": "More Perfect Union",
       "count": 18
-    },
-    {
-      "channel": "Real Stories",
-      "count": 44
     },
     {
       "channel": "Jonathan Pie",
@@ -51,10 +55,6 @@
     {
       "channel": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "channel": "Chris Lehto",
-      "count": 5
     },
     {
       "channel": "Last Week Tonight",
@@ -83,6 +83,18 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "MS NOW",
+      "count": 6
+    },
+    {
+      "keyword": "AI, artificial intelligence, UAP",
+      "count": 2
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 40
+    },
+    {
       "keyword": "The Daily Show, AI",
       "count": 3
     },
@@ -91,12 +103,8 @@
       "count": 6
     },
     {
-      "keyword": "MS NOW",
-      "count": 5
-    },
-    {
       "keyword": "PBS NewsHour",
-      "count": 4
+      "count": 1
     },
     {
       "keyword": "Louis Rossmann",
@@ -116,7 +124,7 @@
     },
     {
       "keyword": "NOVA",
-      "count": 35
+      "count": 34
     },
     {
       "keyword": "The Daily Show",
@@ -157,10 +165,6 @@
     {
       "keyword": "AI",
       "count": 9
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 40
     },
     {
       "keyword": "The Interview, AI",
@@ -207,10 +211,6 @@
       "count": 1
     },
     {
-      "keyword": "AI, artificial intelligence, UAP",
-      "count": 1
-    },
-    {
       "keyword": "NOVA, AI",
       "count": 1
     },
@@ -236,7 +236,7 @@
     },
     {
       "keyword": "UFO, UAP",
-      "count": 3
+      "count": 2
     },
     {
       "keyword": "NOVA, AI, artificial intelligence",
@@ -246,11 +246,11 @@
   "dailySummary": [
     {
       "date": "2026-09-26",
-      "videos": 6
+      "videos": 11
     },
     {
       "date": "2026-09-25",
-      "videos": 14
+      "videos": 9
     },
     {
       "date": "2026-09-24",
@@ -473,15 +473,23 @@
       "videos": 3
     },
     {
-      "date": "2026-07-28",
-      "videos": 3
-    },
-    {
       "date": "2026-06-14",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
+    {
+      "keyword": "MS NOW",
+      "matches": 6
+    },
+    {
+      "keyword": "AI, artificial intelligence, UAP",
+      "matches": 1
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 2
+    },
     {
       "keyword": "The Daily Show, AI",
       "matches": 3
@@ -491,12 +499,8 @@
       "matches": 1
     },
     {
-      "keyword": "MS NOW",
-      "matches": 5
-    },
-    {
       "keyword": "PBS NewsHour",
-      "matches": 4
+      "matches": 1
     },
     {
       "keyword": "Louis Rossmann",
@@ -557,10 +561,6 @@
     {
       "keyword": "AI",
       "matches": 1
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -568,161 +568,161 @@
       "title": "Trump Spooked by Plane at Xi Meeting & Sen. Tuberville Rails Against Flying Furries | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "DhNEcUGaVmI",
-      "viewsPerHour": 68654,
-      "views": 3043096,
-      "ageHours": 44.3
+      "viewsPerHour": 66208,
+      "views": 3065901,
+      "ageHours": 46.3
     },
     {
       "title": "Jon Stewart on MAGA's Embrace of AI & Desi Lydic on Trump's U.N. Rant and Xi Meetup | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "IU0eY96lAoI",
-      "viewsPerHour": 38067,
-      "views": 354244,
-      "ageHours": 9.3
+      "viewsPerHour": 36275,
+      "views": 409479,
+      "ageHours": 11.3
     },
     {
       "title": "Tech Yeah: Eavesdropping Smart Watches, Humanoid Games & Busty Robo-Companions | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "oCJ88M2Sc9M",
-      "viewsPerHour": 24442,
-      "views": 850116,
-      "ageHours": 34.8
+      "viewsPerHour": 23440,
+      "views": 861715,
+      "ageHours": 36.8
+    },
+    {
+      "title": "The President who cries ‘NATIONAL SECURITY’",
+      "channel": "MS NOW",
+      "videoId": "pLd0OaoZWXw",
+      "viewsPerHour": 10163,
+      "views": 20729,
+      "ageHours": 2
     },
     {
       "title": "WATCH LIVE: Day 4 of the 2026 United Nations General Assembly",
       "channel": "PBS NewsHour",
       "videoId": "PABrsqye-sk",
-      "viewsPerHour": 5931,
+      "viewsPerHour": 5397,
       "views": 118679,
-      "ageHours": 20
+      "ageHours": 22
     },
     {
       "title": "Closing in on the Vault | The Curse of Oak Island",
       "channel": "History",
       "videoId": "7Mnv2IgQYGU",
-      "viewsPerHour": 5360,
-      "views": 162479,
-      "ageHours": 30.3
+      "viewsPerHour": 5224,
+      "views": 168720,
+      "ageHours": 32.3
     },
     {
       "title": "Merritt Wever’s Late Night Debut & “Primetime” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "3o1Jr7QdwwU",
-      "viewsPerHour": 5040,
-      "views": 215808,
-      "ageHours": 42.8
+      "viewsPerHour": 4964,
+      "views": 222390,
+      "ageHours": 44.8
     },
     {
       "title": "Sylvester Stallone Hid His Struggles. At 80, He’s Coming Clean. | The Interview",
       "channel": "The Interview",
       "videoId": "ccs-B_nTfZs",
-      "viewsPerHour": 4010,
-      "views": 38345,
-      "ageHours": 9.6
+      "viewsPerHour": 4938,
+      "views": 57006,
+      "ageHours": 11.5
     },
     {
       "title": "Trump campaigns in safe spaces to avoid embarrassment and minimize damage",
       "channel": "MS NOW",
       "videoId": "r6EnrB41Wbw",
-      "viewsPerHour": 3515,
+      "viewsPerHour": 3158,
       "views": 61710,
-      "ageHours": 17.6
+      "ageHours": 19.5
     },
     {
       "title": "Pursue UAP Release #6 — The UFO Files The Government Still Can’t Find",
       "channel": "Jeremy Corbell",
       "videoId": "8FXCiExnziU",
-      "viewsPerHour": 2884,
-      "views": 70116,
-      "ageHours": 24.3
+      "viewsPerHour": 2813,
+      "views": 73969,
+      "ageHours": 26.3
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Sept. 25 | Audio Only",
       "channel": "MS NOW",
       "videoId": "O3R6bx8Kz4A",
-      "viewsPerHour": 1005,
+      "viewsPerHour": 901,
       "views": 17395,
-      "ageHours": 17.3
+      "ageHours": 19.3
     },
     {
       "title": "Texans are ready for a change': Democrat Gina Hinojosa on her campaign for Texas governor",
       "channel": "MS NOW",
       "videoId": "_CE-aoD_mLE",
-      "viewsPerHour": 999,
+      "viewsPerHour": 898,
       "views": 17764,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
-      "title": "ALERT: Trump-aligned Supreme Court justices hand Trump STUNNING voter suppression win",
-      "channel": "MS NOW",
-      "videoId": "MtJSuP1qYH8",
-      "viewsPerHour": 986,
-      "views": 24581,
-      "ageHours": 24.9
+      "title": "Mohamed Al-Fayed Scandal: Harrods Insiders Finally Break Their Silence",
+      "channel": "Real Stories",
+      "videoId": "lo0bEKBFMzw",
+      "viewsPerHour": 601,
+      "views": 4378,
+      "ageHours": 7.3
     },
     {
       "title": "“WHERE ARE THE MISSING UFO FILES?”",
       "channel": "Jeremy Corbell",
       "videoId": "WxxOVPXvA7c",
-      "viewsPerHour": 490,
-      "views": 13229,
-      "ageHours": 27
+      "viewsPerHour": 464,
+      "views": 13459,
+      "ageHours": 29
     },
     {
       "title": "Conan Talks About His New Band \"The Vigodas\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "djBGFjSAxmI",
-      "viewsPerHour": 426,
+      "viewsPerHour": 402,
       "views": 14607,
-      "ageHours": 34.3
+      "ageHours": 36.3
+    },
+    {
+      "title": "Everyone Asks If AI Will Replace Us. That's the Wrong Question.",
+      "channel": "Chris Lehto",
+      "videoId": "i5kWpytUtbE",
+      "viewsPerHour": 307,
+      "views": 1010,
+      "ageHours": 3.3
     },
     {
       "title": "Billy Madison vs The Breakfast Club: What's the Best School Movie? | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "_kya_HEPLUo",
-      "viewsPerHour": 321,
+      "viewsPerHour": 300,
       "views": 9084,
-      "ageHours": 28.3
+      "ageHours": 30.3
     },
     {
-      "title": "PBS News Hour live episode, Sept. 25, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "0YeBwgLB8CM",
-      "viewsPerHour": 212,
-      "views": 5307,
-      "ageHours": 25
+      "title": "Big Time Breakup: Tucker Carlson rethinks Trump support after Trump dismissed his Iran war advice",
+      "channel": "MS NOW",
+      "videoId": "Db5tOT-eMF0",
+      "viewsPerHour": 232,
+      "views": 533,
+      "ageHours": 2.3
+    },
+    {
+      "title": "‘You CAN’T make this up!’: GOP Senator makes bizarre claim of ‘furry’ epidemic in airline industry",
+      "channel": "MS NOW",
+      "videoId": "5rDCo4QY3Ak",
+      "viewsPerHour": 99,
+      "views": 228,
+      "ageHours": 2.3
     },
     {
       "title": "I'm finally legit",
       "channel": "Louis Rossmann",
       "videoId": "AUbpYkLl8Bs",
-      "viewsPerHour": 88,
+      "viewsPerHour": 81,
       "views": 2113,
-      "ageHours": 24
-    },
-    {
-      "title": "Put some respect on our names': Angie Nixon's plan to defeat Trump's GOP, urges Dems to 'do more'",
-      "channel": "MS NOW",
-      "videoId": "6883ZQmoD1A",
-      "viewsPerHour": 38,
-      "views": 967,
-      "ageHours": 25.3
-    },
-    {
-      "title": "Mexico's foreign secretary on Trump, cartel violence and U.S. trade talks",
-      "channel": "PBS NewsHour",
-      "videoId": "kOjU-NStNcs",
-      "viewsPerHour": 11,
-      "views": 268,
-      "ageHours": 23.7
-    },
-    {
-      "title": "Health care costs a major concern for voters ahead of midterms",
-      "channel": "PBS NewsHour",
-      "videoId": "cc1ClRe3oZw",
-      "viewsPerHour": 3,
-      "views": 76,
-      "ageHours": 23.6
+      "ageHours": 26
     }
   ]
 }
