@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 4
+      "count": 5
     },
     {
       "channel": "Chris Lehto",
@@ -22,7 +22,7 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 23
+      "count": 22
     },
     {
       "channel": "Jeremy Corbell",
@@ -80,7 +80,7 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 4
+      "count": 5
     },
     {
       "keyword": "AI, artificial intelligence, UAP",
@@ -100,7 +100,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 23
+      "count": 22
     },
     {
       "keyword": "Corbell, UAP, UFO, George Knapp",
@@ -237,8 +237,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-09-27",
+      "videos": 2
+    },
+    {
       "date": "2026-09-26",
-      "videos": 8
+      "videos": 7
     },
     {
       "date": "2026-09-25",
@@ -294,7 +298,7 @@
     },
     {
       "date": "2026-09-12",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-09-11",
@@ -472,7 +476,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 4
+      "matches": 5
     },
     {
       "keyword": "AI, artificial intelligence, UAP",
@@ -556,121 +560,113 @@
       "title": "Jon Stewart on MAGA's Embrace of AI & Desi Lydic on Trump's U.N. Rant and Xi Meetup | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "IU0eY96lAoI",
-      "viewsPerHour": 30668,
-      "views": 652890,
-      "ageHours": 21.3
-    },
-    {
-      "title": "Tech Yeah: Eavesdropping Smart Watches, Humanoid Games & Busty Robo-Companions | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "oCJ88M2Sc9M",
-      "viewsPerHour": 19574,
-      "views": 915358,
-      "ageHours": 46.8
+      "viewsPerHour": 28780,
+      "views": 670233,
+      "ageHours": 23.3
     },
     {
       "title": "Sylvester Stallone Hid His Struggles. At 80, He’s Coming Clean. | The Interview",
       "channel": "The Interview",
       "videoId": "ccs-B_nTfZs",
-      "viewsPerHour": 6251,
-      "views": 134681,
-      "ageHours": 21.5
+      "viewsPerHour": 6132,
+      "views": 144365,
+      "ageHours": 23.5
     },
     {
       "title": "Closing in on the Vault | The Curse of Oak Island",
       "channel": "History",
       "videoId": "7Mnv2IgQYGU",
-      "viewsPerHour": 4511,
-      "views": 190810,
-      "ageHours": 42.3
+      "viewsPerHour": 4347,
+      "views": 192553,
+      "ageHours": 44.3
+    },
+    {
+      "title": "The Beat with Ari Melber Weekly Highlights | Sept. 21-25",
+      "channel": "MS NOW",
+      "videoId": "hWMPGjrcXeM",
+      "viewsPerHour": 3363,
+      "views": 34597,
+      "ageHours": 10.3
+    },
+    {
+      "title": "The Weeknight Weekly Highlights | Sept. 21-25",
+      "channel": "MS NOW",
+      "videoId": "eSIJJHbQGRY",
+      "viewsPerHour": 2775,
+      "views": 25778,
+      "ageHours": 9.3
     },
     {
       "title": "Pursue UAP Release #6 — The UFO Files The Government Still Can’t Find",
       "channel": "Jeremy Corbell",
       "videoId": "8FXCiExnziU",
-      "viewsPerHour": 2436,
-      "views": 88420,
-      "ageHours": 36.3
+      "viewsPerHour": 2342,
+      "views": 89681,
+      "ageHours": 38.3
     },
     {
       "title": "The President who cries ‘NATIONAL SECURITY’",
       "channel": "MS NOW",
       "videoId": "pLd0OaoZWXw",
-      "viewsPerHour": 1722,
+      "viewsPerHour": 1477,
       "views": 20729,
-      "ageHours": 12
-    },
-    {
-      "title": "The Last Word with Lawrence O'Donnell - Sept. 25 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "O3R6bx8Kz4A",
-      "viewsPerHour": 594,
-      "views": 17395,
-      "ageHours": 29.3
+      "ageHours": 14
     },
     {
       "title": "Everyone Asks If AI Will Replace Us. That's the Wrong Question.",
       "channel": "Chris Lehto",
       "videoId": "i5kWpytUtbE",
-      "viewsPerHour": 496,
-      "views": 6599,
-      "ageHours": 13.3
+      "viewsPerHour": 468,
+      "views": 7157,
+      "ageHours": 15.3
     },
     {
       "title": "Mohamed Al-Fayed Scandal: Harrods Insiders Finally Break Their Silence",
       "channel": "Real Stories",
       "videoId": "lo0bEKBFMzw",
-      "viewsPerHour": 419,
-      "views": 7241,
-      "ageHours": 17.3
+      "viewsPerHour": 383,
+      "views": 7384,
+      "ageHours": 19.3
     },
     {
       "title": "“WHERE ARE THE MISSING UFO FILES?”",
       "channel": "Jeremy Corbell",
       "videoId": "WxxOVPXvA7c",
-      "viewsPerHour": 366,
-      "views": 14264,
-      "ageHours": 39
-    },
-    {
-      "title": "Conan Talks About His New Band \"The Vigodas\" | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "djBGFjSAxmI",
-      "viewsPerHour": 316,
-      "views": 14607,
-      "ageHours": 46.3
+      "viewsPerHour": 349,
+      "views": 14300,
+      "ageHours": 41
     },
     {
       "title": "Billy Madison vs The Breakfast Club: What's the Best School Movie? | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "_kya_HEPLUo",
-      "viewsPerHour": 225,
+      "viewsPerHour": 215,
       "views": 9084,
-      "ageHours": 40.3
+      "ageHours": 42.3
     },
     {
       "title": "I'm finally legit",
       "channel": "Louis Rossmann",
       "videoId": "AUbpYkLl8Bs",
-      "viewsPerHour": 59,
+      "viewsPerHour": 56,
       "views": 2113,
-      "ageHours": 36
+      "ageHours": 38
     },
     {
       "title": "Big Time Breakup: Tucker Carlson rethinks Trump support after Trump dismissed his Iran war advice",
       "channel": "MS NOW",
       "videoId": "Db5tOT-eMF0",
-      "viewsPerHour": 43,
+      "viewsPerHour": 37,
       "views": 533,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "‘You CAN’T make this up!’: GOP Senator makes bizarre claim of ‘furry’ epidemic in airline industry",
       "channel": "MS NOW",
       "videoId": "5rDCo4QY3Ak",
-      "viewsPerHour": 19,
+      "viewsPerHour": 16,
       "views": 228,
-      "ageHours": 12.3
+      "ageHours": 14.3
     }
   ]
 }
