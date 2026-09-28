@@ -1,20 +1,24 @@
 {
   "videosPerChannel": [
     {
+      "channel": "MS NOW",
+      "count": 6
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 4
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 22
+    },
+    {
       "channel": "More Perfect Union",
       "count": 18
     },
     {
-      "channel": "MS NOW",
-      "count": 3
-    },
-    {
       "channel": "The Rest Is Science",
       "count": 5
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 21
     },
     {
       "channel": "History",
@@ -46,15 +50,11 @@
     },
     {
       "channel": "NOVA",
-      "count": 20
+      "count": 19
     },
     {
       "channel": "Jonathan Pie",
       "count": 5
-    },
-    {
-      "channel": "Last Week Tonight",
-      "count": 2
     },
     {
       "channel": "Diary of a CEO",
@@ -79,20 +79,24 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "MS NOW",
+      "count": 6
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 4
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 22
+    },
+    {
       "keyword": "More Perfect Union",
       "count": 15
     },
     {
-      "keyword": "MS NOW",
-      "count": 3
-    },
-    {
       "keyword": "The Rest Is Science",
       "count": 5
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 21
     },
     {
       "keyword": "UFO",
@@ -149,10 +153,6 @@
     {
       "keyword": "AI, UAP",
       "count": 1
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "count": 2
     },
     {
       "keyword": "AI",
@@ -229,13 +229,13 @@
     {
       "keyword": "UFO, UAP",
       "count": 2
-    },
-    {
-      "keyword": "NOVA, AI, artificial intelligence",
-      "count": 1
     }
   ],
   "dailySummary": [
+    {
+      "date": "2026-09-28",
+      "videos": 6
+    },
     {
       "date": "2026-09-27",
       "videos": 9
@@ -462,7 +462,7 @@
     },
     {
       "date": "2026-07-30",
-      "videos": 2
+      "videos": 1
     },
     {
       "date": "2026-06-14",
@@ -471,20 +471,24 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "More Perfect Union",
-      "matches": 3
+      "keyword": "MS NOW",
+      "matches": 6
     },
     {
-      "keyword": "MS NOW",
+      "keyword": "Last Week Tonight",
+      "matches": 2
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 11
+    },
+    {
+      "keyword": "More Perfect Union",
       "matches": 3
     },
     {
       "keyword": "The Rest Is Science",
       "matches": 2
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 10
     },
     {
       "keyword": "UFO",
@@ -516,7 +520,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "NOVA",
@@ -545,108 +549,156 @@
   ],
   "mostViral48h": [
     {
+      "title": "Brazil Elections 2026: Last Week Tonight with John Oliver (HBO)",
+      "channel": "Last Week Tonight",
+      "videoId": "MIYCek92ICQ",
+      "viewsPerHour": 51315,
+      "views": 297367,
+      "ageHours": 5.8
+    },
+    {
+      "title": "S13 E24: Texas Midterms & Brazil Elections 2026: 9/27/26: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "iXSKsjpiClQ",
+      "viewsPerHour": 35773,
+      "views": 332650,
+      "ageHours": 9.3
+    },
+    {
       "title": "Jon Stewart on MAGA's Embrace of AI & Desi Lydic on Trump's U.N. Rant and Xi Meetup | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "IU0eY96lAoI",
-      "viewsPerHour": 21933,
-      "views": 993348,
-      "ageHours": 45.3
+      "viewsPerHour": 21613,
+      "views": 1022038,
+      "ageHours": 47.3
     },
     {
       "title": "The Importance Of \"Soft Fascination\"",
       "channel": "The Rest Is Science",
       "videoId": "7sJLgNxGWu8",
-      "viewsPerHour": 17011,
-      "views": 226264,
-      "ageHours": 13.3
+      "viewsPerHour": 16384,
+      "views": 250660,
+      "ageHours": 15.3
+    },
+    {
+      "title": "Absolutely jaw-dropping': U.S. Ambassador says Trump offered to sell arms to China",
+      "channel": "MS NOW",
+      "videoId": "GwCK43gaNcc",
+      "viewsPerHour": 9226,
+      "views": 20752,
+      "ageHours": 2.2
     },
     {
       "title": "LIVE Students vs Billionaires Town Hall ft. Rep. Alexandria Ocasio-Cortez",
       "channel": "More Perfect Union",
       "videoId": "lnOL86WTc04",
-      "viewsPerHour": 9937,
-      "views": 117033,
-      "ageHours": 11.8
+      "viewsPerHour": 8643,
+      "views": 119069,
+      "ageHours": 13.8
+    },
+    {
+      "title": "The Last Word with Lawrence O'Donnell Weekly Highlights | Sept. 21-25",
+      "channel": "MS NOW",
+      "videoId": "Sa2Fo5wAD0A",
+      "viewsPerHour": 8107,
+      "views": 91557,
+      "ageHours": 11.3
     },
     {
       "title": "Sylvester Stallone Hid His Struggles. At 80, He’s Coming Clean. | The Interview",
       "channel": "The Interview",
       "videoId": "ccs-B_nTfZs",
-      "viewsPerHour": 6948,
-      "views": 316483,
-      "ageHours": 45.5
+      "viewsPerHour": 6872,
+      "views": 326740,
+      "ageHours": 47.5
+    },
+    {
+      "title": "the value of happiness ",
+      "channel": "Louis Rossmann",
+      "videoId": "jctBYDoUHTE",
+      "viewsPerHour": 4441,
+      "views": 37837,
+      "ageHours": 8.5
+    },
+    {
+      "title": "The 11th Hour with Ali Velshi Weekly Highlights | Sept. 21-25",
+      "channel": "MS NOW",
+      "videoId": "HUmkqlBHKCo",
+      "viewsPerHour": 4010,
+      "views": 41289,
+      "ageHours": 10.3
     },
     {
       "title": "Could These Mysteries Point to Alien Contact? *Marathon* | In Search of Aliens",
       "channel": "History",
       "videoId": "3h6ILQOOjC8",
-      "viewsPerHour": 3464,
-      "views": 49513,
-      "ageHours": 14.3
+      "viewsPerHour": 3281,
+      "views": 53461,
+      "ageHours": 16.3
     },
     {
       "title": "The Legend of Bigfoot is Born | In Search of Aliens (S1)",
       "channel": "History",
       "videoId": "llJMDFqqnIc",
-      "viewsPerHour": 2161,
-      "views": 35222,
-      "ageHours": 16.3
+      "viewsPerHour": 1993,
+      "views": 36465,
+      "ageHours": 18.3
     },
     {
       "title": "Flock camera installer calls 911 on investigatetv reporter, expecting privacy in public 🤣",
       "channel": "Louis Rossmann",
       "videoId": "0z6Waqvp93M",
-      "viewsPerHour": 1312,
+      "viewsPerHour": 1146,
       "views": 18106,
-      "ageHours": 13.8
+      "ageHours": 15.8
     },
     {
       "title": "Ashley Judd Uncovers Her Family’s Darkest Chapter | Who Do You Think You Are USA?",
       "channel": "Real Stories",
       "videoId": "sNZtGbXmkBs",
-      "viewsPerHour": 416,
-      "views": 7410,
-      "ageHours": 17.8
+      "viewsPerHour": 394,
+      "views": 7806,
+      "ageHours": 19.8
     },
     {
       "title": "Everyone Asks If AI Will Replace Us. That's the Wrong Question.",
       "channel": "Chris Lehto",
       "videoId": "i5kWpytUtbE",
-      "viewsPerHour": 298,
-      "views": 11104,
-      "ageHours": 37.3
+      "viewsPerHour": 285,
+      "views": 11196,
+      "ageHours": 39.3
     },
     {
       "title": "Mohamed Al-Fayed Scandal: Harrods Insiders Finally Break Their Silence",
       "channel": "Real Stories",
       "videoId": "lo0bEKBFMzw",
-      "viewsPerHour": 233,
-      "views": 9610,
-      "ageHours": 41.3
+      "viewsPerHour": 222,
+      "views": 9617,
+      "ageHours": 43.3
     },
     {
       "title": "‘I FELT BETRAYED’: Mahmoud Khalil likens his ICE arrest to what he saw under Assad’s Syrian regime",
       "channel": "MS NOW",
       "videoId": "KzNT2THKqHM",
-      "viewsPerHour": 202,
+      "viewsPerHour": 176,
       "views": 2785,
-      "ageHours": 13.8
+      "ageHours": 15.8
     },
     {
       "title": "Are Democrats investing enough resources into races in the South?",
       "channel": "MS NOW",
       "videoId": "XIkYKWQ0xI0",
-      "viewsPerHour": 162,
+      "viewsPerHour": 141,
       "views": 2157,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "Black education equity at issue after journalist's 'impossible' school choice for her daughter",
       "channel": "MS NOW",
       "videoId": "hNRldWmoMUc",
-      "viewsPerHour": 115,
+      "viewsPerHour": 100,
       "views": 1522,
-      "ageHours": 13.3
+      "ageHours": 15.3
     }
   ]
 }
