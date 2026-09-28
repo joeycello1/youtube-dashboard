@@ -1,12 +1,28 @@
 {
   "videosPerChannel": [
     {
-      "channel": "Real Stories",
-      "count": 44
+      "channel": "More Perfect Union",
+      "count": 18
     },
     {
       "channel": "MS NOW",
       "count": 5
+    },
+    {
+      "channel": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 23
+    },
+    {
+      "channel": "History",
+      "count": 62
+    },
+    {
+      "channel": "Real Stories",
+      "count": 44
     },
     {
       "channel": "Chris Lehto",
@@ -21,10 +37,6 @@
       "count": 7
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 22
-    },
-    {
       "channel": "Jeremy Corbell",
       "count": 8
     },
@@ -33,24 +45,12 @@
       "count": 7
     },
     {
-      "channel": "History",
-      "count": 61
-    },
-    {
       "channel": "NOVA",
       "count": 20
     },
     {
-      "channel": "More Perfect Union",
-      "count": 17
-    },
-    {
       "channel": "Jonathan Pie",
       "count": 5
-    },
-    {
-      "channel": "The Rest Is Science",
-      "count": 4
     },
     {
       "channel": "Last Week Tonight",
@@ -79,12 +79,28 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "Real Stories",
-      "count": 40
+      "keyword": "More Perfect Union",
+      "count": 15
     },
     {
       "keyword": "MS NOW",
       "count": 5
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 23
+    },
+    {
+      "keyword": "UFO",
+      "count": 42
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 40
     },
     {
       "keyword": "AI, artificial intelligence, UAP",
@@ -97,10 +113,6 @@
     {
       "keyword": "The Interview",
       "count": 6
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 22
     },
     {
       "keyword": "Corbell, UAP, UFO, George Knapp",
@@ -123,24 +135,12 @@
       "count": 8
     },
     {
-      "keyword": "More Perfect Union",
-      "count": 14
-    },
-    {
       "keyword": "Real Stories, testimony",
       "count": 2
     },
     {
       "keyword": "Jonathan Pie",
       "count": 5
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "count": 4
-    },
-    {
-      "keyword": "UFO",
-      "count": 40
     },
     {
       "keyword": "The Daily Show, AI, MS NOW",
@@ -220,7 +220,7 @@
     },
     {
       "keyword": "UAP, UFO",
-      "count": 2
+      "count": 1
     },
     {
       "keyword": "Real Stories, Louis Theroux",
@@ -238,11 +238,11 @@
   "dailySummary": [
     {
       "date": "2026-09-27",
-      "videos": 3
+      "videos": 11
     },
     {
       "date": "2026-09-26",
-      "videos": 7
+      "videos": 4
     },
     {
       "date": "2026-09-25",
@@ -465,22 +465,34 @@
       "videos": 2
     },
     {
-      "date": "2026-07-29",
-      "videos": 1
-    },
-    {
       "date": "2026-06-14",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "Real Stories",
-      "matches": 2
+      "keyword": "More Perfect Union",
+      "matches": 3
     },
     {
       "keyword": "MS NOW",
       "matches": 5
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "matches": 2
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 10
+    },
+    {
+      "keyword": "UFO",
+      "matches": 4
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 2
     },
     {
       "keyword": "AI, artificial intelligence, UAP",
@@ -493,10 +505,6 @@
     {
       "keyword": "The Interview",
       "matches": 1
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 9
     },
     {
       "keyword": "Corbell, UAP, UFO, George Knapp",
@@ -519,24 +527,12 @@
       "matches": 8
     },
     {
-      "keyword": "More Perfect Union",
-      "matches": 2
-    },
-    {
       "keyword": "Real Stories, testimony",
       "matches": 1
     },
     {
       "keyword": "Jonathan Pie",
       "matches": 1
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "matches": 1
-    },
-    {
-      "keyword": "UFO",
-      "matches": 2
     },
     {
       "keyword": "The Daily Show, AI, MS NOW",
@@ -557,84 +553,124 @@
   ],
   "mostViral48h": [
     {
+      "title": "LIVE Students vs Billionaires Town Hall ft. Rep. Alexandria Ocasio-Cortez",
+      "channel": "More Perfect Union",
+      "videoId": "lnOL86WTc04",
+      "viewsPerHour": 36585,
+      "views": 64709,
+      "ageHours": 1.8
+    },
+    {
       "title": "Jon Stewart on MAGA's Embrace of AI & Desi Lydic on Trump's U.N. Rant and Xi Meetup | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "IU0eY96lAoI",
-      "viewsPerHour": 23996,
-      "views": 799270,
-      "ageHours": 33.3
+      "viewsPerHour": 23505,
+      "views": 829272,
+      "ageHours": 35.3
+    },
+    {
+      "title": "The Importance Of \"Soft Fascination\"",
+      "channel": "The Rest Is Science",
+      "videoId": "7sJLgNxGWu8",
+      "viewsPerHour": 11197,
+      "views": 36855,
+      "ageHours": 3.3
     },
     {
       "title": "Sylvester Stallone Hid His Struggles. At 80, He’s Coming Clean. | The Interview",
       "channel": "The Interview",
       "videoId": "ccs-B_nTfZs",
-      "viewsPerHour": 6827,
-      "views": 229155,
-      "ageHours": 33.6
+      "viewsPerHour": 7035,
+      "views": 250010,
+      "ageHours": 35.5
+    },
+    {
+      "title": "Flock camera installer calls 911 on investigatetv reporter, expecting privacy in public 🤣",
+      "channel": "Louis Rossmann",
+      "videoId": "0z6Waqvp93M",
+      "viewsPerHour": 4770,
+      "views": 18106,
+      "ageHours": 3.8
+    },
+    {
+      "title": "The Legend of Bigfoot is Born | In Search of Aliens (S1)",
+      "channel": "History",
+      "videoId": "llJMDFqqnIc",
+      "viewsPerHour": 3207,
+      "views": 20164,
+      "ageHours": 6.3
+    },
+    {
+      "title": "Could These Mysteries Point to Alien Contact? *Marathon* | In Search of Aliens",
+      "channel": "History",
+      "videoId": "3h6ILQOOjC8",
+      "viewsPerHour": 2851,
+      "views": 12217,
+      "ageHours": 4.3
     },
     {
       "title": "The Beat with Ari Melber Weekly Highlights | Sept. 21-25",
       "channel": "MS NOW",
       "videoId": "hWMPGjrcXeM",
-      "viewsPerHour": 1704,
+      "viewsPerHour": 1553,
       "views": 34597,
-      "ageHours": 20.3
+      "ageHours": 22.3
     },
     {
       "title": "The Weeknight Weekly Highlights | Sept. 21-25",
       "channel": "MS NOW",
       "videoId": "eSIJJHbQGRY",
-      "viewsPerHour": 1335,
+      "viewsPerHour": 1211,
       "views": 25778,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
-      "title": "The President who cries ‘NATIONAL SECURITY’",
+      "title": "‘I FELT BETRAYED’: Mahmoud Khalil likens his ICE arrest to what he saw under Assad’s Syrian regime",
       "channel": "MS NOW",
-      "videoId": "pLd0OaoZWXw",
-      "viewsPerHour": 862,
-      "views": 20729,
-      "ageHours": 24.1
+      "videoId": "KzNT2THKqHM",
+      "viewsPerHour": 733,
+      "views": 2785,
+      "ageHours": 3.8
+    },
+    {
+      "title": "Are Democrats investing enough resources into races in the South?",
+      "channel": "MS NOW",
+      "videoId": "XIkYKWQ0xI0",
+      "viewsPerHour": 656,
+      "views": 2157,
+      "ageHours": 3.3
     },
     {
       "title": "Ashley Judd Uncovers Her Family’s Darkest Chapter | Who Do You Think You Are USA?",
       "channel": "Real Stories",
       "videoId": "sNZtGbXmkBs",
-      "viewsPerHour": 649,
-      "views": 3773,
-      "ageHours": 5.8
+      "viewsPerHour": 644,
+      "views": 5020,
+      "ageHours": 7.8
+    },
+    {
+      "title": "Black education equity at issue after journalist's 'impossible' school choice for her daughter",
+      "channel": "MS NOW",
+      "videoId": "hNRldWmoMUc",
+      "viewsPerHour": 467,
+      "views": 1522,
+      "ageHours": 3.3
     },
     {
       "title": "Everyone Asks If AI Will Replace Us. That's the Wrong Question.",
       "channel": "Chris Lehto",
       "videoId": "i5kWpytUtbE",
-      "viewsPerHour": 377,
-      "views": 9540,
-      "ageHours": 25.3
+      "viewsPerHour": 363,
+      "views": 9912,
+      "ageHours": 27.3
     },
     {
       "title": "Mohamed Al-Fayed Scandal: Harrods Insiders Finally Break Their Silence",
       "channel": "Real Stories",
       "videoId": "lo0bEKBFMzw",
-      "viewsPerHour": 286,
-      "views": 8391,
-      "ageHours": 29.3
-    },
-    {
-      "title": "Big Time Breakup: Tucker Carlson rethinks Trump support after Trump dismissed his Iran war advice",
-      "channel": "MS NOW",
-      "videoId": "Db5tOT-eMF0",
-      "viewsPerHour": 22,
-      "views": 533,
-      "ageHours": 24.3
-    },
-    {
-      "title": "‘You CAN’T make this up!’: GOP Senator makes bizarre claim of ‘furry’ epidemic in airline industry",
-      "channel": "MS NOW",
-      "videoId": "5rDCo4QY3Ak",
-      "viewsPerHour": 9,
-      "views": 228,
-      "ageHours": 24.3
+      "viewsPerHour": 273,
+      "views": 8547,
+      "ageHours": 31.3
     }
   ]
 }
