@@ -1,8 +1,16 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 7
+    },
+    {
       "channel": "MS NOW",
       "count": 7
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 8
     },
     {
       "channel": "Louis Rossmann",
@@ -13,16 +21,8 @@
       "count": 12
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 7
-    },
-    {
       "channel": "History",
-      "count": 63
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 6
+      "count": 62
     },
     {
       "channel": "Last Week Tonight",
@@ -83,8 +83,20 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "PBS NewsHour",
+      "count": 6
+    },
+    {
+      "keyword": "PBS NewsHour, AI",
+      "count": 1
+    },
+    {
       "keyword": "MS NOW",
       "count": 7
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 8
     },
     {
       "keyword": "Louis Rossmann",
@@ -99,20 +111,12 @@
       "count": 1
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 7
-    },
-    {
       "keyword": "Louis Rossmann, Samsung",
       "count": 1
     },
     {
       "keyword": "NOVA",
-      "count": 35
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 6
+      "count": 34
     },
     {
       "keyword": "Last Week Tonight",
@@ -246,11 +250,11 @@
   "dailySummary": [
     {
       "date": "2026-09-29",
-      "videos": 7
+      "videos": 14
     },
     {
       "date": "2026-09-28",
-      "videos": 17
+      "videos": 12
     },
     {
       "date": "2026-09-27",
@@ -474,7 +478,7 @@
     },
     {
       "date": "2026-07-31",
-      "videos": 3
+      "videos": 2
     },
     {
       "date": "2026-06-14",
@@ -483,7 +487,19 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour",
+      "matches": 6
+    },
+    {
+      "keyword": "PBS NewsHour, AI",
+      "matches": 1
+    },
+    {
       "keyword": "MS NOW",
+      "matches": 7
+    },
+    {
+      "keyword": "Conan O'Brien",
       "matches": 7
     },
     {
@@ -499,19 +515,11 @@
       "matches": 1
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 7
-    },
-    {
       "keyword": "Louis Rossmann, Samsung",
       "matches": 1
     },
     {
       "keyword": "NOVA",
-      "matches": 5
-    },
-    {
-      "keyword": "Conan O'Brien",
       "matches": 5
     },
     {
@@ -568,241 +576,241 @@
       "title": "Will Republicans Divorce Trump Over Xi Embrace? Probably Not | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "f31fBMgYfWY",
-      "viewsPerHour": 222925,
-      "views": 2960300,
-      "ageHours": 13.3
+      "viewsPerHour": 219397,
+      "views": 3351895,
+      "ageHours": 15.3
     },
     {
       "title": "Brazil Elections 2026: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "MIYCek92ICQ",
-      "viewsPerHour": 65043,
-      "views": 2198276,
-      "ageHours": 33.8
+      "viewsPerHour": 63522,
+      "views": 2273815,
+      "ageHours": 35.8
     },
     {
       "title": "S13 E24: Texas Midterms & Brazil Elections 2026: 9/27/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "iXSKsjpiClQ",
-      "viewsPerHour": 20569,
-      "views": 767257,
-      "ageHours": 37.3
+      "viewsPerHour": 19908,
+      "views": 782374,
+      "ageHours": 39.3
     },
     {
       "title": "Evan Gershkovich - Why Imprisoning a Journalist Is a Bad Idea | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "LysJH31-MpE",
-      "viewsPerHour": 17012,
-      "views": 217789,
-      "ageHours": 12.8
+      "viewsPerHour": 16646,
+      "views": 246376,
+      "ageHours": 14.8
     },
     {
       "title": "The Importance Of \"Soft Fascination\"",
       "channel": "The Rest Is Science",
       "videoId": "7sJLgNxGWu8",
-      "viewsPerHour": 12939,
-      "views": 560282,
-      "ageHours": 43.3
+      "viewsPerHour": 12805,
+      "views": 580087,
+      "ageHours": 45.3
     },
     {
       "title": "PBS News Hour full episode, Sept. 28, 2026",
       "channel": "PBS NewsHour",
       "videoId": "8mDfbIIGt84",
-      "viewsPerHour": 7019,
+      "viewsPerHour": 6268,
       "views": 116990,
-      "ageHours": 16.7
+      "ageHours": 18.7
     },
     {
       "title": "Trump-Xi Summit Produces Pandas, Tuberville Warns of Furries & Meta Launches Muse | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "s2WGo47xP7w",
-      "viewsPerHour": 5797,
-      "views": 88641,
-      "ageHours": 15.3
+      "viewsPerHour": 5473,
+      "views": 94635,
+      "ageHours": 17.3
     },
     {
       "title": "LIVE Students vs Billionaires Town Hall ft. Rep. Alexandria Ocasio-Cortez",
       "channel": "More Perfect Union",
       "videoId": "lnOL86WTc04",
-      "viewsPerHour": 3330,
-      "views": 139131,
-      "ageHours": 41.8
+      "viewsPerHour": 3190,
+      "views": 139668,
+      "ageHours": 43.8
+    },
+    {
+      "title": "Trump, GOP policies sparking Iowa FARM CRISIS, give Democrats 'a shot at WINNING': Caputo",
+      "channel": "MS NOW",
+      "videoId": "Z5t56TufmRs",
+      "viewsPerHour": 2815,
+      "views": 7300,
+      "ageHours": 2.6
+    },
+    {
+      "title": "REVOLT' fueling resurgence of Florida Democrats: Voters are 'FED UP and FRUSTRATED'",
+      "channel": "MS NOW",
+      "videoId": "iuRmEy8lSJg",
+      "viewsPerHour": 2600,
+      "views": 5023,
+      "ageHours": 1.9
     },
     {
       "title": "Matthew McConaughey & Woody Harrelson (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "2JakQDisOlE",
-      "viewsPerHour": 2585,
+      "viewsPerHour": 2420,
       "views": 75728,
-      "ageHours": 29.3
-    },
-    {
-      "title": "The Last Word with Lawrence O'Donnell - Sept. 28 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "uxyynVHmmPY",
-      "viewsPerHour": 2518,
-      "views": 27808,
-      "ageHours": 11
-    },
-    {
-      "title": "Rules for becoming a repairman ",
-      "channel": "Louis Rossmann",
-      "videoId": "gVHPe1mdZGQ",
-      "viewsPerHour": 2510,
-      "views": 29588,
-      "ageHours": 11.8
+      "ageHours": 31.3
     },
     {
       "title": "Hunting RARE Rides | Counting Cars",
       "channel": "History",
       "videoId": "olU6drQOl4g",
-      "viewsPerHour": 2265,
-      "views": 45990,
-      "ageHours": 20.3
+      "viewsPerHour": 2150,
+      "views": 47953,
+      "ageHours": 22.3
+    },
+    {
+      "title": "Rules for becoming a repairman ",
+      "channel": "Louis Rossmann",
+      "videoId": "gVHPe1mdZGQ",
+      "viewsPerHour": 2146,
+      "views": 29588,
+      "ageHours": 13.8
+    },
+    {
+      "title": "The Last Word with Lawrence O'Donnell - Sept. 28 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "uxyynVHmmPY",
+      "viewsPerHour": 2132,
+      "views": 27808,
+      "ageHours": 13
+    },
+    {
+      "title": "Woody Harrelson Is Fully Convinced He's Matthew McConaughey's Brother | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "wqBIfE4CThQ",
+      "viewsPerHour": 1984,
+      "views": 12490,
+      "ageHours": 6.3
     },
     {
       "title": "Could These Mysteries Point to Alien Contact? *Marathon* | In Search of Aliens",
       "channel": "History",
       "videoId": "3h6ILQOOjC8",
-      "viewsPerHour": 1552,
-      "views": 68742,
-      "ageHours": 44.3
+      "viewsPerHour": 1497,
+      "views": 69307,
+      "ageHours": 46.3
+    },
+    {
+      "title": "Conan's Audio Engineer Surprises Him With A New Microphone | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "o84uiRaAjAA",
+      "viewsPerHour": 1384,
+      "views": 4554,
+      "ageHours": 3.3
     },
     {
       "title": "Widespread DISGUST': Kash Patel's FBI plunged into more chaos after crucial TOP DEPUTY leaves",
       "channel": "MS NOW",
       "videoId": "c5iwxwpAHAY",
-      "viewsPerHour": 1518,
+      "viewsPerHour": 1368,
       "views": 27642,
-      "ageHours": 18.2
+      "ageHours": 20.2
     },
     {
       "title": "the value of happiness ",
       "channel": "Louis Rossmann",
       "videoId": "jctBYDoUHTE",
-      "viewsPerHour": 1036,
+      "viewsPerHour": 982,
       "views": 37837,
-      "ageHours": 36.5
-    },
-    {
-      "title": "The Legend of Bigfoot is Born | In Search of Aliens (S1)",
-      "channel": "History",
-      "videoId": "llJMDFqqnIc",
-      "viewsPerHour": 1001,
-      "views": 46366,
-      "ageHours": 46.3
+      "ageHours": 38.5
     },
     {
       "title": "The Rachel Maddow Show - Sept. 28 | Audio Only",
       "channel": "MS NOW",
       "videoId": "G6nOsb9zGKA",
-      "viewsPerHour": 871,
+      "viewsPerHour": 732,
       "views": 9181,
-      "ageHours": 10.5
+      "ageHours": 12.5
     },
     {
-      "title": "FBI CHAOS: data breach concerns and co-deputy director quits",
-      "channel": "MS NOW",
-      "videoId": "HNLjW1-iAG4",
-      "viewsPerHour": 496,
-      "views": 2920,
-      "ageHours": 5.9
-    },
-    {
-      "title": "DEVASTATING' Medical debt ad EXPOSES party divide on affordability, rural healthcare",
-      "channel": "MS NOW",
-      "videoId": "9ng2gFYGh3U",
-      "viewsPerHour": 477,
-      "views": 11943,
-      "ageHours": 25.1
+      "title": "WATCH: Sen. Booker questions Jack Smith on Trump investigations",
+      "channel": "PBS NewsHour",
+      "videoId": "7p17npEM-ZY",
+      "viewsPerHour": 421,
+      "views": 681,
+      "ageHours": 1.6
     },
     {
       "title": "CORRUPT!': Trump's use of taxpayer money for PERSONAL ADS is so bad even MAGA is calling it out",
       "channel": "MS NOW",
       "videoId": "qIrE2OoIoi4",
-      "viewsPerHour": 458,
+      "viewsPerHour": 412,
       "views": 8282,
-      "ageHours": 18.1
+      "ageHours": 20.1
     },
     {
       "title": "Flock camera installer calls 911 on investigatetv reporter, expecting privacy in public 🤣",
       "channel": "Louis Rossmann",
       "videoId": "0z6Waqvp93M",
-      "viewsPerHour": 413,
+      "viewsPerHour": 395,
       "views": 18106,
-      "ageHours": 43.8
+      "ageHours": 45.8
+    },
+    {
+      "title": "FBI CHAOS: data breach concerns and co-deputy director quits",
+      "channel": "MS NOW",
+      "videoId": "HNLjW1-iAG4",
+      "viewsPerHour": 371,
+      "views": 2920,
+      "ageHours": 7.9
     },
     {
       "title": "PBS News Hour live episode, Sept. 28, 2026",
       "channel": "PBS NewsHour",
       "videoId": "ATitujKeTGg",
-      "viewsPerHour": 366,
+      "viewsPerHour": 331,
       "views": 6987,
-      "ageHours": 19.1
+      "ageHours": 21.1
     },
     {
       "title": "NEVER connect your food supply to the web: Samsung fridge fail after bad holiday software update",
       "channel": "Louis Rossmann",
       "videoId": "UqDNjs7cB2c",
-      "viewsPerHour": 324,
+      "viewsPerHour": 293,
       "views": 5987,
-      "ageHours": 18.5
+      "ageHours": 20.5
     },
     {
-      "title": "Ashley Judd Uncovers Her Family’s Darkest Chapter | Who Do You Think You Are USA?",
-      "channel": "Real Stories",
-      "videoId": "sNZtGbXmkBs",
-      "viewsPerHour": 220,
-      "views": 10535,
-      "ageHours": 47.8
+      "title": "WATCH: Sen. Graham questions Jack Smith on Trump investigations",
+      "channel": "PBS NewsHour",
+      "videoId": "FobVTw-HGAE",
+      "viewsPerHour": 72,
+      "views": 115,
+      "ageHours": 1.6
     },
     {
       "title": "High mortgage rates compound housing affordability challenges",
       "channel": "PBS NewsHour",
       "videoId": "0EawCYrsdUc",
-      "viewsPerHour": 38,
+      "viewsPerHour": 34,
       "views": 669,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
-      "title": "Inside HSBC and Know Your Value's 'Women and Wealth' Event ",
-      "channel": "MS NOW",
-      "videoId": "1CXhElrY6-s",
-      "viewsPerHour": 19,
-      "views": 460,
-      "ageHours": 24.4
+      "title": "WATCH: Oz and Rubio introduce new America.gov website's AI features",
+      "channel": "PBS NewsHour",
+      "videoId": "mOekWMZzNRY",
+      "viewsPerHour": 29,
+      "views": 48,
+      "ageHours": 1.7
     },
     {
       "title": "How Blanche is shattering DOJ's standard of political independence",
       "channel": "PBS NewsHour",
       "videoId": "X_iyv1uRrhc",
-      "viewsPerHour": 9,
+      "viewsPerHour": 8,
       "views": 162,
-      "ageHours": 17.6
-    },
-    {
-      "title": "WATCH LIVE: Senate expected to vote on the Protect College Sports Act",
-      "channel": "PBS NewsHour",
-      "videoId": "nB3jCDRFKbk",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 25.7
-    },
-    {
-      "title": "WATCH LIVE: Trump announces new steel plant project in Iowa",
-      "channel": "PBS NewsHour",
-      "videoId": "uT32PR3V6Tw",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 25.7
-    },
-    {
-      "title": "WATCH LIVE: Duffy joins Sen. Schmitt in proposing new funding to modernize air traffic control",
-      "channel": "PBS NewsHour",
-      "videoId": "geYgMq5XeAo",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 25.7
+      "ageHours": 19.6
     }
   ]
 }
