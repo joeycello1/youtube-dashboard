@@ -1,16 +1,20 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
-      "count": 6
-    },
-    {
       "channel": "MS NOW",
-      "count": 5
+      "count": 7
     },
     {
       "channel": "Louis Rossmann",
-      "count": 22
+      "count": 23
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 12
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 7
     },
     {
       "channel": "History",
@@ -41,10 +45,6 @@
       "count": 6
     },
     {
-      "channel": "The Daily Show",
-      "count": 9
-    },
-    {
       "channel": "The Interview",
       "count": 7
     },
@@ -62,7 +62,7 @@
     },
     {
       "channel": "Diary of a CEO",
-      "count": 3
+      "count": 2
     },
     {
       "channel": "Area 52",
@@ -83,12 +83,24 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "PBS NewsHour",
-      "count": 6
+      "keyword": "MS NOW",
+      "count": 7
     },
     {
-      "keyword": "MS NOW",
-      "count": 5
+      "keyword": "Louis Rossmann",
+      "count": 22
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 9
+    },
+    {
+      "keyword": "The Daily Show, AI, artificial intelligence",
+      "count": 1
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 7
     },
     {
       "keyword": "Louis Rossmann, Samsung",
@@ -105,10 +117,6 @@
     {
       "keyword": "Last Week Tonight",
       "count": 4
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 21
     },
     {
       "keyword": "More Perfect Union",
@@ -147,10 +155,6 @@
       "count": 3
     },
     {
-      "keyword": "The Daily Show",
-      "count": 7
-    },
-    {
       "keyword": "Real Stories, testimony",
       "count": 2
     },
@@ -164,7 +168,7 @@
     },
     {
       "keyword": "AI",
-      "count": 9
+      "count": 8
     },
     {
       "keyword": "The Interview, AI",
@@ -241,6 +245,10 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-09-29",
+      "videos": 7
+    },
+    {
       "date": "2026-09-28",
       "videos": 17
     },
@@ -298,7 +306,7 @@
     },
     {
       "date": "2026-09-14",
-      "videos": 2
+      "videos": 1
     },
     {
       "date": "2026-09-13",
@@ -475,12 +483,24 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
-      "matches": 6
+      "keyword": "MS NOW",
+      "matches": 7
     },
     {
-      "keyword": "MS NOW",
-      "matches": 5
+      "keyword": "Louis Rossmann",
+      "matches": 10
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 9
+    },
+    {
+      "keyword": "The Daily Show, AI, artificial intelligence",
+      "matches": 1
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 7
     },
     {
       "keyword": "Louis Rossmann, Samsung",
@@ -497,10 +517,6 @@
     {
       "keyword": "Last Week Tonight",
       "matches": 2
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 9
     },
     {
       "keyword": "More Perfect Union",
@@ -539,10 +555,6 @@
       "matches": 1
     },
     {
-      "keyword": "The Daily Show",
-      "matches": 7
-    },
-    {
       "keyword": "Real Stories, testimony",
       "matches": 1
     },
@@ -553,164 +565,220 @@
   ],
   "mostViral48h": [
     {
+      "title": "Will Republicans Divorce Trump Over Xi Embrace? Probably Not | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "f31fBMgYfWY",
+      "viewsPerHour": 226671,
+      "views": 2102976,
+      "ageHours": 9.3
+    },
+    {
       "title": "Brazil Elections 2026: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "MIYCek92ICQ",
-      "viewsPerHour": 73286,
-      "views": 2036785,
-      "ageHours": 27.8
+      "viewsPerHour": 69455,
+      "views": 2069447,
+      "ageHours": 29.8
     },
     {
       "title": "S13 E24: Texas Midterms & Brazil Elections 2026: 9/27/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "iXSKsjpiClQ",
-      "viewsPerHour": 23229,
-      "views": 726979,
-      "ageHours": 31.3
+      "viewsPerHour": 22161,
+      "views": 737946,
+      "ageHours": 33.3
+    },
+    {
+      "title": "Evan Gershkovich - Why Imprisoning a Journalist Is a Bad Idea | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "LysJH31-MpE",
+      "viewsPerHour": 17922,
+      "views": 157722,
+      "ageHours": 8.8
     },
     {
       "title": "The Importance Of \"Soft Fascination\"",
       "channel": "The Rest Is Science",
       "videoId": "7sJLgNxGWu8",
-      "viewsPerHour": 13712,
-      "views": 511402,
-      "ageHours": 37.3
+      "viewsPerHour": 13337,
+      "views": 524142,
+      "ageHours": 39.3
+    },
+    {
+      "title": "PBS News Hour full episode, Sept. 28, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "8mDfbIIGt84",
+      "viewsPerHour": 9237,
+      "views": 116990,
+      "ageHours": 12.7
+    },
+    {
+      "title": "Trump-Xi Summit Produces Pandas, Tuberville Warns of Furries & Meta Launches Muse | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "s2WGo47xP7w",
+      "viewsPerHour": 6724,
+      "views": 75911,
+      "ageHours": 11.3
+    },
+    {
+      "title": "The Last Word with Lawrence O'Donnell - Sept. 28 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "uxyynVHmmPY",
+      "viewsPerHour": 3949,
+      "views": 27808,
+      "ageHours": 7
+    },
+    {
+      "title": "Rules for becoming a repairman ",
+      "channel": "Louis Rossmann",
+      "videoId": "gVHPe1mdZGQ",
+      "viewsPerHour": 3800,
+      "views": 29588,
+      "ageHours": 7.8
     },
     {
       "title": "LIVE Students vs Billionaires Town Hall ft. Rep. Alexandria Ocasio-Cortez",
       "channel": "More Perfect Union",
       "videoId": "lnOL86WTc04",
-      "viewsPerHour": 3856,
-      "views": 137944,
-      "ageHours": 35.8
+      "viewsPerHour": 3658,
+      "views": 138170,
+      "ageHours": 37.8
     },
     {
       "title": "Matthew McConaughey & Woody Harrelson (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "2JakQDisOlE",
-      "viewsPerHour": 3251,
+      "viewsPerHour": 2994,
       "views": 75728,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "Hunting RARE Rides | Counting Cars",
       "channel": "History",
       "videoId": "olU6drQOl4g",
-      "viewsPerHour": 2981,
-      "views": 42617,
-      "ageHours": 14.3
+      "viewsPerHour": 2681,
+      "views": 43699,
+      "ageHours": 16.3
     },
     {
       "title": "Widespread DISGUST': Kash Patel's FBI plunged into more chaos after crucial TOP DEPUTY leaves",
       "channel": "MS NOW",
       "videoId": "c5iwxwpAHAY",
-      "viewsPerHour": 2264,
+      "viewsPerHour": 1945,
       "views": 27642,
-      "ageHours": 12.2
+      "ageHours": 14.2
     },
     {
       "title": "Could These Mysteries Point to Alien Contact? *Marathon* | In Search of Aliens",
       "channel": "History",
       "videoId": "3h6ILQOOjC8",
-      "viewsPerHour": 1751,
-      "views": 67057,
-      "ageHours": 38.3
+      "viewsPerHour": 1681,
+      "views": 67752,
+      "ageHours": 40.3
+    },
+    {
+      "title": "FBI CHAOS: data breach concerns and co-deputy director quits",
+      "channel": "MS NOW",
+      "videoId": "HNLjW1-iAG4",
+      "viewsPerHour": 1553,
+      "views": 2920,
+      "ageHours": 1.9
+    },
+    {
+      "title": "The Rachel Maddow Show - Sept. 28 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "G6nOsb9zGKA",
+      "viewsPerHour": 1403,
+      "views": 9181,
+      "ageHours": 6.5
     },
     {
       "title": "the value of happiness ",
       "channel": "Louis Rossmann",
       "videoId": "jctBYDoUHTE",
-      "viewsPerHour": 1240,
+      "viewsPerHour": 1163,
       "views": 37837,
-      "ageHours": 30.5
+      "ageHours": 32.5
     },
     {
       "title": "The Legend of Bigfoot is Born | In Search of Aliens (S1)",
       "channel": "History",
       "videoId": "llJMDFqqnIc",
-      "viewsPerHour": 1127,
-      "views": 45402,
-      "ageHours": 40.3
-    },
-    {
-      "title": "Absolutely jaw-dropping': U.S. Ambassador says Trump offered to sell arms to China",
-      "channel": "MS NOW",
-      "videoId": "GwCK43gaNcc",
-      "viewsPerHour": 856,
-      "views": 20752,
-      "ageHours": 24.2
+      "viewsPerHour": 1080,
+      "views": 45671,
+      "ageHours": 42.3
     },
     {
       "title": "CORRUPT!': Trump's use of taxpayer money for PERSONAL ADS is so bad even MAGA is calling it out",
       "channel": "MS NOW",
       "videoId": "qIrE2OoIoi4",
-      "viewsPerHour": 686,
+      "viewsPerHour": 588,
       "views": 8282,
-      "ageHours": 12.1
+      "ageHours": 14.1
     },
     {
       "title": "DEVASTATING' Medical debt ad EXPOSES party divide on affordability, rural healthcare",
       "channel": "MS NOW",
       "videoId": "9ng2gFYGh3U",
-      "viewsPerHour": 627,
+      "viewsPerHour": 567,
       "views": 11943,
-      "ageHours": 19.1
+      "ageHours": 21.1
     },
     {
       "title": "PBS News Hour live episode, Sept. 28, 2026",
       "channel": "PBS NewsHour",
       "videoId": "ATitujKeTGg",
-      "viewsPerHour": 533,
+      "viewsPerHour": 463,
       "views": 6987,
-      "ageHours": 13.1
-    },
-    {
-      "title": "NEVER connect your food supply to the web: Samsung fridge fail after bad holiday software update",
-      "channel": "Louis Rossmann",
-      "videoId": "UqDNjs7cB2c",
-      "viewsPerHour": 480,
-      "views": 5987,
-      "ageHours": 12.5
+      "ageHours": 15.1
     },
     {
       "title": "Flock camera installer calls 911 on investigatetv reporter, expecting privacy in public 🤣",
       "channel": "Louis Rossmann",
       "videoId": "0z6Waqvp93M",
-      "viewsPerHour": 479,
+      "viewsPerHour": 455,
       "views": 18106,
-      "ageHours": 37.8
+      "ageHours": 39.8
+    },
+    {
+      "title": "NEVER connect your food supply to the web: Samsung fridge fail after bad holiday software update",
+      "channel": "Louis Rossmann",
+      "videoId": "UqDNjs7cB2c",
+      "viewsPerHour": 414,
+      "views": 5987,
+      "ageHours": 14.5
     },
     {
       "title": "Ashley Judd Uncovers Her Family’s Darkest Chapter | Who Do You Think You Are USA?",
       "channel": "Real Stories",
       "videoId": "sNZtGbXmkBs",
-      "viewsPerHour": 242,
-      "views": 10119,
-      "ageHours": 41.8
+      "viewsPerHour": 236,
+      "views": 10346,
+      "ageHours": 43.8
     },
     {
       "title": "High mortgage rates compound housing affordability challenges",
       "channel": "PBS NewsHour",
       "videoId": "0EawCYrsdUc",
-      "viewsPerHour": 57,
+      "viewsPerHour": 49,
       "views": 669,
-      "ageHours": 11.8
+      "ageHours": 13.8
     },
     {
       "title": "Inside HSBC and Know Your Value's 'Women and Wealth' Event ",
       "channel": "MS NOW",
       "videoId": "1CXhElrY6-s",
-      "viewsPerHour": 25,
+      "viewsPerHour": 23,
       "views": 460,
-      "ageHours": 18.4
+      "ageHours": 20.4
     },
     {
       "title": "How Blanche is shattering DOJ's standard of political independence",
       "channel": "PBS NewsHour",
       "videoId": "X_iyv1uRrhc",
-      "viewsPerHour": 14,
+      "viewsPerHour": 12,
       "views": 162,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "WATCH LIVE: Senate expected to vote on the Protect College Sports Act",
@@ -718,7 +786,7 @@
       "videoId": "nB3jCDRFKbk",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 19.7
+      "ageHours": 21.7
     },
     {
       "title": "WATCH LIVE: Trump announces new steel plant project in Iowa",
@@ -726,7 +794,7 @@
       "videoId": "uT32PR3V6Tw",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 19.7
+      "ageHours": 21.7
     },
     {
       "title": "WATCH LIVE: Duffy joins Sen. Schmitt in proposing new funding to modernize air traffic control",
@@ -734,7 +802,7 @@
       "videoId": "geYgMq5XeAo",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 19.7
+      "ageHours": 21.7
     }
   ]
 }
