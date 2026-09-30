@@ -1,12 +1,12 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
-      "count": 7
+      "channel": "MS NOW",
+      "count": 10
     },
     {
-      "channel": "MS NOW",
-      "count": 8
+      "channel": "PBS NewsHour",
+      "count": 6
     },
     {
       "channel": "Louis Rossmann",
@@ -26,11 +26,11 @@
     },
     {
       "channel": "The Daily Show",
-      "count": 12
+      "count": 10
     },
     {
       "channel": "History",
-      "count": 61
+      "count": 60
     },
     {
       "channel": "Last Week Tonight",
@@ -83,16 +83,16 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "PBS NewsHour",
-      "count": 5
+      "keyword": "MS NOW, AI",
+      "count": 2
     },
     {
       "keyword": "MS NOW",
-      "count": 7
+      "count": 8
     },
     {
-      "keyword": "MS NOW, AI",
-      "count": 1
+      "keyword": "PBS NewsHour",
+      "count": 4
     },
     {
       "keyword": "PBS NewsHour, AI",
@@ -116,7 +116,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "count": 9
+      "count": 8
     },
     {
       "keyword": "The Daily Show, AI, artificial intelligence",
@@ -140,7 +140,7 @@
     },
     {
       "keyword": "UFO",
-      "count": 41
+      "count": 40
     },
     {
       "keyword": "AI, artificial intelligence, UAP",
@@ -148,7 +148,7 @@
     },
     {
       "keyword": "The Daily Show, AI",
-      "count": 2
+      "count": 1
     },
     {
       "keyword": "The Interview",
@@ -253,12 +253,16 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-09-30",
+      "videos": 2
+    },
+    {
       "date": "2026-09-29",
       "videos": 23
     },
     {
       "date": "2026-09-28",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-09-27",
@@ -278,7 +282,7 @@
     },
     {
       "date": "2026-09-23",
-      "videos": 10
+      "videos": 8
     },
     {
       "date": "2026-09-22",
@@ -481,26 +485,22 @@
       "videos": 4
     },
     {
-      "date": "2026-07-31",
-      "videos": 1
-    },
-    {
       "date": "2026-06-14",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
-      "matches": 5
+      "keyword": "MS NOW, AI",
+      "matches": 2
     },
     {
       "keyword": "MS NOW",
-      "matches": 7
+      "matches": 8
     },
     {
-      "keyword": "MS NOW, AI",
-      "matches": 1
+      "keyword": "PBS NewsHour",
+      "matches": 4
     },
     {
       "keyword": "PBS NewsHour, AI",
@@ -508,7 +508,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "matches": 10
+      "matches": 9
     },
     {
       "keyword": "NOVA",
@@ -584,217 +584,217 @@
       "title": "Will Republicans Divorce Trump Over Xi Embrace? Probably Not | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "f31fBMgYfWY",
-      "viewsPerHour": 164441,
+      "viewsPerHour": 152474,
       "views": 4159454,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
       "title": "Brazil Elections 2026: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "MIYCek92ICQ",
-      "viewsPerHour": 53568,
+      "viewsPerHour": 51343,
       "views": 2454061,
-      "ageHours": 45.8
+      "ageHours": 47.8
     },
     {
       "title": "Evan Gershkovich - Why Imprisoning a Journalist Is a Bad Idea | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "LysJH31-MpE",
-      "viewsPerHour": 12311,
+      "viewsPerHour": 11399,
       "views": 305525,
-      "ageHours": 24.8
-    },
-    {
-      "title": "A HUMILIATING mistake': Nicolle reacts to GOP's mortifying SELF-OWN during Jack Smith hearing",
-      "channel": "MS NOW",
-      "videoId": "c_1iu_0hmiM",
-      "viewsPerHour": 4298,
-      "views": 25670,
-      "ageHours": 6
-    },
-    {
-      "title": "PBS News Hour full episode, Sept. 28, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "8mDfbIIGt84",
-      "viewsPerHour": 4079,
-      "views": 116990,
-      "ageHours": 28.7
+      "ageHours": 26.8
     },
     {
       "title": "Trump-Xi Summit Produces Pandas, Tuberville Warns of Furries & Meta Launches Muse | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "s2WGo47xP7w",
-      "viewsPerHour": 3929,
+      "viewsPerHour": 3663,
       "views": 107297,
-      "ageHours": 27.3
+      "ageHours": 29.3
+    },
+    {
+      "title": "A HUMILIATING mistake': Nicolle reacts to GOP's mortifying SELF-OWN during Jack Smith hearing",
+      "channel": "MS NOW",
+      "videoId": "c_1iu_0hmiM",
+      "viewsPerHour": 3226,
+      "views": 25670,
+      "ageHours": 8
     },
     {
       "title": "Matthew McConaughey & Woody Harrelson (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "2JakQDisOlE",
-      "viewsPerHour": 1833,
+      "viewsPerHour": 1749,
       "views": 75728,
-      "ageHours": 41.3
+      "ageHours": 43.3
     },
     {
       "title": "Hunting RARE Rides | Counting Cars",
       "channel": "History",
       "videoId": "olU6drQOl4g",
-      "viewsPerHour": 1735,
+      "viewsPerHour": 1634,
       "views": 56053,
-      "ageHours": 32.3
+      "ageHours": 34.3
+    },
+    {
+      "title": "Sold the American people a FALSE bill of goods': Trump voters say they feel 'HOODWINKED' - by Trump",
+      "channel": "MS NOW",
+      "videoId": "yVqR405CXCc",
+      "viewsPerHour": 1272,
+      "views": 2715,
+      "ageHours": 2.1
     },
     {
       "title": "Rules for becoming a repairman ",
       "channel": "Louis Rossmann",
       "videoId": "gVHPe1mdZGQ",
-      "viewsPerHour": 1243,
+      "viewsPerHour": 1147,
       "views": 29588,
-      "ageHours": 23.8
+      "ageHours": 25.8
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Sept. 28 | Audio Only",
       "channel": "MS NOW",
       "videoId": "uxyynVHmmPY",
-      "viewsPerHour": 1206,
+      "viewsPerHour": 1110,
       "views": 27808,
-      "ageHours": 23.1
+      "ageHours": 25
     },
     {
       "title": "Best Buy's arbitration terms push a new boundary",
       "channel": "Louis Rossmann",
       "videoId": "vLrmNpmGClM",
-      "viewsPerHour": 1200,
+      "viewsPerHour": 965,
       "views": 9750,
-      "ageHours": 8.1
+      "ageHours": 10.1
     },
     {
       "title": "PBS News Hour live episode, Sept. 29, 2026",
       "channel": "PBS NewsHour",
       "videoId": "XeJhCN8mLYA",
-      "viewsPerHour": 1035,
+      "viewsPerHour": 803,
       "views": 7094,
-      "ageHours": 6.9
+      "ageHours": 8.8
     },
     {
       "title": "Woody Harrelson Is Fully Convinced He's Matthew McConaughey's Brother | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "wqBIfE4CThQ",
-      "viewsPerHour": 766,
+      "viewsPerHour": 683,
       "views": 12490,
-      "ageHours": 16.3
+      "ageHours": 18.3
     },
     {
       "title": "Overworked Underpaid: The Strange Economics of “Essential” Jobs",
       "channel": "Real Stories",
       "videoId": "RscTnfE6PSI",
-      "viewsPerHour": 741,
+      "viewsPerHour": 626,
       "views": 8004,
-      "ageHours": 10.8
+      "ageHours": 12.8
     },
     {
       "title": "Trump, GOP policies sparking Iowa FARM CRISIS, give Democrats 'a shot at WINNING': Caputo",
       "channel": "MS NOW",
       "videoId": "Z5t56TufmRs",
-      "viewsPerHour": 579,
+      "viewsPerHour": 500,
       "views": 7300,
-      "ageHours": 12.6
+      "ageHours": 14.6
     },
     {
       "title": "CF Before Birth: The Battle Against Cystic Fibrosis | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "GSgxgsRPXUw",
-      "viewsPerHour": 460,
+      "viewsPerHour": 387,
       "views": 4800,
-      "ageHours": 10.4
-    },
-    {
-      "title": "REVOLT' fueling resurgence of Florida Democrats: Voters are 'FED UP and FRUSTRATED'",
-      "channel": "MS NOW",
-      "videoId": "iuRmEy8lSJg",
-      "viewsPerHour": 420,
-      "views": 5023,
-      "ageHours": 11.9
+      "ageHours": 12.4
     },
     {
       "title": "The Rachel Maddow Show - Sept. 28 | Audio Only",
       "channel": "MS NOW",
       "videoId": "G6nOsb9zGKA",
-      "viewsPerHour": 407,
+      "viewsPerHour": 374,
       "views": 9181,
-      "ageHours": 22.6
+      "ageHours": 24.5
     },
     {
-      "title": "AI KILLER ROBOTS are here *now* — as MAGA techies talk 'future' doom",
+      "title": "REVOLT' fueling resurgence of Florida Democrats: Voters are 'FED UP and FRUSTRATED'",
       "channel": "MS NOW",
-      "videoId": "oXgsm4aym_Q",
-      "viewsPerHour": 344,
-      "views": 2117,
-      "ageHours": 6.2
+      "videoId": "iuRmEy8lSJg",
+      "viewsPerHour": 360,
+      "views": 5023,
+      "ageHours": 13.9
     },
     {
       "title": "Conan's Audio Engineer Surprises Him With A New Microphone | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "o84uiRaAjAA",
-      "viewsPerHour": 342,
+      "viewsPerHour": 298,
       "views": 4554,
-      "ageHours": 13.3
+      "ageHours": 15.3
+    },
+    {
+      "title": "AI KILLER ROBOTS are here *now* — as MAGA techies talk 'future' doom",
+      "channel": "MS NOW",
+      "videoId": "oXgsm4aym_Q",
+      "viewsPerHour": 260,
+      "views": 2117,
+      "ageHours": 8.1
     },
     {
       "title": "NEVER connect your food supply to the web: Samsung fridge fail after bad holiday software update",
       "channel": "Louis Rossmann",
       "videoId": "UqDNjs7cB2c",
-      "viewsPerHour": 196,
+      "viewsPerHour": 184,
       "views": 5987,
-      "ageHours": 30.5
+      "ageHours": 32.5
+    },
+    {
+      "title": "Understanding the 'Large Language Models' at the center of the AI boom ",
+      "channel": "MS NOW",
+      "videoId": "zvVW_sZxRi8",
+      "viewsPerHour": 170,
+      "views": 320,
+      "ageHours": 1.9
     },
     {
       "title": "FBI CHAOS: data breach concerns and co-deputy director quits",
       "channel": "MS NOW",
       "videoId": "HNLjW1-iAG4",
-      "viewsPerHour": 163,
+      "viewsPerHour": 147,
       "views": 2920,
-      "ageHours": 17.9
+      "ageHours": 19.9
     },
     {
       "title": "WATCH: Sen. Booker questions Jack Smith on Trump investigations",
       "channel": "PBS NewsHour",
       "videoId": "7p17npEM-ZY",
-      "viewsPerHour": 59,
+      "viewsPerHour": 50,
       "views": 681,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "New York prosecutors reopen investigation into alleged rape at Cornell University",
       "channel": "PBS NewsHour",
       "videoId": "v4NTbQC9CVQ",
-      "viewsPerHour": 53,
+      "viewsPerHour": 39,
       "views": 306,
-      "ageHours": 5.8
+      "ageHours": 7.8
     },
     {
       "title": "The VILLAINIZATION of Black single mothers has been CRITICAL to politics'",
       "channel": "MS NOW",
       "videoId": "svS56GCDIbo",
-      "viewsPerHour": 22,
+      "viewsPerHour": 16,
       "views": 129,
-      "ageHours": 5.9
+      "ageHours": 7.9
     },
     {
       "title": "WATCH: Sen. Graham questions Jack Smith on Trump investigations",
       "channel": "PBS NewsHour",
       "videoId": "FobVTw-HGAE",
-      "viewsPerHour": 10,
+      "viewsPerHour": 8,
       "views": 115,
-      "ageHours": 11.6
-    },
-    {
-      "title": "Affordability and accountability top priorities if Democrats take House, Jeffries says",
-      "channel": "PBS NewsHour",
-      "videoId": "9Nu_hSxcNdE",
-      "viewsPerHour": 5,
-      "views": 26,
-      "ageHours": 5.6
+      "ageHours": 13.6
     },
     {
       "title": "WATCH: Oz and Rubio introduce new America.gov website's AI features",
@@ -802,7 +802,15 @@
       "videoId": "mOekWMZzNRY",
       "viewsPerHour": 4,
       "views": 48,
-      "ageHours": 11.7
+      "ageHours": 13.7
+    },
+    {
+      "title": "Affordability and accountability top priorities if Democrats take House, Jeffries says",
+      "channel": "PBS NewsHour",
+      "videoId": "9Nu_hSxcNdE",
+      "viewsPerHour": 3,
+      "views": 26,
+      "ageHours": 7.5
     }
   ]
 }
