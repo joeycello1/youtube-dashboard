@@ -2,15 +2,15 @@
   "videosPerChannel": [
     {
       "channel": "PBS NewsHour",
-      "count": 9
+      "count": 6
     },
     {
       "channel": "MS NOW",
-      "count": 5
+      "count": 3
     },
     {
       "channel": "Louis Rossmann",
-      "count": 24
+      "count": 23
     },
     {
       "channel": "Conan O'Brien",
@@ -18,11 +18,11 @@
     },
     {
       "channel": "The Daily Show",
-      "count": 13
+      "count": 11
     },
     {
       "channel": "History",
-      "count": 59
+      "count": 58
     },
     {
       "channel": "NOVA",
@@ -84,15 +84,15 @@
   "keywordFrequency": [
     {
       "keyword": "PBS NewsHour",
-      "count": 8
+      "count": 6
     },
     {
       "keyword": "MS NOW",
-      "count": 4
+      "count": 3
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 23
+      "count": 22
     },
     {
       "keyword": "Conan O'Brien",
@@ -100,11 +100,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "count": 10
-    },
-    {
-      "keyword": "MS NOW, AI",
-      "count": 1
+      "count": 8
     },
     {
       "keyword": "The Daily Show, AI",
@@ -112,11 +108,7 @@
     },
     {
       "keyword": "UFO",
-      "count": 40
-    },
-    {
-      "keyword": "PBS NewsHour, AI",
-      "count": 1
+      "count": 39
     },
     {
       "keyword": "NOVA",
@@ -254,11 +246,11 @@
   "dailySummary": [
     {
       "date": "2026-09-30",
-      "videos": 17
+      "videos": 15
     },
     {
       "date": "2026-09-29",
-      "videos": 12
+      "videos": 9
     },
     {
       "date": "2026-09-28",
@@ -278,7 +270,7 @@
     },
     {
       "date": "2026-09-24",
-      "videos": 12
+      "videos": 10
     },
     {
       "date": "2026-09-23",
@@ -314,7 +306,7 @@
     },
     {
       "date": "2026-09-15",
-      "videos": 3
+      "videos": 2
     },
     {
       "date": "2026-09-14",
@@ -478,7 +470,7 @@
     },
     {
       "date": "2026-08-02",
-      "videos": 3
+      "videos": 2
     },
     {
       "date": "2026-06-14",
@@ -488,11 +480,11 @@
   "topKeywordsWeek": [
     {
       "keyword": "PBS NewsHour",
-      "matches": 8
+      "matches": 6
     },
     {
       "keyword": "MS NOW",
-      "matches": 4
+      "matches": 3
     },
     {
       "keyword": "Louis Rossmann",
@@ -507,20 +499,12 @@
       "matches": 8
     },
     {
-      "keyword": "MS NOW, AI",
-      "matches": 1
-    },
-    {
       "keyword": "The Daily Show, AI",
       "matches": 2
     },
     {
       "keyword": "UFO",
       "matches": 3
-    },
-    {
-      "keyword": "PBS NewsHour, AI",
-      "matches": 1
     },
     {
       "keyword": "NOVA",
@@ -580,201 +564,153 @@
       "title": "GOP Pushes for DEI in Welfare-to-Work Ad & Trump Launches America.gov AI | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "H5VxuVNEn4w",
-      "viewsPerHour": 83934,
+      "viewsPerHour": 77999,
       "views": 2206743,
-      "ageHours": 26.3
+      "ageHours": 28.3
     },
     {
       "title": "In Memoriam: Michael Kosta Pays Tribute to All the Great Americans We've Lost | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "a7LbyRwgm50",
-      "viewsPerHour": 11188,
+      "viewsPerHour": 9998,
       "views": 188106,
-      "ageHours": 16.8
+      "ageHours": 18.8
     },
     {
       "title": "Marlon James Shares the Truth Within “The Disappearers” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Ep04QpLCqyc",
-      "viewsPerHour": 4295,
+      "viewsPerHour": 3974,
       "views": 106533,
-      "ageHours": 24.8
-    },
-    {
-      "title": "PBS News Hour full episode, Sept. 29, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "e2DgJeGXiPE",
-      "viewsPerHour": 3007,
-      "views": 86285,
-      "ageHours": 28.7
+      "ageHours": 26.8
     },
     {
       "title": "Government Interest in the Ranch | The Secret of Skinwalker Ranch (S1, E8) | Full Episode",
       "channel": "History",
       "videoId": "07stQSflD2I",
-      "viewsPerHour": 1380,
+      "viewsPerHour": 1289,
       "views": 39041,
-      "ageHours": 28.3
+      "ageHours": 30.3
     },
     {
       "title": "AWKWARD! MAGA candidate Ken Paxton CAUGHT ON TAPE complaining about Trump's toxic, sabotaging antics",
       "channel": "MS NOW",
       "videoId": "97IM1bC4wBI",
-      "viewsPerHour": 1318,
+      "viewsPerHour": 979,
       "views": 7636,
-      "ageHours": 5.8
+      "ageHours": 7.8
     },
     {
       "title": "FetchTV becomes ransomware, revokes LOCAL recording of free TV unless you pay ransomware fee",
       "channel": "Louis Rossmann",
       "videoId": "G7WHentkWss",
-      "viewsPerHour": 1106,
+      "viewsPerHour": 976,
       "views": 16611,
-      "ageHours": 15
-    },
-    {
-      "title": "PBS News Hour live episode, Sept. 30, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "vfoFmrCbZ0s",
-      "viewsPerHour": 960,
-      "views": 7076,
-      "ageHours": 7.4
+      "ageHours": 17
     },
     {
       "title": "CF Before Birth: The Battle Against Cystic Fibrosis | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "GSgxgsRPXUw",
-      "viewsPerHour": 834,
+      "viewsPerHour": 789,
       "views": 28716,
-      "ageHours": 34.4
+      "ageHours": 36.4
     },
     {
-      "title": "Rules for becoming a repairman ",
-      "channel": "Louis Rossmann",
-      "videoId": "gVHPe1mdZGQ",
-      "viewsPerHour": 619,
-      "views": 29588,
-      "ageHours": 47.8
+      "title": "PBS News Hour live episode, Sept. 30, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "vfoFmrCbZ0s",
+      "viewsPerHour": 755,
+      "views": 7076,
+      "ageHours": 9.4
     },
     {
       "title": "Kyle MacLachlan (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "dROiKJz-jeI",
-      "viewsPerHour": 486,
+      "viewsPerHour": 432,
       "views": 7911,
-      "ageHours": 16.3
-    },
-    {
-      "title": "Nikole Hannah-Jones reflects on her daughter's school experience",
-      "channel": "PBS NewsHour",
-      "videoId": "bH0uSq5K_fI",
-      "viewsPerHour": 484,
-      "views": 14099,
-      "ageHours": 29.1
+      "ageHours": 18.3
     },
     {
       "title": "Overworked Underpaid: The Strange Economics of “Essential” Jobs",
       "channel": "Real Stories",
       "videoId": "RscTnfE6PSI",
-      "viewsPerHour": 438,
+      "viewsPerHour": 414,
       "views": 15227,
-      "ageHours": 34.8
+      "ageHours": 36.8
     },
     {
       "title": "They're LYING': Joe RIPS ICE after Texas man shot by agent is charged with assaulting officer",
       "channel": "MS NOW",
       "videoId": "oJRcfkUOFu0",
-      "viewsPerHour": 431,
+      "viewsPerHour": 369,
       "views": 5189,
-      "ageHours": 12.1
+      "ageHours": 14.1
     },
     {
       "title": "WATCH LIVE: Senate expected to consider Ratepayer Protection Act, Stop Insider Trading Act",
       "channel": "PBS NewsHour",
       "videoId": "7VEHCEfoEF4",
-      "viewsPerHour": 350,
+      "viewsPerHour": 308,
       "views": 5193,
-      "ageHours": 14.9
+      "ageHours": 16.9
     },
     {
       "title": "Woody Harrelson Is Fully Convinced He's Matthew McConaughey's Brother | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "wqBIfE4CThQ",
-      "viewsPerHour": 310,
+      "viewsPerHour": 295,
       "views": 12490,
-      "ageHours": 40.3
+      "ageHours": 42.3
     },
     {
       "title": "Best Buy's arbitration terms push a new boundary",
       "channel": "Louis Rossmann",
       "videoId": "vLrmNpmGClM",
-      "viewsPerHour": 304,
+      "viewsPerHour": 286,
       "views": 9750,
-      "ageHours": 32.1
-    },
-    {
-      "title": "Ayad Akhtar blurs fiction and reality in new novel, 'The Radiance'",
-      "channel": "PBS NewsHour",
-      "videoId": "0zY4Mjsjp4k",
-      "viewsPerHour": 244,
-      "views": 7143,
-      "ageHours": 29.2
+      "ageHours": 34.1
     },
     {
       "title": "Conan's Audio Engineer Surprises Him With A New Microphone | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "o84uiRaAjAA",
-      "viewsPerHour": 122,
+      "viewsPerHour": 116,
       "views": 4554,
-      "ageHours": 37.3
-    },
-    {
-      "title": "Sold the American people a FALSE bill of goods': Trump voters say they feel 'HOODWINKED' - by Trump",
-      "channel": "MS NOW",
-      "videoId": "yVqR405CXCc",
-      "viewsPerHour": 113,
-      "views": 2715,
-      "ageHours": 24.1
+      "ageHours": 39.3
     },
     {
       "title": "NY legislature considering changes to sexual assault laws amid Cornell's alleged gang rape case",
       "channel": "MS NOW",
       "videoId": "tcNcY2ayiss",
-      "viewsPerHour": 76,
+      "viewsPerHour": 65,
       "views": 918,
-      "ageHours": 12
+      "ageHours": 14
     },
     {
       "title": "Former diplomats assess U.S. withdrawal from Iraq and region's future",
       "channel": "PBS NewsHour",
       "videoId": "_YY-TXTlMiY",
-      "viewsPerHour": 71,
+      "viewsPerHour": 52,
       "views": 401,
-      "ageHours": 5.6
+      "ageHours": 7.6
     },
     {
       "title": "WATCH LIVE: NASA holds news conference ahead of SpaceX Crew‑13 launch to space station",
       "channel": "PBS NewsHour",
       "videoId": "MVaO_II4AE0",
-      "viewsPerHour": 56,
+      "viewsPerHour": 47,
       "views": 546,
-      "ageHours": 9.7
-    },
-    {
-      "title": "Understanding the 'Large Language Models' at the center of the AI boom ",
-      "channel": "MS NOW",
-      "videoId": "zvVW_sZxRi8",
-      "viewsPerHour": 13,
-      "views": 320,
-      "ageHours": 23.9
+      "ageHours": 11.7
     },
     {
       "title": "WATCH LIVE: Vance joins Texas Gov. Abbott at manufacturing facility groundbreaking ceremony",
       "channel": "PBS NewsHour",
       "videoId": "xyHyBdaXkt8",
-      "viewsPerHour": 6,
+      "viewsPerHour": 5,
       "views": 86,
-      "ageHours": 14.8
+      "ageHours": 16.8
     },
     {
       "title": "WATCH LIVE: Trump makes announcement with Commerce Secretary Lutnick",
@@ -782,7 +718,7 @@
       "videoId": "lXGRvsCEVUg",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 11.7
+      "ageHours": 13.7
     }
   ]
 }
