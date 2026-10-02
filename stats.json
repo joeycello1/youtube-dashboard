@@ -1,16 +1,32 @@
 {
   "videosPerChannel": [
     {
+      "channel": "Real Stories",
+      "count": 44
+    },
+    {
+      "channel": "Jeremy Corbell",
+      "count": 9
+    },
+    {
       "channel": "MS NOW",
-      "count": 3
+      "count": 4
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 13
     },
     {
       "channel": "PBS NewsHour",
-      "count": 3
+      "count": 5
+    },
+    {
+      "channel": "NOVA",
+      "count": 21
     },
     {
       "channel": "History",
-      "count": 58
+      "count": 59
     },
     {
       "channel": "Conan O'Brien",
@@ -21,24 +37,12 @@
       "count": 19
     },
     {
-      "channel": "The Daily Show",
-      "count": 11
-    },
-    {
       "channel": "Louis Rossmann",
       "count": 22
     },
     {
       "channel": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "channel": "NOVA",
-      "count": 20
-    },
-    {
-      "channel": "Real Stories",
-      "count": 42
     },
     {
       "channel": "Last Week Tonight",
@@ -53,16 +57,12 @@
       "count": 7
     },
     {
-      "channel": "Jeremy Corbell",
-      "count": 7
-    },
-    {
       "channel": "Jonathan Pie",
       "count": 4
     },
     {
       "channel": "Diary of a CEO",
-      "count": 2
+      "count": 1
     },
     {
       "channel": "Area 52",
@@ -83,16 +83,36 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "Real Stories",
+      "count": 42
+    },
+    {
+      "keyword": "Corbell, George Knapp, Grusch, UAP, UFO",
+      "count": 1
+    },
+    {
       "keyword": "MS NOW",
-      "count": 3
+      "count": 4
+    },
+    {
+      "keyword": "Corbell, UFO, George Knapp",
+      "count": 4
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 9
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 3
+      "count": 5
+    },
+    {
+      "keyword": "NOVA",
+      "count": 34
     },
     {
       "keyword": "UFO",
-      "count": 40
+      "count": 41
     },
     {
       "keyword": "Conan O'Brien",
@@ -101,10 +121,6 @@
     {
       "keyword": "More Perfect Union",
       "count": 16
-    },
-    {
-      "keyword": "The Daily Show",
-      "count": 7
     },
     {
       "keyword": "Louis Rossmann",
@@ -117,14 +133,6 @@
     {
       "keyword": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "keyword": "NOVA",
-      "count": 33
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 40
     },
     {
       "keyword": "The Daily Show, AI, artificial intelligence",
@@ -149,10 +157,6 @@
     {
       "keyword": "Corbell, UAP, UFO, George Knapp",
       "count": 1
-    },
-    {
-      "keyword": "Corbell, UFO, George Knapp",
-      "count": 3
     },
     {
       "keyword": "Real Stories, testimony",
@@ -180,10 +184,6 @@
     },
     {
       "keyword": "Corbell, UFO, whistleblower, George Knapp, UAP",
-      "count": 1
-    },
-    {
-      "keyword": "AI, artificial intelligence",
       "count": 1
     },
     {
@@ -241,8 +241,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-10-02",
+      "videos": 6
+    },
+    {
       "date": "2026-10-01",
-      "videos": 14
+      "videos": 19
     },
     {
       "date": "2026-09-30",
@@ -298,7 +302,7 @@
     },
     {
       "date": "2026-09-17",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-09-16",
@@ -475,28 +479,44 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "Real Stories",
+      "matches": 5
+    },
+    {
+      "keyword": "Corbell, George Knapp, Grusch, UAP, UFO",
+      "matches": 1
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 3
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 3
-    },
-    {
-      "keyword": "UFO",
       "matches": 4
     },
     {
-      "keyword": "Conan O'Brien",
-      "matches": 8
-    },
-    {
-      "keyword": "More Perfect Union",
+      "keyword": "Corbell, UFO, George Knapp",
       "matches": 2
     },
     {
       "keyword": "The Daily Show",
+      "matches": 8
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 5
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 4
+    },
+    {
+      "keyword": "UFO",
+      "matches": 5
+    },
+    {
+      "keyword": "Conan O'Brien",
       "matches": 7
+    },
+    {
+      "keyword": "More Perfect Union",
+      "matches": 2
     },
     {
       "keyword": "Louis Rossmann",
@@ -509,14 +529,6 @@
     {
       "keyword": "The Rest Is Science",
       "matches": 2
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 3
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 3
     },
     {
       "keyword": "The Daily Show, AI, artificial intelligence",
@@ -541,148 +553,216 @@
     {
       "keyword": "Corbell, UAP, UFO, George Knapp",
       "matches": 1
-    },
-    {
-      "keyword": "Corbell, UFO, George Knapp",
-      "matches": 1
     }
   ],
   "mostViral48h": [
     {
+      "title": "Pete Hegseth Purges Weirdos and Wimps & Trump Drops a New Hispanic Stereotype | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "JSuiWyrR2bY",
+      "viewsPerHour": 115006,
+      "views": 1183751,
+      "ageHours": 10.3
+    },
+    {
       "title": "AI Leaders Sign Trump's \"Self-Policing\" Pact & Eric Schmitt's Ambush Backfires | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Rb0KxHkguOo",
-      "viewsPerHour": 75865,
-      "views": 2434060,
-      "ageHours": 32.1
+      "viewsPerHour": 71670,
+      "views": 2442160,
+      "ageHours": 34.1
+    },
+    {
+      "title": "Karl Rove and David Axelrod give their midterm predictions",
+      "channel": "PBS NewsHour",
+      "videoId": "thvuNk8cYSA",
+      "viewsPerHour": 28571,
+      "views": 371993,
+      "ageHours": 13
     },
     {
       "title": "How Elon Musk Turned Rural Internet Into A $770 Million Payday",
       "channel": "More Perfect Union",
       "videoId": "LQYnlg4pO9o",
-      "viewsPerHour": 19487,
-      "views": 385746,
-      "ageHours": 19.8
+      "viewsPerHour": 18696,
+      "views": 407305,
+      "ageHours": 21.8
     },
     {
-      "title": "In Memoriam: Michael Kosta Pays Tribute to All the Great Americans We've Lost | The Daily Show",
+      "title": "John Wilson On Making A Feature Documentary About Concrete | The Daily Show",
       "channel": "The Daily Show",
-      "videoId": "a7LbyRwgm50",
-      "viewsPerHour": 6805,
-      "views": 318584,
-      "ageHours": 46.8
+      "videoId": "ofWw4QWRXoA",
+      "viewsPerHour": 8207,
+      "views": 72084,
+      "ageHours": 8.8
+    },
+    {
+      "title": "PBS News Hour full episode, Oct. 1, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "qEtoRmtTgz8",
+      "viewsPerHour": 8010,
+      "views": 102258,
+      "ageHours": 12.8
     },
     {
       "title": "CMAT On Embodying Funeral Humor in “Euro-Country” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "bhINc77YZYc",
-      "viewsPerHour": 5836,
-      "views": 179678,
-      "ageHours": 30.8
+      "viewsPerHour": 5546,
+      "views": 181793,
+      "ageHours": 32.8
+    },
+    {
+      "title": "Land, Sea & Sky: UFO Sightings *Marathon* | UFO Files",
+      "channel": "History",
+      "videoId": "64Y2JIWV54g",
+      "viewsPerHour": 4624,
+      "views": 75301,
+      "ageHours": 16.3
     },
     {
       "title": "Hacking The Kendama With Physics",
       "channel": "The Rest Is Science",
       "videoId": "0gg7WYhQJkk",
-      "viewsPerHour": 4583,
-      "views": 161398,
-      "ageHours": 35.2
+      "viewsPerHour": 4386,
+      "views": 163187,
+      "ageHours": 37.2
     },
     {
       "title": "High Tech Research on the Ranch | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "Cw9ugwzwmwM",
-      "viewsPerHour": 4406,
-      "views": 80614,
-      "ageHours": 18.3
+      "viewsPerHour": 4137,
+      "views": 83926,
+      "ageHours": 20.3
+    },
+    {
+      "title": "The Last Word with Lawrence O'Donnell - Oct. 1 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "kgM8mI1WD6A",
+      "viewsPerHour": 4114,
+      "views": 31001,
+      "ageHours": 7.5
     },
     {
       "title": "CMAT Performs \"Euro-Country\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "lihg13wuGzQ",
-      "viewsPerHour": 4135,
-      "views": 125298,
-      "ageHours": 30.3
+      "viewsPerHour": 3909,
+      "views": 126218,
+      "ageHours": 32.3
+    },
+    {
+      "title": "Did Trump Authorize The Shootdown Of UFOs?",
+      "channel": "Jeremy Corbell",
+      "videoId": "7Ht63W-nBYA",
+      "viewsPerHour": 2935,
+      "views": 15532,
+      "ageHours": 5.3
+    },
+    {
+      "title": "Does Notre Dame Still Sound the Same? | What the Physics?!",
+      "channel": "NOVA",
+      "videoId": "RawuQJadkX0",
+      "viewsPerHour": 1050,
+      "views": 15796,
+      "ageHours": 15
     },
     {
       "title": "Conan O'Brien Must Go: Season 3 Roundtable Discussion Part 1 | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "giSSzAh3Cm0",
-      "viewsPerHour": 947,
+      "viewsPerHour": 869,
       "views": 21112,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "WATCH LIVE: Lava flows from Hawaii's Kīlauea volcano",
       "channel": "PBS NewsHour",
       "videoId": "CG9mX1cyuFw",
-      "viewsPerHour": 947,
+      "viewsPerHour": 863,
       "views": 19519,
-      "ageHours": 20.6
+      "ageHours": 22.6
+    },
+    {
+      "title": "“DID THE PRESIDENT AUTHORIZE UFO SHOOTDOWNS?”",
+      "channel": "Jeremy Corbell",
+      "videoId": "z1dU3oW-lRg",
+      "viewsPerHour": 838,
+      "views": 6760,
+      "ageHours": 8.1
+    },
+    {
+      "title": "Christa Pike: The Truth Behind America's Most Shocking Murder Case",
+      "channel": "Real Stories",
+      "videoId": "lq_OZG5jjxk",
+      "viewsPerHour": 772,
+      "views": 3306,
+      "ageHours": 4.3
     },
     {
       "title": "Silver Springs Maryland, Last FULU tour stop",
       "channel": "Louis Rossmann",
       "videoId": "Z1wgLmu-0z0",
-      "viewsPerHour": 571,
+      "viewsPerHour": 536,
       "views": 17440,
-      "ageHours": 30.6
+      "ageHours": 32.6
+    },
+    {
+      "title": "The DNA Mystery: How a Mother Proved Science Wrong",
+      "channel": "Real Stories",
+      "videoId": "QKzNdGV1lHA",
+      "viewsPerHour": 450,
+      "views": 8223,
+      "ageHours": 18.3
     },
     {
       "title": "FetchTV becomes ransomware, revokes LOCAL recording of free TV unless you pay ransomware fee",
       "channel": "Louis Rossmann",
       "videoId": "G7WHentkWss",
-      "viewsPerHour": 369,
+      "viewsPerHour": 353,
       "views": 16611,
-      "ageHours": 45
+      "ageHours": 47
     },
     {
       "title": "WATCH LIVE: NASA launches Crew-13 to International Space Station",
       "channel": "PBS NewsHour",
       "videoId": "yvZCveGCEk4",
-      "viewsPerHour": 328,
+      "viewsPerHour": 296,
       "views": 5957,
-      "ageHours": 18.2
-    },
-    {
-      "title": "Kyle MacLachlan (Full Episode) | Where Everybody Knows Your Name",
-      "channel": "Conan O'Brien",
-      "videoId": "dROiKJz-jeI",
-      "viewsPerHour": 171,
-      "views": 7911,
-      "ageHours": 46.3
+      "ageHours": 20.2
     },
     {
       "title": "Hegseth thinks job is fighting 'culture wars' while troops lose their lives in Iran war: Dem Rep.",
       "channel": "MS NOW",
       "videoId": "eqo1OHyOmMM",
-      "viewsPerHour": 93,
+      "viewsPerHour": 84,
       "views": 1654,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "Conan Calls Out Woody Harrelson For His Houseboat Hustle | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "5qqvzFuc10Y",
-      "viewsPerHour": 67,
+      "viewsPerHour": 61,
       "views": 1289,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "Inappropriate place for a triumphal monument': Veteran slams Trump's 250-foot arch",
       "channel": "MS NOW",
       "videoId": "WwO5BtbvhW0",
-      "viewsPerHour": 52,
+      "viewsPerHour": 46,
       "views": 915,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "Can Dems flip a historically-red state? Texas 'want change,' Dem candidate says",
       "channel": "MS NOW",
       "videoId": "bNeRgNngh7c",
-      "viewsPerHour": 31,
+      "viewsPerHour": 28,
       "views": 551,
-      "ageHours": 17.8
+      "ageHours": 19.7
     },
     {
       "title": "WATCH LIVE: Vance speaks at a Republican rally in Florida",
@@ -690,7 +770,7 @@
       "videoId": "bT_N4tWbL9Q",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 17.9
+      "ageHours": 19.9
     }
   ]
 }
