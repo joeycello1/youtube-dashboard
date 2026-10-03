@@ -1,16 +1,24 @@
 {
   "videosPerChannel": [
     {
-      "channel": "Louis Rossmann",
-      "count": 21
+      "channel": "MS NOW",
+      "count": 6
     },
     {
-      "channel": "MS NOW",
-      "count": 7
+      "channel": "The Daily Show",
+      "count": 13
+    },
+    {
+      "channel": "The Interview",
+      "count": 8
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 20
     },
     {
       "channel": "PBS NewsHour",
-      "count": 4
+      "count": 3
     },
     {
       "channel": "Conan O'Brien",
@@ -21,12 +29,8 @@
       "count": 59
     },
     {
-      "channel": "The Daily Show",
-      "count": 13
-    },
-    {
       "channel": "Real Stories",
-      "count": 44
+      "count": 43
     },
     {
       "channel": "Jeremy Corbell",
@@ -53,10 +57,6 @@
       "count": 6
     },
     {
-      "channel": "The Interview",
-      "count": 7
-    },
-    {
       "channel": "Jonathan Pie",
       "count": 4
     },
@@ -70,7 +70,7 @@
     },
     {
       "channel": "Mayim Bialik",
-      "count": 7
+      "count": 6
     },
     {
       "channel": "Nat Geo",
@@ -83,16 +83,24 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "Louis Rossmann",
-      "count": 20
+      "keyword": "MS NOW",
+      "count": 6
     },
     {
-      "keyword": "MS NOW",
+      "keyword": "The Daily Show, AI",
+      "count": 4
+    },
+    {
+      "keyword": "The Interview",
       "count": 7
     },
     {
+      "keyword": "Louis Rossmann",
+      "count": 19
+    },
+    {
       "keyword": "PBS NewsHour",
-      "count": 4
+      "count": 3
     },
     {
       "keyword": "Conan O'Brien",
@@ -103,12 +111,8 @@
       "count": 35
     },
     {
-      "keyword": "The Daily Show, AI",
-      "count": 4
-    },
-    {
       "keyword": "Real Stories",
-      "count": 42
+      "count": 41
     },
     {
       "keyword": "Corbell, George Knapp, Grusch, UAP, UFO",
@@ -149,10 +153,6 @@
     {
       "keyword": "AI, artificial intelligence, UAP",
       "count": 2
-    },
-    {
-      "keyword": "The Interview",
-      "count": 6
     },
     {
       "keyword": "Corbell, UAP, UFO, George Knapp",
@@ -236,17 +236,17 @@
     },
     {
       "keyword": "UFO, UAP",
-      "count": 2
+      "count": 1
     }
   ],
   "dailySummary": [
     {
       "date": "2026-10-03",
-      "videos": 5
+      "videos": 8
     },
     {
       "date": "2026-10-02",
-      "videos": 16
+      "videos": 13
     },
     {
       "date": "2026-10-01",
@@ -270,7 +270,7 @@
     },
     {
       "date": "2026-09-26",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-09-25",
@@ -302,7 +302,7 @@
     },
     {
       "date": "2026-09-18",
-      "videos": 9
+      "videos": 8
     },
     {
       "date": "2026-09-17",
@@ -470,7 +470,7 @@
     },
     {
       "date": "2026-08-04",
-      "videos": 3
+      "videos": 1
     },
     {
       "date": "2026-06-14",
@@ -479,16 +479,24 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "MS NOW",
+      "matches": 6
+    },
+    {
+      "keyword": "The Daily Show, AI",
+      "matches": 4
+    },
+    {
+      "keyword": "The Interview",
+      "matches": 1
+    },
+    {
       "keyword": "Louis Rossmann",
       "matches": 7
     },
     {
-      "keyword": "MS NOW",
-      "matches": 7
-    },
-    {
       "keyword": "PBS NewsHour",
-      "matches": 4
+      "matches": 3
     },
     {
       "keyword": "Conan O'Brien",
@@ -499,12 +507,8 @@
       "matches": 4
     },
     {
-      "keyword": "The Daily Show, AI",
-      "matches": 3
-    },
-    {
       "keyword": "Real Stories",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "Corbell, George Knapp, Grusch, UAP, UFO",
@@ -552,177 +556,177 @@
       "title": "Pete Hegseth Purges Weirdos and Wimps & Trump Drops a New Hispanic Stereotype | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "JSuiWyrR2bY",
-      "viewsPerHour": 61856,
-      "views": 2372632,
-      "ageHours": 38.4
+      "viewsPerHour": 59405,
+      "views": 2393660,
+      "ageHours": 40.3
     },
     {
       "title": "Nick Offerman Salutes Gen Z for Easing Off Tech & Embracing Their Hobbies | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "NP_HYeaKm4I",
-      "viewsPerHour": 24465,
-      "views": 704632,
-      "ageHours": 28.8
+      "viewsPerHour": 23537,
+      "views": 723473,
+      "ageHours": 30.7
+    },
+    {
+      "title": "Jon Stewart on Trump's Xi Summit & Jordan Klepper on Hegseth's Anti-Weirdo Crusade | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "b4_ShEnsVuU",
+      "viewsPerHour": 16176,
+      "views": 85500,
+      "ageHours": 5.3
     },
     {
       "title": "WATCH LIVE: Lava erupts from Hawaii's Kīlauea volcano",
       "channel": "PBS NewsHour",
       "videoId": "ZwNFvNYOvCI",
-      "viewsPerHour": 9364,
+      "viewsPerHour": 8224,
       "views": 130713,
-      "ageHours": 14
+      "ageHours": 15.9
     },
     {
       "title": "It's not just swing states. 'Trump is dragging EVERYBODY down.'",
       "channel": "MS NOW",
       "videoId": "jdMU0BKzfXM",
-      "viewsPerHour": 9214,
+      "viewsPerHour": 7832,
       "views": 101132,
-      "ageHours": 11
+      "ageHours": 12.9
     },
     {
       "title": "They were doing the nuclear': White House fails to explain Trump's weird claim",
       "channel": "MS NOW",
       "videoId": "R0IGSEsJEMI",
-      "viewsPerHour": 7565,
+      "viewsPerHour": 6476,
       "views": 87052,
-      "ageHours": 11.5
+      "ageHours": 13.4
     },
     {
       "title": "John Wilson On Making A Feature Documentary About Concrete | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ofWw4QWRXoA",
-      "viewsPerHour": 3934,
-      "views": 144968,
-      "ageHours": 36.8
+      "viewsPerHour": 3777,
+      "views": 146476,
+      "ageHours": 38.8
     },
     {
       "title": "Did Trump Authorize The Shootdown Of UFOs?",
       "channel": "Jeremy Corbell",
       "videoId": "7Ht63W-nBYA",
-      "viewsPerHour": 3125,
-      "views": 104222,
-      "ageHours": 33.4
-    },
-    {
-      "title": "Agents alarmed as Patel points FBI toward elections: report",
-      "channel": "MS NOW",
-      "videoId": "zJ0bFeYKEhI",
-      "viewsPerHour": 2948,
-      "views": 32184,
-      "ageHours": 10.9
+      "viewsPerHour": 2995,
+      "views": 105718,
+      "ageHours": 35.3
     },
     {
       "title": "Christa Pike: The Truth Behind America's Most Shocking Murder Case",
       "channel": "Real Stories",
       "videoId": "lq_OZG5jjxk",
-      "viewsPerHour": 2590,
-      "views": 83768,
-      "ageHours": 32.3
+      "viewsPerHour": 2531,
+      "views": 86769,
+      "ageHours": 34.3
+    },
+    {
+      "title": "Agents alarmed as Patel points FBI toward elections: report",
+      "channel": "MS NOW",
+      "videoId": "zJ0bFeYKEhI",
+      "viewsPerHour": 2504,
+      "views": 32184,
+      "ageHours": 12.9
     },
     {
       "title": "Folded Coin Wards Off Evil | The Curse of Oak Island",
       "channel": "History",
       "videoId": "HPGI2QYRQ9s",
-      "viewsPerHour": 2572,
-      "views": 62636,
-      "ageHours": 24.4
+      "viewsPerHour": 2430,
+      "views": 63873,
+      "ageHours": 26.3
     },
     {
       "title": "Land, Sea & Sky: UFO Sightings *Marathon* | UFO Files",
       "channel": "History",
       "videoId": "64Y2JIWV54g",
-      "viewsPerHour": 2255,
-      "views": 100018,
-      "ageHours": 44.3
+      "viewsPerHour": 2174,
+      "views": 100630,
+      "ageHours": 46.3
+    },
+    {
+      "title": "Why Chris Rock Forgives His Canceled Friends | The Interview",
+      "channel": "The Interview",
+      "videoId": "FL3xS2hQrak",
+      "viewsPerHour": 2132,
+      "views": 11806,
+      "ageHours": 5.5
     },
     {
       "title": "FetchTV says I'm \"inaccurate & unfair\"... you want to play? LET'S GO! 😤",
       "channel": "Louis Rossmann",
       "videoId": "JFjWSAFWFXU",
-      "viewsPerHour": 1264,
+      "viewsPerHour": 997,
       "views": 9147,
-      "ageHours": 7.2
-    },
-    {
-      "title": "Bourne, Bond, and Best Espionage Movies (Feat. Matt Gourley) | Bley's Arcade",
-      "channel": "Conan O'Brien",
-      "videoId": "sqh0N5cHTsE",
-      "viewsPerHour": 510,
-      "views": 10373,
-      "ageHours": 20.4
+      "ageHours": 9.2
     },
     {
       "title": "Does Notre Dame Still Sound the Same? | What the Physics?!",
       "channel": "NOVA",
       "videoId": "RawuQJadkX0",
-      "viewsPerHour": 504,
-      "views": 21710,
-      "ageHours": 43.1
+      "viewsPerHour": 485,
+      "views": 21857,
+      "ageHours": 45
+    },
+    {
+      "title": "Bourne, Bond, and Best Espionage Movies (Feat. Matt Gourley) | Bley's Arcade",
+      "channel": "Conan O'Brien",
+      "videoId": "sqh0N5cHTsE",
+      "viewsPerHour": 465,
+      "views": 10373,
+      "ageHours": 22.3
+    },
+    {
+      "title": "Renee Good's family attorney speaks out after suing Trump admin, ICE agents over her death",
+      "channel": "MS NOW",
+      "videoId": "IbDAS3wSNoU",
+      "viewsPerHour": 399,
+      "views": 795,
+      "ageHours": 2
     },
     {
       "title": "PBS News Hour live episode, Oct. 2, 2026",
       "channel": "PBS NewsHour",
       "videoId": "VHddj_8FMtM",
-      "viewsPerHour": 366,
+      "viewsPerHour": 333,
       "views": 7030,
-      "ageHours": 19.2
+      "ageHours": 21.1
     },
     {
       "title": "“DID THE PRESIDENT AUTHORIZE UFO SHOOTDOWNS?”",
       "channel": "Jeremy Corbell",
       "videoId": "z1dU3oW-lRg",
-      "viewsPerHour": 316,
-      "views": 11415,
-      "ageHours": 36.1
+      "viewsPerHour": 301,
+      "views": 11465,
+      "ageHours": 38.1
     },
     {
       "title": "These guys are all NUTS': Scaramucci LAYS INTO Republican party, Trump, and 'WEASEL' Ted Cruz",
       "channel": "MS NOW",
       "videoId": "3zMlt-zH9gI",
-      "viewsPerHour": 254,
+      "viewsPerHour": 229,
       "views": 4596,
-      "ageHours": 18.1
-    },
-    {
-      "title": "The DNA Mystery: How a Mother Proved Science Wrong",
-      "channel": "Real Stories",
-      "videoId": "QKzNdGV1lHA",
-      "viewsPerHour": 246,
-      "views": 11388,
-      "ageHours": 46.4
+      "ageHours": 20
     },
     {
       "title": "Conan's Plaque Has Gone Missing! | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "HDEfv4Sggmo",
-      "viewsPerHour": 238,
+      "viewsPerHour": 222,
       "views": 6044,
-      "ageHours": 25.4
-    },
-    {
-      "title": "Is Trumponomics working? Inflation growth outpacing wage growth",
-      "channel": "MS NOW",
-      "videoId": "e6UHkOF7dSM",
-      "viewsPerHour": 54,
-      "views": 1288,
-      "ageHours": 24
+      "ageHours": 27.3
     },
     {
       "title": "Wouldn't vote for him again, NO WAY IN HELL!': Trump, GOP brace for BRUTAL midterms as voters rage",
       "channel": "MS NOW",
       "videoId": "YdmeoTXVTLM",
-      "viewsPerHour": 26,
-      "views": 452,
-      "ageHours": 17.6
-    },
-    {
-      "title": "Fmr. Asst. U.S. Attorney breaks down the legal hurdles in Cornell probe",
-      "channel": "MS NOW",
-      "videoId": "4HD1l8UXad0",
       "viewsPerHour": 23,
-      "views": 555,
-      "ageHours": 24.1
+      "views": 452,
+      "ageHours": 19.5
     },
     {
       "title": "A look at how overseas ballots are verified and counted in the midterms",
@@ -730,15 +734,7 @@
       "videoId": "DJD6A6DffKw",
       "viewsPerHour": 3,
       "views": 55,
-      "ageHours": 17.7
-    },
-    {
-      "title": "WATCH LIVE: Trump holds rally in Alabama as he tries to boost midterm enthusiasm",
-      "channel": "PBS NewsHour",
-      "videoId": "ryoqblN_iFg",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 24.3
+      "ageHours": 19.7
     }
   ]
 }
