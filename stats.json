@@ -1,12 +1,16 @@
 {
   "videosPerChannel": [
     {
+      "channel": "Louis Rossmann",
+      "count": 21
+    },
+    {
       "channel": "MS NOW",
-      "count": 4
+      "count": 7
     },
     {
       "channel": "PBS NewsHour",
-      "count": 3
+      "count": 4
     },
     {
       "channel": "Conan O'Brien",
@@ -35,10 +39,6 @@
     {
       "channel": "More Perfect Union",
       "count": 19
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 20
     },
     {
       "channel": "The Rest Is Science",
@@ -83,12 +83,16 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "Louis Rossmann",
+      "count": 20
+    },
+    {
       "keyword": "MS NOW",
-      "count": 4
+      "count": 7
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 3
+      "count": 4
     },
     {
       "keyword": "Conan O'Brien",
@@ -125,10 +129,6 @@
     {
       "keyword": "More Perfect Union",
       "count": 16
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 19
     },
     {
       "keyword": "The Rest Is Science",
@@ -240,6 +240,10 @@
     }
   ],
   "dailySummary": [
+    {
+      "date": "2026-10-03",
+      "videos": 5
+    },
     {
       "date": "2026-10-02",
       "videos": 16
@@ -475,12 +479,16 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "Louis Rossmann",
+      "matches": 7
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 4
+      "matches": 7
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 3
+      "matches": 4
     },
     {
       "keyword": "Conan O'Brien",
@@ -519,10 +527,6 @@
       "matches": 2
     },
     {
-      "keyword": "Louis Rossmann",
-      "matches": 6
-    },
-    {
       "keyword": "The Rest Is Science",
       "matches": 2
     },
@@ -552,177 +556,209 @@
       "title": "Pete Hegseth Purges Weirdos and Wimps & Trump Drops a New Hispanic Stereotype | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "JSuiWyrR2bY",
-      "viewsPerHour": 71841,
-      "views": 2319931,
-      "ageHours": 32.3
+      "viewsPerHour": 68053,
+      "views": 2334005,
+      "ageHours": 34.3
     },
     {
       "title": "Nick Offerman Salutes Gen Z for Easing Off Tech & Embracing Their Hobbies | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "NP_HYeaKm4I",
-      "viewsPerHour": 28661,
-      "views": 651664,
-      "ageHours": 22.7
+      "viewsPerHour": 26934,
+      "views": 666379,
+      "ageHours": 24.7
     },
     {
       "title": "How Elon Musk Turned Rural Internet Into A $770 Million Payday",
       "channel": "More Perfect Union",
       "videoId": "LQYnlg4pO9o",
-      "viewsPerHour": 15924,
-      "views": 697245,
-      "ageHours": 43.8
+      "viewsPerHour": 15471,
+      "views": 708416,
+      "ageHours": 45.8
+    },
+    {
+      "title": "It's not just swing states. 'Trump is dragging EVERYBODY down.'",
+      "channel": "MS NOW",
+      "videoId": "jdMU0BKzfXM",
+      "viewsPerHour": 14624,
+      "views": 101132,
+      "ageHours": 6.9
+    },
+    {
+      "title": "WATCH LIVE: Lava erupts from Hawaii's Kīlauea volcano",
+      "channel": "PBS NewsHour",
+      "videoId": "ZwNFvNYOvCI",
+      "viewsPerHour": 13206,
+      "views": 130713,
+      "ageHours": 9.9
+    },
+    {
+      "title": "They were doing the nuclear': White House fails to explain Trump's weird claim",
+      "channel": "MS NOW",
+      "videoId": "R0IGSEsJEMI",
+      "viewsPerHour": 11690,
+      "views": 87052,
+      "ageHours": 7.4
+    },
+    {
+      "title": "Agents alarmed as Patel points FBI toward elections: report",
+      "channel": "MS NOW",
+      "videoId": "zJ0bFeYKEhI",
+      "viewsPerHour": 4695,
+      "views": 32184,
+      "ageHours": 6.9
     },
     {
       "title": "John Wilson On Making A Feature Documentary About Concrete | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ofWw4QWRXoA",
-      "viewsPerHour": 4584,
-      "views": 141122,
-      "ageHours": 30.8
+      "viewsPerHour": 4334,
+      "views": 142104,
+      "ageHours": 32.8
     },
     {
       "title": "Did Trump Authorize The Shootdown Of UFOs?",
       "channel": "Jeremy Corbell",
       "videoId": "7Ht63W-nBYA",
-      "viewsPerHour": 3662,
-      "views": 99936,
-      "ageHours": 27.3
-    },
-    {
-      "title": "Folded Coin Wards Off Evil | The Curse of Oak Island",
-      "channel": "History",
-      "videoId": "HPGI2QYRQ9s",
-      "viewsPerHour": 3197,
-      "views": 58468,
-      "ageHours": 18.3
+      "viewsPerHour": 3457,
+      "views": 101279,
+      "ageHours": 29.3
     },
     {
       "title": "High Tech Research on the Ranch | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "Cw9ugwzwmwM",
-      "viewsPerHour": 3172,
-      "views": 134146,
-      "ageHours": 42.3
+      "viewsPerHour": 3059,
+      "views": 135499,
+      "ageHours": 44.3
+    },
+    {
+      "title": "Folded Coin Wards Off Evil | The Curse of Oak Island",
+      "channel": "History",
+      "videoId": "HPGI2QYRQ9s",
+      "viewsPerHour": 2950,
+      "views": 59852,
+      "ageHours": 20.3
+    },
+    {
+      "title": "FetchTV says I'm \"inaccurate & unfair\"... you want to play? LET'S GO! 😤",
+      "channel": "Louis Rossmann",
+      "videoId": "JFjWSAFWFXU",
+      "viewsPerHour": 2882,
+      "views": 9147,
+      "ageHours": 3.2
     },
     {
       "title": "Christa Pike: The Truth Behind America's Most Shocking Murder Case",
       "channel": "Real Stories",
       "videoId": "lq_OZG5jjxk",
-      "viewsPerHour": 2852,
-      "views": 74963,
-      "ageHours": 26.3
+      "viewsPerHour": 2742,
+      "views": 77549,
+      "ageHours": 28.3
     },
     {
       "title": "Land, Sea & Sky: UFO Sightings *Marathon* | UFO Files",
       "channel": "History",
       "videoId": "64Y2JIWV54g",
-      "viewsPerHour": 2555,
-      "views": 97823,
-      "ageHours": 38.3
+      "viewsPerHour": 2447,
+      "views": 98585,
+      "ageHours": 40.3
     },
     {
       "title": "Bourne, Bond, and Best Espionage Movies (Feat. Matt Gourley) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "sqh0N5cHTsE",
-      "viewsPerHour": 726,
+      "viewsPerHour": 636,
       "views": 10373,
-      "ageHours": 14.3
+      "ageHours": 16.3
     },
     {
       "title": "Does Notre Dame Still Sound the Same? | What the Physics?!",
       "channel": "NOVA",
       "videoId": "RawuQJadkX0",
-      "viewsPerHour": 577,
-      "views": 21362,
-      "ageHours": 37
+      "viewsPerHour": 549,
+      "views": 21449,
+      "ageHours": 39
     },
     {
       "title": "PBS News Hour live episode, Oct. 2, 2026",
       "channel": "PBS NewsHour",
       "videoId": "VHddj_8FMtM",
-      "viewsPerHour": 535,
+      "viewsPerHour": 464,
       "views": 7030,
-      "ageHours": 13.1
-    },
-    {
-      "title": "Conan O'Brien Must Go: Season 3 Roundtable Discussion Part 1 | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "giSSzAh3Cm0",
-      "viewsPerHour": 456,
-      "views": 21112,
-      "ageHours": 46.3
-    },
-    {
-      "title": "These guys are all NUTS': Scaramucci LAYS INTO Republican party, Trump, and 'WEASEL' Ted Cruz",
-      "channel": "MS NOW",
-      "videoId": "3zMlt-zH9gI",
-      "viewsPerHour": 382,
-      "views": 4596,
-      "ageHours": 12
+      "ageHours": 15.1
     },
     {
       "title": "“DID THE PRESIDENT AUTHORIZE UFO SHOOTDOWNS?”",
       "channel": "Jeremy Corbell",
       "videoId": "z1dU3oW-lRg",
-      "viewsPerHour": 374,
-      "views": 11245,
-      "ageHours": 30.1
+      "viewsPerHour": 353,
+      "views": 11311,
+      "ageHours": 32.1
+    },
+    {
+      "title": "These guys are all NUTS': Scaramucci LAYS INTO Republican party, Trump, and 'WEASEL' Ted Cruz",
+      "channel": "MS NOW",
+      "videoId": "3zMlt-zH9gI",
+      "viewsPerHour": 327,
+      "views": 4596,
+      "ageHours": 14
     },
     {
       "title": "Conan's Plaque Has Gone Missing! | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "HDEfv4Sggmo",
-      "viewsPerHour": 313,
+      "viewsPerHour": 284,
       "views": 6044,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "The DNA Mystery: How a Mother Proved Science Wrong",
       "channel": "Real Stories",
       "videoId": "QKzNdGV1lHA",
-      "viewsPerHour": 274,
-      "views": 11045,
-      "ageHours": 40.3
+      "viewsPerHour": 264,
+      "views": 11150,
+      "ageHours": 42.3
     },
     {
       "title": "Is Trumponomics working? Inflation growth outpacing wage growth",
       "channel": "MS NOW",
       "videoId": "e6UHkOF7dSM",
-      "viewsPerHour": 72,
+      "viewsPerHour": 65,
       "views": 1288,
-      "ageHours": 18
+      "ageHours": 20
     },
     {
       "title": "Wouldn't vote for him again, NO WAY IN HELL!': Trump, GOP brace for BRUTAL midterms as voters rage",
       "channel": "MS NOW",
       "videoId": "YdmeoTXVTLM",
-      "viewsPerHour": 39,
+      "viewsPerHour": 33,
       "views": 452,
-      "ageHours": 11.5
-    },
-    {
-      "title": "Fmr. Asst. U.S. Attorney breaks down the legal hurdles in Cornell probe",
-      "channel": "MS NOW",
-      "videoId": "4HD1l8UXad0",
-      "viewsPerHour": 31,
-      "views": 555,
-      "ageHours": 18
+      "ageHours": 13.5
     },
     {
       "title": "Conan Calls Out Woody Harrelson For His Houseboat Hustle | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "5qqvzFuc10Y",
-      "viewsPerHour": 30,
+      "viewsPerHour": 28,
       "views": 1289,
-      "ageHours": 43.3
+      "ageHours": 45.3
+    },
+    {
+      "title": "Fmr. Asst. U.S. Attorney breaks down the legal hurdles in Cornell probe",
+      "channel": "MS NOW",
+      "videoId": "4HD1l8UXad0",
+      "viewsPerHour": 28,
+      "views": 555,
+      "ageHours": 20
     },
     {
       "title": "A look at how overseas ballots are verified and counted in the midterms",
       "channel": "PBS NewsHour",
       "videoId": "DJD6A6DffKw",
-      "viewsPerHour": 5,
+      "viewsPerHour": 4,
       "views": 55,
-      "ageHours": 11.7
+      "ageHours": 13.7
     },
     {
       "title": "WATCH LIVE: Trump holds rally in Alabama as he tries to boost midterm enthusiasm",
@@ -730,7 +766,7 @@
       "videoId": "ryoqblN_iFg",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 18.3
+      "ageHours": 20.3
     }
   ]
 }
