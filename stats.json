@@ -2,19 +2,19 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 3
+      "count": 5
     },
     {
       "channel": "PBS NewsHour",
-      "count": 3
-    },
-    {
-      "channel": "History",
-      "count": 60
+      "count": 5
     },
     {
       "channel": "Conan O'Brien",
-      "count": 11
+      "count": 12
+    },
+    {
+      "channel": "History",
+      "count": 59
     },
     {
       "channel": "The Daily Show",
@@ -38,7 +38,7 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 21
+      "count": 20
     },
     {
       "channel": "The Rest Is Science",
@@ -84,19 +84,19 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 3
+      "count": 5
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 3
+      "count": 5
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 12
     },
     {
       "keyword": "NOVA",
       "count": 35
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 11
     },
     {
       "keyword": "The Daily Show, AI",
@@ -120,7 +120,7 @@
     },
     {
       "keyword": "UFO",
-      "count": 41
+      "count": 40
     },
     {
       "keyword": "More Perfect Union",
@@ -128,7 +128,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 20
+      "count": 19
     },
     {
       "keyword": "The Rest Is Science",
@@ -242,7 +242,7 @@
   "dailySummary": [
     {
       "date": "2026-10-02",
-      "videos": 12
+      "videos": 17
     },
     {
       "date": "2026-10-01",
@@ -302,7 +302,7 @@
     },
     {
       "date": "2026-09-17",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-09-16",
@@ -469,10 +469,6 @@
       "videos": 3
     },
     {
-      "date": "2026-08-03",
-      "videos": 1
-    },
-    {
       "date": "2026-06-14",
       "videos": 1
     }
@@ -480,19 +476,19 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 3
+      "matches": 5
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 3
+      "matches": 5
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
     },
     {
       "keyword": "NOVA",
       "matches": 4
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 7
     },
     {
       "keyword": "The Daily Show, AI",
@@ -556,201 +552,233 @@
       "title": "Pete Hegseth Purges Weirdos and Wimps & Trump Drops a New Hispanic Stereotype | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "JSuiWyrR2bY",
-      "viewsPerHour": 98694,
-      "views": 2005161,
-      "ageHours": 20.3
+      "viewsPerHour": 93551,
+      "views": 2085840,
+      "ageHours": 22.3
     },
     {
       "title": "AI Leaders Sign Trump's \"Self-Policing\" Pact & Eric Schmitt's Ambush Backfires | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Rb0KxHkguOo",
-      "viewsPerHour": 57687,
-      "views": 2543923,
-      "ageHours": 44.1
+      "viewsPerHour": 55757,
+      "views": 2569216,
+      "ageHours": 46.1
     },
     {
       "title": "Nick Offerman Salutes Gen Z for Easing Off Tech & Embracing Their Hobbies | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "NP_HYeaKm4I",
-      "viewsPerHour": 37045,
-      "views": 398658,
-      "ageHours": 10.8
+      "viewsPerHour": 35473,
+      "views": 451948,
+      "ageHours": 12.7
     },
     {
       "title": "How Elon Musk Turned Rural Internet Into A $770 Million Payday",
       "channel": "More Perfect Union",
       "videoId": "LQYnlg4pO9o",
-      "viewsPerHour": 18772,
-      "views": 597128,
-      "ageHours": 31.8
+      "viewsPerHour": 18317,
+      "views": 618929,
+      "ageHours": 33.8
     },
     {
       "title": "Karl Rove and David Axelrod give their midterm predictions",
       "channel": "PBS NewsHour",
       "videoId": "thvuNk8cYSA",
-      "viewsPerHour": 16143,
+      "viewsPerHour": 14866,
       "views": 371993,
-      "ageHours": 23
+      "ageHours": 25
     },
     {
       "title": "John Wilson On Making A Feature Documentary About Concrete | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ofWw4QWRXoA",
-      "viewsPerHour": 6340,
-      "views": 119232,
-      "ageHours": 18.8
-    },
-    {
-      "title": "Did Trump Authorize The Shootdown Of UFOs?",
-      "channel": "Jeremy Corbell",
-      "videoId": "7Ht63W-nBYA",
-      "viewsPerHour": 5014,
-      "views": 76794,
-      "ageHours": 15.3
-    },
-    {
-      "title": "CMAT On Embodying Funeral Humor in “Euro-Country” | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "bhINc77YZYc",
-      "viewsPerHour": 4840,
-      "views": 207166,
-      "ageHours": 42.8
+      "viewsPerHour": 5979,
+      "views": 124279,
+      "ageHours": 20.8
     },
     {
       "title": "Folded Coin Wards Off Evil | The Curse of Oak Island",
       "channel": "History",
       "videoId": "HPGI2QYRQ9s",
-      "viewsPerHour": 4781,
-      "views": 30172,
-      "ageHours": 6.3
+      "viewsPerHour": 4807,
+      "views": 39852,
+      "ageHours": 8.3
+    },
+    {
+      "title": "CMAT On Embodying Funeral Humor in “Euro-Country” | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "bhINc77YZYc",
+      "viewsPerHour": 4756,
+      "views": 212980,
+      "ageHours": 44.8
+    },
+    {
+      "title": "Did Trump Authorize The Shootdown Of UFOs?",
+      "channel": "Jeremy Corbell",
+      "videoId": "7Ht63W-nBYA",
+      "viewsPerHour": 4726,
+      "views": 81742,
+      "ageHours": 17.3
     },
     {
       "title": "PBS News Hour full episode, Oct. 1, 2026",
       "channel": "PBS NewsHour",
       "videoId": "qEtoRmtTgz8",
-      "viewsPerHour": 4487,
+      "viewsPerHour": 4128,
       "views": 102258,
-      "ageHours": 22.8
-    },
-    {
-      "title": "Hacking The Kendama With Physics",
-      "channel": "The Rest Is Science",
-      "videoId": "0gg7WYhQJkk",
-      "viewsPerHour": 3744,
-      "views": 176843,
-      "ageHours": 47.2
+      "ageHours": 24.8
     },
     {
       "title": "High Tech Research on the Ranch | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "Cw9ugwzwmwM",
-      "viewsPerHour": 3655,
-      "views": 110786,
-      "ageHours": 30.3
+      "viewsPerHour": 3618,
+      "views": 116837,
+      "ageHours": 32.3
     },
     {
       "title": "Land, Sea & Sky: UFO Sightings *Marathon* | UFO Files",
       "channel": "History",
       "videoId": "64Y2JIWV54g",
-      "viewsPerHour": 3410,
-      "views": 89706,
-      "ageHours": 26.3
+      "viewsPerHour": 3214,
+      "views": 90903,
+      "ageHours": 28.3
     },
     {
       "title": "CMAT Performs \"Euro-Country\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "lihg13wuGzQ",
-      "viewsPerHour": 3196,
-      "views": 135254,
-      "ageHours": 42.3
+      "viewsPerHour": 3103,
+      "views": 137463,
+      "ageHours": 44.3
     },
     {
       "title": "Christa Pike: The Truth Behind America's Most Shocking Murder Case",
       "channel": "Real Stories",
       "videoId": "lq_OZG5jjxk",
-      "viewsPerHour": 2737,
-      "views": 39164,
-      "ageHours": 14.3
+      "viewsPerHour": 2835,
+      "views": 46175,
+      "ageHours": 16.3
+    },
+    {
+      "title": "Bourne, Bond, and Best Espionage Movies (Feat. Matt Gourley) | Bley's Arcade",
+      "channel": "Conan O'Brien",
+      "videoId": "sqh0N5cHTsE",
+      "viewsPerHour": 2414,
+      "views": 10373,
+      "ageHours": 4.3
+    },
+    {
+      "title": "These guys are all NUTS': Scaramucci LAYS INTO Republican party, Trump, and 'WEASEL' Ted Cruz",
+      "channel": "MS NOW",
+      "videoId": "3zMlt-zH9gI",
+      "viewsPerHour": 2252,
+      "views": 4596,
+      "ageHours": 2
+    },
+    {
+      "title": "PBS News Hour live episode, Oct. 2, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "VHddj_8FMtM",
+      "viewsPerHour": 2242,
+      "views": 7030,
+      "ageHours": 3.1
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Oct. 1 | Audio Only",
       "channel": "MS NOW",
       "videoId": "kgM8mI1WD6A",
-      "viewsPerHour": 1765,
+      "viewsPerHour": 1587,
       "views": 31001,
-      "ageHours": 17.6
-    },
-    {
-      "title": "Conan's Plaque Has Gone Missing! | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "HDEfv4Sggmo",
-      "viewsPerHour": 827,
-      "views": 6044,
-      "ageHours": 7.3
+      "ageHours": 19.5
     },
     {
       "title": "Does Notre Dame Still Sound the Same? | What the Physics?!",
       "channel": "NOVA",
       "videoId": "RawuQJadkX0",
-      "viewsPerHour": 749,
-      "views": 18776,
-      "ageHours": 25.1
+      "viewsPerHour": 716,
+      "views": 19362,
+      "ageHours": 27
+    },
+    {
+      "title": "Conan's Plaque Has Gone Missing! | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "HDEfv4Sggmo",
+      "viewsPerHour": 651,
+      "views": 6044,
+      "ageHours": 9.3
     },
     {
       "title": "Conan O'Brien Must Go: Season 3 Roundtable Discussion Part 1 | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "giSSzAh3Cm0",
-      "viewsPerHour": 615,
+      "viewsPerHour": 582,
       "views": 21112,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
       "title": "“DID THE PRESIDENT AUTHORIZE UFO SHOOTDOWNS?”",
       "channel": "Jeremy Corbell",
       "videoId": "z1dU3oW-lRg",
-      "viewsPerHour": 562,
-      "views": 10173,
-      "ageHours": 18.1
+      "viewsPerHour": 522,
+      "views": 10479,
+      "ageHours": 20.1
     },
     {
       "title": "Silver Springs Maryland, Last FULU tour stop",
       "channel": "Louis Rossmann",
       "videoId": "Z1wgLmu-0z0",
-      "viewsPerHour": 410,
+      "viewsPerHour": 391,
       "views": 17440,
-      "ageHours": 42.6
+      "ageHours": 44.6
     },
     {
       "title": "The DNA Mystery: How a Mother Proved Science Wrong",
       "channel": "Real Stories",
       "videoId": "QKzNdGV1lHA",
-      "viewsPerHour": 342,
-      "views": 9681,
-      "ageHours": 28.3
+      "viewsPerHour": 328,
+      "views": 9939,
+      "ageHours": 30.3
+    },
+    {
+      "title": "Wouldn't vote for him again, NO WAY IN HELL!': Trump, GOP brace for BRUTAL midterms as voters rage",
+      "channel": "MS NOW",
+      "videoId": "YdmeoTXVTLM",
+      "viewsPerHour": 294,
+      "views": 452,
+      "ageHours": 1.5
     },
     {
       "title": "Is Trumponomics working? Inflation growth outpacing wage growth",
       "channel": "MS NOW",
       "videoId": "e6UHkOF7dSM",
-      "viewsPerHour": 215,
+      "viewsPerHour": 162,
       "views": 1288,
-      "ageHours": 6
+      "ageHours": 8
     },
     {
       "title": "Fmr. Asst. U.S. Attorney breaks down the legal hurdles in Cornell probe",
       "channel": "MS NOW",
       "videoId": "4HD1l8UXad0",
-      "viewsPerHour": 92,
+      "viewsPerHour": 69,
       "views": 555,
-      "ageHours": 6
+      "ageHours": 8
     },
     {
       "title": "Conan Calls Out Woody Harrelson For His Houseboat Hustle | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "5qqvzFuc10Y",
-      "viewsPerHour": 41,
+      "viewsPerHour": 39,
       "views": 1289,
-      "ageHours": 31.3
+      "ageHours": 33.3
+    },
+    {
+      "title": "A look at how overseas ballots are verified and counted in the midterms",
+      "channel": "PBS NewsHour",
+      "videoId": "DJD6A6DffKw",
+      "viewsPerHour": 33,
+      "views": 55,
+      "ageHours": 1.7
     },
     {
       "title": "WATCH LIVE: Trump holds rally in Alabama as he tries to boost midterm enthusiasm",
@@ -758,7 +786,7 @@
       "videoId": "ryoqblN_iFg",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 6.3
+      "ageHours": 8.3
     }
   ]
 }
