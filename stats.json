@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 5
+      "count": 4
     },
     {
       "channel": "Chris Lehto",
@@ -80,7 +80,7 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 5
+      "count": 4
     },
     {
       "keyword": "AI",
@@ -233,8 +233,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-10-04",
+      "videos": 1
+    },
+    {
       "date": "2026-10-03",
-      "videos": 10
+      "videos": 8
     },
     {
       "date": "2026-10-02",
@@ -468,7 +472,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "AI",
@@ -540,113 +544,97 @@
       "title": "Jon Stewart on Trump's Xi Summit & Jordan Klepper on Hegseth's Anti-Weirdo Crusade | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "b4_ShEnsVuU",
-      "viewsPerHour": 25239,
-      "views": 537207,
-      "ageHours": 21.3
-    },
-    {
-      "title": "Nick Offerman Salutes Gen Z for Easing Off Tech & Embracing Their Hobbies | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "NP_HYeaKm4I",
-      "viewsPerHour": 18121,
-      "views": 846913,
-      "ageHours": 46.7
+      "viewsPerHour": 24052,
+      "views": 560766,
+      "ageHours": 23.3
     },
     {
       "title": "Why Chris Rock Forgives His Canceled Friends | The Interview",
       "channel": "The Interview",
       "videoId": "FL3xS2hQrak",
-      "viewsPerHour": 4813,
-      "views": 103645,
-      "ageHours": 21.5
+      "viewsPerHour": 4554,
+      "views": 107306,
+      "ageHours": 23.6
     },
     {
-      "title": "It's not just swing states. 'Trump is dragging EVERYBODY down.'",
+      "title": "The Weeknight Weekly Highlights | Sept. 28-Oct. 2",
       "channel": "MS NOW",
-      "videoId": "jdMU0BKzfXM",
-      "viewsPerHour": 3498,
-      "views": 101132,
-      "ageHours": 28.9
+      "videoId": "FoHjiu7qdD4",
+      "viewsPerHour": 2882,
+      "views": 29745,
+      "ageHours": 10.3
     },
     {
       "title": "Folded Coin Wards Off Evil | The Curse of Oak Island",
       "channel": "History",
       "videoId": "HPGI2QYRQ9s",
-      "viewsPerHour": 1716,
-      "views": 72553,
-      "ageHours": 42.3
-    },
-    {
-      "title": "Agents alarmed as Patel points FBI toward elections: report",
-      "channel": "MS NOW",
-      "videoId": "zJ0bFeYKEhI",
-      "viewsPerHour": 1116,
-      "views": 32184,
-      "ageHours": 28.9
+      "viewsPerHour": 1647,
+      "views": 72986,
+      "ageHours": 44.3
     },
     {
       "title": "Inside Hong Kong's Deepest Media Crackdown",
       "channel": "Real Stories",
       "videoId": "FihvZUZ4wMw",
-      "viewsPerHour": 632,
-      "views": 10928,
-      "ageHours": 17.3
+      "viewsPerHour": 589,
+      "views": 11373,
+      "ageHours": 19.3
     },
     {
       "title": "Did AI Really Discover New Biology? Two Scientists React",
       "channel": "Chris Lehto",
       "videoId": "oE2mqH3ILRk",
-      "viewsPerHour": 407,
-      "views": 6626,
-      "ageHours": 16.3
+      "viewsPerHour": 375,
+      "views": 6873,
+      "ageHours": 18.3
     },
     {
       "title": "FetchTV says I'm \"inaccurate & unfair\"... you want to play? LET'S GO! 😤",
       "channel": "Louis Rossmann",
       "videoId": "JFjWSAFWFXU",
-      "viewsPerHour": 363,
+      "viewsPerHour": 336,
       "views": 9147,
-      "ageHours": 25.2
+      "ageHours": 27.2
     },
     {
       "title": "Bourne, Bond, and Best Espionage Movies (Feat. Matt Gourley) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "sqh0N5cHTsE",
-      "viewsPerHour": 271,
+      "viewsPerHour": 257,
       "views": 10373,
-      "ageHours": 38.3
+      "ageHours": 40.3
     },
     {
       "title": "Democrats EXPAND the map as GOP DEFENDS red states ",
       "channel": "MS NOW",
       "videoId": "A_4cqYaWL6M",
-      "viewsPerHour": 253,
+      "viewsPerHour": 218,
       "views": 3233,
-      "ageHours": 12.8
-    },
-    {
-      "title": "Hegseth says military suicides are down. A Navy family wants answers. ",
-      "channel": "MS NOW",
-      "videoId": "Cm0tMAqVv4A",
-      "viewsPerHour": 148,
-      "views": 1939,
-      "ageHours": 13.1
+      "ageHours": 14.8
     },
     {
       "title": "Conan's Plaque Has Gone Missing! | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "HDEfv4Sggmo",
-      "viewsPerHour": 140,
+      "viewsPerHour": 133,
       "views": 6044,
-      "ageHours": 43.3
+      "ageHours": 45.3
+    },
+    {
+      "title": "Hegseth says military suicides are down. A Navy family wants answers. ",
+      "channel": "MS NOW",
+      "videoId": "Cm0tMAqVv4A",
+      "viewsPerHour": 128,
+      "views": 1939,
+      "ageHours": 15.1
     },
     {
       "title": "Renee Good's family attorney speaks out after suing Trump admin, ICE agents over her death",
       "channel": "MS NOW",
       "videoId": "IbDAS3wSNoU",
-      "viewsPerHour": 44,
+      "viewsPerHour": 40,
       "views": 795,
-      "ageHours": 18
+      "ageHours": 20
     }
   ]
 }
