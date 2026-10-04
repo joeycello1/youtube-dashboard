@@ -492,7 +492,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "Conan O'Brien",
@@ -524,7 +524,7 @@
     },
     {
       "keyword": "The Rest Is Science",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "The Daily Show, AI, artificial intelligence",
@@ -544,97 +544,97 @@
       "title": "Jon Stewart on Trump's Xi Summit & Jordan Klepper on Hegseth's Anti-Weirdo Crusade | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "b4_ShEnsVuU",
-      "viewsPerHour": 20388,
-      "views": 638007,
-      "ageHours": 31.3
+      "viewsPerHour": 19636,
+      "views": 653596,
+      "ageHours": 33.3
     },
     {
       "title": "Why Chris Rock Forgives His Canceled Friends | The Interview",
       "channel": "The Interview",
       "videoId": "FL3xS2hQrak",
-      "viewsPerHour": 4408,
-      "views": 139048,
-      "ageHours": 31.5
+      "viewsPerHour": 4360,
+      "views": 146219,
+      "ageHours": 33.5
     },
     {
       "title": "The Weeknight Weekly Highlights | Sept. 28-Oct. 2",
       "channel": "MS NOW",
       "videoId": "FoHjiu7qdD4",
-      "viewsPerHour": 1625,
+      "viewsPerHour": 1466,
       "views": 29745,
-      "ageHours": 18.3
-    },
-    {
-      "title": "Angie Nixon talks new funding from Dems, calls Vance 'get out of U.S.' attack a 'distraction'",
-      "channel": "MS NOW",
-      "videoId": "NW0yU0ZLzIQ",
-      "viewsPerHour": 673,
-      "views": 3293,
-      "ageHours": 4.9
+      "ageHours": 20.3
     },
     {
       "title": "Steve Buscemi Reveals A Past Darker and Stranger Than He Imagined",
       "channel": "Real Stories",
       "videoId": "-Vz32LYkJgU",
-      "viewsPerHour": 656,
-      "views": 2816,
-      "ageHours": 4.3
+      "viewsPerHour": 659,
+      "views": 4145,
+      "ageHours": 6.3
+    },
+    {
+      "title": "Angie Nixon talks new funding from Dems, calls Vance 'get out of U.S.' attack a 'distraction'",
+      "channel": "MS NOW",
+      "videoId": "NW0yU0ZLzIQ",
+      "viewsPerHour": 478,
+      "views": 3293,
+      "ageHours": 6.9
     },
     {
       "title": "Inside Hong Kong's Deepest Media Crackdown",
       "channel": "Real Stories",
       "videoId": "FihvZUZ4wMw",
-      "viewsPerHour": 472,
-      "views": 12885,
-      "ageHours": 27.3
-    },
-    {
-      "title": "Gas, diesel prices are ‘unsustainable’ as Trump’s unpopular war with Iran continues",
-      "channel": "MS NOW",
-      "videoId": "sEfU5QnX5Ew",
-      "viewsPerHour": 418,
-      "views": 1561,
-      "ageHours": 3.7
+      "viewsPerHour": 446,
+      "views": 13072,
+      "ageHours": 29.3
     },
     {
       "title": "Did AI Really Discover New Biology? Two Scientists React",
       "channel": "Chris Lehto",
       "videoId": "oE2mqH3ILRk",
-      "viewsPerHour": 304,
-      "views": 7998,
-      "ageHours": 26.3
+      "viewsPerHour": 289,
+      "views": 8167,
+      "ageHours": 28.3
     },
     {
-      "title": "‘Everything is on the table’: WI Dem Gov. candidate backs efforts to curtail high costs for voters",
+      "title": "Gas, diesel prices are ‘unsustainable’ as Trump’s unpopular war with Iran continues",
       "channel": "MS NOW",
-      "videoId": "AA-Alf0HCd4",
-      "viewsPerHour": 288,
-      "views": 1435,
-      "ageHours": 5
+      "videoId": "sEfU5QnX5Ew",
+      "viewsPerHour": 272,
+      "views": 1561,
+      "ageHours": 5.7
     },
     {
       "title": "FetchTV says I'm \"inaccurate & unfair\"... you want to play? LET'S GO! 😤",
       "channel": "Louis Rossmann",
       "videoId": "JFjWSAFWFXU",
-      "viewsPerHour": 260,
+      "viewsPerHour": 246,
       "views": 9147,
-      "ageHours": 35.2
+      "ageHours": 37.2
+    },
+    {
+      "title": "‘Everything is on the table’: WI Dem Gov. candidate backs efforts to curtail high costs for voters",
+      "channel": "MS NOW",
+      "videoId": "AA-Alf0HCd4",
+      "viewsPerHour": 206,
+      "views": 1435,
+      "ageHours": 7
     },
     {
       "title": "Democrats EXPAND the map as GOP DEFENDS red states ",
       "channel": "MS NOW",
       "videoId": "A_4cqYaWL6M",
-      "viewsPerHour": 142,
+      "viewsPerHour": 130,
       "views": 3233,
-      "ageHours": 22.8
+      "ageHours": 24.8
     },
     {
       "title": "Hegseth says military suicides are down. A Navy family wants answers. ",
       "channel": "MS NOW",
       "videoId": "Cm0tMAqVv4A",
-      "viewsPerHour": 84,
+      "viewsPerHour": 77,
       "views": 1939,
-      "ageHours": 23.1
+      "ageHours": 25.1
     }
   ]
 }
