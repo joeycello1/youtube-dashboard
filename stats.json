@@ -2,15 +2,15 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 4
-    },
-    {
-      "channel": "Chris Lehto",
-      "count": 7
+      "count": 6
     },
     {
       "channel": "Real Stories",
       "count": 44
+    },
+    {
+      "channel": "Chris Lehto",
+      "count": 7
     },
     {
       "channel": "The Daily Show",
@@ -22,11 +22,11 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 20
+      "count": 19
     },
     {
       "channel": "Conan O'Brien",
-      "count": 12
+      "count": 10
     },
     {
       "channel": "History",
@@ -42,7 +42,7 @@
     },
     {
       "channel": "More Perfect Union",
-      "count": 19
+      "count": 18
     },
     {
       "channel": "The Rest Is Science",
@@ -80,15 +80,15 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 4
-    },
-    {
-      "keyword": "AI",
-      "count": 9
+      "count": 6
     },
     {
       "keyword": "Real Stories",
       "count": 42
+    },
+    {
+      "keyword": "AI",
+      "count": 9
     },
     {
       "keyword": "The Daily Show, AI",
@@ -100,11 +100,11 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 19
+      "count": 18
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 12
+      "count": 10
     },
     {
       "keyword": "NOVA",
@@ -128,7 +128,7 @@
     },
     {
       "keyword": "More Perfect Union",
-      "count": 16
+      "count": 15
     },
     {
       "keyword": "The Rest Is Science",
@@ -234,11 +234,11 @@
   "dailySummary": [
     {
       "date": "2026-10-04",
-      "videos": 1
+      "videos": 5
     },
     {
       "date": "2026-10-03",
-      "videos": 8
+      "videos": 7
     },
     {
       "date": "2026-10-02",
@@ -274,7 +274,7 @@
     },
     {
       "date": "2026-09-24",
-      "videos": 9
+      "videos": 7
     },
     {
       "date": "2026-09-23",
@@ -294,7 +294,7 @@
     },
     {
       "date": "2026-09-19",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-09-18",
@@ -462,7 +462,7 @@
     },
     {
       "date": "2026-08-05",
-      "videos": 3
+      "videos": 1
     },
     {
       "date": "2026-06-14",
@@ -472,15 +472,15 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 4
-    },
-    {
-      "keyword": "AI",
-      "matches": 1
+      "matches": 6
     },
     {
       "keyword": "Real Stories",
       "matches": 5
+    },
+    {
+      "keyword": "AI",
+      "matches": 1
     },
     {
       "keyword": "The Daily Show, AI",
@@ -516,7 +516,7 @@
     },
     {
       "keyword": "UFO",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "More Perfect Union",
@@ -544,81 +544,105 @@
       "title": "Jon Stewart on Trump's Xi Summit & Jordan Klepper on Hegseth's Anti-Weirdo Crusade | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "b4_ShEnsVuU",
-      "viewsPerHour": 21978,
-      "views": 599717,
-      "ageHours": 27.3
+      "viewsPerHour": 21171,
+      "views": 620120,
+      "ageHours": 29.3
     },
     {
       "title": "Why Chris Rock Forgives His Canceled Friends | The Interview",
       "channel": "The Interview",
       "videoId": "FL3xS2hQrak",
-      "viewsPerHour": 4362,
-      "views": 120134,
-      "ageHours": 27.5
+      "viewsPerHour": 4389,
+      "views": 129653,
+      "ageHours": 29.5
     },
     {
       "title": "The Weeknight Weekly Highlights | Sept. 28-Oct. 2",
       "channel": "MS NOW",
       "videoId": "FoHjiu7qdD4",
-      "viewsPerHour": 2081,
+      "viewsPerHour": 1825,
       "views": 29745,
-      "ageHours": 14.3
+      "ageHours": 16.3
+    },
+    {
+      "title": "Angie Nixon talks new funding from Dems, calls Vance 'get out of U.S.' attack a 'distraction'",
+      "channel": "MS NOW",
+      "videoId": "NW0yU0ZLzIQ",
+      "viewsPerHour": 1140,
+      "views": 3293,
+      "ageHours": 2.9
+    },
+    {
+      "title": "Gas, diesel prices are ‘unsustainable’ as Trump’s unpopular war with Iran continues",
+      "channel": "MS NOW",
+      "videoId": "sEfU5QnX5Ew",
+      "viewsPerHour": 900,
+      "views": 1561,
+      "ageHours": 1.7
     },
     {
       "title": "Inside Hong Kong's Deepest Media Crackdown",
       "channel": "Real Stories",
       "videoId": "FihvZUZ4wMw",
-      "viewsPerHour": 522,
-      "views": 12162,
-      "ageHours": 23.3
+      "viewsPerHour": 496,
+      "views": 12535,
+      "ageHours": 25.3
+    },
+    {
+      "title": "‘Everything is on the table’: WI Dem Gov. candidate backs efforts to curtail high costs for voters",
+      "channel": "MS NOW",
+      "videoId": "AA-Alf0HCd4",
+      "viewsPerHour": 481,
+      "views": 1435,
+      "ageHours": 3
     },
     {
       "title": "Did AI Really Discover New Biology? Two Scientists React",
       "channel": "Chris Lehto",
       "videoId": "oE2mqH3ILRk",
-      "viewsPerHour": 333,
-      "views": 7414,
-      "ageHours": 22.3
+      "viewsPerHour": 316,
+      "views": 7686,
+      "ageHours": 24.3
     },
     {
       "title": "FetchTV says I'm \"inaccurate & unfair\"... you want to play? LET'S GO! 😤",
       "channel": "Louis Rossmann",
       "videoId": "JFjWSAFWFXU",
-      "viewsPerHour": 293,
+      "viewsPerHour": 276,
       "views": 9147,
-      "ageHours": 31.2
+      "ageHours": 33.2
     },
     {
       "title": "Bourne, Bond, and Best Espionage Movies (Feat. Matt Gourley) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "sqh0N5cHTsE",
-      "viewsPerHour": 234,
+      "viewsPerHour": 224,
       "views": 10373,
-      "ageHours": 44.3
+      "ageHours": 46.3
+    },
+    {
+      "title": "Steve Buscemi Reveals A Past Darker and Stranger Than He Imagined",
+      "channel": "Real Stories",
+      "videoId": "-Vz32LYkJgU",
+      "viewsPerHour": 208,
+      "views": 476,
+      "ageHours": 2.3
     },
     {
       "title": "Democrats EXPAND the map as GOP DEFENDS red states ",
       "channel": "MS NOW",
       "videoId": "A_4cqYaWL6M",
-      "viewsPerHour": 172,
+      "viewsPerHour": 155,
       "views": 3233,
-      "ageHours": 18.8
+      "ageHours": 20.8
     },
     {
       "title": "Hegseth says military suicides are down. A Navy family wants answers. ",
       "channel": "MS NOW",
       "videoId": "Cm0tMAqVv4A",
-      "viewsPerHour": 102,
+      "viewsPerHour": 92,
       "views": 1939,
-      "ageHours": 19.1
-    },
-    {
-      "title": "Renee Good's family attorney speaks out after suing Trump admin, ICE agents over her death",
-      "channel": "MS NOW",
-      "videoId": "IbDAS3wSNoU",
-      "viewsPerHour": 33,
-      "views": 795,
-      "ageHours": 24
+      "ageHours": 21.1
     }
   ]
 }
