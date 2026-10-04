@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 6
+      "count": 5
     },
     {
       "channel": "Chris Lehto",
@@ -23,10 +23,6 @@
     {
       "channel": "Louis Rossmann",
       "count": 20
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 1
     },
     {
       "channel": "Conan O'Brien",
@@ -84,7 +80,7 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 5
     },
     {
       "keyword": "AI",
@@ -105,10 +101,6 @@
     {
       "keyword": "Louis Rossmann",
       "count": 19
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 1
     },
     {
       "keyword": "Conan O'Brien",
@@ -242,7 +234,7 @@
   "dailySummary": [
     {
       "date": "2026-10-03",
-      "videos": 12
+      "videos": 10
     },
     {
       "date": "2026-10-02",
@@ -476,7 +468,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "AI",
@@ -497,10 +489,6 @@
     {
       "keyword": "Louis Rossmann",
       "matches": 7
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 1
     },
     {
       "keyword": "Conan O'Brien",
@@ -549,148 +537,132 @@
   ],
   "mostViral48h": [
     {
-      "title": "Jon Stewart on Trump's Xi Summit & Jordan Klepper on Hegseth's Anti-Weirdo Crusade | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "b4_ShEnsVuU",
-      "viewsPerHour": 20187,
-      "views": 308553,
-      "ageHours": 15.3
-    },
-    {
       "title": "Nick Offerman Salutes Gen Z for Easing Off Tech & Embracing Their Hobbies | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "NP_HYeaKm4I",
-      "viewsPerHour": 19308,
+      "viewsPerHour": 18404,
       "views": 786567,
-      "ageHours": 40.7
+      "ageHours": 42.7
     },
     {
-      "title": "WATCH LIVE: Lava erupts from Hawaii's Kīlauea volcano",
-      "channel": "PBS NewsHour",
-      "videoId": "ZwNFvNYOvCI",
-      "viewsPerHour": 5048,
-      "views": 130713,
-      "ageHours": 25.9
+      "title": "Jon Stewart on Trump's Xi Summit & Jordan Klepper on Hegseth's Anti-Weirdo Crusade | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "b4_ShEnsVuU",
+      "viewsPerHour": 17849,
+      "views": 308553,
+      "ageHours": 17.3
     },
     {
       "title": "It's not just swing states. 'Trump is dragging EVERYBODY down.'",
       "channel": "MS NOW",
       "videoId": "jdMU0BKzfXM",
-      "viewsPerHour": 4414,
+      "viewsPerHour": 4059,
       "views": 101132,
-      "ageHours": 22.9
-    },
-    {
-      "title": "They were doing the nuclear': White House fails to explain Trump's weird claim",
-      "channel": "MS NOW",
-      "videoId": "R0IGSEsJEMI",
-      "viewsPerHour": 3713,
-      "views": 87052,
-      "ageHours": 23.4
+      "ageHours": 24.9
     },
     {
       "title": "Why Chris Rock Forgives His Canceled Friends | The Interview",
       "channel": "The Interview",
       "videoId": "FL3xS2hQrak",
-      "viewsPerHour": 3307,
+      "viewsPerHour": 2930,
       "views": 51380,
-      "ageHours": 15.5
+      "ageHours": 17.5
     },
     {
       "title": "Did Trump Authorize The Shootdown Of UFOs?",
       "channel": "Jeremy Corbell",
       "videoId": "7Ht63W-nBYA",
-      "viewsPerHour": 2474,
+      "viewsPerHour": 2370,
       "views": 112061,
-      "ageHours": 45.3
+      "ageHours": 47.3
     },
     {
       "title": "Christa Pike: The Truth Behind America's Most Shocking Murder Case",
       "channel": "Real Stories",
       "videoId": "lq_OZG5jjxk",
-      "viewsPerHour": 2272,
+      "viewsPerHour": 2173,
       "views": 100591,
-      "ageHours": 44.3
+      "ageHours": 46.3
     },
     {
       "title": "Folded Coin Wards Off Evil | The Curse of Oak Island",
       "channel": "History",
       "videoId": "HPGI2QYRQ9s",
-      "viewsPerHour": 1880,
+      "viewsPerHour": 1782,
       "views": 68220,
-      "ageHours": 36.3
+      "ageHours": 38.3
     },
     {
       "title": "Agents alarmed as Patel points FBI toward elections: report",
       "channel": "MS NOW",
       "videoId": "zJ0bFeYKEhI",
-      "viewsPerHour": 1408,
+      "viewsPerHour": 1295,
       "views": 32184,
-      "ageHours": 22.9
+      "ageHours": 24.9
     },
     {
       "title": "Inside Hong Kong's Deepest Media Crackdown",
       "channel": "Real Stories",
       "videoId": "FihvZUZ4wMw",
-      "viewsPerHour": 633,
+      "viewsPerHour": 538,
       "views": 7145,
-      "ageHours": 11.3
+      "ageHours": 13.3
     },
     {
       "title": "FetchTV says I'm \"inaccurate & unfair\"... you want to play? LET'S GO! 😤",
       "channel": "Louis Rossmann",
       "videoId": "JFjWSAFWFXU",
-      "viewsPerHour": 477,
+      "viewsPerHour": 432,
       "views": 9147,
-      "ageHours": 19.2
+      "ageHours": 21.2
     },
     {
       "title": "Democrats EXPAND the map as GOP DEFENDS red states ",
       "channel": "MS NOW",
       "videoId": "A_4cqYaWL6M",
-      "viewsPerHour": 475,
+      "viewsPerHour": 367,
       "views": 3233,
-      "ageHours": 6.8
+      "ageHours": 8.8
     },
     {
       "title": "Bourne, Bond, and Best Espionage Movies (Feat. Matt Gourley) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "sqh0N5cHTsE",
-      "viewsPerHour": 321,
+      "viewsPerHour": 302,
       "views": 10373,
-      "ageHours": 32.3
+      "ageHours": 34.3
     },
     {
       "title": "Did AI Really Discover New Biology? Two Scientists React",
       "channel": "Chris Lehto",
       "videoId": "oE2mqH3ILRk",
-      "viewsPerHour": 320,
+      "viewsPerHour": 268,
       "views": 3291,
-      "ageHours": 10.3
+      "ageHours": 12.3
     },
     {
       "title": "Hegseth says military suicides are down. A Navy family wants answers. ",
       "channel": "MS NOW",
       "videoId": "Cm0tMAqVv4A",
-      "viewsPerHour": 274,
+      "viewsPerHour": 213,
       "views": 1939,
-      "ageHours": 7.1
+      "ageHours": 9.1
     },
     {
       "title": "Conan's Plaque Has Gone Missing! | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "HDEfv4Sggmo",
-      "viewsPerHour": 162,
+      "viewsPerHour": 154,
       "views": 6044,
-      "ageHours": 37.3
+      "ageHours": 39.3
     },
     {
       "title": "Renee Good's family attorney speaks out after suing Trump admin, ICE agents over her death",
       "channel": "MS NOW",
       "videoId": "IbDAS3wSNoU",
-      "viewsPerHour": 66,
+      "viewsPerHour": 57,
       "views": 795,
-      "ageHours": 12
+      "ageHours": 14
     }
   ]
 }
