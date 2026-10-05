@@ -2,7 +2,19 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 6
+      "count": 7
+    },
+    {
+      "channel": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 19
+    },
+    {
+      "channel": "History",
+      "count": 59
     },
     {
       "channel": "Real Stories",
@@ -21,16 +33,8 @@
       "count": 8
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 19
-    },
-    {
       "channel": "Conan O'Brien",
       "count": 10
-    },
-    {
-      "channel": "History",
-      "count": 59
     },
     {
       "channel": "Jeremy Corbell",
@@ -43,10 +47,6 @@
     {
       "channel": "More Perfect Union",
       "count": 18
-    },
-    {
-      "channel": "The Rest Is Science",
-      "count": 4
     },
     {
       "channel": "Last Week Tonight",
@@ -80,7 +80,19 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 7
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 18
+    },
+    {
+      "keyword": "UFO",
+      "count": 40
     },
     {
       "keyword": "Real Stories",
@@ -97,10 +109,6 @@
     {
       "keyword": "The Interview",
       "count": 7
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 18
     },
     {
       "keyword": "Conan O'Brien",
@@ -123,16 +131,8 @@
       "count": 8
     },
     {
-      "keyword": "UFO",
-      "count": 40
-    },
-    {
       "keyword": "More Perfect Union",
       "count": 15
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "count": 4
     },
     {
       "keyword": "The Daily Show, AI, artificial intelligence",
@@ -234,11 +234,11 @@
   "dailySummary": [
     {
       "date": "2026-10-04",
-      "videos": 5
+      "videos": 11
     },
     {
       "date": "2026-10-03",
-      "videos": 7
+      "videos": 5
     },
     {
       "date": "2026-10-02",
@@ -294,7 +294,7 @@
     },
     {
       "date": "2026-09-19",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-09-18",
@@ -461,10 +461,6 @@
       "videos": 3
     },
     {
-      "date": "2026-08-05",
-      "videos": 1
-    },
-    {
       "date": "2026-06-14",
       "videos": 1
     }
@@ -472,7 +468,19 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 7
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "matches": 2
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 7
+    },
+    {
+      "keyword": "UFO",
+      "matches": 4
     },
     {
       "keyword": "Real Stories",
@@ -489,10 +497,6 @@
     {
       "keyword": "The Interview",
       "matches": 1
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 6
     },
     {
       "keyword": "Conan O'Brien",
@@ -515,15 +519,7 @@
       "matches": 8
     },
     {
-      "keyword": "UFO",
-      "matches": 3
-    },
-    {
       "keyword": "More Perfect Union",
-      "matches": 2
-    },
-    {
-      "keyword": "The Rest Is Science",
       "matches": 1
     },
     {
@@ -544,97 +540,129 @@
       "title": "Jon Stewart on Trump's Xi Summit & Jordan Klepper on Hegseth's Anti-Weirdo Crusade | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "b4_ShEnsVuU",
-      "viewsPerHour": 19636,
-      "views": 653596,
-      "ageHours": 33.3
+      "viewsPerHour": 19026,
+      "views": 671466,
+      "ageHours": 35.3
+    },
+    {
+      "title": "Why Do We Turn on Innocent People?",
+      "channel": "The Rest Is Science",
+      "videoId": "4kKd9-vCPts",
+      "viewsPerHour": 7638,
+      "views": 21321,
+      "ageHours": 2.8
     },
     {
       "title": "Why Chris Rock Forgives His Canceled Friends | The Interview",
       "channel": "The Interview",
       "videoId": "FL3xS2hQrak",
-      "viewsPerHour": 4360,
-      "views": 146219,
-      "ageHours": 33.5
+      "viewsPerHour": 4309,
+      "views": 153157,
+      "ageHours": 35.5
+    },
+    {
+      "title": "Are Alien Secrets Hidden in Washington D.C.? | In Search of Aliens (S1)",
+      "channel": "History",
+      "videoId": "XpzR9IePnuc",
+      "viewsPerHour": 3520,
+      "views": 18639,
+      "ageHours": 5.3
+    },
+    {
+      "title": "Political TONE-DEAFNESS': Watch's MS NOW's reacting to Trump holding a $1 million meme coin contest",
+      "channel": "MS NOW",
+      "videoId": "Lf35RPU8P1o",
+      "viewsPerHour": 2391,
+      "views": 5490,
+      "ageHours": 2.3
     },
     {
       "title": "The Weeknight Weekly Highlights | Sept. 28-Oct. 2",
       "channel": "MS NOW",
       "videoId": "FoHjiu7qdD4",
-      "viewsPerHour": 1466,
+      "viewsPerHour": 1334,
       "views": 29745,
-      "ageHours": 20.3
+      "ageHours": 22.3
+    },
+    {
+      "title": "Giving Clinton the cat the best life",
+      "channel": "Louis Rossmann",
+      "videoId": "EIX52NCceAs",
+      "viewsPerHour": 1020,
+      "views": 3093,
+      "ageHours": 3
+    },
+    {
+      "title": "They hate both parties. These voters could decide Congress.",
+      "channel": "MS NOW",
+      "videoId": "XLMotnp3iBk",
+      "viewsPerHour": 944,
+      "views": 3324,
+      "ageHours": 3.5
+    },
+    {
+      "title": "What Rachel Maddow wants you to know about fighting for America's democracy in a Trump era",
+      "channel": "MS NOW",
+      "videoId": "ph8Hrzqfu8Q",
+      "viewsPerHour": 894,
+      "views": 2945,
+      "ageHours": 3.3
     },
     {
       "title": "Steve Buscemi Reveals A Past Darker and Stranger Than He Imagined",
       "channel": "Real Stories",
       "videoId": "-Vz32LYkJgU",
-      "viewsPerHour": 659,
-      "views": 4145,
-      "ageHours": 6.3
-    },
-    {
-      "title": "Angie Nixon talks new funding from Dems, calls Vance 'get out of U.S.' attack a 'distraction'",
-      "channel": "MS NOW",
-      "videoId": "NW0yU0ZLzIQ",
-      "viewsPerHour": 478,
-      "views": 3293,
-      "ageHours": 6.9
+      "viewsPerHour": 651,
+      "views": 5403,
+      "ageHours": 8.3
     },
     {
       "title": "Inside Hong Kong's Deepest Media Crackdown",
       "channel": "Real Stories",
       "videoId": "FihvZUZ4wMw",
-      "viewsPerHour": 446,
-      "views": 13072,
-      "ageHours": 29.3
+      "viewsPerHour": 426,
+      "views": 13340,
+      "ageHours": 31.3
+    },
+    {
+      "title": "Angie Nixon talks new funding from Dems, calls Vance 'get out of U.S.' attack a 'distraction'",
+      "channel": "MS NOW",
+      "videoId": "NW0yU0ZLzIQ",
+      "viewsPerHour": 370,
+      "views": 3293,
+      "ageHours": 8.9
     },
     {
       "title": "Did AI Really Discover New Biology? Two Scientists React",
       "channel": "Chris Lehto",
       "videoId": "oE2mqH3ILRk",
-      "viewsPerHour": 289,
-      "views": 8167,
-      "ageHours": 28.3
-    },
-    {
-      "title": "Gas, diesel prices are ‘unsustainable’ as Trump’s unpopular war with Iran continues",
-      "channel": "MS NOW",
-      "videoId": "sEfU5QnX5Ew",
-      "viewsPerHour": 272,
-      "views": 1561,
-      "ageHours": 5.7
+      "viewsPerHour": 276,
+      "views": 8352,
+      "ageHours": 30.3
     },
     {
       "title": "FetchTV says I'm \"inaccurate & unfair\"... you want to play? LET'S GO! 😤",
       "channel": "Louis Rossmann",
       "videoId": "JFjWSAFWFXU",
-      "viewsPerHour": 246,
+      "viewsPerHour": 233,
       "views": 9147,
-      "ageHours": 37.2
+      "ageHours": 39.2
+    },
+    {
+      "title": "Gas, diesel prices are ‘unsustainable’ as Trump’s unpopular war with Iran continues",
+      "channel": "MS NOW",
+      "videoId": "sEfU5QnX5Ew",
+      "viewsPerHour": 202,
+      "views": 1561,
+      "ageHours": 7.7
     },
     {
       "title": "‘Everything is on the table’: WI Dem Gov. candidate backs efforts to curtail high costs for voters",
       "channel": "MS NOW",
       "videoId": "AA-Alf0HCd4",
-      "viewsPerHour": 206,
+      "viewsPerHour": 160,
       "views": 1435,
-      "ageHours": 7
-    },
-    {
-      "title": "Democrats EXPAND the map as GOP DEFENDS red states ",
-      "channel": "MS NOW",
-      "videoId": "A_4cqYaWL6M",
-      "viewsPerHour": 130,
-      "views": 3233,
-      "ageHours": 24.8
-    },
-    {
-      "title": "Hegseth says military suicides are down. A Navy family wants answers. ",
-      "channel": "MS NOW",
-      "videoId": "Cm0tMAqVv4A",
-      "viewsPerHour": 77,
-      "views": 1939,
-      "ageHours": 25.1
+      "ageHours": 9
     }
   ]
 }
