@@ -529,10 +529,6 @@
     {
       "keyword": "Louis Rossmann, Samsung",
       "matches": 1
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -540,121 +536,121 @@
       "title": "Jon Stewart on Trump's Xi Summit & Jordan Klepper on Hegseth's Anti-Weirdo Crusade | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "b4_ShEnsVuU",
-      "viewsPerHour": 16662,
-      "views": 688704,
-      "ageHours": 41.3
-    },
-    {
-      "title": "Why Chris Rock Forgives His Canceled Friends | The Interview",
-      "channel": "The Interview",
-      "videoId": "FL3xS2hQrak",
-      "viewsPerHour": 3813,
-      "views": 158583,
-      "ageHours": 41.6
+      "viewsPerHour": 17426,
+      "views": 754613,
+      "ageHours": 43.3
     },
     {
       "title": "Why Do We Turn on Innocent People?",
       "channel": "The Rest Is Science",
       "videoId": "4kKd9-vCPts",
-      "viewsPerHour": 2413,
-      "views": 21321,
-      "ageHours": 8.8
+      "viewsPerHour": 11193,
+      "views": 120942,
+      "ageHours": 10.8
+    },
+    {
+      "title": "Why Chris Rock Forgives His Canceled Friends | The Interview",
+      "channel": "The Interview",
+      "videoId": "FL3xS2hQrak",
+      "viewsPerHour": 4034,
+      "views": 175706,
+      "ageHours": 43.6
     },
     {
       "title": "Are Alien Secrets Hidden in Washington D.C.? | In Search of Aliens (S1)",
       "channel": "History",
       "videoId": "XpzR9IePnuc",
-      "viewsPerHour": 1644,
-      "views": 18639,
-      "ageHours": 11.3
+      "viewsPerHour": 2749,
+      "views": 36584,
+      "ageHours": 13.3
     },
     {
       "title": "Political TONE-DEAFNESS': Watch's MS NOW's reacting to Trump holding a $1 million meme coin contest",
       "channel": "MS NOW",
       "videoId": "Lf35RPU8P1o",
-      "viewsPerHour": 658,
+      "viewsPerHour": 533,
       "views": 5490,
-      "ageHours": 8.3
+      "ageHours": 10.3
     },
     {
       "title": "Steve Buscemi Reveals A Past Darker and Stranger Than He Imagined",
       "channel": "Real Stories",
       "videoId": "-Vz32LYkJgU",
-      "viewsPerHour": 430,
-      "views": 6171,
-      "ageHours": 14.3
+      "viewsPerHour": 459,
+      "views": 7483,
+      "ageHours": 16.3
     },
     {
       "title": "Inside Hong Kong's Deepest Media Crackdown",
       "channel": "Real Stories",
       "videoId": "FihvZUZ4wMw",
-      "viewsPerHour": 364,
-      "views": 13581,
-      "ageHours": 37.3
+      "viewsPerHour": 361,
+      "views": 14175,
+      "ageHours": 39.3
     },
     {
       "title": "They hate both parties. These voters could decide Congress.",
       "channel": "MS NOW",
       "videoId": "XLMotnp3iBk",
-      "viewsPerHour": 348,
+      "viewsPerHour": 288,
       "views": 3324,
-      "ageHours": 9.6
+      "ageHours": 11.5
     },
     {
       "title": "Giving Clinton the cat the best life",
       "channel": "Louis Rossmann",
       "videoId": "EIX52NCceAs",
-      "viewsPerHour": 341,
+      "viewsPerHour": 280,
       "views": 3093,
-      "ageHours": 9.1
+      "ageHours": 11
     },
     {
       "title": "What Rachel Maddow wants you to know about fighting for America's democracy in a Trump era",
       "channel": "MS NOW",
       "videoId": "ph8Hrzqfu8Q",
-      "viewsPerHour": 315,
+      "viewsPerHour": 260,
       "views": 2945,
-      "ageHours": 9.3
+      "ageHours": 11.3
     },
     {
       "title": "Did AI Really Discover New Biology? Two Scientists React",
       "channel": "Chris Lehto",
       "videoId": "oE2mqH3ILRk",
-      "viewsPerHour": 235,
-      "views": 8539,
-      "ageHours": 36.3
+      "viewsPerHour": 236,
+      "views": 9025,
+      "ageHours": 38.3
     },
     {
       "title": "Angie Nixon talks new funding from Dems, calls Vance 'get out of U.S.' attack a 'distraction'",
       "channel": "MS NOW",
       "videoId": "NW0yU0ZLzIQ",
-      "viewsPerHour": 221,
+      "viewsPerHour": 195,
       "views": 3293,
-      "ageHours": 14.9
+      "ageHours": 16.9
     },
     {
       "title": "FetchTV says I'm \"inaccurate & unfair\"... you want to play? LET'S GO! 😤",
       "channel": "Louis Rossmann",
       "videoId": "JFjWSAFWFXU",
-      "viewsPerHour": 202,
+      "viewsPerHour": 194,
       "views": 9147,
-      "ageHours": 45.2
+      "ageHours": 47.2
     },
     {
       "title": "Gas, diesel prices are ‘unsustainable’ as Trump’s unpopular war with Iran continues",
       "channel": "MS NOW",
       "videoId": "sEfU5QnX5Ew",
-      "viewsPerHour": 113,
+      "viewsPerHour": 99,
       "views": 1561,
-      "ageHours": 13.8
+      "ageHours": 15.7
     },
     {
       "title": "‘Everything is on the table’: WI Dem Gov. candidate backs efforts to curtail high costs for voters",
       "channel": "MS NOW",
       "videoId": "AA-Alf0HCd4",
-      "viewsPerHour": 96,
+      "viewsPerHour": 84,
       "views": 1435,
-      "ageHours": 15
+      "ageHours": 17
     }
   ]
 }
