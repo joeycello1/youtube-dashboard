@@ -1,8 +1,20 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 2
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 19
+    },
+    {
       "channel": "MS NOW",
-      "count": 9
+      "count": 7
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 10
     },
     {
       "channel": "Last Week Tonight",
@@ -11,10 +23,6 @@
     {
       "channel": "The Rest Is Science",
       "count": 5
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 18
     },
     {
       "channel": "History",
@@ -37,10 +45,6 @@
       "count": 8
     },
     {
-      "channel": "Conan O'Brien",
-      "count": 10
-    },
-    {
       "channel": "Jeremy Corbell",
       "count": 8
     },
@@ -50,7 +54,7 @@
     },
     {
       "channel": "More Perfect Union",
-      "count": 18
+      "count": 17
     },
     {
       "channel": "Jonathan Pie",
@@ -66,7 +70,7 @@
     },
     {
       "channel": "Mayim Bialik",
-      "count": 6
+      "count": 5
     },
     {
       "channel": "Nat Geo",
@@ -79,8 +83,20 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "PBS NewsHour",
+      "count": 2
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 18
+    },
+    {
       "keyword": "MS NOW",
-      "count": 9
+      "count": 7
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 10
     },
     {
       "keyword": "Last Week Tonight",
@@ -89,10 +105,6 @@
     {
       "keyword": "The Rest Is Science",
       "count": 5
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 17
     },
     {
       "keyword": "UFO",
@@ -115,10 +127,6 @@
       "count": 7
     },
     {
-      "keyword": "Conan O'Brien",
-      "count": 10
-    },
-    {
       "keyword": "NOVA",
       "count": 34
     },
@@ -136,7 +144,7 @@
     },
     {
       "keyword": "More Perfect Union",
-      "count": 15
+      "count": 14
     },
     {
       "keyword": "The Daily Show, AI, artificial intelligence",
@@ -225,20 +233,16 @@
     {
       "keyword": "Real Stories, Louis Theroux",
       "count": 1
-    },
-    {
-      "keyword": "UFO, UAP",
-      "count": 1
     }
   ],
   "dailySummary": [
     {
       "date": "2026-10-05",
-      "videos": 5
+      "videos": 10
     },
     {
       "date": "2026-10-04",
-      "videos": 10
+      "videos": 7
     },
     {
       "date": "2026-10-03",
@@ -274,7 +278,7 @@
     },
     {
       "date": "2026-09-25",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-09-24",
@@ -462,7 +466,7 @@
     },
     {
       "date": "2026-08-06",
-      "videos": 3
+      "videos": 1
     },
     {
       "date": "2026-06-14",
@@ -471,8 +475,20 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour",
+      "matches": 2
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 7
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 9
+      "matches": 7
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
     },
     {
       "keyword": "Last Week Tonight",
@@ -481,10 +497,6 @@
     {
       "keyword": "The Rest Is Science",
       "matches": 2
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 6
     },
     {
       "keyword": "UFO",
@@ -505,10 +517,6 @@
     {
       "keyword": "The Interview",
       "matches": 1
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 7
     },
     {
       "keyword": "NOVA",
@@ -544,137 +552,137 @@
       "title": "The Secret Service: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "XQ-Xnzj_uz4",
-      "viewsPerHour": 100604,
-      "views": 985008,
-      "ageHours": 9.8
+      "viewsPerHour": 114439,
+      "views": 1348447,
+      "ageHours": 11.8
     },
     {
       "title": "S13 E25: Midterms & The Secret Service: 10/4/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "eJaySIQaDsQ",
-      "viewsPerHour": 35051,
-      "views": 465862,
-      "ageHours": 13.3
+      "viewsPerHour": 34681,
+      "views": 530028,
+      "ageHours": 15.3
     },
     {
       "title": "Why Do We Turn on Innocent People?",
       "channel": "The Rest Is Science",
       "videoId": "4kKd9-vCPts",
-      "viewsPerHour": 10203,
-      "views": 191748,
-      "ageHours": 18.8
+      "viewsPerHour": 10002,
+      "views": 207890,
+      "ageHours": 20.8
+    },
+    {
+      "title": "Owen Wilson (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "IGzI0bZd79c",
+      "viewsPerHour": 7925,
+      "views": 57734,
+      "ageHours": 7.3
     },
     {
       "title": "The Last Word with Lawrence O'Donnell Weekly Highlights | Sept. 28-Oct. 2",
       "channel": "MS NOW",
       "videoId": "UhX0RSGAABM",
-      "viewsPerHour": 5847,
+      "viewsPerHour": 5173,
       "views": 89464,
-      "ageHours": 15.3
+      "ageHours": 17.3
+    },
+    {
+      "title": "EU kids act explained: how Europe plans to ruin the internet ",
+      "channel": "Louis Rossmann",
+      "videoId": "XfMB6yzAxKA",
+      "viewsPerHour": 3891,
+      "views": 11165,
+      "ageHours": 2.9
+    },
+    {
+      "title": "LISTEN LIVE: Supreme Court hears case seeking damages from fossil fuel industry for climate change",
+      "channel": "PBS NewsHour",
+      "videoId": "r3sl4v4asnY",
+      "viewsPerHour": 3343,
+      "views": 7684,
+      "ageHours": 2.3
     },
     {
       "title": "Trump REVERSES course, tells Republicans to vote by mail now",
       "channel": "MS NOW",
       "videoId": "f6rURAF2JEs",
-      "viewsPerHour": 4031,
+      "viewsPerHour": 3058,
       "views": 25244,
-      "ageHours": 6.3
+      "ageHours": 8.3
     },
     {
       "title": "The 11th Hour with Ali Velshi Weekly Highlights | Sept. 28-Oct. 2",
       "channel": "MS NOW",
       "videoId": "YA8JbaE_pNs",
-      "viewsPerHour": 2870,
+      "viewsPerHour": 2519,
       "views": 41041,
-      "ageHours": 14.3
+      "ageHours": 16.3
+    },
+    {
+      "title": "WATCH LIVE: Trump health officials hold make announcement on healthcare price transparency",
+      "channel": "PBS NewsHour",
+      "videoId": "5CsJvadV0cQ",
+      "viewsPerHour": 2405,
+      "views": 3792,
+      "ageHours": 1.6
     },
     {
       "title": "Are Alien Secrets Hidden in Washington D.C.? | In Search of Aliens (S1)",
       "channel": "History",
       "videoId": "XpzR9IePnuc",
-      "viewsPerHour": 2116,
-      "views": 45070,
-      "ageHours": 21.3
+      "viewsPerHour": 2026,
+      "views": 47178,
+      "ageHours": 23.3
+    },
+    {
+      "title": "Midterms Latest: El-Sayed and Slotkin highlight their common ground",
+      "channel": "MS NOW",
+      "videoId": "yY4EcfIrYm8",
+      "viewsPerHour": 1175,
+      "views": 3926,
+      "ageHours": 3.3
     },
     {
       "title": "Steve Buscemi Reveals A Past Darker and Stranger Than He Imagined",
       "channel": "Real Stories",
       "videoId": "-Vz32LYkJgU",
-      "viewsPerHour": 364,
-      "views": 8837,
-      "ageHours": 24.3
-    },
-    {
-      "title": "Inside Hong Kong's Deepest Media Crackdown",
-      "channel": "Real Stories",
-      "videoId": "FihvZUZ4wMw",
-      "viewsPerHour": 306,
-      "views": 14468,
-      "ageHours": 47.3
+      "viewsPerHour": 346,
+      "views": 9100,
+      "ageHours": 26.3
     },
     {
       "title": "Political TONE-DEAFNESS': Watch's MS NOW's reacting to Trump holding a $1 million meme coin contest",
       "channel": "MS NOW",
       "videoId": "Lf35RPU8P1o",
-      "viewsPerHour": 300,
+      "viewsPerHour": 271,
       "views": 5490,
-      "ageHours": 18.3
-    },
-    {
-      "title": "Did AI Really Discover New Biology? Two Scientists React",
-      "channel": "Chris Lehto",
-      "videoId": "oE2mqH3ILRk",
-      "viewsPerHour": 205,
-      "views": 9510,
-      "ageHours": 46.3
+      "ageHours": 20.3
     },
     {
       "title": "They hate both parties. These voters could decide Congress.",
       "channel": "MS NOW",
       "videoId": "XLMotnp3iBk",
-      "viewsPerHour": 170,
+      "viewsPerHour": 155,
       "views": 3324,
-      "ageHours": 19.5
+      "ageHours": 21.5
     },
     {
       "title": "Giving Clinton the cat the best life",
       "channel": "Louis Rossmann",
       "videoId": "EIX52NCceAs",
-      "viewsPerHour": 163,
+      "viewsPerHour": 147,
       "views": 3093,
-      "ageHours": 19
+      "ageHours": 21
     },
     {
       "title": "What Rachel Maddow wants you to know about fighting for America's democracy in a Trump era",
       "channel": "MS NOW",
       "videoId": "ph8Hrzqfu8Q",
-      "viewsPerHour": 153,
+      "viewsPerHour": 138,
       "views": 2945,
-      "ageHours": 19.3
-    },
-    {
-      "title": "Angie Nixon talks new funding from Dems, calls Vance 'get out of U.S.' attack a 'distraction'",
-      "channel": "MS NOW",
-      "videoId": "NW0yU0ZLzIQ",
-      "viewsPerHour": 132,
-      "views": 3293,
-      "ageHours": 24.9
-    },
-    {
-      "title": "Gas, diesel prices are ‘unsustainable’ as Trump’s unpopular war with Iran continues",
-      "channel": "MS NOW",
-      "videoId": "sEfU5QnX5Ew",
-      "viewsPerHour": 66,
-      "views": 1561,
-      "ageHours": 23.7
-    },
-    {
-      "title": "‘Everything is on the table’: WI Dem Gov. candidate backs efforts to curtail high costs for voters",
-      "channel": "MS NOW",
-      "videoId": "AA-Alf0HCd4",
-      "viewsPerHour": 57,
-      "views": 1435,
-      "ageHours": 25
+      "ageHours": 21.3
     }
   ]
 }
