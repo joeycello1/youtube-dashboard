@@ -541,10 +541,6 @@
     {
       "keyword": "The Daily Show, AI, artificial intelligence",
       "matches": 1
-    },
-    {
-      "keyword": "Louis Rossmann, Samsung",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -552,137 +548,137 @@
       "title": "The Secret Service: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "XQ-Xnzj_uz4",
-      "viewsPerHour": 116733,
-      "views": 1610627,
-      "ageHours": 13.8
+      "viewsPerHour": 117059,
+      "views": 1848302,
+      "ageHours": 15.8
     },
     {
       "title": "S13 E25: Midterms & The Secret Service: 10/4/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "eJaySIQaDsQ",
-      "viewsPerHour": 34068,
-      "views": 589294,
-      "ageHours": 17.3
+      "viewsPerHour": 33782,
+      "views": 651645,
+      "ageHours": 19.3
     },
     {
       "title": "Why Do We Turn on Innocent People?",
       "channel": "The Rest Is Science",
       "videoId": "4kKd9-vCPts",
-      "viewsPerHour": 9764,
-      "views": 222605,
-      "ageHours": 22.8
+      "viewsPerHour": 9583,
+      "views": 237568,
+      "ageHours": 24.8
     },
     {
       "title": "Owen Wilson (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "IGzI0bZd79c",
-      "viewsPerHour": 6208,
+      "viewsPerHour": 5113,
       "views": 57734,
-      "ageHours": 9.3
+      "ageHours": 11.3
     },
     {
       "title": "The Last Word with Lawrence O'Donnell Weekly Highlights | Sept. 28-Oct. 2",
       "channel": "MS NOW",
       "videoId": "UhX0RSGAABM",
-      "viewsPerHour": 4634,
+      "viewsPerHour": 4200,
       "views": 89464,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "Trump REVERSES course, tells Republicans to vote by mail now",
       "channel": "MS NOW",
       "videoId": "f6rURAF2JEs",
-      "viewsPerHour": 2458,
+      "viewsPerHour": 2059,
       "views": 25244,
-      "ageHours": 10.3
-    },
-    {
-      "title": "EU kids act explained: how Europe plans to ruin the internet ",
-      "channel": "Louis Rossmann",
-      "videoId": "XfMB6yzAxKA",
-      "viewsPerHour": 2286,
-      "views": 11165,
-      "ageHours": 4.9
+      "ageHours": 12.3
     },
     {
       "title": "The 11th Hour with Ali Velshi Weekly Highlights | Sept. 28-Oct. 2",
       "channel": "MS NOW",
       "videoId": "YA8JbaE_pNs",
-      "viewsPerHour": 2242,
+      "viewsPerHour": 2022,
       "views": 41041,
-      "ageHours": 18.3
+      "ageHours": 20.3
     },
     {
       "title": "Are Alien Secrets Hidden in Washington D.C.? | In Search of Aliens (S1)",
       "channel": "History",
       "videoId": "XpzR9IePnuc",
-      "viewsPerHour": 1934,
-      "views": 48943,
-      "ageHours": 25.3
+      "viewsPerHour": 1845,
+      "views": 50371,
+      "ageHours": 27.3
+    },
+    {
+      "title": "EU kids act explained: how Europe plans to ruin the internet ",
+      "channel": "Louis Rossmann",
+      "videoId": "XfMB6yzAxKA",
+      "viewsPerHour": 1624,
+      "views": 11165,
+      "ageHours": 6.9
     },
     {
       "title": "LISTEN LIVE: Supreme Court hears case seeking damages from fossil fuel industry for climate change",
       "channel": "PBS NewsHour",
       "videoId": "r3sl4v4asnY",
-      "viewsPerHour": 1782,
+      "viewsPerHour": 1219,
       "views": 7684,
-      "ageHours": 4.3
+      "ageHours": 6.3
     },
     {
       "title": "WATCH LIVE: Trump health officials hold make announcement on healthcare price transparency",
       "channel": "PBS NewsHour",
       "videoId": "5CsJvadV0cQ",
-      "viewsPerHour": 1056,
+      "viewsPerHour": 679,
       "views": 3792,
-      "ageHours": 3.6
+      "ageHours": 5.6
     },
     {
       "title": "Midterms Latest: El-Sayed and Slotkin highlight their common ground",
       "channel": "MS NOW",
       "videoId": "yY4EcfIrYm8",
-      "viewsPerHour": 733,
+      "viewsPerHour": 534,
       "views": 3926,
-      "ageHours": 5.4
+      "ageHours": 7.3
     },
     {
       "title": "Steve Buscemi Reveals A Past Darker and Stranger Than He Imagined",
       "channel": "Real Stories",
       "videoId": "-Vz32LYkJgU",
-      "viewsPerHour": 331,
-      "views": 9380,
-      "ageHours": 28.3
+      "viewsPerHour": 326,
+      "views": 9888,
+      "ageHours": 30.3
     },
     {
       "title": "Political TONE-DEAFNESS': Watch's MS NOW's reacting to Trump holding a $1 million meme coin contest",
       "channel": "MS NOW",
       "videoId": "Lf35RPU8P1o",
-      "viewsPerHour": 246,
+      "viewsPerHour": 226,
       "views": 5490,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "They hate both parties. These voters could decide Congress.",
       "channel": "MS NOW",
       "videoId": "XLMotnp3iBk",
-      "viewsPerHour": 141,
+      "viewsPerHour": 130,
       "views": 3324,
-      "ageHours": 23.5
+      "ageHours": 25.5
     },
     {
       "title": "Giving Clinton the cat the best life",
       "channel": "Louis Rossmann",
       "videoId": "EIX52NCceAs",
-      "viewsPerHour": 134,
+      "viewsPerHour": 124,
       "views": 3093,
-      "ageHours": 23
+      "ageHours": 25
     },
     {
       "title": "What Rachel Maddow wants you to know about fighting for America's democracy in a Trump era",
       "channel": "MS NOW",
       "videoId": "ph8Hrzqfu8Q",
-      "viewsPerHour": 126,
+      "viewsPerHour": 116,
       "views": 2945,
-      "ageHours": 23.3
+      "ageHours": 25.3
     }
   ]
 }
