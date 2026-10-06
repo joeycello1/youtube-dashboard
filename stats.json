@@ -508,7 +508,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "Last Week Tonight",
@@ -552,217 +552,209 @@
       "title": "Jon Stewart Unpacks AI’s Dubious Promise of a \"Better Future\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "S18jxWZntUo",
-      "viewsPerHour": 167547,
-      "views": 2560900,
-      "ageHours": 15.3
+      "viewsPerHour": 167636,
+      "views": 2897344,
+      "ageHours": 17.3
     },
     {
       "title": "The Secret Service: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "XQ-Xnzj_uz4",
-      "viewsPerHour": 82394,
-      "views": 2948342,
-      "ageHours": 35.8
+      "viewsPerHour": 80534,
+      "views": 3042764,
+      "ageHours": 37.8
     },
     {
       "title": "Jacob Coxon On Witnessing the Existential Threat of AI from the Inside | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "lnLDjXy2kRA",
-      "viewsPerHour": 44960,
-      "views": 687430,
-      "ageHours": 15.3
+      "viewsPerHour": 48418,
+      "views": 837084,
+      "ageHours": 17.3
     },
     {
       "title": "S13 E25: Midterms & The Secret Service: 10/4/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "eJaySIQaDsQ",
-      "viewsPerHour": 20643,
-      "views": 810943,
-      "ageHours": 39.3
+      "viewsPerHour": 20042,
+      "views": 827403,
+      "ageHours": 41.3
     },
     {
       "title": "Vivek Ramaswamy Almost Drops a Kid & Mamdani Holds Hands with Ex-Rival Curtis Sliwa | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "hUPjkXr1hIg",
-      "viewsPerHour": 8424,
-      "views": 145594,
-      "ageHours": 17.3
-    },
-    {
-      "title": "Why Do We Turn on Innocent People?",
-      "channel": "The Rest Is Science",
-      "videoId": "4kKd9-vCPts",
-      "viewsPerHour": 6803,
-      "views": 304669,
-      "ageHours": 44.8
+      "viewsPerHour": 8176,
+      "views": 157646,
+      "ageHours": 19.3
     },
     {
       "title": "He Called Out To Aliens, 3 minutes later Navy SEALs Witnessed The Reply | Sean Webb",
       "channel": "Mayim Bialik",
       "videoId": "QuiyJB4u7jw",
-      "viewsPerHour": 6695,
-      "views": 48806,
-      "ageHours": 7.3
+      "viewsPerHour": 7026,
+      "views": 65262,
+      "ageHours": 9.3
+    },
+    {
+      "title": "Why Do We Turn on Innocent People?",
+      "channel": "The Rest Is Science",
+      "videoId": "4kKd9-vCPts",
+      "viewsPerHour": 6650,
+      "views": 311127,
+      "ageHours": 46.8
     },
     {
       "title": "PBS News Hour full episode, Oct. 5, 2026",
       "channel": "PBS NewsHour",
       "videoId": "218gMy1KfyQ",
-      "viewsPerHour": 6034,
+      "viewsPerHour": 5454,
       "views": 113449,
-      "ageHours": 18.8
-    },
-    {
-      "title": "Samsung SSD RMA case: why I pushed for a full refund",
-      "channel": "Louis Rossmann",
-      "videoId": "uqLElj8hUfU",
-      "viewsPerHour": 4477,
-      "views": 28408,
-      "ageHours": 6.3
+      "ageHours": 20.8
     },
     {
       "title": "Raw and Uncensored Footage of the Brutal Russia/Ukraine War",
       "channel": "Real Stories",
       "videoId": "GtOS_F4bVF0",
-      "viewsPerHour": 3422,
-      "views": 86539,
-      "ageHours": 25.3
+      "viewsPerHour": 3598,
+      "views": 98184,
+      "ageHours": 27.3
     },
     {
-      "title": "LISTEN LIVE: Supreme Court hears case on Employee Retirement Income Security Act claim standards",
-      "channel": "PBS NewsHour",
-      "videoId": "PlkMjxwCzX8",
-      "viewsPerHour": 3214,
-      "views": 10010,
-      "ageHours": 3.1
+      "title": "Samsung SSD RMA case: why I pushed for a full refund",
+      "channel": "Louis Rossmann",
+      "videoId": "uqLElj8hUfU",
+      "viewsPerHour": 3405,
+      "views": 28408,
+      "ageHours": 8.3
     },
     {
       "title": "A Fan Thinks Conan Is Turning Into Mr. Burns | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "iBMi-dAylbE",
-      "viewsPerHour": 2895,
+      "viewsPerHour": 2197,
       "views": 18215,
-      "ageHours": 6.3
+      "ageHours": 8.3
+    },
+    {
+      "title": "LISTEN LIVE: Supreme Court hears case on Employee Retirement Income Security Act claim standards",
+      "channel": "PBS NewsHour",
+      "videoId": "PlkMjxwCzX8",
+      "viewsPerHour": 1958,
+      "views": 10010,
+      "ageHours": 5.1
     },
     {
       "title": "Owen Wilson (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "IGzI0bZd79c",
-      "viewsPerHour": 1845,
+      "viewsPerHour": 1735,
       "views": 57734,
-      "ageHours": 31.3
+      "ageHours": 33.3
     },
     {
       "title": "Halloween in Hammersmith",
       "channel": "Jonathan Pie",
       "videoId": "SFn1bHuqfjg",
-      "viewsPerHour": 1742,
-      "views": 16837,
-      "ageHours": 9.7
-    },
-    {
-      "title": "How are they supposed to defend this guy?': REACTION to Trump's remarks on L.A. and San Diego",
-      "channel": "MS NOW",
-      "videoId": "-JbTiKTpv08",
-      "viewsPerHour": 1589,
-      "views": 2581,
-      "ageHours": 1.6
+      "viewsPerHour": 1690,
+      "views": 19705,
+      "ageHours": 11.7
     },
     {
       "title": "DUMPSTER FIRE': Ken Paxton's Trump-backed campaign is in BIG trouble and he knows it",
       "channel": "MS NOW",
       "videoId": "4kl407AN6z4",
-      "viewsPerHour": 1248,
+      "viewsPerHour": 1137,
       "views": 25703,
-      "ageHours": 20.6
+      "ageHours": 22.6
     },
     {
       "title": "Trump suggests letting Iran 'TAKE OUT' Los Angeles, San Diego at Nebraska rally",
       "channel": "MS NOW",
       "videoId": "oA6_9cnpYKA",
-      "viewsPerHour": 1204,
+      "viewsPerHour": 960,
       "views": 9480,
-      "ageHours": 7.9
-    },
-    {
-      "title": "Are Alien Secrets Hidden in Washington D.C.? | In Search of Aliens (S1)",
-      "channel": "History",
-      "videoId": "XpzR9IePnuc",
-      "viewsPerHour": 1171,
-      "views": 55377,
-      "ageHours": 47.3
+      "ageHours": 9.9
     },
     {
       "title": "American Pope' traces Leo's journey from Chicago to the Vatican",
       "channel": "PBS NewsHour",
       "videoId": "GuYpIWkg-ZM",
-      "viewsPerHour": 1022,
+      "viewsPerHour": 926,
       "views": 19642,
-      "ageHours": 19.2
+      "ageHours": 21.2
+    },
+    {
+      "title": "How are they supposed to defend this guy?': REACTION to Trump's remarks on L.A. and San Diego",
+      "channel": "MS NOW",
+      "videoId": "-JbTiKTpv08",
+      "viewsPerHour": 712,
+      "views": 2581,
+      "ageHours": 3.6
     },
     {
       "title": "The Rachel Maddow Show - Oct. 5 | Audio Only",
       "channel": "MS NOW",
       "videoId": "yx6Mak048Ng",
-      "viewsPerHour": 804,
+      "viewsPerHour": 697,
       "views": 10477,
-      "ageHours": 13
+      "ageHours": 15
     },
     {
       "title": "Owen Wilson Remembers Press Junket With Robin Williams | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "HRZoEJOgqhI",
-      "viewsPerHour": 694,
+      "viewsPerHour": 432,
       "views": 2282,
-      "ageHours": 3.3
-    },
-    {
-      "title": "Completely irresponsible!': Mayor Bass SLAMS Trump suggesting Iran could 'take out' L.A.",
-      "channel": "MS NOW",
-      "videoId": "uxH0JXX-10c",
-      "viewsPerHour": 496,
-      "views": 816,
-      "ageHours": 1.6
+      "ageHours": 5.3
     },
     {
       "title": "EU kids act explained: how Europe plans to ruin the internet ",
       "channel": "Louis Rossmann",
       "videoId": "XfMB6yzAxKA",
-      "viewsPerHour": 416,
+      "viewsPerHour": 387,
       "views": 11165,
-      "ageHours": 26.9
-    },
-    {
-      "title": "Bristling with illegality': Norm Eisen blasts Trump using taxpayer money for ads",
-      "channel": "MS NOW",
-      "videoId": "zB52-jRDelU",
-      "viewsPerHour": 345,
-      "views": 557,
-      "ageHours": 1.6
+      "ageHours": 28.9
     },
     {
       "title": "PBS News Hour live episode, Oct. 5, 2026",
       "channel": "PBS NewsHour",
       "videoId": "UaFBANVr4GU",
-      "viewsPerHour": 328,
+      "viewsPerHour": 301,
       "views": 7168,
-      "ageHours": 21.8
+      "ageHours": 23.8
+    },
+    {
+      "title": "Completely irresponsible!': Mayor Bass SLAMS Trump suggesting Iran could 'take out' L.A.",
+      "channel": "MS NOW",
+      "videoId": "uxH0JXX-10c",
+      "viewsPerHour": 224,
+      "views": 816,
+      "ageHours": 3.6
     },
     {
       "title": "Petty, insecure, thin-skinned, unmanly': Nicolle BLASTS Hegseth for DESTROYING Pentagon",
       "channel": "MS NOW",
       "videoId": "HDdDxt1fwVk",
-      "viewsPerHour": 181,
+      "viewsPerHour": 164,
       "views": 3553,
-      "ageHours": 19.6
+      "ageHours": 21.6
+    },
+    {
+      "title": "Bristling with illegality': Norm Eisen blasts Trump using taxpayer money for ads",
+      "channel": "MS NOW",
+      "videoId": "zB52-jRDelU",
+      "viewsPerHour": 154,
+      "views": 557,
+      "ageHours": 3.6
     },
     {
       "title": "Giving Clinton the cat the best life",
       "channel": "Louis Rossmann",
       "videoId": "EIX52NCceAs",
-      "viewsPerHour": 69,
+      "viewsPerHour": 66,
       "views": 3093,
-      "ageHours": 45
+      "ageHours": 47
     },
     {
       "title": "As GLP-1s reshape America, questions and new uses emerge",
@@ -770,7 +762,7 @@
       "videoId": "74s5FaUFc4o",
       "viewsPerHour": 2,
       "views": 35,
-      "ageHours": 19.6
+      "ageHours": 21.5
     },
     {
       "title": "LIVE: President Trump holds midterm rally in the red state of Nebraska",
@@ -778,7 +770,7 @@
       "videoId": "N3bZB039OHw",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 20.8
+      "ageHours": 22.8
     }
   ]
 }
