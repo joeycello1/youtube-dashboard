@@ -1,12 +1,20 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
+      "channel": "MS NOW",
+      "count": 6
+    },
+    {
+      "channel": "Jonathan Pie",
       "count": 5
     },
     {
-      "channel": "MS NOW",
-      "count": 5
+      "channel": "The Daily Show",
+      "count": 13
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 7
     },
     {
       "channel": "Real Stories",
@@ -22,7 +30,7 @@
     },
     {
       "channel": "Last Week Tonight",
-      "count": 5
+      "count": 4
     },
     {
       "channel": "The Rest Is Science",
@@ -35,10 +43,6 @@
     {
       "channel": "Chris Lehto",
       "count": 7
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 10
     },
     {
       "channel": "The Interview",
@@ -55,14 +59,6 @@
     {
       "channel": "More Perfect Union",
       "count": 17
-    },
-    {
-      "channel": "Jonathan Pie",
-      "count": 4
-    },
-    {
-      "channel": "Diary of a CEO",
-      "count": 1
     },
     {
       "channel": "Area 52",
@@ -83,12 +79,28 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "PBS NewsHour",
+      "keyword": "MS NOW",
+      "count": 6
+    },
+    {
+      "keyword": "Jonathan Pie",
       "count": 5
     },
     {
-      "keyword": "MS NOW",
+      "keyword": "The Daily Show, AI",
       "count": 5
+    },
+    {
+      "keyword": "The Daily Show, AI, artificial intelligence",
+      "count": 1
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 7
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 7
     },
     {
       "keyword": "Real Stories",
@@ -104,7 +116,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "count": 5
+      "count": 4
     },
     {
       "keyword": "The Rest Is Science",
@@ -116,11 +128,7 @@
     },
     {
       "keyword": "AI",
-      "count": 9
-    },
-    {
-      "keyword": "The Daily Show, AI",
-      "count": 4
+      "count": 8
     },
     {
       "keyword": "The Interview",
@@ -137,10 +145,6 @@
     {
       "keyword": "Corbell, UFO, George Knapp",
       "count": 3
-    },
-    {
-      "keyword": "The Daily Show",
-      "count": 6
     },
     {
       "keyword": "More Perfect Union",
@@ -161,10 +165,6 @@
     {
       "keyword": "Real Stories, testimony",
       "count": 2
-    },
-    {
-      "keyword": "Jonathan Pie",
-      "count": 4
     },
     {
       "keyword": "AI, UAP",
@@ -229,8 +229,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-10-06",
+      "videos": 6
+    },
+    {
       "date": "2026-10-05",
-      "videos": 15
+      "videos": 16
     },
     {
       "date": "2026-10-04",
@@ -286,7 +290,7 @@
     },
     {
       "date": "2026-09-21",
-      "videos": 5
+      "videos": 3
     },
     {
       "date": "2026-09-20",
@@ -463,12 +467,28 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
+      "keyword": "MS NOW",
+      "matches": 6
+    },
+    {
+      "keyword": "Jonathan Pie",
+      "matches": 1
+    },
+    {
+      "keyword": "The Daily Show, AI",
       "matches": 5
     },
     {
-      "keyword": "MS NOW",
-      "matches": 5
+      "keyword": "The Daily Show, AI, artificial intelligence",
+      "matches": 1
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 7
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 7
     },
     {
       "keyword": "Real Stories",
@@ -480,7 +500,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "Last Week Tonight",
@@ -499,10 +519,6 @@
       "matches": 1
     },
     {
-      "keyword": "The Daily Show, AI",
-      "matches": 4
-    },
-    {
       "keyword": "The Interview",
       "matches": 1
     },
@@ -519,150 +535,202 @@
       "matches": 1
     },
     {
-      "keyword": "The Daily Show",
-      "matches": 6
-    },
-    {
       "keyword": "More Perfect Union",
       "matches": 1
     }
   ],
   "mostViral48h": [
     {
+      "title": "Jon Stewart Unpacks AI’s Dubious Promise of a \"Better Future\" | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "S18jxWZntUo",
+      "viewsPerHour": 147154,
+      "views": 1369684,
+      "ageHours": 9.3
+    },
+    {
       "title": "The Secret Service: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "XQ-Xnzj_uz4",
-      "viewsPerHour": 97663,
-      "views": 2713957,
-      "ageHours": 27.8
+      "viewsPerHour": 91482,
+      "views": 2726763,
+      "ageHours": 29.8
+    },
+    {
+      "title": "Jacob Coxon On Witnessing the Existential Threat of AI from the Inside | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "lnLDjXy2kRA",
+      "viewsPerHour": 32031,
+      "views": 298303,
+      "ageHours": 9.3
     },
     {
       "title": "S13 E25: Midterms & The Secret Service: 10/4/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "eJaySIQaDsQ",
-      "viewsPerHour": 24166,
-      "views": 756119,
-      "ageHours": 31.3
+      "viewsPerHour": 22883,
+      "views": 762173,
+      "ageHours": 33.3
+    },
+    {
+      "title": "Vivek Ramaswamy Almost Drops a Kid & Mamdani Holds Hands with Ex-Rival Curtis Sliwa | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "hUPjkXr1hIg",
+      "viewsPerHour": 9271,
+      "views": 104821,
+      "ageHours": 11.3
+    },
+    {
+      "title": "PBS News Hour full episode, Oct. 5, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "218gMy1KfyQ",
+      "viewsPerHour": 8847,
+      "views": 113449,
+      "ageHours": 12.8
     },
     {
       "title": "Why Do We Turn on Innocent People?",
       "channel": "The Rest Is Science",
       "videoId": "4kKd9-vCPts",
-      "viewsPerHour": 7713,
-      "views": 283767,
-      "ageHours": 36.8
+      "viewsPerHour": 7362,
+      "views": 285720,
+      "ageHours": 38.8
+    },
+    {
+      "title": "Trump suggests letting Iran 'TAKE OUT' Los Angeles, San Diego at Nebraska rally",
+      "channel": "MS NOW",
+      "videoId": "oA6_9cnpYKA",
+      "viewsPerHour": 5003,
+      "views": 9480,
+      "ageHours": 1.9
     },
     {
       "title": "Raw and Uncensored Footage of the Brutal Russia/Ukraine War",
       "channel": "Real Stories",
       "videoId": "GtOS_F4bVF0",
-      "viewsPerHour": 3336,
-      "views": 57695,
-      "ageHours": 17.3
+      "viewsPerHour": 3097,
+      "views": 59803,
+      "ageHours": 19.3
     },
     {
       "title": "Owen Wilson (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "IGzI0bZd79c",
-      "viewsPerHour": 2479,
+      "viewsPerHour": 2281,
       "views": 57734,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "DUMPSTER FIRE': Ken Paxton's Trump-backed campaign is in BIG trouble and he knows it",
       "channel": "MS NOW",
       "videoId": "4kl407AN6z4",
-      "viewsPerHour": 2039,
+      "viewsPerHour": 1757,
       "views": 25703,
-      "ageHours": 12.6
+      "ageHours": 14.6
+    },
+    {
+      "title": "The Rachel Maddow Show - Oct. 5 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "yx6Mak048Ng",
+      "viewsPerHour": 1484,
+      "views": 10477,
+      "ageHours": 7.1
+    },
+    {
+      "title": "American Pope' traces Leo's journey from Chicago to the Vatican",
+      "channel": "PBS NewsHour",
+      "videoId": "GuYpIWkg-ZM",
+      "viewsPerHour": 1483,
+      "views": 19642,
+      "ageHours": 13.2
     },
     {
       "title": "Are Alien Secrets Hidden in Washington D.C.? | In Search of Aliens (S1)",
       "channel": "History",
       "videoId": "XpzR9IePnuc",
-      "viewsPerHour": 1376,
-      "views": 54070,
-      "ageHours": 39.3
+      "viewsPerHour": 1311,
+      "views": 54180,
+      "ageHours": 41.3
     },
     {
-      "title": "Trump REVERSES course, tells Republicans to vote by mail now",
-      "channel": "MS NOW",
-      "videoId": "f6rURAF2JEs",
-      "viewsPerHour": 1041,
-      "views": 25244,
-      "ageHours": 24.3
+      "title": "Halloween in Hammersmith",
+      "channel": "Jonathan Pie",
+      "videoId": "SFn1bHuqfjg",
+      "viewsPerHour": 660,
+      "views": 2432,
+      "ageHours": 3.7
     },
     {
       "title": "EU kids act explained: how Europe plans to ruin the internet ",
       "channel": "Louis Rossmann",
       "videoId": "XfMB6yzAxKA",
-      "viewsPerHour": 592,
+      "viewsPerHour": 534,
       "views": 11165,
-      "ageHours": 18.9
+      "ageHours": 20.9
     },
     {
       "title": "PBS News Hour live episode, Oct. 5, 2026",
       "channel": "PBS NewsHour",
       "videoId": "UaFBANVr4GU",
-      "viewsPerHour": 518,
+      "viewsPerHour": 452,
       "views": 7168,
-      "ageHours": 13.8
+      "ageHours": 15.9
     },
     {
       "title": "LISTEN LIVE: Supreme Court hears case seeking damages from fossil fuel industry for climate change",
       "channel": "PBS NewsHour",
       "videoId": "r3sl4v4asnY",
-      "viewsPerHour": 420,
+      "viewsPerHour": 378,
       "views": 7684,
-      "ageHours": 18.3
+      "ageHours": 20.3
     },
     {
       "title": "Petty, insecure, thin-skinned, unmanly': Nicolle BLASTS Hegseth for DESTROYING Pentagon",
       "channel": "MS NOW",
       "videoId": "HDdDxt1fwVk",
-      "viewsPerHour": 306,
+      "viewsPerHour": 260,
       "views": 3553,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "Steve Buscemi Reveals A Past Darker and Stranger Than He Imagined",
       "channel": "Real Stories",
       "videoId": "-Vz32LYkJgU",
-      "viewsPerHour": 256,
+      "viewsPerHour": 244,
       "views": 10827,
-      "ageHours": 42.3
+      "ageHours": 44.3
     },
     {
       "title": "WATCH LIVE: Trump health officials hold make announcement on healthcare price transparency",
       "channel": "PBS NewsHour",
       "videoId": "5CsJvadV0cQ",
-      "viewsPerHour": 216,
+      "viewsPerHour": 193,
       "views": 3792,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
       "title": "Midterms Latest: El-Sayed and Slotkin highlight their common ground",
       "channel": "MS NOW",
       "videoId": "yY4EcfIrYm8",
-      "viewsPerHour": 203,
+      "viewsPerHour": 184,
       "views": 3926,
-      "ageHours": 19.3
+      "ageHours": 21.4
     },
     {
       "title": "Giving Clinton the cat the best life",
       "channel": "Louis Rossmann",
       "videoId": "EIX52NCceAs",
-      "viewsPerHour": 84,
+      "viewsPerHour": 79,
       "views": 3093,
-      "ageHours": 37
+      "ageHours": 39
     },
     {
       "title": "WATCH LIVE: Trump campaigns with Ricketts in Nebraska, where ranchers have a beef with import plan",
       "channel": "PBS NewsHour",
       "videoId": "hePYQWyggnk",
-      "viewsPerHour": 80,
+      "viewsPerHour": 73,
       "views": 1641,
-      "ageHours": 20.4
+      "ageHours": 22.4
     },
     {
       "title": "As GLP-1s reshape America, questions and new uses emerge",
@@ -670,7 +738,7 @@
       "videoId": "74s5FaUFc4o",
       "viewsPerHour": 3,
       "views": 35,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "LIVE: President Trump holds midterm rally in the red state of Nebraska",
@@ -678,7 +746,7 @@
       "videoId": "N3bZB039OHw",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 12.8
+      "ageHours": 14.8
     }
   ]
 }
