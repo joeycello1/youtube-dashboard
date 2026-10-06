@@ -2,6 +2,22 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
+      "count": 8
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 5
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 11
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 20
+    },
+    {
+      "channel": "Mayim Bialik",
       "count": 6
     },
     {
@@ -13,20 +29,8 @@
       "count": 13
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 7
-    },
-    {
       "channel": "Real Stories",
       "count": 44
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 19
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 9
     },
     {
       "channel": "Last Week Tonight",
@@ -38,7 +42,7 @@
     },
     {
       "channel": "History",
-      "count": 59
+      "count": 58
     },
     {
       "channel": "Chris Lehto",
@@ -65,10 +69,6 @@
       "count": 5
     },
     {
-      "channel": "Mayim Bialik",
-      "count": 5
-    },
-    {
       "channel": "Nat Geo",
       "count": 3
     },
@@ -80,7 +80,23 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 8
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 5
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 11
+    },
+    {
+      "keyword": "Louis Rossmann, Samsung",
+      "count": 2
+    },
+    {
+      "keyword": "AI, artificial intelligence, UAP",
+      "count": 3
     },
     {
       "keyword": "Jonathan Pie",
@@ -99,20 +115,12 @@
       "count": 7
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 7
-    },
-    {
       "keyword": "Real Stories",
       "count": 43
     },
     {
       "keyword": "Louis Rossmann",
       "count": 18
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 9
     },
     {
       "keyword": "Last Week Tonight",
@@ -136,7 +144,7 @@
     },
     {
       "keyword": "NOVA",
-      "count": 34
+      "count": 33
     },
     {
       "keyword": "Corbell, George Knapp, Grusch, UAP, UFO",
@@ -149,14 +157,6 @@
     {
       "keyword": "More Perfect Union",
       "count": 14
-    },
-    {
-      "keyword": "Louis Rossmann, Samsung",
-      "count": 1
-    },
-    {
-      "keyword": "AI, artificial intelligence, UAP",
-      "count": 2
     },
     {
       "keyword": "Corbell, UAP, UFO, George Knapp",
@@ -230,11 +230,11 @@
   "dailySummary": [
     {
       "date": "2026-10-06",
-      "videos": 6
+      "videos": 14
     },
     {
       "date": "2026-10-05",
-      "videos": 16
+      "videos": 12
     },
     {
       "date": "2026-10-04",
@@ -458,7 +458,7 @@
     },
     {
       "date": "2026-08-07",
-      "videos": 3
+      "videos": 2
     },
     {
       "date": "2026-06-14",
@@ -468,7 +468,23 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 8
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 5
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
+    },
+    {
+      "keyword": "Louis Rossmann, Samsung",
+      "matches": 1
+    },
+    {
+      "keyword": "AI, artificial intelligence, UAP",
+      "matches": 1
     },
     {
       "keyword": "Jonathan Pie",
@@ -487,20 +503,12 @@
       "matches": 7
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 7
-    },
-    {
       "keyword": "Real Stories",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "Louis Rossmann",
       "matches": 6
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 7
     },
     {
       "keyword": "Last Week Tonight",
@@ -524,7 +532,7 @@
     },
     {
       "keyword": "NOVA",
-      "matches": 3
+      "matches": 2
     },
     {
       "keyword": "Corbell, George Knapp, Grusch, UAP, UFO",
@@ -544,193 +552,217 @@
       "title": "Jon Stewart Unpacks AI’s Dubious Promise of a \"Better Future\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "S18jxWZntUo",
-      "viewsPerHour": 142615,
-      "views": 1610428,
-      "ageHours": 11.3
+      "viewsPerHour": 167547,
+      "views": 2560900,
+      "ageHours": 15.3
     },
     {
       "title": "The Secret Service: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "XQ-Xnzj_uz4",
-      "viewsPerHour": 86984,
-      "views": 2765308,
-      "ageHours": 31.8
+      "viewsPerHour": 82394,
+      "views": 2948342,
+      "ageHours": 35.8
     },
     {
       "title": "Jacob Coxon On Witnessing the Existential Threat of AI from the Inside | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "lnLDjXy2kRA",
-      "viewsPerHour": 32550,
-      "views": 367729,
-      "ageHours": 11.3
+      "viewsPerHour": 44960,
+      "views": 687430,
+      "ageHours": 15.3
     },
     {
       "title": "S13 E25: Midterms & The Secret Service: 10/4/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "eJaySIQaDsQ",
-      "viewsPerHour": 21952,
-      "views": 774704,
-      "ageHours": 35.3
+      "viewsPerHour": 20643,
+      "views": 810943,
+      "ageHours": 39.3
     },
     {
       "title": "Vivek Ramaswamy Almost Drops a Kid & Mamdani Holds Hands with Ex-Rival Curtis Sliwa | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "hUPjkXr1hIg",
-      "viewsPerHour": 8491,
-      "views": 112852,
-      "ageHours": 13.3
-    },
-    {
-      "title": "PBS News Hour full episode, Oct. 5, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "218gMy1KfyQ",
-      "viewsPerHour": 7661,
-      "views": 113449,
-      "ageHours": 14.8
+      "viewsPerHour": 8424,
+      "views": 145594,
+      "ageHours": 17.3
     },
     {
       "title": "Why Do We Turn on Innocent People?",
       "channel": "The Rest Is Science",
       "videoId": "4kKd9-vCPts",
-      "viewsPerHour": 7102,
-      "views": 289725,
-      "ageHours": 40.8
+      "viewsPerHour": 6803,
+      "views": 304669,
+      "ageHours": 44.8
+    },
+    {
+      "title": "He Called Out To Aliens, 3 minutes later Navy SEALs Witnessed The Reply | Sean Webb",
+      "channel": "Mayim Bialik",
+      "videoId": "QuiyJB4u7jw",
+      "viewsPerHour": 6695,
+      "views": 48806,
+      "ageHours": 7.3
+    },
+    {
+      "title": "PBS News Hour full episode, Oct. 5, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "218gMy1KfyQ",
+      "viewsPerHour": 6034,
+      "views": 113449,
+      "ageHours": 18.8
+    },
+    {
+      "title": "Samsung SSD RMA case: why I pushed for a full refund",
+      "channel": "Louis Rossmann",
+      "videoId": "uqLElj8hUfU",
+      "viewsPerHour": 4477,
+      "views": 28408,
+      "ageHours": 6.3
     },
     {
       "title": "Raw and Uncensored Footage of the Brutal Russia/Ukraine War",
       "channel": "Real Stories",
       "videoId": "GtOS_F4bVF0",
-      "viewsPerHour": 3050,
-      "views": 64953,
-      "ageHours": 21.3
+      "viewsPerHour": 3422,
+      "views": 86539,
+      "ageHours": 25.3
     },
     {
-      "title": "Trump suggests letting Iran 'TAKE OUT' Los Angeles, San Diego at Nebraska rally",
-      "channel": "MS NOW",
-      "videoId": "oA6_9cnpYKA",
-      "viewsPerHour": 2444,
-      "views": 9480,
-      "ageHours": 3.9
+      "title": "LISTEN LIVE: Supreme Court hears case on Employee Retirement Income Security Act claim standards",
+      "channel": "PBS NewsHour",
+      "videoId": "PlkMjxwCzX8",
+      "viewsPerHour": 3214,
+      "views": 10010,
+      "ageHours": 3.1
+    },
+    {
+      "title": "A Fan Thinks Conan Is Turning Into Mr. Burns | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "iBMi-dAylbE",
+      "viewsPerHour": 2895,
+      "views": 18215,
+      "ageHours": 6.3
     },
     {
       "title": "Owen Wilson (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "IGzI0bZd79c",
-      "viewsPerHour": 2115,
+      "viewsPerHour": 1845,
       "views": 57734,
-      "ageHours": 27.3
-    },
-    {
-      "title": "DUMPSTER FIRE': Ken Paxton's Trump-backed campaign is in BIG trouble and he knows it",
-      "channel": "MS NOW",
-      "videoId": "4kl407AN6z4",
-      "viewsPerHour": 1547,
-      "views": 25703,
-      "ageHours": 16.6
-    },
-    {
-      "title": "American Pope' traces Leo's journey from Chicago to the Vatican",
-      "channel": "PBS NewsHour",
-      "videoId": "GuYpIWkg-ZM",
-      "viewsPerHour": 1290,
-      "views": 19642,
-      "ageHours": 15.2
-    },
-    {
-      "title": "Are Alien Secrets Hidden in Washington D.C.? | In Search of Aliens (S1)",
-      "channel": "History",
-      "videoId": "XpzR9IePnuc",
-      "viewsPerHour": 1258,
-      "views": 54457,
-      "ageHours": 43.3
-    },
-    {
-      "title": "The Rachel Maddow Show - Oct. 5 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "yx6Mak048Ng",
-      "viewsPerHour": 1159,
-      "views": 10477,
-      "ageHours": 9
+      "ageHours": 31.3
     },
     {
       "title": "Halloween in Hammersmith",
       "channel": "Jonathan Pie",
       "videoId": "SFn1bHuqfjg",
-      "viewsPerHour": 888,
-      "views": 5038,
-      "ageHours": 5.7
+      "viewsPerHour": 1742,
+      "views": 16837,
+      "ageHours": 9.7
+    },
+    {
+      "title": "How are they supposed to defend this guy?': REACTION to Trump's remarks on L.A. and San Diego",
+      "channel": "MS NOW",
+      "videoId": "-JbTiKTpv08",
+      "viewsPerHour": 1589,
+      "views": 2581,
+      "ageHours": 1.6
+    },
+    {
+      "title": "DUMPSTER FIRE': Ken Paxton's Trump-backed campaign is in BIG trouble and he knows it",
+      "channel": "MS NOW",
+      "videoId": "4kl407AN6z4",
+      "viewsPerHour": 1248,
+      "views": 25703,
+      "ageHours": 20.6
+    },
+    {
+      "title": "Trump suggests letting Iran 'TAKE OUT' Los Angeles, San Diego at Nebraska rally",
+      "channel": "MS NOW",
+      "videoId": "oA6_9cnpYKA",
+      "viewsPerHour": 1204,
+      "views": 9480,
+      "ageHours": 7.9
+    },
+    {
+      "title": "Are Alien Secrets Hidden in Washington D.C.? | In Search of Aliens (S1)",
+      "channel": "History",
+      "videoId": "XpzR9IePnuc",
+      "viewsPerHour": 1171,
+      "views": 55377,
+      "ageHours": 47.3
+    },
+    {
+      "title": "American Pope' traces Leo's journey from Chicago to the Vatican",
+      "channel": "PBS NewsHour",
+      "videoId": "GuYpIWkg-ZM",
+      "viewsPerHour": 1022,
+      "views": 19642,
+      "ageHours": 19.2
+    },
+    {
+      "title": "The Rachel Maddow Show - Oct. 5 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "yx6Mak048Ng",
+      "viewsPerHour": 804,
+      "views": 10477,
+      "ageHours": 13
+    },
+    {
+      "title": "Owen Wilson Remembers Press Junket With Robin Williams | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "HRZoEJOgqhI",
+      "viewsPerHour": 694,
+      "views": 2282,
+      "ageHours": 3.3
+    },
+    {
+      "title": "Completely irresponsible!': Mayor Bass SLAMS Trump suggesting Iran could 'take out' L.A.",
+      "channel": "MS NOW",
+      "videoId": "uxH0JXX-10c",
+      "viewsPerHour": 496,
+      "views": 816,
+      "ageHours": 1.6
     },
     {
       "title": "EU kids act explained: how Europe plans to ruin the internet ",
       "channel": "Louis Rossmann",
       "videoId": "XfMB6yzAxKA",
-      "viewsPerHour": 488,
+      "viewsPerHour": 416,
       "views": 11165,
-      "ageHours": 22.9
+      "ageHours": 26.9
+    },
+    {
+      "title": "Bristling with illegality': Norm Eisen blasts Trump using taxpayer money for ads",
+      "channel": "MS NOW",
+      "videoId": "zB52-jRDelU",
+      "viewsPerHour": 345,
+      "views": 557,
+      "ageHours": 1.6
     },
     {
       "title": "PBS News Hour live episode, Oct. 5, 2026",
       "channel": "PBS NewsHour",
       "videoId": "UaFBANVr4GU",
-      "viewsPerHour": 402,
+      "viewsPerHour": 328,
       "views": 7168,
-      "ageHours": 17.8
-    },
-    {
-      "title": "LISTEN LIVE: Supreme Court hears case seeking damages from fossil fuel industry for climate change",
-      "channel": "PBS NewsHour",
-      "videoId": "r3sl4v4asnY",
-      "viewsPerHour": 344,
-      "views": 7684,
-      "ageHours": 22.3
-    },
-    {
-      "title": "Steve Buscemi Reveals A Past Darker and Stranger Than He Imagined",
-      "channel": "Real Stories",
-      "videoId": "-Vz32LYkJgU",
-      "viewsPerHour": 236,
-      "views": 10934,
-      "ageHours": 46.3
+      "ageHours": 21.8
     },
     {
       "title": "Petty, insecure, thin-skinned, unmanly': Nicolle BLASTS Hegseth for DESTROYING Pentagon",
       "channel": "MS NOW",
       "videoId": "HDdDxt1fwVk",
-      "viewsPerHour": 227,
+      "viewsPerHour": 181,
       "views": 3553,
-      "ageHours": 15.6
-    },
-    {
-      "title": "WATCH LIVE: Trump health officials hold make announcement on healthcare price transparency",
-      "channel": "PBS NewsHour",
-      "videoId": "5CsJvadV0cQ",
-      "viewsPerHour": 176,
-      "views": 3792,
-      "ageHours": 21.6
-    },
-    {
-      "title": "Midterms Latest: El-Sayed and Slotkin highlight their common ground",
-      "channel": "MS NOW",
-      "videoId": "yY4EcfIrYm8",
-      "viewsPerHour": 168,
-      "views": 3926,
-      "ageHours": 23.3
+      "ageHours": 19.6
     },
     {
       "title": "Giving Clinton the cat the best life",
       "channel": "Louis Rossmann",
       "videoId": "EIX52NCceAs",
-      "viewsPerHour": 75,
+      "viewsPerHour": 69,
       "views": 3093,
-      "ageHours": 41
-    },
-    {
-      "title": "WATCH LIVE: Trump campaigns with Ricketts in Nebraska, where ranchers have a beef with import plan",
-      "channel": "PBS NewsHour",
-      "videoId": "hePYQWyggnk",
-      "viewsPerHour": 67,
-      "views": 1641,
-      "ageHours": 24.4
+      "ageHours": 45
     },
     {
       "title": "As GLP-1s reshape America, questions and new uses emerge",
@@ -738,7 +770,7 @@
       "videoId": "74s5FaUFc4o",
       "viewsPerHour": 2,
       "views": 35,
-      "ageHours": 15.6
+      "ageHours": 19.6
     },
     {
       "title": "LIVE: President Trump holds midterm rally in the red state of Nebraska",
@@ -746,7 +778,7 @@
       "videoId": "N3bZB039OHw",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 16.8
+      "ageHours": 20.8
     }
   ]
 }
