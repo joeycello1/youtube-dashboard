@@ -2,27 +2,27 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 4
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 14
-    },
-    {
-      "channel": "History",
-      "count": 58
+      "count": 2
     },
     {
       "channel": "PBS NewsHour",
       "count": 7
     },
     {
-      "channel": "Real Stories",
-      "count": 45
+      "channel": "History",
+      "count": 58
     },
     {
       "channel": "Conan O'Brien",
-      "count": 11
+      "count": 13
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 13
+    },
+    {
+      "channel": "Real Stories",
+      "count": 45
     },
     {
       "channel": "Louis Rossmann",
@@ -50,7 +50,7 @@
     },
     {
       "channel": "The Interview",
-      "count": 8
+      "count": 7
     },
     {
       "channel": "Jeremy Corbell",
@@ -80,27 +80,27 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 4
-    },
-    {
-      "keyword": "The Daily Show",
-      "count": 9
-    },
-    {
-      "keyword": "UFO",
-      "count": 40
+      "count": 2
     },
     {
       "keyword": "PBS NewsHour",
       "count": 7
     },
     {
-      "keyword": "Real Stories, testimony",
-      "count": 3
+      "keyword": "UFO",
+      "count": 41
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 11
+      "count": 13
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 8
+    },
+    {
+      "keyword": "Real Stories, testimony",
+      "count": 3
     },
     {
       "keyword": "Louis Rossmann, Samsung",
@@ -140,11 +140,11 @@
     },
     {
       "keyword": "AI",
-      "count": 8
+      "count": 7
     },
     {
       "keyword": "The Interview",
-      "count": 7
+      "count": 6
     },
     {
       "keyword": "NOVA",
@@ -230,11 +230,11 @@
   "dailySummary": [
     {
       "date": "2026-10-07",
-      "videos": 4
+      "videos": 9
     },
     {
       "date": "2026-10-06",
-      "videos": 20
+      "videos": 16
     },
     {
       "date": "2026-10-05",
@@ -258,7 +258,7 @@
     },
     {
       "date": "2026-09-30",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-09-29",
@@ -458,7 +458,7 @@
     },
     {
       "date": "2026-08-08",
-      "videos": 6
+      "videos": 4
     },
     {
       "date": "2026-06-14",
@@ -468,27 +468,27 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 4
-    },
-    {
-      "keyword": "The Daily Show",
-      "matches": 8
-    },
-    {
-      "keyword": "UFO",
-      "matches": 4
+      "matches": 2
     },
     {
       "keyword": "PBS NewsHour",
       "matches": 7
     },
     {
-      "keyword": "Real Stories, testimony",
-      "matches": 1
+      "keyword": "UFO",
+      "matches": 5
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 7
+      "matches": 9
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 8
+    },
+    {
+      "keyword": "Real Stories, testimony",
+      "matches": 1
     },
     {
       "keyword": "Louis Rossmann, Samsung",
@@ -556,185 +556,185 @@
       "title": "Jon Stewart Unpacks AI’s Dubious Promise of a \"Better Future\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "S18jxWZntUo",
-      "viewsPerHour": 111274,
-      "views": 4152948,
-      "ageHours": 37.3
+      "viewsPerHour": 107373,
+      "views": 4218772,
+      "ageHours": 39.3
     },
     {
       "title": "Ramaswamy Nearly Drops a Kid, Paxton's Ad Backfires & Trump Wants to Fix Your Clock | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Ad13VhMQbL0",
-      "viewsPerHour": 89698,
-      "views": 1284906,
-      "ageHours": 14.3
+      "viewsPerHour": 84938,
+      "views": 1383928,
+      "ageHours": 16.3
     },
     {
       "title": "Jordan Klepper Sits Down with a January 6er Who Wants a Refund | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ZBcLkaJPa78",
-      "viewsPerHour": 71522,
-      "views": 1238029,
-      "ageHours": 17.3
+      "viewsPerHour": 71988,
+      "views": 1387807,
+      "ageHours": 19.3
     },
     {
       "title": "Jacob Coxon On Witnessing the Existential Threat of AI from the Inside | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "lnLDjXy2kRA",
-      "viewsPerHour": 40781,
-      "views": 1522254,
-      "ageHours": 37.3
+      "viewsPerHour": 40497,
+      "views": 1591380,
+      "ageHours": 39.3
     },
     {
       "title": "Aaron Sorkin Revisits Mark Zuckerberg 16 Years Later In \"The Social Reckoning\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "C_EUGhdLedA",
-      "viewsPerHour": 11336,
-      "views": 145394,
-      "ageHours": 12.8
+      "viewsPerHour": 11271,
+      "views": 166745,
+      "ageHours": 14.8
     },
     {
       "title": "PBS News Hour full episode, Oct. 6, 2026",
       "channel": "PBS NewsHour",
       "videoId": "vJZNxqi4pd8",
-      "viewsPerHour": 5864,
+      "viewsPerHour": 5258,
       "views": 100133,
-      "ageHours": 17.1
+      "ageHours": 19
     },
     {
       "title": "Vivek Ramaswamy Almost Drops a Kid & Mamdani Holds Hands with Ex-Rival Curtis Sliwa | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "hUPjkXr1hIg",
-      "viewsPerHour": 5079,
-      "views": 199713,
-      "ageHours": 39.3
+      "viewsPerHour": 4889,
+      "views": 201851,
+      "ageHours": 41.3
     },
     {
       "title": "He Called Out To Aliens, 3 minutes later Navy SEALs Witnessed The Reply | Sean Webb",
       "channel": "Mayim Bialik",
       "videoId": "QuiyJB4u7jw",
-      "viewsPerHour": 4734,
-      "views": 138838,
-      "ageHours": 29.3
+      "viewsPerHour": 4562,
+      "views": 142757,
+      "ageHours": 31.3
     },
     {
       "title": "The Ranch Strikes Back | The Secret of Skinwalker Ranch (S2, E1) | Full Episode",
       "channel": "History",
       "videoId": "4mwfnTkr1ZA",
-      "viewsPerHour": 4374,
-      "views": 71425,
-      "ageHours": 16.3
+      "viewsPerHour": 4023,
+      "views": 73610,
+      "ageHours": 18.3
     },
     {
-      "title": "Raw and Uncensored Footage of the Brutal Russia/Ukraine War",
-      "channel": "Real Stories",
-      "videoId": "GtOS_F4bVF0",
-      "viewsPerHour": 3283,
-      "views": 155371,
-      "ageHours": 47.3
+      "title": "GOP senator SHREDS Trump’s MAGA cabinet on MS NOW",
+      "channel": "MS NOW",
+      "videoId": "3HZ2lZfCT90",
+      "viewsPerHour": 2662,
+      "views": 5720,
+      "ageHours": 2.1
+    },
+    {
+      "title": "Gillian Jacobs (Full Episode) | Where Everybody Knows Your Name",
+      "channel": "Conan O'Brien",
+      "videoId": "OKaSXJ6lPQw",
+      "viewsPerHour": 1767,
+      "views": 11123,
+      "ageHours": 6.3
+    },
+    {
+      "title": "Extraterrestrials in Italy | Ancient Aliens",
+      "channel": "History",
+      "videoId": "OSJiqb2PtuU",
+      "viewsPerHour": 1698,
+      "views": 3891,
+      "ageHours": 2.3
     },
     {
       "title": "High cost of GLP-1s drives some to seek cheaper, unregulated versions",
       "channel": "PBS NewsHour",
       "videoId": "DJmBjEwHBxM",
-      "viewsPerHour": 1647,
+      "viewsPerHour": 1477,
       "views": 28325,
-      "ageHours": 17.2
+      "ageHours": 19.2
     },
     {
       "title": "Samsung SSD RMA case: why I pushed for a full refund",
       "channel": "Louis Rossmann",
       "videoId": "uqLElj8hUfU",
-      "viewsPerHour": 1001,
+      "viewsPerHour": 936,
       "views": 28408,
-      "ageHours": 28.4
+      "ageHours": 30.4
     },
     {
       "title": "Halloween in Hammersmith",
       "channel": "Jonathan Pie",
       "videoId": "SFn1bHuqfjg",
-      "viewsPerHour": 896,
-      "views": 28390,
-      "ageHours": 31.7
+      "viewsPerHour": 858,
+      "views": 28889,
+      "ageHours": 33.7
     },
     {
       "title": "A Fan Thinks Conan Is Turning Into Mr. Burns | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "iBMi-dAylbE",
-      "viewsPerHour": 643,
+      "viewsPerHour": 601,
       "views": 18215,
-      "ageHours": 28.3
+      "ageHours": 30.3
     },
     {
-      "title": "LISTEN LIVE: Supreme Court hears case on Employee Retirement Income Security Act claim standards",
-      "channel": "PBS NewsHour",
-      "videoId": "PlkMjxwCzX8",
-      "viewsPerHour": 398,
-      "views": 10010,
-      "ageHours": 25.2
-    },
-    {
-      "title": "28 days to midterms: ‘Nosedive situation’ for GOP, Psaki hosts from Maine | MS NOW Highlights",
-      "channel": "MS NOW",
-      "videoId": "8KHiSAIK5ac",
-      "viewsPerHour": 395,
-      "views": 2387,
-      "ageHours": 6
+      "title": "Owen Wilson's Dad Wrote Bill Murray's Monologue In \"Rushmore\" | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "1dQRZu_SK3Q",
+      "viewsPerHour": 380,
+      "views": 1250,
+      "ageHours": 3.3
     },
     {
       "title": "Brett McGurk chronicles negotiations to free Oct. 7 hostages in 'Brink'",
       "channel": "PBS NewsHour",
       "videoId": "ZrPNa9os53g",
-      "viewsPerHour": 381,
+      "viewsPerHour": 342,
       "views": 6633,
-      "ageHours": 17.4
+      "ageHours": 19.4
     },
     {
       "title": "PBS News Hour live episode, Oct. 6, 2026",
       "channel": "PBS NewsHour",
       "videoId": "NmtYiYI_7us",
-      "viewsPerHour": 340,
+      "viewsPerHour": 308,
       "views": 6603,
-      "ageHours": 19.4
+      "ageHours": 21.4
+    },
+    {
+      "title": "WATCH LIVE: Rubio speaks at the Pnyx in Athens, cradle of democracy",
+      "channel": "PBS NewsHour",
+      "videoId": "N8rSGx9PxMI",
+      "viewsPerHour": 298,
+      "views": 667,
+      "ageHours": 2.2
+    },
+    {
+      "title": "28 days to midterms: ‘Nosedive situation’ for GOP, Psaki hosts from Maine | MS NOW Highlights",
+      "channel": "MS NOW",
+      "videoId": "8KHiSAIK5ac",
+      "viewsPerHour": 298,
+      "views": 2387,
+      "ageHours": 8
     },
     {
       "title": "Saudi Arabia's Most Expensive Human Rights Cover Up",
       "channel": "Real Stories",
       "videoId": "6WdG8tPy6c0",
-      "viewsPerHour": 268,
-      "views": 6245,
-      "ageHours": 23.3
-    },
-    {
-      "title": "How are they supposed to defend this guy?': REACTION to Trump's remarks on L.A. and San Diego",
-      "channel": "MS NOW",
-      "videoId": "-JbTiKTpv08",
-      "viewsPerHour": 109,
-      "views": 2581,
-      "ageHours": 23.7
+      "viewsPerHour": 252,
+      "views": 6377,
+      "ageHours": 25.3
     },
     {
       "title": "Owen Wilson Remembers Press Junket With Robin Williams | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "HRZoEJOgqhI",
-      "viewsPerHour": 90,
+      "viewsPerHour": 84,
       "views": 2282,
-      "ageHours": 25.3
-    },
-    {
-      "title": "Completely irresponsible!': Mayor Bass SLAMS Trump suggesting Iran could 'take out' L.A.",
-      "channel": "MS NOW",
-      "videoId": "uxH0JXX-10c",
-      "viewsPerHour": 34,
-      "views": 816,
-      "ageHours": 23.7
-    },
-    {
-      "title": "Bristling with illegality': Norm Eisen blasts Trump using taxpayer money for ads",
-      "channel": "MS NOW",
-      "videoId": "zB52-jRDelU",
-      "viewsPerHour": 24,
-      "views": 557,
-      "ageHours": 23.7
+      "ageHours": 27.3
     },
     {
       "title": "Examining the DOJ's effort to prosecute non-citizens accused of voting",
@@ -742,7 +742,7 @@
       "videoId": "pYCEg4eKZo8",
       "viewsPerHour": 4,
       "views": 80,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "Haitian student's suicide reveals human toll of immigration crackdown",
@@ -750,7 +750,7 @@
       "videoId": "rxReIXbTppo",
       "viewsPerHour": 2,
       "views": 32,
-      "ageHours": 17.8
+      "ageHours": 19.7
     }
   ]
 }
