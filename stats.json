@@ -496,7 +496,7 @@
     },
     {
       "keyword": "UFO",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "Real Stories",
@@ -504,7 +504,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "Real Stories, testimony",
@@ -553,10 +553,6 @@
     {
       "keyword": "Corbell, UFO, George Knapp",
       "matches": 1
-    },
-    {
-      "keyword": "More Perfect Union",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -564,217 +560,209 @@
       "title": "Russia's Plague Scare and America's Sinkholes Ruin Kosta’s Quarantine Plans | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "RSouSfZwXYA",
-      "viewsPerHour": 99628,
-      "views": 1225939,
-      "ageHours": 12.3
+      "viewsPerHour": 96048,
+      "views": 1374407,
+      "ageHours": 14.3
     },
     {
       "title": "Jordan Klepper Sits Down with a January 6er Who Wants a Refund | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ZBcLkaJPa78",
-      "viewsPerHour": 55480,
-      "views": 2178986,
-      "ageHours": 39.3
+      "viewsPerHour": 53801,
+      "views": 2220885,
+      "ageHours": 41.3
     },
     {
       "title": "Ramaswamy Nearly Drops a Kid, Paxton's Ad Backfires & Trump Wants to Fix Your Clock | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Ad13VhMQbL0",
-      "viewsPerHour": 49039,
-      "views": 1779646,
-      "ageHours": 36.3
+      "viewsPerHour": 46894,
+      "views": 1795770,
+      "ageHours": 38.3
     },
     {
       "title": "AI Safety Whistleblower: 10,000 AI Agents Worked Together To Do The Impossible! | Jeffrey Ladish",
       "channel": "Diary of a CEO",
       "videoId": "qDzg-xvkeXw",
-      "viewsPerHour": 39901,
-      "views": 290762,
-      "ageHours": 7.3
+      "viewsPerHour": 46556,
+      "views": 432575,
+      "ageHours": 9.3
     },
     {
       "title": "What Was A Mammoth Doing At The Bottom Of The Sea?",
       "channel": "The Rest Is Science",
       "videoId": "hCXScRVHD14",
-      "viewsPerHour": 8460,
-      "views": 128651,
-      "ageHours": 15.2
-    },
-    {
-      "title": "Aaron Sorkin Revisits Mark Zuckerberg 16 Years Later In \"The Social Reckoning\" | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "C_EUGhdLedA",
-      "viewsPerHour": 7569,
-      "views": 263321,
-      "ageHours": 34.8
+      "viewsPerHour": 8469,
+      "views": 145765,
+      "ageHours": 17.2
     },
     {
       "title": "Sebastian Stan On the Complexities of “Fjord” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "nHFDl3J5YZw",
-      "viewsPerHour": 7305,
-      "views": 78852,
-      "ageHours": 10.8
+      "viewsPerHour": 7303,
+      "views": 93469,
+      "ageHours": 12.8
     },
     {
-      "title": "PBS News Hour full episode, Oct. 7, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "7zl8OX8hjWo",
-      "viewsPerHour": 5823,
-      "views": 83176,
-      "ageHours": 14.3
+      "title": "Aaron Sorkin Revisits Mark Zuckerberg 16 Years Later In \"The Social Reckoning\" | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "C_EUGhdLedA",
+      "viewsPerHour": 7248,
+      "views": 266705,
+      "ageHours": 36.8
     },
     {
       "title": "Extraterrestrials in Italy | Ancient Aliens",
       "channel": "History",
       "videoId": "OSJiqb2PtuU",
-      "viewsPerHour": 5460,
-      "views": 121697,
-      "ageHours": 22.3
+      "viewsPerHour": 5249,
+      "views": 127503,
+      "ageHours": 24.3
+    },
+    {
+      "title": "PBS News Hour full episode, Oct. 7, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "7zl8OX8hjWo",
+      "viewsPerHour": 5107,
+      "views": 83176,
+      "ageHours": 16.3
     },
     {
       "title": "The Government’s UFO Secrets | Ancient Aliens (S1, E5) | Full Episode",
       "channel": "History",
       "videoId": "UCbJHWUY1tQ",
-      "viewsPerHour": 5411,
-      "views": 88144,
-      "ageHours": 16.3
+      "viewsPerHour": 4900,
+      "views": 89651,
+      "ageHours": 18.3
     },
     {
       "title": "WATCH LIVE: Trump speaks at rally for Senate candidate Ken Paxton in San Antonio",
       "channel": "PBS NewsHour",
       "videoId": "Ykk3UCmeftU",
-      "viewsPerHour": 4970,
+      "viewsPerHour": 4321,
       "views": 66317,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "The Ranch Strikes Back | The Secret of Skinwalker Ranch (S2, E1) | Full Episode",
       "channel": "History",
       "videoId": "4mwfnTkr1ZA",
-      "viewsPerHour": 2416,
-      "views": 92536,
-      "ageHours": 38.3
+      "viewsPerHour": 2311,
+      "views": 93142,
+      "ageHours": 40.3
     },
     {
       "title": "Interview: The Fusion Future with Dennis Whyte | Particles of Thought",
       "channel": "NOVA",
       "videoId": "mu1T0vFeD1w",
-      "viewsPerHour": 753,
-      "views": 3236,
-      "ageHours": 4.3
+      "viewsPerHour": 1261,
+      "views": 7948,
+      "ageHours": 6.3
     },
     {
       "title": "An absolute SMOKING GUN': Shocking documents reveal Trump using ICE to investigate elections",
       "channel": "MS NOW",
       "videoId": "ghWNakZtiDg",
-      "viewsPerHour": 582,
+      "viewsPerHour": 516,
       "views": 9229,
-      "ageHours": 15.9
-    },
-    {
-      "title": "27 days to midterms: Abbott skips Trump’s Texas rally, ICE scoured voter data | MS NOW Highlights",
-      "channel": "MS NOW",
-      "videoId": "i3EVJPfRe2E",
-      "viewsPerHour": 557,
-      "views": 2164,
-      "ageHours": 3.9
+      "ageHours": 17.9
     },
     {
       "title": "Israeli and Palestinian fathers partner to bridge divides 3 years after Oct. 7",
       "channel": "PBS NewsHour",
       "videoId": "6PODi-8Kk94",
-      "viewsPerHour": 538,
+      "viewsPerHour": 473,
       "views": 7875,
-      "ageHours": 14.6
+      "ageHours": 16.6
     },
     {
       "title": "Yusuf Hawkins: Inside The Murder That Split New York",
       "channel": "Real Stories",
       "videoId": "hdwu6TMqE1k",
-      "viewsPerHour": 437,
-      "views": 9311,
-      "ageHours": 21.3
-    },
-    {
-      "title": "PBS News Hour live episode, Oct. 7, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "Xq9ts0p57E0",
-      "viewsPerHour": 428,
-      "views": 7218,
-      "ageHours": 16.9
+      "viewsPerHour": 416,
+      "views": 9697,
+      "ageHours": 23.3
     },
     {
       "title": "Gillian Jacobs (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "OKaSXJ6lPQw",
-      "viewsPerHour": 423,
+      "viewsPerHour": 393,
       "views": 11123,
-      "ageHours": 26.3
+      "ageHours": 28.3
+    },
+    {
+      "title": "PBS News Hour live episode, Oct. 7, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "Xq9ts0p57E0",
+      "viewsPerHour": 383,
+      "views": 7218,
+      "ageHours": 18.9
+    },
+    {
+      "title": "27 days to midterms: Abbott skips Trump’s Texas rally, ICE scoured voter data | MS NOW Highlights",
+      "channel": "MS NOW",
+      "videoId": "i3EVJPfRe2E",
+      "viewsPerHour": 368,
+      "views": 2164,
+      "ageHours": 5.9
     },
     {
       "title": "BREAKING: Judge hears arguments in effort to BAN Trump’s $100k a month Truth Social GRIFT",
       "channel": "MS NOW",
       "videoId": "ng5PTfKnYec",
-      "viewsPerHour": 292,
+      "viewsPerHour": 260,
       "views": 4692,
-      "ageHours": 16.1
+      "ageHours": 18.1
     },
     {
       "title": "GOP senator SHREDS Trump’s MAGA cabinet on MS NOW",
       "channel": "MS NOW",
       "videoId": "3HZ2lZfCT90",
-      "viewsPerHour": 258,
+      "viewsPerHour": 237,
       "views": 5720,
-      "ageHours": 22.1
+      "ageHours": 24.1
     },
     {
       "title": "Saudi Arabia's Most Expensive Human Rights Cover Up",
       "channel": "Real Stories",
       "videoId": "6WdG8tPy6c0",
-      "viewsPerHour": 166,
-      "views": 7507,
-      "ageHours": 45.3
+      "viewsPerHour": 160,
+      "views": 7579,
+      "ageHours": 47.3
     },
     {
       "title": "Owen Wilson's Dad Wrote Bill Murray's Monologue In \"Rushmore\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "1dQRZu_SK3Q",
-      "viewsPerHour": 54,
+      "viewsPerHour": 49,
       "views": 1250,
-      "ageHours": 23.3
-    },
-    {
-      "title": "Owen Wilson Remembers Press Junket With Robin Williams | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "HRZoEJOgqhI",
-      "viewsPerHour": 48,
-      "views": 2282,
-      "ageHours": 47.3
+      "ageHours": 25.3
     },
     {
       "title": "WATCH LIVE: Rubio speaks at the Pnyx in Athens, cradle of democracy",
       "channel": "PBS NewsHour",
       "videoId": "N8rSGx9PxMI",
-      "viewsPerHour": 30,
+      "viewsPerHour": 28,
       "views": 667,
-      "ageHours": 22.2
+      "ageHours": 24.2
     },
     {
       "title": "News Wrap: Lawyer says Christa Pike 'angry and confused' following botched execution",
       "channel": "PBS NewsHour",
       "videoId": "kKlcUwE1Dgs",
-      "viewsPerHour": 25,
+      "viewsPerHour": 22,
       "views": 396,
-      "ageHours": 15.7
+      "ageHours": 17.7
     },
     {
       "title": "Georgia governor's debate highlights voters's top concerns",
       "channel": "PBS NewsHour",
       "videoId": "NdJW0eY2VB0",
-      "viewsPerHour": 8,
+      "viewsPerHour": 7,
       "views": 120,
-      "ageHours": 15.6
+      "ageHours": 17.6
     }
   ]
 }
