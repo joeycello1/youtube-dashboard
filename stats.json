@@ -1,16 +1,28 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 9
+    },
+    {
       "channel": "MS NOW",
-      "count": 4
+      "count": 5
+    },
+    {
+      "channel": "Area 52",
+      "count": 6
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 13
+    },
+    {
+      "channel": "NOVA",
+      "count": 22
     },
     {
       "channel": "The Daily Show",
       "count": 13
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 8
     },
     {
       "channel": "More Perfect Union",
@@ -25,14 +37,6 @@
       "count": 57
     },
     {
-      "channel": "Conan O'Brien",
-      "count": 14
-    },
-    {
-      "channel": "NOVA",
-      "count": 21
-    },
-    {
       "channel": "Diary of a CEO",
       "count": 1
     },
@@ -42,7 +46,7 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 14
+      "count": 13
     },
     {
       "channel": "Mayim Bialik",
@@ -69,10 +73,6 @@
       "count": 6
     },
     {
-      "channel": "Area 52",
-      "count": 5
-    },
-    {
       "channel": "Nat Geo",
       "count": 3
     },
@@ -83,20 +83,32 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "PBS NewsHour",
+      "count": 7
+    },
+    {
       "keyword": "MS NOW",
-      "count": 4
+      "count": 5
+    },
+    {
+      "keyword": "AI",
+      "count": 8
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 13
+    },
+    {
+      "keyword": "NOVA",
+      "count": 33
     },
     {
       "keyword": "The Daily Show",
-      "count": 9
+      "count": 10
     },
     {
       "keyword": "PBS NewsHour, AI",
       "count": 2
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 6
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -109,14 +121,6 @@
     {
       "keyword": "UFO",
       "count": 42
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 14
-    },
-    {
-      "keyword": "NOVA",
-      "count": 32
     },
     {
       "keyword": "AI, whistleblower",
@@ -144,7 +148,7 @@
     },
     {
       "keyword": "The Daily Show, AI",
-      "count": 3
+      "count": 2
     },
     {
       "keyword": "The Daily Show, AI, artificial intelligence",
@@ -152,15 +156,11 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 12
+      "count": 11
     },
     {
       "keyword": "Last Week Tonight",
       "count": 4
-    },
-    {
-      "keyword": "AI",
-      "count": 7
     },
     {
       "keyword": "The Interview",
@@ -234,11 +234,11 @@
   "dailySummary": [
     {
       "date": "2026-10-09",
-      "videos": 3
+      "videos": 12
     },
     {
       "date": "2026-10-08",
-      "videos": 22
+      "videos": 19
     },
     {
       "date": "2026-10-07",
@@ -262,7 +262,7 @@
     },
     {
       "date": "2026-10-02",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-10-01",
@@ -274,7 +274,7 @@
     },
     {
       "date": "2026-09-29",
-      "videos": 6
+      "videos": 4
     },
     {
       "date": "2026-09-28",
@@ -294,7 +294,7 @@
     },
     {
       "date": "2026-09-24",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-09-23",
@@ -467,20 +467,32 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour",
+      "matches": 7
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 4
+      "matches": 5
+    },
+    {
+      "keyword": "AI",
+      "matches": 2
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 9
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 3
     },
     {
       "keyword": "The Daily Show",
-      "matches": 9
+      "matches": 10
     },
     {
       "keyword": "PBS NewsHour, AI",
       "matches": 2
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 6
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -493,14 +505,6 @@
     {
       "keyword": "UFO",
       "matches": 5
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 8
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 2
     },
     {
       "keyword": "AI, whistleblower",
@@ -543,10 +547,6 @@
       "matches": 2
     },
     {
-      "keyword": "AI",
-      "matches": 1
-    },
-    {
       "keyword": "The Interview",
       "matches": 1
     }
@@ -556,209 +556,257 @@
       "title": "Kimberly Guilfoyle Caught Begging Trump Donor to Pay Her $100K Amex Bill | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Eb8Ki9-Uqiw",
-      "viewsPerHour": 95708,
-      "views": 1366718,
-      "ageHours": 14.3
+      "viewsPerHour": 90670,
+      "views": 1477316,
+      "ageHours": 16.3
     },
     {
       "title": "Russia's Plague Scare and America's Sinkholes Ruin Kosta’s Quarantine Plans | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "RSouSfZwXYA",
-      "viewsPerHour": 47929,
-      "views": 1836433,
-      "ageHours": 38.3
+      "viewsPerHour": 45853,
+      "views": 1849214,
+      "ageHours": 40.3
     },
     {
       "title": "AI Safety Whistleblower: 10,000 AI Agents Worked Together To Do The Impossible! | Jeffrey Ladish",
       "channel": "Diary of a CEO",
       "videoId": "qDzg-xvkeXw",
-      "viewsPerHour": 31039,
-      "views": 1033514,
-      "ageHours": 33.3
+      "viewsPerHour": 29953,
+      "views": 1057650,
+      "ageHours": 35.3
+    },
+    {
+      "title": "Trump's New Border Wall Might C**kblock Jaguars & Grace Kuhlenschmidt Investigates | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "hxegtvGzEYY",
+      "viewsPerHour": 27666,
+      "views": 189454,
+      "ageHours": 6.8
     },
     {
       "title": "Biohackers Go to Extremes to Live Longer & Lewis Black Doesn't Get It | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "60Ps1-ssOIU",
-      "viewsPerHour": 13939,
-      "views": 401205,
-      "ageHours": 28.8
+      "viewsPerHour": 13283,
+      "views": 409075,
+      "ageHours": 30.8
     },
     {
       "title": "We Investigated Medicare’s New AI Denial Scheme",
       "channel": "More Perfect Union",
       "videoId": "ZnuegvWjVN8",
-      "viewsPerHour": 10143,
-      "views": 204794,
-      "ageHours": 20.2
+      "viewsPerHour": 9714,
+      "views": 215685,
+      "ageHours": 22.2
+    },
+    {
+      "title": "Our First Steps on an Alien Planet - Journey to Planet Serpo | pt 3",
+      "channel": "Area 52",
+      "videoId": "utD8XLIOyN8",
+      "viewsPerHour": 5980,
+      "views": 13855,
+      "ageHours": 2.3
     },
     {
       "title": "What Was A Mammoth Doing At The Bottom Of The Sea?",
       "channel": "The Rest Is Science",
       "videoId": "hCXScRVHD14",
-      "viewsPerHour": 5962,
-      "views": 245730,
-      "ageHours": 41.2
-    },
-    {
-      "title": "PBS News Hour full episode, Oct. 8, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "6xTvyTunXIo",
-      "viewsPerHour": 5890,
-      "views": 98904,
-      "ageHours": 16.8
+      "viewsPerHour": 5783,
+      "views": 250022,
+      "ageHours": 43.2
     },
     {
       "title": "Kyle MacLachlan Reckons with His Characters in “Fictional Selves” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "G3jgGFTluR8",
-      "viewsPerHour": 5639,
-      "views": 72214,
-      "ageHours": 12.8
+      "viewsPerHour": 5282,
+      "views": 78276,
+      "ageHours": 14.8
+    },
+    {
+      "title": "PBS News Hour full episode, Oct. 8, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "6xTvyTunXIo",
+      "viewsPerHour": 5259,
+      "views": 98904,
+      "ageHours": 18.8
     },
     {
       "title": "Something Lurks at Homestead Two | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "0M9i-mAls4w",
-      "viewsPerHour": 4321,
-      "views": 105007,
-      "ageHours": 24.3
+      "viewsPerHour": 4138,
+      "views": 108877,
+      "ageHours": 26.3
     },
     {
       "title": "Sebastian Stan On the Complexities of “Fjord” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "nHFDl3J5YZw",
-      "viewsPerHour": 3989,
-      "views": 146800,
-      "ageHours": 36.8
+      "viewsPerHour": 3819,
+      "views": 148240,
+      "ageHours": 38.8
+    },
+    {
+      "title": "BREAKING: Trump appoints committee to investigate Fed Gov. Lisa Cook",
+      "channel": "MS NOW",
+      "videoId": "38pFTrkqBVQ",
+      "viewsPerHour": 2560,
+      "views": 5158,
+      "ageHours": 2
     },
     {
       "title": "The Government’s UFO Secrets | Ancient Aliens (S1, E5) | Full Episode",
       "channel": "History",
       "videoId": "UCbJHWUY1tQ",
-      "viewsPerHour": 2312,
-      "views": 97807,
-      "ageHours": 42.3
+      "viewsPerHour": 2213,
+      "views": 98071,
+      "ageHours": 44.3
+    },
+    {
+      "title": "WATCH LIVE: Trump hosts Columbus Day celebration",
+      "channel": "PBS NewsHour",
+      "videoId": "QTGLahwRq5o",
+      "viewsPerHour": 1488,
+      "views": 2687,
+      "ageHours": 1.8
+    },
+    {
+      "title": "Who will win Maine, Michigan and Georgia's Senate races? BREAK DOWN of fiery debate moments",
+      "channel": "MS NOW",
+      "videoId": "2g-wmVPKV1Q",
+      "viewsPerHour": 1304,
+      "views": 2646,
+      "ageHours": 2
+    },
+    {
+      "title": "Space Lasers Are Not Science Fiction | NOVA | PBS",
+      "channel": "NOVA",
+      "videoId": "O3QQ51dH0MY",
+      "viewsPerHour": 1089,
+      "views": 3611,
+      "ageHours": 3.3
     },
     {
       "title": "New documentary traces Elon Musk's rise and embrace of right-wing politics",
       "channel": "PBS NewsHour",
       "videoId": "EwAQMQjABAk",
-      "viewsPerHour": 1123,
+      "viewsPerHour": 1005,
       "views": 19133,
-      "ageHours": 17
+      "ageHours": 19
+    },
+    {
+      "title": "Conan Responds To A Fan Who Wants To Name Their Baby After Him | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "ucsEp1i_liE",
+      "viewsPerHour": 930,
+      "views": 3080,
+      "ageHours": 3.3
     },
     {
       "title": "What is Hegseth HIDING? Top Dem says he was BLOCKED from visiting U.S. bases targeted by Iran",
       "channel": "MS NOW",
       "videoId": "UnEU5g7vJN8",
-      "viewsPerHour": 991,
+      "viewsPerHour": 892,
       "views": 17898,
-      "ageHours": 18.1
+      "ageHours": 20.1
     },
     {
       "title": "Interview: The Fusion Future with Dennis Whyte | Particles of Thought",
       "channel": "NOVA",
       "videoId": "mu1T0vFeD1w",
-      "viewsPerHour": 834,
-      "views": 25269,
-      "ageHours": 30.3
+      "viewsPerHour": 812,
+      "views": 26244,
+      "ageHours": 32.3
     },
     {
       "title": "AI startup touts new possibilities for video creators, but concerns remain",
       "channel": "PBS NewsHour",
       "videoId": "o_ZtmSgTXjQ",
-      "viewsPerHour": 818,
+      "viewsPerHour": 731,
       "views": 13881,
-      "ageHours": 17
+      "ageHours": 19
     },
     {
       "title": "A DOOZY': Nicolle reacts to U.S. Ambassador Kimberly Guilfoyle’s SHAKEDOWN of Trump donor",
       "channel": "MS NOW",
       "videoId": "7xq1l2A3E7s",
-      "viewsPerHour": 762,
+      "viewsPerHour": 686,
       "views": 13701,
-      "ageHours": 18
+      "ageHours": 20
     },
     {
       "title": "Conan O'Brien Must Go: Season 3 Roundtable Discussion Part II | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "yA7K0aFzl8M",
-      "viewsPerHour": 722,
+      "viewsPerHour": 674,
       "views": 20445,
-      "ageHours": 28.3
-    },
-    {
-      "title": "PBS News Hour live episode, Oct. 8, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "-22Sjq_3eu4",
-      "viewsPerHour": 370,
-      "views": 7267,
-      "ageHours": 19.7
+      "ageHours": 30.3
     },
     {
       "title": "Mark Zuckerberg: How Facebook Changed the World Forever",
       "channel": "Real Stories",
       "videoId": "MoG8aTiJirA",
-      "viewsPerHour": 365,
-      "views": 8505,
-      "ageHours": 23.3
-    },
-    {
-      "title": "Yusuf Hawkins: Inside The Murder That Split New York",
-      "channel": "Real Stories",
-      "videoId": "hdwu6TMqE1k",
-      "viewsPerHour": 363,
-      "views": 17176,
-      "ageHours": 47.3
-    },
-    {
-      "title": "Absolutely was a quid pro quo': Trump donor SPEAKS OUT about Guilfoyle asking him for $100K",
-      "channel": "MS NOW",
-      "videoId": "swt4CeSkokE",
-      "viewsPerHour": 314,
-      "views": 7594,
-      "ageHours": 24.2
-    },
-    {
-      "title": "WATCH: Vance says Microsoft is being suspended from green card program for H-1B visa workers",
-      "channel": "PBS NewsHour",
-      "videoId": "TD4w8q4OGAw",
-      "viewsPerHour": 287,
-      "views": 7260,
+      "viewsPerHour": 344,
+      "views": 8710,
       "ageHours": 25.3
+    },
+    {
+      "title": "PBS News Hour live episode, Oct. 8, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "-22Sjq_3eu4",
+      "viewsPerHour": 335,
+      "views": 7267,
+      "ageHours": 21.7
     },
     {
       "title": "Debates in Michigan, Georgia dominated by personal attacks",
       "channel": "MS NOW",
       "videoId": "ZAGPTR-aGnk",
-      "viewsPerHour": 68,
+      "viewsPerHour": 50,
       "views": 379,
-      "ageHours": 5.6
+      "ageHours": 7.6
     },
     {
       "title": "Gary Oldman's Dream With Conan & Paul McCartney | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "4bINArRHYJ8",
-      "viewsPerHour": 41,
+      "viewsPerHour": 38,
       "views": 1029,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
       "title": "Botched execution reignites debate surrounding death penalty",
       "channel": "PBS NewsHour",
       "videoId": "9yxoQH13l48",
-      "viewsPerHour": 14,
+      "viewsPerHour": 12,
       "views": 245,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "Netanyahu's handling of Oct. 7 emerges as key issue in Israeli election",
       "channel": "PBS NewsHour",
       "videoId": "lEBd7H1pBKs",
-      "viewsPerHour": 4,
+      "viewsPerHour": 3,
       "views": 65,
-      "ageHours": 17.6
+      "ageHours": 19.6
+    },
+    {
+      "title": "WATCH LIVE: Trump rallies with Bruce Blakeman, New York's GOP gubernatorial candidate",
+      "channel": "PBS NewsHour",
+      "videoId": "mYSN-TqyiDA",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 1.7
+    },
+    {
+      "title": "WATCH LIVE: House Speaker Johnson rallies for Iowa Rep. Miller-Meeks",
+      "channel": "PBS NewsHour",
+      "videoId": "jO1EnMxXopU",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 1.7
     },
     {
       "title": "LIVE: The People's AI Assembly",
@@ -766,15 +814,7 @@
       "videoId": "JZ7DnHoPLLQ",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 26
-    },
-    {
-      "title": "WATCH LIVE: Trump awards Elon Musk the National Medal of Science, among others",
-      "channel": "PBS NewsHour",
-      "videoId": "Bs1keX5pjIA",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 26.1
+      "ageHours": 28
     }
   ]
 }
