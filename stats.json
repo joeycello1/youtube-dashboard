@@ -6,7 +6,7 @@
     },
     {
       "channel": "PBS NewsHour",
-      "count": 8
+      "count": 5
     },
     {
       "channel": "History",
@@ -88,7 +88,7 @@
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 6
+      "count": 5
     },
     {
       "keyword": "NOVA",
@@ -109,10 +109,6 @@
     {
       "keyword": "The Daily Show",
       "count": 10
-    },
-    {
-      "keyword": "PBS NewsHour, AI",
-      "count": 2
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -238,7 +234,7 @@
     },
     {
       "date": "2026-10-08",
-      "videos": 14
+      "videos": 11
     },
     {
       "date": "2026-10-07",
@@ -468,7 +464,7 @@
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "NOVA",
@@ -489,10 +485,6 @@
     {
       "keyword": "The Daily Show",
       "matches": 10
-    },
-    {
-      "keyword": "PBS NewsHour, AI",
-      "matches": 2
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -552,225 +544,201 @@
       "title": "Kimberly Guilfoyle Caught Begging Trump Donor to Pay Her $100K Amex Bill | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Eb8Ki9-Uqiw",
-      "viewsPerHour": 69413,
+      "viewsPerHour": 64487,
       "views": 1823525,
-      "ageHours": 26.3
+      "ageHours": 28.3
     },
     {
       "title": "AI Safety Whistleblower: 10,000 AI Agents Worked Together To Do The Impossible! | Jeffrey Ladish",
       "channel": "Diary of a CEO",
       "videoId": "qDzg-xvkeXw",
-      "viewsPerHour": 25762,
+      "viewsPerHour": 24669,
       "views": 1166734,
-      "ageHours": 45.3
+      "ageHours": 47.3
     },
     {
       "title": "Trump's New Border Wall Might C**kblock Jaguars & Grace Kuhlenschmidt Investigates | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "hxegtvGzEYY",
-      "viewsPerHour": 18536,
+      "viewsPerHour": 16560,
       "views": 311863,
-      "ageHours": 16.8
+      "ageHours": 18.8
     },
     {
       "title": "Biohackers Go to Extremes to Live Longer & Lewis Black Doesn't Get It | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "60Ps1-ssOIU",
-      "viewsPerHour": 10801,
+      "viewsPerHour": 10294,
       "views": 440385,
-      "ageHours": 40.8
+      "ageHours": 42.8
     },
     {
       "title": "Our First Steps on an Alien Planet - Journey to Planet Serpo | pt 3",
       "channel": "Area 52",
       "videoId": "utD8XLIOyN8",
-      "viewsPerHour": 8614,
+      "viewsPerHour": 7405,
       "views": 105897,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "We Investigated Medicare’s New AI Denial Scheme",
       "channel": "More Perfect Union",
       "videoId": "ZnuegvWjVN8",
-      "viewsPerHour": 7693,
+      "viewsPerHour": 7241,
       "views": 247564,
-      "ageHours": 32.2
+      "ageHours": 34.2
     },
     {
       "title": "Metallic Finds Above and Below Ground | The Curse of Oak Island",
       "channel": "History",
       "videoId": "gidKXAip1X0",
-      "viewsPerHour": 5940,
+      "viewsPerHour": 4782,
       "views": 49236,
-      "ageHours": 8.3
+      "ageHours": 10.3
     },
     {
       "title": "Sony screws Indian customer out of warranty on new PS5 because they bought it wrong",
       "channel": "Louis Rossmann",
       "videoId": "iEdoWL1aO7M",
-      "viewsPerHour": 4473,
+      "viewsPerHour": 3660,
       "views": 40398,
-      "ageHours": 9
+      "ageHours": 11
     },
     {
       "title": "Kyle MacLachlan Reckons with His Characters in “Fictional Selves” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "G3jgGFTluR8",
-      "viewsPerHour": 3910,
+      "viewsPerHour": 3618,
       "views": 96968,
-      "ageHours": 24.8
+      "ageHours": 26.8
     },
     {
       "title": "Something Lurks at Homestead Two | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "0M9i-mAls4w",
-      "viewsPerHour": 3451,
+      "viewsPerHour": 3270,
       "views": 125242,
-      "ageHours": 36.3
-    },
-    {
-      "title": "PBS News Hour full episode, Oct. 8, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "6xTvyTunXIo",
-      "viewsPerHour": 3436,
-      "views": 98904,
-      "ageHours": 28.8
+      "ageHours": 38.3
     },
     {
       "title": "Space Lasers Are Not Science Fiction | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "O3QQ51dH0MY",
-      "viewsPerHour": 2238,
+      "viewsPerHour": 1944,
       "views": 29745,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "BEYOND disgusting': Hegseth's gruesome livestreamed execution plan sparks bipartisan SHOCK",
       "channel": "MS NOW",
       "videoId": "G2IPu5PwawQ",
-      "viewsPerHour": 1950,
+      "viewsPerHour": 1495,
       "views": 12858,
-      "ageHours": 6.6
+      "ageHours": 8.6
     },
     {
       "title": "Our Favorite Scary Shows (And Some You've Never Heard Of) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "K56DFxbeyHU",
-      "viewsPerHour": 954,
+      "viewsPerHour": 784,
       "views": 8866,
-      "ageHours": 9.3
+      "ageHours": 11.3
     },
     {
       "title": "PBS News Hour live episode, Oct. 9, 2026",
       "channel": "PBS NewsHour",
       "videoId": "kJp-TOsW0Bo",
-      "viewsPerHour": 948,
+      "viewsPerHour": 751,
       "views": 7239,
-      "ageHours": 7.6
+      "ageHours": 9.6
     },
     {
       "title": "Interview: The Fusion Future with Dennis Whyte | Particles of Thought",
       "channel": "NOVA",
       "videoId": "mu1T0vFeD1w",
-      "viewsPerHour": 685,
+      "viewsPerHour": 654,
       "views": 28968,
-      "ageHours": 42.3
-    },
-    {
-      "title": "New documentary traces Elon Musk's rise and embrace of right-wing politics",
-      "channel": "PBS NewsHour",
-      "videoId": "EwAQMQjABAk",
-      "viewsPerHour": 659,
-      "views": 19133,
-      "ageHours": 29
+      "ageHours": 44.3
     },
     {
       "title": "Conan O'Brien Must Go: Season 3 Roundtable Discussion Part II | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "yA7K0aFzl8M",
-      "viewsPerHour": 507,
+      "viewsPerHour": 483,
       "views": 20445,
-      "ageHours": 40.3
-    },
-    {
-      "title": "AI startup touts new possibilities for video creators, but concerns remain",
-      "channel": "PBS NewsHour",
-      "videoId": "o_ZtmSgTXjQ",
-      "viewsPerHour": 479,
-      "views": 13881,
-      "ageHours": 29
+      "ageHours": 42.3
     },
     {
       "title": "BREAKING: Trump appoints committee to investigate Fed Gov. Lisa Cook",
       "channel": "MS NOW",
       "videoId": "38pFTrkqBVQ",
-      "viewsPerHour": 430,
+      "viewsPerHour": 368,
       "views": 5158,
-      "ageHours": 12
+      "ageHours": 14
     },
     {
       "title": "Mark Zuckerberg: How Facebook Changed the World Forever",
       "channel": "Real Stories",
       "videoId": "MoG8aTiJirA",
-      "viewsPerHour": 270,
+      "viewsPerHour": 256,
       "views": 9534,
-      "ageHours": 35.3
+      "ageHours": 37.3
     },
     {
       "title": "Conan Responds To A Fan Who Wants To Name Their Baby After Him | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ucsEp1i_liE",
-      "viewsPerHour": 232,
+      "viewsPerHour": 201,
       "views": 3080,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "WATCH LIVE: Trump hosts Columbus Day celebration",
       "channel": "PBS NewsHour",
       "videoId": "QTGLahwRq5o",
-      "viewsPerHour": 228,
+      "viewsPerHour": 195,
       "views": 2687,
-      "ageHours": 11.8
+      "ageHours": 13.8
     },
     {
       "title": "Who will win Maine, Michigan and Georgia's Senate races? BREAK DOWN of fiery debate moments",
       "channel": "MS NOW",
       "videoId": "2g-wmVPKV1Q",
-      "viewsPerHour": 220,
+      "viewsPerHour": 189,
       "views": 2646,
-      "ageHours": 12
+      "ageHours": 14
     },
     {
       "title": "‘It was a definite quid pro quo.’ GOP donor who accused Guilfoyle of corruption speaks out",
       "channel": "PBS NewsHour",
       "videoId": "kX2ReJ6Icuw",
-      "viewsPerHour": 60,
+      "viewsPerHour": 44,
       "views": 334,
-      "ageHours": 5.6
+      "ageHours": 7.6
     },
     {
       "title": "Gary Oldman's Dream With Conan & Paul McCartney | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "4bINArRHYJ8",
-      "viewsPerHour": 28,
+      "viewsPerHour": 26,
       "views": 1029,
-      "ageHours": 37.3
+      "ageHours": 39.3
     },
     {
       "title": "Debates in Michigan, Georgia dominated by personal attacks",
       "channel": "MS NOW",
       "videoId": "ZAGPTR-aGnk",
-      "viewsPerHour": 22,
+      "viewsPerHour": 19,
       "views": 379,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
       "title": "The mega-agent of our time': Rachel Maddow talks with Ari Emanuel",
       "channel": "MS NOW",
       "videoId": "byXiSoSSkuM",
-      "viewsPerHour": 10,
+      "viewsPerHour": 8,
       "views": 58,
-      "ageHours": 5.5
+      "ageHours": 7.5
     },
     {
       "title": "WATCH LIVE: Trump rallies with Bruce Blakeman, New York's GOP gubernatorial candidate",
@@ -778,7 +746,7 @@
       "videoId": "mYSN-TqyiDA",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 11.7
+      "ageHours": 13.7
     },
     {
       "title": "WATCH LIVE: House Speaker Johnson rallies for Iowa Rep. Miller-Meeks",
@@ -786,7 +754,7 @@
       "videoId": "jO1EnMxXopU",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 11.7
+      "ageHours": 13.7
     },
     {
       "title": "LIVE: The People's AI Assembly",
@@ -794,7 +762,7 @@
       "videoId": "JZ7DnHoPLLQ",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 38
+      "ageHours": 40
     }
   ]
 }
