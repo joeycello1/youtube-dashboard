@@ -545,172 +545,164 @@
   ],
   "mostViral48h": [
     {
-      "title": "Kimberly Guilfoyle Caught Begging Trump Donor to Pay Her $100K Amex Bill | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "Eb8Ki9-Uqiw",
-      "viewsPerHour": 52459,
-      "views": 2112530,
-      "ageHours": 40.3
-    },
-    {
       "title": "Jon Stewart on AI's \"Better Future\" & Kosta on Kimberly Guilfoyle's $100K Amex Bill | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "UE8eLLH9e6M",
-      "viewsPerHour": 44446,
-      "views": 235221,
-      "ageHours": 5.3
+      "viewsPerHour": 53271,
+      "views": 388360,
+      "ageHours": 7.3
+    },
+    {
+      "title": "Kimberly Guilfoyle Caught Begging Trump Donor to Pay Her $100K Amex Bill | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "Eb8Ki9-Uqiw",
+      "viewsPerHour": 50574,
+      "views": 2137685,
+      "ageHours": 42.3
     },
     {
       "title": "American Morality",
       "channel": "Jonathan Pie",
       "videoId": "SfxQSS1tVV4",
-      "viewsPerHour": 13128,
-      "views": 28729,
-      "ageHours": 2.2
+      "viewsPerHour": 19885,
+      "views": 83247,
+      "ageHours": 4.2
     },
     {
       "title": "Trump's New Border Wall Might C**kblock Jaguars & Grace Kuhlenschmidt Investigates | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "hxegtvGzEYY",
-      "viewsPerHour": 13041,
-      "views": 401986,
-      "ageHours": 30.8
+      "viewsPerHour": 12399,
+      "views": 406976,
+      "ageHours": 32.8
     },
     {
       "title": "Metallic Finds Above and Below Ground | The Curse of Oak Island",
       "channel": "History",
       "videoId": "gidKXAip1X0",
-      "viewsPerHour": 6893,
-      "views": 153630,
-      "ageHours": 22.3
+      "viewsPerHour": 6815,
+      "views": 165512,
+      "ageHours": 24.3
     },
     {
       "title": "Our First Steps on an Alien Planet - Journey to Planet Serpo | pt 3",
       "channel": "Area 52",
       "videoId": "utD8XLIOyN8",
-      "viewsPerHour": 6827,
-      "views": 179515,
-      "ageHours": 26.3
-    },
-    {
-      "title": "We Investigated Medicare’s New AI Denial Scheme",
-      "channel": "More Perfect Union",
-      "videoId": "ZnuegvWjVN8",
-      "viewsPerHour": 6015,
-      "views": 277771,
-      "ageHours": 46.2
-    },
-    {
-      "title": "Mini liebschti narrates what it's like to use an HP printer using accurate language",
-      "channel": "Louis Rossmann",
-      "videoId": "Oq7UkDskDE8",
-      "viewsPerHour": 3897,
-      "views": 18861,
-      "ageHours": 4.8
+      "viewsPerHour": 6568,
+      "views": 185816,
+      "ageHours": 28.3
     },
     {
       "title": "PBS News Hour full episode, Oct. 9, 2026",
       "channel": "PBS NewsHour",
       "videoId": "DVYPvv642Vw",
-      "viewsPerHour": 3743,
+      "viewsPerHour": 3364,
       "views": 66287,
-      "ageHours": 17.7
-    },
-    {
-      "title": "Kyle MacLachlan Reckons with His Characters in “Fictional Selves” | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "G3jgGFTluR8",
-      "viewsPerHour": 2926,
-      "views": 113528,
-      "ageHours": 38.8
-    },
-    {
-      "title": "The Last Word with Lawrence O'Donnell - Oct. 9 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "wktTFMueRIs",
-      "viewsPerHour": 2510,
-      "views": 34006,
-      "ageHours": 13.5
-    },
-    {
-      "title": " ‘We’re sick of ICE’: Trump’s immigration crackdown under scrutiny again after shooting in NYC",
-      "channel": "MS NOW",
-      "videoId": "0SAEruHZjD8",
-      "viewsPerHour": 2441,
-      "views": 33522,
-      "ageHours": 13.7
+      "ageHours": 19.7
     },
     {
       "title": "She’s Been to Gaza. She Met With the Iranians. Now She Has a Warning. | The Interview",
       "channel": "The Interview",
       "videoId": "hDWdce9a6kY",
-      "viewsPerHour": 2007,
-      "views": 11126,
-      "ageHours": 5.5
+      "viewsPerHour": 3217,
+      "views": 24263,
+      "ageHours": 7.5
+    },
+    {
+      "title": "Kyle MacLachlan Reckons with His Characters in “Fictional Selves” | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "G3jgGFTluR8",
+      "viewsPerHour": 2818,
+      "views": 114962,
+      "ageHours": 40.8
+    },
+    {
+      "title": "Mini liebschti narrates what it's like to use an HP printer using accurate language",
+      "channel": "Louis Rossmann",
+      "videoId": "Oq7UkDskDE8",
+      "viewsPerHour": 2758,
+      "views": 18861,
+      "ageHours": 6.8
+    },
+    {
+      "title": "The Last Word with Lawrence O'Donnell - Oct. 9 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "wktTFMueRIs",
+      "viewsPerHour": 2188,
+      "views": 34006,
+      "ageHours": 15.5
+    },
+    {
+      "title": " ‘We’re sick of ICE’: Trump’s immigration crackdown under scrutiny again after shooting in NYC",
+      "channel": "MS NOW",
+      "videoId": "0SAEruHZjD8",
+      "viewsPerHour": 2131,
+      "views": 33522,
+      "ageHours": 15.7
     },
     {
       "title": "Space Lasers Are Not Science Fiction | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "O3QQ51dH0MY",
-      "viewsPerHour": 1781,
-      "views": 48620,
-      "ageHours": 27.3
+      "viewsPerHour": 1758,
+      "views": 51500,
+      "ageHours": 29.3
     },
     {
       "title": "Sony screws Indian customer out of warranty on new PS5 because they bought it wrong",
       "channel": "Louis Rossmann",
       "videoId": "iEdoWL1aO7M",
-      "viewsPerHour": 1754,
+      "viewsPerHour": 1614,
       "views": 40398,
-      "ageHours": 23
-    },
-    {
-      "title": "BEYOND disgusting': Hegseth's gruesome livestreamed execution plan sparks bipartisan SHOCK",
-      "channel": "MS NOW",
-      "videoId": "G2IPu5PwawQ",
-      "viewsPerHour": 624,
-      "views": 12858,
-      "ageHours": 20.6
-    },
-    {
-      "title": "Our Favorite Scary Shows (And Some You've Never Heard Of) | Bley's Arcade",
-      "channel": "Conan O'Brien",
-      "videoId": "K56DFxbeyHU",
-      "viewsPerHour": 381,
-      "views": 8866,
-      "ageHours": 23.3
-    },
-    {
-      "title": "PBS News Hour live episode, Oct. 9, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "kJp-TOsW0Bo",
-      "viewsPerHour": 335,
-      "views": 7239,
-      "ageHours": 21.6
+      "ageHours": 25
     },
     {
       "title": "Why These Palestinians Will Never Give Up Their Homes",
       "channel": "Real Stories",
       "videoId": "z_VU0zgOBxo",
-      "viewsPerHour": 206,
-      "views": 471,
-      "ageHours": 2.3
+      "viewsPerHour": 1081,
+      "views": 4633,
+      "ageHours": 4.3
+    },
+    {
+      "title": "BEYOND disgusting': Hegseth's gruesome livestreamed execution plan sparks bipartisan SHOCK",
+      "channel": "MS NOW",
+      "videoId": "G2IPu5PwawQ",
+      "viewsPerHour": 569,
+      "views": 12858,
+      "ageHours": 22.6
+    },
+    {
+      "title": "Our Favorite Scary Shows (And Some You've Never Heard Of) | Bley's Arcade",
+      "channel": "Conan O'Brien",
+      "videoId": "K56DFxbeyHU",
+      "viewsPerHour": 351,
+      "views": 8866,
+      "ageHours": 25.3
+    },
+    {
+      "title": "PBS News Hour live episode, Oct. 9, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "kJp-TOsW0Bo",
+      "viewsPerHour": 306,
+      "views": 7239,
+      "ageHours": 23.6
     },
     {
       "title": "Conan Responds To A Fan Who Wants To Name Their Baby After Him | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ucsEp1i_liE",
-      "viewsPerHour": 113,
+      "viewsPerHour": 105,
       "views": 3080,
-      "ageHours": 27.3
+      "ageHours": 29.3
     },
     {
       "title": "‘It was a definite quid pro quo.’ GOP donor who accused Guilfoyle of corruption speaks out",
       "channel": "PBS NewsHour",
       "videoId": "kX2ReJ6Icuw",
-      "viewsPerHour": 17,
+      "viewsPerHour": 15,
       "views": 334,
-      "ageHours": 19.6
+      "ageHours": 21.6
     },
     {
       "title": "The mega-agent of our time': Rachel Maddow talks with Ari Emanuel",
@@ -718,7 +710,7 @@
       "videoId": "byXiSoSSkuM",
       "viewsPerHour": 3,
       "views": 58,
-      "ageHours": 19.5
+      "ageHours": 21.5
     }
   ]
 }
