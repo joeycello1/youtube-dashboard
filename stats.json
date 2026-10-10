@@ -1,24 +1,40 @@
 {
   "videosPerChannel": [
     {
-      "channel": "MS NOW",
+      "channel": "Jonathan Pie",
       "count": 6
     },
     {
+      "channel": "Real Stories",
+      "count": 45
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 14
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 13
+    },
+    {
+      "channel": "The Interview",
+      "count": 8
+    },
+    {
+      "channel": "MS NOW",
+      "count": 4
+    },
+    {
       "channel": "PBS NewsHour",
-      "count": 6
+      "count": 3
     },
     {
       "channel": "History",
       "count": 57
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 13
-    },
-    {
       "channel": "Conan O'Brien",
-      "count": 14
+      "count": 13
     },
     {
       "channel": "Area 52",
@@ -26,19 +42,11 @@
     },
     {
       "channel": "NOVA",
-      "count": 22
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 13
+      "count": 21
     },
     {
       "channel": "More Perfect Union",
-      "count": 19
-    },
-    {
-      "channel": "Real Stories",
-      "count": 45
+      "count": 18
     },
     {
       "channel": "Diary of a CEO",
@@ -53,20 +61,12 @@
       "count": 6
     },
     {
-      "channel": "Jonathan Pie",
-      "count": 5
-    },
-    {
       "channel": "Last Week Tonight",
       "count": 4
     },
     {
       "channel": "Chris Lehto",
       "count": 6
-    },
-    {
-      "channel": "The Interview",
-      "count": 7
     },
     {
       "channel": "Jeremy Corbell",
@@ -83,24 +83,40 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "MS NOW",
+      "keyword": "Jonathan Pie",
       "count": 6
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 6
-    },
-    {
-      "keyword": "NOVA",
-      "count": 34
+      "keyword": "Real Stories",
+      "count": 43
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 11
+      "count": 12
+    },
+    {
+      "keyword": "The Daily Show, AI",
+      "count": 2
+    },
+    {
+      "keyword": "The Interview",
+      "count": 7
+    },
+    {
+      "keyword": "MS NOW",
+      "count": 4
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 3
+    },
+    {
+      "keyword": "NOVA",
+      "count": 33
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 14
+      "count": 13
     },
     {
       "keyword": "AI",
@@ -112,11 +128,7 @@
     },
     {
       "keyword": "More Perfect Union, AI",
-      "count": 5
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 43
+      "count": 4
     },
     {
       "keyword": "UFO",
@@ -143,24 +155,12 @@
       "count": 3
     },
     {
-      "keyword": "Jonathan Pie",
-      "count": 5
-    },
-    {
-      "keyword": "The Daily Show, AI",
-      "count": 2
-    },
-    {
       "keyword": "The Daily Show, AI, artificial intelligence",
       "count": 1
     },
     {
       "keyword": "Last Week Tonight",
       "count": 4
-    },
-    {
-      "keyword": "The Interview",
-      "count": 6
     },
     {
       "keyword": "Corbell, George Knapp, Grusch, UAP, UFO",
@@ -230,11 +230,11 @@
   "dailySummary": [
     {
       "date": "2026-10-10",
-      "videos": 3
+      "videos": 8
     },
     {
       "date": "2026-10-09",
-      "videos": 18
+      "videos": 13
     },
     {
       "date": "2026-10-08",
@@ -258,7 +258,7 @@
     },
     {
       "date": "2026-10-03",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-10-02",
@@ -270,7 +270,7 @@
     },
     {
       "date": "2026-09-30",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-09-29",
@@ -454,7 +454,7 @@
     },
     {
       "date": "2026-08-11",
-      "videos": 4
+      "videos": 1
     },
     {
       "date": "2026-06-14",
@@ -463,20 +463,36 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "Jonathan Pie",
+      "matches": 2
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 5
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 4
+    },
+    {
+      "keyword": "The Daily Show, AI",
+      "matches": 2
+    },
+    {
+      "keyword": "The Interview",
+      "matches": 1
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 4
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 6
+      "matches": 3
     },
     {
       "keyword": "NOVA",
       "matches": 4
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 3
     },
     {
       "keyword": "Conan O'Brien",
@@ -484,7 +500,7 @@
     },
     {
       "keyword": "AI",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "The Daily Show",
@@ -493,10 +509,6 @@
     {
       "keyword": "More Perfect Union, AI",
       "matches": 2
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 5
     },
     {
       "keyword": "UFO",
@@ -523,14 +535,6 @@
       "matches": 1
     },
     {
-      "keyword": "Jonathan Pie",
-      "matches": 1
-    },
-    {
-      "keyword": "The Daily Show, AI",
-      "matches": 1
-    },
-    {
       "keyword": "The Daily Show, AI, artificial intelligence",
       "matches": 1
     },
@@ -544,161 +548,169 @@
       "title": "Kimberly Guilfoyle Caught Begging Trump Donor to Pay Her $100K Amex Bill | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Eb8Ki9-Uqiw",
-      "viewsPerHour": 54528,
-      "views": 2086452,
-      "ageHours": 38.3
+      "viewsPerHour": 52459,
+      "views": 2112530,
+      "ageHours": 40.3
+    },
+    {
+      "title": "Jon Stewart on AI's \"Better Future\" & Kosta on Kimberly Guilfoyle's $100K Amex Bill | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "UE8eLLH9e6M",
+      "viewsPerHour": 44446,
+      "views": 235221,
+      "ageHours": 5.3
+    },
+    {
+      "title": "American Morality",
+      "channel": "Jonathan Pie",
+      "videoId": "SfxQSS1tVV4",
+      "viewsPerHour": 13128,
+      "views": 28729,
+      "ageHours": 2.2
     },
     {
       "title": "Trump's New Border Wall Might C**kblock Jaguars & Grace Kuhlenschmidt Investigates | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "hxegtvGzEYY",
-      "viewsPerHour": 13784,
-      "views": 397245,
-      "ageHours": 28.8
-    },
-    {
-      "title": "Our First Steps on an Alien Planet - Journey to Planet Serpo | pt 3",
-      "channel": "Area 52",
-      "videoId": "utD8XLIOyN8",
-      "viewsPerHour": 7175,
-      "views": 174273,
-      "ageHours": 24.3
+      "viewsPerHour": 13041,
+      "views": 401986,
+      "ageHours": 30.8
     },
     {
       "title": "Metallic Finds Above and Below Ground | The Curse of Oak Island",
       "channel": "History",
       "videoId": "gidKXAip1X0",
-      "viewsPerHour": 7010,
-      "views": 142187,
-      "ageHours": 20.3
+      "viewsPerHour": 6893,
+      "views": 153630,
+      "ageHours": 22.3
+    },
+    {
+      "title": "Our First Steps on an Alien Planet - Journey to Planet Serpo | pt 3",
+      "channel": "Area 52",
+      "videoId": "utD8XLIOyN8",
+      "viewsPerHour": 6827,
+      "views": 179515,
+      "ageHours": 26.3
     },
     {
       "title": "We Investigated Medicare’s New AI Denial Scheme",
       "channel": "More Perfect Union",
       "videoId": "ZnuegvWjVN8",
-      "viewsPerHour": 6181,
-      "views": 273063,
-      "ageHours": 44.2
+      "viewsPerHour": 6015,
+      "views": 277771,
+      "ageHours": 46.2
+    },
+    {
+      "title": "Mini liebschti narrates what it's like to use an HP printer using accurate language",
+      "channel": "Louis Rossmann",
+      "videoId": "Oq7UkDskDE8",
+      "viewsPerHour": 3897,
+      "views": 18861,
+      "ageHours": 4.8
     },
     {
       "title": "PBS News Hour full episode, Oct. 9, 2026",
       "channel": "PBS NewsHour",
       "videoId": "DVYPvv642Vw",
-      "viewsPerHour": 4221,
+      "viewsPerHour": 3743,
       "views": 66287,
-      "ageHours": 15.7
+      "ageHours": 17.7
     },
     {
       "title": "Kyle MacLachlan Reckons with His Characters in “Fictional Selves” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "G3jgGFTluR8",
-      "viewsPerHour": 3053,
-      "views": 112307,
-      "ageHours": 36.8
+      "viewsPerHour": 2926,
+      "views": 113528,
+      "ageHours": 38.8
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Oct. 9 | Audio Only",
       "channel": "MS NOW",
       "videoId": "wktTFMueRIs",
-      "viewsPerHour": 2947,
+      "viewsPerHour": 2510,
       "views": 34006,
-      "ageHours": 11.5
+      "ageHours": 13.5
     },
     {
       "title": " ‘We’re sick of ICE’: Trump’s immigration crackdown under scrutiny again after shooting in NYC",
       "channel": "MS NOW",
       "videoId": "0SAEruHZjD8",
-      "viewsPerHour": 2858,
+      "viewsPerHour": 2441,
       "views": 33522,
-      "ageHours": 11.7
+      "ageHours": 13.7
     },
     {
-      "title": "Sony screws Indian customer out of warranty on new PS5 because they bought it wrong",
-      "channel": "Louis Rossmann",
-      "videoId": "iEdoWL1aO7M",
-      "viewsPerHour": 1921,
-      "views": 40398,
-      "ageHours": 21
+      "title": "She’s Been to Gaza. She Met With the Iranians. Now She Has a Warning. | The Interview",
+      "channel": "The Interview",
+      "videoId": "hDWdce9a6kY",
+      "viewsPerHour": 2007,
+      "views": 11126,
+      "ageHours": 5.5
     },
     {
       "title": "Space Lasers Are Not Science Fiction | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "O3QQ51dH0MY",
-      "viewsPerHour": 1846,
-      "views": 46669,
-      "ageHours": 25.3
+      "viewsPerHour": 1781,
+      "views": 48620,
+      "ageHours": 27.3
+    },
+    {
+      "title": "Sony screws Indian customer out of warranty on new PS5 because they bought it wrong",
+      "channel": "Louis Rossmann",
+      "videoId": "iEdoWL1aO7M",
+      "viewsPerHour": 1754,
+      "views": 40398,
+      "ageHours": 23
     },
     {
       "title": "BEYOND disgusting': Hegseth's gruesome livestreamed execution plan sparks bipartisan SHOCK",
       "channel": "MS NOW",
       "videoId": "G2IPu5PwawQ",
-      "viewsPerHour": 692,
+      "viewsPerHour": 624,
       "views": 12858,
-      "ageHours": 18.6
+      "ageHours": 20.6
     },
     {
       "title": "Our Favorite Scary Shows (And Some You've Never Heard Of) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "K56DFxbeyHU",
-      "viewsPerHour": 416,
+      "viewsPerHour": 381,
       "views": 8866,
-      "ageHours": 21.3
+      "ageHours": 23.3
     },
     {
       "title": "PBS News Hour live episode, Oct. 9, 2026",
       "channel": "PBS NewsHour",
       "videoId": "kJp-TOsW0Bo",
-      "viewsPerHour": 369,
+      "viewsPerHour": 335,
       "views": 7239,
-      "ageHours": 19.6
+      "ageHours": 21.6
     },
     {
-      "title": "Mark Zuckerberg: How Facebook Changed the World Forever",
+      "title": "Why These Palestinians Will Never Give Up Their Homes",
       "channel": "Real Stories",
-      "videoId": "MoG8aTiJirA",
-      "viewsPerHour": 219,
-      "views": 10364,
-      "ageHours": 47.3
-    },
-    {
-      "title": "BREAKING: Trump appoints committee to investigate Fed Gov. Lisa Cook",
-      "channel": "MS NOW",
-      "videoId": "38pFTrkqBVQ",
-      "viewsPerHour": 215,
-      "views": 5158,
-      "ageHours": 24
+      "videoId": "z_VU0zgOBxo",
+      "viewsPerHour": 206,
+      "views": 471,
+      "ageHours": 2.3
     },
     {
       "title": "Conan Responds To A Fan Who Wants To Name Their Baby After Him | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ucsEp1i_liE",
-      "viewsPerHour": 122,
-      "views": 3080,
-      "ageHours": 25.3
-    },
-    {
-      "title": "WATCH LIVE: Trump hosts Columbus Day celebration",
-      "channel": "PBS NewsHour",
-      "videoId": "QTGLahwRq5o",
       "viewsPerHour": 113,
-      "views": 2687,
-      "ageHours": 23.8
-    },
-    {
-      "title": "Who will win Maine, Michigan and Georgia's Senate races? BREAK DOWN of fiery debate moments",
-      "channel": "MS NOW",
-      "videoId": "2g-wmVPKV1Q",
-      "viewsPerHour": 110,
-      "views": 2646,
-      "ageHours": 24
+      "views": 3080,
+      "ageHours": 27.3
     },
     {
       "title": "‘It was a definite quid pro quo.’ GOP donor who accused Guilfoyle of corruption speaks out",
       "channel": "PBS NewsHour",
       "videoId": "kX2ReJ6Icuw",
-      "viewsPerHour": 19,
+      "viewsPerHour": 17,
       "views": 334,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
       "title": "The mega-agent of our time': Rachel Maddow talks with Ari Emanuel",
@@ -706,23 +718,7 @@
       "videoId": "byXiSoSSkuM",
       "viewsPerHour": 3,
       "views": 58,
-      "ageHours": 17.5
-    },
-    {
-      "title": "WATCH LIVE: Trump rallies with Bruce Blakeman, New York's GOP gubernatorial candidate",
-      "channel": "PBS NewsHour",
-      "videoId": "mYSN-TqyiDA",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 23.7
-    },
-    {
-      "title": "WATCH LIVE: House Speaker Johnson rallies for Iowa Rep. Miller-Meeks",
-      "channel": "PBS NewsHour",
-      "videoId": "jO1EnMxXopU",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 23.7
+      "ageHours": 19.5
     }
   ]
 }
