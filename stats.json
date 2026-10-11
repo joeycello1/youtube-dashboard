@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 5
+      "count": 3
     },
     {
       "channel": "Jonathan Pie",
@@ -23,10 +23,6 @@
     {
       "channel": "The Interview",
       "count": 8
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 1
     },
     {
       "channel": "History",
@@ -84,7 +80,7 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 5
+      "count": 3
     },
     {
       "keyword": "Jonathan Pie",
@@ -105,10 +101,6 @@
     {
       "keyword": "The Interview",
       "count": 7
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 1
     },
     {
       "keyword": "NOVA",
@@ -230,7 +222,7 @@
   "dailySummary": [
     {
       "date": "2026-10-10",
-      "videos": 11
+      "videos": 8
     },
     {
       "date": "2026-10-09",
@@ -460,7 +452,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 5
+      "matches": 3
     },
     {
       "keyword": "Jonathan Pie",
@@ -480,10 +472,6 @@
     },
     {
       "keyword": "The Interview",
-      "matches": 1
-    },
-    {
-      "keyword": "PBS NewsHour",
       "matches": 1
     },
     {
@@ -544,145 +532,121 @@
       "title": "Jon Stewart on AI's \"Better Future\" & Kosta on Kimberly Guilfoyle's $100K Amex Bill | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "UE8eLLH9e6M",
-      "viewsPerHour": 31189,
+      "viewsPerHour": 27589,
       "views": 476969,
-      "ageHours": 15.3
-    },
-    {
-      "title": "American Morality",
-      "channel": "Jonathan Pie",
-      "videoId": "SfxQSS1tVV4",
-      "viewsPerHour": 10934,
-      "views": 133275,
-      "ageHours": 12.2
+      "ageHours": 17.3
     },
     {
       "title": "Trump's New Border Wall Might C**kblock Jaguars & Grace Kuhlenschmidt Investigates | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "hxegtvGzEYY",
-      "viewsPerHour": 10068,
+      "viewsPerHour": 9598,
       "views": 411016,
-      "ageHours": 40.8
+      "ageHours": 42.8
+    },
+    {
+      "title": "American Morality",
+      "channel": "Jonathan Pie",
+      "videoId": "SfxQSS1tVV4",
+      "viewsPerHour": 9396,
+      "views": 133275,
+      "ageHours": 14.2
     },
     {
       "title": "Metallic Finds Above and Below Ground | The Curse of Oak Island",
       "channel": "History",
       "videoId": "gidKXAip1X0",
-      "viewsPerHour": 5441,
+      "viewsPerHour": 5124,
       "views": 175677,
-      "ageHours": 32.3
+      "ageHours": 34.3
     },
     {
       "title": "Our First Steps on an Alien Planet - Journey to Planet Serpo | pt 3",
       "channel": "Area 52",
       "videoId": "utD8XLIOyN8",
-      "viewsPerHour": 5264,
+      "viewsPerHour": 4989,
       "views": 191043,
-      "ageHours": 36.3
+      "ageHours": 38.3
     },
     {
       "title": "Military source reveals some soldiers ‘morally objecting’ to being part of Hegseth’s firing squad",
       "channel": "MS NOW",
       "videoId": "ZGpsgLvbsq4",
-      "viewsPerHour": 4486,
+      "viewsPerHour": 3511,
       "views": 32257,
-      "ageHours": 7.2
-    },
-    {
-      "title": "President Trump speaks at midterm rally in Tennessee",
-      "channel": "MS NOW",
-      "videoId": "i2XRqlE8lTM",
-      "viewsPerHour": 2464,
-      "views": 15429,
-      "ageHours": 6.3
-    },
-    {
-      "title": "PBS News Hour full episode, Oct. 9, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "DVYPvv642Vw",
-      "viewsPerHour": 2392,
-      "views": 66287,
-      "ageHours": 27.7
+      "ageHours": 9.2
     },
     {
       "title": "She’s Been to Gaza. She Met With the Iranians. Now She Has a Warning. | The Interview",
       "channel": "The Interview",
       "videoId": "hDWdce9a6kY",
-      "viewsPerHour": 2354,
+      "viewsPerHour": 2086,
       "views": 36596,
-      "ageHours": 15.5
+      "ageHours": 17.5
+    },
+    {
+      "title": "President Trump speaks at midterm rally in Tennessee",
+      "channel": "MS NOW",
+      "videoId": "i2XRqlE8lTM",
+      "viewsPerHour": 1869,
+      "views": 15429,
+      "ageHours": 8.3
     },
     {
       "title": "Space Lasers Are Not Science Fiction | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "O3QQ51dH0MY",
-      "viewsPerHour": 1451,
+      "viewsPerHour": 1377,
       "views": 54112,
-      "ageHours": 37.3
-    },
-    {
-      "title": "The Last Word with Lawrence O'Donnell - Oct. 9 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "wktTFMueRIs",
-      "viewsPerHour": 1444,
-      "views": 34006,
-      "ageHours": 23.5
-    },
-    {
-      "title": " ‘We’re sick of ICE’: Trump’s immigration crackdown under scrutiny again after shooting in NYC",
-      "channel": "MS NOW",
-      "videoId": "0SAEruHZjD8",
-      "viewsPerHour": 1412,
-      "views": 33522,
-      "ageHours": 23.7
-    },
-    {
-      "title": "Mini liebschti narrates what it's like to use an HP printer using accurate language",
-      "channel": "Louis Rossmann",
-      "videoId": "Oq7UkDskDE8",
-      "viewsPerHour": 1271,
-      "views": 18861,
-      "ageHours": 14.8
+      "ageHours": 39.3
     },
     {
       "title": "Sony screws Indian customer out of warranty on new PS5 because they bought it wrong",
       "channel": "Louis Rossmann",
       "videoId": "iEdoWL1aO7M",
-      "viewsPerHour": 1223,
+      "viewsPerHour": 1153,
       "views": 40398,
-      "ageHours": 33
+      "ageHours": 35
+    },
+    {
+      "title": "Mini liebschti narrates what it's like to use an HP printer using accurate language",
+      "channel": "Louis Rossmann",
+      "videoId": "Oq7UkDskDE8",
+      "viewsPerHour": 1120,
+      "views": 18861,
+      "ageHours": 16.8
     },
     {
       "title": "‘Trickle down CORRUPTION’: Adam Mockler reacts to latest Trump official’s revealing texts",
       "channel": "MS NOW",
       "videoId": "YYPeHZAzzUY",
-      "viewsPerHour": 929,
+      "viewsPerHour": 702,
       "views": 5719,
-      "ageHours": 6.2
+      "ageHours": 8.1
     },
     {
       "title": "Why These Palestinians Will Never Give Up Their Homes",
       "channel": "Real Stories",
       "videoId": "z_VU0zgOBxo",
-      "viewsPerHour": 544,
+      "viewsPerHour": 468,
       "views": 6682,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "Our Favorite Scary Shows (And Some You've Never Heard Of) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "K56DFxbeyHU",
-      "viewsPerHour": 266,
+      "viewsPerHour": 251,
       "views": 8866,
-      "ageHours": 33.3
+      "ageHours": 35.3
     },
     {
       "title": "Conan Responds To A Fan Who Wants To Name Their Baby After Him | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "ucsEp1i_liE",
-      "viewsPerHour": 83,
+      "viewsPerHour": 78,
       "views": 3080,
-      "ageHours": 37.3
+      "ageHours": 39.3
     }
   ]
 }
