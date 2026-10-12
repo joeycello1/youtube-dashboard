@@ -1,24 +1,24 @@
 {
   "videosPerChannel": [
     {
+      "channel": "History",
+      "count": 57
+    },
+    {
+      "channel": "Real Stories",
+      "count": 45
+    },
+    {
       "channel": "More Perfect Union",
       "count": 19
     },
     {
       "channel": "MS NOW",
-      "count": 6
-    },
-    {
-      "channel": "History",
-      "count": 58
+      "count": 3
     },
     {
       "channel": "Jonathan Pie",
       "count": 6
-    },
-    {
-      "channel": "Real Stories",
-      "count": 45
     },
     {
       "channel": "Louis Rossmann",
@@ -79,28 +79,28 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "UFO",
+      "count": 42
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 43
+    },
+    {
       "keyword": "More Perfect Union",
       "count": 15
     },
     {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 3
     },
     {
       "keyword": "NOVA",
       "count": 34
     },
     {
-      "keyword": "UFO",
-      "count": 41
-    },
-    {
       "keyword": "Jonathan Pie",
       "count": 6
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 43
     },
     {
       "keyword": "Louis Rossmann",
@@ -204,7 +204,7 @@
     },
     {
       "keyword": "Giza",
-      "count": 3
+      "count": 2
     },
     {
       "keyword": "FOIA, UFO",
@@ -213,20 +213,16 @@
     {
       "keyword": "AI, FOIA, UAP",
       "count": 1
-    },
-    {
-      "keyword": "UAP, UFO",
-      "count": 1
     }
   ],
   "dailySummary": [
     {
       "date": "2026-10-11",
-      "videos": 4
+      "videos": 6
     },
     {
       "date": "2026-10-10",
-      "videos": 11
+      "videos": 8
     },
     {
       "date": "2026-10-09",
@@ -445,38 +441,34 @@
       "videos": 2
     },
     {
-      "date": "2026-08-12",
-      "videos": 3
-    },
-    {
       "date": "2026-06-14",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "UFO",
+      "matches": 7
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 5
+    },
+    {
       "keyword": "More Perfect Union",
       "matches": 1
     },
     {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 3
     },
     {
       "keyword": "NOVA",
       "matches": 5
     },
     {
-      "keyword": "UFO",
-      "matches": 6
-    },
-    {
       "keyword": "Jonathan Pie",
       "matches": 2
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 4
     },
     {
       "keyword": "Louis Rossmann",
@@ -540,121 +532,113 @@
       "title": "Jon Stewart on AI's \"Better Future\" & Kosta on Kimberly Guilfoyle's $100K Amex Bill | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "UE8eLLH9e6M",
-      "viewsPerHour": 28974,
-      "views": 964665,
-      "ageHours": 33.3
+      "viewsPerHour": 28137,
+      "views": 993008,
+      "ageHours": 35.3
     },
     {
       "title": "American Morality",
       "channel": "Jonathan Pie",
       "videoId": "SfxQSS1tVV4",
-      "viewsPerHour": 12109,
+      "viewsPerHour": 11357,
       "views": 365558,
-      "ageHours": 30.2
+      "ageHours": 32.2
     },
     {
       "title": "Nicolle BLASTS Hegseth for DESTROYING Pentagon | Deadline: White House Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "4snoomu9yao",
-      "viewsPerHour": 7761,
+      "viewsPerHour": 7095,
       "views": 165244,
-      "ageHours": 21.3
-    },
-    {
-      "title": "Are UFO Whistleblowers Telling the Truth? | Ancient Aliens (S20, E13) | Full Episode",
-      "channel": "History",
-      "videoId": "LDoJbL2i8gE",
-      "viewsPerHour": 4992,
-      "views": 131249,
-      "ageHours": 26.3
+      "ageHours": 23.3
     },
     {
       "title": "She’s Been to Gaza. She Met With the Iranians. Now She Has a Warning. | The Interview",
       "channel": "The Interview",
       "videoId": "hDWdce9a6kY",
+      "viewsPerHour": 4954,
+      "views": 176071,
+      "ageHours": 35.5
+    },
+    {
+      "title": "Are UFO Whistleblowers Telling the Truth? | Ancient Aliens (S20, E13) | Full Episode",
+      "channel": "History",
+      "videoId": "LDoJbL2i8gE",
       "viewsPerHour": 4790,
-      "views": 160672,
-      "ageHours": 33.5
+      "views": 135502,
+      "ageHours": 28.3
     },
     {
       "title": "WILD Military UFO Encounters | MonsterQuest",
       "channel": "History",
       "videoId": "Ta_SmtEf3Ns",
-      "viewsPerHour": 4086,
-      "views": 111495,
-      "ageHours": 27.3
+      "viewsPerHour": 4051,
+      "views": 118647,
+      "ageHours": 29.3
+    },
+    {
+      "title": "Cyclops in Malta?! | In Search of Aliens (S1)",
+      "channel": "History",
+      "videoId": "ktLmeafkXH0",
+      "viewsPerHour": 3951,
+      "views": 24862,
+      "ageHours": 6.3
     },
     {
       "title": "LIVE Students vs Billionaires Town Hall with Angie Nixon & Maxwell Frost",
       "channel": "More Perfect Union",
       "videoId": "g0BtAFIX3EU",
-      "viewsPerHour": 2984,
-      "views": 26679,
-      "ageHours": 8.9
+      "viewsPerHour": 3089,
+      "views": 33794,
+      "ageHours": 10.9
     },
     {
       "title": "Trump SHUNNED in Texas! | The Beat with Ari Melber Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "2dpoDWB3mGg",
-      "viewsPerHour": 2345,
+      "viewsPerHour": 2135,
       "views": 47599,
-      "ageHours": 20.3
+      "ageHours": 22.3
     },
     {
       "title": "Return to the Money Pit | The Curse of Oak Island (S4, E1) | Full Episode",
       "channel": "History",
       "videoId": "Tz0YKNlaU10",
-      "viewsPerHour": 1782,
-      "views": 43288,
-      "ageHours": 24.3
+      "viewsPerHour": 1706,
+      "views": 44862,
+      "ageHours": 26.3
     },
     {
       "title": "Donor SPEAKS about Guilfoyle asking for $100k | State of Play with Peter Alexander Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "wY1BDzlsr9M",
-      "viewsPerHour": 1531,
+      "viewsPerHour": 1405,
       "views": 34141,
-      "ageHours": 22.3
-    },
-    {
-      "title": "Military source reveals some soldiers ‘morally objecting’ to being part of Hegseth’s firing squad",
-      "channel": "MS NOW",
-      "videoId": "ZGpsgLvbsq4",
-      "viewsPerHour": 1280,
-      "views": 32257,
-      "ageHours": 25.2
-    },
-    {
-      "title": "President Trump speaks at midterm rally in Tennessee",
-      "channel": "MS NOW",
-      "videoId": "i2XRqlE8lTM",
-      "viewsPerHour": 636,
-      "views": 15429,
       "ageHours": 24.3
     },
     {
       "title": "Mini liebschti narrates what it's like to use an HP printer using accurate language",
       "channel": "Louis Rossmann",
       "videoId": "Oq7UkDskDE8",
-      "viewsPerHour": 574,
+      "viewsPerHour": 541,
       "views": 18861,
-      "ageHours": 32.8
+      "ageHours": 34.8
     },
     {
       "title": "Why These Palestinians Will Never Give Up Their Homes",
       "channel": "Real Stories",
       "videoId": "z_VU0zgOBxo",
-      "viewsPerHour": 484,
+      "viewsPerHour": 454,
       "views": 14654,
-      "ageHours": 30.3
+      "ageHours": 32.3
     },
     {
-      "title": "‘Trickle down CORRUPTION’: Adam Mockler reacts to latest Trump official’s revealing texts",
-      "channel": "MS NOW",
-      "videoId": "YYPeHZAzzUY",
-      "viewsPerHour": 237,
-      "views": 5719,
-      "ageHours": 24.2
+      "title": "Agnes Tirop Broke A World Record. Weeks later, She Was Dead.",
+      "channel": "Real Stories",
+      "videoId": "zz2zOg8Z-PM",
+      "viewsPerHour": 403,
+      "views": 2942,
+      "ageHours": 7.3
     }
   ]
 }
