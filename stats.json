@@ -492,7 +492,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "matches": 3
+      "matches": 2
     },
     {
       "keyword": "The Daily Show, AI",
@@ -544,121 +544,105 @@
       "title": "Generic Drugs: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "TM1EbMKhT4Y",
-      "viewsPerHour": 79446,
-      "views": 618967,
-      "ageHours": 7.8
+      "viewsPerHour": 91303,
+      "views": 893926,
+      "ageHours": 9.8
     },
     {
       "title": "UFO Cover-Up Analyst: The Secret Alien Programs Nobody Is Talking About! | Eric Weinstein",
       "channel": "Diary of a CEO",
       "videoId": "IkhmdTqSvJw",
-      "viewsPerHour": 49516,
-      "views": 361022,
-      "ageHours": 7.3
+      "viewsPerHour": 54953,
+      "views": 510557,
+      "ageHours": 9.3
     },
     {
       "title": "S13 E26: Kimberly Guilfoyle & Generic Drugs: 10/11/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "d_DnFsuIWtA",
-      "viewsPerHour": 36108,
-      "views": 408019,
-      "ageHours": 11.3
+      "viewsPerHour": 34536,
+      "views": 459312,
+      "ageHours": 13.3
     },
     {
       "title": "Something Weird Is Going On With Placebos",
       "channel": "The Rest Is Science",
       "videoId": "s8wLP9vjaOg",
-      "viewsPerHour": 17187,
-      "views": 296223,
-      "ageHours": 17.2
-    },
-    {
-      "title": "American Morality",
-      "channel": "Jonathan Pie",
-      "videoId": "SfxQSS1tVV4",
-      "viewsPerHour": 9173,
-      "views": 423705,
-      "ageHours": 46.2
+      "viewsPerHour": 16839,
+      "views": 323912,
+      "ageHours": 19.2
     },
     {
       "title": "Are UFO Whistleblowers Telling the Truth? | Ancient Aliens (S20, E13) | Full Episode",
       "channel": "History",
       "videoId": "LDoJbL2i8gE",
-      "viewsPerHour": 3910,
-      "views": 165358,
-      "ageHours": 42.3
+      "viewsPerHour": 3785,
+      "views": 167635,
+      "ageHours": 44.3
     },
     {
       "title": "WILD Military UFO Encounters | MonsterQuest",
       "channel": "History",
       "videoId": "Ta_SmtEf3Ns",
-      "viewsPerHour": 3577,
-      "views": 154837,
-      "ageHours": 43.3
-    },
-    {
-      "title": "Trump’s immigration crackdown under scrutiny again | The 11th Hour with Ali Velshi Weekly Highlights",
-      "channel": "MS NOW",
-      "videoId": "C3FA1u9vebo",
-      "viewsPerHour": 2498,
-      "views": 30712,
-      "ageHours": 12.3
+      "viewsPerHour": 3512,
+      "views": 159045,
+      "ageHours": 45.3
     },
     {
       "title": "Cyclops in Malta?! | In Search of Aliens (S1)",
       "channel": "History",
       "videoId": "ktLmeafkXH0",
-      "viewsPerHour": 2325,
-      "views": 47197,
-      "ageHours": 20.3
+      "viewsPerHour": 2201,
+      "views": 49077,
+      "ageHours": 22.3
+    },
+    {
+      "title": "Trump’s immigration crackdown under scrutiny again | The 11th Hour with Ali Velshi Weekly Highlights",
+      "channel": "MS NOW",
+      "videoId": "C3FA1u9vebo",
+      "viewsPerHour": 2148,
+      "views": 30712,
+      "ageHours": 14.3
     },
     {
       "title": "LIVE Students vs Billionaires Town Hall with Angie Nixon & Maxwell Frost",
       "channel": "More Perfect Union",
       "videoId": "g0BtAFIX3EU",
-      "viewsPerHour": 2076,
-      "views": 51790,
-      "ageHours": 24.9
+      "viewsPerHour": 1974,
+      "views": 53174,
+      "ageHours": 26.9
     },
     {
       "title": "Trump ATTACKS Zelensky as he receives major PUSHBACK on Russian diesel deal ",
       "channel": "MS NOW",
       "videoId": "i2UaTFKgnG8",
-      "viewsPerHour": 1970,
+      "viewsPerHour": 1335,
       "views": 8281,
-      "ageHours": 4.2
+      "ageHours": 6.2
     },
     {
       "title": "Return to the Money Pit | The Curse of Oak Island (S4, E1) | Full Episode",
       "channel": "History",
       "videoId": "Tz0YKNlaU10",
-      "viewsPerHour": 1264,
-      "views": 50925,
-      "ageHours": 40.3
+      "viewsPerHour": 1214,
+      "views": 51361,
+      "ageHours": 42.3
     },
     {
       "title": "23 days to midterms: LOWS in GOP polling, Talarico returns to the campaign trail | MS NOW Highlights",
       "channel": "MS NOW",
       "videoId": "52sA97UKaSg",
-      "viewsPerHour": 826,
+      "viewsPerHour": 563,
       "views": 3541,
-      "ageHours": 4.3
-    },
-    {
-      "title": "Why These Palestinians Will Never Give Up Their Homes",
-      "channel": "Real Stories",
-      "videoId": "z_VU0zgOBxo",
-      "viewsPerHour": 347,
-      "views": 16072,
-      "ageHours": 46.3
+      "ageHours": 6.3
     },
     {
       "title": "Agnes Tirop Broke A World Record. Weeks later, She Was Dead.",
       "channel": "Real Stories",
       "videoId": "zz2zOg8Z-PM",
-      "viewsPerHour": 306,
-      "views": 6523,
-      "ageHours": 21.3
+      "viewsPerHour": 295,
+      "views": 6882,
+      "ageHours": 23.3
     }
   ]
 }
