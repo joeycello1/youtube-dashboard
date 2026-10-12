@@ -2,7 +2,23 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 3
+      "count": 6
+    },
+    {
+      "channel": "History",
+      "count": 58
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 1
+    },
+    {
+      "channel": "NOVA",
+      "count": 21
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 11
     },
     {
       "channel": "Diary of a CEO",
@@ -15,10 +31,6 @@
     {
       "channel": "The Rest Is Science",
       "count": 5
-    },
-    {
-      "channel": "History",
-      "count": 57
     },
     {
       "channel": "Real Stories",
@@ -45,16 +57,8 @@
       "count": 8
     },
     {
-      "channel": "Conan O'Brien",
-      "count": 11
-    },
-    {
       "channel": "Area 52",
       "count": 6
-    },
-    {
-      "channel": "NOVA",
-      "count": 20
     },
     {
       "channel": "Mayim Bialik",
@@ -80,7 +84,23 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 3
+      "count": 6
+    },
+    {
+      "keyword": "UFO",
+      "count": 43
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 1
+    },
+    {
+      "keyword": "NOVA",
+      "count": 34
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 11
     },
     {
       "keyword": "UFO, AI, artificial intelligence",
@@ -95,20 +115,12 @@
       "count": 5
     },
     {
-      "keyword": "UFO",
-      "count": 42
-    },
-    {
       "keyword": "Real Stories",
       "count": 43
     },
     {
       "keyword": "More Perfect Union",
       "count": 15
-    },
-    {
-      "keyword": "NOVA",
-      "count": 33
     },
     {
       "keyword": "Jonathan Pie",
@@ -125,10 +137,6 @@
     {
       "keyword": "The Interview",
       "count": 7
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 11
     },
     {
       "keyword": "AI",
@@ -222,7 +230,7 @@
   "dailySummary": [
     {
       "date": "2026-10-12",
-      "videos": 6
+      "videos": 13
     },
     {
       "date": "2026-10-11",
@@ -262,7 +270,7 @@
     },
     {
       "date": "2026-10-02",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-10-01",
@@ -456,7 +464,23 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 3
+      "matches": 6
+    },
+    {
+      "keyword": "UFO",
+      "matches": 8
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 1
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 6
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 9
     },
     {
       "keyword": "UFO, AI, artificial intelligence",
@@ -471,20 +495,12 @@
       "matches": 2
     },
     {
-      "keyword": "UFO",
-      "matches": 7
-    },
-    {
       "keyword": "Real Stories",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "More Perfect Union",
       "matches": 1
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 5
     },
     {
       "keyword": "Jonathan Pie",
@@ -501,10 +517,6 @@
     {
       "keyword": "The Interview",
       "matches": 1
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 8
     },
     {
       "keyword": "AI",
@@ -544,105 +556,161 @@
       "title": "Generic Drugs: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "TM1EbMKhT4Y",
-      "viewsPerHour": 91303,
-      "views": 893926,
-      "ageHours": 9.8
+      "viewsPerHour": 101662,
+      "views": 1198007,
+      "ageHours": 11.8
     },
     {
       "title": "UFO Cover-Up Analyst: The Secret Alien Programs Nobody Is Talking About! | Eric Weinstein",
       "channel": "Diary of a CEO",
       "videoId": "IkhmdTqSvJw",
-      "viewsPerHour": 54953,
-      "views": 510557,
-      "ageHours": 9.3
+      "viewsPerHour": 59817,
+      "views": 674985,
+      "ageHours": 11.3
     },
     {
       "title": "S13 E26: Kimberly Guilfoyle & Generic Drugs: 10/11/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "d_DnFsuIWtA",
-      "viewsPerHour": 34536,
-      "views": 459312,
-      "ageHours": 13.3
+      "viewsPerHour": 33787,
+      "views": 516702,
+      "ageHours": 15.3
     },
     {
       "title": "Something Weird Is Going On With Placebos",
       "channel": "The Rest Is Science",
       "videoId": "s8wLP9vjaOg",
-      "viewsPerHour": 16839,
-      "views": 323912,
-      "ageHours": 19.2
+      "viewsPerHour": 16650,
+      "views": 353464,
+      "ageHours": 21.2
+    },
+    {
+      "title": "Kyle MacLachlan (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "tqPcQHgYjt4",
+      "viewsPerHour": 5854,
+      "views": 42630,
+      "ageHours": 7.3
     },
     {
       "title": "Are UFO Whistleblowers Telling the Truth? | Ancient Aliens (S20, E13) | Full Episode",
       "channel": "History",
       "videoId": "LDoJbL2i8gE",
-      "viewsPerHour": 3785,
-      "views": 167635,
-      "ageHours": 44.3
+      "viewsPerHour": 3685,
+      "views": 170553,
+      "ageHours": 46.3
     },
     {
       "title": "WILD Military UFO Encounters | MonsterQuest",
       "channel": "History",
       "videoId": "Ta_SmtEf3Ns",
-      "viewsPerHour": 3512,
-      "views": 159045,
-      "ageHours": 45.3
+      "viewsPerHour": 3466,
+      "views": 163911,
+      "ageHours": 47.3
+    },
+    {
+      "title": "How to Build Your Own Heat-Regulating Hogan | NOVA | PBS",
+      "channel": "NOVA",
+      "videoId": "9gPZghATAeM",
+      "viewsPerHour": 3448,
+      "views": 21664,
+      "ageHours": 6.3
     },
     {
       "title": "Cyclops in Malta?! | In Search of Aliens (S1)",
       "channel": "History",
       "videoId": "ktLmeafkXH0",
-      "viewsPerHour": 2201,
-      "views": 49077,
-      "ageHours": 22.3
+      "viewsPerHour": 2111,
+      "views": 51270,
+      "ageHours": 24.3
     },
     {
-      "title": "Trump’s immigration crackdown under scrutiny again | The 11th Hour with Ali Velshi Weekly Highlights",
-      "channel": "MS NOW",
-      "videoId": "C3FA1u9vebo",
-      "viewsPerHour": 2148,
-      "views": 30712,
-      "ageHours": 14.3
+      "title": "Extraterrestrial Fields of Energy? | Ancient Aliens",
+      "channel": "History",
+      "videoId": "6pSM679h1JA",
+      "viewsPerHour": 2042,
+      "views": 4667,
+      "ageHours": 2.3
     },
     {
       "title": "LIVE Students vs Billionaires Town Hall with Angie Nixon & Maxwell Frost",
       "channel": "More Perfect Union",
       "videoId": "g0BtAFIX3EU",
-      "viewsPerHour": 1974,
-      "views": 53174,
-      "ageHours": 26.9
+      "viewsPerHour": 1898,
+      "views": 54909,
+      "ageHours": 28.9
     },
     {
-      "title": "Trump ATTACKS Zelensky as he receives major PUSHBACK on Russian diesel deal ",
+      "title": "Trump’s immigration crackdown under scrutiny again | The 11th Hour with Ali Velshi Weekly Highlights",
       "channel": "MS NOW",
-      "videoId": "i2UaTFKgnG8",
-      "viewsPerHour": 1335,
-      "views": 8281,
-      "ageHours": 6.2
+      "videoId": "C3FA1u9vebo",
+      "viewsPerHour": 1885,
+      "views": 30712,
+      "ageHours": 16.3
     },
     {
       "title": "Return to the Money Pit | The Curse of Oak Island (S4, E1) | Full Episode",
       "channel": "History",
       "videoId": "Tz0YKNlaU10",
-      "viewsPerHour": 1214,
-      "views": 51361,
-      "ageHours": 42.3
+      "viewsPerHour": 1174,
+      "views": 51996,
+      "ageHours": 44.3
+    },
+    {
+      "title": "Trump ATTACKS Zelensky as he receives major PUSHBACK on Russian diesel deal ",
+      "channel": "MS NOW",
+      "videoId": "i2UaTFKgnG8",
+      "viewsPerHour": 1010,
+      "views": 8281,
+      "ageHours": 8.2
     },
     {
       "title": "23 days to midterms: LOWS in GOP polling, Talarico returns to the campaign trail | MS NOW Highlights",
       "channel": "MS NOW",
       "videoId": "52sA97UKaSg",
-      "viewsPerHour": 563,
+      "viewsPerHour": 428,
       "views": 3541,
-      "ageHours": 6.3
+      "ageHours": 8.3
     },
     {
       "title": "Agnes Tirop Broke A World Record. Weeks later, She Was Dead.",
       "channel": "Real Stories",
       "videoId": "zz2zOg8Z-PM",
-      "viewsPerHour": 295,
+      "viewsPerHour": 272,
       "views": 6882,
-      "ageHours": 23.3
+      "ageHours": 25.3
+    },
+    {
+      "title": "Relegitimizes the Russian government': John Bolton slams Trump saying U.S. will buy Russian diesel",
+      "channel": "MS NOW",
+      "videoId": "tkdGvIAvjUw",
+      "viewsPerHour": 151,
+      "views": 229,
+      "ageHours": 1.5
+    },
+    {
+      "title": "NYT: Elon Musk has spent $276 million on Republican races",
+      "channel": "MS NOW",
+      "videoId": "PHRs8b34zwA",
+      "viewsPerHour": 33,
+      "views": 49,
+      "ageHours": 1.5
+    },
+    {
+      "title": "I will not be silenced': Rep. Omar SPEAKS OUT after DHS search, calls it 'political intimidation'",
+      "channel": "MS NOW",
+      "videoId": "WYOY0-zn9p4",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 1.5
+    },
+    {
+      "title": "WATCH LIVE: National Columbus Day ​Ceremony in Washington",
+      "channel": "PBS NewsHour",
+      "videoId": "yw29AXeKHdA",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 4
     }
   ]
 }
