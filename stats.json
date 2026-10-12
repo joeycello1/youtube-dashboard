@@ -524,7 +524,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "matches": 2
+      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -532,113 +532,113 @@
       "title": "Jon Stewart on AI's \"Better Future\" & Kosta on Kimberly Guilfoyle's $100K Amex Bill | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "UE8eLLH9e6M",
-      "viewsPerHour": 26627,
+      "viewsPerHour": 25277,
       "views": 993008,
-      "ageHours": 37.3
+      "ageHours": 39.3
     },
     {
       "title": "American Morality",
       "channel": "Jonathan Pie",
       "videoId": "SfxQSS1tVV4",
-      "viewsPerHour": 10692,
+      "viewsPerHour": 10103,
       "views": 365558,
-      "ageHours": 34.2
+      "ageHours": 36.2
     },
     {
       "title": "Nicolle BLASTS Hegseth for DESTROYING Pentagon | Deadline: White House Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "4snoomu9yao",
-      "viewsPerHour": 6534,
+      "viewsPerHour": 6056,
       "views": 165244,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
       "title": "She’s Been to Gaza. She Met With the Iranians. Now She Has a Warning. | The Interview",
       "channel": "The Interview",
       "videoId": "hDWdce9a6kY",
-      "viewsPerHour": 4690,
+      "viewsPerHour": 4453,
       "views": 176071,
-      "ageHours": 37.5
+      "ageHours": 39.5
     },
     {
       "title": "Are UFO Whistleblowers Telling the Truth? | Ancient Aliens (S20, E13) | Full Episode",
       "channel": "History",
       "videoId": "LDoJbL2i8gE",
-      "viewsPerHour": 4474,
+      "viewsPerHour": 4197,
       "views": 135502,
-      "ageHours": 30.3
+      "ageHours": 32.3
     },
     {
       "title": "WILD Military UFO Encounters | MonsterQuest",
       "channel": "History",
       "videoId": "Ta_SmtEf3Ns",
-      "viewsPerHour": 3792,
+      "viewsPerHour": 3565,
       "views": 118647,
-      "ageHours": 31.3
+      "ageHours": 33.3
     },
     {
       "title": "Cyclops in Malta?! | In Search of Aliens (S1)",
       "channel": "History",
       "videoId": "ktLmeafkXH0",
-      "viewsPerHour": 2998,
+      "viewsPerHour": 2417,
       "views": 24862,
-      "ageHours": 8.3
+      "ageHours": 10.3
     },
     {
       "title": "LIVE Students vs Billionaires Town Hall with Angie Nixon & Maxwell Frost",
       "channel": "More Perfect Union",
       "videoId": "g0BtAFIX3EU",
-      "viewsPerHour": 2612,
+      "viewsPerHour": 2263,
       "views": 33794,
-      "ageHours": 12.9
+      "ageHours": 14.9
     },
     {
       "title": "Trump SHUNNED in Texas! | The Beat with Ari Melber Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "2dpoDWB3mGg",
-      "viewsPerHour": 1959,
+      "viewsPerHour": 1811,
       "views": 47599,
-      "ageHours": 24.3
+      "ageHours": 26.3
     },
     {
       "title": "Return to the Money Pit | The Curse of Oak Island (S4, E1) | Full Episode",
       "channel": "History",
       "videoId": "Tz0YKNlaU10",
-      "viewsPerHour": 1586,
+      "viewsPerHour": 1481,
       "views": 44862,
-      "ageHours": 28.3
+      "ageHours": 30.3
     },
     {
       "title": "Donor SPEAKS about Guilfoyle asking for $100k | State of Play with Peter Alexander Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "wY1BDzlsr9M",
-      "viewsPerHour": 1298,
+      "viewsPerHour": 1207,
       "views": 34141,
-      "ageHours": 26.3
+      "ageHours": 28.3
     },
     {
       "title": "Mini liebschti narrates what it's like to use an HP printer using accurate language",
       "channel": "Louis Rossmann",
       "videoId": "Oq7UkDskDE8",
-      "viewsPerHour": 512,
+      "viewsPerHour": 486,
       "views": 18861,
-      "ageHours": 36.8
+      "ageHours": 38.8
     },
     {
       "title": "Why These Palestinians Will Never Give Up Their Homes",
       "channel": "Real Stories",
       "videoId": "z_VU0zgOBxo",
-      "viewsPerHour": 427,
+      "viewsPerHour": 404,
       "views": 14654,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
       "title": "Agnes Tirop Broke A World Record. Weeks later, She Was Dead.",
       "channel": "Real Stories",
       "videoId": "zz2zOg8Z-PM",
-      "viewsPerHour": 317,
+      "viewsPerHour": 261,
       "views": 2942,
-      "ageHours": 9.3
+      "ageHours": 11.3
     }
   ]
 }
