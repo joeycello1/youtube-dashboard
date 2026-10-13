@@ -504,7 +504,7 @@
     },
     {
       "keyword": "The Daily Show, AI",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "The Interview",
@@ -537,10 +537,6 @@
     {
       "keyword": "AI, artificial intelligence, UAP",
       "matches": 1
-    },
-    {
-      "keyword": "The Daily Show, AI, artificial intelligence",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -548,169 +544,169 @@
       "title": "Generic Drugs: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "TM1EbMKhT4Y",
-      "viewsPerHour": 81663,
+      "viewsPerHour": 74218,
       "views": 1617288,
-      "ageHours": 19.8
+      "ageHours": 21.8
     },
     {
       "title": "UFO Cover-Up Analyst: The Secret Alien Programs Nobody Is Talking About! | Eric Weinstein",
       "channel": "Diary of a CEO",
       "videoId": "IkhmdTqSvJw",
-      "viewsPerHour": 48870,
+      "viewsPerHour": 44310,
       "views": 943407,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "S13 E26: Kimberly Guilfoyle & Generic Drugs: 10/11/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "d_DnFsuIWtA",
-      "viewsPerHour": 27286,
+      "viewsPerHour": 25144,
       "views": 636138,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "Something Weird Is Going On With Placebos",
       "channel": "The Rest Is Science",
       "videoId": "s8wLP9vjaOg",
-      "viewsPerHour": 14281,
+      "viewsPerHour": 13373,
       "views": 417719,
-      "ageHours": 29.2
+      "ageHours": 31.2
     },
     {
       "title": "Audioholics sued for asking people their thoughts on a picture by copyright troll Morgan Howarth",
       "channel": "Louis Rossmann",
       "videoId": "o35g60FkygI",
-      "viewsPerHour": 6724,
+      "viewsPerHour": 5426,
       "views": 55843,
-      "ageHours": 8.3
+      "ageHours": 10.3
     },
     {
       "title": "Extraterrestrial Fields of Energy? | Ancient Aliens",
       "channel": "History",
       "videoId": "6pSM679h1JA",
-      "viewsPerHour": 4294,
+      "viewsPerHour": 3600,
       "views": 44253,
-      "ageHours": 10.3
+      "ageHours": 12.3
     },
     {
       "title": "HUGE national security risk': Kimberly Guilfoyle's swindling is so out of hand even TRUMP is pissed",
       "channel": "MS NOW",
       "videoId": "Sw0UzOD5jlc",
-      "viewsPerHour": 4152,
+      "viewsPerHour": 2749,
       "views": 16165,
-      "ageHours": 3.9
+      "ageHours": 5.9
     },
     {
       "title": "How to Build Your Own Heat-Regulating Hogan | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "9gPZghATAeM",
-      "viewsPerHour": 2933,
+      "viewsPerHour": 2575,
       "views": 41951,
-      "ageHours": 14.3
+      "ageHours": 16.3
     },
     {
       "title": "Kyle MacLachlan (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "tqPcQHgYjt4",
-      "viewsPerHour": 2786,
+      "viewsPerHour": 2466,
       "views": 42630,
-      "ageHours": 15.3
+      "ageHours": 17.3
     },
     {
       "title": "Cyclops in Malta?! | In Search of Aliens (S1)",
       "channel": "History",
       "videoId": "ktLmeafkXH0",
-      "viewsPerHour": 1714,
+      "viewsPerHour": 1615,
       "views": 55389,
-      "ageHours": 32.3
+      "ageHours": 34.3
     },
     {
       "title": "LIVE Students vs Billionaires Town Hall with Angie Nixon & Maxwell Frost",
       "channel": "More Perfect Union",
       "videoId": "g0BtAFIX3EU",
-      "viewsPerHour": 1571,
+      "viewsPerHour": 1491,
       "views": 58070,
-      "ageHours": 37
-    },
-    {
-      "title": "PBS News Hour live episode, Oct. 12, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "D4S7WJ1cl8E",
-      "viewsPerHour": 1408,
-      "views": 6797,
-      "ageHours": 4.8
+      "ageHours": 38.9
     },
     {
       "title": "Trump’s immigration crackdown under scrutiny again | The 11th Hour with Ali Velshi Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "C3FA1u9vebo",
-      "viewsPerHour": 1263,
+      "viewsPerHour": 1168,
       "views": 30712,
-      "ageHours": 24.3
+      "ageHours": 26.3
+    },
+    {
+      "title": "PBS News Hour live episode, Oct. 12, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "D4S7WJ1cl8E",
+      "viewsPerHour": 998,
+      "views": 6797,
+      "ageHours": 6.8
     },
     {
       "title": "Amos Silver: The Drug Dealer Who Challenged Israel’s Government",
       "channel": "Real Stories",
       "videoId": "2UoLkjMZPMY",
-      "viewsPerHour": 643,
+      "viewsPerHour": 530,
       "views": 5988,
-      "ageHours": 9.3
+      "ageHours": 11.3
     },
     {
       "title": "Trump ATTACKS Zelensky as he receives major PUSHBACK on Russian diesel deal ",
       "channel": "MS NOW",
       "videoId": "i2UaTFKgnG8",
-      "viewsPerHour": 511,
+      "viewsPerHour": 455,
       "views": 8281,
-      "ageHours": 16.2
+      "ageHours": 18.2
     },
     {
       "title": "WATCH LIVE: Trump speaks at midterm rally in Youngstown, Ohio",
       "channel": "PBS NewsHour",
       "videoId": "yk-_XzYuyYY",
-      "viewsPerHour": 502,
+      "viewsPerHour": 379,
       "views": 3091,
-      "ageHours": 6.2
+      "ageHours": 8.1
     },
     {
       "title": "Agnes Tirop Broke A World Record. Weeks later, She Was Dead.",
       "channel": "Real Stories",
       "videoId": "zz2zOg8Z-PM",
-      "viewsPerHour": 226,
+      "viewsPerHour": 213,
       "views": 7513,
-      "ageHours": 33.3
+      "ageHours": 35.3
     },
     {
       "title": "23 days to midterms: LOWS in GOP polling, Talarico returns to the campaign trail | MS NOW Highlights",
       "channel": "MS NOW",
       "videoId": "52sA97UKaSg",
-      "viewsPerHour": 217,
+      "viewsPerHour": 194,
       "views": 3541,
-      "ageHours": 16.3
+      "ageHours": 18.3
     },
     {
       "title": "Relegitimizes the Russian government': John Bolton slams Trump saying U.S. will buy Russian diesel",
       "channel": "MS NOW",
       "videoId": "tkdGvIAvjUw",
-      "viewsPerHour": 24,
+      "viewsPerHour": 20,
       "views": 229,
-      "ageHours": 9.5
+      "ageHours": 11.5
     },
     {
       "title": "Water access becomes a top election concern for Arizona voters",
       "channel": "PBS NewsHour",
       "videoId": "VoGBMW58dgU",
-      "viewsPerHour": 7,
+      "viewsPerHour": 4,
       "views": 24,
-      "ageHours": 3.6
+      "ageHours": 5.6
     },
     {
       "title": "NYT: Elon Musk has spent $276 million on Republican races",
       "channel": "MS NOW",
       "videoId": "PHRs8b34zwA",
-      "viewsPerHour": 5,
+      "viewsPerHour": 4,
       "views": 49,
-      "ageHours": 9.5
+      "ageHours": 11.5
     },
     {
       "title": "I will not be silenced': Rep. Omar SPEAKS OUT after DHS search, calls it 'political intimidation'",
@@ -718,7 +714,7 @@
       "videoId": "WYOY0-zn9p4",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 9.5
+      "ageHours": 11.5
     },
     {
       "title": "WATCH LIVE: National Columbus Day ​Ceremony in Washington",
@@ -726,7 +722,7 @@
       "videoId": "yw29AXeKHdA",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 12
+      "ageHours": 14
     }
   ]
 }
