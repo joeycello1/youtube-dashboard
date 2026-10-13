@@ -1,16 +1,24 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 4
+    },
+    {
       "channel": "MS NOW",
-      "count": 6
+      "count": 7
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 13
+    },
+    {
+      "channel": "Real Stories",
+      "count": 45
     },
     {
       "channel": "History",
       "count": 58
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 1
     },
     {
       "channel": "NOVA",
@@ -18,7 +26,7 @@
     },
     {
       "channel": "Conan O'Brien",
-      "count": 11
+      "count": 10
     },
     {
       "channel": "Diary of a CEO",
@@ -30,11 +38,7 @@
     },
     {
       "channel": "The Rest Is Science",
-      "count": 5
-    },
-    {
-      "channel": "Real Stories",
-      "count": 45
+      "count": 4
     },
     {
       "channel": "More Perfect Union",
@@ -43,10 +47,6 @@
     {
       "channel": "Jonathan Pie",
       "count": 6
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 13
     },
     {
       "channel": "The Daily Show",
@@ -78,21 +78,29 @@
     },
     {
       "channel": "Inside AI",
-      "count": 2
+      "count": 1
     }
   ],
   "keywordFrequency": [
     {
+      "keyword": "PBS NewsHour",
+      "count": 4
+    },
+    {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 7
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 11
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 43
     },
     {
       "keyword": "UFO",
       "count": 43
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 1
     },
     {
       "keyword": "NOVA",
@@ -100,7 +108,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 11
+      "count": 10
     },
     {
       "keyword": "UFO, AI, artificial intelligence",
@@ -112,11 +120,7 @@
     },
     {
       "keyword": "The Rest Is Science",
-      "count": 5
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 43
+      "count": 4
     },
     {
       "keyword": "More Perfect Union",
@@ -125,10 +129,6 @@
     {
       "keyword": "Jonathan Pie",
       "count": 6
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 11
     },
     {
       "keyword": "The Daily Show, AI",
@@ -140,7 +140,7 @@
     },
     {
       "keyword": "AI",
-      "count": 8
+      "count": 7
     },
     {
       "keyword": "The Daily Show",
@@ -230,7 +230,7 @@
   "dailySummary": [
     {
       "date": "2026-10-12",
-      "videos": 13
+      "videos": 19
     },
     {
       "date": "2026-10-11",
@@ -270,7 +270,7 @@
     },
     {
       "date": "2026-10-02",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-10-01",
@@ -290,7 +290,7 @@
     },
     {
       "date": "2026-09-27",
-      "videos": 6
+      "videos": 4
     },
     {
       "date": "2026-09-26",
@@ -451,28 +451,28 @@
     {
       "date": "2026-08-14",
       "videos": 5
-    },
-    {
-      "date": "2026-08-13",
-      "videos": 1
-    },
-    {
-      "date": "2026-06-14",
-      "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour",
+      "matches": 4
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 7
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 3
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 5
     },
     {
       "keyword": "UFO",
       "matches": 8
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 1
     },
     {
       "keyword": "NOVA",
@@ -495,19 +495,11 @@
       "matches": 2
     },
     {
-      "keyword": "Real Stories",
-      "matches": 4
-    },
-    {
       "keyword": "More Perfect Union",
       "matches": 1
     },
     {
       "keyword": "Jonathan Pie",
-      "matches": 2
-    },
-    {
-      "keyword": "Louis Rossmann",
       "matches": 2
     },
     {
@@ -556,121 +548,169 @@
       "title": "Generic Drugs: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "TM1EbMKhT4Y",
-      "viewsPerHour": 102471,
+      "viewsPerHour": 90896,
       "views": 1617288,
-      "ageHours": 15.8
+      "ageHours": 17.8
     },
     {
       "title": "UFO Cover-Up Analyst: The Secret Alien Programs Nobody Is Talking About! | Eric Weinstein",
       "channel": "Diary of a CEO",
       "videoId": "IkhmdTqSvJw",
-      "viewsPerHour": 61729,
+      "viewsPerHour": 54555,
       "views": 943407,
-      "ageHours": 15.3
+      "ageHours": 17.3
     },
     {
       "title": "S13 E26: Kimberly Guilfoyle & Generic Drugs: 10/11/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "d_DnFsuIWtA",
-      "viewsPerHour": 32974,
+      "viewsPerHour": 29863,
       "views": 636138,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "Something Weird Is Going On With Placebos",
       "channel": "The Rest Is Science",
       "videoId": "s8wLP9vjaOg",
-      "viewsPerHour": 16558,
+      "viewsPerHour": 15336,
       "views": 417719,
-      "ageHours": 25.2
+      "ageHours": 27.2
+    },
+    {
+      "title": "Audioholics sued for asking people their thoughts on a picture by copyright troll Morgan Howarth",
+      "channel": "Louis Rossmann",
+      "videoId": "o35g60FkygI",
+      "viewsPerHour": 8874,
+      "views": 55843,
+      "ageHours": 6.3
+    },
+    {
+      "title": "HUGE national security risk': Kimberly Guilfoyle's swindling is so out of hand even TRUMP is pissed",
+      "channel": "MS NOW",
+      "videoId": "Sw0UzOD5jlc",
+      "viewsPerHour": 8594,
+      "views": 16165,
+      "ageHours": 1.9
     },
     {
       "title": "Extraterrestrial Fields of Energy? | Ancient Aliens",
       "channel": "History",
       "videoId": "6pSM679h1JA",
-      "viewsPerHour": 7042,
+      "viewsPerHour": 5335,
       "views": 44253,
-      "ageHours": 6.3
+      "ageHours": 8.3
     },
     {
       "title": "How to Build Your Own Heat-Regulating Hogan | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "9gPZghATAeM",
-      "viewsPerHour": 4080,
+      "viewsPerHour": 3413,
       "views": 41951,
-      "ageHours": 10.3
+      "ageHours": 12.3
     },
     {
       "title": "Kyle MacLachlan (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "tqPcQHgYjt4",
-      "viewsPerHour": 3779,
+      "viewsPerHour": 3207,
       "views": 42630,
-      "ageHours": 11.3
+      "ageHours": 13.3
+    },
+    {
+      "title": "PBS News Hour live episode, Oct. 12, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "D4S7WJ1cl8E",
+      "viewsPerHour": 2415,
+      "views": 6797,
+      "ageHours": 2.8
     },
     {
       "title": "Cyclops in Malta?! | In Search of Aliens (S1)",
       "channel": "History",
       "videoId": "ktLmeafkXH0",
-      "viewsPerHour": 1958,
+      "viewsPerHour": 1828,
       "views": 55389,
-      "ageHours": 28.3
+      "ageHours": 30.3
     },
     {
       "title": "LIVE Students vs Billionaires Town Hall with Angie Nixon & Maxwell Frost",
       "channel": "More Perfect Union",
       "videoId": "g0BtAFIX3EU",
-      "viewsPerHour": 1763,
+      "viewsPerHour": 1662,
       "views": 58070,
-      "ageHours": 32.9
+      "ageHours": 34.9
     },
     {
       "title": "Trump’s immigration crackdown under scrutiny again | The 11th Hour with Ali Velshi Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "C3FA1u9vebo",
-      "viewsPerHour": 1514,
+      "viewsPerHour": 1377,
       "views": 30712,
-      "ageHours": 20.3
+      "ageHours": 22.3
+    },
+    {
+      "title": "Amos Silver: The Drug Dealer Who Challenged Israel’s Government",
+      "channel": "Real Stories",
+      "videoId": "2UoLkjMZPMY",
+      "viewsPerHour": 821,
+      "views": 5988,
+      "ageHours": 7.3
+    },
+    {
+      "title": "WATCH LIVE: Trump speaks at midterm rally in Youngstown, Ohio",
+      "channel": "PBS NewsHour",
+      "videoId": "yk-_XzYuyYY",
+      "viewsPerHour": 745,
+      "views": 3091,
+      "ageHours": 4.2
     },
     {
       "title": "Trump ATTACKS Zelensky as he receives major PUSHBACK on Russian diesel deal ",
       "channel": "MS NOW",
       "videoId": "i2UaTFKgnG8",
-      "viewsPerHour": 679,
+      "viewsPerHour": 583,
       "views": 8281,
-      "ageHours": 12.2
+      "ageHours": 14.2
     },
     {
       "title": "23 days to midterms: LOWS in GOP polling, Talarico returns to the campaign trail | MS NOW Highlights",
       "channel": "MS NOW",
       "videoId": "52sA97UKaSg",
-      "viewsPerHour": 288,
+      "viewsPerHour": 248,
       "views": 3541,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "Agnes Tirop Broke A World Record. Weeks later, She Was Dead.",
       "channel": "Real Stories",
       "videoId": "zz2zOg8Z-PM",
-      "viewsPerHour": 257,
+      "viewsPerHour": 240,
       "views": 7513,
-      "ageHours": 29.3
+      "ageHours": 31.3
     },
     {
       "title": "Relegitimizes the Russian government': John Bolton slams Trump saying U.S. will buy Russian diesel",
       "channel": "MS NOW",
       "videoId": "tkdGvIAvjUw",
-      "viewsPerHour": 42,
+      "viewsPerHour": 30,
       "views": 229,
-      "ageHours": 5.5
+      "ageHours": 7.5
+    },
+    {
+      "title": "Water access becomes a top election concern for Arizona voters",
+      "channel": "PBS NewsHour",
+      "videoId": "VoGBMW58dgU",
+      "viewsPerHour": 15,
+      "views": 24,
+      "ageHours": 1.6
     },
     {
       "title": "NYT: Elon Musk has spent $276 million on Republican races",
       "channel": "MS NOW",
       "videoId": "PHRs8b34zwA",
-      "viewsPerHour": 9,
+      "viewsPerHour": 7,
       "views": 49,
-      "ageHours": 5.5
+      "ageHours": 7.5
     },
     {
       "title": "I will not be silenced': Rep. Omar SPEAKS OUT after DHS search, calls it 'political intimidation'",
@@ -678,7 +718,7 @@
       "videoId": "WYOY0-zn9p4",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 5.5
+      "ageHours": 7.5
     },
     {
       "title": "WATCH LIVE: National Columbus Day ​Ceremony in Washington",
@@ -686,7 +726,7 @@
       "videoId": "yw29AXeKHdA",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 8
+      "ageHours": 10
     }
   ]
 }
