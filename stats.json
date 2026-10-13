@@ -6,27 +6,31 @@
     },
     {
       "channel": "PBS NewsHour",
-      "count": 6
+      "count": 7
+    },
+    {
+      "channel": "Real Stories",
+      "count": 46
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 12
+    },
+    {
+      "channel": "Mayim Bialik",
+      "count": 7
     },
     {
       "channel": "Louis Rossmann",
       "count": 12
     },
     {
-      "channel": "Real Stories",
-      "count": 45
-    },
-    {
       "channel": "History",
-      "count": 58
+      "count": 57
     },
     {
       "channel": "NOVA",
       "count": 21
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 10
     },
     {
       "channel": "Diary of a CEO",
@@ -42,7 +46,7 @@
     },
     {
       "channel": "More Perfect Union",
-      "count": 19
+      "count": 18
     },
     {
       "channel": "Jonathan Pie",
@@ -58,11 +62,7 @@
     },
     {
       "channel": "Area 52",
-      "count": 6
-    },
-    {
-      "channel": "Mayim Bialik",
-      "count": 6
+      "count": 5
     },
     {
       "channel": "Chris Lehto",
@@ -88,15 +88,23 @@
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 6
+      "count": 7
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 44
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 12
+    },
+    {
+      "keyword": "AI",
+      "count": 8
     },
     {
       "keyword": "Louis Rossmann",
       "count": 10
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 43
     },
     {
       "keyword": "UFO",
@@ -104,11 +112,7 @@
     },
     {
       "keyword": "NOVA",
-      "count": 34
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 10
+      "count": 33
     },
     {
       "keyword": "UFO, AI, artificial intelligence",
@@ -124,7 +128,7 @@
     },
     {
       "keyword": "More Perfect Union",
-      "count": 15
+      "count": 14
     },
     {
       "keyword": "Jonathan Pie",
@@ -136,10 +140,6 @@
     },
     {
       "keyword": "The Interview",
-      "count": 7
-    },
-    {
-      "keyword": "AI",
       "count": 7
     },
     {
@@ -217,20 +217,16 @@
     {
       "keyword": "FOIA, UFO",
       "count": 1
-    },
-    {
-      "keyword": "AI, FOIA, UAP",
-      "count": 1
     }
   ],
   "dailySummary": [
     {
       "date": "2026-10-13",
-      "videos": 4
+      "videos": 13
     },
     {
       "date": "2026-10-12",
-      "videos": 17
+      "videos": 13
     },
     {
       "date": "2026-10-11",
@@ -450,7 +446,7 @@
     },
     {
       "date": "2026-08-14",
-      "videos": 5
+      "videos": 2
     }
   ],
   "topKeywordsWeek": [
@@ -460,15 +456,23 @@
     },
     {
       "keyword": "PBS NewsHour",
+      "matches": 7
+    },
+    {
+      "keyword": "Real Stories",
       "matches": 6
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 9
+    },
+    {
+      "keyword": "AI",
+      "matches": 2
     },
     {
       "keyword": "Louis Rossmann",
       "matches": 3
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 5
     },
     {
       "keyword": "UFO",
@@ -477,10 +481,6 @@
     {
       "keyword": "NOVA",
       "matches": 5
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 7
     },
     {
       "keyword": "UFO, AI, artificial intelligence",
@@ -511,10 +511,6 @@
       "matches": 1
     },
     {
-      "keyword": "AI",
-      "matches": 1
-    },
-    {
       "keyword": "The Daily Show",
       "matches": 9
     },
@@ -525,10 +521,6 @@
     {
       "keyword": "AI, whistleblower",
       "matches": 1
-    },
-    {
-      "keyword": "Real Stories, testimony",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -536,169 +528,209 @@
       "title": "Generic Drugs: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "TM1EbMKhT4Y",
-      "viewsPerHour": 71937,
-      "views": 2430963,
-      "ageHours": 33.8
+      "viewsPerHour": 69889,
+      "views": 2500982,
+      "ageHours": 35.8
     },
     {
       "title": "UFO Cover-Up Analyst: The Secret Alien Programs Nobody Is Talking About! | Eric Weinstein",
       "channel": "Diary of a CEO",
       "videoId": "IkhmdTqSvJw",
-      "viewsPerHour": 48682,
-      "views": 1620747,
-      "ageHours": 33.3
+      "viewsPerHour": 47489,
+      "views": 1675642,
+      "ageHours": 35.3
     },
     {
       "title": "S13 E26: Kimberly Guilfoyle & Generic Drugs: 10/11/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "d_DnFsuIWtA",
-      "viewsPerHour": 20522,
-      "views": 765488,
-      "ageHours": 37.3
+      "viewsPerHour": 19809,
+      "views": 778366,
+      "ageHours": 39.3
     },
     {
       "title": "Something Weird Is Going On With Placebos",
       "channel": "The Rest Is Science",
       "videoId": "s8wLP9vjaOg",
-      "viewsPerHour": 14523,
-      "views": 627942,
-      "ageHours": 43.2
+      "viewsPerHour": 14269,
+      "views": 645399,
+      "ageHours": 45.2
+    },
+    {
+      "title": "BREAKING: Kimberly Guilfoyle RESIGNS as Ambassador to Greece",
+      "channel": "MS NOW",
+      "videoId": "kQZJd8lQBZo",
+      "viewsPerHour": 9175,
+      "views": 23611,
+      "ageHours": 2.6
     },
     {
       "title": "PBS News Hour full episode, Oct. 12, 2026",
       "channel": "PBS NewsHour",
       "videoId": "43ihgXSpbT0",
-      "viewsPerHour": 7961,
+      "viewsPerHour": 7110,
       "views": 132458,
-      "ageHours": 16.6
+      "ageHours": 18.6
+    },
+    {
+      "title": "Some Psychic Abilities Are Dangerous: Aliens, Telepathy & Discovering Your Gifts | Dr. Dean Radin",
+      "channel": "Mayim Bialik",
+      "videoId": "iHeO7Y56n8M",
+      "viewsPerHour": 5771,
+      "views": 42087,
+      "ageHours": 7.3
     },
     {
       "title": "Extraterrestrial Fields of Energy? | Ancient Aliens",
       "channel": "History",
       "videoId": "6pSM679h1JA",
-      "viewsPerHour": 5103,
-      "views": 123969,
-      "ageHours": 24.3
+      "viewsPerHour": 4822,
+      "views": 126754,
+      "ageHours": 26.3
     },
     {
-      "title": "The Last Word with Lawrence O'Donnell - Oct. 12 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "io5Pw6ovKLk",
-      "viewsPerHour": 2929,
-      "views": 32367,
-      "ageHours": 11
+      "title": "Conan Announces Team Coco's New Show \"Bley's Arcade\" | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "pc0a79YHdn8",
+      "viewsPerHour": 3261,
+      "views": 20495,
+      "ageHours": 6.3
     },
     {
       "title": "How to Build Your Own Heat-Regulating Hogan | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "9gPZghATAeM",
-      "viewsPerHour": 2893,
-      "views": 81847,
-      "ageHours": 28.3
+      "viewsPerHour": 3007,
+      "views": 91059,
+      "ageHours": 30.3
+    },
+    {
+      "title": "The Last Word with Lawrence O'Donnell - Oct. 12 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "io5Pw6ovKLk",
+      "viewsPerHour": 2482,
+      "views": 32367,
+      "ageHours": 13
     },
     {
       "title": "Audioholics sued for asking people their thoughts on a picture by copyright troll Morgan Howarth",
       "channel": "Louis Rossmann",
       "videoId": "o35g60FkygI",
-      "viewsPerHour": 2505,
+      "viewsPerHour": 2299,
       "views": 55843,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "Kyle MacLachlan (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "tqPcQHgYjt4",
-      "viewsPerHour": 1455,
+      "viewsPerHour": 1363,
       "views": 42630,
-      "ageHours": 29.3
-    },
-    {
-      "title": "Cyclops in Malta?! | In Search of Aliens (S1)",
-      "channel": "History",
-      "videoId": "ktLmeafkXH0",
-      "viewsPerHour": 1386,
-      "views": 64168,
-      "ageHours": 46.3
+      "ageHours": 31.3
     },
     {
       "title": "The Rachel Maddow Show - Oct. 12 | Audio Only",
       "channel": "MS NOW",
       "videoId": "OKoMvlFOTBM",
-      "viewsPerHour": 1267,
+      "viewsPerHour": 1067,
       "views": 13502,
-      "ageHours": 10.7
-    },
-    {
-      "title": "Trump campaigns in Ohio to half-packed arena as pushback to his Russian diesel deal grows",
-      "channel": "MS NOW",
-      "videoId": "dDw1sg5yPuo",
-      "viewsPerHour": 1253,
-      "views": 7336,
-      "ageHours": 5.9
+      "ageHours": 12.6
     },
     {
       "title": "WATCH: Trump says he has 'nothing to do' with search of Rep. Omar's home",
       "channel": "PBS NewsHour",
       "videoId": "Al1eH2-HfiQ",
-      "viewsPerHour": 1195,
+      "viewsPerHour": 1040,
       "views": 16016,
-      "ageHours": 13.4
+      "ageHours": 15.4
+    },
+    {
+      "title": "Trump campaigns in Ohio to half-packed arena as pushback to his Russian diesel deal grows",
+      "channel": "MS NOW",
+      "videoId": "dDw1sg5yPuo",
+      "viewsPerHour": 935,
+      "views": 7336,
+      "ageHours": 7.8
+    },
+    {
+      "title": "Beirut is where it all begins': Kim Ghattas REVEALS Lebanon connection to middle east conflict",
+      "channel": "MS NOW",
+      "videoId": "G8YceyLn0cA",
+      "viewsPerHour": 832,
+      "views": 2119,
+      "ageHours": 2.5
     },
     {
       "title": "HUGE national security risk': Kimberly Guilfoyle's swindling is so out of hand even TRUMP is pissed",
       "channel": "MS NOW",
       "videoId": "Sw0UzOD5jlc",
-      "viewsPerHour": 904,
+      "viewsPerHour": 813,
       "views": 16165,
-      "ageHours": 17.9
+      "ageHours": 19.9
+    },
+    {
+      "title": "Kyle MacLachlan Felt David Lynch Didn't Know Who Killed Laura Palmer | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "kMSYe4Qv42o",
+      "viewsPerHour": 465,
+      "views": 1528,
+      "ageHours": 3.3
     },
     {
       "title": "Amos Silver: The Drug Dealer Who Challenged Israel’s Government",
       "channel": "Real Stories",
       "videoId": "2UoLkjMZPMY",
-      "viewsPerHour": 467,
+      "viewsPerHour": 430,
       "views": 10887,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "PBS News Hour live episode, Oct. 12, 2026",
       "channel": "PBS NewsHour",
       "videoId": "D4S7WJ1cl8E",
-      "viewsPerHour": 361,
+      "viewsPerHour": 327,
       "views": 6797,
-      "ageHours": 18.8
+      "ageHours": 20.8
     },
     {
-      "title": "Agnes Tirop Broke A World Record. Weeks later, She Was Dead.",
-      "channel": "Real Stories",
-      "videoId": "zz2zOg8Z-PM",
-      "viewsPerHour": 175,
-      "views": 8271,
-      "ageHours": 47.3
+      "title": "WATCH: Trump says it seems equally hard for GOP to keep House vs. Senate, 3 weeks from midterms",
+      "channel": "PBS NewsHour",
+      "videoId": "ekHTwuX_qdI",
+      "viewsPerHour": 221,
+      "views": 460,
+      "ageHours": 2.1
     },
     {
       "title": "WATCH LIVE: Trump speaks at midterm rally in Youngstown, Ohio",
       "channel": "PBS NewsHour",
       "videoId": "yk-_XzYuyYY",
-      "viewsPerHour": 153,
+      "viewsPerHour": 140,
       "views": 3091,
-      "ageHours": 20.2
+      "ageHours": 22.1
     },
     {
-      "title": "Relegitimizes the Russian government': John Bolton slams Trump saying U.S. will buy Russian diesel",
-      "channel": "MS NOW",
-      "videoId": "tkdGvIAvjUw",
-      "viewsPerHour": 10,
-      "views": 229,
-      "ageHours": 23.5
+      "title": "Why Was Mike Tyson The Most Feared Man on Earth?",
+      "channel": "Real Stories",
+      "videoId": "BpUKNZlPvuA",
+      "viewsPerHour": 105,
+      "views": 240,
+      "ageHours": 2.3
     },
     {
-      "title": "NYT: Elon Musk has spent $276 million on Republican races",
+      "title": "WATCH: Trump bashes Rep. Omar after federal raid but says he 'doesn't take a position'",
+      "channel": "PBS NewsHour",
+      "videoId": "_GTVMNoC6CU",
+      "viewsPerHour": 87,
+      "views": 182,
+      "ageHours": 2.1
+    },
+    {
+      "title": "Adam Grant shares new connection concepts for 'lonely world' in new book, 'Vibe'",
       "channel": "MS NOW",
-      "videoId": "PHRs8b34zwA",
-      "viewsPerHour": 2,
-      "views": 49,
-      "ageHours": 23.5
+      "videoId": "MPRmPJ_zdh4",
+      "viewsPerHour": 75,
+      "views": 132,
+      "ageHours": 1.8
     },
     {
       "title": "Water access becomes a top election concern for Arizona voters",
@@ -706,23 +738,7 @@
       "videoId": "VoGBMW58dgU",
       "viewsPerHour": 1,
       "views": 24,
-      "ageHours": 17.6
-    },
-    {
-      "title": "I will not be silenced': Rep. Omar SPEAKS OUT after DHS search, calls it 'political intimidation'",
-      "channel": "MS NOW",
-      "videoId": "WYOY0-zn9p4",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 23.5
-    },
-    {
-      "title": "WATCH LIVE: National Columbus Day ​Ceremony in Washington",
-      "channel": "PBS NewsHour",
-      "videoId": "yw29AXeKHdA",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 26
+      "ageHours": 19.6
     }
   ]
 }
