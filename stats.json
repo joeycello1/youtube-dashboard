@@ -2,19 +2,27 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 5
+      "count": 4
     },
     {
       "channel": "PBS NewsHour",
-      "count": 5
+      "count": 6
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 8
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 12
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 13
     },
     {
       "channel": "History",
       "count": 56
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 11
     },
     {
       "channel": "Real Stories",
@@ -23,10 +31,6 @@
     {
       "channel": "NOVA",
       "count": 22
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 12
     },
     {
       "channel": "Mayim Bialik",
@@ -53,12 +57,8 @@
       "count": 6
     },
     {
-      "channel": "The Daily Show",
-      "count": 7
-    },
-    {
       "channel": "The Interview",
-      "count": 8
+      "count": 7
     },
     {
       "channel": "Area 52",
@@ -83,20 +83,32 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "MS NOW, AI, artificial intelligence",
+      "count": 1
+    },
+    {
       "keyword": "MS NOW",
-      "count": 5
+      "count": 3
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 5
+      "count": 6
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 7
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 11
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 13
     },
     {
       "keyword": "UFO",
       "count": 42
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 10
     },
     {
       "keyword": "Real Stories",
@@ -105,10 +117,6 @@
     {
       "keyword": "NOVA",
       "count": 34
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 12
     },
     {
       "keyword": "AI",
@@ -140,10 +148,6 @@
     },
     {
       "keyword": "The Interview",
-      "count": 7
-    },
-    {
-      "keyword": "The Daily Show",
       "count": 6
     },
     {
@@ -222,11 +226,11 @@
   "dailySummary": [
     {
       "date": "2026-10-14",
-      "videos": 4
+      "videos": 12
     },
     {
       "date": "2026-10-13",
-      "videos": 13
+      "videos": 8
     },
     {
       "date": "2026-10-12",
@@ -446,37 +450,45 @@
     },
     {
       "date": "2026-08-15",
-      "videos": 6
+      "videos": 5
     }
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "MS NOW, AI, artificial intelligence",
+      "matches": 1
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 5
+      "matches": 3
     },
     {
       "keyword": "PBS NewsHour",
+      "matches": 6
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 7
+    },
+    {
+      "keyword": "Louis Rossmann",
       "matches": 5
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
     },
     {
       "keyword": "UFO",
       "matches": 7
     },
     {
-      "keyword": "Louis Rossmann",
-      "matches": 4
-    },
-    {
       "keyword": "Real Stories",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "NOVA",
       "matches": 6
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 7
     },
     {
       "keyword": "AI",
@@ -511,10 +523,6 @@
       "matches": 1
     },
     {
-      "keyword": "The Daily Show",
-      "matches": 6
-    },
-    {
       "keyword": "More Perfect Union, AI",
       "matches": 2
     },
@@ -525,148 +533,148 @@
   ],
   "mostViral48h": [
     {
+      "title": "Jon Stewart & The News Team Recap the Endless War in Iran Pt. 1 | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "PzoYmikU10o",
+      "viewsPerHour": 81327,
+      "views": 356650,
+      "ageHours": 4.4
+    },
+    {
       "title": "Adobe gets destroyed by open source clone: here's the legal trouble I predict into the future",
       "channel": "Louis Rossmann",
       "videoId": "nsxvS1n-uXY",
-      "viewsPerHour": 21158,
+      "viewsPerHour": 19458,
       "views": 479746,
-      "ageHours": 22.7
+      "ageHours": 24.7
     },
     {
       "title": "PBS News Hour full episode, Oct. 13, 2026",
       "channel": "PBS NewsHour",
       "videoId": "h9zDIZKpyXc",
-      "viewsPerHour": 6313,
+      "viewsPerHour": 5649,
       "views": 106382,
-      "ageHours": 16.9
+      "ageHours": 18.8
     },
     {
       "title": "WATCH LIVE: Trump campaigns for Sen. Dan Sullivan in Alaska",
       "channel": "PBS NewsHour",
       "videoId": "GpA1De9aj4c",
-      "viewsPerHour": 5926,
+      "viewsPerHour": 5192,
       "views": 83089,
-      "ageHours": 14
+      "ageHours": 16
     },
     {
       "title": "Some Psychic Abilities Are Dangerous: Aliens, Telepathy & Discovering Your Gifts | Dr. Dean Radin",
       "channel": "Mayim Bialik",
       "videoId": "iHeO7Y56n8M",
-      "viewsPerHour": 5126,
-      "views": 150279,
-      "ageHours": 29.3
+      "viewsPerHour": 4973,
+      "views": 155648,
+      "ageHours": 31.3
     },
     {
-      "title": "The Last Word with Lawrence O'Donnell - Oct. 13 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "H3TeOYsnBs8",
-      "viewsPerHour": 2718,
-      "views": 29404,
-      "ageHours": 10.8
+      "title": "LISTEN LIVE: Supreme Court considers who counts as a 'consumer' under Video Privacy Protection Act",
+      "channel": "PBS NewsHour",
+      "videoId": "WAC6zoISEy0",
+      "viewsPerHour": 2716,
+      "views": 6119,
+      "ageHours": 2.3
+    },
+    {
+      "title": "This Senate candidate wants to kill click-to-cancel scams, non-competes & repair     monopolies",
+      "channel": "Louis Rossmann",
+      "videoId": "U6VLML3r4T4",
+      "viewsPerHour": 2516,
+      "views": 12225,
+      "ageHours": 4.9
     },
     {
       "title": "A Never-Before-Seen Site | The Secret of Skinwalker Ranch (S2, E2) | Full Episode",
       "channel": "History",
       "videoId": "38y17kMQrxA",
-      "viewsPerHour": 2619,
-      "views": 42726,
-      "ageHours": 16.3
+      "viewsPerHour": 2487,
+      "views": 45499,
+      "ageHours": 18.3
+    },
+    {
+      "title": "The Last Word with Lawrence O'Donnell - Oct. 13 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "H3TeOYsnBs8",
+      "viewsPerHour": 2297,
+      "views": 29404,
+      "ageHours": 12.8
+    },
+    {
+      "title": "Jeff Garlin (Full Episode, Part I) | Where Everybody Knows Your Name",
+      "channel": "Conan O'Brien",
+      "videoId": "X7Yc6TscQRQ",
+      "viewsPerHour": 1442,
+      "views": 9071,
+      "ageHours": 6.3
+    },
+    {
+      "title": "WATCH LIVE: Hegseth meets with military leaders on Project Agincourt and autonomous warfare",
+      "channel": "PBS NewsHour",
+      "videoId": "vf6SqZSRHnU",
+      "viewsPerHour": 1190,
+      "views": 3643,
+      "ageHours": 3.1
     },
     {
       "title": "Judge indefinitely REVERSES White House media ban in big win for press",
       "channel": "MS NOW",
       "videoId": "MG1xoEy5BgI",
-      "viewsPerHour": 1400,
+      "viewsPerHour": 1063,
       "views": 8751,
-      "ageHours": 6.2
-    },
-    {
-      "title": "Audioholics sued for asking people their thoughts on a picture by copyright troll Morgan Howarth",
-      "channel": "Louis Rossmann",
-      "videoId": "o35g60FkygI",
-      "viewsPerHour": 1206,
-      "views": 55843,
-      "ageHours": 46.3
-    },
-    {
-      "title": "BREAKING: Kimberly Guilfoyle RESIGNS as Ambassador to Greece",
-      "channel": "MS NOW",
-      "videoId": "kQZJd8lQBZo",
-      "viewsPerHour": 960,
-      "views": 23611,
-      "ageHours": 24.6
-    },
-    {
-      "title": "Grandma Joy and Me' follows a grandmother and grandson's journey to every national park",
-      "channel": "PBS NewsHour",
-      "videoId": "4AH1tdAv-uQ",
-      "viewsPerHour": 726,
-      "views": 12470,
-      "ageHours": 17.2
+      "ageHours": 8.2
     },
     {
       "title": "Conan Announces Team Coco's New Show \"Bley's Arcade\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "pc0a79YHdn8",
-      "viewsPerHour": 724,
+      "viewsPerHour": 677,
       "views": 20495,
-      "ageHours": 28.3
+      "ageHours": 30.3
+    },
+    {
+      "title": "Grandma Joy and Me' follows a grandmother and grandson's journey to every national park",
+      "channel": "PBS NewsHour",
+      "videoId": "4AH1tdAv-uQ",
+      "viewsPerHour": 651,
+      "views": 12470,
+      "ageHours": 19.2
+    },
+    {
+      "title": "Election Day shaping up to be 'Rejection Day' for Trump: Acosta",
+      "channel": "MS NOW",
+      "videoId": "jd8TTWNVRtI",
+      "viewsPerHour": 440,
+      "views": 696,
+      "ageHours": 1.6
     },
     {
       "title": "Why Was Mike Tyson The Most Feared Man on Earth?",
       "channel": "Real Stories",
       "videoId": "BpUKNZlPvuA",
-      "viewsPerHour": 345,
-      "views": 8388,
-      "ageHours": 24.3
-    },
-    {
-      "title": "Amos Silver: The Drug Dealer Who Challenged Israel’s Government",
-      "channel": "Real Stories",
-      "videoId": "2UoLkjMZPMY",
-      "viewsPerHour": 275,
-      "views": 12996,
-      "ageHours": 47.3
-    },
-    {
-      "title": "Beirut is where it all begins': Kim Ghattas REVEALS Lebanon connection to middle east conflict",
-      "channel": "MS NOW",
-      "videoId": "G8YceyLn0cA",
-      "viewsPerHour": 86,
-      "views": 2119,
-      "ageHours": 24.6
+      "viewsPerHour": 331,
+      "views": 8703,
+      "ageHours": 26.3
     },
     {
       "title": "Kyle MacLachlan Felt David Lynch Didn't Know Who Killed Laura Palmer | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "kMSYe4Qv42o",
-      "viewsPerHour": 60,
+      "viewsPerHour": 56,
       "views": 1528,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
-      "title": "WATCH: Trump says it seems equally hard for GOP to keep House vs. Senate, 3 weeks from midterms",
-      "channel": "PBS NewsHour",
-      "videoId": "ekHTwuX_qdI",
-      "viewsPerHour": 19,
-      "views": 460,
-      "ageHours": 24.1
-    },
-    {
-      "title": "WATCH: Trump bashes Rep. Omar after federal raid but says he 'doesn't take a position'",
-      "channel": "PBS NewsHour",
-      "videoId": "_GTVMNoC6CU",
-      "viewsPerHour": 8,
-      "views": 182,
-      "ageHours": 24.1
-    },
-    {
-      "title": "Adam Grant shares new connection concepts for 'lonely world' in new book, 'Vibe'",
+      "title": "Nobel Peace Prize-winner Maria Tessa on fighting authoritarianism in the age of A.I. ",
       "channel": "MS NOW",
-      "videoId": "MPRmPJ_zdh4",
-      "viewsPerHour": 6,
-      "views": 132,
-      "ageHours": 23.8
+      "videoId": "Asg3xQiaiDg",
+      "viewsPerHour": 8,
+      "views": 12,
+      "ageHours": 1.5
     },
     {
       "title": "Evolution: Brain Power | Full Documentary | NOVA | PBS",
@@ -674,7 +682,15 @@
       "videoId": "lsjrRvCXu24",
       "viewsPerHour": 0,
       "views": 1,
-      "ageHours": 24.7
+      "ageHours": 26.7
+    },
+    {
+      "title": "WATCH LIVE: Trump speaks at rally along Arizona-Nevada border",
+      "channel": "PBS NewsHour",
+      "videoId": "1ClvkN02_8I",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 1.8
     }
   ]
 }
