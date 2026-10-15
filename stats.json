@@ -492,11 +492,11 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "UFO",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "Real Stories",
@@ -536,145 +536,121 @@
       "title": "Jon Stewart & The News Team Recap the Endless War in Iran Pt. 1 | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "PzoYmikU10o",
-      "viewsPerHour": 66459,
-      "views": 1621067,
-      "ageHours": 24.4
+      "viewsPerHour": 62731,
+      "views": 1655435,
+      "ageHours": 26.4
     },
     {
       "title": "No.1 Neuroscientist Reveals How To Unlock Superhuman Focus & Perfect Memory! - Dr. Sahar Yousef",
       "channel": "Diary of a CEO",
       "videoId": "yePLuwL3FbM",
-      "viewsPerHour": 39580,
-      "views": 288842,
-      "ageHours": 7.3
+      "viewsPerHour": 38579,
+      "views": 358596,
+      "ageHours": 9.3
     },
     {
       "title": "The Right Way To Open A Shaken Soda Can",
       "channel": "The Rest Is Science",
       "videoId": "OZRc1ydXMiA",
-      "viewsPerHour": 13192,
-      "views": 200781,
-      "ageHours": 15.2
+      "viewsPerHour": 12451,
+      "views": 214376,
+      "ageHours": 17.2
     },
     {
       "title": "Anthropic Wanted To Slow The AI Space Race. Then It Filed for a $2 Trillion IPO.",
       "channel": "More Perfect Union",
       "videoId": "1bp12w_olDQ",
-      "viewsPerHour": 12581,
-      "views": 239429,
-      "ageHours": 19
+      "viewsPerHour": 11804,
+      "views": 248219,
+      "ageHours": 21
     },
     {
       "title": "Adobe gets destroyed by open source clone: here's the legal trouble I predict into the future",
       "channel": "Louis Rossmann",
       "videoId": "nsxvS1n-uXY",
-      "viewsPerHour": 10742,
+      "viewsPerHour": 10282,
       "views": 479746,
-      "ageHours": 44.7
+      "ageHours": 46.7
     },
     {
       "title": "PBS News Hour full episode, Oct. 14, 2026",
       "channel": "PBS NewsHour",
       "videoId": "vz8Xq_xDEU8",
-      "viewsPerHour": 8931,
+      "viewsPerHour": 7872,
       "views": 132636,
-      "ageHours": 14.9
+      "ageHours": 16.8
     },
     {
       "title": "WATCH LIVE: Trump speaks at Montana rally for GOP House candidate Aaron Flint",
       "channel": "PBS NewsHour",
       "videoId": "i26U77GqVRY",
-      "viewsPerHour": 2521,
+      "viewsPerHour": 2146,
       "views": 28788,
-      "ageHours": 11.4
+      "ageHours": 13.4
     },
     {
       "title": "A Never-Before-Seen Site | The Secret of Skinwalker Ranch (S2, E2) | Full Episode",
       "channel": "History",
       "videoId": "38y17kMQrxA",
-      "viewsPerHour": 2070,
-      "views": 79298,
-      "ageHours": 38.3
-    },
-    {
-      "title": "Evolution: Brain Power | Full Documentary | NOVA | PBS",
-      "channel": "NOVA",
-      "videoId": "lsjrRvCXu24",
-      "viewsPerHour": 908,
-      "views": 42402,
-      "ageHours": 46.7
+      "viewsPerHour": 1993,
+      "views": 80331,
+      "ageHours": 40.3
     },
     {
       "title": "How immigration policies shaped America and evolved throughout its history",
       "channel": "PBS NewsHour",
       "videoId": "EjvZagopmRs",
-      "viewsPerHour": 847,
+      "viewsPerHour": 749,
       "views": 12844,
-      "ageHours": 15.2
-    },
-    {
-      "title": "20 days to midterms: GOP 'fleeing' Trump, Hayes interviews Ossoff in Georgia | MS NOW Highlights",
-      "channel": "MS NOW",
-      "videoId": "q4Spx33oxgw",
-      "viewsPerHour": 654,
-      "views": 2634,
-      "ageHours": 4
+      "ageHours": 17.2
     },
     {
       "title": "This Senate candidate wants to kill click-to-cancel scams, non-competes & repair     monopolies",
       "channel": "Louis Rossmann",
       "videoId": "U6VLML3r4T4",
-      "viewsPerHour": 492,
+      "viewsPerHour": 455,
       "views": 12225,
-      "ageHours": 24.9
+      "ageHours": 26.9
+    },
+    {
+      "title": "20 days to midterms: GOP 'fleeing' Trump, Hayes interviews Ossoff in Georgia | MS NOW Highlights",
+      "channel": "MS NOW",
+      "videoId": "q4Spx33oxgw",
+      "viewsPerHour": 437,
+      "views": 2634,
+      "ageHours": 6
     },
     {
       "title": "Jeff Garlin (Full Episode, Part I) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "X7Yc6TscQRQ",
-      "viewsPerHour": 345,
+      "viewsPerHour": 321,
       "views": 9071,
-      "ageHours": 26.3
+      "ageHours": 28.3
     },
     {
       "title": "LISTEN LIVE: Supreme Court considers who counts as a 'consumer' under Video Privacy Protection Act",
       "channel": "PBS NewsHour",
       "videoId": "WAC6zoISEy0",
-      "viewsPerHour": 275,
+      "viewsPerHour": 252,
       "views": 6119,
-      "ageHours": 22.3
-    },
-    {
-      "title": "Why Was Mike Tyson The Most Feared Man on Earth?",
-      "channel": "Real Stories",
-      "videoId": "BpUKNZlPvuA",
-      "viewsPerHour": 251,
-      "views": 11638,
-      "ageHours": 46.3
+      "ageHours": 24.3
     },
     {
       "title": "WATCH LIVE: Hegseth meets with military leaders on Project Agincourt and autonomous warfare",
       "channel": "PBS NewsHour",
       "videoId": "vf6SqZSRHnU",
-      "viewsPerHour": 158,
+      "viewsPerHour": 145,
       "views": 3643,
-      "ageHours": 23.1
-    },
-    {
-      "title": "Kyle MacLachlan Felt David Lynch Didn't Know Who Killed Laura Palmer | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "kMSYe4Qv42o",
-      "viewsPerHour": 32,
-      "views": 1528,
-      "ageHours": 47.3
+      "ageHours": 25.1
     },
     {
       "title": "Election Day shaping up to be 'Rejection Day' for Trump: Acosta",
       "channel": "MS NOW",
       "videoId": "jd8TTWNVRtI",
-      "viewsPerHour": 32,
+      "viewsPerHour": 30,
       "views": 696,
-      "ageHours": 21.6
+      "ageHours": 23.6
     },
     {
       "title": "Nobel Peace Prize-winner Maria Tessa on fighting authoritarianism in the age of A.I. ",
@@ -682,7 +658,7 @@
       "videoId": "Asg3xQiaiDg",
       "viewsPerHour": 1,
       "views": 12,
-      "ageHours": 21.5
+      "ageHours": 23.5
     },
     {
       "title": "WATCH LIVE: Trump speaks at rally along Arizona-Nevada border",
@@ -690,7 +666,7 @@
       "videoId": "1ClvkN02_8I",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 21.8
+      "ageHours": 23.8
     }
   ]
 }
