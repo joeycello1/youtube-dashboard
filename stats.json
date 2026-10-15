@@ -1,16 +1,24 @@
 {
   "videosPerChannel": [
     {
+      "channel": "History",
+      "count": 54
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 5
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 14
+    },
+    {
       "channel": "MS NOW",
-      "count": 3
+      "count": 1
     },
     {
       "channel": "Diary of a CEO",
       "count": 3
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 6
     },
     {
       "channel": "The Rest Is Science",
@@ -22,23 +30,15 @@
     },
     {
       "channel": "The Daily Show",
-      "count": 6
+      "count": 5
     },
     {
       "channel": "Louis Rossmann",
-      "count": 11
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 13
-    },
-    {
-      "channel": "History",
-      "count": 54
+      "count": 10
     },
     {
       "channel": "Real Stories",
-      "count": 45
+      "count": 44
     },
     {
       "channel": "NOVA",
@@ -83,16 +83,24 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "UFO",
+      "count": 43
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 5
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 14
+    },
+    {
       "keyword": "MS NOW",
-      "count": 2
+      "count": 1
     },
     {
       "keyword": "AI",
       "count": 9
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 6
     },
     {
       "keyword": "The Rest Is Science",
@@ -103,32 +111,20 @@
       "count": 5
     },
     {
-      "keyword": "MS NOW, AI, artificial intelligence",
-      "count": 1
-    },
-    {
       "keyword": "The Daily Show",
-      "count": 5
+      "count": 4
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 10
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 13
-    },
-    {
-      "keyword": "UFO",
-      "count": 42
+      "count": 9
     },
     {
       "keyword": "Real Stories",
-      "count": 43
+      "count": 42
     },
     {
       "keyword": "NOVA",
-      "count": 33
+      "count": 32
     },
     {
       "keyword": "UFO, AI, artificial intelligence",
@@ -226,11 +222,11 @@
   "dailySummary": [
     {
       "date": "2026-10-15",
-      "videos": 3
+      "videos": 8
     },
     {
       "date": "2026-10-14",
-      "videos": 13
+      "videos": 8
     },
     {
       "date": "2026-10-13",
@@ -254,7 +250,7 @@
     },
     {
       "date": "2026-10-08",
-      "videos": 9
+      "videos": 8
     },
     {
       "date": "2026-10-07",
@@ -266,7 +262,7 @@
     },
     {
       "date": "2026-10-05",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-10-04",
@@ -286,7 +282,7 @@
     },
     {
       "date": "2026-09-30",
-      "videos": 3
+      "videos": 2
     },
     {
       "date": "2026-09-29",
@@ -449,26 +445,30 @@
       "videos": 1
     },
     {
-      "date": "2026-08-16",
-      "videos": 2
-    },
-    {
       "date": "2026-08-15",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "UFO",
+      "matches": 6
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 5
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "AI",
       "matches": 3
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 6
     },
     {
       "keyword": "The Rest Is Science",
@@ -479,10 +479,6 @@
       "matches": 2
     },
     {
-      "keyword": "MS NOW, AI, artificial intelligence",
-      "matches": 1
-    },
-    {
       "keyword": "The Daily Show",
       "matches": 4
     },
@@ -491,16 +487,8 @@
       "matches": 5
     },
     {
-      "keyword": "Conan O'Brien",
-      "matches": 6
-    },
-    {
-      "keyword": "UFO",
-      "matches": 5
-    },
-    {
       "keyword": "Real Stories",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "NOVA",
@@ -536,137 +524,129 @@
       "title": "Jon Stewart & The News Team Recap the Endless War in Iran Pt. 1 | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "PzoYmikU10o",
-      "viewsPerHour": 62731,
-      "views": 1655435,
-      "ageHours": 26.4
+      "viewsPerHour": 59417,
+      "views": 1686332,
+      "ageHours": 28.4
     },
     {
       "title": "No.1 Neuroscientist Reveals How To Unlock Superhuman Focus & Perfect Memory! - Dr. Sahar Yousef",
       "channel": "Diary of a CEO",
       "videoId": "yePLuwL3FbM",
-      "viewsPerHour": 38579,
-      "views": 358596,
-      "ageHours": 9.3
+      "viewsPerHour": 37762,
+      "views": 426222,
+      "ageHours": 11.3
     },
     {
       "title": "The Right Way To Open A Shaken Soda Can",
       "channel": "The Rest Is Science",
       "videoId": "OZRc1ydXMiA",
-      "viewsPerHour": 12451,
-      "views": 214376,
-      "ageHours": 17.2
+      "viewsPerHour": 11774,
+      "views": 226171,
+      "ageHours": 19.2
     },
     {
       "title": "Anthropic Wanted To Slow The AI Space Race. Then It Filed for a $2 Trillion IPO.",
       "channel": "More Perfect Union",
       "videoId": "1bp12w_olDQ",
-      "viewsPerHour": 11804,
-      "views": 248219,
-      "ageHours": 21
-    },
-    {
-      "title": "Adobe gets destroyed by open source clone: here's the legal trouble I predict into the future",
-      "channel": "Louis Rossmann",
-      "videoId": "nsxvS1n-uXY",
-      "viewsPerHour": 10282,
-      "views": 479746,
-      "ageHours": 46.7
+      "viewsPerHour": 11154,
+      "views": 256769,
+      "ageHours": 23
     },
     {
       "title": "PBS News Hour full episode, Oct. 14, 2026",
       "channel": "PBS NewsHour",
       "videoId": "vz8Xq_xDEU8",
-      "viewsPerHour": 7872,
+      "viewsPerHour": 7040,
       "views": 132636,
-      "ageHours": 16.8
+      "ageHours": 18.8
     },
     {
-      "title": "WATCH LIVE: Trump speaks at Montana rally for GOP House candidate Aaron Flint",
-      "channel": "PBS NewsHour",
-      "videoId": "i26U77GqVRY",
-      "viewsPerHour": 2146,
-      "views": 28788,
-      "ageHours": 13.4
+      "title": "Conan & Taylor Tomlinson Meet A Flavor Scientist | Conan O'Brien Needs A Fan",
+      "channel": "Conan O'Brien",
+      "videoId": "kCjhBG1DziY",
+      "viewsPerHour": 2505,
+      "views": 15771,
+      "ageHours": 6.3
     },
     {
       "title": "A Never-Before-Seen Site | The Secret of Skinwalker Ranch (S2, E2) | Full Episode",
       "channel": "History",
       "videoId": "38y17kMQrxA",
-      "viewsPerHour": 1993,
-      "views": 80331,
-      "ageHours": 40.3
+      "viewsPerHour": 1927,
+      "views": 81486,
+      "ageHours": 42.3
+    },
+    {
+      "title": "WATCH LIVE: Trump speaks at Montana rally for GOP House candidate Aaron Flint",
+      "channel": "PBS NewsHour",
+      "videoId": "i26U77GqVRY",
+      "viewsPerHour": 1868,
+      "views": 28788,
+      "ageHours": 15.4
+    },
+    {
+      "title": "Self-Healing Ceramic Found on Ranch | The Secret of Skinwalker Ranch",
+      "channel": "History",
+      "videoId": "DWOqqaIbuaE",
+      "viewsPerHour": 1649,
+      "views": 3780,
+      "ageHours": 2.3
     },
     {
       "title": "How immigration policies shaped America and evolved throughout its history",
       "channel": "PBS NewsHour",
       "videoId": "EjvZagopmRs",
-      "viewsPerHour": 749,
+      "viewsPerHour": 671,
       "views": 12844,
-      "ageHours": 17.2
+      "ageHours": 19.2
     },
     {
       "title": "This Senate candidate wants to kill click-to-cancel scams, non-competes & repair     monopolies",
       "channel": "Louis Rossmann",
       "videoId": "U6VLML3r4T4",
-      "viewsPerHour": 455,
+      "viewsPerHour": 424,
       "views": 12225,
-      "ageHours": 26.9
+      "ageHours": 28.9
     },
     {
       "title": "20 days to midterms: GOP 'fleeing' Trump, Hayes interviews Ossoff in Georgia | MS NOW Highlights",
       "channel": "MS NOW",
       "videoId": "q4Spx33oxgw",
-      "viewsPerHour": 437,
+      "viewsPerHour": 329,
       "views": 2634,
-      "ageHours": 6
+      "ageHours": 8
     },
     {
       "title": "Jeff Garlin (Full Episode, Part I) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "X7Yc6TscQRQ",
-      "viewsPerHour": 321,
+      "viewsPerHour": 299,
       "views": 9071,
-      "ageHours": 28.3
+      "ageHours": 30.3
     },
     {
-      "title": "LISTEN LIVE: Supreme Court considers who counts as a 'consumer' under Video Privacy Protection Act",
+      "title": "WATCH LIVE: DOJ and Missouri Sen. Schmitt hold news conference on violent crime reduction",
       "channel": "PBS NewsHour",
-      "videoId": "WAC6zoISEy0",
-      "viewsPerHour": 252,
-      "views": 6119,
-      "ageHours": 24.3
+      "videoId": "IB2CZACEkQo",
+      "viewsPerHour": 269,
+      "views": 692,
+      "ageHours": 2.6
     },
     {
-      "title": "WATCH LIVE: Hegseth meets with military leaders on Project Agincourt and autonomous warfare",
+      "title": "Rob Delaney Sued Kim Kardashian | CONAN on TBS",
+      "channel": "Conan O'Brien",
+      "videoId": "gTwVnnrJZhg",
+      "viewsPerHour": 190,
+      "views": 625,
+      "ageHours": 3.3
+    },
+    {
+      "title": "WATCH LIVE: Texas Reps. Casar and Fletcher hold forum on shootings by federal immigration agents",
       "channel": "PBS NewsHour",
-      "videoId": "vf6SqZSRHnU",
-      "viewsPerHour": 145,
-      "views": 3643,
-      "ageHours": 25.1
-    },
-    {
-      "title": "Election Day shaping up to be 'Rejection Day' for Trump: Acosta",
-      "channel": "MS NOW",
-      "videoId": "jd8TTWNVRtI",
-      "viewsPerHour": 30,
-      "views": 696,
-      "ageHours": 23.6
-    },
-    {
-      "title": "Nobel Peace Prize-winner Maria Tessa on fighting authoritarianism in the age of A.I. ",
-      "channel": "MS NOW",
-      "videoId": "Asg3xQiaiDg",
-      "viewsPerHour": 1,
-      "views": 12,
-      "ageHours": 23.5
-    },
-    {
-      "title": "WATCH LIVE: Trump speaks at rally along Arizona-Nevada border",
-      "channel": "PBS NewsHour",
-      "videoId": "1ClvkN02_8I",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 23.8
+      "videoId": "rghgnzDifp8",
+      "viewsPerHour": 36,
+      "views": 146,
+      "ageHours": 4
     }
   ]
 }
