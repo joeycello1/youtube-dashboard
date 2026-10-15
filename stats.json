@@ -2,11 +2,23 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 4
+      "count": 3
+    },
+    {
+      "channel": "Diary of a CEO",
+      "count": 3
     },
     {
       "channel": "PBS NewsHour",
-      "count": 3
+      "count": 6
+    },
+    {
+      "channel": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "channel": "More Perfect Union",
+      "count": 19
     },
     {
       "channel": "The Daily Show",
@@ -37,20 +49,8 @@
       "count": 7
     },
     {
-      "channel": "Diary of a CEO",
-      "count": 2
-    },
-    {
       "channel": "Last Week Tonight",
       "count": 4
-    },
-    {
-      "channel": "The Rest Is Science",
-      "count": 4
-    },
-    {
-      "channel": "More Perfect Union",
-      "count": 18
     },
     {
       "channel": "Jonathan Pie",
@@ -83,16 +83,28 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "MS NOW, AI, artificial intelligence",
-      "count": 1
+      "keyword": "MS NOW",
+      "count": 2
     },
     {
-      "keyword": "MS NOW",
-      "count": 3
+      "keyword": "AI",
+      "count": 9
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 3
+      "count": 6
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "keyword": "More Perfect Union, AI",
+      "count": 5
+    },
+    {
+      "keyword": "MS NOW, AI, artificial intelligence",
+      "count": 1
     },
     {
       "keyword": "The Daily Show",
@@ -119,19 +131,11 @@
       "count": 33
     },
     {
-      "keyword": "AI",
-      "count": 8
-    },
-    {
       "keyword": "UFO, AI, artificial intelligence",
       "count": 1
     },
     {
       "keyword": "Last Week Tonight",
-      "count": 4
-    },
-    {
-      "keyword": "The Rest Is Science",
       "count": 4
     },
     {
@@ -149,10 +153,6 @@
     {
       "keyword": "The Interview",
       "count": 6
-    },
-    {
-      "keyword": "More Perfect Union, AI",
-      "count": 4
     },
     {
       "keyword": "AI, whistleblower",
@@ -225,8 +225,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-10-15",
+      "videos": 3
+    },
+    {
       "date": "2026-10-14",
-      "videos": 11
+      "videos": 13
     },
     {
       "date": "2026-10-13",
@@ -455,20 +459,32 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "MS NOW, AI, artificial intelligence",
-      "matches": 1
+      "keyword": "MS NOW",
+      "matches": 2
     },
     {
-      "keyword": "MS NOW",
+      "keyword": "AI",
       "matches": 3
     },
     {
       "keyword": "PBS NewsHour",
+      "matches": 6
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "matches": 2
+    },
+    {
+      "keyword": "More Perfect Union, AI",
       "matches": 3
     },
     {
+      "keyword": "MS NOW, AI, artificial intelligence",
+      "matches": 1
+    },
+    {
       "keyword": "The Daily Show",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "Louis Rossmann",
@@ -476,7 +492,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "UFO",
@@ -491,20 +507,12 @@
       "matches": 5
     },
     {
-      "keyword": "AI",
-      "matches": 2
-    },
-    {
       "keyword": "UFO, AI, artificial intelligence",
       "matches": 1
     },
     {
       "keyword": "Last Week Tonight",
       "matches": 2
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "matches": 1
     },
     {
       "keyword": "More Perfect Union",
@@ -521,10 +529,6 @@
     {
       "keyword": "The Interview",
       "matches": 1
-    },
-    {
-      "keyword": "More Perfect Union, AI",
-      "matches": 2
     }
   ],
   "mostViral48h": [
@@ -532,121 +536,145 @@
       "title": "Jon Stewart & The News Team Recap the Endless War in Iran Pt. 1 | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "PzoYmikU10o",
-      "viewsPerHour": 74638,
-      "views": 1520874,
-      "ageHours": 20.4
+      "viewsPerHour": 70101,
+      "views": 1569429,
+      "ageHours": 22.4
+    },
+    {
+      "title": "No.1 Neuroscientist Reveals How To Unlock Superhuman Focus & Perfect Memory! - Dr. Sahar Yousef",
+      "channel": "Diary of a CEO",
+      "videoId": "yePLuwL3FbM",
+      "viewsPerHour": 36115,
+      "views": 191179,
+      "ageHours": 5.3
+    },
+    {
+      "title": "The Right Way To Open A Shaken Soda Can",
+      "channel": "The Rest Is Science",
+      "videoId": "OZRc1ydXMiA",
+      "viewsPerHour": 13687,
+      "views": 180887,
+      "ageHours": 13.2
+    },
+    {
+      "title": "Anthropic Wanted To Slow The AI Space Race. Then It Filed for a $2 Trillion IPO.",
+      "channel": "More Perfect Union",
+      "videoId": "1bp12w_olDQ",
+      "viewsPerHour": 13374,
+      "views": 227720,
+      "ageHours": 17
     },
     {
       "title": "Adobe gets destroyed by open source clone: here's the legal trouble I predict into the future",
       "channel": "Louis Rossmann",
       "videoId": "nsxvS1n-uXY",
-      "viewsPerHour": 11803,
+      "viewsPerHour": 11246,
       "views": 479746,
-      "ageHours": 40.6
+      "ageHours": 42.7
     },
     {
-      "title": "Some Psychic Abilities Are Dangerous: Aliens, Telepathy & Discovering Your Gifts | Dr. Dean Radin",
-      "channel": "Mayim Bialik",
-      "videoId": "iHeO7Y56n8M",
-      "viewsPerHour": 4314,
-      "views": 204003,
-      "ageHours": 47.3
+      "title": "PBS News Hour full episode, Oct. 14, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "vz8Xq_xDEU8",
+      "viewsPerHour": 10324,
+      "views": 132636,
+      "ageHours": 12.8
+    },
+    {
+      "title": "WATCH LIVE: Trump speaks at Montana rally for GOP House candidate Aaron Flint",
+      "channel": "PBS NewsHour",
+      "videoId": "i26U77GqVRY",
+      "viewsPerHour": 3058,
+      "views": 28788,
+      "ageHours": 9.4
     },
     {
       "title": "A Never-Before-Seen Site | The Secret of Skinwalker Ranch (S2, E2) | Full Episode",
       "channel": "History",
       "videoId": "38y17kMQrxA",
-      "viewsPerHour": 2246,
-      "views": 77014,
-      "ageHours": 34.3
+      "viewsPerHour": 2152,
+      "views": 78129,
+      "ageHours": 36.3
     },
     {
-      "title": "The Last Word with Lawrence O'Donnell - Oct. 13 | Audio Only",
+      "title": "20 days to midterms: GOP 'fleeing' Trump, Hayes interviews Ossoff in Georgia | MS NOW Highlights",
       "channel": "MS NOW",
-      "videoId": "H3TeOYsnBs8",
-      "viewsPerHour": 1021,
-      "views": 29404,
-      "ageHours": 28.8
+      "videoId": "q4Spx33oxgw",
+      "viewsPerHour": 1302,
+      "views": 2634,
+      "ageHours": 2
+    },
+    {
+      "title": "How immigration policies shaped America and evolved throughout its history",
+      "channel": "PBS NewsHour",
+      "videoId": "EjvZagopmRs",
+      "viewsPerHour": 976,
+      "views": 12844,
+      "ageHours": 13.2
     },
     {
       "title": "Evolution: Brain Power | Full Documentary | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "lsjrRvCXu24",
-      "viewsPerHour": 862,
-      "views": 36792,
-      "ageHours": 42.7
+      "viewsPerHour": 896,
+      "views": 40049,
+      "ageHours": 44.7
     },
     {
       "title": "This Senate candidate wants to kill click-to-cancel scams, non-competes & repair     monopolies",
       "channel": "Louis Rossmann",
       "videoId": "U6VLML3r4T4",
-      "viewsPerHour": 586,
+      "viewsPerHour": 535,
       "views": 12225,
-      "ageHours": 20.9
-    },
-    {
-      "title": "Conan Announces Team Coco's New Show \"Bley's Arcade\" | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "pc0a79YHdn8",
-      "viewsPerHour": 443,
-      "views": 20495,
-      "ageHours": 46.3
+      "ageHours": 22.9
     },
     {
       "title": "Jeff Garlin (Full Episode, Part I) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "X7Yc6TscQRQ",
-      "viewsPerHour": 407,
+      "viewsPerHour": 373,
       "views": 9071,
-      "ageHours": 22.3
-    },
-    {
-      "title": "Judge indefinitely REVERSES White House media ban in big win for press",
-      "channel": "MS NOW",
-      "videoId": "MG1xoEy5BgI",
-      "viewsPerHour": 361,
-      "views": 8751,
-      "ageHours": 24.2
+      "ageHours": 24.3
     },
     {
       "title": "LISTEN LIVE: Supreme Court considers who counts as a 'consumer' under Video Privacy Protection Act",
       "channel": "PBS NewsHour",
       "videoId": "WAC6zoISEy0",
-      "viewsPerHour": 335,
+      "viewsPerHour": 302,
       "views": 6119,
-      "ageHours": 18.2
+      "ageHours": 20.3
     },
     {
       "title": "Why Was Mike Tyson The Most Feared Man on Earth?",
       "channel": "Real Stories",
       "videoId": "BpUKNZlPvuA",
-      "viewsPerHour": 268,
-      "views": 11325,
-      "ageHours": 42.3
+      "viewsPerHour": 259,
+      "views": 11470,
+      "ageHours": 44.3
     },
     {
       "title": "WATCH LIVE: Hegseth meets with military leaders on Project Agincourt and autonomous warfare",
       "channel": "PBS NewsHour",
       "videoId": "vf6SqZSRHnU",
-      "viewsPerHour": 191,
+      "viewsPerHour": 173,
       "views": 3643,
-      "ageHours": 19.1
+      "ageHours": 21.1
     },
     {
       "title": "Election Day shaping up to be 'Rejection Day' for Trump: Acosta",
       "channel": "MS NOW",
       "videoId": "jd8TTWNVRtI",
-      "viewsPerHour": 40,
+      "viewsPerHour": 36,
       "views": 696,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
       "title": "Kyle MacLachlan Felt David Lynch Didn't Know Who Killed Laura Palmer | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "kMSYe4Qv42o",
-      "viewsPerHour": 35,
+      "viewsPerHour": 34,
       "views": 1528,
-      "ageHours": 43.3
+      "ageHours": 45.3
     },
     {
       "title": "Nobel Peace Prize-winner Maria Tessa on fighting authoritarianism in the age of A.I. ",
@@ -654,7 +682,7 @@
       "videoId": "Asg3xQiaiDg",
       "viewsPerHour": 1,
       "views": 12,
-      "ageHours": 17.5
+      "ageHours": 19.5
     },
     {
       "title": "WATCH LIVE: Trump speaks at rally along Arizona-Nevada border",
@@ -662,7 +690,7 @@
       "videoId": "1ClvkN02_8I",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 17.8
+      "ageHours": 19.8
     }
   ]
 }
