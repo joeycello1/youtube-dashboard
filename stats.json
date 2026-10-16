@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "PBS NewsHour",
-      "count": 8
+      "count": 5
     },
     {
       "channel": "MS NOW",
@@ -14,7 +14,7 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 11
+      "count": 10
     },
     {
       "channel": "Real Stories",
@@ -34,7 +34,7 @@
     },
     {
       "channel": "The Rest Is Science",
-      "count": 5
+      "count": 4
     },
     {
       "channel": "More Perfect Union",
@@ -42,7 +42,7 @@
     },
     {
       "channel": "The Daily Show",
-      "count": 5
+      "count": 3
     },
     {
       "channel": "Mayim Bialik",
@@ -84,7 +84,7 @@
   "keywordFrequency": [
     {
       "keyword": "PBS NewsHour",
-      "count": 8
+      "count": 5
     },
     {
       "keyword": "MS NOW",
@@ -96,7 +96,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 10
+      "count": 9
     },
     {
       "keyword": "Real Stories",
@@ -116,7 +116,7 @@
     },
     {
       "keyword": "The Rest Is Science",
-      "count": 5
+      "count": 4
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -124,7 +124,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "count": 4
+      "count": 2
     },
     {
       "keyword": "UFO, AI, artificial intelligence",
@@ -222,11 +222,11 @@
   "dailySummary": [
     {
       "date": "2026-10-15",
-      "videos": 16
+      "videos": 15
     },
     {
       "date": "2026-10-14",
-      "videos": 8
+      "videos": 6
     },
     {
       "date": "2026-10-13",
@@ -246,7 +246,7 @@
     },
     {
       "date": "2026-10-09",
-      "videos": 9
+      "videos": 7
     },
     {
       "date": "2026-10-08",
@@ -278,11 +278,11 @@
     },
     {
       "date": "2026-10-01",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-09-30",
-      "videos": 2
+      "videos": 1
     },
     {
       "date": "2026-09-29",
@@ -452,7 +452,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "PBS NewsHour",
-      "matches": 8
+      "matches": 5
     },
     {
       "keyword": "MS NOW",
@@ -524,177 +524,153 @@
       "title": "Jon Stewart & The News Team Recap the Endless War in Iran Pt. 1 | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "PzoYmikU10o",
-      "viewsPerHour": 47032,
+      "viewsPerHour": 44704,
       "views": 1805249,
-      "ageHours": 38.4
+      "ageHours": 40.4
     },
     {
       "title": "No.1 Neuroscientist Reveals How To Unlock Superhuman Focus & Perfect Memory! - Dr. Sahar Yousef",
       "channel": "Diary of a CEO",
       "videoId": "yePLuwL3FbM",
-      "viewsPerHour": 33283,
+      "viewsPerHour": 30426,
       "views": 708542,
-      "ageHours": 21.3
+      "ageHours": 23.3
     },
     {
       "title": "The Right Way To Open A Shaken Soda Can",
       "channel": "The Rest Is Science",
       "videoId": "OZRc1ydXMiA",
-      "viewsPerHour": 9600,
+      "viewsPerHour": 8985,
       "views": 280423,
-      "ageHours": 29.2
+      "ageHours": 31.2
     },
     {
       "title": "Anthropic Wanted To Slow The AI Space Race. Then It Filed for a $2 Trillion IPO.",
       "channel": "More Perfect Union",
       "videoId": "1bp12w_olDQ",
-      "viewsPerHour": 9114,
+      "viewsPerHour": 8594,
       "views": 300958,
-      "ageHours": 33
+      "ageHours": 35
     },
     {
       "title": "Self-Healing Ceramic Found on Ranch | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "DWOqqaIbuaE",
-      "viewsPerHour": 6017,
+      "viewsPerHour": 5175,
       "views": 73968,
-      "ageHours": 12.3
-    },
-    {
-      "title": "PBS News Hour full episode, Oct. 14, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "vz8Xq_xDEU8",
-      "viewsPerHour": 4599,
-      "views": 132636,
-      "ageHours": 28.8
+      "ageHours": 14.3
     },
     {
       "title": "Trump exposed after SECRET documents UNMASK Palantir and billionaires as his ballroom donors",
       "channel": "MS NOW",
       "videoId": "2xpMrneqmOI",
-      "viewsPerHour": 3257,
+      "viewsPerHour": 2445,
       "views": 19616,
-      "ageHours": 6
+      "ageHours": 8
     },
     {
       "title": "LIVE: JD Vance delivers remarks at GOP rally in Michigan as midterm blitz continues",
       "channel": "MS NOW",
       "videoId": "CPEFUptsBUk",
-      "viewsPerHour": 2392,
+      "viewsPerHour": 1858,
       "views": 16646,
-      "ageHours": 7
+      "ageHours": 9
     },
     {
       "title": "Mamdani keeps winning, click to cancel in full force. I am close to being tired of winning",
       "channel": "Louis Rossmann",
       "videoId": "W1yo7_-bI-o",
-      "viewsPerHour": 2013,
+      "viewsPerHour": 1619,
       "views": 16555,
-      "ageHours": 8.2
-    },
-    {
-      "title": "WATCH LIVE: Trump speaks at Montana rally for GOP House candidate Aaron Flint",
-      "channel": "PBS NewsHour",
-      "videoId": "i26U77GqVRY",
-      "viewsPerHour": 1133,
-      "views": 28788,
-      "ageHours": 25.4
+      "ageHours": 10.2
     },
     {
       "title": "Conan & Taylor Tomlinson Meet A Flavor Scientist | Conan O'Brien Needs A Fan",
       "channel": "Conan O'Brien",
       "videoId": "kCjhBG1DziY",
-      "viewsPerHour": 968,
+      "viewsPerHour": 862,
       "views": 15771,
-      "ageHours": 16.3
+      "ageHours": 18.3
     },
     {
       "title": "PBS News Hour live episode, Oct. 15, 2026",
       "channel": "PBS NewsHour",
       "videoId": "_Gg-yXlhiuo",
-      "viewsPerHour": 775,
+      "viewsPerHour": 601,
       "views": 5349,
-      "ageHours": 6.9
+      "ageHours": 8.9
     },
     {
       "title": "He Electrically Shocked 200 Monks. What He Learned Surprised Him | What the Physics?!",
       "channel": "NOVA",
       "videoId": "Scs_Y65Ve2c",
-      "viewsPerHour": 582,
+      "viewsPerHour": 450,
       "views": 3979,
-      "ageHours": 6.8
+      "ageHours": 8.8
     },
     {
       "title": "Faked Death or Real Tragedy? Inside North America's Biggest Ponzi Scheme",
       "channel": "Real Stories",
       "videoId": "iWrtY2DKrjI",
-      "viewsPerHour": 507,
+      "viewsPerHour": 431,
       "views": 5731,
-      "ageHours": 11.3
-    },
-    {
-      "title": "How immigration policies shaped America and evolved throughout its history",
-      "channel": "PBS NewsHour",
-      "videoId": "EjvZagopmRs",
-      "viewsPerHour": 441,
-      "views": 12844,
-      "ageHours": 29.2
+      "ageHours": 13.3
     },
     {
       "title": "This Senate candidate wants to kill click-to-cancel scams, non-competes & repair     monopolies",
       "channel": "Louis Rossmann",
       "videoId": "U6VLML3r4T4",
-      "viewsPerHour": 315,
+      "viewsPerHour": 299,
       "views": 12225,
-      "ageHours": 38.9
+      "ageHours": 40.9
     },
     {
       "title": "Jeff Garlin (Full Episode, Part I) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "X7Yc6TscQRQ",
-      "viewsPerHour": 225,
+      "viewsPerHour": 215,
       "views": 9071,
-      "ageHours": 40.3
+      "ageHours": 42.3
     },
     {
       "title": "20 days to midterms: GOP 'fleeing' Trump, Hayes interviews Ossoff in Georgia | MS NOW Highlights",
       "channel": "MS NOW",
       "videoId": "q4Spx33oxgw",
-      "viewsPerHour": 146,
+      "viewsPerHour": 132,
       "views": 2634,
-      "ageHours": 18
+      "ageHours": 20
     },
     {
       "title": "WATCH LIVE: DOJ and Missouri Sen. Schmitt hold news conference on violent crime reduction",
       "channel": "PBS NewsHour",
       "videoId": "IB2CZACEkQo",
-      "viewsPerHour": 55,
+      "viewsPerHour": 47,
       "views": 692,
-      "ageHours": 12.6
+      "ageHours": 14.6
     },
     {
       "title": "Rob Delaney Sued Kim Kardashian | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "gTwVnnrJZhg",
-      "viewsPerHour": 47,
+      "viewsPerHour": 41,
       "views": 625,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "News Wrap: Trump says Fort Hood shooter's execution will not be livestreamed",
       "channel": "PBS NewsHour",
       "videoId": "sdv7LU25xAU",
-      "viewsPerHour": 19,
+      "viewsPerHour": 14,
       "views": 108,
-      "ageHours": 5.6
+      "ageHours": 7.6
     },
     {
       "title": "WATCH LIVE: Texas Reps. Casar and Fletcher hold forum on shootings by federal immigration agents",
       "channel": "PBS NewsHour",
       "videoId": "rghgnzDifp8",
-      "viewsPerHour": 10,
+      "viewsPerHour": 9,
       "views": 146,
-      "ageHours": 14
+      "ageHours": 16
     },
     {
       "title": "Pennsylvania doctor urges vaccination as measles outbreak grows",
@@ -702,7 +678,7 @@
       "videoId": "dQAWem3Bh5k",
       "viewsPerHour": 0,
       "views": 2,
-      "ageHours": 5.5
+      "ageHours": 7.5
     }
   ]
 }
