@@ -2,11 +2,39 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 4
+      "count": 6
+    },
+    {
+      "channel": "History",
+      "count": 55
+    },
+    {
+      "channel": "Real Stories",
+      "count": 46
+    },
+    {
+      "channel": "Area 52",
+      "count": 6
     },
     {
       "channel": "PBS NewsHour",
-      "count": 8
+      "count": 7
+    },
+    {
+      "channel": "More Perfect Union",
+      "count": 20
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 3
+    },
+    {
+      "channel": "Nat Geo",
+      "count": 4
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 13
     },
     {
       "channel": "NOVA",
@@ -17,32 +45,12 @@
       "count": 10
     },
     {
-      "channel": "Real Stories",
-      "count": 45
-    },
-    {
-      "channel": "History",
-      "count": 54
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 14
-    },
-    {
       "channel": "Diary of a CEO",
       "count": 3
     },
     {
       "channel": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "channel": "More Perfect Union",
-      "count": 19
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 3
     },
     {
       "channel": "Mayim Bialik",
@@ -61,10 +69,6 @@
       "count": 7
     },
     {
-      "channel": "Area 52",
-      "count": 5
-    },
-    {
       "channel": "Chris Lehto",
       "count": 5
     },
@@ -73,42 +77,54 @@
       "count": 6
     },
     {
-      "channel": "Nat Geo",
-      "count": 3
-    },
-    {
       "channel": "Inside AI",
       "count": 1
     }
   ],
   "keywordFrequency": [
     {
-      "keyword": "MS NOW",
-      "count": 4
+      "keyword": "MS NOW, Reuters",
+      "count": 1
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 8
+      "keyword": "MS NOW",
+      "count": 5
     },
     {
       "keyword": "NOVA",
-      "count": 33
+      "count": 34
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 44
+    },
+    {
+      "keyword": "UFO, testimony",
+      "count": 1
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 7
+    },
+    {
+      "keyword": "More Perfect Union",
+      "count": 15
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 2
+    },
+    {
+      "keyword": "UFO",
+      "count": 44
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 13
     },
     {
       "keyword": "Louis Rossmann",
       "count": 9
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 43
-    },
-    {
-      "keyword": "UFO",
-      "count": 43
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 14
     },
     {
       "keyword": "AI",
@@ -123,20 +139,12 @@
       "count": 5
     },
     {
-      "keyword": "The Daily Show",
-      "count": 2
-    },
-    {
       "keyword": "UFO, AI, artificial intelligence",
       "count": 1
     },
     {
       "keyword": "Last Week Tonight",
       "count": 4
-    },
-    {
-      "keyword": "More Perfect Union",
-      "count": 14
     },
     {
       "keyword": "Jonathan Pie",
@@ -222,11 +230,11 @@
   "dailySummary": [
     {
       "date": "2026-10-16",
-      "videos": 2
+      "videos": 12
     },
     {
       "date": "2026-10-15",
-      "videos": 17
+      "videos": 15
     },
     {
       "date": "2026-10-14",
@@ -250,7 +258,7 @@
     },
     {
       "date": "2026-10-09",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-10-08",
@@ -262,7 +270,7 @@
     },
     {
       "date": "2026-10-06",
-      "videos": 6
+      "videos": 4
     },
     {
       "date": "2026-10-05",
@@ -455,32 +463,48 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "MS NOW, Reuters",
+      "matches": 1
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 4
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 8
-    },
-    {
-      "keyword": "NOVA",
       "matches": 5
     },
     {
-      "keyword": "Louis Rossmann",
+      "keyword": "NOVA",
       "matches": 6
     },
     {
       "keyword": "Real Stories",
-      "matches": 5
-    },
-    {
-      "keyword": "UFO",
       "matches": 6
     },
     {
-      "keyword": "Conan O'Brien",
+      "keyword": "UFO, testimony",
+      "matches": 1
+    },
+    {
+      "keyword": "PBS NewsHour",
       "matches": 7
+    },
+    {
+      "keyword": "More Perfect Union",
+      "matches": 2
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 2
+    },
+    {
+      "keyword": "UFO",
+      "matches": 7
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 6
     },
     {
       "keyword": "AI",
@@ -495,20 +519,12 @@
       "matches": 1
     },
     {
-      "keyword": "The Daily Show",
-      "matches": 1
-    },
-    {
       "keyword": "UFO, AI, artificial intelligence",
       "matches": 1
     },
     {
       "keyword": "Last Week Tonight",
       "matches": 2
-    },
-    {
-      "keyword": "More Perfect Union",
-      "matches": 1
     },
     {
       "keyword": "Jonathan Pie",
@@ -525,148 +541,212 @@
   ],
   "mostViral48h": [
     {
+      "title": "Jon Stewart & The News Team Recap the Endless War in Iran Pt. 2 | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "bPWOLXXHMlo",
+      "viewsPerHour": 46357,
+      "views": 245512,
+      "ageHours": 5.3
+    },
+    {
       "title": "No.1 Neuroscientist Reveals How To Unlock Superhuman Focus & Perfect Memory! - Dr. Sahar Yousef",
       "channel": "Diary of a CEO",
       "videoId": "yePLuwL3FbM",
-      "viewsPerHour": 31802,
-      "views": 1058857,
-      "ageHours": 33.3
+      "viewsPerHour": 31082,
+      "views": 1097065,
+      "ageHours": 35.3
     },
     {
-      "title": "PBS News Hour full episode, Oct. 15, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "1_aIDEAqqbU",
-      "viewsPerHour": 8688,
-      "views": 145203,
-      "ageHours": 16.7
-    },
-    {
-      "title": "The Right Way To Open A Shaken Soda Can",
-      "channel": "The Rest Is Science",
-      "videoId": "OZRc1ydXMiA",
-      "viewsPerHour": 8146,
-      "views": 335747,
-      "ageHours": 41.2
+      "title": "This Town Signed A Contract With Flock. Then They Uncovered Who Was Really Watching.",
+      "channel": "More Perfect Union",
+      "videoId": "o97GzV0WX9I",
+      "viewsPerHour": 18480,
+      "views": 94746,
+      "ageHours": 5.1
     },
     {
       "title": "Anthropic Wanted To Slow The AI Space Race. Then It Filed for a $2 Trillion IPO.",
       "channel": "More Perfect Union",
       "videoId": "1bp12w_olDQ",
-      "viewsPerHour": 8107,
-      "views": 365036,
-      "ageHours": 45
+      "viewsPerHour": 8053,
+      "views": 378711,
+      "ageHours": 47
+    },
+    {
+      "title": "The Right Way To Open A Shaken Soda Can",
+      "channel": "The Rest Is Science",
+      "videoId": "OZRc1ydXMiA",
+      "viewsPerHour": 7904,
+      "views": 341597,
+      "ageHours": 43.2
+    },
+    {
+      "title": "PBS News Hour full episode, Oct. 15, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "1_aIDEAqqbU",
+      "viewsPerHour": 7759,
+      "views": 145203,
+      "ageHours": 18.7
+    },
+    {
+      "title": "Child like Alien Bodies Found inside UFO - Scott & Suzanne Ramsey | Flying Saucer Diner",
+      "channel": "Area 52",
+      "videoId": "30aMHBQ1Avs",
+      "viewsPerHour": 5828,
+      "views": 13425,
+      "ageHours": 2.3
     },
     {
       "title": "Self-Healing Ceramic Found on Ranch | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "DWOqqaIbuaE",
-      "viewsPerHour": 5477,
-      "views": 133103,
-      "ageHours": 24.3
+      "viewsPerHour": 5223,
+      "views": 137370,
+      "ageHours": 26.3
+    },
+    {
+      "title": "Are We Alone? The Search for Alien Life (Full Episode) | UFOs: Investigating the Unknown | Nat Geo",
+      "channel": "Nat Geo",
+      "videoId": "UX41GAy_tFc",
+      "viewsPerHour": 4822,
+      "views": 25581,
+      "ageHours": 5.3
+    },
+    {
+      "title": "Conan Sings His Version Of Oasis' \"Champagne Supernova\" | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "_PBBNidgvdM",
+      "viewsPerHour": 3477,
+      "views": 21916,
+      "ageHours": 6.3
     },
     {
       "title": "Why small colleges are closing and the toll on students and communities",
       "channel": "PBS NewsHour",
       "videoId": "-QvCWsDpabs",
-      "viewsPerHour": 3369,
+      "viewsPerHour": 3014,
       "views": 57317,
-      "ageHours": 17
+      "ageHours": 19
+    },
+    {
+      "title": "Evidence of Money Pit Shaft | The Curse of Oak Island",
+      "channel": "History",
+      "videoId": "Z6O-4qCe1HA",
+      "viewsPerHour": 2084,
+      "views": 4785,
+      "ageHours": 2.3
+    },
+    {
+      "title": "Susie Wiles 'blindsided' about Trump's new WH press secretary pick, wasn't consulted: Lemire",
+      "channel": "MS NOW",
+      "videoId": "q0IIOr8Ot_I",
+      "viewsPerHour": 1835,
+      "views": 2991,
+      "ageHours": 1.6
     },
     {
       "title": "GOP PANIC setting in over midterms as Trump begins BLAME game",
       "channel": "MS NOW",
       "videoId": "Yrj8XdDKMTo",
-      "viewsPerHour": 2018,
+      "viewsPerHour": 1527,
       "views": 12550,
-      "ageHours": 6.2
+      "ageHours": 8.2
     },
     {
       "title": "He Electrically Shocked 200 Monks. What He Learned Surprised Him | What the Physics?!",
       "channel": "NOVA",
       "videoId": "Scs_Y65Ve2c",
-      "viewsPerHour": 1582,
-      "views": 29817,
-      "ageHours": 18.8
+      "viewsPerHour": 1471,
+      "views": 30671,
+      "ageHours": 20.8
     },
     {
       "title": "Trump exposed after SECRET documents UNMASK Palantir and billionaires as his ballroom donors",
       "channel": "MS NOW",
       "videoId": "2xpMrneqmOI",
-      "viewsPerHour": 1088,
+      "viewsPerHour": 979,
       "views": 19616,
-      "ageHours": 18
+      "ageHours": 20
     },
     {
       "title": "LIVE: JD Vance delivers remarks at GOP rally in Michigan as midterm blitz continues",
       "channel": "MS NOW",
       "videoId": "CPEFUptsBUk",
-      "viewsPerHour": 878,
+      "viewsPerHour": 794,
       "views": 16646,
-      "ageHours": 19
+      "ageHours": 21
     },
     {
       "title": "David Byrne explores the art of rediscovery in 'Sleeping Beauties'",
       "channel": "PBS NewsHour",
       "videoId": "BxL3NbIBndk",
-      "viewsPerHour": 861,
+      "viewsPerHour": 770,
       "views": 14590,
-      "ageHours": 16.9
+      "ageHours": 18.9
     },
     {
       "title": "Mamdani keeps winning, click to cancel in full force. I am close to being tired of winning",
       "channel": "Louis Rossmann",
       "videoId": "W1yo7_-bI-o",
-      "viewsPerHour": 818,
+      "viewsPerHour": 745,
       "views": 16555,
-      "ageHours": 20.2
+      "ageHours": 22.2
+    },
+    {
+      "title": "Putin is 'taking advantage': Fmr. Defense Secy. slams Trump cozying up to 'tyrant'",
+      "channel": "MS NOW",
+      "videoId": "8tM8Jk_hHDY",
+      "viewsPerHour": 640,
+      "views": 1037,
+      "ageHours": 1.6
     },
     {
       "title": "Conan & Taylor Tomlinson Meet A Flavor Scientist | Conan O'Brien Needs A Fan",
       "channel": "Conan O'Brien",
       "videoId": "kCjhBG1DziY",
-      "viewsPerHour": 557,
+      "viewsPerHour": 520,
       "views": 15771,
-      "ageHours": 28.3
+      "ageHours": 30.3
     },
     {
       "title": "Faked Death or Real Tragedy? Inside North America's Biggest Ponzi Scheme",
       "channel": "Real Stories",
       "videoId": "iWrtY2DKrjI",
-      "viewsPerHour": 432,
-      "views": 10073,
-      "ageHours": 23.3
+      "viewsPerHour": 408,
+      "views": 10321,
+      "ageHours": 25.3
     },
     {
       "title": "PBS News Hour live episode, Oct. 15, 2026",
       "channel": "PBS NewsHour",
       "videoId": "_Gg-yXlhiuo",
-      "viewsPerHour": 283,
+      "viewsPerHour": 256,
       "views": 5349,
-      "ageHours": 18.9
+      "ageHours": 20.9
     },
     {
       "title": "19 days to midterms: DOJ sues California, Trump STILL pinning inflation on Biden | MS NOW Highlights",
       "channel": "MS NOW",
       "videoId": "2_cpFKYWmJo",
-      "viewsPerHour": 283,
+      "viewsPerHour": 210,
       "views": 1650,
-      "ageHours": 5.8
+      "ageHours": 7.8
     },
     {
-      "title": "WATCH LIVE: DOJ and Missouri Sen. Schmitt hold news conference on violent crime reduction",
-      "channel": "PBS NewsHour",
-      "videoId": "IB2CZACEkQo",
-      "viewsPerHour": 28,
-      "views": 692,
-      "ageHours": 24.6
+      "title": "Mason Jenkins Most Shocking Confessions",
+      "channel": "Real Stories",
+      "videoId": "SpYb10E06cc",
+      "viewsPerHour": 201,
+      "views": 464,
+      "ageHours": 2.3
     },
     {
       "title": "Rob Delaney Sued Kim Kardashian | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "gTwVnnrJZhg",
-      "viewsPerHour": 25,
+      "viewsPerHour": 23,
       "views": 625,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
       "title": "News Wrap: Trump says Fort Hood shooter's execution will not be livestreamed",
@@ -674,15 +754,7 @@
       "videoId": "sdv7LU25xAU",
       "viewsPerHour": 6,
       "views": 108,
-      "ageHours": 17.6
-    },
-    {
-      "title": "WATCH LIVE: Texas Reps. Casar and Fletcher hold forum on shootings by federal immigration agents",
-      "channel": "PBS NewsHour",
-      "videoId": "rghgnzDifp8",
-      "viewsPerHour": 6,
-      "views": 146,
-      "ageHours": 26
+      "ageHours": 19.6
     },
     {
       "title": "Pennsylvania doctor urges vaccination as measles outbreak grows",
@@ -690,7 +762,15 @@
       "videoId": "dQAWem3Bh5k",
       "viewsPerHour": 0,
       "views": 2,
-      "ageHours": 17.5
+      "ageHours": 19.5
+    },
+    {
+      "title": "WATCH LIVE: Attorney General Blanche joins GOP gubernatorial candidate Blackburn for Memphis event",
+      "channel": "PBS NewsHour",
+      "videoId": "F0NH7c4099k",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 2.5
     }
   ]
 }
