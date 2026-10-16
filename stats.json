@@ -1,12 +1,12 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
-      "count": 5
+      "channel": "MS NOW",
+      "count": 4
     },
     {
-      "channel": "MS NOW",
-      "count": 3
+      "channel": "PBS NewsHour",
+      "count": 8
     },
     {
       "channel": "NOVA",
@@ -83,12 +83,12 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "PBS NewsHour",
-      "count": 5
+      "keyword": "MS NOW",
+      "count": 4
     },
     {
-      "keyword": "MS NOW",
-      "count": 3
+      "keyword": "PBS NewsHour",
+      "count": 8
     },
     {
       "keyword": "NOVA",
@@ -221,8 +221,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-10-16",
+      "videos": 2
+    },
+    {
       "date": "2026-10-15",
-      "videos": 15
+      "videos": 17
     },
     {
       "date": "2026-10-14",
@@ -451,12 +455,12 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
-      "matches": 5
+      "keyword": "MS NOW",
+      "matches": 4
     },
     {
-      "keyword": "MS NOW",
-      "matches": 3
+      "keyword": "PBS NewsHour",
+      "matches": 8
     },
     {
       "keyword": "NOVA",
@@ -492,7 +496,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "UFO, AI, artificial intelligence",
@@ -524,145 +528,169 @@
       "title": "Jon Stewart & The News Team Recap the Endless War in Iran Pt. 1 | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "PzoYmikU10o",
-      "viewsPerHour": 44141,
-      "views": 1958804,
-      "ageHours": 44.4
+      "viewsPerHour": 42587,
+      "views": 1975157,
+      "ageHours": 46.4
     },
     {
       "title": "No.1 Neuroscientist Reveals How To Unlock Superhuman Focus & Perfect Memory! - Dr. Sahar Yousef",
       "channel": "Diary of a CEO",
       "videoId": "yePLuwL3FbM",
-      "viewsPerHour": 34776,
-      "views": 948734,
-      "ageHours": 27.3
+      "viewsPerHour": 33534,
+      "views": 982011,
+      "ageHours": 29.3
+    },
+    {
+      "title": "PBS News Hour full episode, Oct. 15, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "1_aIDEAqqbU",
+      "viewsPerHour": 11431,
+      "views": 145203,
+      "ageHours": 12.7
     },
     {
       "title": "The Right Way To Open A Shaken Soda Can",
       "channel": "The Rest Is Science",
       "videoId": "OZRc1ydXMiA",
-      "viewsPerHour": 9092,
-      "views": 320067,
-      "ageHours": 35.2
+      "viewsPerHour": 8741,
+      "views": 325241,
+      "ageHours": 37.2
     },
     {
       "title": "Anthropic Wanted To Slow The AI Space Race. Then It Filed for a $2 Trillion IPO.",
       "channel": "More Perfect Union",
       "videoId": "1bp12w_olDQ",
-      "viewsPerHour": 8652,
-      "views": 337577,
-      "ageHours": 39
+      "viewsPerHour": 8394,
+      "views": 344312,
+      "ageHours": 41
     },
     {
       "title": "Self-Healing Ceramic Found on Ranch | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "DWOqqaIbuaE",
-      "viewsPerHour": 6715,
-      "views": 122793,
-      "ageHours": 18.3
+      "viewsPerHour": 6225,
+      "views": 126309,
+      "ageHours": 20.3
+    },
+    {
+      "title": "GOP PANIC setting in over midterms as Trump begins BLAME game",
+      "channel": "MS NOW",
+      "videoId": "Yrj8XdDKMTo",
+      "viewsPerHour": 5686,
+      "views": 12550,
+      "ageHours": 2.2
+    },
+    {
+      "title": "Why small colleges are closing and the toll on students and communities",
+      "channel": "PBS NewsHour",
+      "videoId": "-QvCWsDpabs",
+      "viewsPerHour": 4408,
+      "views": 57317,
+      "ageHours": 13
     },
     {
       "title": "He Electrically Shocked 200 Monks. What He Learned Surprised Him | What the Physics?!",
       "channel": "NOVA",
       "videoId": "Scs_Y65Ve2c",
-      "viewsPerHour": 2090,
-      "views": 26820,
-      "ageHours": 12.8
+      "viewsPerHour": 1888,
+      "views": 28016,
+      "ageHours": 14.8
     },
     {
       "title": "Trump exposed after SECRET documents UNMASK Palantir and billionaires as his ballroom donors",
       "channel": "MS NOW",
       "videoId": "2xpMrneqmOI",
-      "viewsPerHour": 1632,
+      "viewsPerHour": 1399,
       "views": 19616,
-      "ageHours": 12
+      "ageHours": 14
+    },
+    {
+      "title": "David Byrne explores the art of rediscovery in 'Sleeping Beauties'",
+      "channel": "PBS NewsHour",
+      "videoId": "BxL3NbIBndk",
+      "viewsPerHour": 1128,
+      "views": 14590,
+      "ageHours": 12.9
     },
     {
       "title": "LIVE: JD Vance delivers remarks at GOP rally in Michigan as midterm blitz continues",
       "channel": "MS NOW",
       "videoId": "CPEFUptsBUk",
-      "viewsPerHour": 1285,
+      "viewsPerHour": 1113,
       "views": 16646,
-      "ageHours": 13
+      "ageHours": 15
     },
     {
       "title": "Mamdani keeps winning, click to cancel in full force. I am close to being tired of winning",
       "channel": "Louis Rossmann",
       "videoId": "W1yo7_-bI-o",
-      "viewsPerHour": 1165,
+      "viewsPerHour": 1021,
       "views": 16555,
-      "ageHours": 14.2
+      "ageHours": 16.2
+    },
+    {
+      "title": "19 days to midterms: DOJ sues California, Trump STILL pinning inflation on Biden | MS NOW Highlights",
+      "channel": "MS NOW",
+      "videoId": "2_cpFKYWmJo",
+      "viewsPerHour": 902,
+      "views": 1650,
+      "ageHours": 1.8
     },
     {
       "title": "Conan & Taylor Tomlinson Meet A Flavor Scientist | Conan O'Brien Needs A Fan",
       "channel": "Conan O'Brien",
       "videoId": "kCjhBG1DziY",
-      "viewsPerHour": 708,
+      "viewsPerHour": 649,
       "views": 15771,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "Faked Death or Real Tragedy? Inside North America's Biggest Ponzi Scheme",
       "channel": "Real Stories",
       "videoId": "iWrtY2DKrjI",
-      "viewsPerHour": 520,
-      "views": 8986,
-      "ageHours": 17.3
+      "viewsPerHour": 484,
+      "views": 9337,
+      "ageHours": 19.3
     },
     {
       "title": "PBS News Hour live episode, Oct. 15, 2026",
       "channel": "PBS NewsHour",
       "videoId": "_Gg-yXlhiuo",
-      "viewsPerHour": 415,
+      "viewsPerHour": 359,
       "views": 5349,
-      "ageHours": 12.9
+      "ageHours": 14.9
     },
     {
       "title": "This Senate candidate wants to kill click-to-cancel scams, non-competes & repair     monopolies",
       "channel": "Louis Rossmann",
       "videoId": "U6VLML3r4T4",
-      "viewsPerHour": 273,
+      "viewsPerHour": 261,
       "views": 12225,
-      "ageHours": 44.9
-    },
-    {
-      "title": "Jeff Garlin (Full Episode, Part I) | Where Everybody Knows Your Name",
-      "channel": "Conan O'Brien",
-      "videoId": "X7Yc6TscQRQ",
-      "viewsPerHour": 196,
-      "views": 9071,
-      "ageHours": 46.3
-    },
-    {
-      "title": "20 days to midterms: GOP 'fleeing' Trump, Hayes interviews Ossoff in Georgia | MS NOW Highlights",
-      "channel": "MS NOW",
-      "videoId": "q4Spx33oxgw",
-      "viewsPerHour": 110,
-      "views": 2634,
-      "ageHours": 24
+      "ageHours": 46.9
     },
     {
       "title": "WATCH LIVE: DOJ and Missouri Sen. Schmitt hold news conference on violent crime reduction",
       "channel": "PBS NewsHour",
       "videoId": "IB2CZACEkQo",
-      "viewsPerHour": 37,
+      "viewsPerHour": 34,
       "views": 692,
-      "ageHours": 18.6
+      "ageHours": 20.6
     },
     {
       "title": "Rob Delaney Sued Kim Kardashian | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "gTwVnnrJZhg",
-      "viewsPerHour": 32,
+      "viewsPerHour": 29,
       "views": 625,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "News Wrap: Trump says Fort Hood shooter's execution will not be livestreamed",
       "channel": "PBS NewsHour",
       "videoId": "sdv7LU25xAU",
-      "viewsPerHour": 9,
+      "viewsPerHour": 8,
       "views": 108,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "WATCH LIVE: Texas Reps. Casar and Fletcher hold forum on shootings by federal immigration agents",
@@ -670,7 +698,7 @@
       "videoId": "rghgnzDifp8",
       "viewsPerHour": 7,
       "views": 146,
-      "ageHours": 20
+      "ageHours": 22
     },
     {
       "title": "Pennsylvania doctor urges vaccination as measles outbreak grows",
@@ -678,7 +706,7 @@
       "videoId": "dQAWem3Bh5k",
       "viewsPerHour": 0,
       "views": 2,
-      "ageHours": 11.5
+      "ageHours": 13.5
     }
   ]
 }
