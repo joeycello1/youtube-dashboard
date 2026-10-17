@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "PBS NewsHour",
-      "count": 7
+      "count": 4
     },
     {
       "channel": "MS NOW",
@@ -84,7 +84,7 @@
   "keywordFrequency": [
     {
       "keyword": "PBS NewsHour",
-      "count": 7
+      "count": 4
     },
     {
       "keyword": "MS NOW",
@@ -234,7 +234,7 @@
     },
     {
       "date": "2026-10-15",
-      "videos": 10
+      "videos": 7
     },
     {
       "date": "2026-10-14",
@@ -460,7 +460,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "PBS NewsHour",
-      "matches": 7
+      "matches": 4
     },
     {
       "keyword": "MS NOW",
@@ -540,217 +540,193 @@
       "title": "Jon Stewart & The News Team Recap the Endless War in Iran Pt. 2 | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "bPWOLXXHMlo",
-      "viewsPerHour": 32554,
+      "viewsPerHour": 28789,
       "views": 497619,
-      "ageHours": 15.3
+      "ageHours": 17.3
     },
     {
       "title": "No.1 Neuroscientist Reveals How To Unlock Superhuman Focus & Perfect Memory! - Dr. Sahar Yousef",
       "channel": "Diary of a CEO",
       "videoId": "yePLuwL3FbM",
-      "viewsPerHour": 26021,
+      "viewsPerHour": 24921,
       "views": 1178367,
-      "ageHours": 45.3
+      "ageHours": 47.3
     },
     {
       "title": "This Town Signed A Contract With Flock. Then They Uncovered Who Was Really Watching.",
       "channel": "More Perfect Union",
       "videoId": "o97GzV0WX9I",
-      "viewsPerHour": 12758,
+      "viewsPerHour": 11268,
       "views": 192862,
-      "ageHours": 15.1
+      "ageHours": 17.1
     },
     {
       "title": "Child like Alien Bodies Found inside UFO - Scott & Suzanne Ramsey | Flying Saucer Diner",
       "channel": "Area 52",
       "videoId": "30aMHBQ1Avs",
-      "viewsPerHour": 6627,
+      "viewsPerHour": 5700,
       "views": 81472,
-      "ageHours": 12.3
-    },
-    {
-      "title": "PBS News Hour full episode, Oct. 15, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "1_aIDEAqqbU",
-      "viewsPerHour": 5059,
-      "views": 145203,
-      "ageHours": 28.7
-    },
-    {
-      "title": "Are We Alone? The Search for Alien Life (Full Episode) | UFOs: Investigating the Unknown | Nat Geo",
-      "channel": "Nat Geo",
-      "videoId": "UX41GAy_tFc",
-      "viewsPerHour": 4289,
-      "views": 65600,
-      "ageHours": 15.3
+      "ageHours": 14.3
     },
     {
       "title": "Self-Healing Ceramic Found on Ranch | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "DWOqqaIbuaE",
-      "viewsPerHour": 4116,
+      "viewsPerHour": 3901,
       "views": 149366,
-      "ageHours": 36.3
+      "ageHours": 38.3
+    },
+    {
+      "title": "Are We Alone? The Search for Alien Life (Full Episode) | UFOs: Investigating the Unknown | Nat Geo",
+      "channel": "Nat Geo",
+      "videoId": "UX41GAy_tFc",
+      "viewsPerHour": 3793,
+      "views": 65600,
+      "ageHours": 17.3
     },
     {
       "title": "Evidence of Money Pit Shaft | The Curse of Oak Island",
       "channel": "History",
       "videoId": "Z6O-4qCe1HA",
-      "viewsPerHour": 3538,
+      "viewsPerHour": 3043,
       "views": 43468,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "I CANNOT believe this is happening': Nicolle on Hegseth forcing his WEIRD OBSESSION onto military",
       "channel": "MS NOW",
       "videoId": "Ps8rSRdXHCs",
-      "viewsPerHour": 3369,
+      "viewsPerHour": 2515,
       "views": 19832,
-      "ageHours": 5.9
-    },
-    {
-      "title": "Why small colleges are closing and the toll on students and communities",
-      "channel": "PBS NewsHour",
-      "videoId": "-QvCWsDpabs",
-      "viewsPerHour": 1976,
-      "views": 57317,
-      "ageHours": 29
+      "ageHours": 7.9
     },
     {
       "title": "LIVE: Oregon officials hold press conference on elementary school shooting",
       "channel": "MS NOW",
       "videoId": "mBkpy1T-q-w",
-      "viewsPerHour": 1962,
+      "viewsPerHour": 1507,
       "views": 12989,
-      "ageHours": 6.6
+      "ageHours": 8.6
     },
     {
       "title": "Conan Sings His Version Of Oasis' \"Champagne Supernova\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "_PBBNidgvdM",
-      "viewsPerHour": 1345,
+      "viewsPerHour": 1198,
       "views": 21916,
-      "ageHours": 16.3
+      "ageHours": 18.3
     },
     {
       "title": "He Electrically Shocked 200 Monks. What He Learned Surprised Him | What the Physics?!",
       "channel": "NOVA",
       "videoId": "Scs_Y65Ve2c",
-      "viewsPerHour": 1054,
+      "viewsPerHour": 990,
       "views": 32504,
-      "ageHours": 30.8
+      "ageHours": 32.8
     },
     {
       "title": "From \"It Follows\" to \"Child's Play\": The Best (and Worst) of Supernatural Horror | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "QDAqvMBL9I4",
-      "viewsPerHour": 945,
+      "viewsPerHour": 778,
       "views": 8780,
-      "ageHours": 9.3
-    },
-    {
-      "title": "PBS News Hour live episode, Oct. 16, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "rhJld-3ThMs",
-      "viewsPerHour": 693,
-      "views": 5364,
-      "ageHours": 7.7
+      "ageHours": 11.3
     },
     {
       "title": "GOP PANIC setting in over midterms as Trump begins BLAME game",
       "channel": "MS NOW",
       "videoId": "Yrj8XdDKMTo",
-      "viewsPerHour": 689,
+      "viewsPerHour": 621,
       "views": 12550,
-      "ageHours": 18.2
+      "ageHours": 20.2
+    },
+    {
+      "title": "PBS News Hour live episode, Oct. 16, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "rhJld-3ThMs",
+      "viewsPerHour": 551,
+      "views": 5364,
+      "ageHours": 9.7
     },
     {
       "title": "Mamdani keeps winning, click to cancel in full force. I am close to being tired of winning",
       "channel": "Louis Rossmann",
       "videoId": "W1yo7_-bI-o",
-      "viewsPerHour": 514,
+      "viewsPerHour": 484,
       "views": 16555,
-      "ageHours": 32.2
-    },
-    {
-      "title": "David Byrne explores the art of rediscovery in 'Sleeping Beauties'",
-      "channel": "PBS NewsHour",
-      "videoId": "BxL3NbIBndk",
-      "viewsPerHour": 504,
-      "views": 14590,
-      "ageHours": 28.9
+      "ageHours": 34.2
     },
     {
       "title": "Conan & Taylor Tomlinson Meet A Flavor Scientist | Conan O'Brien Needs A Fan",
       "channel": "Conan O'Brien",
       "videoId": "kCjhBG1DziY",
-      "viewsPerHour": 391,
+      "viewsPerHour": 373,
       "views": 15771,
-      "ageHours": 40.3
+      "ageHours": 42.3
     },
     {
       "title": "Mason Jenkins Most Shocking Confessions",
       "channel": "Real Stories",
       "videoId": "SpYb10E06cc",
-      "viewsPerHour": 344,
+      "viewsPerHour": 296,
       "views": 4230,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "Faked Death or Real Tragedy? Inside North America's Biggest Ponzi Scheme",
       "channel": "Real Stories",
       "videoId": "iWrtY2DKrjI",
-      "viewsPerHour": 310,
+      "viewsPerHour": 293,
       "views": 10926,
-      "ageHours": 35.3
+      "ageHours": 37.3
     },
     {
       "title": "Susie Wiles 'blindsided' about Trump's new WH press secretary pick, wasn't consulted: Lemire",
       "channel": "MS NOW",
       "videoId": "q0IIOr8Ot_I",
-      "viewsPerHour": 257,
+      "viewsPerHour": 220,
       "views": 2991,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "Examining the controversial claims Trump is making at his midterm rallies",
       "channel": "PBS NewsHour",
       "videoId": "_kr3dLwWk1c",
-      "viewsPerHour": 121,
+      "viewsPerHour": 90,
       "views": 695,
-      "ageHours": 5.8
+      "ageHours": 7.8
     },
     {
       "title": "19 days to midterms: DOJ sues California, Trump STILL pinning inflation on Biden | MS NOW Highlights",
       "channel": "MS NOW",
       "videoId": "2_cpFKYWmJo",
-      "viewsPerHour": 93,
+      "viewsPerHour": 83,
       "views": 1650,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "Putin is 'taking advantage': Fmr. Defense Secy. slams Trump cozying up to 'tyrant'",
       "channel": "MS NOW",
       "videoId": "8tM8Jk_hHDY",
-      "viewsPerHour": 89,
+      "viewsPerHour": 76,
       "views": 1037,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "How Alaska became a key battleground in the fight for the Senate",
       "channel": "PBS NewsHour",
       "videoId": "lJICdlgB8Uk",
-      "viewsPerHour": 23,
+      "viewsPerHour": 17,
       "views": 132,
-      "ageHours": 5.7
+      "ageHours": 7.7
     },
     {
       "title": "Rob Delaney Sued Kim Kardashian | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "gTwVnnrJZhg",
-      "viewsPerHour": 17,
+      "viewsPerHour": 16,
       "views": 625,
-      "ageHours": 37.3
+      "ageHours": 39.3
     },
     {
       "title": "WATCH LIVE: Attorney General Blanche joins GOP gubernatorial candidate Blackburn for Memphis event",
@@ -758,7 +734,7 @@
       "videoId": "F0NH7c4099k",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 12.5
+      "ageHours": 14.5
     }
   ]
 }
