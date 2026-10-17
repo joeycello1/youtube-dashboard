@@ -1,12 +1,20 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
-      "count": 4
+      "channel": "The Interview",
+      "count": 8
     },
     {
       "channel": "MS NOW",
-      "count": 6
+      "count": 7
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 11
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 5
     },
     {
       "channel": "Conan O'Brien",
@@ -41,10 +49,6 @@
       "count": 23
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 10
-    },
-    {
       "channel": "Diary of a CEO",
       "count": 3
     },
@@ -65,10 +69,6 @@
       "count": 6
     },
     {
-      "channel": "The Interview",
-      "count": 7
-    },
-    {
       "channel": "Chris Lehto",
       "count": 5
     },
@@ -83,11 +83,19 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "PBS NewsHour",
-      "count": 4
+      "keyword": "The Interview",
+      "count": 7
     },
     {
       "keyword": "MS NOW",
+      "count": 6
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 10
+    },
+    {
+      "keyword": "PBS NewsHour",
       "count": 5
     },
     {
@@ -123,10 +131,6 @@
       "count": 44
     },
     {
-      "keyword": "Louis Rossmann",
-      "count": 9
-    },
-    {
       "keyword": "AI",
       "count": 8
     },
@@ -153,10 +157,6 @@
     {
       "keyword": "The Daily Show, AI",
       "count": 1
-    },
-    {
-      "keyword": "The Interview",
-      "count": 6
     },
     {
       "keyword": "AI, whistleblower",
@@ -229,8 +229,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-10-17",
+      "videos": 5
+    },
+    {
       "date": "2026-10-16",
-      "videos": 18
+      "videos": 17
     },
     {
       "date": "2026-10-15",
@@ -459,11 +463,19 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
-      "matches": 4
+      "keyword": "The Interview",
+      "matches": 2
     },
     {
       "keyword": "MS NOW",
+      "matches": 6
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 6
+    },
+    {
+      "keyword": "PBS NewsHour",
       "matches": 5
     },
     {
@@ -499,10 +511,6 @@
       "matches": 7
     },
     {
-      "keyword": "Louis Rossmann",
-      "matches": 5
-    },
-    {
       "keyword": "AI",
       "matches": 2
     },
@@ -529,10 +537,6 @@
     {
       "keyword": "The Daily Show, AI",
       "matches": 1
-    },
-    {
-      "keyword": "The Interview",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -540,169 +544,193 @@
       "title": "Jon Stewart & The News Team Recap the Endless War in Iran Pt. 2 | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "bPWOLXXHMlo",
-      "viewsPerHour": 38383,
-      "views": 817010,
-      "ageHours": 21.3
+      "viewsPerHour": 36223,
+      "views": 843393,
+      "ageHours": 23.3
+    },
+    {
+      "title": "‘Most corrupt administration in American history’: A guide to Trump's presidential self-dealing",
+      "channel": "MS NOW",
+      "videoId": "E4XgQ_dpQik",
+      "viewsPerHour": 19878,
+      "views": 153915,
+      "ageHours": 7.7
     },
     {
       "title": "This Town Signed A Contract With Flock. Then They Uncovered Who Was Really Watching.",
       "channel": "More Perfect Union",
       "videoId": "o97GzV0WX9I",
-      "viewsPerHour": 15381,
-      "views": 324784,
-      "ageHours": 21.1
+      "viewsPerHour": 14626,
+      "views": 338069,
+      "ageHours": 23.1
     },
     {
       "title": "Child like Alien Bodies Found inside UFO - Scott & Suzanne Ramsey | Flying Saucer Diner",
       "channel": "Area 52",
       "videoId": "30aMHBQ1Avs",
-      "viewsPerHour": 10652,
-      "views": 194866,
-      "ageHours": 18.3
+      "viewsPerHour": 9993,
+      "views": 202770,
+      "ageHours": 20.3
     },
     {
       "title": "Are We Alone? The Search for Alien Life (Full Episode) | UFOs: Investigating the Unknown | Nat Geo",
       "channel": "Nat Geo",
       "videoId": "UX41GAy_tFc",
-      "viewsPerHour": 7344,
-      "views": 156382,
-      "ageHours": 21.3
+      "viewsPerHour": 7159,
+      "views": 166764,
+      "ageHours": 23.3
+    },
+    {
+      "title": "Turning Micron's fine print against them; how to get the warranty memory companies OWE YOU!",
+      "channel": "Louis Rossmann",
+      "videoId": "Y-YNh5mV3J0",
+      "viewsPerHour": 5798,
+      "views": 64264,
+      "ageHours": 11.1
+    },
+    {
+      "title": "Trump, Musk play blame game as U.S. helps Putin again",
+      "channel": "MS NOW",
+      "videoId": "E6BD3xsqQlE",
+      "viewsPerHour": 5393,
+      "views": 42669,
+      "ageHours": 7.9
     },
     {
       "title": "Evidence of Money Pit Shaft | The Curse of Oak Island",
       "channel": "History",
       "videoId": "Z6O-4qCe1HA",
-      "viewsPerHour": 4960,
-      "views": 90695,
-      "ageHours": 18.3
+      "viewsPerHour": 4659,
+      "views": 94509,
+      "ageHours": 20.3
     },
     {
       "title": "Self-Healing Ceramic Found on Ranch | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "DWOqqaIbuaE",
-      "viewsPerHour": 3840,
-      "views": 162399,
-      "ageHours": 42.3
+      "viewsPerHour": 3697,
+      "views": 163734,
+      "ageHours": 44.3
+    },
+    {
+      "title": "The Last Word with Lawrence O'Donnell - Oct. 16 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "xP6G9wgTyfM",
+      "viewsPerHour": 3360,
+      "views": 25407,
+      "ageHours": 7.6
+    },
+    {
+      "title": "‘Bands Are Weird Things’: Bono and the Edge on 50 Years of U2 and Each Other | The Interview",
+      "channel": "The Interview",
+      "videoId": "Wu920WiZyjo",
+      "viewsPerHour": 1667,
+      "views": 5481,
+      "ageHours": 3.3
+    },
+    {
+      "title": "The mystery of Havana Syndrome and claims of a government cover-up",
+      "channel": "PBS NewsHour",
+      "videoId": "_El5EwhSRuk",
+      "viewsPerHour": 1501,
+      "views": 19251,
+      "ageHours": 12.8
     },
     {
       "title": "I CANNOT believe this is happening': Nicolle on Hegseth forcing his WEIRD OBSESSION onto military",
       "channel": "MS NOW",
       "videoId": "Ps8rSRdXHCs",
-      "viewsPerHour": 1669,
+      "viewsPerHour": 1428,
       "views": 19832,
-      "ageHours": 11.9
+      "ageHours": 13.9
     },
     {
       "title": "He Electrically Shocked 200 Monks. What He Learned Surprised Him | What the Physics?!",
       "channel": "NOVA",
       "videoId": "Scs_Y65Ve2c",
-      "viewsPerHour": 1044,
-      "views": 38457,
-      "ageHours": 36.8
-    },
-    {
-      "title": "LIVE: Oregon officials hold press conference on elementary school shooting",
-      "channel": "MS NOW",
-      "videoId": "mBkpy1T-q-w",
-      "viewsPerHour": 1029,
-      "views": 12989,
-      "ageHours": 12.6
+      "viewsPerHour": 995,
+      "views": 38656,
+      "ageHours": 38.8
     },
     {
       "title": "Conan Sings His Version Of Oasis' \"Champagne Supernova\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "_PBBNidgvdM",
-      "viewsPerHour": 983,
+      "viewsPerHour": 902,
       "views": 21916,
-      "ageHours": 22.3
+      "ageHours": 24.3
+    },
+    {
+      "title": "LIVE: Oregon officials hold press conference on elementary school shooting",
+      "channel": "MS NOW",
+      "videoId": "mBkpy1T-q-w",
+      "viewsPerHour": 889,
+      "views": 12989,
+      "ageHours": 14.6
     },
     {
       "title": "From \"It Follows\" to \"Child's Play\": The Best (and Worst) of Supernatural Horror | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "QDAqvMBL9I4",
-      "viewsPerHour": 574,
+      "viewsPerHour": 508,
       "views": 8780,
-      "ageHours": 15.3
-    },
-    {
-      "title": "GOP PANIC setting in over midterms as Trump begins BLAME game",
-      "channel": "MS NOW",
-      "videoId": "Yrj8XdDKMTo",
-      "viewsPerHour": 518,
-      "views": 12550,
-      "ageHours": 24.2
+      "ageHours": 17.3
     },
     {
       "title": "Mamdani keeps winning, click to cancel in full force. I am close to being tired of winning",
       "channel": "Louis Rossmann",
       "videoId": "W1yo7_-bI-o",
-      "viewsPerHour": 433,
+      "viewsPerHour": 412,
       "views": 16555,
-      "ageHours": 38.2
+      "ageHours": 40.2
     },
     {
       "title": "Mason Jenkins Most Shocking Confessions",
       "channel": "Real Stories",
       "videoId": "SpYb10E06cc",
-      "viewsPerHour": 419,
-      "views": 7673,
-      "ageHours": 18.3
+      "viewsPerHour": 392,
+      "views": 7957,
+      "ageHours": 20.3
     },
     {
       "title": "PBS News Hour live episode, Oct. 16, 2026",
       "channel": "PBS NewsHour",
       "videoId": "rhJld-3ThMs",
-      "viewsPerHour": 391,
-      "views": 5364,
-      "ageHours": 13.7
-    },
-    {
-      "title": "Conan & Taylor Tomlinson Meet A Flavor Scientist | Conan O'Brien Needs A Fan",
-      "channel": "Conan O'Brien",
-      "videoId": "kCjhBG1DziY",
       "viewsPerHour": 341,
-      "views": 15771,
-      "ageHours": 46.3
+      "views": 5364,
+      "ageHours": 15.7
     },
     {
       "title": "Faked Death or Real Tragedy? Inside North America's Biggest Ponzi Scheme",
       "channel": "Real Stories",
       "videoId": "iWrtY2DKrjI",
-      "viewsPerHour": 294,
-      "views": 12158,
-      "ageHours": 41.3
+      "viewsPerHour": 283,
+      "views": 12263,
+      "ageHours": 43.3
     },
     {
       "title": "Susie Wiles 'blindsided' about Trump's new WH press secretary pick, wasn't consulted: Lemire",
       "channel": "MS NOW",
       "videoId": "q0IIOr8Ot_I",
-      "viewsPerHour": 170,
+      "viewsPerHour": 152,
       "views": 2991,
-      "ageHours": 17.6
-    },
-    {
-      "title": "19 days to midterms: DOJ sues California, Trump STILL pinning inflation on Biden | MS NOW Highlights",
-      "channel": "MS NOW",
-      "videoId": "2_cpFKYWmJo",
-      "viewsPerHour": 69,
-      "views": 1650,
-      "ageHours": 23.8
-    },
-    {
-      "title": "Examining the controversial claims Trump is making at his midterm rallies",
-      "channel": "PBS NewsHour",
-      "videoId": "_kr3dLwWk1c",
-      "viewsPerHour": 59,
-      "views": 695,
-      "ageHours": 11.8
+      "ageHours": 19.6
     },
     {
       "title": "Putin is 'taking advantage': Fmr. Defense Secy. slams Trump cozying up to 'tyrant'",
       "channel": "MS NOW",
       "videoId": "8tM8Jk_hHDY",
-      "viewsPerHour": 59,
+      "viewsPerHour": 53,
       "views": 1037,
-      "ageHours": 17.6
+      "ageHours": 19.6
+    },
+    {
+      "title": "Examining the controversial claims Trump is making at his midterm rallies",
+      "channel": "PBS NewsHour",
+      "videoId": "_kr3dLwWk1c",
+      "viewsPerHour": 51,
+      "views": 695,
+      "ageHours": 13.8
     },
     {
       "title": "Rob Delaney Sued Kim Kardashian | CONAN on TBS",
@@ -710,15 +738,15 @@
       "videoId": "gTwVnnrJZhg",
       "viewsPerHour": 14,
       "views": 625,
-      "ageHours": 43.3
+      "ageHours": 45.3
     },
     {
       "title": "How Alaska became a key battleground in the fight for the Senate",
       "channel": "PBS NewsHour",
       "videoId": "lJICdlgB8Uk",
-      "viewsPerHour": 11,
+      "viewsPerHour": 10,
       "views": 132,
-      "ageHours": 11.7
+      "ageHours": 13.7
     },
     {
       "title": "WATCH LIVE: Attorney General Blanche joins GOP gubernatorial candidate Blackburn for Memphis event",
@@ -726,7 +754,7 @@
       "videoId": "F0NH7c4099k",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 18.5
+      "ageHours": 20.5
     }
   ]
 }
