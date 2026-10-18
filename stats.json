@@ -5,8 +5,16 @@
       "count": 6
     },
     {
+      "channel": "History",
+      "count": 55
+    },
+    {
+      "channel": "Chris Lehto",
+      "count": 6
+    },
+    {
       "channel": "Real Stories",
-      "count": 47
+      "count": 46
     },
     {
       "channel": "Louis Rossmann",
@@ -22,15 +30,11 @@
     },
     {
       "channel": "PBS NewsHour",
-      "count": 4
+      "count": 1
     },
     {
       "channel": "Conan O'Brien",
       "count": 12
-    },
-    {
-      "channel": "History",
-      "count": 54
     },
     {
       "channel": "Area 52",
@@ -69,10 +73,6 @@
       "count": 6
     },
     {
-      "channel": "Chris Lehto",
-      "count": 5
-    },
-    {
       "channel": "Jeremy Corbell",
       "count": 6
     },
@@ -87,8 +87,16 @@
       "count": 6
     },
     {
+      "keyword": "NOVA",
+      "count": 35
+    },
+    {
+      "keyword": "UAP",
+      "count": 3
+    },
+    {
       "keyword": "Real Stories",
-      "count": 45
+      "count": 44
     },
     {
       "keyword": "Louis Rossmann",
@@ -104,15 +112,11 @@
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 4
+      "count": 1
     },
     {
       "keyword": "Conan O'Brien",
       "count": 12
-    },
-    {
-      "keyword": "NOVA",
-      "count": 34
     },
     {
       "keyword": "UFO, testimony",
@@ -199,10 +203,6 @@
       "count": 1
     },
     {
-      "keyword": "UAP",
-      "count": 2
-    },
-    {
       "keyword": "whistleblower",
       "count": 1
     },
@@ -226,11 +226,11 @@
   "dailySummary": [
     {
       "date": "2026-10-17",
-      "videos": 9
+      "videos": 13
     },
     {
       "date": "2026-10-16",
-      "videos": 14
+      "videos": 9
     },
     {
       "date": "2026-10-15",
@@ -449,10 +449,6 @@
       "videos": 6
     },
     {
-      "date": "2026-08-18",
-      "videos": 1
-    },
-    {
       "date": "2026-08-15",
       "videos": 1
     }
@@ -461,6 +457,14 @@
     {
       "keyword": "MS NOW",
       "matches": 6
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 5
+    },
+    {
+      "keyword": "UAP",
+      "matches": 1
     },
     {
       "keyword": "Real Stories",
@@ -480,15 +484,11 @@
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 4
+      "matches": 1
     },
     {
       "keyword": "Conan O'Brien",
       "matches": 8
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 4
     },
     {
       "keyword": "UFO, testimony",
@@ -532,185 +532,177 @@
       "title": "Jon Stewart and The News Team Tackle the 2026 Midterm Candidates | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "yAGGkDvbjAs",
-      "viewsPerHour": 91205,
-      "views": 846799,
-      "ageHours": 9.3
+      "viewsPerHour": 92580,
+      "views": 1045795,
+      "ageHours": 11.3
     },
     {
       "title": "Jon Stewart & The News Team Recap the Endless War in Iran Pt. 2 | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "bPWOLXXHMlo",
-      "viewsPerHour": 28421,
-      "views": 945783,
-      "ageHours": 33.3
+      "viewsPerHour": 27237,
+      "views": 961167,
+      "ageHours": 35.3
     },
     {
       "title": "This Town Signed A Contract With Flock. Then They Uncovered Who Was Really Watching.",
       "channel": "More Perfect Union",
       "videoId": "o97GzV0WX9I",
-      "viewsPerHour": 16978,
-      "views": 562105,
-      "ageHours": 33.1
+      "viewsPerHour": 16662,
+      "views": 585149,
+      "ageHours": 35.1
     },
     {
       "title": "‘Most corrupt administration in American history’: A guide to Trump's presidential self-dealing",
       "channel": "MS NOW",
       "videoId": "E4XgQ_dpQik",
-      "viewsPerHour": 8678,
+      "viewsPerHour": 7794,
       "views": 153915,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "Child like Alien Bodies Found inside UFO - Scott & Suzanne Ramsey | Flying Saucer Diner",
       "channel": "Area 52",
       "videoId": "30aMHBQ1Avs",
-      "viewsPerHour": 7815,
-      "views": 236690,
-      "ageHours": 30.3
+      "viewsPerHour": 7532,
+      "views": 243257,
+      "ageHours": 32.3
     },
     {
       "title": "Are We Alone? The Search for Alien Life (Full Episode) | UFOs: Investigating the Unknown | Nat Geo",
       "channel": "Nat Geo",
       "videoId": "UX41GAy_tFc",
-      "viewsPerHour": 6798,
-      "views": 226271,
-      "ageHours": 33.3
+      "viewsPerHour": 6781,
+      "views": 239352,
+      "ageHours": 35.3
     },
     {
       "title": "‘Bands Are Weird Things’: Bono and the Edge on 50 Years of U2 and Each Other | The Interview",
       "channel": "The Interview",
       "videoId": "Wu920WiZyjo",
-      "viewsPerHour": 5417,
-      "views": 71949,
-      "ageHours": 13.3
+      "viewsPerHour": 5391,
+      "views": 82454,
+      "ageHours": 15.3
     },
     {
       "title": "Evidence of Money Pit Shaft | The Curse of Oak Island",
       "channel": "History",
       "videoId": "Z6O-4qCe1HA",
-      "viewsPerHour": 4160,
-      "views": 125951,
-      "ageHours": 30.3
+      "viewsPerHour": 4051,
+      "views": 130806,
+      "ageHours": 32.3
     },
     {
       "title": "Turning Micron's fine print against them; how to get the warranty memory companies OWE YOU!",
       "channel": "Louis Rossmann",
       "videoId": "Y-YNh5mV3J0",
-      "viewsPerHour": 3049,
+      "viewsPerHour": 2783,
       "views": 64264,
-      "ageHours": 21.1
+      "ageHours": 23.1
     },
     {
       "title": "Trump, Musk play blame game as U.S. helps Putin again",
       "channel": "MS NOW",
       "videoId": "E6BD3xsqQlE",
-      "viewsPerHour": 2383,
+      "viewsPerHour": 2142,
       "views": 42669,
-      "ageHours": 17.9
+      "ageHours": 19.9
+    },
+    {
+      "title": "Entrance to Buried Treasure? | The Curse of Oak Island (S4, E2) | Full Episode",
+      "channel": "History",
+      "videoId": "jPV9KsCdWaE",
+      "viewsPerHour": 1507,
+      "views": 3451,
+      "ageHours": 2.3
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Oct. 16 | Audio Only",
       "channel": "MS NOW",
       "videoId": "xP6G9wgTyfM",
-      "viewsPerHour": 1447,
+      "viewsPerHour": 1298,
       "views": 25407,
-      "ageHours": 17.6
+      "ageHours": 19.6
+    },
+    {
+      "title": "I investigated Chemtrails. The Government DID Spray Us, but…",
+      "channel": "Chris Lehto",
+      "videoId": "nd270c7TDfQ",
+      "viewsPerHour": 1004,
+      "views": 5310,
+      "ageHours": 5.3
     },
     {
       "title": "Skyscraper Jails and COVID: Chinatown's Biggest Fight For Survival",
       "channel": "Real Stories",
       "videoId": "kOqMTU_zByM",
-      "viewsPerHour": 885,
-      "views": 5560,
-      "ageHours": 6.3
+      "viewsPerHour": 802,
+      "views": 6653,
+      "ageHours": 8.3
     },
     {
       "title": "The mystery of Havana Syndrome and claims of a government cover-up",
       "channel": "PBS NewsHour",
       "videoId": "_El5EwhSRuk",
-      "viewsPerHour": 844,
+      "viewsPerHour": 775,
       "views": 19251,
-      "ageHours": 22.8
-    },
-    {
-      "title": "I CANNOT believe this is happening': Nicolle on Hegseth forcing his WEIRD OBSESSION onto military",
-      "channel": "MS NOW",
-      "videoId": "Ps8rSRdXHCs",
-      "viewsPerHour": 831,
-      "views": 19832,
-      "ageHours": 23.9
-    },
-    {
-      "title": "Rossmann Repair chief technician interviewed at Acelab Techweek conference",
-      "channel": "Louis Rossmann",
-      "videoId": "Vq8P2jupXvA",
-      "viewsPerHour": 698,
-      "views": 6028,
-      "ageHours": 8.6
+      "ageHours": 24.8
     },
     {
       "title": "Conan Sings His Version Of Oasis' \"Champagne Supernova\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "_PBBNidgvdM",
-      "viewsPerHour": 639,
+      "viewsPerHour": 604,
       "views": 21916,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
-      "title": "LIVE: Oregon officials hold press conference on elementary school shooting",
+      "title": "Rossmann Repair chief technician interviewed at Acelab Techweek conference",
+      "channel": "Louis Rossmann",
+      "videoId": "Vq8P2jupXvA",
+      "viewsPerHour": 566,
+      "views": 6028,
+      "ageHours": 10.6
+    },
+    {
+      "title": "“GROW SOME B****”: Actor F. Murray Abraham slams the GOP Congress and urges people to vote",
       "channel": "MS NOW",
-      "videoId": "mBkpy1T-q-w",
+      "videoId": "tTLWH2dm87I",
       "viewsPerHour": 528,
-      "views": 12989,
-      "ageHours": 24.6
+      "views": 939,
+      "ageHours": 1.8
     },
     {
       "title": "From \"It Follows\" to \"Child's Play\": The Best (and Worst) of Supernatural Horror | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "QDAqvMBL9I4",
-      "viewsPerHour": 322,
+      "viewsPerHour": 300,
       "views": 8780,
-      "ageHours": 27.3
+      "ageHours": 29.3
     },
     {
       "title": "Mason Jenkins Most Shocking Confessions",
       "channel": "Real Stories",
       "videoId": "SpYb10E06cc",
-      "viewsPerHour": 300,
-      "views": 9091,
-      "ageHours": 30.3
+      "viewsPerHour": 288,
+      "views": 9293,
+      "ageHours": 32.3
     },
     {
-      "title": "PBS News Hour live episode, Oct. 16, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "rhJld-3ThMs",
-      "viewsPerHour": 209,
-      "views": 5364,
-      "ageHours": 25.7
+      "title": "“They want people’s emotions to override their intelligence”: Jumaane Williams on Trump’s goal",
+      "channel": "MS NOW",
+      "videoId": "JWYJcGL7-9Y",
+      "viewsPerHour": 104,
+      "views": 159,
+      "ageHours": 1.5
     },
     {
       "title": "No Kings day rallies underway across the U.S. with key focus on voting",
       "channel": "MS NOW",
       "videoId": "iakBlZDPko0",
-      "viewsPerHour": 66,
+      "viewsPerHour": 49,
       "views": 377,
-      "ageHours": 5.7
-    },
-    {
-      "title": "Examining the controversial claims Trump is making at his midterm rallies",
-      "channel": "PBS NewsHour",
-      "videoId": "_kr3dLwWk1c",
-      "viewsPerHour": 29,
-      "views": 695,
-      "ageHours": 23.7
-    },
-    {
-      "title": "How Alaska became a key battleground in the fight for the Senate",
-      "channel": "PBS NewsHour",
-      "videoId": "lJICdlgB8Uk",
-      "viewsPerHour": 6,
-      "views": 132,
-      "ageHours": 23.7
+      "ageHours": 7.7
     }
   ]
 }
