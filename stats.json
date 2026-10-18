@@ -2,11 +2,11 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 6
+      "count": 3
     },
     {
       "channel": "History",
-      "count": 55
+      "count": 54
     },
     {
       "channel": "Chris Lehto",
@@ -29,10 +29,6 @@
       "count": 8
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 1
-    },
-    {
       "channel": "Conan O'Brien",
       "count": 12
     },
@@ -50,7 +46,7 @@
     },
     {
       "channel": "NOVA",
-      "count": 23
+      "count": 22
     },
     {
       "channel": "Diary of a CEO",
@@ -84,11 +80,11 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 3
     },
     {
       "keyword": "NOVA",
-      "count": 35
+      "count": 34
     },
     {
       "keyword": "UAP",
@@ -111,10 +107,6 @@
       "count": 7
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 1
-    },
-    {
       "keyword": "Conan O'Brien",
       "count": 12
     },
@@ -132,7 +124,7 @@
     },
     {
       "keyword": "UFO",
-      "count": 44
+      "count": 43
     },
     {
       "keyword": "AI",
@@ -226,11 +218,11 @@
   "dailySummary": [
     {
       "date": "2026-10-17",
-      "videos": 13
+      "videos": 10
     },
     {
       "date": "2026-10-16",
-      "videos": 9
+      "videos": 8
     },
     {
       "date": "2026-10-15",
@@ -446,7 +438,7 @@
     },
     {
       "date": "2026-08-19",
-      "videos": 6
+      "videos": 4
     },
     {
       "date": "2026-08-15",
@@ -456,7 +448,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 3
     },
     {
       "keyword": "NOVA",
@@ -480,10 +472,6 @@
     },
     {
       "keyword": "The Interview",
-      "matches": 1
-    },
-    {
-      "keyword": "PBS NewsHour",
       "matches": 1
     },
     {
@@ -532,177 +520,145 @@
       "title": "Jon Stewart and The News Team Tackle the 2026 Midterm Candidates | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "yAGGkDvbjAs",
-      "viewsPerHour": 76122,
+      "viewsPerHour": 67418,
       "views": 1165671,
-      "ageHours": 15.3
+      "ageHours": 17.3
     },
     {
       "title": "Jon Stewart & The News Team Recap the Endless War in Iran Pt. 2 | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "bPWOLXXHMlo",
-      "viewsPerHour": 24697,
+      "viewsPerHour": 23514,
       "views": 970742,
-      "ageHours": 39.3
+      "ageHours": 41.3
     },
     {
       "title": "This Town Signed A Contract With Flock. Then They Uncovered Who Was Really Watching.",
       "channel": "More Perfect Union",
       "videoId": "o97GzV0WX9I",
-      "viewsPerHour": 15341,
+      "viewsPerHour": 14603,
       "views": 600403,
-      "ageHours": 39.1
+      "ageHours": 41.1
     },
     {
       "title": "Child like Alien Bodies Found inside UFO - Scott & Suzanne Ramsey | Flying Saucer Diner",
       "channel": "Area 52",
       "videoId": "30aMHBQ1Avs",
-      "viewsPerHour": 6699,
+      "viewsPerHour": 6353,
       "views": 243257,
-      "ageHours": 36.3
-    },
-    {
-      "title": "‘Most corrupt administration in American history’: A guide to Trump's presidential self-dealing",
-      "channel": "MS NOW",
-      "videoId": "E4XgQ_dpQik",
-      "viewsPerHour": 6476,
-      "views": 153915,
-      "ageHours": 23.8
+      "ageHours": 38.3
     },
     {
       "title": "Are We Alone? The Search for Alien Life (Full Episode) | UFOs: Investigating the Unknown | Nat Geo",
       "channel": "Nat Geo",
       "videoId": "UX41GAy_tFc",
-      "viewsPerHour": 6327,
+      "viewsPerHour": 6024,
       "views": 248742,
-      "ageHours": 39.3
+      "ageHours": 41.3
     },
     {
       "title": "‘Bands Are Weird Things’: Bono and the Edge on 50 Years of U2 and Each Other | The Interview",
       "channel": "The Interview",
       "videoId": "Wu920WiZyjo",
-      "viewsPerHour": 4635,
+      "viewsPerHour": 4205,
       "views": 89510,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "Evidence of Money Pit Shaft | The Curse of Oak Island",
       "channel": "History",
       "videoId": "Z6O-4qCe1HA",
-      "viewsPerHour": 3689,
+      "viewsPerHour": 3499,
       "views": 133947,
-      "ageHours": 36.3
+      "ageHours": 38.3
     },
     {
       "title": "Turning Micron's fine print against them; how to get the warranty memory companies OWE YOU!",
       "channel": "Louis Rossmann",
       "videoId": "Y-YNh5mV3J0",
-      "viewsPerHour": 2371,
+      "viewsPerHour": 2210,
       "views": 64264,
-      "ageHours": 27.1
+      "ageHours": 29.1
     },
     {
       "title": "Entrance to Buried Treasure? | The Curse of Oak Island (S4, E2) | Full Episode",
       "channel": "History",
       "videoId": "jPV9KsCdWaE",
-      "viewsPerHour": 2242,
+      "viewsPerHour": 1707,
       "views": 14137,
-      "ageHours": 6.3
-    },
-    {
-      "title": "Trump, Musk play blame game as U.S. helps Putin again",
-      "channel": "MS NOW",
-      "videoId": "E6BD3xsqQlE",
-      "viewsPerHour": 1783,
-      "views": 42669,
-      "ageHours": 23.9
-    },
-    {
-      "title": "The Last Word with Lawrence O'Donnell - Oct. 16 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "xP6G9wgTyfM",
-      "viewsPerHour": 1077,
-      "views": 25407,
-      "ageHours": 23.6
+      "ageHours": 8.3
     },
     {
       "title": "I investigated Chemtrails. The Government DID Spray Us, but…",
       "channel": "Chris Lehto",
       "videoId": "nd270c7TDfQ",
-      "viewsPerHour": 728,
+      "viewsPerHour": 601,
       "views": 6778,
-      "ageHours": 9.3
-    },
-    {
-      "title": "The mystery of Havana Syndrome and claims of a government cover-up",
-      "channel": "PBS NewsHour",
-      "videoId": "_El5EwhSRuk",
-      "viewsPerHour": 667,
-      "views": 19251,
-      "ageHours": 28.8
-    },
-    {
-      "title": "Skyscraper Jails and COVID: Chinatown's Biggest Fight For Survival",
-      "channel": "Real Stories",
-      "videoId": "kOqMTU_zByM",
-      "viewsPerHour": 591,
-      "views": 7277,
-      "ageHours": 12.3
+      "ageHours": 11.3
     },
     {
       "title": "Conan Sings His Version Of Oasis' \"Champagne Supernova\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "_PBBNidgvdM",
-      "viewsPerHour": 544,
+      "viewsPerHour": 518,
       "views": 21916,
-      "ageHours": 40.3
+      "ageHours": 42.3
+    },
+    {
+      "title": "Skyscraper Jails and COVID: Chinatown's Biggest Fight For Survival",
+      "channel": "Real Stories",
+      "videoId": "kOqMTU_zByM",
+      "viewsPerHour": 509,
+      "views": 7277,
+      "ageHours": 14.3
     },
     {
       "title": "Rossmann Repair chief technician interviewed at Acelab Techweek conference",
       "channel": "Louis Rossmann",
       "videoId": "Vq8P2jupXvA",
-      "viewsPerHour": 411,
+      "viewsPerHour": 362,
       "views": 6028,
-      "ageHours": 14.7
+      "ageHours": 16.6
     },
     {
       "title": "From \"It Follows\" to \"Child's Play\": The Best (and Worst) of Supernatural Horror | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "QDAqvMBL9I4",
-      "viewsPerHour": 264,
+      "viewsPerHour": 249,
       "views": 8780,
-      "ageHours": 33.3
+      "ageHours": 35.3
     },
     {
       "title": "Mason Jenkins Most Shocking Confessions",
       "channel": "Real Stories",
       "videoId": "SpYb10E06cc",
-      "viewsPerHour": 258,
+      "viewsPerHour": 245,
       "views": 9377,
-      "ageHours": 36.3
+      "ageHours": 38.3
     },
     {
       "title": "“GROW SOME B****”: Actor F. Murray Abraham slams the GOP Congress and urges people to vote",
       "channel": "MS NOW",
       "videoId": "tTLWH2dm87I",
-      "viewsPerHour": 162,
+      "viewsPerHour": 121,
       "views": 939,
-      "ageHours": 5.8
+      "ageHours": 7.8
     },
     {
       "title": "No Kings day rallies underway across the U.S. with key focus on voting",
       "channel": "MS NOW",
       "videoId": "iakBlZDPko0",
-      "viewsPerHour": 32,
+      "viewsPerHour": 28,
       "views": 377,
-      "ageHours": 11.7
+      "ageHours": 13.7
     },
     {
       "title": "“They want people’s emotions to override their intelligence”: Jumaane Williams on Trump’s goal",
       "channel": "MS NOW",
       "videoId": "JWYJcGL7-9Y",
-      "viewsPerHour": 29,
+      "viewsPerHour": 21,
       "views": 159,
-      "ageHours": 5.6
+      "ageHours": 7.5
     }
   ]
 }
