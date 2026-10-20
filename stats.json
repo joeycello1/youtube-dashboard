@@ -1,12 +1,12 @@
 {
   "videosPerChannel": [
     {
-      "channel": "MS NOW",
-      "count": 6
+      "channel": "PBS NewsHour",
+      "count": 5
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 3
+      "channel": "MS NOW",
+      "count": 7
     },
     {
       "channel": "More Perfect Union",
@@ -14,11 +14,11 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 14
+      "count": 13
     },
     {
       "channel": "Conan O'Brien",
-      "count": 10
+      "count": 9
     },
     {
       "channel": "Diary of a CEO",
@@ -26,7 +26,7 @@
     },
     {
       "channel": "The Rest Is Science",
-      "count": 5
+      "count": 4
     },
     {
       "channel": "History",
@@ -58,7 +58,7 @@
     },
     {
       "channel": "NOVA",
-      "count": 22
+      "count": 21
     },
     {
       "channel": "Mayim Bialik",
@@ -83,12 +83,12 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "MS NOW",
-      "count": 6
+      "keyword": "PBS NewsHour",
+      "count": 5
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 3
+      "keyword": "MS NOW",
+      "count": 7
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -96,11 +96,11 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 13
+      "count": 12
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 10
+      "count": 9
     },
     {
       "keyword": "The Interview",
@@ -128,7 +128,7 @@
     },
     {
       "keyword": "NOVA",
-      "count": 34
+      "count": 33
     },
     {
       "keyword": "UAP",
@@ -148,7 +148,7 @@
     },
     {
       "keyword": "The Rest Is Science",
-      "count": 4
+      "count": 3
     },
     {
       "keyword": "UFO, AI, artificial intelligence",
@@ -226,7 +226,7 @@
   "dailySummary": [
     {
       "date": "2026-10-19",
-      "videos": 13
+      "videos": 16
     },
     {
       "date": "2026-10-18",
@@ -266,7 +266,7 @@
     },
     {
       "date": "2026-10-09",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-10-08",
@@ -286,7 +286,7 @@
     },
     {
       "date": "2026-10-04",
-      "videos": 4
+      "videos": 2
     },
     {
       "date": "2026-10-03",
@@ -449,22 +449,18 @@
       "videos": 4
     },
     {
-      "date": "2026-08-20",
-      "videos": 1
-    },
-    {
       "date": "2026-08-15",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "MS NOW",
-      "matches": 6
+      "keyword": "PBS NewsHour",
+      "matches": 5
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 3
+      "keyword": "MS NOW",
+      "matches": 7
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -532,153 +528,161 @@
       "title": "The Deathbed Doctor: Weeks Before Death, Patients Start Having Visions! | Dr Christopher Kerr",
       "channel": "Diary of a CEO",
       "videoId": "GlaSnROMqRY",
-      "viewsPerHour": 64779,
-      "views": 993753,
-      "ageHours": 15.3
+      "viewsPerHour": 63941,
+      "views": 1105565,
+      "ageHours": 17.3
     },
     {
       "title": "The Best F**king News Team Covers Affordability in America Ahead of the Midterms | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ZiA4bRYqBXc",
-      "viewsPerHour": 37991,
-      "views": 1266726,
-      "ageHours": 33.3
+      "viewsPerHour": 36561,
+      "views": 1290307,
+      "ageHours": 35.3
     },
     {
       "title": "I Used AI To Surveil Myself At Work. What It Can See Will Disturb You.",
       "channel": "More Perfect Union",
       "videoId": "ca7ufSI1Qxg",
-      "viewsPerHour": 33107,
-      "views": 244178,
-      "ageHours": 7.4
+      "viewsPerHour": 31732,
+      "views": 295900,
+      "ageHours": 9.3
     },
     {
       "title": "Mathematicians Are The Canary Down The AI Coal Mine",
       "channel": "The Rest Is Science",
       "videoId": "xuHOralyJao",
-      "viewsPerHour": 20660,
-      "views": 523540,
-      "ageHours": 25.3
+      "viewsPerHour": 20144,
+      "views": 549742,
+      "ageHours": 27.3
+    },
+    {
+      "title": "Not my first rodeo': Dem senator REFUSES to back down, DUNKS ON Trump as he tries to silence her",
+      "channel": "MS NOW",
+      "videoId": "gOcmi-LYlVA",
+      "viewsPerHour": 13421,
+      "views": 26295,
+      "ageHours": 2
     },
     {
       "title": "Lawrence: Trump pretends Ukraine and Russia agreed to ceasefire | The Last Word Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "LvI9YwSbr3o",
-      "viewsPerHour": 10466,
+      "viewsPerHour": 9590,
       "views": 223375,
-      "ageHours": 21.3
+      "ageHours": 23.3
     },
     {
       "title": "Martin Short Returns (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "NzvTyy-7O9s",
-      "viewsPerHour": 5583,
+      "viewsPerHour": 4764,
       "views": 63327,
-      "ageHours": 11.3
+      "ageHours": 13.3
     },
     {
       "title": "The Ancient Mystery of Puma Punku | In Search of Aliens (S1)",
       "channel": "History",
       "videoId": "nOBx4LcijmI",
-      "viewsPerHour": 3972,
-      "views": 112575,
-      "ageHours": 28.3
+      "viewsPerHour": 3817,
+      "views": 115624,
+      "ageHours": 30.3
     },
     {
       "title": "A guide to Trump's presidential self-dealing | The 11th Hour with Ali Velshi Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "EqWX2xqso4w",
-      "viewsPerHour": 3675,
+      "viewsPerHour": 3353,
       "views": 74756,
-      "ageHours": 20.3
-    },
-    {
-      "title": "The Scientist Studying UFOs | Ancient Aliens (S20, E15) | Full Episode",
-      "channel": "History",
-      "videoId": "WRviRnHNm1o",
-      "viewsPerHour": 3553,
-      "views": 164644,
-      "ageHours": 46.3
-    },
-    {
-      "title": "Withings introduces Scale-As-A-Service; SaaS hits a new low",
-      "channel": "Louis Rossmann",
-      "videoId": "n5w7JWghyVE",
-      "viewsPerHour": 2752,
-      "views": 24503,
-      "ageHours": 8.9
+      "ageHours": 22.3
     },
     {
       "title": "How to starve a country: put their refrigerators on the internet 🤦🤦🤦",
       "channel": "Louis Rossmann",
       "videoId": "SOXXi3kASxo",
-      "viewsPerHour": 2448,
+      "viewsPerHour": 2293,
       "views": 70831,
-      "ageHours": 28.9
+      "ageHours": 30.9
+    },
+    {
+      "title": "Withings introduces Scale-As-A-Service; SaaS hits a new low",
+      "channel": "Louis Rossmann",
+      "videoId": "n5w7JWghyVE",
+      "viewsPerHour": 2257,
+      "views": 24503,
+      "ageHours": 10.9
     },
     {
       "title": "LIVE Building a Future We Can Afford Town Hall with Pete Buttigieg",
       "channel": "More Perfect Union",
       "videoId": "yfwxzCX9UDQ",
-      "viewsPerHour": 1931,
-      "views": 62243,
-      "ageHours": 32.2
+      "viewsPerHour": 1852,
+      "views": 63290,
+      "ageHours": 34.2
     },
     {
-      "title": "PDFguru founders Vladimir Mnogoletny & Vasily Ulianov belong in prison for this scam",
-      "channel": "Louis Rossmann",
-      "videoId": "5V4no57ra_0",
-      "viewsPerHour": 1571,
-      "views": 72687,
-      "ageHours": 46.3
+      "title": "PBS News Hour live episode, Oct. 19, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "wlX-L78kG8I",
+      "viewsPerHour": 1699,
+      "views": 5360,
+      "ageHours": 3.2
     },
     {
       "title": "16 days to midterms:  LOW Trump polling, ‘No Kings’ mobilizes voters | MS NOW Highlights",
       "channel": "MS NOW",
       "videoId": "aBNlIZzTF-o",
-      "viewsPerHour": 648,
+      "viewsPerHour": 560,
       "views": 7995,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "Meet the Man Addicted To Mac and Cheese",
       "channel": "Real Stories",
       "videoId": "qT4J-EyFNkY",
-      "viewsPerHour": 551,
-      "views": 16173,
-      "ageHours": 29.3
+      "viewsPerHour": 527,
+      "views": 16497,
+      "ageHours": 31.3
     },
     {
       "title": "WATCH LIVE: Trump and first lady speak about new executive order on women's health research",
       "channel": "PBS NewsHour",
       "videoId": "MaytxKGEn3I",
-      "viewsPerHour": 515,
+      "viewsPerHour": 402,
       "views": 3565,
-      "ageHours": 6.9
+      "ageHours": 8.9
     },
     {
       "title": "It's horrifying!': Fmr. GOP advisor slams Trump 'siding' with Putin",
       "channel": "MS NOW",
       "videoId": "970WhNrKgAY",
-      "viewsPerHour": 256,
+      "viewsPerHour": 191,
       "views": 1465,
-      "ageHours": 5.7
+      "ageHours": 7.7
+    },
+    {
+      "title": "Ohio becomes midterm battleground after years of Republican wins",
+      "channel": "PBS NewsHour",
+      "videoId": "Yh7zMAAp_L8",
+      "viewsPerHour": 98,
+      "views": 158,
+      "ageHours": 1.6
     },
     {
       "title": "INSTANT REACTION: Rep. Dean details bipartisan call with Zelenskyy",
       "channel": "MS NOW",
       "videoId": "u1kaG5O9REk",
-      "viewsPerHour": 131,
+      "viewsPerHour": 98,
       "views": 747,
-      "ageHours": 5.7
+      "ageHours": 7.7
     },
     {
       "title": "Briber-in-chief': Kentucky Gov. Beshear slams Trump",
       "channel": "MS NOW",
       "videoId": "1Dh0hibDRzE",
-      "viewsPerHour": 41,
+      "viewsPerHour": 30,
       "views": 231,
-      "ageHours": 5.7
+      "ageHours": 7.6
     },
     {
       "title": "WATCH LIVE: Vance speaks at GOP midterm rally in North Carolina",
@@ -686,7 +690,7 @@
       "videoId": "SLnDrxupPi0",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 7.7
+      "ageHours": 9.7
     },
     {
       "title": "WATCH LIVE: Trump heads to rally in Kansas as Republican voters' frustrations deepen",
@@ -694,7 +698,7 @@
       "videoId": "4759yVmNCM4",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 8.2
+      "ageHours": 10.1
     }
   ]
 }
