@@ -5,24 +5,24 @@
       "count": 5
     },
     {
-      "channel": "The Daily Show",
-      "count": 7
-    },
-    {
       "channel": "PBS NewsHour",
       "count": 8
     },
     {
-      "channel": "More Perfect Union",
-      "count": 21
+      "channel": "Conan O'Brien",
+      "count": 10
     },
     {
       "channel": "Louis Rossmann",
       "count": 13
     },
     {
-      "channel": "Conan O'Brien",
-      "count": 9
+      "channel": "The Daily Show",
+      "count": 7
+    },
+    {
+      "channel": "More Perfect Union",
+      "count": 20
     },
     {
       "channel": "Diary of a CEO",
@@ -49,16 +49,16 @@
       "count": 8
     },
     {
+      "channel": "NOVA",
+      "count": 22
+    },
+    {
       "channel": "Area 52",
-      "count": 6
+      "count": 5
     },
     {
       "channel": "Nat Geo",
-      "count": 4
-    },
-    {
-      "channel": "NOVA",
-      "count": 21
+      "count": 3
     },
     {
       "channel": "Mayim Bialik",
@@ -87,12 +87,20 @@
       "count": 5
     },
     {
-      "keyword": "The Daily Show",
-      "count": 5
-    },
-    {
       "keyword": "PBS NewsHour",
       "count": 8
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 10
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 12
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 5
     },
     {
       "keyword": "The Daily Show, AI",
@@ -101,14 +109,6 @@
     {
       "keyword": "More Perfect Union, AI",
       "count": 6
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 12
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 9
     },
     {
       "keyword": "The Interview",
@@ -120,7 +120,7 @@
     },
     {
       "keyword": "UFO",
-      "count": 43
+      "count": 42
     },
     {
       "keyword": "Real Stories",
@@ -128,11 +128,11 @@
     },
     {
       "keyword": "More Perfect Union",
-      "count": 15
+      "count": 14
     },
     {
       "keyword": "NOVA",
-      "count": 33
+      "count": 34
     },
     {
       "keyword": "UAP",
@@ -217,20 +217,16 @@
     {
       "keyword": "Giza",
       "count": 1
-    },
-    {
-      "keyword": "FOIA, UFO",
-      "count": 1
     }
   ],
   "dailySummary": [
     {
       "date": "2026-10-20",
-      "videos": 5
+      "videos": 13
     },
     {
       "date": "2026-10-19",
-      "videos": 15
+      "videos": 9
     },
     {
       "date": "2026-10-18",
@@ -242,7 +238,7 @@
     },
     {
       "date": "2026-10-16",
-      "videos": 8
+      "videos": 9
     },
     {
       "date": "2026-10-15",
@@ -286,7 +282,7 @@
     },
     {
       "date": "2026-10-05",
-      "videos": 3
+      "videos": 2
     },
     {
       "date": "2026-10-04",
@@ -450,7 +446,7 @@
     },
     {
       "date": "2026-08-21",
-      "videos": 4
+      "videos": 1
     },
     {
       "date": "2026-08-15",
@@ -463,12 +459,20 @@
       "matches": 5
     },
     {
-      "keyword": "The Daily Show",
-      "matches": 5
-    },
-    {
       "keyword": "PBS NewsHour",
       "matches": 8
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 7
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 8
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 5
     },
     {
       "keyword": "The Daily Show, AI",
@@ -477,14 +481,6 @@
     {
       "keyword": "More Perfect Union, AI",
       "matches": 2
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 8
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 6
     },
     {
       "keyword": "The Interview",
@@ -508,7 +504,7 @@
     },
     {
       "keyword": "NOVA",
-      "matches": 3
+      "matches": 4
     },
     {
       "keyword": "UAP",
@@ -532,193 +528,185 @@
       "title": "Paris Protests Erupt Over High Fuel Costs & Trump Cuts Diesel Deal with Russia | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "JjI3TM__A5o",
-      "viewsPerHour": 175278,
-      "views": 2039663,
-      "ageHours": 11.6
+      "viewsPerHour": 187563,
+      "views": 2566244,
+      "ageHours": 13.7
     },
     {
       "title": "The Deathbed Doctor: Weeks Before Death, Patients Start Having Visions! | Dr Christopher Kerr",
       "channel": "Diary of a CEO",
       "videoId": "GlaSnROMqRY",
-      "viewsPerHour": 53215,
-      "views": 1771715,
-      "ageHours": 33.3
+      "viewsPerHour": 52026,
+      "views": 1838526,
+      "ageHours": 35.3
     },
     {
       "title": "David Corn - Trump’s Man Crush on Putin & “How Russia Won” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "IRUhdhS29Vc",
-      "viewsPerHour": 36845,
-      "views": 471189,
-      "ageHours": 12.8
+      "viewsPerHour": 37028,
+      "views": 549268,
+      "ageHours": 14.8
     },
     {
       "title": "I Used AI To Surveil Myself At Work. What It Can See Will Disturb You.",
       "channel": "More Perfect Union",
       "videoId": "ca7ufSI1Qxg",
-      "viewsPerHour": 19807,
-      "views": 501662,
-      "ageHours": 25.3
+      "viewsPerHour": 19362,
+      "views": 530002,
+      "ageHours": 27.4
     },
     {
       "title": "Mathematicians Are The Canary Down The AI Coal Mine",
       "channel": "The Rest Is Science",
       "videoId": "xuHOralyJao",
-      "viewsPerHour": 15921,
-      "views": 689262,
-      "ageHours": 43.3
+      "viewsPerHour": 15571,
+      "views": 705977,
+      "ageHours": 45.3
     },
     {
       "title": "PBS News Hour full episode, Oct. 19, 2026",
       "channel": "PBS NewsHour",
       "videoId": "KUI3WHgXLpI",
-      "viewsPerHour": 8629,
+      "viewsPerHour": 7695,
       "views": 145338,
-      "ageHours": 16.8
+      "ageHours": 18.9
     },
     {
       "title": "Trump Kills Hegseth's Firing Squad Livestream & What's in Guilfoyle's Burn Book? | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "A9OuNrlbENw",
-      "viewsPerHour": 7241,
-      "views": 109723,
-      "ageHours": 15.2
+      "viewsPerHour": 7007,
+      "views": 120510,
+      "ageHours": 17.2
     },
     {
-      "title": "The Ancient Mystery of Puma Punku | In Search of Aliens (S1)",
-      "channel": "History",
-      "videoId": "nOBx4LcijmI",
-      "viewsPerHour": 2800,
-      "views": 129647,
-      "ageHours": 46.3
+      "title": "Stop Killing Games bill announced by Ritchie Torres in US Congress",
+      "channel": "Louis Rossmann",
+      "videoId": "r-zanY8lK1M",
+      "viewsPerHour": 4407,
+      "views": 22159,
+      "ageHours": 5
     },
     {
       "title": "Martin Short Returns (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "NzvTyy-7O9s",
-      "viewsPerHour": 2162,
+      "viewsPerHour": 2021,
       "views": 63327,
-      "ageHours": 29.3
+      "ageHours": 31.3
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Oct. 19 | Audio Only",
       "channel": "MS NOW",
       "videoId": "3PCPTlHlAcM",
-      "viewsPerHour": 1824,
+      "viewsPerHour": 1519,
       "views": 18535,
-      "ageHours": 10.2
+      "ageHours": 12.2
     },
     {
       "title": "WATCH: Trump heads to rally in Kansas as Republican voters' frustrations deepen",
       "channel": "PBS NewsHour",
       "videoId": "6dHeUIGD4Pc",
-      "viewsPerHour": 1719,
+      "viewsPerHour": 1503,
       "views": 24512,
-      "ageHours": 14.3
-    },
-    {
-      "title": "How to starve a country: put their refrigerators on the internet 🤦🤦🤦",
-      "channel": "Louis Rossmann",
-      "videoId": "SOXXi3kASxo",
-      "viewsPerHour": 1511,
-      "views": 70831,
-      "ageHours": 46.9
+      "ageHours": 16.3
     },
     {
       "title": "Not my first rodeo': Dem senator REFUSES to back down, DUNKS ON Trump as he tries to silence her",
       "channel": "MS NOW",
       "videoId": "gOcmi-LYlVA",
-      "viewsPerHour": 1464,
+      "viewsPerHour": 1314,
       "views": 26295,
-      "ageHours": 18
+      "ageHours": 20
+    },
+    {
+      "title": "Never met a dictator he didn't love': Commentator slams Trump as 'raging narcissist'",
+      "channel": "MS NOW",
+      "videoId": "taYicK8WuS4",
+      "viewsPerHour": 1046,
+      "views": 1862,
+      "ageHours": 1.8
+    },
+    {
+      "title": "Conan's Writer Matt O'Brien Interrupts The Podcast | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "sYhpzR8J6vQ",
+      "viewsPerHour": 901,
+      "views": 3010,
+      "ageHours": 3.3
     },
     {
       "title": "Remembering Ann Hornaday, film critic and News Hour regular",
       "channel": "PBS NewsHour",
       "videoId": "tY5hkaaLufU",
-      "viewsPerHour": 984,
+      "viewsPerHour": 878,
       "views": 16698,
-      "ageHours": 17
+      "ageHours": 19
     },
     {
       "title": "Withings introduces Scale-As-A-Service; SaaS hits a new low",
       "channel": "Louis Rossmann",
       "videoId": "n5w7JWghyVE",
-      "viewsPerHour": 912,
+      "viewsPerHour": 848,
       "views": 24503,
-      "ageHours": 26.9
+      "ageHours": 28.9
     },
     {
-      "title": "Meet the Man Addicted To Mac and Cheese",
-      "channel": "Real Stories",
-      "videoId": "qT4J-EyFNkY",
-      "viewsPerHour": 382,
-      "views": 18055,
-      "ageHours": 47.3
+      "title": "Justin J. Pearson on the FIGHT to WIN Tennessee district redrawn by GOP gerrymandering",
+      "channel": "MS NOW",
+      "videoId": "2Z5whB5CH5A",
+      "viewsPerHour": 550,
+      "views": 1202,
+      "ageHours": 2.2
+    },
+    {
+      "title": "WATCH LIVE: Hegseth speaks to workers at U.S. defense company Sierra Nevada Corporation",
+      "channel": "PBS NewsHour",
+      "videoId": "R7Rn55A1pA4",
+      "viewsPerHour": 350,
+      "views": 876,
+      "ageHours": 2.5
     },
     {
       "title": "PBS News Hour live episode, Oct. 19, 2026",
       "channel": "PBS NewsHour",
       "videoId": "wlX-L78kG8I",
-      "viewsPerHour": 280,
+      "viewsPerHour": 253,
       "views": 5360,
-      "ageHours": 19.2
-    },
-    {
-      "title": "WATCH LIVE: Trump and first lady speak about new executive order on women's health research",
-      "channel": "PBS NewsHour",
-      "videoId": "MaytxKGEn3I",
-      "viewsPerHour": 143,
-      "views": 3565,
-      "ageHours": 24.9
-    },
-    {
-      "title": "It's horrifying!': Fmr. GOP advisor slams Trump 'siding' with Putin",
-      "channel": "MS NOW",
-      "videoId": "970WhNrKgAY",
-      "viewsPerHour": 62,
-      "views": 1465,
-      "ageHours": 23.7
-    },
-    {
-      "title": "INSTANT REACTION: Rep. Dean details bipartisan call with Zelenskyy",
-      "channel": "MS NOW",
-      "videoId": "u1kaG5O9REk",
-      "viewsPerHour": 32,
-      "views": 747,
-      "ageHours": 23.7
-    },
-    {
-      "title": "Briber-in-chief': Kentucky Gov. Beshear slams Trump",
-      "channel": "MS NOW",
-      "videoId": "1Dh0hibDRzE",
-      "viewsPerHour": 10,
-      "views": 231,
-      "ageHours": 23.6
+      "ageHours": 21.2
     },
     {
       "title": "Ohio becomes midterm battleground after years of Republican wins",
       "channel": "PBS NewsHour",
       "videoId": "Yh7zMAAp_L8",
-      "viewsPerHour": 9,
+      "viewsPerHour": 8,
       "views": 158,
-      "ageHours": 17.6
+      "ageHours": 19.7
     },
     {
-      "title": "WATCH LIVE: Vance speaks at GOP midterm rally in North Carolina",
-      "channel": "PBS NewsHour",
-      "videoId": "SLnDrxupPi0",
+      "title": "LIVE: Donald Trump and J.D. Vance make an announcement with midterms two weeks away",
+      "channel": "MS NOW",
+      "videoId": "nMnO3AYCYVE",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 25.7
+      "ageHours": 1.7
     },
     {
-      "title": "WATCH LIVE: Trump heads to rally in Kansas as Republican voters' frustrations deepen",
+      "title": "WATCH LIVE: Trump holds GOP midterm rally in North Carolina",
       "channel": "PBS NewsHour",
-      "videoId": "4759yVmNCM4",
+      "videoId": "6PUtBmb7FPI",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 26.1
+      "ageHours": 2.9
+    },
+    {
+      "title": "WATCH LIVE: NASA previews upcoming spacewalks",
+      "channel": "PBS NewsHour",
+      "videoId": "i8wS6stLiTI",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 2.9
     }
   ]
 }
