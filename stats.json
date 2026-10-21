@@ -5,32 +5,32 @@
       "count": 4
     },
     {
+      "channel": "PBS NewsHour",
+      "count": 6
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 11
+    },
+    {
       "channel": "The Daily Show",
       "count": 10
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 13
     },
     {
       "channel": "Jeremy Corbell",
       "count": 6
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 7
-    },
-    {
       "channel": "History",
-      "count": 54
+      "count": 53
     },
     {
       "channel": "Real Stories",
       "count": 47
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 10
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 13
     },
     {
       "channel": "More Perfect Union",
@@ -50,7 +50,7 @@
     },
     {
       "channel": "The Interview",
-      "count": 8
+      "count": 7
     },
     {
       "channel": "NOVA",
@@ -83,12 +83,28 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "MS NOW, Reuters",
-      "count": 1
+      "keyword": "MS NOW",
+      "count": 3
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 6
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 11
     },
     {
       "keyword": "The Daily Show",
       "count": 7
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 13
+    },
+    {
+      "keyword": "MS NOW, Reuters",
+      "count": 1
     },
     {
       "keyword": "Corbell, George Knapp, UAP, UFO",
@@ -103,10 +119,6 @@
       "count": 1
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 7
-    },
-    {
       "keyword": "UFO",
       "count": 42
     },
@@ -115,24 +127,12 @@
       "count": 45
     },
     {
-      "keyword": "MS NOW",
-      "count": 3
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 10
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 12
-    },
-    {
       "keyword": "More Perfect Union, AI",
       "count": 6
     },
     {
       "keyword": "The Interview",
-      "count": 8
+      "count": 7
     },
     {
       "keyword": "The Rest Is Science, AI",
@@ -183,10 +183,6 @@
       "count": 3
     },
     {
-      "keyword": "Louis Rossmann, Samsung",
-      "count": 1
-    },
-    {
       "keyword": "AI, artificial intelligence, UAP",
       "count": 3
     },
@@ -225,20 +221,16 @@
     {
       "keyword": "NOVA, AI",
       "count": 1
-    },
-    {
-      "keyword": "Giza",
-      "count": 1
     }
   ],
   "dailySummary": [
     {
       "date": "2026-10-21",
-      "videos": 6
+      "videos": 14
     },
     {
       "date": "2026-10-20",
-      "videos": 17
+      "videos": 11
     },
     {
       "date": "2026-10-19",
@@ -262,7 +254,7 @@
     },
     {
       "date": "2026-10-14",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-10-13",
@@ -294,7 +286,7 @@
     },
     {
       "date": "2026-10-06",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-10-05",
@@ -458,7 +450,7 @@
     },
     {
       "date": "2026-08-22",
-      "videos": 3
+      "videos": 1
     },
     {
       "date": "2026-08-15",
@@ -467,12 +459,28 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "MS NOW, Reuters",
-      "matches": 1
+      "keyword": "MS NOW",
+      "matches": 3
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 6
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 7
     },
     {
       "keyword": "The Daily Show",
-      "matches": 6
+      "matches": 7
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 8
+    },
+    {
+      "keyword": "MS NOW, Reuters",
+      "matches": 1
     },
     {
       "keyword": "Corbell, George Knapp, UAP, UFO",
@@ -487,28 +495,12 @@
       "matches": 1
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 7
-    },
-    {
       "keyword": "UFO",
       "matches": 5
     },
     {
       "keyword": "Real Stories",
       "matches": 5
-    },
-    {
-      "keyword": "MS NOW",
-      "matches": 3
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 6
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 7
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -552,185 +544,201 @@
       "title": "Paris Protests Erupt Over High Fuel Costs & Trump Cuts Diesel Deal with Russia | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "JjI3TM__A5o",
-      "viewsPerHour": 134555,
-      "views": 4804666,
-      "ageHours": 35.7
+      "viewsPerHour": 129740,
+      "views": 4884367,
+      "ageHours": 37.6
+    },
+    {
+      "title": "Hello & Goodbye Katie Zacharia, Trump's Press Secretary Who Lasted Five Whole Days | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "Va2UzRSJ1qc",
+      "viewsPerHour": 123884,
+      "views": 842727,
+      "ageHours": 6.8
     },
     {
       "title": "Trump Drools Over Sen. Jon Husted’s Ass & Fayette County Candidate Gets Piss Drunk? | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ymQhixom0g0",
-      "viewsPerHour": 93081,
-      "views": 1337749,
-      "ageHours": 14.4
+      "viewsPerHour": 87218,
+      "views": 1422644,
+      "ageHours": 16.3
     },
     {
       "title": "David Corn - Trump’s Man Crush on Putin & “How Russia Won” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "IRUhdhS29Vc",
-      "viewsPerHour": 24604,
-      "views": 906873,
-      "ageHours": 36.9
+      "viewsPerHour": 23685,
+      "views": 918952,
+      "ageHours": 38.8
     },
     {
       "title": "PBS News Hour full episode, Oct. 20, 2026",
       "channel": "PBS NewsHour",
       "videoId": "ZF9N7CxOWZ8",
-      "viewsPerHour": 8451,
+      "viewsPerHour": 7592,
       "views": 144863,
-      "ageHours": 17.1
+      "ageHours": 19.1
     },
     {
       "title": "Death Cab for Cutie Performs “Stone Over Water”",
       "channel": "The Daily Show",
       "videoId": "mISlVcnLu1o",
-      "viewsPerHour": 7295,
-      "views": 90316,
-      "ageHours": 12.4
+      "viewsPerHour": 6807,
+      "views": 97482,
+      "ageHours": 14.3
     },
     {
       "title": "Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name",
       "channel": "Jeremy Corbell",
       "videoId": "9GblwqzGFAY",
-      "viewsPerHour": 6545,
-      "views": 87487,
-      "ageHours": 13.4
+      "viewsPerHour": 6189,
+      "views": 94734,
+      "ageHours": 15.3
     },
     {
       "title": "A Military Investigator Speaks Out | The Secret of Skinwalker Ranch (S2, E3) | Full Episode",
       "channel": "History",
       "videoId": "QvnZ2AY9Xd4",
-      "viewsPerHour": 5434,
-      "views": 94330,
-      "ageHours": 17.4
+      "viewsPerHour": 5032,
+      "views": 97124,
+      "ageHours": 19.3
     },
     {
       "title": "Ben Gibbard On Death Cab for Cutie’s “I Built You a Tower” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "fvoHkUrg64o",
-      "viewsPerHour": 5231,
-      "views": 67371,
-      "ageHours": 12.9
+      "viewsPerHour": 4898,
+      "views": 72582,
+      "ageHours": 14.8
+    },
+    {
+      "title": "CEO Luca Ferrari condones theft; how Harvest stole $20,000 from customers on auto-renew",
+      "channel": "Louis Rossmann",
+      "videoId": "8K_TJJGENac",
+      "viewsPerHour": 4790,
+      "views": 33288,
+      "ageHours": 6.9
     },
     {
       "title": "Trump Kills Hegseth's Firing Squad Livestream & What's in Guilfoyle's Burn Book? | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "A9OuNrlbENw",
-      "viewsPerHour": 4211,
-      "views": 165181,
-      "ageHours": 39.2
+      "viewsPerHour": 4050,
+      "views": 166716,
+      "ageHours": 41.2
     },
     {
       "title": "Trump approval hits NEW LOW as he continues campaign tour of red states",
       "channel": "MS NOW",
       "videoId": "QC6fBsYGH3Q",
-      "viewsPerHour": 2661,
+      "viewsPerHour": 2035,
       "views": 16775,
+      "ageHours": 8.2
+    },
+    {
+      "title": "Jeff Garlin (Full Episode, Part II) | Where Everybody Knows Your Name",
+      "channel": "Conan O'Brien",
+      "videoId": "jDIAoiz540k",
+      "viewsPerHour": 1429,
+      "views": 9005,
       "ageHours": 6.3
     },
     {
       "title": "“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”",
       "channel": "Jeremy Corbell",
       "videoId": "sIBjOCENWmg",
-      "viewsPerHour": 1420,
-      "views": 22877,
-      "ageHours": 16.1
+      "viewsPerHour": 1306,
+      "views": 23572,
+      "ageHours": 18.1
     },
     {
       "title": "Stop Killing Games bill announced by Ritchie Torres in US Congress",
       "channel": "Louis Rossmann",
       "videoId": "r-zanY8lK1M",
-      "viewsPerHour": 819,
+      "viewsPerHour": 764,
       "views": 22159,
-      "ageHours": 27.1
+      "ageHours": 29
     },
     {
       "title": "The Real Sing Sing: The Prison Inmates Finding Redemption and Beating Addiction",
       "channel": "Real Stories",
       "videoId": "HXHo6us-XXw",
-      "viewsPerHour": 579,
-      "views": 12959,
-      "ageHours": 22.4
+      "viewsPerHour": 547,
+      "views": 13300,
+      "ageHours": 24.3
+    },
+    {
+      "title": "Worst thing I've seen in my political career': REACTION to Ramaswamy's ad featuring opponent's mom",
+      "channel": "MS NOW",
+      "videoId": "ERdY9k6wSmE",
+      "viewsPerHour": 421,
+      "views": 639,
+      "ageHours": 1.5
     },
     {
       "title": "Sasha Alex Sloan performs 'Empty' and discusses the craft of songwriting",
       "channel": "PBS NewsHour",
       "videoId": "7xKronkLKwM",
-      "viewsPerHour": 407,
+      "viewsPerHour": 366,
       "views": 7050,
-      "ageHours": 17.3
+      "ageHours": 19.3
     },
     {
       "title": "PBS News Hour live episode, Oct. 20, 2026",
       "channel": "PBS NewsHour",
       "videoId": "MIRTFykYH0M",
-      "viewsPerHour": 272,
+      "viewsPerHour": 248,
       "views": 5309,
-      "ageHours": 19.5
+      "ageHours": 21.5
+    },
+    {
+      "title": "Monetizing pardons? NYT says billionaire got a pardon after $50 MILLION deal with ex-Trump lawyer",
+      "channel": "MS NOW",
+      "videoId": "sCQUVjXCg0A",
+      "viewsPerHour": 218,
+      "views": 327,
+      "ageHours": 1.5
     },
     {
       "title": "Conan's Writer Matt O'Brien Interrupts The Podcast | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "sYhpzR8J6vQ",
-      "viewsPerHour": 119,
+      "viewsPerHour": 110,
       "views": 3010,
-      "ageHours": 25.4
+      "ageHours": 27.3
     },
     {
-      "title": "Never met a dictator he didn't love': Commentator slams Trump as 'raging narcissist'",
+      "title": "LIVE: Vance stumps with Ramaswamy amid OUTRAGE over “DASTARDLY” ad",
       "channel": "MS NOW",
-      "videoId": "taYicK8WuS4",
-      "viewsPerHour": 78,
-      "views": 1862,
-      "ageHours": 23.8
+      "videoId": "nBpLTzuoM1c",
+      "viewsPerHour": 106,
+      "views": 758,
+      "ageHours": 7.1
+    },
+    {
+      "title": "WATCH LIVE: Vance rallies GOP voters in Sharonville, Ohio",
+      "channel": "PBS NewsHour",
+      "videoId": "DHeGWuuEnXU",
+      "viewsPerHour": 76,
+      "views": 251,
+      "ageHours": 3.3
     },
     {
       "title": "How the Kansas Senate race became surprisingly competitive",
       "channel": "PBS NewsHour",
       "videoId": "lQnLLt8wHl0",
-      "viewsPerHour": 69,
+      "viewsPerHour": 62,
       "views": 1233,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
-      "title": "Justin J. Pearson on the FIGHT to WIN Tennessee district redrawn by GOP gerrymandering",
-      "channel": "MS NOW",
-      "videoId": "2Z5whB5CH5A",
-      "viewsPerHour": 50,
-      "views": 1202,
-      "ageHours": 24.2
-    },
-    {
-      "title": "WATCH LIVE: Hegseth speaks to workers at U.S. defense company Sierra Nevada Corporation",
+      "title": "WATCH: Vance speaks about combatting fraud on visit to Cincinnati FBI office",
       "channel": "PBS NewsHour",
-      "videoId": "R7Rn55A1pA4",
-      "viewsPerHour": 36,
-      "views": 876,
-      "ageHours": 24.5
-    },
-    {
-      "title": "LIVE: Donald Trump and J.D. Vance make an announcement with midterms two weeks away",
-      "channel": "MS NOW",
-      "videoId": "nMnO3AYCYVE",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 23.8
-    },
-    {
-      "title": "WATCH LIVE: Trump holds GOP midterm rally in North Carolina",
-      "channel": "PBS NewsHour",
-      "videoId": "6PUtBmb7FPI",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 24.9
-    },
-    {
-      "title": "WATCH LIVE: NASA previews upcoming spacewalks",
-      "channel": "PBS NewsHour",
-      "videoId": "i8wS6stLiTI",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 24.9
+      "videoId": "d_r8iYmbuqY",
+      "viewsPerHour": 31,
+      "views": 51,
+      "ageHours": 1.6
     }
   ]
 }
