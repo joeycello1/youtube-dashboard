@@ -1,16 +1,28 @@
 {
   "videosPerChannel": [
     {
+      "channel": "MS NOW",
+      "count": 4
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 10
+    },
+    {
+      "channel": "Jeremy Corbell",
+      "count": 6
+    },
+    {
       "channel": "PBS NewsHour",
-      "count": 5
+      "count": 7
+    },
+    {
+      "channel": "History",
+      "count": 54
     },
     {
       "channel": "Real Stories",
       "count": 47
-    },
-    {
-      "channel": "MS NOW",
-      "count": 4
     },
     {
       "channel": "Conan O'Brien",
@@ -19,10 +31,6 @@
     {
       "channel": "Louis Rossmann",
       "count": 13
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 7
     },
     {
       "channel": "More Perfect Union",
@@ -35,10 +43,6 @@
     {
       "channel": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "channel": "History",
-      "count": 53
     },
     {
       "channel": "Chris Lehto",
@@ -73,18 +77,38 @@
       "count": 6
     },
     {
-      "channel": "Jeremy Corbell",
-      "count": 4
-    },
-    {
       "channel": "Inside AI",
       "count": 1
     }
   ],
   "keywordFrequency": [
     {
+      "keyword": "MS NOW, Reuters",
+      "count": 1
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 7
+    },
+    {
+      "keyword": "Corbell, George Knapp, UAP, UFO",
+      "count": 1
+    },
+    {
+      "keyword": "The Daily Show, AI",
+      "count": 3
+    },
+    {
+      "keyword": "Corbell, anomalous, George Knapp, UAP, whistleblower",
+      "count": 1
+    },
+    {
       "keyword": "PBS NewsHour",
-      "count": 5
+      "count": 7
+    },
+    {
+      "keyword": "UFO",
+      "count": 42
     },
     {
       "keyword": "Real Stories",
@@ -92,7 +116,7 @@
     },
     {
       "keyword": "MS NOW",
-      "count": 4
+      "count": 3
     },
     {
       "keyword": "Conan O'Brien",
@@ -101,14 +125,6 @@
     {
       "keyword": "Louis Rossmann",
       "count": 12
-    },
-    {
-      "keyword": "The Daily Show",
-      "count": 5
-    },
-    {
-      "keyword": "The Daily Show, AI",
-      "count": 2
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -121,10 +137,6 @@
     {
       "keyword": "The Rest Is Science, AI",
       "count": 1
-    },
-    {
-      "keyword": "UFO",
-      "count": 41
     },
     {
       "keyword": "More Perfect Union",
@@ -221,8 +233,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-10-21",
+      "videos": 6
+    },
+    {
       "date": "2026-10-20",
-      "videos": 15
+      "videos": 17
     },
     {
       "date": "2026-10-19",
@@ -451,7 +467,31 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "MS NOW, Reuters",
+      "matches": 1
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 7
+    },
+    {
+      "keyword": "Corbell, George Knapp, UAP, UFO",
+      "matches": 1
+    },
+    {
+      "keyword": "The Daily Show, AI",
+      "matches": 3
+    },
+    {
+      "keyword": "Corbell, anomalous, George Knapp, UAP, whistleblower",
+      "matches": 1
+    },
+    {
       "keyword": "PBS NewsHour",
+      "matches": 7
+    },
+    {
+      "keyword": "UFO",
       "matches": 5
     },
     {
@@ -460,23 +500,15 @@
     },
     {
       "keyword": "MS NOW",
-      "matches": 4
+      "matches": 3
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "Louis Rossmann",
       "matches": 8
-    },
-    {
-      "keyword": "The Daily Show",
-      "matches": 5
-    },
-    {
-      "keyword": "The Daily Show, AI",
-      "matches": 2
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -489,10 +521,6 @@
     {
       "keyword": "The Rest Is Science, AI",
       "matches": 1
-    },
-    {
-      "keyword": "UFO",
-      "matches": 4
     },
     {
       "keyword": "More Perfect Union",
@@ -524,121 +552,177 @@
       "title": "Paris Protests Erupt Over High Fuel Costs & Trump Cuts Diesel Deal with Russia | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "JjI3TM__A5o",
-      "viewsPerHour": 152568,
-      "views": 4520809,
-      "ageHours": 29.6
+      "viewsPerHour": 145500,
+      "views": 4602585,
+      "ageHours": 31.6
+    },
+    {
+      "title": "Trump Drools Over Sen. Jon Husted’s Ass & Fayette County Candidate Gets Piss Drunk? | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "ymQhixom0g0",
+      "viewsPerHour": 100453,
+      "views": 1034374,
+      "ageHours": 10.3
     },
     {
       "title": "David Corn - Trump’s Man Crush on Putin & “How Russia Won” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "IRUhdhS29Vc",
-      "viewsPerHour": 27988,
-      "views": 861553,
-      "ageHours": 30.8
+      "viewsPerHour": 26674,
+      "views": 874508,
+      "ageHours": 32.8
     },
     {
       "title": "I Used AI To Surveil Myself At Work. What It Can See Will Disturb You.",
       "channel": "More Perfect Union",
       "videoId": "ca7ufSI1Qxg",
-      "viewsPerHour": 14407,
-      "views": 624163,
-      "ageHours": 43.3
+      "viewsPerHour": 13890,
+      "views": 629576,
+      "ageHours": 45.3
+    },
+    {
+      "title": "PBS News Hour full episode, Oct. 20, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "ZF9N7CxOWZ8",
+      "viewsPerHour": 11087,
+      "views": 144863,
+      "ageHours": 13.1
+    },
+    {
+      "title": "Death Cab for Cutie Performs “Stone Over Water”",
+      "channel": "The Daily Show",
+      "videoId": "mISlVcnLu1o",
+      "viewsPerHour": 7699,
+      "views": 63949,
+      "ageHours": 8.3
+    },
+    {
+      "title": "Trump approval hits NEW LOW as he continues campaign tour of red states",
+      "channel": "MS NOW",
+      "videoId": "QC6fBsYGH3Q",
+      "viewsPerHour": 7528,
+      "views": 16775,
+      "ageHours": 2.2
+    },
+    {
+      "title": "Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name",
+      "channel": "Jeremy Corbell",
+      "videoId": "9GblwqzGFAY",
+      "viewsPerHour": 7303,
+      "views": 67854,
+      "ageHours": 9.3
+    },
+    {
+      "title": "A Military Investigator Speaks Out | The Secret of Skinwalker Ranch (S2, E3) | Full Episode",
+      "channel": "History",
+      "videoId": "QvnZ2AY9Xd4",
+      "viewsPerHour": 6436,
+      "views": 85510,
+      "ageHours": 13.3
+    },
+    {
+      "title": "Ben Gibbard On Death Cab for Cutie’s “I Built You a Tower” | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "fvoHkUrg64o",
+      "viewsPerHour": 5509,
+      "views": 48498,
+      "ageHours": 8.8
     },
     {
       "title": "Trump Kills Hegseth's Firing Squad Livestream & What's in Guilfoyle's Burn Book? | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "A9OuNrlbENw",
-      "viewsPerHour": 4809,
-      "views": 159414,
-      "ageHours": 33.1
+      "viewsPerHour": 4585,
+      "views": 161165,
+      "ageHours": 35.1
     },
     {
-      "title": "Martin Short Returns (Full Episode) | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "NzvTyy-7O9s",
-      "viewsPerHour": 1339,
-      "views": 63327,
-      "ageHours": 47.3
+      "title": "“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”",
+      "channel": "Jeremy Corbell",
+      "videoId": "sIBjOCENWmg",
+      "viewsPerHour": 1702,
+      "views": 20483,
+      "ageHours": 12
     },
     {
       "title": "Stop Killing Games bill announced by Ritchie Torres in US Congress",
       "channel": "Louis Rossmann",
       "videoId": "r-zanY8lK1M",
-      "viewsPerHour": 1056,
+      "viewsPerHour": 964,
       "views": 22159,
-      "ageHours": 21
+      "ageHours": 23
     },
     {
       "title": "The Real Sing Sing: The Prison Inmates Finding Redemption and Beating Addiction",
       "channel": "Real Stories",
       "videoId": "HXHo6us-XXw",
-      "viewsPerHour": 696,
-      "views": 11328,
-      "ageHours": 16.3
+      "viewsPerHour": 650,
+      "views": 11893,
+      "ageHours": 18.3
     },
     {
-      "title": "The Last Word with Lawrence O'Donnell - Oct. 19 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "3PCPTlHlAcM",
-      "viewsPerHour": 658,
-      "views": 18535,
-      "ageHours": 28.2
+      "title": "Sasha Alex Sloan performs 'Empty' and discusses the craft of songwriting",
+      "channel": "PBS NewsHour",
+      "videoId": "7xKronkLKwM",
+      "viewsPerHour": 532,
+      "views": 7050,
+      "ageHours": 13.3
     },
     {
       "title": "Withings introduces Scale-As-A-Service; SaaS hits a new low",
       "channel": "Louis Rossmann",
       "videoId": "n5w7JWghyVE",
-      "viewsPerHour": 546,
+      "viewsPerHour": 523,
       "views": 24503,
-      "ageHours": 44.9
+      "ageHours": 46.9
     },
     {
       "title": "PBS News Hour live episode, Oct. 20, 2026",
       "channel": "PBS NewsHour",
       "videoId": "MIRTFykYH0M",
-      "viewsPerHour": 395,
+      "viewsPerHour": 344,
       "views": 5309,
-      "ageHours": 13.4
+      "ageHours": 15.4
     },
     {
       "title": "Conan's Writer Matt O'Brien Interrupts The Podcast | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "sYhpzR8J6vQ",
-      "viewsPerHour": 156,
+      "viewsPerHour": 141,
       "views": 3010,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "Never met a dictator he didn't love': Commentator slams Trump as 'raging narcissist'",
       "channel": "MS NOW",
       "videoId": "taYicK8WuS4",
-      "viewsPerHour": 105,
+      "viewsPerHour": 94,
       "views": 1862,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "How the Kansas Senate race became surprisingly competitive",
       "channel": "PBS NewsHour",
       "videoId": "lQnLLt8wHl0",
-      "viewsPerHour": 105,
+      "viewsPerHour": 90,
       "views": 1233,
-      "ageHours": 11.8
+      "ageHours": 13.8
     },
     {
       "title": "Justin J. Pearson on the FIGHT to WIN Tennessee district redrawn by GOP gerrymandering",
       "channel": "MS NOW",
       "videoId": "2Z5whB5CH5A",
-      "viewsPerHour": 66,
+      "viewsPerHour": 60,
       "views": 1202,
-      "ageHours": 18.1
+      "ageHours": 20.1
     },
     {
       "title": "WATCH LIVE: Hegseth speaks to workers at U.S. defense company Sierra Nevada Corporation",
       "channel": "PBS NewsHour",
       "videoId": "R7Rn55A1pA4",
-      "viewsPerHour": 47,
+      "viewsPerHour": 43,
       "views": 876,
-      "ageHours": 18.5
+      "ageHours": 20.5
     },
     {
       "title": "LIVE: Donald Trump and J.D. Vance make an announcement with midterms two weeks away",
@@ -646,7 +730,7 @@
       "videoId": "nMnO3AYCYVE",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "WATCH LIVE: Trump holds GOP midterm rally in North Carolina",
@@ -654,7 +738,7 @@
       "videoId": "6PUtBmb7FPI",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 18.8
+      "ageHours": 20.8
     },
     {
       "title": "WATCH LIVE: NASA previews upcoming spacewalks",
@@ -662,7 +746,7 @@
       "videoId": "i8wS6stLiTI",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 18.8
+      "ageHours": 20.8
     }
   ]
 }
