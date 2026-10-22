@@ -2,19 +2,31 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 7
-    },
-    {
-      "channel": "NOVA",
-      "count": 24
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 12
+      "count": 6
     },
     {
       "channel": "PBS NewsHour",
       "count": 7
+    },
+    {
+      "channel": "History",
+      "count": 53
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 12
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 14
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 13
+    },
+    {
+      "channel": "NOVA",
+      "count": 24
     },
     {
       "channel": "The Rest Is Science",
@@ -29,20 +41,8 @@
       "count": 47
     },
     {
-      "channel": "Conan O'Brien",
-      "count": 11
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 13
-    },
-    {
       "channel": "Jeremy Corbell",
       "count": 6
-    },
-    {
-      "channel": "History",
-      "count": 52
     },
     {
       "channel": "Diary of a CEO",
@@ -74,7 +74,7 @@
     },
     {
       "channel": "Jonathan Pie",
-      "count": 6
+      "count": 5
     },
     {
       "channel": "Inside AI",
@@ -84,19 +84,31 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 7
-    },
-    {
-      "keyword": "NOVA",
-      "count": 35
-    },
-    {
-      "keyword": "The Daily Show",
-      "count": 9
+      "count": 6
     },
     {
       "keyword": "PBS NewsHour",
       "count": 7
+    },
+    {
+      "keyword": "UFO",
+      "count": 43
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 12
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 14
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 10
+    },
+    {
+      "keyword": "NOVA",
+      "count": 35
     },
     {
       "keyword": "The Rest Is Science",
@@ -111,14 +123,6 @@
       "count": 45
     },
     {
-      "keyword": "Conan O'Brien",
-      "count": 11
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 13
-    },
-    {
       "keyword": "Corbell, George Knapp, UAP, UFO",
       "count": 1
     },
@@ -129,10 +133,6 @@
     {
       "keyword": "Corbell, anomalous, George Knapp, UAP, whistleblower",
       "count": 1
-    },
-    {
-      "keyword": "UFO",
-      "count": 42
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -168,7 +168,7 @@
     },
     {
       "keyword": "Jonathan Pie",
-      "count": 6
+      "count": 5
     },
     {
       "keyword": "AI, whistleblower",
@@ -222,11 +222,11 @@
   "dailySummary": [
     {
       "date": "2026-10-22",
-      "videos": 5
+      "videos": 14
     },
     {
       "date": "2026-10-21",
-      "videos": 25
+      "videos": 20
     },
     {
       "date": "2026-10-20",
@@ -262,7 +262,7 @@
     },
     {
       "date": "2026-10-12",
-      "videos": 8
+      "videos": 7
     },
     {
       "date": "2026-10-11",
@@ -446,7 +446,7 @@
     },
     {
       "date": "2026-08-23",
-      "videos": 2
+      "videos": 1
     },
     {
       "date": "2026-08-15",
@@ -456,19 +456,31 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 7
-    },
-    {
-      "keyword": "NOVA",
       "matches": 6
-    },
-    {
-      "keyword": "The Daily Show",
-      "matches": 9
     },
     {
       "keyword": "PBS NewsHour",
       "matches": 7
+    },
+    {
+      "keyword": "UFO",
+      "matches": 5
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 7
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 9
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 10
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 6
     },
     {
       "keyword": "The Rest Is Science",
@@ -480,15 +492,7 @@
     },
     {
       "keyword": "Real Stories",
-      "matches": 6
-    },
-    {
-      "keyword": "Conan O'Brien",
       "matches": 5
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 8
     },
     {
       "keyword": "Corbell, George Knapp, UAP, UFO",
@@ -501,10 +505,6 @@
     {
       "keyword": "Corbell, anomalous, George Knapp, UAP, whistleblower",
       "matches": 1
-    },
-    {
-      "keyword": "UFO",
-      "matches": 4
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -532,257 +532,281 @@
       "title": "Trump Nixes Hegseth's Livestream Execution & JD Vance Unleashes New Laugh | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "9cMMX1Cxk90",
-      "viewsPerHour": 108556,
-      "views": 1555001,
-      "ageHours": 14.3
+      "viewsPerHour": 103053,
+      "views": 1678385,
+      "ageHours": 16.3
     },
     {
       "title": "Hello & Goodbye Katie Zacharia, Trump's Press Secretary Who Lasted Five Whole Days | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Va2UzRSJ1qc",
-      "viewsPerHour": 72876,
-      "views": 2101169,
-      "ageHours": 28.8
+      "viewsPerHour": 69118,
+      "views": 2128436,
+      "ageHours": 30.8
+    },
+    {
+      "title": "Mo Amer: Abdul El-Sayed Is Defying Islamophobic Attacks with Charisma | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "ZDDQh9R00QI",
+      "viewsPerHour": 50277,
+      "views": 349882,
+      "ageHours": 7
     },
     {
       "title": "Trump Drools Over Sen. Jon Husted’s Ass & Fayette County Candidate Gets Piss Drunk? | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ymQhixom0g0",
-      "viewsPerHour": 47896,
-      "views": 1836366,
-      "ageHours": 38.3
+      "viewsPerHour": 45887,
+      "views": 1849397,
+      "ageHours": 40.3
     },
     {
       "title": "Taika Waititi on Filming “Klara and the Sun” in His Home Country of New Zealand | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "66GQiUl7LjI",
-      "viewsPerHour": 10533,
-      "views": 135204,
-      "ageHours": 12.8
+      "viewsPerHour": 10104,
+      "views": 149532,
+      "ageHours": 14.8
     },
     {
       "title": "A History Of Squatting",
       "channel": "The Rest Is Science",
       "videoId": "y63JfVI36_U",
-      "viewsPerHour": 8428,
-      "views": 145360,
-      "ageHours": 17.2
+      "viewsPerHour": 8324,
+      "views": 159895,
+      "ageHours": 19.2
     },
     {
       "title": "PBS News Hour full episode, Oct. 21, 2026",
       "channel": "PBS NewsHour",
       "videoId": "F0p_t03WJYQ",
-      "viewsPerHour": 7566,
+      "viewsPerHour": 6780,
       "views": 128154,
-      "ageHours": 16.9
+      "ageHours": 18.9
     },
     {
-      "title": "Death Cab for Cutie Performs “Stone Over Water”",
-      "channel": "The Daily Show",
-      "videoId": "mISlVcnLu1o",
-      "viewsPerHour": 4155,
-      "views": 151048,
-      "ageHours": 36.4
+      "title": "Olivia Harrison (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "DxVw9x6ATdM",
+      "viewsPerHour": 4353,
+      "views": 27420,
+      "ageHours": 6.3
     },
     {
       "title": "We Went Inside The Group That's Shaped How You Pay Taxes Since 1985",
       "channel": "More Perfect Union",
       "videoId": "IGb2210QyJw",
-      "viewsPerHour": 3984,
-      "views": 83853,
-      "ageHours": 21
+      "viewsPerHour": 4118,
+      "views": 94745,
+      "ageHours": 23
+    },
+    {
+      "title": "Death Cab for Cutie Performs “Stone Over Water”",
+      "channel": "The Daily Show",
+      "videoId": "mISlVcnLu1o",
+      "viewsPerHour": 3991,
+      "views": 152911,
+      "ageHours": 38.3
     },
     {
       "title": "Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name",
       "channel": "Jeremy Corbell",
       "videoId": "9GblwqzGFAY",
-      "viewsPerHour": 3716,
-      "views": 138734,
-      "ageHours": 37.3
+      "viewsPerHour": 3598,
+      "views": 141374,
+      "ageHours": 39.3
     },
     {
       "title": "A Military Investigator Speaks Out | The Secret of Skinwalker Ranch (S2, E3) | Full Episode",
       "channel": "History",
       "videoId": "QvnZ2AY9Xd4",
-      "viewsPerHour": 2989,
-      "views": 123529,
-      "ageHours": 41.3
+      "viewsPerHour": 2874,
+      "views": 124440,
+      "ageHours": 43.3
+    },
+    {
+      "title": "Rockets Reveal Ranch Secrets | The Secret of Skinwalker Ranch",
+      "channel": "History",
+      "videoId": "Cxq3YGNoyp0",
+      "viewsPerHour": 2712,
+      "views": 6222,
+      "ageHours": 2.3
     },
     {
       "title": "Ben Gibbard On Death Cab for Cutie’s “I Built You a Tower” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "fvoHkUrg64o",
-      "viewsPerHour": 2811,
-      "views": 103577,
-      "ageHours": 36.8
+      "viewsPerHour": 2697,
+      "views": 104652,
+      "ageHours": 38.8
     },
     {
       "title": "Evolution: Need to Feed | Full Documentary | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "TIITTjlG3Zk",
-      "viewsPerHour": 2312,
-      "views": 49374,
-      "ageHours": 21.4
+      "viewsPerHour": 2218,
+      "views": 51717,
+      "ageHours": 23.3
+    },
+    {
+      "title": "WOW broadband falsely advertises symmetrical speeds using deceptive dark pattern",
+      "channel": "Louis Rossmann",
+      "videoId": "eIAREF4rulM",
+      "viewsPerHour": 1995,
+      "views": 7356,
+      "ageHours": 3.7
+    },
+    {
+      "title": "WATCH: Blanche and Patel announce charges for Democratic Virginia lawmaker Lucas",
+      "channel": "PBS NewsHour",
+      "videoId": "NVW1ZAgaEYw",
+      "viewsPerHour": 1800,
+      "views": 5968,
+      "ageHours": 3.3
+    },
+    {
+      "title": "LIVE: Vance speaks at midterm rally in Nebraska",
+      "channel": "MS NOW",
+      "videoId": "6iXyg9-a33I",
+      "viewsPerHour": 1535,
+      "views": 2320,
+      "ageHours": 1.5
     },
     {
       "title": "SICK and DEPRAVED': Nicolle reacts to Trump DANGLING settlement money to AILING VETERANS for votes",
       "channel": "MS NOW",
       "videoId": "E4BuU9nxZeg",
-      "viewsPerHour": 1459,
+      "viewsPerHour": 1318,
       "views": 26668,
-      "ageHours": 18.3
+      "ageHours": 20.2
     },
     {
       "title": "Former GOP governor David Beasley says Trump's 'demeaning' rhetoric pushed him from party",
       "channel": "PBS NewsHour",
       "videoId": "kLXtpFHfSoA",
-      "viewsPerHour": 1375,
+      "viewsPerHour": 1233,
       "views": 23574,
-      "ageHours": 17.1
+      "ageHours": 19.1
     },
     {
       "title": "CEO Luca Ferrari condones theft; how Harvest stole $20,000 from customers on auto-renew",
       "channel": "Louis Rossmann",
       "videoId": "8K_TJJGENac",
-      "viewsPerHour": 1149,
+      "viewsPerHour": 1076,
       "views": 33288,
-      "ageHours": 29
-    },
-    {
-      "title": "DESPICABLE': Nicolle SHREDS Vivek Ramaswamy and Republicans for DOUBLING DOWN on disgusting ad",
-      "channel": "MS NOW",
-      "videoId": "2u7nvIEvI-g",
-      "viewsPerHour": 894,
-      "views": 16079,
-      "ageHours": 18
+      "ageHours": 30.9
     },
     {
       "title": "Interview: Can Humans Cause Earthquakes? with John Shaw | Particles of Thought",
       "channel": "NOVA",
       "videoId": "MCg-EZAHTcE",
-      "viewsPerHour": 848,
-      "views": 5376,
-      "ageHours": 6.3
+      "viewsPerHour": 885,
+      "views": 7346,
+      "ageHours": 8.3
+    },
+    {
+      "title": "DESPICABLE': Nicolle SHREDS Vivek Ramaswamy and Republicans for DOUBLING DOWN on disgusting ad",
+      "channel": "MS NOW",
+      "videoId": "2u7nvIEvI-g",
+      "viewsPerHour": 806,
+      "views": 16079,
+      "ageHours": 20
     },
     {
       "title": "“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”",
       "channel": "Jeremy Corbell",
       "videoId": "sIBjOCENWmg",
-      "viewsPerHour": 693,
-      "views": 27783,
-      "ageHours": 40.1
+      "viewsPerHour": 665,
+      "views": 27961,
+      "ageHours": 42
+    },
+    {
+      "title": "WATCH LIVE: Vance holds GOP midterm rally in Nebraska",
+      "channel": "PBS NewsHour",
+      "videoId": "gOPbglERoWg",
+      "viewsPerHour": 606,
+      "views": 919,
+      "ageHours": 1.5
     },
     {
       "title": "Inside The Mysterious Life Of Ukraine's Real Life Barbie",
       "channel": "Real Stories",
       "videoId": "zApHO3BwUfI",
-      "viewsPerHour": 622,
-      "views": 13891,
-      "ageHours": 22.3
+      "viewsPerHour": 588,
+      "views": 14279,
+      "ageHours": 24.3
     },
     {
-      "title": "The Real Sing Sing: The Prison Inmates Finding Redemption and Beating Addiction",
-      "channel": "Real Stories",
-      "videoId": "HXHo6us-XXw",
-      "viewsPerHour": 403,
-      "views": 18685,
-      "ageHours": 46.3
-    },
-    {
-      "title": "13 days to midterms: ‘Ass talk’ from the president, Dems sue Trump over threats | MS NOW Highlights",
-      "channel": "MS NOW",
-      "videoId": "RQ67eqd_xRs",
-      "viewsPerHour": 334,
-      "views": 1958,
-      "ageHours": 5.9
+      "title": "Bill Hader Loves Pulling Pranks | CONAN on TBS",
+      "channel": "Conan O'Brien",
+      "videoId": "2hdiR7OAdfE",
+      "viewsPerHour": 342,
+      "views": 1127,
+      "ageHours": 3.3
     },
     {
       "title": "Jeff Garlin (Full Episode, Part II) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "jDIAoiz540k",
-      "viewsPerHour": 318,
+      "viewsPerHour": 297,
       "views": 9005,
-      "ageHours": 28.3
+      "ageHours": 30.3
+    },
+    {
+      "title": "Joe: Ukraine's 'fight for FREEDOM' is also a fight for Western Civilization",
+      "channel": "MS NOW",
+      "videoId": "HE4IZz0uzLQ",
+      "viewsPerHour": 265,
+      "views": 422,
+      "ageHours": 1.6
     },
     {
       "title": "PBS News Hour live episode, Oct. 21, 2026",
       "channel": "PBS NewsHour",
       "videoId": "jBog6BdbUaw",
-      "viewsPerHour": 280,
+      "viewsPerHour": 254,
       "views": 5327,
-      "ageHours": 19
+      "ageHours": 21
     },
     {
-      "title": " “I'm fed up with it.” Nebraska independent wants to see accountability in Congress",
+      "title": "13 days to midterms: ‘Ass talk’ from the president, Dems sue Trump over threats | MS NOW Highlights",
       "channel": "MS NOW",
-      "videoId": "HZ0ziDVg0hw",
-      "viewsPerHour": 106,
-      "views": 631,
-      "ageHours": 5.9
-    },
-    {
-      "title": "Worst thing I've seen in my political career': REACTION to Ramaswamy's ad featuring opponent's mom",
-      "channel": "MS NOW",
-      "videoId": "ERdY9k6wSmE",
-      "viewsPerHour": 27,
-      "views": 639,
-      "ageHours": 23.5
-    },
-    {
-      "title": "LIVE: Vance stumps with Ramaswamy amid OUTRAGE over “DASTARDLY” ad",
-      "channel": "MS NOW",
-      "videoId": "nBpLTzuoM1c",
-      "viewsPerHour": 26,
-      "views": 758,
-      "ageHours": 29.2
-    },
-    {
-      "title": "Democratic and GOP strategists on the deeply personal attack ad in Ohio",
-      "channel": "PBS NewsHour",
-      "videoId": "FkINzRvWQ5Y",
-      "viewsPerHour": 20,
-      "views": 351,
-      "ageHours": 17.6
-    },
-    {
-      "title": "News Wrap: Cybersecurity threat prompts scramble to protect websites around the world",
-      "channel": "PBS NewsHour",
-      "videoId": "VNNP5x59feM",
-      "viewsPerHour": 19,
-      "views": 330,
-      "ageHours": 17.7
-    },
-    {
-      "title": "Monetizing pardons? NYT says billionaire got a pardon after $50 MILLION deal with ex-Trump lawyer",
-      "channel": "MS NOW",
-      "videoId": "sCQUVjXCg0A",
-      "viewsPerHour": 14,
-      "views": 327,
-      "ageHours": 23.5
-    },
-    {
-      "title": "WATCH LIVE: Vance rallies GOP voters in Sharonville, Ohio",
-      "channel": "PBS NewsHour",
-      "videoId": "DHeGWuuEnXU",
-      "viewsPerHour": 10,
-      "views": 251,
-      "ageHours": 25.3
-    },
-    {
-      "title": "WATCH: Vance speaks about combatting fraud on visit to Cincinnati FBI office",
-      "channel": "PBS NewsHour",
-      "videoId": "d_r8iYmbuqY",
-      "viewsPerHour": 2,
-      "views": 51,
-      "ageHours": 23.7
+      "videoId": "RQ67eqd_xRs",
+      "viewsPerHour": 250,
+      "views": 1958,
+      "ageHours": 7.8
     },
     {
       "title": "LIVE Students v. Billionaires Town Hall with AOC & Troy Jackson",
       "channel": "More Perfect Union",
       "videoId": "aqlUm-Ye42U",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 17.5
+      "viewsPerHour": 109,
+      "views": 2126,
+      "ageHours": 19.5
+    },
+    {
+      "title": " “I'm fed up with it.” Nebraska independent wants to see accountability in Congress",
+      "channel": "MS NOW",
+      "videoId": "HZ0ziDVg0hw",
+      "viewsPerHour": 80,
+      "views": 631,
+      "ageHours": 7.9
+    },
+    {
+      "title": "Democratic and GOP strategists on the deeply personal attack ad in Ohio",
+      "channel": "PBS NewsHour",
+      "videoId": "FkINzRvWQ5Y",
+      "viewsPerHour": 18,
+      "views": 351,
+      "ageHours": 19.6
+    },
+    {
+      "title": "News Wrap: Cybersecurity threat prompts scramble to protect websites around the world",
+      "channel": "PBS NewsHour",
+      "videoId": "VNNP5x59feM",
+      "viewsPerHour": 17,
+      "views": 330,
+      "ageHours": 19.7
     }
   ]
 }
