@@ -1,12 +1,24 @@
 {
   "videosPerChannel": [
     {
-      "channel": "MS NOW",
-      "count": 4
+      "channel": "PBS NewsHour",
+      "count": 7
     },
     {
-      "channel": "PBS NewsHour",
+      "channel": "MS NOW",
       "count": 6
+    },
+    {
+      "channel": "More Perfect Union",
+      "count": 21
+    },
+    {
+      "channel": "NOVA",
+      "count": 23
+    },
+    {
+      "channel": "Real Stories",
+      "count": 47
     },
     {
       "channel": "Conan O'Brien",
@@ -29,14 +41,6 @@
       "count": 53
     },
     {
-      "channel": "Real Stories",
-      "count": 47
-    },
-    {
-      "channel": "More Perfect Union",
-      "count": 20
-    },
-    {
       "channel": "Diary of a CEO",
       "count": 4
     },
@@ -51,10 +55,6 @@
     {
       "channel": "The Interview",
       "count": 7
-    },
-    {
-      "channel": "NOVA",
-      "count": 22
     },
     {
       "channel": "Area 52",
@@ -83,12 +83,24 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "MS NOW",
-      "count": 3
+      "keyword": "PBS NewsHour",
+      "count": 7
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 6
+      "keyword": "MS NOW",
+      "count": 5
+    },
+    {
+      "keyword": "More Perfect Union",
+      "count": 15
+    },
+    {
+      "keyword": "NOVA",
+      "count": 35
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 45
     },
     {
       "keyword": "Conan O'Brien",
@@ -123,10 +135,6 @@
       "count": 42
     },
     {
-      "keyword": "Real Stories",
-      "count": 45
-    },
-    {
       "keyword": "More Perfect Union, AI",
       "count": 6
     },
@@ -137,14 +145,6 @@
     {
       "keyword": "The Rest Is Science, AI",
       "count": 1
-    },
-    {
-      "keyword": "More Perfect Union",
-      "count": 14
-    },
-    {
-      "keyword": "NOVA",
-      "count": 34
     },
     {
       "keyword": "UAP",
@@ -226,11 +226,11 @@
   "dailySummary": [
     {
       "date": "2026-10-21",
-      "videos": 14
+      "videos": 22
     },
     {
       "date": "2026-10-20",
-      "videos": 11
+      "videos": 9
     },
     {
       "date": "2026-10-19",
@@ -449,21 +449,29 @@
       "videos": 3
     },
     {
-      "date": "2026-08-22",
-      "videos": 1
-    },
-    {
       "date": "2026-08-15",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour",
+      "matches": 7
+    },
+    {
       "keyword": "MS NOW",
+      "matches": 5
+    },
+    {
+      "keyword": "More Perfect Union",
       "matches": 3
     },
     {
-      "keyword": "PBS NewsHour",
+      "keyword": "NOVA",
+      "matches": 5
+    },
+    {
+      "keyword": "Real Stories",
       "matches": 6
     },
     {
@@ -499,10 +507,6 @@
       "matches": 5
     },
     {
-      "keyword": "Real Stories",
-      "matches": 5
-    },
-    {
       "keyword": "More Perfect Union, AI",
       "matches": 1
     },
@@ -515,14 +519,6 @@
       "matches": 1
     },
     {
-      "keyword": "More Perfect Union",
-      "matches": 2
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 4
-    },
-    {
       "keyword": "UAP",
       "matches": 1
     },
@@ -533,212 +529,256 @@
     {
       "keyword": "AI",
       "matches": 1
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "matches": 1
     }
   ],
   "mostViral48h": [
     {
-      "title": "Hello & Goodbye Katie Zacharia, Trump's Press Secretary Who Lasted Five Whole Days | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "Va2UzRSJ1qc",
-      "viewsPerHour": 124851,
-      "views": 1355084,
-      "ageHours": 10.9
-    },
-    {
       "title": "Paris Protests Erupt Over High Fuel Costs & Trump Cuts Diesel Deal with Russia | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "JjI3TM__A5o",
-      "viewsPerHour": 122281,
+      "viewsPerHour": 116863,
       "views": 5098916,
-      "ageHours": 41.7
+      "ageHours": 43.6
+    },
+    {
+      "title": "Hello & Goodbye Katie Zacharia, Trump's Press Secretary Who Lasted Five Whole Days | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "Va2UzRSJ1qc",
+      "viewsPerHour": 105974,
+      "views": 1355084,
+      "ageHours": 12.8
     },
     {
       "title": "Trump Drools Over Sen. Jon Husted’s Ass & Fayette County Candidate Gets Piss Drunk? | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ymQhixom0g0",
-      "viewsPerHour": 77536,
+      "viewsPerHour": 70813,
       "views": 1578835,
-      "ageHours": 20.4
+      "ageHours": 22.3
     },
     {
       "title": "David Corn - Trump’s Man Crush on Putin & “How Russia Won” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "IRUhdhS29Vc",
-      "viewsPerHour": 22248,
+      "viewsPerHour": 21287,
       "views": 953323,
-      "ageHours": 42.9
+      "ageHours": 44.8
+    },
+    {
+      "title": "SICK and DEPRAVED': Nicolle reacts to Trump DANGLING settlement money to AILING VETERANS for votes",
+      "channel": "MS NOW",
+      "videoId": "E4BuU9nxZeg",
+      "viewsPerHour": 11947,
+      "views": 26668,
+      "ageHours": 2.2
+    },
+    {
+      "title": "DESPICABLE': Nicolle SHREDS Vivek Ramaswamy and Republicans for DOUBLING DOWN on disgusting ad",
+      "channel": "MS NOW",
+      "videoId": "2u7nvIEvI-g",
+      "viewsPerHour": 8267,
+      "views": 16079,
+      "ageHours": 1.9
     },
     {
       "title": "PBS News Hour full episode, Oct. 20, 2026",
       "channel": "PBS NewsHour",
       "videoId": "ZF9N7CxOWZ8",
-      "viewsPerHour": 6262,
+      "viewsPerHour": 5779,
       "views": 144863,
-      "ageHours": 23.1
+      "ageHours": 25.1
     },
     {
       "title": "Death Cab for Cutie Performs “Stone Over Water”",
       "channel": "The Daily Show",
       "videoId": "mISlVcnLu1o",
-      "viewsPerHour": 6234,
+      "viewsPerHour": 5641,
       "views": 114535,
-      "ageHours": 18.4
+      "ageHours": 20.3
     },
     {
       "title": "Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name",
       "channel": "Jeremy Corbell",
       "videoId": "9GblwqzGFAY",
-      "viewsPerHour": 5627,
+      "viewsPerHour": 5116,
       "views": 108929,
-      "ageHours": 19.4
+      "ageHours": 21.3
     },
     {
       "title": "A Military Investigator Speaks Out | The Secret of Skinwalker Ranch (S2, E3) | Full Episode",
       "channel": "History",
       "videoId": "QvnZ2AY9Xd4",
-      "viewsPerHour": 4480,
+      "viewsPerHour": 4137,
       "views": 104607,
-      "ageHours": 23.4
+      "ageHours": 25.3
     },
     {
       "title": "Ben Gibbard On Death Cab for Cutie’s “I Built You a Tower” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "fvoHkUrg64o",
-      "viewsPerHour": 4411,
+      "viewsPerHour": 4001,
       "views": 83225,
-      "ageHours": 18.9
+      "ageHours": 20.8
+    },
+    {
+      "title": "We Went Inside The Group That's Shaped How You Pay Taxes Since 1985",
+      "channel": "More Perfect Union",
+      "videoId": "IGb2210QyJw",
+      "viewsPerHour": 3880,
+      "views": 19411,
+      "ageHours": 5
     },
     {
       "title": "Trump Kills Hegseth's Firing Squad Livestream & What's in Guilfoyle's Burn Book? | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "A9OuNrlbENw",
-      "viewsPerHour": 3777,
+      "viewsPerHour": 3622,
       "views": 170765,
-      "ageHours": 45.2
+      "ageHours": 47.1
     },
     {
       "title": "CEO Luca Ferrari condones theft; how Harvest stole $20,000 from customers on auto-renew",
       "channel": "Louis Rossmann",
       "videoId": "8K_TJJGENac",
-      "viewsPerHour": 3026,
+      "viewsPerHour": 2574,
       "views": 33288,
-      "ageHours": 11
+      "ageHours": 12.9
+    },
+    {
+      "title": "PBS News Hour live episode, Oct. 21, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "jBog6BdbUaw",
+      "viewsPerHour": 1792,
+      "views": 5327,
+      "ageHours": 3
     },
     {
       "title": "Trump approval hits NEW LOW as he continues campaign tour of red states",
       "channel": "MS NOW",
       "videoId": "QC6fBsYGH3Q",
-      "viewsPerHour": 1364,
+      "viewsPerHour": 1179,
       "views": 16775,
-      "ageHours": 12.3
+      "ageHours": 14.2
+    },
+    {
+      "title": "Inside The Mysterious Life Of Ukraine's Real Life Barbie",
+      "channel": "Real Stories",
+      "videoId": "zApHO3BwUfI",
+      "viewsPerHour": 1054,
+      "views": 6625,
+      "ageHours": 6.3
     },
     {
       "title": "“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”",
       "channel": "Jeremy Corbell",
       "videoId": "sIBjOCENWmg",
-      "viewsPerHour": 1134,
+      "viewsPerHour": 1042,
       "views": 25057,
-      "ageHours": 22.1
+      "ageHours": 24
     },
     {
       "title": "Jeff Garlin (Full Episode, Part II) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "jDIAoiz540k",
-      "viewsPerHour": 870,
+      "viewsPerHour": 733,
       "views": 9005,
-      "ageHours": 10.4
+      "ageHours": 12.3
     },
     {
       "title": "Stop Killing Games bill announced by Ritchie Torres in US Congress",
       "channel": "Louis Rossmann",
       "videoId": "r-zanY8lK1M",
-      "viewsPerHour": 671,
+      "viewsPerHour": 634,
       "views": 22159,
-      "ageHours": 33
+      "ageHours": 35
     },
     {
       "title": "The Real Sing Sing: The Prison Inmates Finding Redemption and Beating Addiction",
       "channel": "Real Stories",
       "videoId": "HXHo6us-XXw",
-      "viewsPerHour": 513,
+      "viewsPerHour": 481,
       "views": 14555,
-      "ageHours": 28.4
+      "ageHours": 30.3
     },
     {
       "title": "Sasha Alex Sloan performs 'Empty' and discusses the craft of songwriting",
       "channel": "PBS NewsHour",
       "videoId": "7xKronkLKwM",
-      "viewsPerHour": 302,
+      "viewsPerHour": 279,
       "views": 7050,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
-      "title": "PBS News Hour live episode, Oct. 20, 2026",
+      "title": "Democratic and GOP strategists on the deeply personal attack ad in Ohio",
       "channel": "PBS NewsHour",
-      "videoId": "MIRTFykYH0M",
-      "viewsPerHour": 208,
-      "views": 5309,
-      "ageHours": 25.5
+      "videoId": "FkINzRvWQ5Y",
+      "viewsPerHour": 220,
+      "views": 351,
+      "ageHours": 1.6
     },
     {
-      "title": "Worst thing I've seen in my political career': REACTION to Ramaswamy's ad featuring opponent's mom",
-      "channel": "MS NOW",
-      "videoId": "ERdY9k6wSmE",
-      "viewsPerHour": 115,
-      "views": 639,
-      "ageHours": 5.6
+      "title": "News Wrap: Cybersecurity threat prompts scramble to protect websites around the world",
+      "channel": "PBS NewsHour",
+      "videoId": "VNNP5x59feM",
+      "viewsPerHour": 196,
+      "views": 330,
+      "ageHours": 1.7
     },
     {
       "title": "Conan's Writer Matt O'Brien Interrupts The Podcast | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "sYhpzR8J6vQ",
-      "viewsPerHour": 96,
+      "viewsPerHour": 90,
       "views": 3010,
-      "ageHours": 31.4
+      "ageHours": 33.3
+    },
+    {
+      "title": "Worst thing I've seen in my political career': REACTION to Ramaswamy's ad featuring opponent's mom",
+      "channel": "MS NOW",
+      "videoId": "ERdY9k6wSmE",
+      "viewsPerHour": 85,
+      "views": 639,
+      "ageHours": 7.5
     },
     {
       "title": "LIVE: Vance stumps with Ramaswamy amid OUTRAGE over “DASTARDLY” ad",
       "channel": "MS NOW",
       "videoId": "nBpLTzuoM1c",
-      "viewsPerHour": 68,
+      "viewsPerHour": 58,
       "views": 758,
-      "ageHours": 11.2
+      "ageHours": 13.1
     },
     {
       "title": "Monetizing pardons? NYT says billionaire got a pardon after $50 MILLION deal with ex-Trump lawyer",
       "channel": "MS NOW",
       "videoId": "sCQUVjXCg0A",
-      "viewsPerHour": 59,
+      "viewsPerHour": 44,
       "views": 327,
-      "ageHours": 5.6
-    },
-    {
-      "title": "How the Kansas Senate race became surprisingly competitive",
-      "channel": "PBS NewsHour",
-      "videoId": "lQnLLt8wHl0",
-      "viewsPerHour": 52,
-      "views": 1233,
-      "ageHours": 23.8
+      "ageHours": 7.5
     },
     {
       "title": "WATCH LIVE: Vance rallies GOP voters in Sharonville, Ohio",
       "channel": "PBS NewsHour",
       "videoId": "DHeGWuuEnXU",
-      "viewsPerHour": 34,
+      "viewsPerHour": 27,
       "views": 251,
-      "ageHours": 7.4
+      "ageHours": 9.3
     },
     {
       "title": "WATCH: Vance speaks about combatting fraud on visit to Cincinnati FBI office",
       "channel": "PBS NewsHour",
       "videoId": "d_r8iYmbuqY",
-      "viewsPerHour": 9,
+      "viewsPerHour": 7,
       "views": 51,
-      "ageHours": 5.7
+      "ageHours": 7.6
+    },
+    {
+      "title": "Evolution: Need to Feed | Full Documentary | NOVA | PBS",
+      "channel": "NOVA",
+      "videoId": "TIITTjlG3Zk",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 5.3
     }
   ]
 }
