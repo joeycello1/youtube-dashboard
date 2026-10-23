@@ -2,15 +2,31 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 8
+      "count": 7
     },
     {
-      "channel": "The Daily Show",
-      "count": 15
+      "channel": "More Perfect Union",
+      "count": 23
+    },
+    {
+      "channel": "Area 52",
+      "count": 6
+    },
+    {
+      "channel": "History",
+      "count": 54
     },
     {
       "channel": "PBS NewsHour",
       "count": 7
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 11
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 15
     },
     {
       "channel": "Louis Rossmann",
@@ -19,14 +35,6 @@
     {
       "channel": "Real Stories",
       "count": 47
-    },
-    {
-      "channel": "History",
-      "count": 53
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 12
     },
     {
       "channel": "NOVA",
@@ -41,10 +49,6 @@
       "count": 4
     },
     {
-      "channel": "More Perfect Union",
-      "count": 22
-    },
-    {
       "channel": "Jeremy Corbell",
       "count": 6
     },
@@ -55,10 +59,6 @@
     {
       "channel": "The Interview",
       "count": 7
-    },
-    {
-      "channel": "Area 52",
-      "count": 5
     },
     {
       "channel": "Nat Geo",
@@ -84,15 +84,31 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 8
+      "count": 7
     },
     {
-      "keyword": "The Daily Show",
-      "count": 12
+      "keyword": "More Perfect Union",
+      "count": 17
+    },
+    {
+      "keyword": "UFO",
+      "count": 44
+    },
+    {
+      "keyword": "NOVA",
+      "count": 36
     },
     {
       "keyword": "PBS NewsHour",
       "count": 7
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 11
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 12
     },
     {
       "keyword": "Louis Rossmann",
@@ -103,28 +119,12 @@
       "count": 45
     },
     {
-      "keyword": "UFO",
-      "count": 43
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 12
-    },
-    {
-      "keyword": "NOVA",
-      "count": 35
-    },
-    {
       "keyword": "AI",
       "count": 8
     },
     {
       "keyword": "The Rest Is Science",
       "count": 3
-    },
-    {
-      "keyword": "More Perfect Union",
-      "count": 16
     },
     {
       "keyword": "Corbell, George Knapp, UAP, UFO",
@@ -218,11 +218,11 @@
   "dailySummary": [
     {
       "date": "2026-10-23",
-      "videos": 6
+      "videos": 14
     },
     {
       "date": "2026-10-22",
-      "videos": 22
+      "videos": 18
     },
     {
       "date": "2026-10-21",
@@ -246,7 +246,7 @@
     },
     {
       "date": "2026-10-16",
-      "videos": 9
+      "videos": 8
     },
     {
       "date": "2026-10-15",
@@ -258,7 +258,7 @@
     },
     {
       "date": "2026-10-13",
-      "videos": 6
+      "videos": 4
     },
     {
       "date": "2026-10-12",
@@ -452,15 +452,31 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 8
+      "matches": 7
     },
     {
-      "keyword": "The Daily Show",
-      "matches": 11
+      "keyword": "More Perfect Union",
+      "matches": 4
+    },
+    {
+      "keyword": "UFO",
+      "matches": 5
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 5
     },
     {
       "keyword": "PBS NewsHour",
       "matches": 7
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 7
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 12
     },
     {
       "keyword": "Louis Rossmann",
@@ -471,28 +487,12 @@
       "matches": 5
     },
     {
-      "keyword": "UFO",
-      "matches": 4
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 6
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 4
-    },
-    {
       "keyword": "AI",
       "matches": 1
     },
     {
       "keyword": "The Rest Is Science",
       "matches": 1
-    },
-    {
-      "keyword": "More Perfect Union",
-      "matches": 3
     },
     {
       "keyword": "Corbell, George Knapp, UAP, UFO",
@@ -528,265 +528,289 @@
       "title": "Trump Is Hot for Tim Scott & Susan Collins Side-Eyes Troy Jackson's Second Cousin | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "LTc4kp_liiI",
-      "viewsPerHour": 107074,
-      "views": 1529441,
-      "ageHours": 14.3
+      "viewsPerHour": 101669,
+      "views": 1655489,
+      "ageHours": 16.3
     },
     {
       "title": "President Zelenskyy: It's Time To Tell You The Truth About The War! They Found 500 Bodies!",
       "channel": "Diary of a CEO",
       "videoId": "5x9dkYIRb58",
-      "viewsPerHour": 103772,
-      "views": 3424320,
-      "ageHours": 33
+      "viewsPerHour": 101186,
+      "views": 3541281,
+      "ageHours": 35
     },
     {
       "title": "Trump Nixes Hegseth's Livestream Execution & JD Vance Unleashes New Laugh | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "9cMMX1Cxk90",
-      "viewsPerHour": 57699,
-      "views": 2208982,
-      "ageHours": 38.3
+      "viewsPerHour": 55298,
+      "views": 2227616,
+      "ageHours": 40.3
+    },
+    {
+      "title": "Meet the GOP Operative Who Keeps Republicans in the Dark About Trump | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "jO4tb799vtU",
+      "viewsPerHour": 42475,
+      "views": 287687,
+      "ageHours": 6.8
     },
     {
       "title": "Mo Amer: Abdul El-Sayed Is Defying Islamophobic Attacks with Charisma | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ZDDQh9R00QI",
-      "viewsPerHour": 29159,
-      "views": 844377,
-      "ageHours": 29
+      "viewsPerHour": 27843,
+      "views": 861930,
+      "ageHours": 31
     },
     {
       "title": "Jimmy O. Yang on Returning to Hong Kong After 25 Years in “Finally Home” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "c-eY9tqoFhU",
-      "viewsPerHour": 20612,
-      "views": 263791,
-      "ageHours": 12.8
+      "viewsPerHour": 21165,
+      "views": 313189,
+      "ageHours": 14.8
+    },
+    {
+      "title": "Hawaii Just Made Citizens United Irrelevant. Your State Could Be Next",
+      "channel": "More Perfect Union",
+      "videoId": "1WfOvFwmIdA",
+      "viewsPerHour": 7015,
+      "views": 14599,
+      "ageHours": 2.1
+    },
+    {
+      "title": "The Man Who Killed an Alien - Dr. Jonathan Reed |ep 105",
+      "channel": "Area 52",
+      "videoId": "7_oGuXHkWOw",
+      "viewsPerHour": 6891,
+      "views": 15824,
+      "ageHours": 2.3
     },
     {
       "title": "PBS News Hour full episode, Oct. 22, 2026",
       "channel": "PBS NewsHour",
       "videoId": "b1rMHoVLeBQ",
-      "viewsPerHour": 7091,
+      "viewsPerHour": 6339,
       "views": 119584,
-      "ageHours": 16.9
-    },
-    {
-      "title": "Taika Waititi on Filming “Klara and the Sun” in His Home Country of New Zealand | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "66GQiUl7LjI",
-      "viewsPerHour": 5873,
-      "views": 216124,
-      "ageHours": 36.8
+      "ageHours": 18.9
     },
     {
       "title": "A History Of Squatting",
       "channel": "The Rest Is Science",
       "videoId": "y63JfVI36_U",
-      "viewsPerHour": 5815,
-      "views": 239632,
-      "ageHours": 41.2
+      "viewsPerHour": 5665,
+      "views": 244767,
+      "ageHours": 43.2
+    },
+    {
+      "title": "Taika Waititi on Filming “Klara and the Sun” in His Home Country of New Zealand | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "66GQiUl7LjI",
+      "viewsPerHour": 5632,
+      "views": 218492,
+      "ageHours": 38.8
     },
     {
       "title": "Psaki: Midterms are a chance to push back on Trump era manbabies",
       "channel": "MS NOW",
       "videoId": "yVCDPLgx27E",
-      "viewsPerHour": 4799,
+      "viewsPerHour": 4049,
       "views": 51801,
-      "ageHours": 10.8
+      "ageHours": 12.8
     },
     {
       "title": "Rockets Reveal Ranch Secrets | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "Cxq3YGNoyp0",
-      "viewsPerHour": 4049,
-      "views": 98364,
-      "ageHours": 24.3
+      "viewsPerHour": 3847,
+      "views": 101149,
+      "ageHours": 26.3
     },
     {
       "title": "We Went Inside The Group That's Shaped How You Pay Taxes Since 1985",
       "channel": "More Perfect Union",
       "videoId": "IGb2210QyJw",
-      "viewsPerHour": 2895,
-      "views": 130296,
-      "ageHours": 45
+      "viewsPerHour": 2823,
+      "views": 132708,
+      "ageHours": 47
+    },
+    {
+      "title": "New Proof of Treasure Chests and Jewels | The Curse of Oak Island",
+      "channel": "History",
+      "videoId": "qP2ouDp3HMY",
+      "viewsPerHour": 2378,
+      "views": 5460,
+      "ageHours": 2.3
+    },
+    {
+      "title": "Martin Short & Gilda Radner \"Broke Up Constantly\" | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "wn9rgdc3kI8",
+      "viewsPerHour": 2256,
+      "views": 14187,
+      "ageHours": 6.3
     },
     {
       "title": "WATCH LIVE: Trump rallies in Iowa with GOP Senate candidate Ashley Hinson",
       "channel": "PBS NewsHour",
       "videoId": "eahfkLRVukI",
-      "viewsPerHour": 2232,
+      "viewsPerHour": 1961,
       "views": 32283,
-      "ageHours": 14.5
+      "ageHours": 16.5
     },
     {
       "title": "LIVE Students v. Billionaires Town Hall with AOC & Troy Jackson",
       "channel": "More Perfect Union",
       "videoId": "aqlUm-Ye42U",
-      "viewsPerHour": 1539,
-      "views": 63835,
-      "ageHours": 41.5
+      "viewsPerHour": 1493,
+      "views": 64897,
+      "ageHours": 43.5
     },
     {
       "title": "Evolution: Need to Feed | Full Documentary | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "TIITTjlG3Zk",
-      "viewsPerHour": 1465,
-      "views": 66394,
-      "ageHours": 45.3
-    },
-    {
-      "title": "Trump DEFENDS Ramaswamy attack ad AGAIN at Iowa rally",
-      "channel": "MS NOW",
-      "videoId": "5BW1SBDlyiY",
-      "viewsPerHour": 1138,
-      "views": 6961,
-      "ageHours": 6.1
+      "viewsPerHour": 1415,
+      "views": 66958,
+      "ageHours": 47.3
     },
     {
       "title": "Olivia Harrison (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "DxVw9x6ATdM",
-      "viewsPerHour": 969,
+      "viewsPerHour": 905,
       "views": 27420,
-      "ageHours": 28.3
+      "ageHours": 30.3
+    },
+    {
+      "title": "Trump DEFENDS Ramaswamy attack ad AGAIN at Iowa rally",
+      "channel": "MS NOW",
+      "videoId": "5BW1SBDlyiY",
+      "viewsPerHour": 858,
+      "views": 6961,
+      "ageHours": 8.1
+    },
+    {
+      "title": "PBS News Hour full episode, Oct. 22, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "L1XJgJObhHI",
+      "viewsPerHour": 600,
+      "views": 2211,
+      "ageHours": 3.7
     },
     {
       "title": "Interview: Can Humans Cause Earthquakes? with John Shaw | Particles of Thought",
       "channel": "NOVA",
       "videoId": "MCg-EZAHTcE",
-      "viewsPerHour": 485,
-      "views": 14708,
-      "ageHours": 30.3
+      "viewsPerHour": 464,
+      "views": 14971,
+      "ageHours": 32.3
     },
     {
       "title": "I Nearly Died Smuggling Cocaine To Pay Off My Student Loans",
       "channel": "Real Stories",
       "videoId": "GIXCZEYV4UI",
-      "viewsPerHour": 465,
-      "views": 10839,
-      "ageHours": 23.3
-    },
-    {
-      "title": "Blanche REFUSES to rule out post-election action by DOJ, could BLOCK election certification",
-      "channel": "MS NOW",
-      "videoId": "3Zk08lhZLS8",
-      "viewsPerHour": 409,
-      "views": 2356,
-      "ageHours": 5.8
-    },
-    {
-      "title": "Inside The Mysterious Life Of Ukraine's Real Life Barbie",
-      "channel": "Real Stories",
-      "videoId": "zApHO3BwUfI",
-      "viewsPerHour": 346,
-      "views": 16026,
-      "ageHours": 46.3
+      "viewsPerHour": 443,
+      "views": 11209,
+      "ageHours": 25.3
     },
     {
       "title": "Sheep",
       "channel": "Louis Rossmann",
       "videoId": "QScu3pePP5c",
-      "viewsPerHour": 339,
+      "viewsPerHour": 309,
       "views": 7001,
-      "ageHours": 20.6
+      "ageHours": 22.6
+    },
+    {
+      "title": "Blanche REFUSES to rule out post-election action by DOJ, could BLOCK election certification",
+      "channel": "MS NOW",
+      "videoId": "3Zk08lhZLS8",
+      "viewsPerHour": 304,
+      "views": 2356,
+      "ageHours": 7.8
     },
     {
       "title": "WOW broadband falsely advertises symmetrical speeds using deceptive dark pattern",
       "channel": "Louis Rossmann",
       "videoId": "eIAREF4rulM",
-      "viewsPerHour": 286,
+      "viewsPerHour": 266,
       "views": 7356,
-      "ageHours": 25.7
+      "ageHours": 27.7
     },
     {
       "title": "PBS News Hour live episode, Oct. 22, 2026",
       "channel": "PBS NewsHour",
       "videoId": "VLMSC3i6IYs",
-      "viewsPerHour": 281,
+      "viewsPerHour": 254,
       "views": 5311,
-      "ageHours": 18.9
+      "ageHours": 20.9
     },
     {
-      "title": "WATCH: Blanche and Patel announce charges for Democratic Virginia lawmaker Lucas",
-      "channel": "PBS NewsHour",
-      "videoId": "NVW1ZAgaEYw",
-      "viewsPerHour": 236,
-      "views": 5968,
-      "ageHours": 25.3
+      "title": "Answers with Andrew Weissmann: Can Congress stop Trump from purchasing diesel from Russia?",
+      "channel": "MS NOW",
+      "videoId": "BKXKagtnaSw",
+      "viewsPerHour": 238,
+      "views": 435,
+      "ageHours": 1.8
     },
     {
       "title": "Putin-esque PROPAGANDA': Nicolle CALLS OUT Fox News for knowingly aiding vicious Trump conspiracies",
       "channel": "MS NOW",
       "videoId": "06vXegBU8zA",
-      "viewsPerHour": 135,
+      "viewsPerHour": 121,
       "views": 2375,
-      "ageHours": 17.6
-    },
-    {
-      "title": "LIVE: Vance speaks at midterm rally in Nebraska",
-      "channel": "MS NOW",
-      "videoId": "6iXyg9-a33I",
-      "viewsPerHour": 99,
-      "views": 2320,
-      "ageHours": 23.5
+      "ageHours": 19.6
     },
     {
       "title": "DOJ monitoring plans and DHS voter checks raise concerns of election interference",
       "channel": "PBS NewsHour",
       "videoId": "8s2mtzZ3tpQ",
-      "viewsPerHour": 90,
+      "viewsPerHour": 81,
       "views": 1610,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "Bill Hader Loves Pulling Pranks | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "2hdiR7OAdfE",
-      "viewsPerHour": 45,
+      "viewsPerHour": 41,
       "views": 1127,
-      "ageHours": 25.3
-    },
-    {
-      "title": "WATCH LIVE: Vance holds GOP midterm rally in Nebraska",
-      "channel": "PBS NewsHour",
-      "videoId": "gOPbglERoWg",
-      "viewsPerHour": 39,
-      "views": 919,
-      "ageHours": 23.5
+      "ageHours": 27.3
     },
     {
       "title": "Democrats hope OFF THE CHARTS momentum CRUSHES Elon Musk GOP dark money spending",
       "channel": "MS NOW",
       "videoId": "OKya4Stsrg8",
-      "viewsPerHour": 28,
+      "viewsPerHour": 25,
       "views": 487,
-      "ageHours": 17.5
+      "ageHours": 19.5
     },
     {
       "title": "I should've gotten a Pulitzer for writing': Trump gives 'ADDLED' speech about deserving more awards",
       "channel": "MS NOW",
       "videoId": "7W4lGTb1gl0",
-      "viewsPerHour": 23,
+      "viewsPerHour": 20,
       "views": 400,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
       "title": "What Maine voters are saying about the Collins-Jackson Senate race",
       "channel": "PBS NewsHour",
       "videoId": "nUJyVzzakRY",
-      "viewsPerHour": 20,
+      "viewsPerHour": 18,
       "views": 355,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
-      "title": "Joe: Ukraine's 'fight for FREEDOM' is also a fight for Western Civilization",
-      "channel": "MS NOW",
-      "videoId": "HE4IZz0uzLQ",
-      "viewsPerHour": 18,
-      "views": 422,
-      "ageHours": 23.6
+      "title": "WATCH LIVE: NASA's Isaacman gives Artemis III update in push to return to the moon",
+      "channel": "PBS NewsHour",
+      "videoId": "kpAMooEICmE",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 4.9
     }
   ]
 }
