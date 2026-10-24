@@ -1,12 +1,12 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
-      "count": 6
-    },
-    {
       "channel": "MS NOW",
       "count": 5
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 6
     },
     {
       "channel": "The Daily Show",
@@ -83,12 +83,12 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "PBS NewsHour",
-      "count": 6
-    },
-    {
       "keyword": "MS NOW",
       "count": 5
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 6
     },
     {
       "keyword": "The Daily Show",
@@ -217,8 +217,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-10-24",
+      "videos": 3
+    },
+    {
       "date": "2026-10-23",
-      "videos": 20
+      "videos": 17
     },
     {
       "date": "2026-10-22",
@@ -451,12 +455,12 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "PBS NewsHour",
-      "matches": 6
-    },
-    {
       "keyword": "MS NOW",
       "matches": 5
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 6
     },
     {
       "keyword": "The Daily Show",
@@ -528,209 +532,193 @@
       "title": "Trump Is Hot for Tim Scott & Susan Collins Side-Eyes Troy Jackson's Second Cousin | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "LTc4kp_liiI",
-      "viewsPerHour": 63823,
-      "views": 2060999,
-      "ageHours": 32.3
+      "viewsPerHour": 60536,
+      "views": 2076110,
+      "ageHours": 34.3
     },
     {
       "title": "Sneak Peek: Jordan Klepper Fingers the Pulse: Red Flags | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "-Ik4f77ELoc",
-      "viewsPerHour": 41028,
-      "views": 586953,
-      "ageHours": 14.3
+      "viewsPerHour": 38048,
+      "views": 620525,
+      "ageHours": 16.3
     },
     {
       "title": "Meet the GOP Operative Who Keeps Republicans in the Dark About Trump | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "jO4tb799vtU",
-      "viewsPerHour": 30746,
-      "views": 700472,
-      "ageHours": 22.8
+      "viewsPerHour": 28927,
+      "views": 716956,
+      "ageHours": 24.8
     },
     {
       "title": "Jimmy O. Yang on Returning to Hong Kong After 25 Years in “Finally Home” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "c-eY9tqoFhU",
-      "viewsPerHour": 22061,
-      "views": 679614,
-      "ageHours": 30.8
-    },
-    {
-      "title": "Mo Amer: Abdul El-Sayed Is Defying Islamophobic Attacks with Charisma | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "ZDDQh9R00QI",
-      "viewsPerHour": 21064,
-      "views": 989291,
-      "ageHours": 47
+      "viewsPerHour": 21231,
+      "views": 696587,
+      "ageHours": 32.8
     },
     {
       "title": "Hawaii Just Made Citizens United Irrelevant. Your State Could Be Next",
       "channel": "More Perfect Union",
       "videoId": "1WfOvFwmIdA",
-      "viewsPerHour": 18614,
-      "views": 336731,
-      "ageHours": 18.1
+      "viewsPerHour": 17368,
+      "views": 348980,
+      "ageHours": 20.1
+    },
+    {
+      "title": "What Marc Elias says Trump is really up to with bogus Alaska lawsuit",
+      "channel": "MS NOW",
+      "videoId": "ycQtsckkOnk",
+      "viewsPerHour": 15812,
+      "views": 115343,
+      "ageHours": 7.3
+    },
+    {
+      "title": "Desperate Trump takes first steps toward undermining midterm election results",
+      "channel": "MS NOW",
+      "videoId": "GXT4DOmorKQ",
+      "viewsPerHour": 10358,
+      "views": 73896,
+      "ageHours": 7.1
     },
     {
       "title": "The Man Who Killed an Alien - Dr. Jonathan Reed |ep 105",
       "channel": "Area 52",
       "videoId": "7_oGuXHkWOw",
-      "viewsPerHour": 9952,
-      "views": 182183,
-      "ageHours": 18.3
+      "viewsPerHour": 9384,
+      "views": 190570,
+      "ageHours": 20.3
+    },
+    {
+      "title": "‘Dangerous’ Trump-endorsed candidate makes AZ race ‘important for the whole country'",
+      "channel": "MS NOW",
+      "videoId": "kGaqtGugu90",
+      "viewsPerHour": 8494,
+      "views": 71786,
+      "ageHours": 8.5
     },
     {
       "title": "New Proof of Treasure Chests and Jewels | The Curse of Oak Island",
       "channel": "History",
       "videoId": "qP2ouDp3HMY",
-      "viewsPerHour": 6030,
-      "views": 110386,
-      "ageHours": 18.3
+      "viewsPerHour": 5639,
+      "views": 114525,
+      "ageHours": 20.3
     },
     {
       "title": "PBS News Hour full episode, Oct. 23, 2026",
       "channel": "PBS NewsHour",
       "videoId": "HAlut6If39w",
-      "viewsPerHour": 4907,
+      "viewsPerHour": 4114,
       "views": 50970,
-      "ageHours": 10.4
+      "ageHours": 12.4
     },
     {
       "title": "Rockets Reveal Ranch Secrets | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "Cxq3YGNoyp0",
-      "viewsPerHour": 2542,
-      "views": 107525,
-      "ageHours": 42.3
-    },
-    {
-      "title": "Psaki: Midterms are a chance to push back on Trump era manbabies",
-      "channel": "MS NOW",
-      "videoId": "yVCDPLgx27E",
-      "viewsPerHour": 1798,
-      "views": 51801,
-      "ageHours": 28.8
+      "viewsPerHour": 2439,
+      "views": 108071,
+      "ageHours": 44.3
     },
     {
       "title": "EXCLUSIVE: Dem Senate hopeful in KEY RACE speaks out as scared Trump tries to CHEAT her out of win",
       "channel": "MS NOW",
       "videoId": "ubtv--9zM78",
-      "viewsPerHour": 1211,
+      "viewsPerHour": 1038,
       "views": 14586,
-      "ageHours": 12
+      "ageHours": 14.1
     },
     {
       "title": "Martin Short & Gilda Radner \"Broke Up Constantly\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "wn9rgdc3kI8",
-      "viewsPerHour": 636,
+      "viewsPerHour": 584,
       "views": 14187,
-      "ageHours": 22.3
-    },
-    {
-      "title": "Olivia Harrison (Full Episode) | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "DxVw9x6ATdM",
-      "viewsPerHour": 592,
-      "views": 27420,
-      "ageHours": 46.3
+      "ageHours": 24.3
     },
     {
       "title": "The Undisputed #1 Halloween Candy Is... | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "FrOeo-ps_sg",
-      "viewsPerHour": 428,
+      "viewsPerHour": 379,
       "views": 6551,
-      "ageHours": 15.3
+      "ageHours": 17.3
     },
     {
       "title": "PBS News Hour live episode, Oct. 23, 2026",
       "channel": "PBS NewsHour",
       "videoId": "UvyxP9sw488",
-      "viewsPerHour": 416,
+      "viewsPerHour": 359,
       "views": 5301,
-      "ageHours": 12.7
+      "ageHours": 14.8
     },
     {
       "title": "I Nearly Died Smuggling Cocaine To Pay Off My Student Loans",
       "channel": "Real Stories",
       "videoId": "GIXCZEYV4UI",
-      "viewsPerHour": 306,
-      "views": 12656,
-      "ageHours": 41.3
-    },
-    {
-      "title": "Trump DEFENDS Ramaswamy attack ad AGAIN at Iowa rally",
-      "channel": "MS NOW",
-      "videoId": "5BW1SBDlyiY",
-      "viewsPerHour": 289,
-      "views": 6961,
-      "ageHours": 24.1
+      "viewsPerHour": 293,
+      "views": 12696,
+      "ageHours": 43.3
     },
     {
       "title": "Sheep",
       "channel": "Louis Rossmann",
       "videoId": "QScu3pePP5c",
-      "viewsPerHour": 181,
+      "viewsPerHour": 172,
       "views": 7001,
-      "ageHours": 38.6
+      "ageHours": 40.7
     },
     {
       "title": "WOW broadband falsely advertises symmetrical speeds using deceptive dark pattern",
       "channel": "Louis Rossmann",
       "videoId": "eIAREF4rulM",
-      "viewsPerHour": 168,
+      "viewsPerHour": 161,
       "views": 7356,
-      "ageHours": 43.7
+      "ageHours": 45.7
     },
     {
       "title": "PBS News Hour full episode, Oct. 22, 2026",
       "channel": "PBS NewsHour",
       "videoId": "L1XJgJObhHI",
-      "viewsPerHour": 112,
+      "viewsPerHour": 102,
       "views": 2211,
-      "ageHours": 19.7
-    },
-    {
-      "title": "Blanche REFUSES to rule out post-election action by DOJ, could BLOCK election certification",
-      "channel": "MS NOW",
-      "videoId": "3Zk08lhZLS8",
-      "viewsPerHour": 99,
-      "views": 2356,
-      "ageHours": 23.8
+      "ageHours": 21.7
     },
     {
       "title": "Surging diesel prices loom over Republicans in Iowa's midterm races",
       "channel": "PBS NewsHour",
       "videoId": "kE8gl_L7iUc",
-      "viewsPerHour": 31,
+      "viewsPerHour": 27,
       "views": 364,
-      "ageHours": 11.7
-    },
-    {
-      "title": "There's babies in there': Oregon father describes stopping school shooter",
-      "channel": "PBS NewsHour",
-      "videoId": "-KF5in9KgpQ",
-      "viewsPerHour": 26,
-      "views": 310,
-      "ageHours": 11.8
+      "ageHours": 13.7
     },
     {
       "title": "Bill Hader Loves Pulling Pranks | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "2hdiR7OAdfE",
-      "viewsPerHour": 26,
+      "viewsPerHour": 25,
       "views": 1127,
-      "ageHours": 43.3
+      "ageHours": 45.3
+    },
+    {
+      "title": "There's babies in there': Oregon father describes stopping school shooter",
+      "channel": "PBS NewsHour",
+      "videoId": "-KF5in9KgpQ",
+      "viewsPerHour": 23,
+      "views": 310,
+      "ageHours": 13.8
     },
     {
       "title": "Answers with Andrew Weissmann: Can Congress stop Trump from purchasing diesel from Russia?",
       "channel": "MS NOW",
       "videoId": "BKXKagtnaSw",
-      "viewsPerHour": 24,
+      "viewsPerHour": 22,
       "views": 435,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "WATCH LIVE: NASA's Isaacman gives Artemis III update in push to return to the moon",
@@ -738,7 +726,7 @@
       "videoId": "kpAMooEICmE",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 20.9
+      "ageHours": 22.9
     }
   ]
 }
