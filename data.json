@@ -1,5 +1,20 @@
 [
   {
+    "timestamp": "2026-10-23T23:55:13.000Z",
+    "firstSeen": "2026-10-24T04:50:50.800Z",
+    "title": "PBS News Hour full episode, Oct. 23, 2026",
+    "videoUrl": "https://www.youtube.com/watch?v=HAlut6If39w",
+    "channelName": "PBS NewsHour",
+    "summary": "Friday on the News Hour, the Justice Department takes unusual steps in seeking to block election results in Alaska and charging former FBI officials over the Hunter Biden investigation. Brazil prepares for a high-stakes presidential runoff that could reshape the country's future. Plus, millions of s",
+    "keyword": "PBS NewsHour",
+    "thumbnail": "https://i1.ytimg.com/vi/HAlut6If39w/hqdefault.jpg",
+    "views": 50970,
+    "ratingAvg": 5,
+    "videoCategory": "NEWS",
+    "videoId": "HAlut6If39w",
+    "watched": false
+  },
+  {
     "timestamp": "2026-10-23T22:38:27.000Z",
     "firstSeen": "2026-10-23T22:51:10.610Z",
     "title": "Surging diesel prices loom over Republicans in Iowa's midterm races",
@@ -282,36 +297,6 @@
     "ratingAvg": 5,
     "videoCategory": "ENT",
     "videoId": "LTc4kp_liiI",
-    "watched": false
-  },
-  {
-    "timestamp": "2026-10-23T01:49:59.000Z",
-    "firstSeen": "2026-10-23T10:50:53.845Z",
-    "title": "WATCH LIVE: Trump rallies in Iowa with GOP Senate candidate Ashley Hinson",
-    "videoUrl": "https://www.youtube.com/watch?v=eahfkLRVukI",
-    "channelName": "PBS NewsHour",
-    "summary": "Watch PBS News for daily, breaking and live news, plus special coverage. We are home to PBS News Hour, ranked the most credible and objective TV news show. Sign up for Here's The Deal with Lisa Desjardins: Subscribe for exclusive content in our newsletters: PBS News podcasts: Stream your PBS favorit",
-    "keyword": "PBS NewsHour",
-    "thumbnail": "https://i2.ytimg.com/vi/eahfkLRVukI/hqdefault.jpg",
-    "views": 32283,
-    "ratingAvg": 5,
-    "videoCategory": "NEWS",
-    "videoId": "eahfkLRVukI",
-    "watched": false
-  },
-  {
-    "timestamp": "2026-10-22T23:26:02.000Z",
-    "firstSeen": "2026-10-23T10:50:54.028Z",
-    "title": "PBS News Hour full episode, Oct. 22, 2026",
-    "videoUrl": "https://www.youtube.com/watch?v=b1rMHoVLeBQ",
-    "channelName": "PBS NewsHour",
-    "summary": "Thursday on the News Hour, the Justice Department is notifying local election officials which counties it plans to monitor, raising concerns of potential interference. From Lockheed Martin's factories to Ukraine, a look at the effort to build defensive missiles faster. Plus, federal education grants",
-    "keyword": "PBS NewsHour",
-    "thumbnail": "https://i3.ytimg.com/vi/b1rMHoVLeBQ/hqdefault.jpg",
-    "views": 119584,
-    "ratingAvg": 5,
-    "videoCategory": "NEWS",
-    "videoId": "b1rMHoVLeBQ",
     "watched": false
   },
   {
