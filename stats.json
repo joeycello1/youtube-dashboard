@@ -1,8 +1,20 @@
 {
   "videosPerChannel": [
     {
+      "channel": "History",
+      "count": 55
+    },
+    {
+      "channel": "MS NOW",
+      "count": 4
+    },
+    {
       "channel": "Louis Rossmann",
       "count": 16
+    },
+    {
+      "channel": "Real Stories",
+      "count": 47
     },
     {
       "channel": "The Daily Show",
@@ -13,12 +25,8 @@
       "count": 8
     },
     {
-      "channel": "MS NOW",
-      "count": 4
-    },
-    {
       "channel": "PBS NewsHour",
-      "count": 4
+      "count": 1
     },
     {
       "channel": "Conan O'Brien",
@@ -33,16 +41,8 @@
       "count": 6
     },
     {
-      "channel": "History",
-      "count": 54
-    },
-    {
-      "channel": "Real Stories",
-      "count": 46
-    },
-    {
       "channel": "NOVA",
-      "count": 24
+      "count": 23
     },
     {
       "channel": "Diary of a CEO",
@@ -83,8 +83,24 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "NOVA",
+      "count": 36
+    },
+    {
+      "keyword": "MS NOW",
+      "count": 4
+    },
+    {
+      "keyword": "UFO",
+      "count": 44
+    },
+    {
       "keyword": "Louis Rossmann",
       "count": 16
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 45
     },
     {
       "keyword": "The Daily Show",
@@ -95,12 +111,8 @@
       "count": 8
     },
     {
-      "keyword": "MS NOW",
-      "count": 4
-    },
-    {
       "keyword": "PBS NewsHour",
-      "count": 4
+      "count": 1
     },
     {
       "keyword": "Conan O'Brien",
@@ -109,18 +121,6 @@
     {
       "keyword": "More Perfect Union",
       "count": 17
-    },
-    {
-      "keyword": "UFO",
-      "count": 44
-    },
-    {
-      "keyword": "NOVA",
-      "count": 36
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 44
     },
     {
       "keyword": "AI",
@@ -218,11 +218,11 @@
   "dailySummary": [
     {
       "date": "2026-10-24",
-      "videos": 6
+      "videos": 11
     },
     {
       "date": "2026-10-23",
-      "videos": 14
+      "videos": 10
     },
     {
       "date": "2026-10-22",
@@ -278,7 +278,7 @@
     },
     {
       "date": "2026-10-09",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-10-08",
@@ -445,18 +445,30 @@
       "videos": 1
     },
     {
-      "date": "2026-08-25",
-      "videos": 2
-    },
-    {
       "date": "2026-08-15",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "NOVA",
+      "matches": 4
+    },
+    {
+      "keyword": "MS NOW",
+      "matches": 4
+    },
+    {
+      "keyword": "UFO",
+      "matches": 5
+    },
+    {
       "keyword": "Louis Rossmann",
       "matches": 8
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 5
     },
     {
       "keyword": "The Daily Show",
@@ -467,12 +479,8 @@
       "matches": 2
     },
     {
-      "keyword": "MS NOW",
-      "matches": 4
-    },
-    {
       "keyword": "PBS NewsHour",
-      "matches": 4
+      "matches": 1
     },
     {
       "keyword": "Conan O'Brien",
@@ -480,18 +488,6 @@
     },
     {
       "keyword": "More Perfect Union",
-      "matches": 4
-    },
-    {
-      "keyword": "UFO",
-      "matches": 5
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 3
-    },
-    {
-      "keyword": "Real Stories",
       "matches": 4
     },
     {
@@ -528,161 +524,169 @@
       "title": "Trump Is Hot for Tim Scott & Susan Collins Side-Eyes Troy Jackson's Second Cousin | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "LTc4kp_liiI",
-      "viewsPerHour": 48745,
+      "viewsPerHour": 46640,
       "views": 2158356,
-      "ageHours": 44.3
+      "ageHours": 46.3
     },
     {
       "title": "Jon Stewart on French Riots, Kosta on Midterm Meltdowns & Ronny on Vance's New Laugh |The Daily Show",
       "channel": "The Daily Show",
       "videoId": "D-7dtLPTadg",
-      "viewsPerHour": 47144,
+      "viewsPerHour": 38799,
       "views": 437939,
-      "ageHours": 9.3
+      "ageHours": 11.3
     },
     {
       "title": "Sneak Peek: Jordan Klepper Fingers the Pulse: Red Flags | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "-Ik4f77ELoc",
-      "viewsPerHour": 30311,
+      "viewsPerHour": 28171,
       "views": 796948,
-      "ageHours": 26.3
+      "ageHours": 28.3
     },
     {
       "title": "Meet the GOP Operative Who Keeps Republicans in the Dark About Trump | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "jO4tb799vtU",
-      "viewsPerHour": 22371,
+      "viewsPerHour": 21155,
       "views": 777799,
-      "ageHours": 34.8
+      "ageHours": 36.8
     },
     {
       "title": "Jimmy O. Yang on Returning to Hong Kong After 25 Years in “Finally Home” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "c-eY9tqoFhU",
-      "viewsPerHour": 17945,
+      "viewsPerHour": 17145,
       "views": 767928,
-      "ageHours": 42.8
+      "ageHours": 44.8
     },
     {
       "title": "Hawaii Just Made Citizens United Irrelevant. Your State Could Be Next",
       "channel": "More Perfect Union",
       "videoId": "1WfOvFwmIdA",
-      "viewsPerHour": 15646,
+      "viewsPerHour": 14672,
       "views": 470591,
-      "ageHours": 30.1
+      "ageHours": 32.1
     },
     {
       "title": "The Man Who Killed an Alien - Dr. Jonathan Reed |ep 105",
       "channel": "Area 52",
       "videoId": "7_oGuXHkWOw",
-      "viewsPerHour": 7484,
+      "viewsPerHour": 7021,
       "views": 226693,
-      "ageHours": 30.3
+      "ageHours": 32.3
+    },
+    {
+      "title": "Collective UFO Sighting is Undeniable Proof! | In Search Of",
+      "channel": "History",
+      "videoId": "Twd3R-o1eTM",
+      "viewsPerHour": 6396,
+      "views": 33787,
+      "ageHours": 5.3
     },
     {
       "title": "What Marc Elias says Trump is really up to with bogus Alaska lawsuit",
       "channel": "MS NOW",
       "videoId": "ycQtsckkOnk",
-      "viewsPerHour": 6676,
+      "viewsPerHour": 5984,
       "views": 115343,
-      "ageHours": 17.3
-    },
-    {
-      "title": "Desperate Trump takes first steps toward undermining midterm election results",
-      "channel": "MS NOW",
-      "videoId": "GXT4DOmorKQ",
-      "viewsPerHour": 4317,
-      "views": 73896,
-      "ageHours": 17.1
+      "ageHours": 19.3
     },
     {
       "title": "New Proof of Treasure Chests and Jewels | The Curse of Oak Island",
       "channel": "History",
       "videoId": "qP2ouDp3HMY",
-      "viewsPerHour": 4289,
+      "viewsPerHour": 4024,
       "views": 129936,
-      "ageHours": 30.3
+      "ageHours": 32.3
+    },
+    {
+      "title": "Desperate Trump takes first steps toward undermining midterm election results",
+      "channel": "MS NOW",
+      "videoId": "GXT4DOmorKQ",
+      "viewsPerHour": 3866,
+      "views": 73896,
+      "ageHours": 19.1
+    },
+    {
+      "title": "Die Fledermaus opera commentary with mini liebschti: don't pull an h3h3",
+      "channel": "Louis Rossmann",
+      "videoId": "cYZGTlp4j_Q",
+      "viewsPerHour": 3859,
+      "views": 21992,
+      "ageHours": 5.7
     },
     {
       "title": "‘Dangerous’ Trump-endorsed candidate makes AZ race ‘important for the whole country'",
       "channel": "MS NOW",
       "videoId": "kGaqtGugu90",
-      "viewsPerHour": 3894,
+      "viewsPerHour": 3513,
       "views": 71786,
-      "ageHours": 18.4
+      "ageHours": 20.4
+    },
+    {
+      "title": "LIVE: Obama stumps for Abdul El-Sayed in Michigan as midterms approach",
+      "channel": "MS NOW",
+      "videoId": "WPBai3XWNFI",
+      "viewsPerHour": 2407,
+      "views": 7784,
+      "ageHours": 3.2
     },
     {
       "title": "PBS News Hour full episode, Oct. 23, 2026",
       "channel": "PBS NewsHour",
       "videoId": "HAlut6If39w",
-      "viewsPerHour": 2278,
+      "viewsPerHour": 2091,
       "views": 50970,
-      "ageHours": 22.4
+      "ageHours": 24.4
     },
     {
       "title": "Why Some Texans Want Greg Abbott Out | Gina Hinojosa on ‘The Interview’",
       "channel": "The Interview",
       "videoId": "pNsRSEjUklo",
-      "viewsPerHour": 1561,
+      "viewsPerHour": 1290,
       "views": 14884,
-      "ageHours": 9.5
+      "ageHours": 11.5
+    },
+    {
+      "title": "Fear, Money and Death: The Dangerous Life Of Mexico's Narco Pilots",
+      "channel": "Real Stories",
+      "videoId": "MK9ybyls1WU",
+      "viewsPerHour": 709,
+      "views": 5162,
+      "ageHours": 7.3
     },
     {
       "title": "Flock contracts systemically violate the law to avoid oversight: this must be prosecuted",
       "channel": "Louis Rossmann",
       "videoId": "UPh6l4XKcpw",
-      "viewsPerHour": 884,
+      "viewsPerHour": 698,
       "views": 6621,
-      "ageHours": 7.5
-    },
-    {
-      "title": "EXCLUSIVE: Dem Senate hopeful in KEY RACE speaks out as scared Trump tries to CHEAT her out of win",
-      "channel": "MS NOW",
-      "videoId": "ubtv--9zM78",
-      "viewsPerHour": 607,
-      "views": 14586,
-      "ageHours": 24
+      "ageHours": 9.5
     },
     {
       "title": "Martin Short & Gilda Radner \"Broke Up Constantly\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "wn9rgdc3kI8",
-      "viewsPerHour": 414,
+      "viewsPerHour": 391,
       "views": 14187,
-      "ageHours": 34.3
+      "ageHours": 36.3
+    },
+    {
+      "title": "Shipwreck in the Swamp? | The Curse of Oak Island (S4, E3) | Full Episode",
+      "channel": "History",
+      "videoId": "8YSuScvWQxc",
+      "viewsPerHour": 328,
+      "views": 748,
+      "ageHours": 2.3
     },
     {
       "title": "The Undisputed #1 Halloween Candy Is... | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "FrOeo-ps_sg",
-      "viewsPerHour": 240,
+      "viewsPerHour": 224,
       "views": 6551,
-      "ageHours": 27.3
-    },
-    {
-      "title": "PBS News Hour live episode, Oct. 23, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "UvyxP9sw488",
-      "viewsPerHour": 214,
-      "views": 5301,
-      "ageHours": 24.7
-    },
-    {
-      "title": "Surging diesel prices loom over Republicans in Iowa's midterm races",
-      "channel": "PBS NewsHour",
-      "videoId": "kE8gl_L7iUc",
-      "viewsPerHour": 15,
-      "views": 364,
-      "ageHours": 23.7
-    },
-    {
-      "title": "There's babies in there': Oregon father describes stopping school shooter",
-      "channel": "PBS NewsHour",
-      "videoId": "-KF5in9KgpQ",
-      "viewsPerHour": 13,
-      "views": 310,
-      "ageHours": 23.8
+      "ageHours": 29.3
     }
   ]
 }
