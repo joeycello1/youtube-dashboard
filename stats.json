@@ -1,24 +1,36 @@
 {
   "videosPerChannel": [
     {
+      "channel": "Louis Rossmann",
+      "count": 16
+    },
+    {
+      "channel": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "channel": "History",
+      "count": 56
+    },
+    {
+      "channel": "Real Stories",
+      "count": 47
+    },
+    {
+      "channel": "Chris Lehto",
+      "count": 7
+    },
+    {
+      "channel": "Inside AI",
+      "count": 2
+    },
+    {
       "channel": "More Perfect Union",
       "count": 25
     },
     {
       "channel": "MS NOW",
-      "count": 4
-    },
-    {
-      "channel": "History",
-      "count": 55
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 15
-    },
-    {
-      "channel": "Real Stories",
-      "count": 46
+      "count": 3
     },
     {
       "channel": "The Daily Show",
@@ -45,16 +57,8 @@
       "count": 4
     },
     {
-      "channel": "The Rest Is Science",
-      "count": 4
-    },
-    {
       "channel": "Jeremy Corbell",
-      "count": 6
-    },
-    {
-      "channel": "Chris Lehto",
-      "count": 6
+      "count": 4
     },
     {
       "channel": "Nat Geo",
@@ -71,36 +75,44 @@
     {
       "channel": "Jonathan Pie",
       "count": 5
-    },
-    {
-      "channel": "Inside AI",
-      "count": 1
     }
   ],
   "keywordFrequency": [
+    {
+      "keyword": "Louis Rossmann",
+      "count": 16
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "count": 4
+    },
+    {
+      "keyword": "UFO",
+      "count": 45
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 45
+    },
+    {
+      "keyword": "UAP",
+      "count": 4
+    },
+    {
+      "keyword": "AI",
+      "count": 9
+    },
     {
       "keyword": "More Perfect Union",
       "count": 19
     },
     {
       "keyword": "MS NOW",
-      "count": 4
+      "count": 3
     },
     {
       "keyword": "NOVA",
       "count": 36
-    },
-    {
-      "keyword": "UFO",
-      "count": 44
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 15
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 44
     },
     {
       "keyword": "The Daily Show",
@@ -113,14 +125,6 @@
     {
       "keyword": "Conan O'Brien",
       "count": 9
-    },
-    {
-      "keyword": "AI",
-      "count": 8
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "count": 3
     },
     {
       "keyword": "Corbell, George Knapp, UAP, UFO",
@@ -141,10 +145,6 @@
     {
       "keyword": "The Rest Is Science, AI",
       "count": 1
-    },
-    {
-      "keyword": "UAP",
-      "count": 3
     },
     {
       "keyword": "UFO, testimony",
@@ -176,10 +176,6 @@
     },
     {
       "keyword": "Corbell, UFO, George Knapp",
-      "count": 2
-    },
-    {
-      "keyword": "Corbell, UAP, UFO, George Knapp",
       "count": 1
     },
     {
@@ -210,11 +206,11 @@
   "dailySummary": [
     {
       "date": "2026-10-25",
-      "videos": 5
+      "videos": 11
     },
     {
       "date": "2026-10-24",
-      "videos": 8
+      "videos": 7
     },
     {
       "date": "2026-10-23",
@@ -330,7 +326,7 @@
     },
     {
       "date": "2026-09-25",
-      "videos": 3
+      "videos": 1
     },
     {
       "date": "2026-09-24",
@@ -443,27 +439,39 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "Louis Rossmann",
+      "matches": 8
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "matches": 2
+    },
+    {
+      "keyword": "UFO",
+      "matches": 5
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 5
+    },
+    {
+      "keyword": "UAP",
+      "matches": 1
+    },
+    {
+      "keyword": "AI",
+      "matches": 2
+    },
+    {
       "keyword": "More Perfect Union",
       "matches": 5
     },
     {
       "keyword": "MS NOW",
-      "matches": 4
+      "matches": 3
     },
     {
       "keyword": "NOVA",
-      "matches": 4
-    },
-    {
-      "keyword": "UFO",
-      "matches": 4
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 7
-    },
-    {
-      "keyword": "Real Stories",
       "matches": 4
     },
     {
@@ -477,14 +485,6 @@
     {
       "keyword": "Conan O'Brien",
       "matches": 7
-    },
-    {
-      "keyword": "AI",
-      "matches": 1
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "matches": 1
     },
     {
       "keyword": "Corbell, George Knapp, UAP, UFO",
@@ -505,100 +505,140 @@
   ],
   "mostViral48h": [
     {
+      "title": "AI agent builds itself a robot body, does exactly what experts warned",
+      "channel": "Inside AI",
+      "videoId": "QRVz697rEx0",
+      "viewsPerHour": 52170,
+      "views": 349355,
+      "ageHours": 6.7
+    },
+    {
       "title": "Jon Stewart on French Riots, Kosta on Midterm Meltdowns & Ronny on Vance's New Laugh |The Daily Show",
       "channel": "The Daily Show",
       "videoId": "D-7dtLPTadg",
-      "viewsPerHour": 27117,
+      "viewsPerHour": 25579,
       "views": 902618,
-      "ageHours": 33.3
+      "ageHours": 35.3
     },
     {
       "title": "Collective UFO Sighting is Undeniable Proof! | In Search Of",
       "channel": "History",
       "videoId": "Twd3R-o1eTM",
-      "viewsPerHour": 5512,
+      "viewsPerHour": 5135,
       "views": 150367,
-      "ageHours": 27.3
+      "ageHours": 29.3
     },
     {
       "title": "MAGA Red melts into BLUE surge | The Beat with Ari Melber Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "ND7t2cvKYzs",
-      "viewsPerHour": 4677,
+      "viewsPerHour": 4275,
       "views": 99570,
-      "ageHours": 21.3
+      "ageHours": 23.3
+    },
+    {
+      "title": "Uncovering the Mystery of Nazca | In Search of Aliens (S1)",
+      "channel": "History",
+      "videoId": "oOXXf2JoPqw",
+      "viewsPerHour": 2997,
+      "views": 15827,
+      "ageHours": 5.3
+    },
+    {
+      "title": "Earth’s Tilt Makes Time Slippery",
+      "channel": "The Rest Is Science",
+      "videoId": "uNQewqqghWs",
+      "viewsPerHour": 2630,
+      "views": 6003,
+      "ageHours": 2.3
     },
     {
       "title": "Nicolle SHREDS Vivek Ramaswamy for DOUBLING DOWN on ad | Deadline: White House Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "c2vaBWIZmRU",
-      "viewsPerHour": 2836,
+      "viewsPerHour": 2602,
       "views": 63192,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "Sick, vile, despicable': Symone lambasts defense of Ramaswamy ad | The Weeknight Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "gq3tuRfK5Kc",
-      "viewsPerHour": 2604,
+      "viewsPerHour": 2370,
       "views": 52810,
-      "ageHours": 20.3
+      "ageHours": 22.3
     },
     {
-      "title": "LIVE Fed Up & Priced Out: A Town Hall with Todd Achilles",
-      "channel": "More Perfect Union",
-      "videoId": "tKtXt7zokh8",
-      "viewsPerHour": 1898,
-      "views": 15223,
-      "ageHours": 8
+      "title": "Apple store employees, tell us what's going on here ",
+      "channel": "Louis Rossmann",
+      "videoId": "5c-EOH4YAUo",
+      "viewsPerHour": 1945,
+      "views": 3563,
+      "ageHours": 1.8
     },
     {
       "title": "Shipwreck in the Swamp? | The Curse of Oak Island (S4, E3) | Full Episode",
       "channel": "History",
       "videoId": "8YSuScvWQxc",
-      "viewsPerHour": 1771,
+      "viewsPerHour": 1636,
       "views": 43010,
-      "ageHours": 24.3
+      "ageHours": 26.3
+    },
+    {
+      "title": "LIVE Fed Up & Priced Out: A Town Hall with Todd Achilles",
+      "channel": "More Perfect Union",
+      "videoId": "tKtXt7zokh8",
+      "viewsPerHour": 1519,
+      "views": 15223,
+      "ageHours": 10
     },
     {
       "title": "Why Some Texans Want Greg Abbott Out | Gina Hinojosa on ‘The Interview’",
       "channel": "The Interview",
       "videoId": "pNsRSEjUklo",
-      "viewsPerHour": 944,
+      "viewsPerHour": 891,
       "views": 31669,
-      "ageHours": 33.5
+      "ageHours": 35.5
     },
     {
       "title": "Die Fledermaus opera commentary with mini liebschti: don't pull an h3h3",
       "channel": "Louis Rossmann",
       "videoId": "cYZGTlp4j_Q",
-      "viewsPerHour": 794,
+      "viewsPerHour": 741,
       "views": 21992,
-      "ageHours": 27.7
+      "ageHours": 29.7
+    },
+    {
+      "title": "The Most Dangerous Mid-Life Career Move in Combat Sports",
+      "channel": "Real Stories",
+      "videoId": "Ln-cVIROW44",
+      "viewsPerHour": 565,
+      "views": 3546,
+      "ageHours": 6.3
+    },
+    {
+      "title": "What If Life Isn’t an Accident? (Our Fractal Universe, Chapter 1)",
+      "channel": "Chris Lehto",
+      "videoId": "H396BN5c79k",
+      "viewsPerHour": 424,
+      "views": 2667,
+      "ageHours": 6.3
     },
     {
       "title": "Fear, Money and Death: The Dangerous Life Of Mexico's Narco Pilots",
       "channel": "Real Stories",
       "videoId": "MK9ybyls1WU",
-      "viewsPerHour": 407,
+      "viewsPerHour": 381,
       "views": 11905,
-      "ageHours": 29.3
-    },
-    {
-      "title": "LIVE: Obama stumps for Abdul El-Sayed in Michigan as midterms approach",
-      "channel": "MS NOW",
-      "videoId": "WPBai3XWNFI",
-      "viewsPerHour": 308,
-      "views": 7784,
-      "ageHours": 25.2
+      "ageHours": 31.3
     },
     {
       "title": "Flock contracts systemically violate the law to avoid oversight: this must be prosecuted",
       "channel": "Louis Rossmann",
       "videoId": "UPh6l4XKcpw",
-      "viewsPerHour": 210,
+      "viewsPerHour": 198,
       "views": 6621,
-      "ageHours": 31.5
+      "ageHours": 33.5
     },
     {
       "title": "LIVE Students v. Billionaires Town Hall with Bernie Sanders in Ann Arbor",
@@ -606,7 +646,7 @@
       "videoId": "a3B9-_AlfeQ",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 7.6
+      "ageHours": 9.6
     }
   ]
 }
