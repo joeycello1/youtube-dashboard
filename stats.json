@@ -1,6 +1,18 @@
 {
   "videosPerChannel": [
     {
+      "channel": "MS NOW",
+      "count": 3
+    },
+    {
+      "channel": "Diary of a CEO",
+      "count": 5
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 4
+    },
+    {
       "channel": "Louis Rossmann",
       "count": 16
     },
@@ -46,11 +58,7 @@
     },
     {
       "channel": "NOVA",
-      "count": 22
-    },
-    {
-      "channel": "Diary of a CEO",
-      "count": 4
+      "count": 21
     },
     {
       "channel": "Jeremy Corbell",
@@ -65,15 +73,23 @@
       "count": 6
     },
     {
-      "channel": "Last Week Tonight",
-      "count": 2
-    },
-    {
       "channel": "Jonathan Pie",
       "count": 5
     }
   ],
   "keywordFrequency": [
+    {
+      "keyword": "MS NOW",
+      "count": 3
+    },
+    {
+      "keyword": "AI, artificial intelligence",
+      "count": 1
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 4
+    },
     {
       "keyword": "Louis Rossmann",
       "count": 16
@@ -147,10 +163,6 @@
       "count": 1
     },
     {
-      "keyword": "Last Week Tonight",
-      "count": 2
-    },
-    {
       "keyword": "Jonathan Pie",
       "count": 5
     },
@@ -189,13 +201,13 @@
     {
       "keyword": "testimony",
       "count": 1
-    },
-    {
-      "keyword": "NOVA, AI",
-      "count": 1
     }
   ],
   "dailySummary": [
+    {
+      "date": "2026-10-26",
+      "videos": 6
+    },
     {
       "date": "2026-10-25",
       "videos": 8
@@ -422,7 +434,7 @@
     },
     {
       "date": "2026-08-27",
-      "videos": 2
+      "videos": 1
     },
     {
       "date": "2026-08-15",
@@ -430,6 +442,18 @@
     }
   ],
   "topKeywordsWeek": [
+    {
+      "keyword": "MS NOW",
+      "matches": 3
+    },
+    {
+      "keyword": "AI, artificial intelligence",
+      "matches": 1
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 2
+    },
     {
       "keyword": "Louis Rossmann",
       "matches": 8
@@ -472,7 +496,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "Corbell, George Knapp, UAP, UFO",
@@ -493,116 +517,164 @@
   ],
   "mostViral48h": [
     {
+      "title": "The Republican Party & The Far Right: Last Week Tonight with John Oliver (HBO)",
+      "channel": "Last Week Tonight",
+      "videoId": "SnsBI4YxwIs",
+      "viewsPerHour": 108149,
+      "views": 628932,
+      "ageHours": 5.8
+    },
+    {
+      "title": "Mark Cuban: The Brutal Truth About The Next Market Crash!",
+      "channel": "Diary of a CEO",
+      "videoId": "6VTSAs4Rsck",
+      "viewsPerHour": 67648,
+      "views": 359164,
+      "ageHours": 5.3
+    },
+    {
       "title": "AI agent builds itself a robot body, does exactly what experts warned",
       "channel": "Inside AI",
       "videoId": "QRVz697rEx0",
-      "viewsPerHour": 66353,
-      "views": 1108297,
-      "ageHours": 16.7
+      "viewsPerHour": 63804,
+      "views": 1194943,
+      "ageHours": 18.7
+    },
+    {
+      "title": "S13 E27: The Republican Party & The Far Right: 10/25/26: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "zVwhVOB3ulU",
+      "viewsPerHour": 33084,
+      "views": 308352,
+      "ageHours": 9.3
+    },
+    {
+      "title": "Elon Musk THREATENS Democrats in Congress | The Last Word with Lawrence O'Donnell Weekly Highlights",
+      "channel": "MS NOW",
+      "videoId": "K2tcBCzBVSY",
+      "viewsPerHour": 29935,
+      "views": 338722,
+      "ageHours": 11.3
     },
     {
       "title": "Jon Stewart on French Riots, Kosta on Midterm Meltdowns & Ronny on Vance's New Laugh |The Daily Show",
       "channel": "The Daily Show",
       "videoId": "D-7dtLPTadg",
-      "viewsPerHour": 23688,
-      "views": 1072911,
-      "ageHours": 45.3
+      "viewsPerHour": 23113,
+      "views": 1093681,
+      "ageHours": 47.3
     },
     {
       "title": "Earth’s Tilt Makes Time Slippery",
       "channel": "The Rest Is Science",
       "videoId": "uNQewqqghWs",
-      "viewsPerHour": 11443,
-      "views": 140623,
-      "ageHours": 12.3
+      "viewsPerHour": 10929,
+      "views": 156441,
+      "ageHours": 14.3
+    },
+    {
+      "title": "Trump ATTACKS Abdul El-Sayed with anti-Islamic rhetoric at rally",
+      "channel": "MS NOW",
+      "videoId": "vHcG96PewWc",
+      "viewsPerHour": 4531,
+      "views": 10523,
+      "ageHours": 2.3
     },
     {
       "title": "Collective UFO Sighting is Undeniable Proof! | In Search Of",
       "channel": "History",
       "videoId": "Twd3R-o1eTM",
-      "viewsPerHour": 4183,
-      "views": 164366,
-      "ageHours": 39.3
+      "viewsPerHour": 4013,
+      "views": 165790,
+      "ageHours": 41.3
     },
     {
       "title": "Uncovering the Mystery of Nazca | In Search of Aliens (S1)",
       "channel": "History",
       "videoId": "oOXXf2JoPqw",
-      "viewsPerHour": 3080,
-      "views": 47078,
-      "ageHours": 15.3
+      "viewsPerHour": 2847,
+      "views": 49284,
+      "ageHours": 17.3
     },
     {
       "title": "LIVE Fed Up & Priced Out: A Town Hall with Todd Achilles",
       "channel": "More Perfect Union",
       "videoId": "tKtXt7zokh8",
-      "viewsPerHour": 2927,
-      "views": 58633,
-      "ageHours": 20
+      "viewsPerHour": 2819,
+      "views": 62183,
+      "ageHours": 22.1
+    },
+    {
+      "title": "MS NOW EXCLUSIVE: Jeffries 'confident' in Democrats wins in competitive midterm races",
+      "channel": "MS NOW",
+      "videoId": "-MTAA5xSaOA",
+      "viewsPerHour": 2277,
+      "views": 7562,
+      "ageHours": 3.3
     },
     {
       "title": "Shipwreck in the Swamp? | The Curse of Oak Island (S4, E3) | Full Episode",
       "channel": "History",
       "videoId": "8YSuScvWQxc",
-      "viewsPerHour": 1368,
-      "views": 49655,
-      "ageHours": 36.3
+      "viewsPerHour": 1307,
+      "views": 50075,
+      "ageHours": 38.3
     },
     {
       "title": "Why Some Texans Want Greg Abbott Out | Gina Hinojosa on ‘The Interview’",
       "channel": "The Interview",
       "videoId": "pNsRSEjUklo",
-      "viewsPerHour": 794,
-      "views": 36165,
-      "ageHours": 45.5
+      "viewsPerHour": 767,
+      "views": 36485,
+      "ageHours": 47.6
     },
     {
       "title": "Die Fledermaus opera commentary with mini liebschti: don't pull an h3h3",
       "channel": "Louis Rossmann",
       "videoId": "cYZGTlp4j_Q",
-      "viewsPerHour": 554,
+      "viewsPerHour": 527,
       "views": 21992,
-      "ageHours": 39.7
+      "ageHours": 41.7
     },
     {
       "title": "The Most Dangerous Mid-Life Career Move in Combat Sports",
       "channel": "Real Stories",
       "videoId": "Ln-cVIROW44",
-      "viewsPerHour": 441,
-      "views": 7178,
-      "ageHours": 16.3
+      "viewsPerHour": 404,
+      "views": 7393,
+      "ageHours": 18.3
     },
     {
       "title": "What If Life Isn’t an Accident? (Our Fractal Universe, Chapter 1)",
       "channel": "Chris Lehto",
       "videoId": "H396BN5c79k",
-      "viewsPerHour": 364,
-      "views": 5928,
-      "ageHours": 16.3
+      "viewsPerHour": 332,
+      "views": 6080,
+      "ageHours": 18.3
     },
     {
       "title": "Fear, Money and Death: The Dangerous Life Of Mexico's Narco Pilots",
       "channel": "Real Stories",
       "videoId": "MK9ybyls1WU",
-      "viewsPerHour": 309,
-      "views": 12767,
-      "ageHours": 41.3
+      "viewsPerHour": 298,
+      "views": 12891,
+      "ageHours": 43.3
     },
     {
       "title": "Apple store employees, tell us what's going on here ",
       "channel": "Louis Rossmann",
       "videoId": "5c-EOH4YAUo",
-      "viewsPerHour": 301,
+      "viewsPerHour": 257,
       "views": 3563,
-      "ageHours": 11.8
+      "ageHours": 13.9
     },
     {
       "title": "Flock contracts systemically violate the law to avoid oversight: this must be prosecuted",
       "channel": "Louis Rossmann",
       "videoId": "UPh6l4XKcpw",
-      "viewsPerHour": 152,
+      "viewsPerHour": 145,
       "views": 6621,
-      "ageHours": 43.5
+      "ageHours": 45.5
     },
     {
       "title": "LIVE Students v. Billionaires Town Hall with Bernie Sanders in Ann Arbor",
@@ -610,7 +682,7 @@
       "videoId": "a3B9-_AlfeQ",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 19.7
+      "ageHours": 21.7
     }
   ]
 }
