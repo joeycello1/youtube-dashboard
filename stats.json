@@ -2,15 +2,35 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
+      "count": 3
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 16
+    },
+    {
+      "channel": "PBS NewsHour",
       "count": 2
     },
     {
+      "channel": "Real Stories",
+      "count": 48
+    },
+    {
+      "channel": "More Perfect Union",
+      "count": 26
+    },
+    {
+      "channel": "NOVA",
+      "count": 22
+    },
+    {
       "channel": "Diary of a CEO",
-      "count": 5
+      "count": 4
     },
     {
       "channel": "Last Week Tonight",
-      "count": 3
+      "count": 2
     },
     {
       "channel": "Louis Rossmann",
@@ -25,24 +45,12 @@
       "count": 56
     },
     {
-      "channel": "Real Stories",
-      "count": 47
-    },
-    {
       "channel": "Chris Lehto",
       "count": 7
     },
     {
       "channel": "Inside AI",
       "count": 2
-    },
-    {
-      "channel": "More Perfect Union",
-      "count": 25
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 12
     },
     {
       "channel": "The Interview",
@@ -55,10 +63,6 @@
     {
       "channel": "Area 52",
       "count": 6
-    },
-    {
-      "channel": "NOVA",
-      "count": 21
     },
     {
       "channel": "Jeremy Corbell",
@@ -80,7 +84,27 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
+      "count": 3
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 15
+    },
+    {
+      "keyword": "PBS NewsHour",
       "count": 2
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 46
+    },
+    {
+      "keyword": "More Perfect Union",
+      "count": 20
+    },
+    {
+      "keyword": "NOVA",
+      "count": 36
     },
     {
       "keyword": "AI, artificial intelligence",
@@ -88,7 +112,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "count": 3
+      "count": 2
     },
     {
       "keyword": "Louis Rossmann",
@@ -103,28 +127,12 @@
       "count": 45
     },
     {
-      "keyword": "Real Stories",
-      "count": 45
-    },
-    {
       "keyword": "UAP",
       "count": 4
     },
     {
       "keyword": "AI",
       "count": 9
-    },
-    {
-      "keyword": "More Perfect Union",
-      "count": 19
-    },
-    {
-      "keyword": "NOVA",
-      "count": 35
-    },
-    {
-      "keyword": "The Daily Show",
-      "count": 11
     },
     {
       "keyword": "The Interview",
@@ -156,10 +164,6 @@
     },
     {
       "keyword": "UFO, testimony",
-      "count": 1
-    },
-    {
-      "keyword": "UFO, AI, artificial intelligence",
       "count": 1
     },
     {
@@ -205,8 +209,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-10-27",
+      "videos": 7
+    },
+    {
       "date": "2026-10-26",
-      "videos": 5
+      "videos": 8
     },
     {
       "date": "2026-10-25",
@@ -262,7 +270,7 @@
     },
     {
       "date": "2026-10-12",
-      "videos": 6
+      "videos": 4
     },
     {
       "date": "2026-10-11",
@@ -440,7 +448,27 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
+      "matches": 3
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 15
+    },
+    {
+      "keyword": "PBS NewsHour",
       "matches": 2
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 6
+    },
+    {
+      "keyword": "More Perfect Union",
+      "matches": 6
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 5
     },
     {
       "keyword": "AI, artificial intelligence",
@@ -463,28 +491,12 @@
       "matches": 5
     },
     {
-      "keyword": "Real Stories",
-      "matches": 5
-    },
-    {
       "keyword": "UAP",
       "matches": 1
     },
     {
       "keyword": "AI",
       "matches": 2
-    },
-    {
-      "keyword": "More Perfect Union",
-      "matches": 5
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 4
-    },
-    {
-      "keyword": "The Daily Show",
-      "matches": 11
     },
     {
       "keyword": "The Interview",
@@ -509,108 +521,188 @@
   ],
   "mostViral48h": [
     {
+      "title": "Trump Gets Roasted by Obama & Transfixed by Nicki Minaj's Ass | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "2nIS10ia0fs",
+      "viewsPerHour": 194397,
+      "views": 1806316,
+      "ageHours": 9.3
+    },
+    {
       "title": "The Republican Party & The Far Right: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "SnsBI4YxwIs",
-      "viewsPerHour": 150009,
-      "views": 4168271,
-      "ageHours": 27.8
+      "viewsPerHour": 141480,
+      "views": 4214613,
+      "ageHours": 29.8
     },
     {
       "title": "Mark Cuban: The Brutal Truth About The Next Market Crash!",
       "channel": "Diary of a CEO",
       "videoId": "6VTSAs4Rsck",
-      "viewsPerHour": 85805,
-      "views": 2340835,
-      "ageHours": 27.3
+      "viewsPerHour": 81840,
+      "views": 2396544,
+      "ageHours": 29.3
     },
     {
       "title": "AI agent builds itself a robot body, does exactly what experts warned",
       "channel": "Inside AI",
       "videoId": "QRVz697rEx0",
-      "viewsPerHour": 43326,
-      "views": 1763354,
-      "ageHours": 40.7
+      "viewsPerHour": 41704,
+      "views": 1780875,
+      "ageHours": 42.7
+    },
+    {
+      "title": "Jordan Klepper Fingers the Pulse: Red Flags | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "FejC6Knd-yo",
+      "viewsPerHour": 40378,
+      "views": 334329,
+      "ageHours": 8.3
+    },
+    {
+      "title": "Matthew Cole - “Princes and Thieves” | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "-ImRP3pNgbM",
+      "viewsPerHour": 34596,
+      "views": 299250,
+      "ageHours": 8.6
     },
     {
       "title": "S13 E27: The Republican Party & The Far Right: 10/25/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "zVwhVOB3ulU",
-      "viewsPerHour": 21016,
-      "views": 657630,
-      "ageHours": 31.3
+      "viewsPerHour": 20064,
+      "views": 668020,
+      "ageHours": 33.3
+    },
+    {
+      "title": "We Went To Rural Florida: The Healthcare Crisis Will Shock You",
+      "channel": "More Perfect Union",
+      "videoId": "-wRu0rJ1DUY",
+      "viewsPerHour": 14891,
+      "views": 268119,
+      "ageHours": 18
+    },
+    {
+      "title": "How to tell Trump stunts from what's actually worth worrying about",
+      "channel": "MS NOW",
+      "videoId": "QMD9KEoR-xQ",
+      "viewsPerHour": 8367,
+      "views": 62417,
+      "ageHours": 7.5
+    },
+    {
+      "title": "An Inside Look at Jordan Klepper Fingers the Pulse: Red Flags | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "Sk3aIuMSbG4",
+      "viewsPerHour": 8002,
+      "views": 90375,
+      "ageHours": 11.3
     },
     {
       "title": "Earth’s Tilt Makes Time Slippery",
       "channel": "The Rest Is Science",
       "videoId": "uNQewqqghWs",
-      "viewsPerHour": 7786,
-      "views": 282531,
-      "ageHours": 36.3
+      "viewsPerHour": 7515,
+      "views": 287748,
+      "ageHours": 38.3
+    },
+    {
+      "title": "PBS News Hour full episode, Oct. 26, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "gXExSSoPVHU",
+      "viewsPerHour": 6959,
+      "views": 86202,
+      "ageHours": 12.4
+    },
+    {
+      "title": "The Last Word with Lawrence O'Donnell - Oct. 26 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "MyKj4PFvHmk",
+      "viewsPerHour": 4624,
+      "views": 33716,
+      "ageHours": 7.3
     },
     {
       "title": "LIVE Students v. Billionaires Town Hall with Bernie Sanders in Ann Arbor",
       "channel": "More Perfect Union",
       "videoId": "a3B9-_AlfeQ",
-      "viewsPerHour": 1983,
-      "views": 86573,
-      "ageHours": 43.6
+      "viewsPerHour": 1951,
+      "views": 89043,
+      "ageHours": 45.6
     },
     {
       "title": "LIVE Fed Up & Priced Out: A Town Hall with Todd Achilles",
       "channel": "More Perfect Union",
       "videoId": "tKtXt7zokh8",
-      "viewsPerHour": 1939,
-      "views": 85388,
-      "ageHours": 44
+      "viewsPerHour": 1860,
+      "views": 85623,
+      "ageHours": 46
     },
     {
       "title": "Uncovering the Mystery of Nazca | In Search of Aliens (S1)",
       "channel": "History",
       "videoId": "oOXXf2JoPqw",
-      "viewsPerHour": 1599,
-      "views": 62803,
-      "ageHours": 39.3
+      "viewsPerHour": 1529,
+      "views": 63111,
+      "ageHours": 41.3
     },
     {
-      "title": "Trump ATTACKS Abdul El-Sayed with anti-Islamic rhetoric at rally",
+      "title": "Trump ATTACKS Obama during rally in Mississippi, defends White House 'renovations'",
       "channel": "MS NOW",
-      "videoId": "vHcG96PewWc",
-      "viewsPerHour": 433,
-      "views": 10523,
-      "ageHours": 24.3
+      "videoId": "9wo79_ZPaVE",
+      "viewsPerHour": 1048,
+      "views": 1870,
+      "ageHours": 1.8
     },
     {
-      "title": "MS NOW EXCLUSIVE: Jeffries 'confident' in Democrats wins in competitive midterm races",
-      "channel": "MS NOW",
-      "videoId": "-MTAA5xSaOA",
-      "viewsPerHour": 299,
-      "views": 7562,
-      "ageHours": 25.3
+      "title": "The Dangerous Truth About Propaganda and Censorship in Putin's Russia",
+      "channel": "Real Stories",
+      "videoId": "Uua7RJcXE2M",
+      "viewsPerHour": 582,
+      "views": 10061,
+      "ageHours": 17.3
+    },
+    {
+      "title": "Spiritual leaders unite to help keep the peace on Election Day",
+      "channel": "PBS NewsHour",
+      "videoId": "Pb2j1PV22BM",
+      "viewsPerHour": 560,
+      "views": 7069,
+      "ageHours": 12.6
     },
     {
       "title": "The Most Dangerous Mid-Life Career Move in Combat Sports",
       "channel": "Real Stories",
       "videoId": "Ln-cVIROW44",
-      "viewsPerHour": 221,
-      "views": 8909,
-      "ageHours": 40.3
+      "viewsPerHour": 213,
+      "views": 8992,
+      "ageHours": 42.3
     },
     {
       "title": "What If Life Isn’t an Accident? (Our Fractal Universe, Chapter 1)",
       "channel": "Chris Lehto",
       "videoId": "H396BN5c79k",
-      "viewsPerHour": 178,
-      "views": 7177,
-      "ageHours": 40.3
+      "viewsPerHour": 170,
+      "views": 7201,
+      "ageHours": 42.3
     },
     {
       "title": "Apple store employees, tell us what's going on here ",
       "channel": "Louis Rossmann",
       "videoId": "5c-EOH4YAUo",
-      "viewsPerHour": 99,
+      "viewsPerHour": 94,
       "views": 3563,
-      "ageHours": 35.8
+      "ageHours": 37.8
+    },
+    {
+      "title": "Evolution: Body Builders | Full Documentary | NOVA | PBS",
+      "channel": "NOVA",
+      "videoId": "aISS6DjVHo4",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 18.4
     }
   ]
 }
