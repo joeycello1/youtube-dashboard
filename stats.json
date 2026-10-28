@@ -476,7 +476,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "matches": 15
+      "matches": 13
     },
     {
       "keyword": "More Perfect Union",
@@ -509,10 +509,6 @@
     {
       "keyword": "The Interview",
       "matches": 1
-    },
-    {
-      "keyword": "Corbell, George Knapp, UAP, UFO",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -520,217 +516,209 @@
       "title": "Trump Gets Roasted by Obama & Transfixed by Nicki Minaj's Ass | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "2nIS10ia0fs",
-      "viewsPerHour": 159339,
+      "viewsPerHour": 146741,
       "views": 3711230,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "The Republican Party & The Far Right: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "SnsBI4YxwIs",
-      "viewsPerHour": 104954,
+      "viewsPerHour": 100371,
       "views": 4595826,
-      "ageHours": 43.8
+      "ageHours": 45.8
     },
     {
       "title": "Mark Cuban: The Brutal Truth About The Next Market Crash!",
       "channel": "Diary of a CEO",
       "videoId": "6VTSAs4Rsck",
-      "viewsPerHour": 64531,
+      "viewsPerHour": 61681,
       "views": 2793059,
-      "ageHours": 43.3
+      "ageHours": 45.3
     },
     {
       "title": "Jordan Klepper Fingers the Pulse: Red Flags | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "FejC6Knd-yo",
-      "viewsPerHour": 50081,
+      "viewsPerHour": 45957,
       "views": 1115783,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "Matthew Cole - “Princes and Thieves” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "-ImRP3pNgbM",
-      "viewsPerHour": 28997,
+      "viewsPerHour": 26645,
       "views": 656772,
-      "ageHours": 22.6
-    },
-    {
-      "title": "S13 E27: The Republican Party & The Far Right: 10/25/26: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "zVwhVOB3ulU",
-      "viewsPerHour": 15278,
-      "views": 722561,
-      "ageHours": 47.3
-    },
-    {
-      "title": "BREAKING: Trump Justice Department FAILS to secure indictment against former aide Cassidy Hutchinson",
-      "channel": "MS NOW",
-      "videoId": "a36cs_mGwwM",
-      "viewsPerHour": 13326,
-      "views": 53767,
-      "ageHours": 4
+      "ageHours": 24.6
     },
     {
       "title": "We Went To Rural Florida: The Healthcare Crisis Will Shock You",
       "channel": "More Perfect Union",
       "videoId": "-wRu0rJ1DUY",
-      "viewsPerHour": 11108,
+      "viewsPerHour": 10455,
       "views": 355520,
-      "ageHours": 32
+      "ageHours": 34
+    },
+    {
+      "title": "BREAKING: Trump Justice Department FAILS to secure indictment against former aide Cassidy Hutchinson",
+      "channel": "MS NOW",
+      "videoId": "a36cs_mGwwM",
+      "viewsPerHour": 8910,
+      "views": 53767,
+      "ageHours": 6
     },
     {
       "title": "BOMBSHELL new report on Trump's Epstein ties TERRIFIES Republicans one week before midterms",
       "channel": "MS NOW",
       "videoId": "bTcvP3ozw64",
-      "viewsPerHour": 7557,
+      "viewsPerHour": 5012,
       "views": 29758,
-      "ageHours": 3.9
+      "ageHours": 5.9
     },
     {
       "title": "An Inside Look at Jordan Klepper Fingers the Pulse: Red Flags | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Sk3aIuMSbG4",
-      "viewsPerHour": 4766,
+      "viewsPerHour": 4417,
       "views": 120551,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
       "title": "The Alien Invasion Already Happened. JFK, The CIA & Who’s Really Controlling History | Peter Levenda",
       "channel": "Mayim Bialik",
       "videoId": "1dt2VIoKA_M",
-      "viewsPerHour": 4647,
+      "viewsPerHour": 4110,
       "views": 71061,
-      "ageHours": 15.3
+      "ageHours": 17.3
     },
     {
       "title": "PBS News Hour full episode, Oct. 26, 2026",
       "channel": "PBS NewsHour",
       "videoId": "gXExSSoPVHU",
-      "viewsPerHour": 3267,
+      "viewsPerHour": 3037,
       "views": 86202,
-      "ageHours": 26.4
+      "ageHours": 28.4
     },
     {
       "title": "How to tell Trump stunts from what's actually worth worrying about",
       "channel": "MS NOW",
       "videoId": "QMD9KEoR-xQ",
-      "viewsPerHour": 2909,
+      "viewsPerHour": 2661,
       "views": 62417,
-      "ageHours": 21.5
+      "ageHours": 23.5
     },
     {
       "title": "Conan Announces Dr. Arroyo's New Show \"I'll See You In Health\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "Dtkt6cVF8yw",
-      "viewsPerHour": 2906,
+      "viewsPerHour": 2549,
       "views": 41515,
-      "ageHours": 14.3
+      "ageHours": 16.3
     },
     {
       "title": "Swiss Anti-piracy initiative \"streamsafe\" is so bad 🤦‍♂️",
       "channel": "Louis Rossmann",
       "videoId": "e2q4iJUN-z8",
-      "viewsPerHour": 2125,
+      "viewsPerHour": 1842,
       "views": 27600,
-      "ageHours": 13
+      "ageHours": 15
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Oct. 26 | Audio Only",
       "channel": "MS NOW",
       "videoId": "MyKj4PFvHmk",
-      "viewsPerHour": 1584,
+      "viewsPerHour": 1448,
       "views": 33716,
-      "ageHours": 21.3
+      "ageHours": 23.3
     },
     {
       "title": "LIVE: Parents of Alex Pretti give first news conference since their son was killed in January",
       "channel": "MS NOW",
       "videoId": "D5bMMXl__ms",
-      "viewsPerHour": 1459,
+      "viewsPerHour": 1210,
       "views": 14168,
-      "ageHours": 9.7
+      "ageHours": 11.7
     },
     {
       "title": "New Dwarf Planet Hiding in Our Solar System? | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "8NIwXWwKOpw",
-      "viewsPerHour": 1040,
+      "viewsPerHour": 761,
       "views": 5676,
-      "ageHours": 5.5
+      "ageHours": 7.5
     },
     {
       "title": "PBS News Hour live episode, Oct. 27, 2026",
       "channel": "PBS NewsHour",
       "videoId": "JcW8t2YuWg8",
-      "viewsPerHour": 860,
+      "viewsPerHour": 650,
       "views": 5316,
-      "ageHours": 6.2
-    },
-    {
-      "title": "The Greatest Bitcoin Gamble of the Pandemic: How To Fund a Movie With Crypto",
-      "channel": "Real Stories",
-      "videoId": "OVfCx5Aa84I",
-      "viewsPerHour": 413,
-      "views": 3427,
-      "ageHours": 8.3
+      "ageHours": 8.2
     },
     {
       "title": "The Dangerous Truth About Propaganda and Censorship in Putin's Russia",
       "channel": "Real Stories",
       "videoId": "Uua7RJcXE2M",
-      "viewsPerHour": 372,
+      "viewsPerHour": 350,
       "views": 11638,
-      "ageHours": 31.3
+      "ageHours": 33.3
+    },
+    {
+      "title": "The Greatest Bitcoin Gamble of the Pandemic: How To Fund a Movie With Crypto",
+      "channel": "Real Stories",
+      "videoId": "OVfCx5Aa84I",
+      "viewsPerHour": 333,
+      "views": 3427,
+      "ageHours": 10.3
     },
     {
       "title": "Spiritual leaders unite to help keep the peace on Election Day",
       "channel": "PBS NewsHour",
       "videoId": "Pb2j1PV22BM",
-      "viewsPerHour": 266,
+      "viewsPerHour": 247,
       "views": 7069,
-      "ageHours": 26.6
+      "ageHours": 28.6
     },
     {
       "title": "News Wrap: U.S. providing visas to Bolsonaro and family after loss in Brazil's election",
       "channel": "PBS NewsHour",
       "videoId": "41W6QMcOb9k",
-      "viewsPerHour": 180,
+      "viewsPerHour": 117,
       "views": 665,
-      "ageHours": 3.7
+      "ageHours": 5.7
     },
     {
       "title": "Trump ATTACKS Obama during rally in Mississippi, defends White House 'renovations'",
       "channel": "MS NOW",
       "videoId": "9wo79_ZPaVE",
-      "viewsPerHour": 118,
+      "viewsPerHour": 105,
       "views": 1870,
-      "ageHours": 15.8
+      "ageHours": 17.8
     },
     {
       "title": "Michael Douglas Had To Fire His Dad From \"Cuckoo's Nest\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "lkNiVBThVi4",
-      "viewsPerHour": 79,
+      "viewsPerHour": 67,
       "views": 890,
-      "ageHours": 11.3
+      "ageHours": 13.3
     },
     {
       "title": "WATCH: Trump says Venezuela sent him 1 million barrels of oil as a 'gift'",
       "channel": "PBS NewsHour",
       "videoId": "fzFPPHumrco",
-      "viewsPerHour": 19,
+      "viewsPerHour": 16,
       "views": 183,
-      "ageHours": 9.7
+      "ageHours": 11.7
     },
     {
       "title": "Inside Georgia's push to rebuild trust in elections after Trump's false claims",
       "channel": "PBS NewsHour",
       "videoId": "YZA8er79FZE",
-      "viewsPerHour": 3,
+      "viewsPerHour": 2,
       "views": 12,
-      "ageHours": 3.5
+      "ageHours": 5.5
     },
     {
       "title": "WATCH LIVE: Vance speaks at GOP midterm rally in Michigan",
@@ -738,7 +726,7 @@
       "videoId": "Yuc7QJ1wKtE",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 9.6
+      "ageHours": 11.6
     },
     {
       "title": "LIVE: James Talarico holds rally with midterms one week away",
@@ -746,7 +734,7 @@
       "videoId": "AOklW9PYZvY",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 9.8
+      "ageHours": 11.8
     },
     {
       "title": "Evolution: Body Builders | Full Documentary | NOVA | PBS",
@@ -754,7 +742,7 @@
       "videoId": "aISS6DjVHo4",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 32.4
+      "ageHours": 34.4
     }
   ]
 }
