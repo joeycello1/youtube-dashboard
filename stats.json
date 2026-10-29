@@ -1,12 +1,20 @@
 {
   "videosPerChannel": [
     {
+      "channel": "The Daily Show",
+      "count": 15
+    },
+    {
       "channel": "PBS NewsHour",
       "count": 5
     },
     {
+      "channel": "The Rest Is Science",
+      "count": 5
+    },
+    {
       "channel": "MS NOW",
-      "count": 4
+      "count": 3
     },
     {
       "channel": "Conan O'Brien",
@@ -15,10 +23,6 @@
     {
       "channel": "More Perfect Union",
       "count": 27
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 13
     },
     {
       "channel": "History",
@@ -47,10 +51,6 @@
     {
       "channel": "Last Week Tonight",
       "count": 2
-    },
-    {
-      "channel": "The Rest Is Science",
-      "count": 4
     },
     {
       "channel": "Chris Lehto",
@@ -83,12 +83,20 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "The Daily Show",
+      "count": 15
+    },
+    {
       "keyword": "PBS NewsHour",
       "count": 5
     },
     {
-      "keyword": "MS NOW",
+      "keyword": "The Rest Is Science",
       "count": 4
+    },
+    {
+      "keyword": "MS NOW",
+      "count": 3
     },
     {
       "keyword": "Conan O'Brien",
@@ -97,10 +105,6 @@
     {
       "keyword": "More Perfect Union",
       "count": 21
-    },
-    {
-      "keyword": "The Daily Show",
-      "count": 13
     },
     {
       "keyword": "UFO",
@@ -129,10 +133,6 @@
     {
       "keyword": "Last Week Tonight",
       "count": 2
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "count": 3
     },
     {
       "keyword": "UAP",
@@ -210,11 +210,11 @@
   "dailySummary": [
     {
       "date": "2026-10-29",
-      "videos": 3
+      "videos": 6
     },
     {
       "date": "2026-10-28",
-      "videos": 13
+      "videos": 12
     },
     {
       "date": "2026-10-27",
@@ -447,24 +447,28 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "The Daily Show",
+      "matches": 14
+    },
+    {
       "keyword": "PBS NewsHour",
       "matches": 5
     },
     {
+      "keyword": "The Rest Is Science",
+      "matches": 2
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 4
+      "matches": 3
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "More Perfect Union",
       "matches": 5
-    },
-    {
-      "keyword": "The Daily Show",
-      "matches": 13
     },
     {
       "keyword": "UFO",
@@ -472,7 +476,7 @@
     },
     {
       "keyword": "NOVA",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "Real Stories",
@@ -495,10 +499,6 @@
       "matches": 2
     },
     {
-      "keyword": "The Rest Is Science",
-      "matches": 1
-    },
-    {
       "keyword": "UAP",
       "matches": 1
     },
@@ -513,172 +513,172 @@
   ],
   "mostViral48h": [
     {
+      "title": "Brent Taylor's D**k Pics, Trump's Ass Obsession & Alaska's Dueling Dan Sullivans | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "HygVTJrz_7I",
+      "viewsPerHour": 105880,
+      "views": 1092543,
+      "ageHours": 10.3
+    },
+    {
       "title": "Conservative Media Rallies Behind The Cheesecake Factory After Obama Serves Up Diss | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "pzyITrwlaL0",
-      "viewsPerHour": 72770,
-      "views": 2204419,
-      "ageHours": 30.3
-    },
-    {
-      "title": "Are Paid Influencers Influencing Your Midterm Vote? Desi Lydic Says Beware | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "uWqFBoeLCPk",
-      "viewsPerHour": 46618,
-      "views": 942835,
-      "ageHours": 20.2
+      "viewsPerHour": 65043,
+      "views": 2230674,
+      "ageHours": 34.3
     },
     {
       "title": "New Dwarf Planet Hiding in Our Solar System? | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "8NIwXWwKOpw",
-      "viewsPerHour": 45752,
-      "views": 1622512,
-      "ageHours": 35.5
+      "viewsPerHour": 43701,
+      "views": 1724688,
+      "ageHours": 39.5
     },
     {
-      "title": "WATCH LIVE: Obama stumps for Ossoff and Bottoms at Georgia midterm rally",
-      "channel": "PBS NewsHour",
-      "videoId": "m7V1HO0aF94",
-      "viewsPerHour": 18964,
-      "views": 135705,
-      "ageHours": 7.2
+      "title": "Are Paid Influencers Influencing Your Midterm Vote? Desi Lydic Says Beware | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "uWqFBoeLCPk",
+      "viewsPerHour": 40801,
+      "views": 988498,
+      "ageHours": 24.2
     },
     {
       "title": "We Went Back To Arkansas. The Farm Crisis Has Gotten Much Worse...",
       "channel": "More Perfect Union",
       "videoId": "_Ar-wej-FEg",
-      "viewsPerHour": 18619,
-      "views": 322618,
-      "ageHours": 17.3
+      "viewsPerHour": 16267,
+      "views": 346967,
+      "ageHours": 21.3
+    },
+    {
+      "title": "WATCH LIVE: Obama stumps for Ossoff and Bottoms at Georgia midterm rally",
+      "channel": "PBS NewsHour",
+      "videoId": "m7V1HO0aF94",
+      "viewsPerHour": 12162,
+      "views": 135705,
+      "ageHours": 11.2
+    },
+    {
+      "title": "7 Accidentally Creepy Sounds",
+      "channel": "The Rest Is Science",
+      "videoId": "1h-rZ9fapyM",
+      "viewsPerHour": 9790,
+      "views": 119616,
+      "ageHours": 12.2
     },
     {
       "title": "Morgana Robinson on Spending 3 Years in Character for “Ali G: Who Iz I” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "6z0SFYA5EH8",
-      "viewsPerHour": 8831,
-      "views": 254324,
-      "ageHours": 28.8
+      "viewsPerHour": 8063,
+      "views": 264492,
+      "ageHours": 32.8
     },
     {
-      "title": "WATCH LIVE: Trump rallies voters in Ohio after divisive Ramaswamy campaign ad",
-      "channel": "PBS NewsHour",
-      "videoId": "HhFb6W8HIb8",
-      "viewsPerHour": 4033,
-      "views": 28792,
-      "ageHours": 7.1
-    },
-    {
-      "title": "The Alien Invasion Already Happened. JFK, The CIA & Who’s Really Controlling History | Peter Levenda",
-      "channel": "Mayim Bialik",
-      "videoId": "1dt2VIoKA_M",
-      "viewsPerHour": 3665,
-      "views": 166031,
-      "ageHours": 45.3
+      "title": "David Byrne on Rediscovering the Wisdom of the Past | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "VN5Ix7fdh5w",
+      "viewsPerHour": 6811,
+      "views": 59771,
+      "ageHours": 8.8
     },
     {
       "title": "Opening an Interdimensional Portal? | The Secret of Skinwalker Ranch (S2, E4) | Full Episode",
       "channel": "History",
       "videoId": "7Ky1Gi9IA6g",
-      "viewsPerHour": 3256,
-      "views": 105174,
-      "ageHours": 32.3
+      "viewsPerHour": 2972,
+      "views": 107879,
+      "ageHours": 36.3
     },
     {
-      "title": "Conan Announces Dr. Arroyo's New Show \"I'll See You In Health\" | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "Dtkt6cVF8yw",
-      "viewsPerHour": 937,
-      "views": 41515,
-      "ageHours": 44.3
+      "title": "WATCH LIVE: Trump rallies voters in Ohio after divisive Ramaswamy campaign ad",
+      "channel": "PBS NewsHour",
+      "videoId": "HhFb6W8HIb8",
+      "viewsPerHour": 2584,
+      "views": 28792,
+      "ageHours": 11.1
     },
     {
       "title": "Swiss Anti-piracy initiative \"streamsafe\" is so bad 🤦‍♂️",
       "channel": "Louis Rossmann",
       "videoId": "e2q4iJUN-z8",
-      "viewsPerHour": 642,
+      "viewsPerHour": 587,
       "views": 27600,
-      "ageHours": 43
+      "ageHours": 47
     },
     {
       "title": "Terry & Tammy Bradshaw (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "G5AK-m1hwWY",
-      "viewsPerHour": 385,
+      "viewsPerHour": 321,
       "views": 7805,
-      "ageHours": 20.3
-    },
-    {
-      "title": "WATCH: Defeated Brazilian candidate Flavio Bolsonaro arrives in U.S. amid investigation",
-      "channel": "PBS NewsHour",
-      "videoId": "9YXzzSzMrh8",
-      "viewsPerHour": 231,
-      "views": 4114,
-      "ageHours": 17.8
+      "ageHours": 24.3
     },
     {
       "title": "The Greatest Bitcoin Gamble of the Pandemic: How To Fund a Movie With Crypto",
       "channel": "Real Stories",
       "videoId": "OVfCx5Aa84I",
-      "viewsPerHour": 223,
-      "views": 8550,
-      "ageHours": 38.3
+      "viewsPerHour": 207,
+      "views": 8756,
+      "ageHours": 42.3
     },
     {
-      "title": "7 days to midterms: Trump sows election doubt, Latino voters ‘TURNING UP’ in TX | MS NOW Highlights",
-      "channel": "MS NOW",
-      "videoId": "p-wBGg_ZErw",
-      "viewsPerHour": 198,
-      "views": 4359,
-      "ageHours": 22
+      "title": "WATCH: Defeated Brazilian candidate Flavio Bolsonaro arrives in U.S. amid investigation",
+      "channel": "PBS NewsHour",
+      "videoId": "9YXzzSzMrh8",
+      "viewsPerHour": 189,
+      "views": 4114,
+      "ageHours": 21.8
     },
     {
       "title": "WATCH: Vance speaks at a GOP midterm rally in North Carolina",
       "channel": "PBS NewsHour",
       "videoId": "Pyu1V4Vkm5w",
-      "viewsPerHour": 114,
+      "viewsPerHour": 66,
       "views": 626,
-      "ageHours": 5.5
+      "ageHours": 9.5
     },
     {
       "title": "Why Michael Douglas Is Finally Confirming Affair With Kathleen Turner | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "rYnKD9xndFk",
-      "viewsPerHour": 62,
+      "viewsPerHour": 51,
       "views": 1080,
-      "ageHours": 17.3
+      "ageHours": 21.3
     },
     {
       "title": "He is the commander-in-cheat!': Booker SLAMS Trump's election fraud claims",
       "channel": "MS NOW",
       "videoId": "XcUBTscmDRI",
-      "viewsPerHour": 37,
+      "viewsPerHour": 30,
       "views": 578,
-      "ageHours": 15.5
+      "ageHours": 19.5
     },
     {
       "title": "Attempted election interference': Lawyer breaks down DOJ targeting CA, AK and WA",
       "channel": "MS NOW",
       "videoId": "LP-EI7_0Wys",
-      "viewsPerHour": 27,
+      "viewsPerHour": 22,
       "views": 424,
-      "ageHours": 15.6
-    },
-    {
-      "title": "I talked to more Trump voters' than the Republican: How one Mississippi Dem is taking on the GOP",
-      "channel": "MS NOW",
-      "videoId": "cOLZmsTx_jc",
-      "viewsPerHour": 23,
-      "views": 365,
-      "ageHours": 15.6
+      "ageHours": 19.6
     },
     {
       "title": "Michael Douglas Had To Fire His Dad From \"Cuckoo's Nest\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "lkNiVBThVi4",
-      "viewsPerHour": 22,
+      "viewsPerHour": 20,
       "views": 890,
-      "ageHours": 41.3
+      "ageHours": 45.3
+    },
+    {
+      "title": "I talked to more Trump voters' than the Republican: How one Mississippi Dem is taking on the GOP",
+      "channel": "MS NOW",
+      "videoId": "cOLZmsTx_jc",
+      "viewsPerHour": 19,
+      "views": 365,
+      "ageHours": 19.6
     },
     {
       "title": "WATCH LIVE: Trump rallies voters in Ohio after divisive Ramaswamy campaign ad",
@@ -686,7 +686,7 @@
       "videoId": "NMXKTM-QbcE",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 18.4
+      "ageHours": 22.4
     }
   ]
 }
