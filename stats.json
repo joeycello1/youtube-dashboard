@@ -2,39 +2,43 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 6
+      "count": 8
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 15
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 4
+    },
+    {
+      "channel": "NOVA",
+      "count": 24
+    },
+    {
+      "channel": "Chris Lehto",
+      "count": 7
+    },
+    {
+      "channel": "More Perfect Union",
+      "count": 27
+    },
+    {
+      "channel": "Real Stories",
+      "count": 47
     },
     {
       "channel": "History",
       "count": 55
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 3
-    },
-    {
       "channel": "Conan O'Brien",
       "count": 12
     },
     {
-      "channel": "The Daily Show",
-      "count": 13
-    },
-    {
       "channel": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "channel": "More Perfect Union",
-      "count": 26
-    },
-    {
-      "channel": "NOVA",
-      "count": 23
-    },
-    {
-      "channel": "Real Stories",
-      "count": 46
     },
     {
       "channel": "Louis Rossmann",
@@ -46,15 +50,11 @@
     },
     {
       "channel": "Diary of a CEO",
-      "count": 4
+      "count": 3
     },
     {
       "channel": "Last Week Tonight",
       "count": 2
-    },
-    {
-      "channel": "Chris Lehto",
-      "count": 6
     },
     {
       "channel": "Inside AI",
@@ -84,7 +84,31 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 8
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 15
+    },
+    {
+      "keyword": "PBS NewsHour, AI",
+      "count": 1
+    },
+    {
+      "keyword": "NOVA",
+      "count": 37
+    },
+    {
+      "keyword": "AI, Grusch",
+      "count": 1
+    },
+    {
+      "keyword": "More Perfect Union",
+      "count": 22
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 45
     },
     {
       "keyword": "UFO",
@@ -99,24 +123,8 @@
       "count": 12
     },
     {
-      "keyword": "The Daily Show",
-      "count": 13
-    },
-    {
       "keyword": "The Rest Is Science",
       "count": 3
-    },
-    {
-      "keyword": "More Perfect Union",
-      "count": 21
-    },
-    {
-      "keyword": "NOVA",
-      "count": 36
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 44
     },
     {
       "keyword": "Louis Rossmann",
@@ -140,7 +148,7 @@
     },
     {
       "keyword": "AI",
-      "count": 9
+      "count": 8
     },
     {
       "keyword": "The Interview",
@@ -205,8 +213,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-10-30",
+      "videos": 4
+    },
+    {
       "date": "2026-10-29",
-      "videos": 16
+      "videos": 21
     },
     {
       "date": "2026-10-28",
@@ -262,7 +274,7 @@
     },
     {
       "date": "2026-10-15",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-10-14",
@@ -440,7 +452,31 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
+      "matches": 8
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 14
+    },
+    {
+      "keyword": "PBS NewsHour, AI",
+      "matches": 1
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 5
+    },
+    {
+      "keyword": "AI, Grusch",
+      "matches": 1
+    },
+    {
+      "keyword": "More Perfect Union",
       "matches": 6
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 5
     },
     {
       "keyword": "UFO",
@@ -452,27 +488,11 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 8
-    },
-    {
-      "keyword": "The Daily Show",
-      "matches": 13
+      "matches": 7
     },
     {
       "keyword": "The Rest Is Science",
       "matches": 2
-    },
-    {
-      "keyword": "More Perfect Union",
-      "matches": 5
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 4
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 4
     },
     {
       "keyword": "Louis Rossmann",
@@ -505,148 +525,204 @@
   ],
   "mostViral48h": [
     {
+      "title": "GOP Gets Ghoulish in Last-Ditch Midterm Fearmongering | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "6ZpaPFXIgE4",
+      "viewsPerHour": 99514,
+      "views": 1025425,
+      "ageHours": 10.3
+    },
+    {
       "title": "Brent Taylor's D**k Pics, Trump's Ass Obsession & Alaska's Dueling Dan Sullivans | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "HygVTJrz_7I",
-      "viewsPerHour": 60305,
-      "views": 1949504,
-      "ageHours": 32.3
-    },
-    {
-      "title": "Are Paid Influencers Influencing Your Midterm Vote? Desi Lydic Says Beware | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "uWqFBoeLCPk",
-      "viewsPerHour": 25547,
-      "views": 1181179,
-      "ageHours": 46.2
+      "viewsPerHour": 57051,
+      "views": 1958007,
+      "ageHours": 34.3
     },
     {
       "title": "Charlamagne Tha God on the Masculinity Obsession That's Bro-ing Up the Midterms | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Yu4733VQZ7M",
-      "viewsPerHour": 24943,
-      "views": 553521,
-      "ageHours": 22.2
+      "viewsPerHour": 23307,
+      "views": 563679,
+      "ageHours": 24.2
+    },
+    {
+      "title": "We Found The Most Surprising Election In America. It's Not Where You Think.",
+      "channel": "More Perfect Union",
+      "videoId": "aoBaKIEXYG8",
+      "viewsPerHour": 12490,
+      "views": 224325,
+      "ageHours": 18
     },
     {
       "title": "We Went Back To Arkansas. The Farm Crisis Has Gotten Much Worse...",
       "channel": "More Perfect Union",
       "videoId": "_Ar-wej-FEg",
-      "viewsPerHour": 11475,
-      "views": 497281,
-      "ageHours": 43.3
+      "viewsPerHour": 11262,
+      "views": 510508,
+      "ageHours": 45.3
+    },
+    {
+      "title": "PBS News Hour full episode, Oct. 29, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "G7HapDofeBk",
+      "viewsPerHour": 9111,
+      "views": 117283,
+      "ageHours": 12.9
+    },
+    {
+      "title": "Ossoff blasts 'toddler' Trump in closing campaign salvo",
+      "channel": "MS NOW",
+      "videoId": "cXshXv0lbj8",
+      "viewsPerHour": 8305,
+      "views": 61228,
+      "ageHours": 7.4
     },
     {
       "title": "7 Accidentally Creepy Sounds",
       "channel": "The Rest Is Science",
       "videoId": "1h-rZ9fapyM",
-      "viewsPerHour": 6783,
-      "views": 232154,
-      "ageHours": 34.2
+      "viewsPerHour": 6538,
+      "views": 236812,
+      "ageHours": 36.2
+    },
+    {
+      "title": "Tracy Letts on “I Play Rocky,” Improv, and His Extensive Movie Collection | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "wPcHE020gzA",
+      "viewsPerHour": 5588,
+      "views": 49293,
+      "ageHours": 8.8
     },
     {
       "title": "David Byrne on Rediscovering the Wisdom of the Past | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "VN5Ix7fdh5w",
-      "viewsPerHour": 4420,
-      "views": 136064,
-      "ageHours": 30.8
+      "viewsPerHour": 4182,
+      "views": 137064,
+      "ageHours": 32.8
     },
     {
       "title": "Suspicious Activity Above the Triangle | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "TySJMzzkHjE",
-      "viewsPerHour": 4270,
-      "views": 78185,
+      "viewsPerHour": 3986,
+      "views": 80923,
+      "ageHours": 20.3
+    },
+    {
+      "title": "Spooky Truth about Quantum Computers | What the Physics?!",
+      "channel": "NOVA",
+      "videoId": "VUjS4qrDwRg",
+      "viewsPerHour": 3317,
+      "views": 46692,
+      "ageHours": 14.1
+    },
+    {
+      "title": "The Non-Human Intelligence Coming in 2027 Isn't What You Think",
+      "channel": "Chris Lehto",
+      "videoId": "mPGzHQ7CoFI",
+      "viewsPerHour": 2563,
+      "views": 44649,
+      "ageHours": 17.4
+    },
+    {
+      "title": "Black voter turnout is surging this year, despite GOP attempts to weaken Black voting power",
+      "channel": "MS NOW",
+      "videoId": "uk7uCgxZuvs",
+      "viewsPerHour": 1019,
+      "views": 2074,
+      "ageHours": 2
+    },
+    {
+      "title": "What I learned From Growing Up In My Dad's Strip Club: Inside The Manor",
+      "channel": "Real Stories",
+      "videoId": "aErQTbZoalg",
+      "viewsPerHour": 523,
+      "views": 9566,
       "ageHours": 18.3
     },
     {
       "title": "‘They’ve got NOTHING to talk about’: Joe BLASTS Trump’s repeated Obama jabs",
       "channel": "MS NOW",
       "videoId": "qDodvxWqHEw",
-      "viewsPerHour": 272,
+      "viewsPerHour": 248,
       "views": 5699,
-      "ageHours": 21
+      "ageHours": 23
     },
     {
       "title": "Enthusiasm 'is just not there' for Darline Graham among South Carolina voters: Schnell",
       "channel": "MS NOW",
       "videoId": "9izKJxOpRW4",
-      "viewsPerHour": 262,
+      "viewsPerHour": 235,
       "views": 4634,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "‘READ the First Amendment’: Joe reacts to Sen. Bernie Moreno’s anti-Muslim attack on Abdul El-Sayed",
       "channel": "MS NOW",
       "videoId": "0Exj371e9ow",
-      "viewsPerHour": 189,
+      "viewsPerHour": 173,
       "views": 3945,
-      "ageHours": 20.9
-    },
-    {
-      "title": "Terry & Tammy Bradshaw (Full Episode) | Where Everybody Knows Your Name",
-      "channel": "Conan O'Brien",
-      "videoId": "G5AK-m1hwWY",
-      "viewsPerHour": 169,
-      "views": 7805,
-      "ageHours": 46.3
+      "ageHours": 22.8
     },
     {
       "title": "Obama LAUGHS at Trump's Cheesecake Factory OUTRAGE",
       "channel": "MS NOW",
       "videoId": "Op_SOrNU5XA",
-      "viewsPerHour": 122,
+      "viewsPerHour": 109,
       "views": 2162,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "Norm Macdonald's Shaggy Dog Story Of Country Life | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "5OcpyhumwLE",
-      "viewsPerHour": 81,
+      "viewsPerHour": 73,
       "views": 1563,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "Conan Meets The Creative Director Of Highlights Magazine | Conan O'Brien Needs A Fan",
       "channel": "Conan O'Brien",
       "videoId": "oGjzu5VjqFs",
-      "viewsPerHour": 78,
+      "viewsPerHour": 71,
       "views": 1732,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "Should we be worried about Trump seizing ballots while they’re being counted?",
       "channel": "MS NOW",
       "videoId": "O5DvYPxx2bo",
-      "viewsPerHour": 39,
+      "viewsPerHour": 35,
       "views": 701,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "WATCH LIVE: Trump rallies in South Carolina for Sen. Darline Graham",
       "channel": "PBS NewsHour",
       "videoId": "-AIlCvfYl7U",
-      "viewsPerHour": 37,
+      "viewsPerHour": 34,
       "views": 699,
-      "ageHours": 18.9
+      "ageHours": 20.9
     },
     {
       "title": "Why there’s “not that much energy” from Gen Z around midterms",
       "channel": "MS NOW",
       "videoId": "cLn_pFhRbqA",
-      "viewsPerHour": 29,
+      "viewsPerHour": 27,
       "views": 606,
-      "ageHours": 20.8
+      "ageHours": 22.8
     },
     {
       "title": "Why Michael Douglas Is Finally Confirming Affair With Kathleen Turner | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "rYnKD9xndFk",
-      "viewsPerHour": 25,
+      "viewsPerHour": 24,
       "views": 1080,
-      "ageHours": 43.3
+      "ageHours": 45.3
     },
     {
       "title": "WATCH LIVE: Trumps host Halloween celebration at the White House",
@@ -654,7 +730,7 @@
       "videoId": "pfHvlO7macs",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 18.7
+      "ageHours": 20.7
     },
     {
       "title": "WATCH LIVE: Rubio signs memo with Finland's foreign minister on critical minerals, tech",
@@ -662,7 +738,7 @@
       "videoId": "e6Q0RScSoA8",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 20.8
+      "ageHours": 22.8
     }
   ]
 }
