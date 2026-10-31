@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "PBS NewsHour",
-      "count": 4
+      "count": 3
     },
     {
       "channel": "MS NOW",
@@ -123,10 +123,6 @@
       "count": 1
     },
     {
-      "keyword": "PBS NewsHour, AI",
-      "count": 1
-    },
-    {
       "keyword": "AI, Grusch",
       "count": 1
     },
@@ -230,7 +226,7 @@
     },
     {
       "date": "2026-10-29",
-      "videos": 12
+      "videos": 11
     },
     {
       "date": "2026-10-28",
@@ -503,10 +499,6 @@
       "matches": 1
     },
     {
-      "keyword": "PBS NewsHour, AI",
-      "matches": 1
-    },
-    {
       "keyword": "AI, Grusch",
       "matches": 1
     },
@@ -556,217 +548,209 @@
       "title": "GOP Gets Ghoulish in Last-Ditch Midterm Fearmongering | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "6ZpaPFXIgE4",
-      "viewsPerHour": 60859,
+      "viewsPerHour": 56543,
       "views": 1600063,
-      "ageHours": 26.3
+      "ageHours": 28.3
     },
     {
       "title": "Michael Kosta Meets the Activist Fighting for America's Persecuted Billionaires | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "C0ysAy2LXjY",
-      "viewsPerHour": 33110,
+      "viewsPerHour": 29591,
       "views": 558617,
-      "ageHours": 16.9
+      "ageHours": 18.9
     },
     {
       "title": "Jon Stewart & The News Team Tackle AI’s Looming Threat, Rebrand & Lax Regulations | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "tOeFyixOgD0",
-      "viewsPerHour": 24804,
+      "viewsPerHour": 21549,
       "views": 329473,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "Charlamagne Tha God on the Masculinity Obsession That's Bro-ing Up the Midterms | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Yu4733VQZ7M",
-      "viewsPerHour": 15656,
+      "viewsPerHour": 14911,
       "views": 628944,
-      "ageHours": 40.2
+      "ageHours": 42.2
     },
     {
       "title": "We Found The Most Surprising Election In America. It's Not Where You Think.",
       "channel": "More Perfect Union",
       "videoId": "aoBaKIEXYG8",
-      "viewsPerHour": 8918,
+      "viewsPerHour": 8420,
       "views": 302730,
-      "ageHours": 33.9
+      "ageHours": 36
     },
     {
       "title": "Desi Lydic Foxsplains Obama’s Cheesecake Factory Joke at Trump | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "XCMMCNPQBDk",
-      "viewsPerHour": 7835,
+      "viewsPerHour": 6043,
       "views": 53020,
-      "ageHours": 6.8
+      "ageHours": 8.8
     },
     {
       "title": "New Discoveries Under The Swamp | The Curse of Oak Island",
       "channel": "History",
       "videoId": "xyIphYPn2xU",
-      "viewsPerHour": 4421,
+      "viewsPerHour": 3800,
       "views": 54318,
-      "ageHours": 12.3
-    },
-    {
-      "title": "PBS News Hour full episode, Oct. 29, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "G7HapDofeBk",
-      "viewsPerHour": 4064,
-      "views": 117283,
-      "ageHours": 28.9
+      "ageHours": 14.3
     },
     {
       "title": "Tracy Letts on “I Play Rocky,” Improv, and His Extensive Movie Collection | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "wPcHE020gzA",
-      "viewsPerHour": 3252,
+      "viewsPerHour": 3008,
       "views": 80666,
-      "ageHours": 24.8
+      "ageHours": 26.8
     },
     {
       "title": "Suspicious Activity Above the Triangle | The Secret of Skinwalker Ranch",
       "channel": "History",
       "videoId": "TySJMzzkHjE",
-      "viewsPerHour": 2799,
+      "viewsPerHour": 2653,
       "views": 101590,
-      "ageHours": 36.3
+      "ageHours": 38.3
     },
     {
       "title": "Ossoff blasts 'toddler' Trump in closing campaign salvo",
       "channel": "MS NOW",
       "videoId": "cXshXv0lbj8",
-      "viewsPerHour": 2621,
+      "viewsPerHour": 2414,
       "views": 61228,
-      "ageHours": 23.4
-    },
-    {
-      "title": "Hegseth's Pentagon EXPOSED for telling European allies to go easier on Russia",
-      "channel": "MS NOW",
-      "videoId": "uEWnKpHJrUE",
-      "viewsPerHour": 1956,
-      "views": 11578,
-      "ageHours": 5.9
+      "ageHours": 25.4
     },
     {
       "title": "Spooky Truth about Quantum Computers | What the Physics?!",
       "channel": "NOVA",
       "videoId": "VUjS4qrDwRg",
-      "viewsPerHour": 1807,
+      "viewsPerHour": 1694,
       "views": 54337,
-      "ageHours": 30.1
+      "ageHours": 32.1
     },
     {
       "title": "The Non-Human Intelligence Coming in 2027 Isn't What You Think",
       "channel": "Chris Lehto",
       "videoId": "mPGzHQ7CoFI",
-      "viewsPerHour": 1656,
+      "viewsPerHour": 1562,
       "views": 55325,
-      "ageHours": 33.4
+      "ageHours": 35.4
+    },
+    {
+      "title": "Hegseth's Pentagon EXPOSED for telling European allies to go easier on Russia",
+      "channel": "MS NOW",
+      "videoId": "uEWnKpHJrUE",
+      "viewsPerHour": 1461,
+      "views": 11578,
+      "ageHours": 7.9
     },
     {
       "title": "Conan Calls Out Sona For Missing The Podcast | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "lhQYTV8js7Y",
-      "viewsPerHour": 1240,
+      "viewsPerHour": 1104,
       "views": 20193,
-      "ageHours": 16.3
+      "ageHours": 18.3
     },
     {
       "title": "[FULL VERSION] Apple store tricks customers into paid subscriptions without consent",
       "channel": "Louis Rossmann",
       "videoId": "9BqEy5AljB0",
-      "viewsPerHour": 970,
+      "viewsPerHour": 792,
       "views": 8666,
-      "ageHours": 8.9
+      "ageHours": 10.9
     },
     {
       "title": "The Scariest Villain of All Time... is Real | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "-nP2nmHVpMI",
-      "viewsPerHour": 868,
+      "viewsPerHour": 714,
       "views": 8059,
-      "ageHours": 9.3
+      "ageHours": 11.3
     },
     {
       "title": "PBS News Hour live episode, Oct. 30, 2026",
       "channel": "PBS NewsHour",
       "videoId": "B59flCc129Y",
-      "viewsPerHour": 686,
+      "viewsPerHour": 544,
       "views": 5271,
-      "ageHours": 7.7
+      "ageHours": 9.7
     },
     {
       "title": "WATCH LIVE: Trump speaks at Florida midterm rally as Election Day nears",
       "channel": "PBS NewsHour",
       "videoId": "zFhsBARQx4o",
-      "viewsPerHour": 568,
+      "viewsPerHour": 468,
       "views": 5336,
-      "ageHours": 9.4
+      "ageHours": 11.4
     },
     {
       "title": "\"They've seen footage of beings\"",
       "channel": "Jeremy Corbell",
       "videoId": "h3UfMZLIWUI",
-      "viewsPerHour": 540,
+      "viewsPerHour": 430,
       "views": 4255,
-      "ageHours": 7.9
+      "ageHours": 9.9
     },
     {
       "title": "What I learned From Growing Up In My Dad's Strip Club: Inside The Manor",
       "channel": "Real Stories",
       "videoId": "aErQTbZoalg",
-      "viewsPerHour": 326,
+      "viewsPerHour": 308,
       "views": 11194,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
       "title": "[TLDR] Apple store tricks customers into paid subscriptions without consent",
       "channel": "Louis Rossmann",
       "videoId": "L1q-j2732j0",
-      "viewsPerHour": 316,
+      "viewsPerHour": 271,
       "views": 3830,
-      "ageHours": 12.1
+      "ageHours": 14.1
     },
     {
       "title": "News Wrap: Judge investigating if Trump officials misled court about D.C. golf course plan",
       "channel": "PBS NewsHour",
       "videoId": "ovxhCMHfuew",
-      "viewsPerHour": 286,
+      "viewsPerHour": 213,
       "views": 1662,
-      "ageHours": 5.8
+      "ageHours": 7.8
     },
     {
       "title": "Black voter turnout is surging this year, despite GOP attempts to weaken Black voting power",
       "channel": "MS NOW",
       "videoId": "uk7uCgxZuvs",
-      "viewsPerHour": 115,
+      "viewsPerHour": 104,
       "views": 2074,
-      "ageHours": 18
+      "ageHours": 20
     },
     {
       "title": "Conan Meets The Creative Director Of Highlights Magazine | Conan O'Brien Needs A Fan",
       "channel": "Conan O'Brien",
       "videoId": "oGjzu5VjqFs",
-      "viewsPerHour": 43,
+      "viewsPerHour": 41,
       "views": 1732,
-      "ageHours": 40.3
+      "ageHours": 42.3
     },
     {
       "title": "Norm Macdonald's Shaggy Dog Story Of Country Life | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "5OcpyhumwLE",
-      "viewsPerHour": 42,
+      "viewsPerHour": 40,
       "views": 1563,
-      "ageHours": 37.3
+      "ageHours": 39.3
     },
     {
       "title": "Is Trump's ego calling the shots? Inside the president's on, then off, then back on again rallies",
       "channel": "MS NOW",
       "videoId": "Pxk6IQsS5RM",
-      "viewsPerHour": 12,
+      "viewsPerHour": 10,
       "views": 136,
-      "ageHours": 11.5
+      "ageHours": 13.5
     },
     {
       "title": "The Pentagon's UFO Debunker Is Lying. We Can Prove It.",
@@ -774,7 +758,7 @@
       "videoId": "bvbPl2buNik",
       "viewsPerHour": 0,
       "views": 7,
-      "ageHours": 14
+      "ageHours": 16
     }
   ]
 }
