@@ -1,6 +1,18 @@
 {
   "videosPerChannel": [
     {
+      "channel": "History",
+      "count": 57
+    },
+    {
+      "channel": "MS NOW",
+      "count": 4
+    },
+    {
+      "channel": "Real Stories",
+      "count": 47
+    },
+    {
       "channel": "More Perfect Union",
       "count": 28
     },
@@ -11,14 +23,6 @@
     {
       "channel": "The Interview",
       "count": 8
-    },
-    {
-      "channel": "MS NOW",
-      "count": 4
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 3
     },
     {
       "channel": "Jeremy Corbell",
@@ -33,20 +37,12 @@
       "count": 12
     },
     {
-      "channel": "History",
-      "count": 56
-    },
-    {
       "channel": "NOVA",
-      "count": 24
+      "count": 23
     },
     {
       "channel": "Chris Lehto",
       "count": 7
-    },
-    {
-      "channel": "Real Stories",
-      "count": 46
     },
     {
       "channel": "The Rest Is Science",
@@ -83,6 +79,18 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "NOVA",
+      "count": 38
+    },
+    {
+      "keyword": "MS NOW",
+      "count": 4
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 45
+    },
+    {
       "keyword": "More Perfect Union, AI",
       "count": 6
     },
@@ -95,18 +103,6 @@
       "count": 8
     },
     {
-      "keyword": "MS NOW",
-      "count": 3
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 3
-    },
-    {
-      "keyword": "MS NOW, Reuters",
-      "count": 1
-    },
-    {
       "keyword": "Corbell, anomalous, George Knapp, UAP, whistleblower",
       "count": 2
     },
@@ -117,10 +113,6 @@
     {
       "keyword": "Conan O'Brien",
       "count": 12
-    },
-    {
-      "keyword": "NOVA",
-      "count": 38
     },
     {
       "keyword": "The Daily Show, AI",
@@ -137,10 +129,6 @@
     {
       "keyword": "More Perfect Union",
       "count": 22
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 44
     },
     {
       "keyword": "UFO",
@@ -222,11 +210,11 @@
   "dailySummary": [
     {
       "date": "2026-10-31",
-      "videos": 6
+      "videos": 9
     },
     {
       "date": "2026-10-30",
-      "videos": 16
+      "videos": 12
     },
     {
       "date": "2026-10-29",
@@ -453,15 +441,23 @@
       "videos": 6
     },
     {
-      "date": "2026-09-01",
-      "videos": 1
-    },
-    {
       "date": "2026-08-15",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
+    {
+      "keyword": "NOVA",
+      "matches": 5
+    },
+    {
+      "keyword": "MS NOW",
+      "matches": 4
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 5
+    },
     {
       "keyword": "More Perfect Union, AI",
       "matches": 1
@@ -475,18 +471,6 @@
       "matches": 1
     },
     {
-      "keyword": "MS NOW",
-      "matches": 3
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 3
-    },
-    {
-      "keyword": "MS NOW, Reuters",
-      "matches": 1
-    },
-    {
       "keyword": "Corbell, anomalous, George Knapp, UAP, whistleblower",
       "matches": 1
     },
@@ -497,10 +481,6 @@
     {
       "keyword": "Conan O'Brien",
       "matches": 8
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 4
     },
     {
       "keyword": "The Daily Show, AI",
@@ -517,10 +497,6 @@
     {
       "keyword": "More Perfect Union",
       "matches": 5
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 4
     },
     {
       "keyword": "UFO",
@@ -556,177 +532,169 @@
       "title": "Jon Stewart & Jordan Klepper on Trump's Ass Obsession & GOP's Midterm Boogeymen | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "i_8eCNV3MWw",
-      "viewsPerHour": 57339,
-      "views": 533113,
-      "ageHours": 9.3
+      "viewsPerHour": 53513,
+      "views": 604354,
+      "ageHours": 11.3
     },
     {
       "title": "GOP Gets Ghoulish in Last-Ditch Midterm Fearmongering | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "6ZpaPFXIgE4",
-      "viewsPerHour": 43675,
-      "views": 1934770,
-      "ageHours": 44.3
+      "viewsPerHour": 42186,
+      "views": 1953003,
+      "ageHours": 46.3
     },
     {
       "title": "Desi Lydic Foxsplains Obama’s Cheesecake Factory Joke at Trump | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "XCMMCNPQBDk",
-      "viewsPerHour": 36527,
-      "views": 904947,
-      "ageHours": 24.8
+      "viewsPerHour": 34959,
+      "views": 935891,
+      "ageHours": 26.8
     },
     {
       "title": "Michael Kosta Meets the Activist Fighting for America's Persecuted Billionaires | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "C0ysAy2LXjY",
-      "viewsPerHour": 26654,
-      "views": 929679,
-      "ageHours": 34.9
+      "viewsPerHour": 25613,
+      "views": 944482,
+      "ageHours": 36.9
     },
     {
       "title": "Jon Stewart & The News Team Tackle AI’s Looming Threat, Rebrand & Lax Regulations | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "tOeFyixOgD0",
-      "viewsPerHour": 21742,
-      "views": 680323,
-      "ageHours": 31.3
+      "viewsPerHour": 20733,
+      "views": 690142,
+      "ageHours": 33.3
     },
     {
       "title": "We Investigated The Money Behind The Worst Election Ads. What We Found Will Shock You.",
       "channel": "More Perfect Union",
       "videoId": "arTVe58zAP4",
-      "viewsPerHour": 13869,
-      "views": 87348,
-      "ageHours": 6.3
+      "viewsPerHour": 13857,
+      "views": 114932,
+      "ageHours": 8.3
     },
     {
       "title": "‘Nonstop distractions’: Trump’s tone-deaf rallies fail to address voters' concerns",
       "channel": "MS NOW",
       "videoId": "r6tZ6eyUTB4",
-      "viewsPerHour": 4415,
+      "viewsPerHour": 3959,
       "views": 76508,
-      "ageHours": 17.3
+      "ageHours": 19.3
     },
     {
       "title": "New Discoveries Under The Swamp | The Curse of Oak Island",
       "channel": "History",
       "videoId": "xyIphYPn2xU",
-      "viewsPerHour": 3882,
+      "viewsPerHour": 3642,
       "views": 117614,
-      "ageHours": 30.3
+      "ageHours": 32.3
     },
     {
-      "title": "The Trump stink follows him': GOP candidates struggle with role for Trump",
+      "title": "Is MAGA CRUMBLING along with the GOP’s midterm chances? Panel discusses",
       "channel": "MS NOW",
-      "videoId": "IIv36qfBwn8",
-      "viewsPerHour": 2349,
-      "views": 41211,
-      "ageHours": 17.5
+      "videoId": "uHxXJL6HMlo",
+      "viewsPerHour": 3196,
+      "views": 8786,
+      "ageHours": 2.7
     },
     {
       "title": "Tracy Letts on “I Play Rocky,” Improv, and His Extensive Movie Collection | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "wPcHE020gzA",
-      "viewsPerHour": 2284,
-      "views": 97779,
-      "ageHours": 42.8
+      "viewsPerHour": 2199,
+      "views": 98520,
+      "ageHours": 44.8
     },
     {
       "title": "The Pentagon's UFO Debunker Is Lying. We Can Prove It.",
       "channel": "Jeremy Corbell",
       "videoId": "bvbPl2buNik",
-      "viewsPerHour": 2130,
-      "views": 68182,
-      "ageHours": 32
+      "viewsPerHour": 2133,
+      "views": 72537,
+      "ageHours": 34
+    },
+    {
+      "title": "The Trump stink follows him': GOP candidates struggle with role for Trump",
+      "channel": "MS NOW",
+      "videoId": "IIv36qfBwn8",
+      "viewsPerHour": 2109,
+      "views": 41211,
+      "ageHours": 19.5
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Oct. 30 | Audio Only",
       "channel": "MS NOW",
       "videoId": "iywH1vcnZkQ",
-      "viewsPerHour": 1183,
+      "viewsPerHour": 1062,
       "views": 20733,
-      "ageHours": 17.5
+      "ageHours": 19.5
     },
     {
       "title": "\"They've seen footage of beings\"",
       "channel": "Jeremy Corbell",
       "videoId": "h3UfMZLIWUI",
-      "viewsPerHour": 984,
-      "views": 25473,
-      "ageHours": 25.9
+      "viewsPerHour": 931,
+      "views": 25954,
+      "ageHours": 27.9
     },
     {
       "title": "What Hollywood Gets Wrong About Male Friendship | Martin McDonagh on ‘The Interview’",
       "channel": "The Interview",
       "videoId": "3MQi6e-HTMo",
-      "viewsPerHour": 862,
+      "viewsPerHour": 713,
       "views": 8228,
-      "ageHours": 9.5
+      "ageHours": 11.5
+    },
+    {
+      "title": "How To Really Win The US Presidency",
+      "channel": "Real Stories",
+      "videoId": "NFBKDXcHHq8",
+      "viewsPerHour": 677,
+      "views": 4256,
+      "ageHours": 6.3
     },
     {
       "title": "Conan Calls Out Sona For Missing The Podcast | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "lhQYTV8js7Y",
-      "viewsPerHour": 589,
+      "viewsPerHour": 556,
       "views": 20193,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
-      "title": "Hegseth's Pentagon EXPOSED for telling European allies to go easier on Russia",
-      "channel": "MS NOW",
-      "videoId": "uEWnKpHJrUE",
-      "viewsPerHour": 484,
-      "views": 11578,
-      "ageHours": 23.9
+      "title": "Missing Engraved 90ft Stone | The Curse of Oak Island (S4, E4) | Full Episode",
+      "channel": "History",
+      "videoId": "j1o4ydl4fDk",
+      "viewsPerHour": 312,
+      "views": 714,
+      "ageHours": 2.3
     },
     {
       "title": "[FULL VERSION] Apple store tricks customers into paid subscriptions without consent",
       "channel": "Louis Rossmann",
       "videoId": "9BqEy5AljB0",
-      "viewsPerHour": 322,
+      "viewsPerHour": 299,
       "views": 8666,
-      "ageHours": 26.9
+      "ageHours": 28.9
     },
     {
       "title": "The Scariest Villain of All Time... is Real | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "-nP2nmHVpMI",
-      "viewsPerHour": 295,
+      "viewsPerHour": 275,
       "views": 8059,
-      "ageHours": 27.3
-    },
-    {
-      "title": "PBS News Hour live episode, Oct. 30, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "B59flCc129Y",
-      "viewsPerHour": 205,
-      "views": 5271,
-      "ageHours": 25.7
-    },
-    {
-      "title": "WATCH LIVE: Trump speaks at Florida midterm rally as Election Day nears",
-      "channel": "PBS NewsHour",
-      "videoId": "zFhsBARQx4o",
-      "viewsPerHour": 195,
-      "views": 5336,
-      "ageHours": 27.4
+      "ageHours": 29.3
     },
     {
       "title": "[TLDR] Apple store tricks customers into paid subscriptions without consent",
       "channel": "Louis Rossmann",
       "videoId": "L1q-j2732j0",
-      "viewsPerHour": 127,
+      "viewsPerHour": 119,
       "views": 3830,
-      "ageHours": 30.1
-    },
-    {
-      "title": "News Wrap: Judge investigating if Trump officials misled court about D.C. golf course plan",
-      "channel": "PBS NewsHour",
-      "videoId": "ovxhCMHfuew",
-      "viewsPerHour": 70,
-      "views": 1662,
-      "ageHours": 23.8
+      "ageHours": 32.1
     }
   ]
 }
