@@ -1,12 +1,12 @@
 {
   "videosPerChannel": [
     {
-      "channel": "History",
-      "count": 56
+      "channel": "MS NOW",
+      "count": 4
     },
     {
-      "channel": "MS NOW",
-      "count": 2
+      "channel": "History",
+      "count": 56
     },
     {
       "channel": "Real Stories",
@@ -26,7 +26,7 @@
     },
     {
       "channel": "Jeremy Corbell",
-      "count": 5
+      "count": 4
     },
     {
       "channel": "Louis Rossmann",
@@ -79,12 +79,12 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "NOVA",
-      "count": 38
+      "keyword": "MS NOW",
+      "count": 4
     },
     {
-      "keyword": "MS NOW",
-      "count": 2
+      "keyword": "NOVA",
+      "count": 38
     },
     {
       "keyword": "Real Stories",
@@ -183,10 +183,6 @@
       "count": 2
     },
     {
-      "keyword": "Corbell, George Knapp, Grusch, UAP, UFO",
-      "count": 1
-    },
-    {
       "keyword": "AI, UAP",
       "count": 1
     },
@@ -205,8 +201,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-11-01",
+      "videos": 3
+    },
+    {
       "date": "2026-10-31",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-10-30",
@@ -322,7 +322,7 @@
     },
     {
       "date": "2026-10-02",
-      "videos": 3
+      "videos": 2
     },
     {
       "date": "2026-10-01",
@@ -443,12 +443,12 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "NOVA",
-      "matches": 5
+      "keyword": "MS NOW",
+      "matches": 4
     },
     {
-      "keyword": "MS NOW",
-      "matches": 2
+      "keyword": "NOVA",
+      "matches": 5
     },
     {
       "keyword": "Real Stories",
@@ -528,137 +528,137 @@
       "title": "Jon Stewart & Jordan Klepper on Trump's Ass Obsession & GOP's Midterm Boogeymen | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "i_8eCNV3MWw",
-      "viewsPerHour": 43535,
-      "views": 970667,
-      "ageHours": 22.3
+      "viewsPerHour": 41383,
+      "views": 1005230,
+      "ageHours": 24.3
     },
     {
       "title": "Desi Lydic Foxsplains Obama’s Cheesecake Factory Joke at Trump | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "XCMMCNPQBDk",
-      "viewsPerHour": 27223,
-      "views": 1028303,
-      "ageHours": 37.8
+      "viewsPerHour": 26093,
+      "views": 1037666,
+      "ageHours": 39.8
     },
     {
-      "title": "Michael Kosta Meets the Activist Fighting for America's Persecuted Billionaires | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "C0ysAy2LXjY",
-      "viewsPerHour": 21035,
-      "views": 1007124,
-      "ageHours": 47.9
+      "title": "GOP hits ‘dumpster fire’ levels: MAGA goes code red  | The Beat with Ari Melber Weekly Highlights",
+      "channel": "MS NOW",
+      "videoId": "ze0XlmGBcs0",
+      "viewsPerHour": 17046,
+      "views": 209375,
+      "ageHours": 12.3
     },
     {
       "title": "Jon Stewart & The News Team Tackle AI’s Looming Threat, Rebrand & Lax Regulations | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "tOeFyixOgD0",
-      "viewsPerHour": 16491,
-      "views": 730379,
-      "ageHours": 44.3
+      "viewsPerHour": 15910,
+      "views": 736396,
+      "ageHours": 46.3
+    },
+    {
+      "title": "Trump RAMPS UP effort to INJECT CHAOS into midterms | Deadline: White House Weekly Highlights",
+      "channel": "MS NOW",
+      "videoId": "aHZM_qCRliM",
+      "viewsPerHour": 14403,
+      "views": 191409,
+      "ageHours": 13.3
     },
     {
       "title": "We Investigated The Money Behind The Worst Election Ads. What We Found Will Shock You.",
       "channel": "More Perfect Union",
       "videoId": "arTVe58zAP4",
-      "viewsPerHour": 9350,
-      "views": 180428,
-      "ageHours": 19.3
+      "viewsPerHour": 8797,
+      "views": 187293,
+      "ageHours": 21.3
+    },
+    {
+      "title": "Pete Buttigieg rallies Dems in red states ahead of midterms | The Weeknight Weekly Highlights",
+      "channel": "MS NOW",
+      "videoId": "jxN0gpzVzKE",
+      "viewsPerHour": 3029,
+      "views": 34186,
+      "ageHours": 11.3
     },
     {
       "title": "New Discoveries Under The Swamp | The Curse of Oak Island",
       "channel": "History",
       "videoId": "xyIphYPn2xU",
-      "viewsPerHour": 3094,
-      "views": 133933,
-      "ageHours": 43.3
-    },
-    {
-      "title": "‘Nonstop distractions’: Trump’s tone-deaf rallies fail to address voters' concerns",
-      "channel": "MS NOW",
-      "videoId": "r6tZ6eyUTB4",
-      "viewsPerHour": 2523,
-      "views": 76508,
-      "ageHours": 30.3
+      "viewsPerHour": 2990,
+      "views": 135432,
+      "ageHours": 45.3
     },
     {
       "title": "The Pentagon's UFO Debunker Is Lying. We Can Prove It.",
       "channel": "Jeremy Corbell",
       "videoId": "bvbPl2buNik",
-      "viewsPerHour": 2021,
-      "views": 90964,
-      "ageHours": 45
+      "viewsPerHour": 1975,
+      "views": 92814,
+      "ageHours": 47
     },
     {
       "title": "Missing Engraved 90ft Stone | The Curse of Oak Island (S4, E4) | Full Episode",
       "channel": "History",
       "videoId": "j1o4ydl4fDk",
-      "viewsPerHour": 1859,
-      "views": 24704,
-      "ageHours": 13.3
+      "viewsPerHour": 1680,
+      "views": 25682,
+      "ageHours": 15.3
     },
     {
       "title": "\"They've seen footage of beings\"",
       "channel": "Jeremy Corbell",
       "videoId": "h3UfMZLIWUI",
-      "viewsPerHour": 699,
-      "views": 27190,
-      "ageHours": 38.9
-    },
-    {
-      "title": "Is MAGA CRUMBLING along with the GOP’s midterm chances? Panel discusses",
-      "channel": "MS NOW",
-      "videoId": "uHxXJL6HMlo",
-      "viewsPerHour": 639,
-      "views": 8786,
-      "ageHours": 13.8
+      "viewsPerHour": 668,
+      "views": 27310,
+      "ageHours": 40.9
     },
     {
       "title": "What Hollywood Gets Wrong About Male Friendship | Martin McDonagh on ‘The Interview’",
       "channel": "The Interview",
       "videoId": "3MQi6e-HTMo",
-      "viewsPerHour": 585,
-      "views": 13188,
-      "ageHours": 22.5
+      "viewsPerHour": 559,
+      "views": 13708,
+      "ageHours": 24.5
+    },
+    {
+      "title": "Is MAGA CRUMBLING along with the GOP’s midterm chances? Panel discusses",
+      "channel": "MS NOW",
+      "videoId": "uHxXJL6HMlo",
+      "viewsPerHour": 558,
+      "views": 8786,
+      "ageHours": 15.7
     },
     {
       "title": "How To Really Win The US Presidency",
       "channel": "Real Stories",
       "videoId": "NFBKDXcHHq8",
-      "viewsPerHour": 431,
-      "views": 7451,
-      "ageHours": 17.3
-    },
-    {
-      "title": "Conan Calls Out Sona For Missing The Podcast | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "lhQYTV8js7Y",
-      "viewsPerHour": 427,
-      "views": 20193,
-      "ageHours": 47.3
+      "viewsPerHour": 401,
+      "views": 7740,
+      "ageHours": 19.3
     },
     {
       "title": "[FULL VERSION] Apple store tricks customers into paid subscriptions without consent",
       "channel": "Louis Rossmann",
       "videoId": "9BqEy5AljB0",
-      "viewsPerHour": 217,
+      "viewsPerHour": 207,
       "views": 8666,
-      "ageHours": 39.9
+      "ageHours": 41.9
     },
     {
       "title": "The Scariest Villain of All Time... is Real | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "-nP2nmHVpMI",
-      "viewsPerHour": 200,
+      "viewsPerHour": 191,
       "views": 8059,
-      "ageHours": 40.3
+      "ageHours": 42.3
     },
     {
       "title": "[TLDR] Apple store tricks customers into paid subscriptions without consent",
       "channel": "Louis Rossmann",
       "videoId": "L1q-j2732j0",
-      "viewsPerHour": 89,
+      "viewsPerHour": 85,
       "views": 3830,
-      "ageHours": 43.1
+      "ageHours": 45.1
     }
   ]
 }
