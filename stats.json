@@ -2,19 +2,43 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 3
+      "count": 6
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 13
+    },
+    {
+      "channel": "Diary of a CEO",
+      "count": 4
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 4
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 1
+    },
+    {
+      "channel": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "channel": "Chris Lehto",
+      "count": 8
+    },
+    {
+      "channel": "History",
+      "count": 54
+    },
+    {
+      "channel": "Real Stories",
+      "count": 46
     },
     {
       "channel": "The Daily Show",
       "count": 17
-    },
-    {
-      "channel": "History",
-      "count": 53
-    },
-    {
-      "channel": "Real Stories",
-      "count": 45
     },
     {
       "channel": "More Perfect Union",
@@ -29,10 +53,6 @@
       "count": 4
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 12
-    },
-    {
       "channel": "Conan O'Brien",
       "count": 10
     },
@@ -41,24 +61,8 @@
       "count": 23
     },
     {
-      "channel": "Chris Lehto",
-      "count": 7
-    },
-    {
-      "channel": "The Rest Is Science",
-      "count": 4
-    },
-    {
       "channel": "Mayim Bialik",
       "count": 5
-    },
-    {
-      "channel": "Diary of a CEO",
-      "count": 3
-    },
-    {
-      "channel": "Last Week Tonight",
-      "count": 2
     },
     {
       "channel": "Inside AI",
@@ -80,7 +84,39 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 3
+      "count": 6
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 13
+    },
+    {
+      "keyword": "AI, artificial intelligence",
+      "count": 2
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 4
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 1
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "count": 4
+    },
+    {
+      "keyword": "AI",
+      "count": 8
+    },
+    {
+      "keyword": "UFO",
+      "count": 41
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 44
     },
     {
       "keyword": "The Daily Show, AI",
@@ -89,10 +125,6 @@
     {
       "keyword": "NOVA",
       "count": 38
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 43
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -111,10 +143,6 @@
       "count": 2
     },
     {
-      "keyword": "Louis Rossmann",
-      "count": 12
-    },
-    {
       "keyword": "Conan O'Brien",
       "count": 10
     },
@@ -131,32 +159,12 @@
       "count": 21
     },
     {
-      "keyword": "UFO",
-      "count": 40
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "count": 3
-    },
-    {
       "keyword": "testimony, UAP, UFO",
       "count": 1
     },
     {
-      "keyword": "AI, artificial intelligence",
-      "count": 1
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "count": 2
-    },
-    {
       "keyword": "UAP",
       "count": 3
-    },
-    {
-      "keyword": "AI",
-      "count": 7
     },
     {
       "keyword": "Corbell, George Knapp, UAP, UFO",
@@ -201,8 +209,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-11-02",
+      "videos": 7
+    },
+    {
       "date": "2026-11-01",
-      "videos": 4
+      "videos": 9
     },
     {
       "date": "2026-10-31",
@@ -440,7 +452,39 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
+      "matches": 6
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 4
+    },
+    {
+      "keyword": "AI, artificial intelligence",
+      "matches": 1
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 2
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 1
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "matches": 2
+    },
+    {
+      "keyword": "AI",
+      "matches": 1
+    },
+    {
+      "keyword": "UFO",
       "matches": 3
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 5
     },
     {
       "keyword": "The Daily Show, AI",
@@ -449,10 +493,6 @@
     {
       "keyword": "NOVA",
       "matches": 5
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 4
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -471,10 +511,6 @@
       "matches": 1
     },
     {
-      "keyword": "Louis Rossmann",
-      "matches": 3
-    },
-    {
       "keyword": "Conan O'Brien",
       "matches": 8
     },
@@ -491,90 +527,162 @@
       "matches": 3
     },
     {
-      "keyword": "UFO",
-      "matches": 2
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "matches": 1
-    },
-    {
       "keyword": "testimony, UAP, UFO",
       "matches": 1
     }
   ],
   "mostViral48h": [
     {
+      "title": "Midterms 2026: Last Week Tonight with John Oliver (HBO)",
+      "channel": "Last Week Tonight",
+      "videoId": "Np7_mlvXFcA",
+      "viewsPerHour": 117243,
+      "views": 679818,
+      "ageHours": 5.8
+    },
+    {
       "title": "Trump Faces His Biggest Enemy Ahead of the Midterms: Himself | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "9iz6Pqp3174",
-      "viewsPerHour": 109024,
-      "views": 2321940,
-      "ageHours": 21.3
+      "viewsPerHour": 103618,
+      "views": 2413917,
+      "ageHours": 23.3
     },
     {
-      "title": "Jon Stewart & Jordan Klepper on Trump's Ass Obsession & GOP's Midterm Boogeymen | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "i_8eCNV3MWw",
-      "viewsPerHour": 28559,
-      "views": 1322377,
-      "ageHours": 46.3
+      "title": "S13 E28: Midterm Elections & The $100 Bill: 11/1/26: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "Lz-QkCnw6WQ",
+      "viewsPerHour": 41661,
+      "views": 387423,
+      "ageHours": 9.3
+    },
+    {
+      "title": "James Talarico: Here Is How They Designed The System To Keep You Poor!",
+      "channel": "Diary of a CEO",
+      "videoId": "FpIN6tYC5XM",
+      "viewsPerHour": 23643,
+      "views": 125422,
+      "ageHours": 5.3
+    },
+    {
+      "title": "STAFF EXODUS: Haley Stevens' chief of staff and more resign after Rogers endorsement",
+      "channel": "MS NOW",
+      "videoId": "opyjhcFEIH4",
+      "viewsPerHour": 17309,
+      "views": 40113,
+      "ageHours": 2.3
+    },
+    {
+      "title": "Is 100 Better Than 101?",
+      "channel": "The Rest Is Science",
+      "videoId": "mvUSeUl29d0",
+      "viewsPerHour": 10079,
+      "views": 154230,
+      "ageHours": 15.3
+    },
+    {
+      "title": "WATCH LIVE: Trump rallies in Iowa as part of final push before Election Day",
+      "channel": "PBS NewsHour",
+      "videoId": "IoaJpiuuGdU",
+      "viewsPerHour": 8908,
+      "views": 120104,
+      "ageHours": 13.5
+    },
+    {
+      "title": "Trump holds midterm rally in Kansas just days before elections",
+      "channel": "MS NOW",
+      "videoId": "ir9lzcy_Qeo",
+      "viewsPerHour": 7724,
+      "views": 72570,
+      "ageHours": 9.4
     },
     {
       "title": "We Investigated The Money Behind The Worst Election Ads. What We Found Will Shock You.",
       "channel": "More Perfect Union",
       "videoId": "arTVe58zAP4",
-      "viewsPerHour": 6763,
-      "views": 292856,
-      "ageHours": 43.3
+      "viewsPerHour": 6535,
+      "views": 296035,
+      "ageHours": 45.3
+    },
+    {
+      "title": "Did Aliens Visit Atlantis and the Ancient Andes? | In Search of Aliens",
+      "channel": "History",
+      "videoId": "OME1Np6xe6g",
+      "viewsPerHour": 5649,
+      "views": 103370,
+      "ageHours": 18.3
+    },
+    {
+      "title": "2 days to midterms: El-Sayed SPEAKS OUT, reaction to Stevens SHOCKER | MS NOW Highlights",
+      "channel": "MS NOW",
+      "videoId": "dNS79mfhNjM",
+      "viewsPerHour": 4145,
+      "views": 9524,
+      "ageHours": 2.3
+    },
+    {
+      "title": "Water bottle vending machine has terms & conditions you must accept before drinking ",
+      "channel": "Louis Rossmann",
+      "videoId": "VQEtF2JoRB4",
+      "viewsPerHour": 3432,
+      "views": 15254,
+      "ageHours": 4.4
     },
     {
       "title": "Missing Engraved 90ft Stone | The Curse of Oak Island (S4, E4) | Full Episode",
       "channel": "History",
       "videoId": "j1o4ydl4fDk",
-      "viewsPerHour": 985,
-      "views": 36742,
-      "ageHours": 37.3
+      "viewsPerHour": 940,
+      "views": 36957,
+      "ageHours": 39.3
     },
     {
-      "title": "What Hollywood Gets Wrong About Male Friendship | Martin McDonagh on ‘The Interview’",
-      "channel": "The Interview",
-      "videoId": "3MQi6e-HTMo",
-      "viewsPerHour": 444,
-      "views": 20681,
-      "ageHours": 46.6
+      "title": "Is AI Conscious?",
+      "channel": "Chris Lehto",
+      "videoId": "WCp1EZ1pJ-M",
+      "viewsPerHour": 760,
+      "views": 12514,
+      "ageHours": 16.5
     },
     {
       "title": "‘We’re in the FIGHT of our lives’: Texas Dem governor nominee highlights importance of voting",
       "channel": "MS NOW",
       "videoId": "28_RD6C84fs",
-      "viewsPerHour": 386,
+      "viewsPerHour": 335,
       "views": 5081,
-      "ageHours": 13.2
+      "ageHours": 15.2
     },
     {
       "title": "Inside DOJ's CHALLENGES in the CONTROVERSIAL Alaska election | MS NOW Highlights",
       "channel": "MS NOW",
       "videoId": "yfno-Fc-Qzw",
-      "viewsPerHour": 306,
+      "viewsPerHour": 276,
       "views": 5605,
-      "ageHours": 18.3
+      "ageHours": 20.3
+    },
+    {
+      "title": "The Most Ruthless Presidential Election Power Grabs in US History",
+      "channel": "Real Stories",
+      "videoId": "f2uvTHbeVk8",
+      "viewsPerHour": 266,
+      "views": 5142,
+      "ageHours": 19.3
     },
     {
       "title": "How To Really Win The US Presidency",
       "channel": "Real Stories",
       "videoId": "NFBKDXcHHq8",
-      "viewsPerHour": 242,
-      "views": 9993,
-      "ageHours": 41.3
+      "viewsPerHour": 233,
+      "views": 10079,
+      "ageHours": 43.3
     },
     {
       "title": "MS NOW's Kabir Khanna talks key races to watch on election night",
       "channel": "MS NOW",
       "videoId": "nuIBUQ1OTmo",
-      "viewsPerHour": 53,
+      "viewsPerHour": 48,
       "views": 951,
-      "ageHours": 17.8
+      "ageHours": 19.8
     }
   ]
 }
