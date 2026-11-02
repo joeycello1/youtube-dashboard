@@ -2,11 +2,23 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 6
+      "count": 7
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 4
+    },
+    {
+      "channel": "More Perfect Union",
+      "count": 28
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 10
     },
     {
       "channel": "Louis Rossmann",
-      "count": 13
+      "count": 12
     },
     {
       "channel": "Diary of a CEO",
@@ -15,10 +27,6 @@
     {
       "channel": "Last Week Tonight",
       "count": 4
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 1
     },
     {
       "channel": "The Rest Is Science",
@@ -34,15 +42,11 @@
     },
     {
       "channel": "Real Stories",
-      "count": 46
+      "count": 45
     },
     {
       "channel": "The Daily Show",
       "count": 17
-    },
-    {
-      "channel": "More Perfect Union",
-      "count": 27
     },
     {
       "channel": "The Interview",
@@ -51,10 +55,6 @@
     {
       "channel": "Jeremy Corbell",
       "count": 4
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 10
     },
     {
       "channel": "NOVA",
@@ -84,11 +84,23 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 7
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 4
+    },
+    {
+      "keyword": "More Perfect Union",
+      "count": 22
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 10
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 13
+      "count": 12
     },
     {
       "keyword": "AI, artificial intelligence",
@@ -97,10 +109,6 @@
     {
       "keyword": "Last Week Tonight",
       "count": 4
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 1
     },
     {
       "keyword": "The Rest Is Science",
@@ -116,7 +124,7 @@
     },
     {
       "keyword": "Real Stories",
-      "count": 44
+      "count": 43
     },
     {
       "keyword": "The Daily Show, AI",
@@ -143,20 +151,12 @@
       "count": 2
     },
     {
-      "keyword": "Conan O'Brien",
-      "count": 10
-    },
-    {
       "keyword": "Corbell, UFO, George Knapp, Grusch, UAP",
       "count": 1
     },
     {
       "keyword": "AI, Grusch",
       "count": 1
-    },
-    {
-      "keyword": "More Perfect Union",
-      "count": 21
     },
     {
       "keyword": "testimony, UAP, UFO",
@@ -210,11 +210,11 @@
   "dailySummary": [
     {
       "date": "2026-11-02",
-      "videos": 7
+      "videos": 15
     },
     {
       "date": "2026-11-01",
-      "videos": 9
+      "videos": 7
     },
     {
       "date": "2026-10-31",
@@ -250,7 +250,7 @@
     },
     {
       "date": "2026-10-23",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-10-22",
@@ -270,7 +270,7 @@
     },
     {
       "date": "2026-10-18",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-10-17",
@@ -442,7 +442,7 @@
     },
     {
       "date": "2026-09-03",
-      "videos": 2
+      "videos": 1
     },
     {
       "date": "2026-08-15",
@@ -452,7 +452,19 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 7
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 4
+    },
+    {
+      "keyword": "More Perfect Union",
+      "matches": 3
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 9
     },
     {
       "keyword": "Louis Rossmann",
@@ -465,10 +477,6 @@
     {
       "keyword": "Last Week Tonight",
       "matches": 2
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 1
     },
     {
       "keyword": "The Rest Is Science",
@@ -484,7 +492,7 @@
     },
     {
       "keyword": "Real Stories",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "The Daily Show, AI",
@@ -492,7 +500,7 @@
     },
     {
       "keyword": "NOVA",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -511,20 +519,12 @@
       "matches": 1
     },
     {
-      "keyword": "Conan O'Brien",
-      "matches": 8
-    },
-    {
       "keyword": "Corbell, UFO, George Knapp, Grusch, UAP",
       "matches": 1
     },
     {
       "keyword": "AI, Grusch",
       "matches": 1
-    },
-    {
-      "keyword": "More Perfect Union",
-      "matches": 3
     },
     {
       "keyword": "testimony, UAP, UFO",
@@ -536,145 +536,185 @@
       "title": "Midterms 2026: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "Np7_mlvXFcA",
-      "viewsPerHour": 171368,
-      "views": 1683770,
-      "ageHours": 9.8
+      "viewsPerHour": 198805,
+      "views": 2742073,
+      "ageHours": 13.8
     },
     {
       "title": "Trump Faces His Biggest Enemy Ahead of the Midterms: Himself | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "9iz6Pqp3174",
-      "viewsPerHour": 96432,
-      "views": 2634859,
-      "ageHours": 27.3
-    },
-    {
-      "title": "S13 E28: Midterm Elections & The $100 Bill: 11/1/26: Last Week Tonight with John Oliver",
-      "channel": "Last Week Tonight",
-      "videoId": "Lz-QkCnw6WQ",
-      "viewsPerHour": 39528,
-      "views": 526772,
-      "ageHours": 13.3
+      "viewsPerHour": 90268,
+      "views": 2824573,
+      "ageHours": 31.3
     },
     {
       "title": "James Talarico: Here Is How They Designed The System To Keep You Poor!",
       "channel": "Diary of a CEO",
       "videoId": "FpIN6tYC5XM",
-      "viewsPerHour": 35744,
-      "views": 333558,
-      "ageHours": 9.3
+      "viewsPerHour": 39217,
+      "views": 521551,
+      "ageHours": 13.3
+    },
+    {
+      "title": "S13 E28: Midterm Elections & The $100 Bill: 11/1/26: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "Lz-QkCnw6WQ",
+      "viewsPerHour": 38469,
+      "views": 665274,
+      "ageHours": 17.3
     },
     {
       "title": "Is 100 Better Than 101?",
       "channel": "The Rest Is Science",
       "videoId": "mvUSeUl29d0",
-      "viewsPerHour": 9455,
-      "views": 182752,
-      "ageHours": 19.3
+      "viewsPerHour": 8910,
+      "views": 207565,
+      "ageHours": 23.3
+    },
+    {
+      "title": "Gonna BACKFIRE in a BIG way': MI State Sen. Mallory McMorrow on Stevens' Mike Rogers endorsement",
+      "channel": "MS NOW",
+      "videoId": "RAQWum0WqJo",
+      "viewsPerHour": 8450,
+      "views": 38742,
+      "ageHours": 4.6
+    },
+    {
+      "title": "Olivia Colman (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "rNpJ_m8xJtY",
+      "viewsPerHour": 6550,
+      "views": 60840,
+      "ageHours": 9.3
     },
     {
       "title": "WATCH LIVE: Trump rallies in Iowa as part of final push before Election Day",
       "channel": "PBS NewsHour",
       "videoId": "IoaJpiuuGdU",
-      "viewsPerHour": 6859,
+      "viewsPerHour": 5592,
       "views": 120104,
-      "ageHours": 17.5
-    },
-    {
-      "title": "STAFF EXODUS: Haley Stevens' chief of staff and more resign after Rogers endorsement",
-      "channel": "MS NOW",
-      "videoId": "opyjhcFEIH4",
-      "viewsPerHour": 6322,
-      "views": 40113,
-      "ageHours": 6.3
+      "ageHours": 21.5
     },
     {
       "title": "Did Aliens Visit Atlantis and the Ancient Andes? | In Search of Aliens",
       "channel": "History",
       "videoId": "OME1Np6xe6g",
-      "viewsPerHour": 5416,
-      "views": 120916,
-      "ageHours": 22.3
+      "viewsPerHour": 5231,
+      "views": 137536,
+      "ageHours": 26.3
     },
     {
       "title": "Trump holds midterm rally in Kansas just days before elections",
       "channel": "MS NOW",
       "videoId": "ir9lzcy_Qeo",
-      "viewsPerHour": 5407,
+      "viewsPerHour": 4173,
       "views": 72570,
-      "ageHours": 13.4
+      "ageHours": 17.4
+    },
+    {
+      "title": "STAFF EXODUS: Haley Stevens' chief of staff and more resign after Rogers endorsement",
+      "channel": "MS NOW",
+      "videoId": "opyjhcFEIH4",
+      "viewsPerHour": 3890,
+      "views": 40113,
+      "ageHours": 10.3
+    },
+    {
+      "title": "LISTEN LIVE: Supreme Court hears case on habeas corpus and federal inmate transfer request, and more",
+      "channel": "PBS NewsHour",
+      "videoId": "rIt6p2MUj-E",
+      "viewsPerHour": 1558,
+      "views": 5955,
+      "ageHours": 3.8
+    },
+    {
+      "title": "WATCH LIVE: Michigan Senate candidate El-Sayed holds rally after Rep. Stevens endorses GOP rival",
+      "channel": "PBS NewsHour",
+      "videoId": "g4QOS8ZTqnc",
+      "viewsPerHour": 1241,
+      "views": 5884,
+      "ageHours": 4.7
     },
     {
       "title": "Water bottle vending machine has terms & conditions you must accept before drinking ",
       "channel": "Louis Rossmann",
       "videoId": "VQEtF2JoRB4",
-      "viewsPerHour": 1800,
+      "viewsPerHour": 1226,
       "views": 15254,
-      "ageHours": 8.5
+      "ageHours": 12.4
     },
     {
       "title": "2 days to midterms: El-Sayed SPEAKS OUT, reaction to Stevens SHOCKER | MS NOW Highlights",
       "channel": "MS NOW",
       "videoId": "dNS79mfhNjM",
-      "viewsPerHour": 1506,
+      "viewsPerHour": 925,
       "views": 9524,
-      "ageHours": 6.3
+      "ageHours": 10.3
+    },
+    {
+      "title": "LIVE: Democratic Kansas Senate candidate Adam Hamilton holds canvass launch",
+      "channel": "MS NOW",
+      "videoId": "i_h-rKjexCk",
+      "viewsPerHour": 842,
+      "views": 3045,
+      "ageHours": 3.6
     },
     {
       "title": "Missing Engraved 90ft Stone | The Curse of Oak Island (S4, E4) | Full Episode",
       "channel": "History",
       "videoId": "j1o4ydl4fDk",
-      "viewsPerHour": 868,
-      "views": 37591,
-      "ageHours": 43.3
+      "viewsPerHour": 811,
+      "views": 38371,
+      "ageHours": 47.3
     },
     {
       "title": "Is AI Conscious?",
       "channel": "Chris Lehto",
       "videoId": "WCp1EZ1pJ-M",
-      "viewsPerHour": 649,
-      "views": 13289,
-      "ageHours": 20.5
+      "viewsPerHour": 570,
+      "views": 13937,
+      "ageHours": 24.5
     },
     {
-      "title": "‘We’re in the FIGHT of our lives’: Texas Dem governor nominee highlights importance of voting",
+      "title": "LIVE: ME Senate Candidate Troy Jackson participates in canvass launch the day before the midterms",
       "channel": "MS NOW",
-      "videoId": "28_RD6C84fs",
-      "viewsPerHour": 265,
-      "views": 5081,
-      "ageHours": 19.2
+      "videoId": "vB_REyxVNfM",
+      "viewsPerHour": 412,
+      "views": 1617,
+      "ageHours": 3.9
     },
     {
       "title": "The Most Ruthless Presidential Election Power Grabs in US History",
       "channel": "Real Stories",
       "videoId": "f2uvTHbeVk8",
-      "viewsPerHour": 241,
-      "views": 5631,
-      "ageHours": 23.3
+      "viewsPerHour": 222,
+      "views": 6072,
+      "ageHours": 27.3
     },
     {
-      "title": "Inside DOJ's CHALLENGES in the CONTROVERSIAL Alaska election | MS NOW Highlights",
+      "title": "‘We’re in the FIGHT of our lives’: Texas Dem governor nominee highlights importance of voting",
       "channel": "MS NOW",
-      "videoId": "yfno-Fc-Qzw",
-      "viewsPerHour": 230,
-      "views": 5605,
-      "ageHours": 24.3
+      "videoId": "28_RD6C84fs",
+      "viewsPerHour": 219,
+      "views": 5081,
+      "ageHours": 23.2
     },
     {
-      "title": "How To Really Win The US Presidency",
-      "channel": "Real Stories",
-      "videoId": "NFBKDXcHHq8",
-      "viewsPerHour": 215,
-      "views": 10167,
-      "ageHours": 47.3
+      "title": "WATCH LIVE: NTSB holds briefing on deadly private jet crash that killed 9 in Florida",
+      "channel": "PBS NewsHour",
+      "videoId": "VaMKBaS9Vls",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 4.4
     },
     {
-      "title": "MS NOW's Kabir Khanna talks key races to watch on election night",
-      "channel": "MS NOW",
-      "videoId": "nuIBUQ1OTmo",
-      "viewsPerHour": 40,
-      "views": 951,
-      "ageHours": 23.8
+      "title": "LIVE A Future Florida Can Afford: Town Hall with Angie Nixon",
+      "channel": "More Perfect Union",
+      "videoId": "ppjVPbfZbyE",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 5.5
     }
   ]
 }
