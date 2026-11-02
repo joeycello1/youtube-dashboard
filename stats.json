@@ -10,7 +10,7 @@
     },
     {
       "channel": "History",
-      "count": 56
+      "count": 54
     },
     {
       "channel": "Real Stories",
@@ -132,7 +132,7 @@
     },
     {
       "keyword": "UFO",
-      "count": 43
+      "count": 41
     },
     {
       "keyword": "The Rest Is Science",
@@ -202,11 +202,11 @@
   "dailySummary": [
     {
       "date": "2026-11-01",
-      "videos": 6
+      "videos": 7
     },
     {
       "date": "2026-10-31",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-10-30",
@@ -433,10 +433,6 @@
       "videos": 3
     },
     {
-      "date": "2026-09-02",
-      "videos": 2
-    },
-    {
       "date": "2026-08-15",
       "videos": 1
     }
@@ -520,97 +516,97 @@
       "title": "Trump Faces His Biggest Enemy Ahead of the Midterms: Himself | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "9iz6Pqp3174",
-      "viewsPerHour": 149327,
+      "viewsPerHour": 123325,
       "views": 1391078,
-      "ageHours": 9.3
+      "ageHours": 11.3
     },
     {
       "title": "Jon Stewart & Jordan Klepper on Trump's Ass Obsession & GOP's Midterm Boogeymen | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "i_8eCNV3MWw",
-      "viewsPerHour": 33592,
+      "viewsPerHour": 31774,
       "views": 1152973,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
       "title": "GOP hits ‘dumpster fire’ levels: MAGA goes code red  | The Beat with Ari Melber Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "ze0XlmGBcs0",
-      "viewsPerHour": 9383,
+      "viewsPerHour": 8624,
       "views": 209375,
-      "ageHours": 22.3
-    },
-    {
-      "title": "Trump RAMPS UP effort to INJECT CHAOS into midterms | Deadline: White House Weekly Highlights",
-      "channel": "MS NOW",
-      "videoId": "aHZM_qCRliM",
-      "viewsPerHour": 8207,
-      "views": 191409,
-      "ageHours": 23.3
+      "ageHours": 24.3
     },
     {
       "title": "We Investigated The Money Behind The Worst Election Ads. What We Found Will Shock You.",
       "channel": "More Perfect Union",
       "videoId": "arTVe58zAP4",
-      "viewsPerHour": 8071,
-      "views": 252806,
-      "ageHours": 31.3
+      "viewsPerHour": 7890,
+      "views": 262647,
+      "ageHours": 33.3
+    },
+    {
+      "title": "Trump RAMPS UP effort to INJECT CHAOS into midterms | Deadline: White House Weekly Highlights",
+      "channel": "MS NOW",
+      "videoId": "aHZM_qCRliM",
+      "viewsPerHour": 7570,
+      "views": 191409,
+      "ageHours": 25.3
+    },
+    {
+      "title": "‘We’re in the FIGHT of our lives’: Texas Dem governor nominee highlights importance of voting",
+      "channel": "MS NOW",
+      "videoId": "28_RD6C84fs",
+      "viewsPerHour": 1618,
+      "views": 5081,
+      "ageHours": 3.1
     },
     {
       "title": "Pete Buttigieg rallies Dems in red states ahead of midterms | The Weeknight Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "jxN0gpzVzKE",
-      "viewsPerHour": 1604,
+      "viewsPerHour": 1468,
       "views": 34186,
-      "ageHours": 21.3
+      "ageHours": 23.3
     },
     {
       "title": "Missing Engraved 90ft Stone | The Curse of Oak Island (S4, E4) | Full Episode",
       "channel": "History",
       "videoId": "j1o4ydl4fDk",
-      "viewsPerHour": 1258,
-      "views": 31858,
-      "ageHours": 25.3
+      "viewsPerHour": 1200,
+      "views": 32748,
+      "ageHours": 27.3
     },
     {
       "title": "Inside DOJ's CHALLENGES in the CONTROVERSIAL Alaska election | MS NOW Highlights",
       "channel": "MS NOW",
       "videoId": "yfno-Fc-Qzw",
-      "viewsPerHour": 887,
+      "viewsPerHour": 677,
       "views": 5605,
-      "ageHours": 6.3
+      "ageHours": 8.3
     },
     {
       "title": "What Hollywood Gets Wrong About Male Friendship | Martin McDonagh on ‘The Interview’",
       "channel": "The Interview",
       "videoId": "3MQi6e-HTMo",
-      "viewsPerHour": 504,
+      "viewsPerHour": 477,
       "views": 17436,
-      "ageHours": 34.6
-    },
-    {
-      "title": "Is MAGA CRUMBLING along with the GOP’s midterm chances? Panel discusses",
-      "channel": "MS NOW",
-      "videoId": "uHxXJL6HMlo",
-      "viewsPerHour": 341,
-      "views": 8786,
-      "ageHours": 25.8
+      "ageHours": 36.5
     },
     {
       "title": "How To Really Win The US Presidency",
       "channel": "Real Stories",
       "videoId": "NFBKDXcHHq8",
-      "viewsPerHour": 311,
+      "viewsPerHour": 292,
       "views": 9132,
-      "ageHours": 29.3
+      "ageHours": 31.3
     },
     {
       "title": "MS NOW's Kabir Khanna talks key races to watch on election night",
       "channel": "MS NOW",
       "videoId": "nuIBUQ1OTmo",
-      "viewsPerHour": 163,
+      "viewsPerHour": 122,
       "views": 951,
-      "ageHours": 5.8
+      "ageHours": 7.8
     }
   ]
 }
