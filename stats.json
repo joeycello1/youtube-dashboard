@@ -5,12 +5,24 @@
       "count": 5
     },
     {
-      "channel": "The Daily Show",
-      "count": 17
+      "channel": "Real Stories",
+      "count": 46
+    },
+    {
+      "channel": "History",
+      "count": 54
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 10
     },
     {
       "channel": "PBS NewsHour",
       "count": 6
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 17
     },
     {
       "channel": "Chris Lehto",
@@ -18,15 +30,11 @@
     },
     {
       "channel": "More Perfect Union",
-      "count": 29
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 9
+      "count": 28
     },
     {
       "channel": "Louis Rossmann",
-      "count": 12
+      "count": 11
     },
     {
       "channel": "Diary of a CEO",
@@ -41,14 +49,6 @@
       "count": 4
     },
     {
-      "channel": "History",
-      "count": 54
-    },
-    {
-      "channel": "Real Stories",
-      "count": 45
-    },
-    {
       "channel": "The Interview",
       "count": 8
     },
@@ -58,7 +58,7 @@
     },
     {
       "channel": "NOVA",
-      "count": 22
+      "count": 23
     },
     {
       "channel": "Mayim Bialik",
@@ -87,16 +87,28 @@
       "count": 5
     },
     {
+      "keyword": "Real Stories",
+      "count": 44
+    },
+    {
+      "keyword": "NOVA",
+      "count": 38
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 10
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 5
+    },
+    {
       "keyword": "The Daily Show",
       "count": 15
     },
     {
       "keyword": "PBS NewsHour, Associated Press",
       "count": 1
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 5
     },
     {
       "keyword": "AI",
@@ -107,12 +119,8 @@
       "count": 23
     },
     {
-      "keyword": "Conan O'Brien",
-      "count": 9
-    },
-    {
       "keyword": "Louis Rossmann",
-      "count": 12
+      "count": 11
     },
     {
       "keyword": "AI, artificial intelligence",
@@ -131,20 +139,12 @@
       "count": 41
     },
     {
-      "keyword": "Real Stories",
-      "count": 43
-    },
-    {
       "keyword": "The Daily Show, AI",
       "count": 2
     },
     {
-      "keyword": "NOVA",
-      "count": 37
-    },
-    {
       "keyword": "More Perfect Union, AI",
-      "count": 6
+      "count": 5
     },
     {
       "keyword": "The Interview",
@@ -210,11 +210,11 @@
   "dailySummary": [
     {
       "date": "2026-11-03",
-      "videos": 8
+      "videos": 17
     },
     {
       "date": "2026-11-02",
-      "videos": 15
+      "videos": 9
     },
     {
       "date": "2026-11-01",
@@ -226,7 +226,7 @@
     },
     {
       "date": "2026-10-30",
-      "videos": 12
+      "videos": 13
     },
     {
       "date": "2026-10-29",
@@ -270,7 +270,7 @@
     },
     {
       "date": "2026-10-19",
-      "videos": 2
+      "videos": 1
     },
     {
       "date": "2026-10-18",
@@ -441,10 +441,6 @@
       "videos": 3
     },
     {
-      "date": "2026-09-04",
-      "videos": 2
-    },
-    {
       "date": "2026-08-15",
       "videos": 1
     }
@@ -452,6 +448,22 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
+      "matches": 5
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 4
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 6
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
+    },
+    {
+      "keyword": "PBS NewsHour",
       "matches": 5
     },
     {
@@ -463,20 +475,12 @@
       "matches": 1
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 5
-    },
-    {
       "keyword": "AI",
       "matches": 2
     },
     {
       "keyword": "More Perfect Union",
       "matches": 4
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 7
     },
     {
       "keyword": "Louis Rossmann",
@@ -499,16 +503,8 @@
       "matches": 3
     },
     {
-      "keyword": "Real Stories",
-      "matches": 4
-    },
-    {
       "keyword": "The Daily Show, AI",
       "matches": 2
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 4
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -536,217 +532,225 @@
       "title": "Haley Stevens Flips Against El-Sayed & the Media Goes Poll-Crazy | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "x1sNcmF0y10",
-      "viewsPerHour": 296403,
-      "views": 3939651,
-      "ageHours": 13.3
+      "viewsPerHour": 299839,
+      "views": 4590582,
+      "ageHours": 15.3
     },
     {
       "title": "Midterms 2026: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "Np7_mlvXFcA",
-      "viewsPerHour": 135942,
-      "views": 4592857,
-      "ageHours": 33.8
+      "viewsPerHour": 132868,
+      "views": 4757232,
+      "ageHours": 35.8
     },
     {
       "title": "Democrats Hope for a Midterm Blowout as Trump Embraces Asses and Islamophobia | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Y27ko0zQsho",
-      "viewsPerHour": 33132,
-      "views": 506595,
-      "ageHours": 15.3
+      "viewsPerHour": 33062,
+      "views": 572256,
+      "ageHours": 17.3
     },
     {
       "title": "James Talarico: Here Is How They Designed The System To Keep You Poor!",
       "channel": "Diary of a CEO",
       "videoId": "FpIN6tYC5XM",
-      "viewsPerHour": 26371,
-      "views": 877930,
-      "ageHours": 33.3
+      "viewsPerHour": 25715,
+      "views": 907994,
+      "ageHours": 35.3
     },
     {
       "title": "Michael Lewis on the Civil Servants Who Stood Up to DOGE | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "M9NKJOERG9E",
-      "viewsPerHour": 23047,
-      "views": 295096,
-      "ageHours": 12.8
+      "viewsPerHour": 23932,
+      "views": 354746,
+      "ageHours": 14.8
     },
     {
       "title": "S13 E28: Midterm Elections & The $100 Bill: 11/1/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "Lz-QkCnw6WQ",
-      "viewsPerHour": 23016,
-      "views": 858183,
-      "ageHours": 37.3
+      "viewsPerHour": 22237,
+      "views": 874020,
+      "ageHours": 39.3
     },
     {
       "title": "An Inside Look at How The Daily Show Gets Made | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "_OpyFKLEySU",
-      "viewsPerHour": 15810,
-      "views": 352436,
-      "ageHours": 22.3
+      "viewsPerHour": 15218,
+      "views": 369972,
+      "ageHours": 24.3
     },
     {
       "title": "Tamara Keith and Amy Walter on the early signals to watch on Election Night",
       "channel": "PBS NewsHour",
       "videoId": "GsN3yyoNP6U",
-      "viewsPerHour": 12463,
+      "viewsPerHour": 11120,
       "views": 208227,
-      "ageHours": 16.7
+      "ageHours": 18.7
     },
     {
       "title": "We Investigated Why Big Tech Is Handing Out $10,000 Checks To This Small Town",
       "channel": "More Perfect Union",
       "videoId": "kEpW-O0A400",
-      "viewsPerHour": 10347,
-      "views": 240656,
-      "ageHours": 23.3
+      "viewsPerHour": 9994,
+      "views": 252632,
+      "ageHours": 25.3
+    },
+    {
+      "title": "Dems 'have found Moses to lead them out of the desert' with Talarico: Fmr. Bush advisor",
+      "channel": "MS NOW",
+      "videoId": "SA7QaCUyvCY",
+      "viewsPerHour": 6472,
+      "views": 13712,
+      "ageHours": 2.1
     },
     {
       "title": "PBS News Hour full episode, Nov. 2, 2026",
       "channel": "PBS NewsHour",
       "videoId": "OpJqDti4PrE",
-      "viewsPerHour": 6933,
+      "viewsPerHour": 6186,
       "views": 115847,
-      "ageHours": 16.7
+      "ageHours": 18.7
     },
     {
       "title": "Is 100 Better Than 101?",
       "channel": "The Rest Is Science",
       "videoId": "mvUSeUl29d0",
-      "viewsPerHour": 6194,
-      "views": 268145,
-      "ageHours": 43.3
+      "viewsPerHour": 6016,
+      "views": 272556,
+      "ageHours": 45.3
     },
     {
-      "title": "Did Aliens Visit Atlantis and the Ancient Andes? | In Search of Aliens",
-      "channel": "History",
-      "videoId": "OME1Np6xe6g",
-      "viewsPerHour": 4082,
-      "views": 188919,
-      "ageHours": 46.3
+      "title": "DOJ to monitor elections in ALL 50 STATES for the first time",
+      "channel": "MS NOW",
+      "videoId": "jTD3LsnouXQ",
+      "viewsPerHour": 5798,
+      "views": 12131,
+      "ageHours": 2.1
+    },
+    {
+      "title": "SCAM to get voters to buy into RACISM': Mara Gay BLASTS GOP attacks on Abdul El-Sayed",
+      "channel": "MS NOW",
+      "videoId": "APuNsZZ9CpI",
+      "viewsPerHour": 2297,
+      "views": 3846,
+      "ageHours": 1.7
     },
     {
       "title": "Olivia Colman (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "rNpJ_m8xJtY",
-      "viewsPerHour": 2078,
+      "viewsPerHour": 1944,
       "views": 60840,
-      "ageHours": 29.3
+      "ageHours": 31.3
+    },
+    {
+      "title": "LISTEN LIVE: Supreme Court hears case on Catholic preschools and LGBTQ families",
+      "channel": "PBS NewsHour",
+      "videoId": "bzzfT618bSw",
+      "viewsPerHour": 1879,
+      "views": 8357,
+      "ageHours": 4.4
     },
     {
       "title": "Why Everyone Says 2027. It's Not Just Aliens.",
       "channel": "Chris Lehto",
       "videoId": "fhnU8WPeE_M",
-      "viewsPerHour": 1885,
-      "views": 34814,
-      "ageHours": 18.5
+      "viewsPerHour": 1797,
+      "views": 36809,
+      "ageHours": 20.5
     },
     {
       "title": "LIVE A Future Florida Can Afford: Town Hall with Angie Nixon",
       "channel": "More Perfect Union",
       "videoId": "ppjVPbfZbyE",
-      "viewsPerHour": 1778,
-      "views": 45366,
-      "ageHours": 25.5
+      "viewsPerHour": 1700,
+      "views": 46783,
+      "ageHours": 27.5
     },
     {
-      "title": "Gonna BACKFIRE in a BIG way': MI State Sen. Mallory McMorrow on Stevens' Mike Rogers endorsement",
-      "channel": "MS NOW",
-      "videoId": "RAQWum0WqJo",
-      "viewsPerHour": 1576,
-      "views": 38742,
-      "ageHours": 24.6
+      "title": "The Curse of Oak Island Season 14 Promo | The HISTORY Channel",
+      "channel": "History",
+      "videoId": "hPC36rxvEKc",
+      "viewsPerHour": 793,
+      "views": 1833,
+      "ageHours": 2.3
     },
     {
       "title": "Inside the AP's process for calling election races",
       "channel": "PBS NewsHour",
       "videoId": "6P5gYWJ1MGI",
-      "viewsPerHour": 772,
+      "viewsPerHour": 688,
       "views": 12793,
-      "ageHours": 16.6
-    },
-    {
-      "title": "Democrats, Republicans make final push to voters while Trump promotes reflecting pool",
-      "channel": "MS NOW",
-      "videoId": "XpFOj_RINgs",
-      "viewsPerHour": 496,
-      "views": 2833,
-      "ageHours": 5.7
+      "ageHours": 18.6
     },
     {
       "title": "Water bottle vending machine has terms & conditions you must accept before drinking ",
       "channel": "Louis Rossmann",
       "videoId": "VQEtF2JoRB4",
-      "viewsPerHour": 470,
+      "viewsPerHour": 443,
       "views": 15254,
-      "ageHours": 32.4
+      "ageHours": 34.5
+    },
+    {
+      "title": "Democrats, Republicans make final push to voters while Trump promotes reflecting pool",
+      "channel": "MS NOW",
+      "videoId": "XpFOj_RINgs",
+      "viewsPerHour": 367,
+      "views": 2833,
+      "ageHours": 7.7
     },
     {
       "title": "Is AI Conscious?",
       "channel": "Chris Lehto",
       "videoId": "WCp1EZ1pJ-M",
-      "viewsPerHour": 340,
-      "views": 15094,
-      "ageHours": 44.4
+      "viewsPerHour": 325,
+      "views": 15121,
+      "ageHours": 46.5
     },
     {
-      "title": "LISTEN LIVE: Supreme Court hears case on habeas corpus and federal inmate transfer request, and more",
-      "channel": "PBS NewsHour",
-      "videoId": "rIt6p2MUj-E",
-      "viewsPerHour": 250,
-      "views": 5955,
-      "ageHours": 23.8
-    },
-    {
-      "title": "WATCH LIVE: Michigan Senate candidate El-Sayed holds rally after Rep. Stevens endorses GOP rival",
-      "channel": "PBS NewsHour",
-      "videoId": "g4QOS8ZTqnc",
-      "viewsPerHour": 238,
-      "views": 5884,
-      "ageHours": 24.7
+      "title": "Olivia Colman's Trick For Not Crying In \"The Crown\" | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "D5qVMT3Xw_8",
+      "viewsPerHour": 243,
+      "views": 805,
+      "ageHours": 3.3
     },
     {
       "title": "The Rachel Maddow Show - Nov. 2 | Audio Only",
       "channel": "MS NOW",
       "videoId": "bRzbP7GiDyU",
-      "viewsPerHour": 223,
+      "viewsPerHour": 167,
       "views": 1341,
-      "ageHours": 6
+      "ageHours": 8
     },
     {
-      "title": "The Most Ruthless Presidential Election Power Grabs in US History",
+      "title": "Inside The USS Cole Attack: The Tragedy and Al-Qaeda Connections To 9/11",
       "channel": "Real Stories",
-      "videoId": "f2uvTHbeVk8",
-      "viewsPerHour": 153,
-      "views": 7251,
-      "ageHours": 47.3
+      "videoId": "c12SR2vfPTU",
+      "viewsPerHour": 116,
+      "views": 208,
+      "ageHours": 1.8
     },
     {
-      "title": "LIVE: Democratic Kansas Senate candidate Adam Hamilton holds canvass launch",
-      "channel": "MS NOW",
-      "videoId": "i_h-rKjexCk",
-      "viewsPerHour": 129,
-      "views": 3045,
-      "ageHours": 23.6
-    },
-    {
-      "title": "LIVE: ME Senate Candidate Troy Jackson participates in canvass launch the day before the midterms",
-      "channel": "MS NOW",
-      "videoId": "vB_REyxVNfM",
-      "viewsPerHour": 68,
-      "views": 1617,
-      "ageHours": 23.9
-    },
-    {
-      "title": "WATCH LIVE: NTSB holds briefing on deadly private jet crash that killed 9 in Florida",
+      "title": "WATCH LIVE: Takeaways from the 2026 midterms and answers to your election questions",
       "channel": "PBS NewsHour",
-      "videoId": "VaMKBaS9Vls",
+      "videoId": "fMkZwBK6F6s",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 24.4
+      "ageHours": 4.1
+    },
+    {
+      "title": "WATCH LIVE: House Democratic Leader Jeffries holds Election Day news conference",
+      "channel": "PBS NewsHour",
+      "videoId": "qtxT9s3CCkM",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 4.1
     }
   ]
 }
