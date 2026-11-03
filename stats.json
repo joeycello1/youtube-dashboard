@@ -2,11 +2,11 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 7
+      "count": 6
     },
     {
       "channel": "PBS NewsHour",
-      "count": 4
+      "count": 3
     },
     {
       "channel": "More Perfect Union",
@@ -14,7 +14,7 @@
     },
     {
       "channel": "Conan O'Brien",
-      "count": 10
+      "count": 9
     },
     {
       "channel": "Louis Rossmann",
@@ -30,7 +30,7 @@
     },
     {
       "channel": "The Rest Is Science",
-      "count": 5
+      "count": 4
     },
     {
       "channel": "Chris Lehto",
@@ -58,7 +58,7 @@
     },
     {
       "channel": "NOVA",
-      "count": 23
+      "count": 22
     },
     {
       "channel": "Mayim Bialik",
@@ -84,11 +84,11 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 7
+      "count": 6
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 4
+      "count": 3
     },
     {
       "keyword": "More Perfect Union",
@@ -96,7 +96,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 10
+      "count": 9
     },
     {
       "keyword": "Louis Rossmann",
@@ -132,7 +132,7 @@
     },
     {
       "keyword": "NOVA",
-      "count": 38
+      "count": 37
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -168,10 +168,6 @@
     },
     {
       "keyword": "Corbell, George Knapp, UAP, UFO",
-      "count": 1
-    },
-    {
-      "keyword": "The Rest Is Science, AI",
       "count": 1
     },
     {
@@ -214,7 +210,7 @@
     },
     {
       "date": "2026-11-01",
-      "videos": 7
+      "videos": 5
     },
     {
       "date": "2026-10-31",
@@ -250,7 +246,7 @@
     },
     {
       "date": "2026-10-23",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-10-22",
@@ -270,7 +266,7 @@
     },
     {
       "date": "2026-10-18",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-10-17",
@@ -441,10 +437,6 @@
       "videos": 2
     },
     {
-      "date": "2026-09-03",
-      "videos": 1
-    },
-    {
       "date": "2026-08-15",
       "videos": 1
     }
@@ -452,11 +444,11 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 4
+      "matches": 3
     },
     {
       "keyword": "More Perfect Union",
@@ -508,7 +500,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "matches": 15
+      "matches": 14
     },
     {
       "keyword": "The Interview",
@@ -536,169 +528,153 @@
       "title": "Midterms 2026: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "Np7_mlvXFcA",
-      "viewsPerHour": 195006,
+      "viewsPerHour": 173198,
       "views": 3081775,
-      "ageHours": 15.8
+      "ageHours": 17.8
     },
     {
       "title": "Trump Faces His Biggest Enemy Ahead of the Midterms: Himself | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "9iz6Pqp3174",
-      "viewsPerHour": 86527,
+      "viewsPerHour": 81649,
       "views": 2881498,
-      "ageHours": 33.3
+      "ageHours": 35.3
     },
     {
       "title": "James Talarico: Here Is How They Designed The System To Keep You Poor!",
       "channel": "Diary of a CEO",
       "videoId": "FpIN6tYC5XM",
-      "viewsPerHour": 38607,
+      "viewsPerHour": 34166,
       "views": 591061,
-      "ageHours": 15.3
+      "ageHours": 17.3
     },
     {
       "title": "S13 E28: Midterm Elections & The $100 Bill: 11/1/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "Lz-QkCnw6WQ",
-      "viewsPerHour": 37375,
+      "viewsPerHour": 33883,
       "views": 721518,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "Is 100 Better Than 101?",
       "channel": "The Rest Is Science",
       "videoId": "mvUSeUl29d0",
-      "viewsPerHour": 8619,
+      "viewsPerHour": 7991,
       "views": 218121,
-      "ageHours": 25.3
-    },
-    {
-      "title": "Gonna BACKFIRE in a BIG way': MI State Sen. Mallory McMorrow on Stevens' Mike Rogers endorsement",
-      "channel": "MS NOW",
-      "videoId": "RAQWum0WqJo",
-      "viewsPerHour": 5874,
-      "views": 38742,
-      "ageHours": 6.6
-    },
-    {
-      "title": "Olivia Colman (Full Episode) | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "rNpJ_m8xJtY",
-      "viewsPerHour": 5384,
-      "views": 60840,
-      "ageHours": 11.3
+      "ageHours": 27.3
     },
     {
       "title": "Did Aliens Visit Atlantis and the Ancient Andes? | In Search of Aliens",
       "channel": "History",
       "videoId": "OME1Np6xe6g",
-      "viewsPerHour": 5143,
-      "views": 145571,
-      "ageHours": 28.3
+      "viewsPerHour": 5033,
+      "views": 152464,
+      "ageHours": 30.3
     },
     {
-      "title": "WATCH LIVE: Trump rallies in Iowa as part of final push before Election Day",
-      "channel": "PBS NewsHour",
-      "videoId": "IoaJpiuuGdU",
-      "viewsPerHour": 5113,
-      "views": 120104,
-      "ageHours": 23.5
+      "title": "Olivia Colman (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "rNpJ_m8xJtY",
+      "viewsPerHour": 4578,
+      "views": 60840,
+      "ageHours": 13.3
+    },
+    {
+      "title": "Gonna BACKFIRE in a BIG way': MI State Sen. Mallory McMorrow on Stevens' Mike Rogers endorsement",
+      "channel": "MS NOW",
+      "videoId": "RAQWum0WqJo",
+      "viewsPerHour": 4512,
+      "views": 38742,
+      "ageHours": 8.6
     },
     {
       "title": "Trump holds midterm rally in Kansas just days before elections",
       "channel": "MS NOW",
       "videoId": "ir9lzcy_Qeo",
-      "viewsPerHour": 3741,
+      "viewsPerHour": 3393,
       "views": 72570,
-      "ageHours": 19.4
+      "ageHours": 21.4
     },
     {
       "title": "STAFF EXODUS: Haley Stevens' chief of staff and more resign after Rogers endorsement",
       "channel": "MS NOW",
       "videoId": "opyjhcFEIH4",
-      "viewsPerHour": 3255,
+      "viewsPerHour": 2803,
       "views": 40113,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "Water bottle vending machine has terms & conditions you must accept before drinking ",
       "channel": "Louis Rossmann",
       "videoId": "VQEtF2JoRB4",
-      "viewsPerHour": 1056,
+      "viewsPerHour": 928,
       "views": 15254,
-      "ageHours": 14.5
+      "ageHours": 16.4
     },
     {
       "title": "LISTEN LIVE: Supreme Court hears case on habeas corpus and federal inmate transfer request, and more",
       "channel": "PBS NewsHour",
       "videoId": "rIt6p2MUj-E",
-      "viewsPerHour": 1021,
+      "viewsPerHour": 761,
       "views": 5955,
-      "ageHours": 5.8
+      "ageHours": 7.8
     },
     {
       "title": "WATCH LIVE: Michigan Senate candidate El-Sayed holds rally after Rep. Stevens endorses GOP rival",
       "channel": "PBS NewsHour",
       "videoId": "g4QOS8ZTqnc",
-      "viewsPerHour": 871,
+      "viewsPerHour": 673,
       "views": 5884,
-      "ageHours": 6.8
+      "ageHours": 8.7
     },
     {
       "title": "2 days to midterms: El-Sayed SPEAKS OUT, reaction to Stevens SHOCKER | MS NOW Highlights",
       "channel": "MS NOW",
       "videoId": "dNS79mfhNjM",
-      "viewsPerHour": 774,
+      "viewsPerHour": 666,
       "views": 9524,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "LIVE A Future Florida Can Afford: Town Hall with Angie Nixon",
       "channel": "More Perfect Union",
       "videoId": "ppjVPbfZbyE",
-      "viewsPerHour": 679,
+      "viewsPerHour": 537,
       "views": 5112,
-      "ageHours": 7.5
-    },
-    {
-      "title": "LIVE: Democratic Kansas Senate candidate Adam Hamilton holds canvass launch",
-      "channel": "MS NOW",
-      "videoId": "i_h-rKjexCk",
-      "viewsPerHour": 541,
-      "views": 3045,
-      "ageHours": 5.6
+      "ageHours": 9.5
     },
     {
       "title": "Is AI Conscious?",
       "channel": "Chris Lehto",
       "videoId": "WCp1EZ1pJ-M",
-      "viewsPerHour": 540,
+      "viewsPerHour": 503,
       "views": 14305,
-      "ageHours": 26.5
+      "ageHours": 28.5
+    },
+    {
+      "title": "LIVE: Democratic Kansas Senate candidate Adam Hamilton holds canvass launch",
+      "channel": "MS NOW",
+      "videoId": "i_h-rKjexCk",
+      "viewsPerHour": 400,
+      "views": 3045,
+      "ageHours": 7.6
     },
     {
       "title": "LIVE: ME Senate Candidate Troy Jackson participates in canvass launch the day before the midterms",
       "channel": "MS NOW",
       "videoId": "vB_REyxVNfM",
-      "viewsPerHour": 273,
+      "viewsPerHour": 204,
       "views": 1617,
-      "ageHours": 5.9
+      "ageHours": 7.9
     },
     {
       "title": "The Most Ruthless Presidential Election Power Grabs in US History",
       "channel": "Real Stories",
       "videoId": "f2uvTHbeVk8",
-      "viewsPerHour": 214,
+      "viewsPerHour": 200,
       "views": 6262,
-      "ageHours": 29.3
-    },
-    {
-      "title": "‘We’re in the FIGHT of our lives’: Texas Dem governor nominee highlights importance of voting",
-      "channel": "MS NOW",
-      "videoId": "28_RD6C84fs",
-      "viewsPerHour": 202,
-      "views": 5081,
-      "ageHours": 25.2
+      "ageHours": 31.3
     },
     {
       "title": "WATCH LIVE: NTSB holds briefing on deadly private jet crash that killed 9 in Florida",
@@ -706,7 +682,7 @@
       "videoId": "VaMKBaS9Vls",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 6.4
+      "ageHours": 8.4
     }
   ]
 }
