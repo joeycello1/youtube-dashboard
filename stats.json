@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 6
+      "count": 5
     },
     {
       "channel": "PBS NewsHour",
@@ -46,7 +46,7 @@
     },
     {
       "channel": "The Daily Show",
-      "count": 17
+      "count": 13
     },
     {
       "channel": "The Interview",
@@ -84,7 +84,7 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 5
     },
     {
       "keyword": "PBS NewsHour",
@@ -140,7 +140,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "count": 15
+      "count": 11
     },
     {
       "keyword": "The Interview",
@@ -206,7 +206,7 @@
   "dailySummary": [
     {
       "date": "2026-11-02",
-      "videos": 15
+      "videos": 14
     },
     {
       "date": "2026-11-01",
@@ -230,7 +230,7 @@
     },
     {
       "date": "2026-10-27",
-      "videos": 10
+      "videos": 6
     },
     {
       "date": "2026-10-26",
@@ -444,7 +444,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "PBS NewsHour",
@@ -528,153 +528,145 @@
       "title": "Midterms 2026: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "Np7_mlvXFcA",
-      "viewsPerHour": 141444,
+      "viewsPerHour": 129510,
       "views": 3081775,
-      "ageHours": 21.8
+      "ageHours": 23.8
     },
     {
       "title": "Trump Faces His Biggest Enemy Ahead of the Midterms: Himself | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "9iz6Pqp3174",
-      "viewsPerHour": 73347,
+      "viewsPerHour": 69781,
       "views": 2881498,
-      "ageHours": 39.3
+      "ageHours": 41.3
     },
     {
       "title": "S13 E28: Midterm Elections & The $100 Bill: 11/1/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "Lz-QkCnw6WQ",
-      "viewsPerHour": 28531,
+      "viewsPerHour": 26432,
       "views": 721518,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
       "title": "James Talarico: Here Is How They Designed The System To Keep You Poor!",
       "channel": "Diary of a CEO",
       "videoId": "FpIN6tYC5XM",
-      "viewsPerHour": 27757,
+      "viewsPerHour": 25365,
       "views": 591061,
-      "ageHours": 21.3
+      "ageHours": 23.3
     },
     {
       "title": "Is 100 Better Than 101?",
       "channel": "The Rest Is Science",
       "videoId": "mvUSeUl29d0",
-      "viewsPerHour": 6971,
+      "viewsPerHour": 6550,
       "views": 218121,
-      "ageHours": 31.3
+      "ageHours": 33.3
     },
     {
       "title": "Did Aliens Visit Atlantis and the Ancient Andes? | In Search of Aliens",
       "channel": "History",
       "videoId": "OME1Np6xe6g",
-      "viewsPerHour": 4447,
+      "viewsPerHour": 4201,
       "views": 152464,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
       "title": "Olivia Colman (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "rNpJ_m8xJtY",
-      "viewsPerHour": 3520,
+      "viewsPerHour": 3154,
       "views": 60840,
-      "ageHours": 17.3
+      "ageHours": 19.3
     },
     {
       "title": "Gonna BACKFIRE in a BIG way': MI State Sen. Mallory McMorrow on Stevens' Mike Rogers endorsement",
       "channel": "MS NOW",
       "videoId": "RAQWum0WqJo",
-      "viewsPerHour": 3080,
+      "viewsPerHour": 2656,
       "views": 38742,
-      "ageHours": 12.6
-    },
-    {
-      "title": "Trump holds midterm rally in Kansas just days before elections",
-      "channel": "MS NOW",
-      "videoId": "ir9lzcy_Qeo",
-      "viewsPerHour": 2859,
-      "views": 72570,
-      "ageHours": 25.4
+      "ageHours": 14.6
     },
     {
       "title": "STAFF EXODUS: Haley Stevens' chief of staff and more resign after Rogers endorsement",
       "channel": "MS NOW",
       "videoId": "opyjhcFEIH4",
-      "viewsPerHour": 2191,
+      "viewsPerHour": 1975,
       "views": 40113,
-      "ageHours": 18.3
+      "ageHours": 20.3
     },
     {
       "title": "Water bottle vending machine has terms & conditions you must accept before drinking ",
       "channel": "Louis Rossmann",
       "videoId": "VQEtF2JoRB4",
-      "viewsPerHour": 746,
+      "viewsPerHour": 680,
       "views": 15254,
-      "ageHours": 20.4
+      "ageHours": 22.4
     },
     {
       "title": "2 days to midterms: El-Sayed SPEAKS OUT, reaction to Stevens SHOCKER | MS NOW Highlights",
       "channel": "MS NOW",
       "videoId": "dNS79mfhNjM",
-      "viewsPerHour": 521,
+      "viewsPerHour": 469,
       "views": 9524,
-      "ageHours": 18.3
+      "ageHours": 20.3
     },
     {
       "title": "LISTEN LIVE: Supreme Court hears case on habeas corpus and federal inmate transfer request, and more",
       "channel": "PBS NewsHour",
       "videoId": "rIt6p2MUj-E",
-      "viewsPerHour": 504,
+      "viewsPerHour": 431,
       "views": 5955,
-      "ageHours": 11.8
-    },
-    {
-      "title": "WATCH LIVE: Michigan Senate candidate El-Sayed holds rally after Rep. Stevens endorses GOP rival",
-      "channel": "PBS NewsHour",
-      "videoId": "g4QOS8ZTqnc",
-      "viewsPerHour": 462,
-      "views": 5884,
-      "ageHours": 12.7
+      "ageHours": 13.8
     },
     {
       "title": "Is AI Conscious?",
       "channel": "Chris Lehto",
       "videoId": "WCp1EZ1pJ-M",
-      "viewsPerHour": 441,
+      "viewsPerHour": 415,
       "views": 14305,
-      "ageHours": 32.5
+      "ageHours": 34.5
+    },
+    {
+      "title": "WATCH LIVE: Michigan Senate candidate El-Sayed holds rally after Rep. Stevens endorses GOP rival",
+      "channel": "PBS NewsHour",
+      "videoId": "g4QOS8ZTqnc",
+      "viewsPerHour": 399,
+      "views": 5884,
+      "ageHours": 14.7
     },
     {
       "title": "LIVE A Future Florida Can Afford: Town Hall with Angie Nixon",
       "channel": "More Perfect Union",
       "videoId": "ppjVPbfZbyE",
-      "viewsPerHour": 378,
+      "viewsPerHour": 329,
       "views": 5112,
-      "ageHours": 13.5
+      "ageHours": 15.5
     },
     {
       "title": "LIVE: Democratic Kansas Senate candidate Adam Hamilton holds canvass launch",
       "channel": "MS NOW",
       "videoId": "i_h-rKjexCk",
-      "viewsPerHour": 262,
+      "viewsPerHour": 224,
       "views": 3045,
-      "ageHours": 11.6
+      "ageHours": 13.6
     },
     {
       "title": "The Most Ruthless Presidential Election Power Grabs in US History",
       "channel": "Real Stories",
       "videoId": "f2uvTHbeVk8",
-      "viewsPerHour": 190,
+      "viewsPerHour": 180,
       "views": 6709,
-      "ageHours": 35.3
+      "ageHours": 37.3
     },
     {
       "title": "LIVE: ME Senate Candidate Troy Jackson participates in canvass launch the day before the midterms",
       "channel": "MS NOW",
       "videoId": "vB_REyxVNfM",
-      "viewsPerHour": 136,
+      "viewsPerHour": 116,
       "views": 1617,
-      "ageHours": 11.9
+      "ageHours": 13.9
     },
     {
       "title": "WATCH LIVE: NTSB holds briefing on deadly private jet crash that killed 9 in Florida",
@@ -682,7 +674,7 @@
       "videoId": "VaMKBaS9Vls",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 12.4
+      "ageHours": 14.4
     }
   ]
 }
