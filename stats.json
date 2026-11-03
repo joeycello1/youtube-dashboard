@@ -5,12 +5,20 @@
       "count": 5
     },
     {
+      "channel": "The Daily Show",
+      "count": 17
+    },
+    {
       "channel": "PBS NewsHour",
-      "count": 3
+      "count": 6
+    },
+    {
+      "channel": "Chris Lehto",
+      "count": 9
     },
     {
       "channel": "More Perfect Union",
-      "count": 28
+      "count": 29
     },
     {
       "channel": "Conan O'Brien",
@@ -22,7 +30,7 @@
     },
     {
       "channel": "Diary of a CEO",
-      "count": 4
+      "count": 3
     },
     {
       "channel": "Last Week Tonight",
@@ -33,20 +41,12 @@
       "count": 4
     },
     {
-      "channel": "Chris Lehto",
-      "count": 8
-    },
-    {
       "channel": "History",
       "count": 54
     },
     {
       "channel": "Real Stories",
       "count": 45
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 13
     },
     {
       "channel": "The Interview",
@@ -87,12 +87,24 @@
       "count": 5
     },
     {
+      "keyword": "The Daily Show",
+      "count": 15
+    },
+    {
+      "keyword": "PBS NewsHour, Associated Press",
+      "count": 1
+    },
+    {
       "keyword": "PBS NewsHour",
-      "count": 3
+      "count": 5
+    },
+    {
+      "keyword": "AI",
+      "count": 9
     },
     {
       "keyword": "More Perfect Union",
-      "count": 22
+      "count": 23
     },
     {
       "keyword": "Conan O'Brien",
@@ -115,10 +127,6 @@
       "count": 4
     },
     {
-      "keyword": "AI",
-      "count": 8
-    },
-    {
       "keyword": "UFO",
       "count": 41
     },
@@ -139,12 +147,8 @@
       "count": 6
     },
     {
-      "keyword": "The Daily Show",
-      "count": 11
-    },
-    {
       "keyword": "The Interview",
-      "count": 8
+      "count": 7
     },
     {
       "keyword": "Corbell, anomalous, George Knapp, UAP, whistleblower",
@@ -205,8 +209,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-11-03",
+      "videos": 8
+    },
+    {
       "date": "2026-11-02",
-      "videos": 14
+      "videos": 15
     },
     {
       "date": "2026-11-01",
@@ -262,7 +270,7 @@
     },
     {
       "date": "2026-10-19",
-      "videos": 3
+      "videos": 2
     },
     {
       "date": "2026-10-18",
@@ -447,16 +455,28 @@
       "matches": 5
     },
     {
+      "keyword": "The Daily Show",
+      "matches": 15
+    },
+    {
+      "keyword": "PBS NewsHour, Associated Press",
+      "matches": 1
+    },
+    {
       "keyword": "PBS NewsHour",
-      "matches": 3
+      "matches": 5
+    },
+    {
+      "keyword": "AI",
+      "matches": 2
     },
     {
       "keyword": "More Perfect Union",
-      "matches": 3
+      "matches": 4
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 9
+      "matches": 8
     },
     {
       "keyword": "Louis Rossmann",
@@ -473,10 +493,6 @@
     {
       "keyword": "The Rest Is Science",
       "matches": 2
-    },
-    {
-      "keyword": "AI",
-      "matches": 1
     },
     {
       "keyword": "UFO",
@@ -499,10 +515,6 @@
       "matches": 1
     },
     {
-      "keyword": "The Daily Show",
-      "matches": 11
-    },
-    {
       "keyword": "The Interview",
       "matches": 1
     },
@@ -521,148 +533,220 @@
   ],
   "mostViral48h": [
     {
+      "title": "Haley Stevens Flips Against El-Sayed & the Media Goes Poll-Crazy | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "x1sNcmF0y10",
+      "viewsPerHour": 276458,
+      "views": 2570334,
+      "ageHours": 9.3
+    },
+    {
       "title": "Midterms 2026: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "Np7_mlvXFcA",
-      "viewsPerHour": 155048,
-      "views": 4308363,
-      "ageHours": 27.8
+      "viewsPerHour": 147084,
+      "views": 4381810,
+      "ageHours": 29.8
     },
     {
       "title": "Trump Faces His Biggest Enemy Ahead of the Midterms: Himself | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "9iz6Pqp3174",
-      "viewsPerHour": 68935,
-      "views": 3121766,
-      "ageHours": 45.3
+      "viewsPerHour": 66234,
+      "views": 3132153,
+      "ageHours": 47.3
+    },
+    {
+      "title": "Democrats Hope for a Midterm Blowout as Trump Embraces Asses and Islamophobia | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "Y27ko0zQsho",
+      "viewsPerHour": 35869,
+      "views": 405177,
+      "ageHours": 11.3
     },
     {
       "title": "James Talarico: Here Is How They Designed The System To Keep You Poor!",
       "channel": "Diary of a CEO",
       "videoId": "FpIN6tYC5XM",
-      "viewsPerHour": 29948,
-      "views": 817379,
-      "ageHours": 27.3
+      "viewsPerHour": 28508,
+      "views": 835210,
+      "ageHours": 29.3
     },
     {
       "title": "S13 E28: Midterm Elections & The $100 Bill: 11/1/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "Lz-QkCnw6WQ",
-      "viewsPerHour": 26081,
-      "views": 816032,
-      "ageHours": 31.3
+      "viewsPerHour": 24912,
+      "views": 829379,
+      "ageHours": 33.3
+    },
+    {
+      "title": "Michael Lewis on the Civil Servants Who Stood Up to DOGE | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "M9NKJOERG9E",
+      "viewsPerHour": 22030,
+      "views": 194084,
+      "ageHours": 8.8
+    },
+    {
+      "title": "An Inside Look at How The Daily Show Gets Made | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "_OpyFKLEySU",
+      "viewsPerHour": 17868,
+      "views": 326954,
+      "ageHours": 18.3
+    },
+    {
+      "title": "Tamara Keith and Amy Walter on the early signals to watch on Election Night",
+      "channel": "PBS NewsHour",
+      "videoId": "GsN3yyoNP6U",
+      "viewsPerHour": 16378,
+      "views": 208227,
+      "ageHours": 12.7
+    },
+    {
+      "title": "We Investigated Why Big Tech Is Handing Out $10,000 Checks To This Small Town",
+      "channel": "More Perfect Union",
+      "videoId": "kEpW-O0A400",
+      "viewsPerHour": 11616,
+      "views": 223780,
+      "ageHours": 19.3
+    },
+    {
+      "title": "PBS News Hour full episode, Nov. 2, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "OpJqDti4PrE",
+      "viewsPerHour": 9111,
+      "views": 115847,
+      "ageHours": 12.7
     },
     {
       "title": "Is 100 Better Than 101?",
       "channel": "The Rest Is Science",
       "videoId": "mvUSeUl29d0",
-      "viewsPerHour": 6860,
-      "views": 255799,
-      "ageHours": 37.3
+      "viewsPerHour": 6604,
+      "views": 259507,
+      "ageHours": 39.3
     },
     {
       "title": "Did Aliens Visit Atlantis and the Ancient Andes? | In Search of Aliens",
       "channel": "History",
       "videoId": "OME1Np6xe6g",
-      "viewsPerHour": 4442,
-      "views": 178971,
-      "ageHours": 40.3
+      "viewsPerHour": 4318,
+      "views": 182611,
+      "ageHours": 42.3
     },
     {
       "title": "Olivia Colman (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "rNpJ_m8xJtY",
-      "viewsPerHour": 2613,
+      "viewsPerHour": 2406,
       "views": 60840,
-      "ageHours": 23.3
+      "ageHours": 25.3
+    },
+    {
+      "title": "Why Everyone Says 2027. It's Not Just Aliens.",
+      "channel": "Chris Lehto",
+      "videoId": "fhnU8WPeE_M",
+      "viewsPerHour": 2098,
+      "views": 30355,
+      "ageHours": 14.5
     },
     {
       "title": "LIVE A Future Florida Can Afford: Town Hall with Angie Nixon",
       "channel": "More Perfect Union",
       "videoId": "ppjVPbfZbyE",
-      "viewsPerHour": 2139,
-      "views": 41724,
-      "ageHours": 19.5
+      "viewsPerHour": 1992,
+      "views": 42856,
+      "ageHours": 21.5
     },
     {
       "title": "Gonna BACKFIRE in a BIG way': MI State Sen. Mallory McMorrow on Stevens' Mike Rogers endorsement",
       "channel": "MS NOW",
       "videoId": "RAQWum0WqJo",
-      "viewsPerHour": 2085,
+      "viewsPerHour": 1882,
       "views": 38742,
-      "ageHours": 18.6
+      "ageHours": 20.6
     },
     {
-      "title": "STAFF EXODUS: Haley Stevens' chief of staff and more resign after Rogers endorsement",
+      "title": "Democrats, Republicans make final push to voters while Trump promotes reflecting pool",
       "channel": "MS NOW",
-      "videoId": "opyjhcFEIH4",
-      "viewsPerHour": 1650,
-      "views": 40113,
-      "ageHours": 24.3
+      "videoId": "XpFOj_RINgs",
+      "viewsPerHour": 1655,
+      "views": 2833,
+      "ageHours": 1.7
+    },
+    {
+      "title": "Inside the AP's process for calling election races",
+      "channel": "PBS NewsHour",
+      "videoId": "6P5gYWJ1MGI",
+      "viewsPerHour": 1017,
+      "views": 12793,
+      "ageHours": 12.6
+    },
+    {
+      "title": "The Rachel Maddow Show - Nov. 2 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "bRzbP7GiDyU",
+      "viewsPerHour": 661,
+      "views": 1341,
+      "ageHours": 2
     },
     {
       "title": "Water bottle vending machine has terms & conditions you must accept before drinking ",
       "channel": "Louis Rossmann",
       "videoId": "VQEtF2JoRB4",
-      "viewsPerHour": 577,
+      "viewsPerHour": 536,
       "views": 15254,
-      "ageHours": 26.4
-    },
-    {
-      "title": "2 days to midterms: El-Sayed SPEAKS OUT, reaction to Stevens SHOCKER | MS NOW Highlights",
-      "channel": "MS NOW",
-      "videoId": "dNS79mfhNjM",
-      "viewsPerHour": 392,
-      "views": 9524,
-      "ageHours": 24.3
+      "ageHours": 28.4
     },
     {
       "title": "Is AI Conscious?",
       "channel": "Chris Lehto",
       "videoId": "WCp1EZ1pJ-M",
-      "viewsPerHour": 386,
-      "views": 14848,
-      "ageHours": 38.5
+      "viewsPerHour": 368,
+      "views": 14903,
+      "ageHours": 40.5
     },
     {
       "title": "LISTEN LIVE: Supreme Court hears case on habeas corpus and federal inmate transfer request, and more",
       "channel": "PBS NewsHour",
       "videoId": "rIt6p2MUj-E",
-      "viewsPerHour": 334,
+      "viewsPerHour": 300,
       "views": 5955,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "WATCH LIVE: Michigan Senate candidate El-Sayed holds rally after Rep. Stevens endorses GOP rival",
       "channel": "PBS NewsHour",
       "videoId": "g4QOS8ZTqnc",
-      "viewsPerHour": 314,
+      "viewsPerHour": 284,
       "views": 5884,
-      "ageHours": 18.7
-    },
-    {
-      "title": "LIVE: Democratic Kansas Senate candidate Adam Hamilton holds canvass launch",
-      "channel": "MS NOW",
-      "videoId": "i_h-rKjexCk",
-      "viewsPerHour": 173,
-      "views": 3045,
-      "ageHours": 17.6
+      "ageHours": 20.7
     },
     {
       "title": "The Most Ruthless Presidential Election Power Grabs in US History",
       "channel": "Real Stories",
       "videoId": "f2uvTHbeVk8",
-      "viewsPerHour": 170,
-      "views": 7017,
-      "ageHours": 41.3
+      "viewsPerHour": 165,
+      "views": 7126,
+      "ageHours": 43.3
+    },
+    {
+      "title": "LIVE: Democratic Kansas Senate candidate Adam Hamilton holds canvass launch",
+      "channel": "MS NOW",
+      "videoId": "i_h-rKjexCk",
+      "viewsPerHour": 155,
+      "views": 3045,
+      "ageHours": 19.6
     },
     {
       "title": "LIVE: ME Senate Candidate Troy Jackson participates in canvass launch the day before the midterms",
       "channel": "MS NOW",
       "videoId": "vB_REyxVNfM",
-      "viewsPerHour": 90,
+      "viewsPerHour": 81,
       "views": 1617,
-      "ageHours": 17.9
+      "ageHours": 19.9
     },
     {
       "title": "WATCH LIVE: NTSB holds briefing on deadly private jet crash that killed 9 in Florida",
@@ -670,7 +754,7 @@
       "videoId": "VaMKBaS9Vls",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 18.4
+      "ageHours": 20.4
     }
   ]
 }
