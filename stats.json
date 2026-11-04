@@ -6,7 +6,19 @@
     },
     {
       "channel": "PBS NewsHour",
-      "count": 5
+      "count": 4
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 11
+    },
+    {
+      "channel": "NOVA",
+      "count": 24
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 12
     },
     {
       "channel": "The Daily Show",
@@ -17,12 +29,8 @@
       "count": 55
     },
     {
-      "channel": "Conan O'Brien",
-      "count": 11
-    },
-    {
       "channel": "Real Stories",
-      "count": 46
+      "count": 45
     },
     {
       "channel": "Chris Lehto",
@@ -31,10 +39,6 @@
     {
       "channel": "More Perfect Union",
       "count": 28
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 11
     },
     {
       "channel": "Diary of a CEO",
@@ -57,10 +61,6 @@
       "count": 4
     },
     {
-      "channel": "NOVA",
-      "count": 23
-    },
-    {
       "channel": "Mayim Bialik",
       "count": 5
     },
@@ -78,7 +78,7 @@
     },
     {
       "channel": "Jonathan Pie",
-      "count": 5
+      "count": 4
     }
   ],
   "keywordFrequency": [
@@ -88,7 +88,19 @@
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 5
+      "count": 4
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 11
+    },
+    {
+      "keyword": "NOVA",
+      "count": 39
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 12
     },
     {
       "keyword": "The Daily Show",
@@ -99,16 +111,8 @@
       "count": 42
     },
     {
-      "keyword": "Conan O'Brien",
-      "count": 11
-    },
-    {
       "keyword": "Real Stories",
-      "count": 44
-    },
-    {
-      "keyword": "NOVA",
-      "count": 38
+      "count": 43
     },
     {
       "keyword": "AI",
@@ -117,10 +121,6 @@
     {
       "keyword": "More Perfect Union",
       "count": 23
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 11
     },
     {
       "keyword": "AI, artificial intelligence",
@@ -176,7 +176,7 @@
     },
     {
       "keyword": "Jonathan Pie",
-      "count": 5
+      "count": 4
     },
     {
       "keyword": "Real Stories, testimony",
@@ -206,11 +206,11 @@
   "dailySummary": [
     {
       "date": "2026-11-04",
-      "videos": 7
+      "videos": 16
     },
     {
       "date": "2026-11-03",
-      "videos": 14
+      "videos": 8
     },
     {
       "date": "2026-11-02",
@@ -234,7 +234,7 @@
     },
     {
       "date": "2026-10-28",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-10-27",
@@ -266,7 +266,7 @@
     },
     {
       "date": "2026-10-20",
-      "videos": 3
+      "videos": 2
     },
     {
       "date": "2026-10-19",
@@ -438,7 +438,7 @@
     },
     {
       "date": "2026-09-05",
-      "videos": 3
+      "videos": 1
     },
     {
       "date": "2026-08-15",
@@ -452,27 +452,31 @@
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 5
+      "matches": 4
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 4
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 6
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
     },
     {
       "keyword": "The Daily Show",
-      "matches": 14
+      "matches": 15
     },
     {
       "keyword": "UFO",
       "matches": 3
     },
     {
-      "keyword": "Conan O'Brien",
-      "matches": 7
-    },
-    {
       "keyword": "Real Stories",
       "matches": 4
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 5
     },
     {
       "keyword": "AI",
@@ -480,10 +484,6 @@
     },
     {
       "keyword": "More Perfect Union",
-      "matches": 3
-    },
-    {
-      "keyword": "Louis Rossmann",
       "matches": 3
     },
     {
@@ -528,201 +528,201 @@
       "title": "Haley Stevens Flips Against El-Sayed & the Media Goes Poll-Crazy | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "x1sNcmF0y10",
-      "viewsPerHour": 201676,
-      "views": 7118462,
-      "ageHours": 35.3
+      "viewsPerHour": 186367,
+      "views": 7323682,
+      "ageHours": 39.3
     },
     {
       "title": "Election Day Features Voter in Labor, Hot Dems & Don Jr. Warning of Ohio Statehood | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "I7PL6a1u-Nc",
-      "viewsPerHour": 148222,
-      "views": 1822575,
-      "ageHours": 12.3
+      "viewsPerHour": 134335,
+      "views": 2189238,
+      "ageHours": 16.3
     },
     {
-      "title": "WATCH: Democrat Abdul El-Sayed of Michigan speaks at election night watch party",
-      "channel": "PBS NewsHour",
-      "videoId": "FSAUyp01gOE",
-      "viewsPerHour": 27915,
-      "views": 234764,
-      "ageHours": 8.4
+      "title": "Midterm Anal-a-Zone: So Long, 2026 Midterms & Hello, 2028 Presidential Race! | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "L_cFOvcab7k",
+      "viewsPerHour": 127378,
+      "views": 854201,
+      "ageHours": 6.7
     },
     {
       "title": "Democrats Hope for a Midterm Blowout as Trump Embraces Asses and Islamophobia | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "Y27ko0zQsho",
-      "viewsPerHour": 24083,
-      "views": 898194,
-      "ageHours": 37.3
+      "viewsPerHour": 22114,
+      "views": 913233,
+      "ageHours": 41.3
+    },
+    {
+      "title": "LIVE: Leader Jeffries speaks after Dems. RETAKE Capitol Hill",
+      "channel": "MS NOW",
+      "videoId": "5g1lB5SOv3s",
+      "viewsPerHour": 19121,
+      "views": 28356,
+      "ageHours": 1.5
+    },
+    {
+      "title": "WATCH: Democrat Abdul El-Sayed of Michigan speaks at election night watch party",
+      "channel": "PBS NewsHour",
+      "videoId": "FSAUyp01gOE",
+      "viewsPerHour": 18917,
+      "views": 234764,
+      "ageHours": 12.4
     },
     {
       "title": "Michael Lewis on the Civil Servants Who Stood Up to DOGE | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "M9NKJOERG9E",
-      "viewsPerHour": 19939,
-      "views": 694054,
-      "ageHours": 34.8
+      "viewsPerHour": 18603,
+      "views": 721966,
+      "ageHours": 38.8
     },
     {
-      "title": "‘This was an absolute ASTEROID!’: Democrats DEMOLISH GOP in historic 'blue wave' midterms",
-      "channel": "MS NOW",
-      "videoId": "NimE7yLTdv8",
-      "viewsPerHour": 13271,
-      "views": 53343,
-      "ageHours": 4
-    },
-    {
-      "title": "An Inside Look at How The Daily Show Gets Made | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "_OpyFKLEySU",
-      "viewsPerHour": 10289,
-      "views": 455764,
-      "ageHours": 44.3
-    },
-    {
-      "title": "Power belongs to the people': Talarico says to bet on underdog following win | FULL SPEECH",
-      "channel": "MS NOW",
-      "videoId": "Nv6KCfdCJMA",
-      "viewsPerHour": 9585,
-      "views": 73355,
-      "ageHours": 7.7
-    },
-    {
-      "title": "WATCH: Democrats ride 'blue wave' after midterm elections",
-      "channel": "PBS NewsHour",
-      "videoId": "j6VorJ0FOCg",
-      "viewsPerHour": 8309,
-      "views": 70040,
-      "ageHours": 8.4
+      "title": "The Arctic Has a Hidden Leak | NOVA | PBS",
+      "channel": "NOVA",
+      "videoId": "yT1Yyc6qlwA",
+      "viewsPerHour": 11999,
+      "views": 69352,
+      "ageHours": 5.8
     },
     {
       "title": "Min Jin Lee - Family, Education & Sacrifice in “American Hagwon” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "p9P_s0SEVqo",
-      "viewsPerHour": 7987,
-      "views": 86073,
-      "ageHours": 10.8
+      "viewsPerHour": 7634,
+      "views": 112810,
+      "ageHours": 14.8
+    },
+    {
+      "title": "election reaction & thoughts on \"it's too risky in an election year!\"",
+      "channel": "Louis Rossmann",
+      "videoId": "n4qeI4r_E2Q",
+      "viewsPerHour": 7003,
+      "views": 34493,
+      "ageHours": 4.9
+    },
+    {
+      "title": "‘This was an absolute ASTEROID!’: Democrats DEMOLISH GOP in historic 'blue wave' midterms",
+      "channel": "MS NOW",
+      "videoId": "NimE7yLTdv8",
+      "viewsPerHour": 6651,
+      "views": 53343,
+      "ageHours": 8
+    },
+    {
+      "title": "Power belongs to the people': Talarico says to bet on underdog following win | FULL SPEECH",
+      "channel": "MS NOW",
+      "videoId": "Nv6KCfdCJMA",
+      "viewsPerHour": 6295,
+      "views": 73355,
+      "ageHours": 11.7
+    },
+    {
+      "title": "WATCH: Democrats ride 'blue wave' after midterm elections",
+      "channel": "PBS NewsHour",
+      "videoId": "j6VorJ0FOCg",
+      "viewsPerHour": 5635,
+      "views": 70040,
+      "ageHours": 12.4
     },
     {
       "title": "White House will be 'as adversarial as possible' after Dem wins",
       "channel": "MS NOW",
       "videoId": "DHtq5hXtZS4",
-      "viewsPerHour": 6732,
+      "viewsPerHour": 3839,
       "views": 35732,
-      "ageHours": 5.3
+      "ageHours": 9.3
     },
     {
-      "title": "We Investigated Why Big Tech Is Handing Out $10,000 Checks To This Small Town",
-      "channel": "More Perfect Union",
-      "videoId": "kEpW-O0A400",
-      "viewsPerHour": 6470,
-      "views": 292879,
-      "ageHours": 45.3
+      "title": "People were angry': Latino voters BOOST Dems in Texas UPSETS",
+      "channel": "MS NOW",
+      "videoId": "k7ZZOFOjc0E",
+      "viewsPerHour": 2065,
+      "views": 3420,
+      "ageHours": 1.7
     },
     {
       "title": "Thermal Experiment Reveals Presence | The Secret of Skinwalker Ranch (S2, E5) | Full Episode",
       "channel": "History",
       "videoId": "xEpuaE-qcEU",
-      "viewsPerHour": 2347,
-      "views": 38253,
-      "ageHours": 16.3
+      "viewsPerHour": 2030,
+      "views": 41210,
+      "ageHours": 20.3
     },
     {
       "title": "Conan Conspires To Get Olivia Colman Cast In The Next Bond Film | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "CavFXze0s0U",
-      "viewsPerHour": 1595,
+      "viewsPerHour": 1321,
       "views": 30776,
-      "ageHours": 19.3
+      "ageHours": 23.3
     },
     {
       "title": "The Curse of Oak Island Season 14 Promo | The HISTORY Channel",
       "channel": "History",
       "videoId": "hPC36rxvEKc",
-      "viewsPerHour": 1258,
-      "views": 28039,
-      "ageHours": 22.3
+      "viewsPerHour": 1172,
+      "views": 30824,
+      "ageHours": 26.3
     },
     {
       "title": "Why Everyone Says 2027. It's Not Just Aliens.",
       "channel": "Chris Lehto",
       "videoId": "fhnU8WPeE_M",
-      "viewsPerHour": 1192,
-      "views": 48261,
-      "ageHours": 40.5
+      "viewsPerHour": 1113,
+      "views": 49509,
+      "ageHours": 44.5
     },
     {
-      "title": "LIVE A Future Florida Can Afford: Town Hall with Angie Nixon",
-      "channel": "More Perfect Union",
-      "videoId": "ppjVPbfZbyE",
-      "viewsPerHour": 1120,
-      "views": 53231,
-      "ageHours": 47.5
+      "title": "Stephen McKinley Henderson (Full Episode) | Where Everybody Knows Your Name",
+      "channel": "Conan O'Brien",
+      "videoId": "ymk-6NnnHq4",
+      "viewsPerHour": 1101,
+      "views": 6934,
+      "ageHours": 6.3
     },
     {
-      "title": "Dems 'have found Moses to lead them out of the desert' with Talarico: Fmr. Bush advisor",
-      "channel": "MS NOW",
-      "videoId": "SA7QaCUyvCY",
-      "viewsPerHour": 620,
-      "views": 13712,
-      "ageHours": 22.1
-    },
-    {
-      "title": "DOJ to monitor elections in ALL 50 STATES for the first time",
-      "channel": "MS NOW",
-      "videoId": "jTD3LsnouXQ",
-      "viewsPerHour": 549,
-      "views": 12131,
-      "ageHours": 22.1
-    },
-    {
-      "title": "LISTEN LIVE: Supreme Court hears case on Catholic preschools and LGBTQ families",
+      "title": "WATCH LIVE: Schumer holds post-election news conference after Democrats win both Senate and House",
       "channel": "PBS NewsHour",
-      "videoId": "bzzfT618bSw",
-      "viewsPerHour": 342,
-      "views": 8357,
-      "ageHours": 24.4
+      "videoId": "wN9lCVRaoFQ",
+      "viewsPerHour": 833,
+      "views": 2288,
+      "ageHours": 2.7
     },
     {
       "title": "Inside The USS Cole Attack: The Tragedy and Al-Qaeda Connections To 9/11",
       "channel": "Real Stories",
       "videoId": "c12SR2vfPTU",
-      "viewsPerHour": 276,
-      "views": 6009,
-      "ageHours": 21.8
+      "viewsPerHour": 247,
+      "views": 6375,
+      "ageHours": 25.8
     },
     {
-      "title": "SCAM to get voters to buy into RACISM': Mara Gay BLASTS GOP attacks on Abdul El-Sayed",
-      "channel": "MS NOW",
-      "videoId": "APuNsZZ9CpI",
-      "viewsPerHour": 178,
-      "views": 3846,
-      "ageHours": 21.7
+      "title": "WATCH LIVE: Jeffries holds post-election news conference after Democrats clinch House control",
+      "channel": "PBS NewsHour",
+      "videoId": "CXoxfqf5Me4",
+      "viewsPerHour": 199,
+      "views": 927,
+      "ageHours": 4.7
     },
     {
       "title": "Olivia Colman's Trick For Not Crying In \"The Crown\" | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "D5qVMT3Xw_8",
-      "viewsPerHour": 35,
+      "viewsPerHour": 29,
       "views": 805,
-      "ageHours": 23.3
+      "ageHours": 27.3
     },
     {
-      "title": "WATCH LIVE: Takeaways from the 2026 midterms and answers to your election questions",
-      "channel": "PBS NewsHour",
-      "videoId": "fMkZwBK6F6s",
+      "title": "LIVE: Trump speaks after GOP midterm losses",
+      "channel": "MS NOW",
+      "videoId": "0JfR-_XECOg",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 24
-    },
-    {
-      "title": "WATCH LIVE: House Democratic Leader Jeffries holds Election Day news conference",
-      "channel": "PBS NewsHour",
-      "videoId": "qtxT9s3CCkM",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 24.1
+      "ageHours": 1.5
     }
   ]
 }
