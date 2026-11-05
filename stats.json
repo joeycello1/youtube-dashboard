@@ -1,16 +1,32 @@
 {
   "videosPerChannel": [
     {
-      "channel": "NOVA",
-      "count": 25
+      "channel": "Real Stories",
+      "count": 45
+    },
+    {
+      "channel": "MS NOW",
+      "count": 2
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 4
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 12
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 14
     },
     {
       "channel": "The Daily Show",
       "count": 17
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 5
+      "channel": "NOVA",
+      "count": 25
     },
     {
       "channel": "The Rest Is Science",
@@ -21,24 +37,8 @@
       "count": 10
     },
     {
-      "channel": "MS NOW",
-      "count": 3
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 10
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 12
-    },
-    {
       "channel": "History",
       "count": 53
-    },
-    {
-      "channel": "Real Stories",
-      "count": 45
     },
     {
       "channel": "More Perfect Union",
@@ -83,16 +83,32 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "NOVA",
-      "count": 39
+      "keyword": "Real Stories",
+      "count": 43
+    },
+    {
+      "keyword": "MS NOW",
+      "count": 2
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 4
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 12
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 14
     },
     {
       "keyword": "The Daily Show",
       "count": 15
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 5
+      "keyword": "NOVA",
+      "count": 39
     },
     {
       "keyword": "The Rest Is Science",
@@ -103,24 +119,8 @@
       "count": 10
     },
     {
-      "keyword": "MS NOW",
-      "count": 3
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 10
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 12
-    },
-    {
       "keyword": "UFO",
       "count": 42
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 43
     },
     {
       "keyword": "More Perfect Union",
@@ -206,11 +206,11 @@
   "dailySummary": [
     {
       "date": "2026-11-05",
-      "videos": 7
+      "videos": 16
     },
     {
       "date": "2026-11-04",
-      "videos": 12
+      "videos": 7
     },
     {
       "date": "2026-11-03",
@@ -234,7 +234,7 @@
     },
     {
       "date": "2026-10-29",
-      "videos": 9
+      "videos": 8
     },
     {
       "date": "2026-10-28",
@@ -438,7 +438,7 @@
     },
     {
       "date": "2026-09-06",
-      "videos": 2
+      "videos": 1
     },
     {
       "date": "2026-08-15",
@@ -447,16 +447,32 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "NOVA",
-      "matches": 7
+      "keyword": "Real Stories",
+      "matches": 4
     },
     {
-      "keyword": "The Daily Show",
-      "matches": 14
+      "keyword": "MS NOW",
+      "matches": 2
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 5
+      "matches": 4
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 6
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 15
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 7
     },
     {
       "keyword": "The Rest Is Science",
@@ -467,28 +483,12 @@
       "matches": 3
     },
     {
-      "keyword": "MS NOW",
-      "matches": 3
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 4
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 6
-    },
-    {
       "keyword": "UFO",
       "matches": 2
     },
     {
-      "keyword": "Real Stories",
-      "matches": 4
-    },
-    {
       "keyword": "More Perfect Union",
-      "matches": 3
+      "matches": 2
     },
     {
       "keyword": "AI, artificial intelligence",
@@ -517,10 +517,6 @@
     {
       "keyword": "Corbell, UFO, George Knapp, Grusch, UAP",
       "matches": 1
-    },
-    {
-      "keyword": "AI, Grusch",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -528,177 +524,201 @@
       "title": "Midterm Blowout: Dems Batter GOP & Elon Musk Is Out $500 Million | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "MaThY_vYxvw",
-      "viewsPerHour": 165385,
-      "views": 2369570,
-      "ageHours": 14.3
+      "viewsPerHour": 156121,
+      "views": 2553330,
+      "ageHours": 16.4
     },
     {
       "title": "Election Day Features Voter in Labor, Hot Dems & Don Jr. Warning of Ohio Statehood | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "I7PL6a1u-Nc",
-      "viewsPerHour": 79335,
-      "views": 3039952,
-      "ageHours": 38.3
+      "viewsPerHour": 76146,
+      "views": 3072104,
+      "ageHours": 40.3
+    },
+    {
+      "title": "Trump Reacts to Midterm Defeat by Focusing on the Ballroom | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "5XiKG7HC7_s",
+      "viewsPerHour": 67528,
+      "views": 471937,
+      "ageHours": 7
     },
     {
       "title": "Midterm Anal-a-Zone: So Long, 2026 Midterms & Hello, 2028 Presidential Race! | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "L_cFOvcab7k",
-      "viewsPerHour": 68892,
-      "views": 1979056,
-      "ageHours": 28.7
+      "viewsPerHour": 65342,
+      "views": 2009559,
+      "ageHours": 30.8
     },
     {
       "title": "Erica Chenoweth on the 3.5% Rule & Nonviolent Resistance | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "R4_kjdNnDlg",
-      "viewsPerHour": 13474,
-      "views": 172692,
-      "ageHours": 12.8
+      "viewsPerHour": 12772,
+      "views": 189588,
+      "ageHours": 14.8
     },
     {
-      "title": "PBS News Hour full episode, Nov. 4, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "C41BehiqM1A",
-      "viewsPerHour": 9705,
-      "views": 163091,
-      "ageHours": 16.8
+      "title": "Hackers turned supermarket smart-fridges into heaters & no law makes them fix it",
+      "channel": "Louis Rossmann",
+      "videoId": "yR8H9hnRJkY",
+      "viewsPerHour": 12132,
+      "views": 88356,
+      "ageHours": 7.3
     },
     {
       "title": "The Rainbow Under The Ocean",
       "channel": "The Rest Is Science",
       "videoId": "TD4tDKXfGc4",
-      "viewsPerHour": 9396,
-      "views": 161893,
-      "ageHours": 17.2
+      "viewsPerHour": 9159,
+      "views": 176374,
+      "ageHours": 19.3
+    },
+    {
+      "title": "PBS News Hour full episode, Nov. 4, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "C41BehiqM1A",
+      "viewsPerHour": 8660,
+      "views": 163091,
+      "ageHours": 18.8
     },
     {
       "title": "Democratic and GOP strategists on how parties should respond to midterm results",
       "channel": "PBS NewsHour",
       "videoId": "W_JVZz4QMWc",
-      "viewsPerHour": 9017,
+      "viewsPerHour": 8058,
       "views": 153517,
-      "ageHours": 17
+      "ageHours": 19.1
     },
     {
       "title": "The Arctic Has a Hidden Leak | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "yT1Yyc6qlwA",
-      "viewsPerHour": 7842,
-      "views": 218001,
-      "ageHours": 27.8
+      "viewsPerHour": 7607,
+      "views": 226913,
+      "ageHours": 29.8
     },
     {
       "title": "Min Jin Lee - Family, Education & Sacrifice in “American Hagwon” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "p9P_s0SEVqo",
-      "viewsPerHour": 5423,
-      "views": 199541,
-      "ageHours": 36.8
+      "viewsPerHour": 5238,
+      "views": 203384,
+      "ageHours": 38.8
     },
     {
-      "title": "How the Latino shift to Democrats helped turn Texas blue",
-      "channel": "PBS NewsHour",
-      "videoId": "aChudI6hDR0",
-      "viewsPerHour": 1465,
-      "views": 25071,
-      "ageHours": 17.1
+      "title": "UT professor pulls hit & run on my employee's car: cmon man.... ",
+      "channel": "Louis Rossmann",
+      "videoId": "ydVElnkdIGg",
+      "viewsPerHour": 2597,
+      "views": 7586,
+      "ageHours": 2.9
+    },
+    {
+      "title": "Were the midterms an 'extinction-level event' for Republic",
+      "channel": "MS NOW",
+      "videoId": "NiiEnWRzrVo",
+      "viewsPerHour": 2416,
+      "views": 5307,
+      "ageHours": 2.2
+    },
+    {
+      "title": "Conan Meets The Producer Of An Unauthorized \"Heated Rivalry\" Musical | Conan O'Brien Needs A Fan",
+      "channel": "Conan O'Brien",
+      "videoId": "jEjQgjXNeLA",
+      "viewsPerHour": 2136,
+      "views": 13533,
+      "ageHours": 6.3
     },
     {
       "title": "Thermal Experiment Reveals Presence | The Secret of Skinwalker Ranch (S2, E5) | Full Episode",
       "channel": "History",
       "videoId": "xEpuaE-qcEU",
-      "viewsPerHour": 1462,
-      "views": 61885,
-      "ageHours": 42.3
+      "viewsPerHour": 1406,
+      "views": 62360,
+      "ageHours": 44.3
+    },
+    {
+      "title": "How the Latino shift to Democrats helped turn Texas blue",
+      "channel": "PBS NewsHour",
+      "videoId": "aChudI6hDR0",
+      "viewsPerHour": 1310,
+      "views": 25071,
+      "ageHours": 19.1
     },
     {
       "title": "election reaction & thoughts on \"it's too risky in an election year!\"",
       "channel": "Louis Rossmann",
       "videoId": "n4qeI4r_E2Q",
-      "viewsPerHour": 1280,
+      "viewsPerHour": 1190,
       "views": 34493,
-      "ageHours": 26.9
+      "ageHours": 29
     },
     {
-      "title": "LIVE: Leader Jeffries speaks after Dems. RETAKE Capitol Hill",
+      "title": "How can Dems keep momentum in red states for 2028? Here's what Kentucky Gov. Beshear thinks",
       "channel": "MS NOW",
-      "videoId": "5g1lB5SOv3s",
-      "viewsPerHour": 1206,
-      "views": 28356,
-      "ageHours": 23.5
+      "videoId": "t8LGTZ7hNFc",
+      "viewsPerHour": 1025,
+      "views": 2276,
+      "ageHours": 2.2
     },
     {
       "title": "Interview: All of Physics in One Book with Hakeem Oluseyi | Particles of Thought",
       "channel": "NOVA",
       "videoId": "LuNdwUhdksQ",
-      "viewsPerHour": 847,
-      "views": 5352,
-      "ageHours": 6.3
+      "viewsPerHour": 897,
+      "views": 7485,
+      "ageHours": 8.3
     },
     {
       "title": "Conan Conspires To Get Olivia Colman Cast In The Next Bond Film | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "CavFXze0s0U",
-      "viewsPerHour": 679,
+      "viewsPerHour": 650,
       "views": 30776,
-      "ageHours": 45.3
+      "ageHours": 47.3
+    },
+    {
+      "title": "Steven Yeun's Korean Fans Are Intense | CONAN on TBS",
+      "channel": "Conan O'Brien",
+      "videoId": "NPUNDzAXPk8",
+      "viewsPerHour": 428,
+      "views": 1427,
+      "ageHours": 3.3
+    },
+    {
+      "title": "WATCH LIVE: First lady Melania Trump hosts Russian and Ukrainian officials after Oleshky ceasefire",
+      "channel": "PBS NewsHour",
+      "videoId": "UWrQ-ryD934",
+      "viewsPerHour": 420,
+      "views": 1226,
+      "ageHours": 2.9
     },
     {
       "title": "If You Got Paid to Stay Home, Would You Still Go?",
       "channel": "Chris Lehto",
       "videoId": "D4nGESFrXZY",
-      "viewsPerHour": 411,
-      "views": 7696,
-      "ageHours": 18.7
+      "viewsPerHour": 389,
+      "views": 8079,
+      "ageHours": 20.8
     },
     {
       "title": "Stephen McKinley Henderson (Full Episode) | Where Everybody Knows Your Name",
       "channel": "Conan O'Brien",
       "videoId": "ymk-6NnnHq4",
-      "viewsPerHour": 245,
+      "viewsPerHour": 229,
       "views": 6934,
-      "ageHours": 28.3
+      "ageHours": 30.3
     },
     {
-      "title": "Inside The USS Cole Attack: The Tragedy and Al-Qaeda Connections To 9/11",
+      "title": "Boston Marathon Bombing: As It Happened | Full Documentary",
       "channel": "Real Stories",
-      "videoId": "c12SR2vfPTU",
-      "viewsPerHour": 171,
-      "views": 8162,
-      "ageHours": 47.8
-    },
-    {
-      "title": "People were angry': Latino voters BOOST Dems in Texas UPSETS",
-      "channel": "MS NOW",
-      "videoId": "k7ZZOFOjc0E",
-      "viewsPerHour": 144,
-      "views": 3420,
-      "ageHours": 23.7
-    },
-    {
-      "title": "WATCH LIVE: Schumer holds post-election news conference after Democrats win both Senate and House",
-      "channel": "PBS NewsHour",
-      "videoId": "wN9lCVRaoFQ",
-      "viewsPerHour": 92,
-      "views": 2288,
-      "ageHours": 24.8
-    },
-    {
-      "title": "WATCH LIVE: Jeffries holds post-election news conference after Democrats clinch House control",
-      "channel": "PBS NewsHour",
-      "videoId": "CXoxfqf5Me4",
-      "viewsPerHour": 35,
-      "views": 927,
-      "ageHours": 26.7
-    },
-    {
-      "title": "LIVE: Trump speaks after GOP midterm losses",
-      "channel": "MS NOW",
-      "videoId": "0JfR-_XECOg",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 23.5
+      "videoId": "b9GOS6L1bzY",
+      "viewsPerHour": 214,
+      "views": 392,
+      "ageHours": 1.8
     }
   ]
 }
