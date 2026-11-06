@@ -1,16 +1,24 @@
 {
   "videosPerChannel": [
     {
-      "channel": "Real Stories",
-      "count": 45
+      "channel": "MS NOW",
+      "count": 3
     },
     {
-      "channel": "MS NOW",
-      "count": 2
+      "channel": "The Daily Show",
+      "count": 16
     },
     {
       "channel": "PBS NewsHour",
-      "count": 1
+      "count": 4
+    },
+    {
+      "channel": "Chris Lehto",
+      "count": 11
+    },
+    {
+      "channel": "Real Stories",
+      "count": 45
     },
     {
       "channel": "Louis Rossmann",
@@ -21,20 +29,12 @@
       "count": 14
     },
     {
-      "channel": "The Daily Show",
-      "count": 15
-    },
-    {
       "channel": "NOVA",
       "count": 25
     },
     {
       "channel": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "channel": "Chris Lehto",
-      "count": 10
     },
     {
       "channel": "History",
@@ -46,7 +46,7 @@
     },
     {
       "channel": "Diary of a CEO",
-      "count": 3
+      "count": 2
     },
     {
       "channel": "Last Week Tonight",
@@ -83,16 +83,24 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "Real Stories",
-      "count": 43
+      "keyword": "MS NOW",
+      "count": 3
     },
     {
-      "keyword": "MS NOW",
-      "count": 2
+      "keyword": "The Daily Show",
+      "count": 14
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 1
+      "count": 4
+    },
+    {
+      "keyword": "AI",
+      "count": 10
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 43
     },
     {
       "keyword": "Louis Rossmann",
@@ -103,20 +111,12 @@
       "count": 14
     },
     {
-      "keyword": "The Daily Show",
-      "count": 13
-    },
-    {
       "keyword": "NOVA",
       "count": 39
     },
     {
       "keyword": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "keyword": "AI",
-      "count": 10
     },
     {
       "keyword": "UFO",
@@ -205,8 +205,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-11-06",
+      "videos": 6
+    },
+    {
       "date": "2026-11-05",
-      "videos": 13
+      "videos": 14
     },
     {
       "date": "2026-11-04",
@@ -230,7 +234,7 @@
     },
     {
       "date": "2026-10-30",
-      "videos": 11
+      "videos": 10
     },
     {
       "date": "2026-10-29",
@@ -262,7 +266,7 @@
     },
     {
       "date": "2026-10-22",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-10-21",
@@ -443,16 +447,24 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "Real Stories",
-      "matches": 4
+      "keyword": "MS NOW",
+      "matches": 3
     },
     {
-      "keyword": "MS NOW",
-      "matches": 2
+      "keyword": "The Daily Show",
+      "matches": 14
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 1
+      "matches": 4
+    },
+    {
+      "keyword": "AI",
+      "matches": 4
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 4
     },
     {
       "keyword": "Louis Rossmann",
@@ -460,11 +472,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 8
-    },
-    {
-      "keyword": "The Daily Show",
-      "matches": 13
+      "matches": 7
     },
     {
       "keyword": "NOVA",
@@ -473,10 +481,6 @@
     {
       "keyword": "The Rest Is Science",
       "matches": 2
-    },
-    {
-      "keyword": "AI",
-      "matches": 3
     },
     {
       "keyword": "UFO",
@@ -517,148 +521,188 @@
   ],
   "mostViral48h": [
     {
+      "title": "GOP Turns on Trump & Rep. Constantino Blasts \"A**holes\" | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "-nY5b9fBHxw",
+      "viewsPerHour": 162929,
+      "views": 1682738,
+      "ageHours": 10.3
+    },
+    {
       "title": "Midterm Blowout: Dems Batter GOP & Elon Musk Is Out $500 Million | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "MaThY_vYxvw",
-      "viewsPerHour": 95855,
-      "views": 3096732,
-      "ageHours": 32.3
-    },
-    {
-      "title": "Midterm Anal-a-Zone: So Long, 2026 Midterms & Hello, 2028 Presidential Race! | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "L_cFOvcab7k",
-      "viewsPerHour": 46931,
-      "views": 2191965,
-      "ageHours": 46.7
+      "viewsPerHour": 90252,
+      "views": 3098997,
+      "ageHours": 34.3
     },
     {
       "title": "Trump Reacts to Midterm Defeat by Focusing on the Ballroom | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "5XiKG7HC7_s",
-      "viewsPerHour": 40201,
-      "views": 922232,
-      "ageHours": 22.9
+      "viewsPerHour": 37013,
+      "views": 924260,
+      "ageHours": 25
+    },
+    {
+      "title": "Teddy Schleifer on Elon Musk’s $500M Election Flop | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "zg6y2MMfOIg",
+      "viewsPerHour": 20317,
+      "views": 179663,
+      "ageHours": 8.8
+    },
+    {
+      "title": "PBS News Hour full episode, Nov. 5, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "OWEQwyJYCJQ",
+      "viewsPerHour": 10767,
+      "views": 138736,
+      "ageHours": 12.9
     },
     {
       "title": "Erica Chenoweth on the 3.5% Rule & Nonviolent Resistance | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "R4_kjdNnDlg",
-      "viewsPerHour": 7939,
-      "views": 244480,
-      "ageHours": 30.8
+      "viewsPerHour": 7458,
+      "views": 244810,
+      "ageHours": 32.8
     },
     {
       "title": "The Rainbow Under The Ocean",
       "channel": "The Rest Is Science",
       "videoId": "TD4tDKXfGc4",
-      "viewsPerHour": 7078,
-      "views": 249222,
-      "ageHours": 35.2
+      "viewsPerHour": 6729,
+      "views": 250586,
+      "ageHours": 37.2
     },
     {
       "title": "The Arctic Has a Hidden Leak | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "yT1Yyc6qlwA",
-      "viewsPerHour": 5796,
-      "views": 265330,
-      "ageHours": 45.8
+      "viewsPerHour": 5557,
+      "views": 265698,
+      "ageHours": 47.8
     },
     {
       "title": "Hackers turned supermarket smart-fridges into heaters & no law makes them fix it",
       "channel": "Louis Rossmann",
       "videoId": "yR8H9hnRJkY",
-      "viewsPerHour": 3803,
+      "viewsPerHour": 3497,
       "views": 88356,
-      "ageHours": 23.2
+      "ageHours": 25.3
+    },
+    {
+      "title": "Massive power grab:' new book profiles DOGE's purge of the civil service",
+      "channel": "MS NOW",
+      "videoId": "QpviE4hJibY",
+      "viewsPerHour": 1129,
+      "views": 2202,
+      "ageHours": 2
+    },
+    {
+      "title": "State lawmakers seek greater control over what universities can teach",
+      "channel": "PBS NewsHour",
+      "videoId": "hwxP9pDs8IQ",
+      "viewsPerHour": 1108,
+      "views": 14641,
+      "ageHours": 13.2
+    },
+    {
+      "title": "On 'Settle In,' D.L. Hughley recounts his confrontation with Bill Cosby",
+      "channel": "PBS NewsHour",
+      "videoId": "jBe7HmLvDOo",
+      "viewsPerHour": 1012,
+      "views": 13275,
+      "ageHours": 13.1
     },
     {
       "title": "election reaction & thoughts on \"it's too risky in an election year!\"",
       "channel": "Louis Rossmann",
       "videoId": "n4qeI4r_E2Q",
-      "viewsPerHour": 768,
+      "viewsPerHour": 735,
       "views": 34493,
-      "ageHours": 44.9
+      "ageHours": 47
+    },
+    {
+      "title": "What Actually Happens When Nobody Has to Work?",
+      "channel": "Chris Lehto",
+      "videoId": "GPfXfkin2FY",
+      "viewsPerHour": 691,
+      "views": 12381,
+      "ageHours": 17.9
     },
     {
       "title": "Interview: All of Physics in One Book with Hakeem Oluseyi | Particles of Thought",
       "channel": "NOVA",
       "videoId": "LuNdwUhdksQ",
-      "viewsPerHour": 650,
-      "views": 15799,
-      "ageHours": 24.3
+      "viewsPerHour": 604,
+      "views": 15892,
+      "ageHours": 26.3
     },
     {
       "title": "Conan Meets The Producer Of An Unauthorized \"Heated Rivalry\" Musical | Conan O'Brien Needs A Fan",
       "channel": "Conan O'Brien",
       "videoId": "jEjQgjXNeLA",
-      "viewsPerHour": 607,
+      "viewsPerHour": 556,
       "views": 13533,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "Boston Marathon Bombing: As It Happened | Full Documentary",
       "channel": "Real Stories",
       "videoId": "b9GOS6L1bzY",
-      "viewsPerHour": 528,
-      "views": 9394,
-      "ageHours": 17.8
+      "viewsPerHour": 480,
+      "views": 9512,
+      "ageHours": 19.8
     },
     {
       "title": "UT professor pulls hit & run on my employee's car: cmon man.... ",
       "channel": "Louis Rossmann",
       "videoId": "ydVElnkdIGg",
-      "viewsPerHour": 402,
+      "viewsPerHour": 363,
       "views": 7586,
-      "ageHours": 18.9
+      "ageHours": 20.9
     },
     {
       "title": "Were the midterms an 'extinction-level event' for Republic",
       "channel": "MS NOW",
       "videoId": "NiiEnWRzrVo",
-      "viewsPerHour": 292,
+      "viewsPerHour": 263,
       "views": 5307,
-      "ageHours": 18.1
+      "ageHours": 20.2
     },
     {
       "title": "If You Got Paid to Stay Home, Would You Still Go?",
       "channel": "Chris Lehto",
       "videoId": "D4nGESFrXZY",
-      "viewsPerHour": 270,
-      "views": 9928,
-      "ageHours": 36.7
-    },
-    {
-      "title": "Stephen McKinley Henderson (Full Episode) | Where Everybody Knows Your Name",
-      "channel": "Conan O'Brien",
-      "videoId": "ymk-6NnnHq4",
-      "viewsPerHour": 150,
-      "views": 6934,
-      "ageHours": 46.3
+      "viewsPerHour": 257,
+      "views": 9940,
+      "ageHours": 38.7
     },
     {
       "title": "How can Dems keep momentum in red states for 2028? Here's what Kentucky Gov. Beshear thinks",
       "channel": "MS NOW",
       "videoId": "t8LGTZ7hNFc",
-      "viewsPerHour": 125,
+      "viewsPerHour": 113,
       "views": 2276,
-      "ageHours": 18.2
+      "ageHours": 20.2
     },
     {
       "title": "Steven Yeun's Korean Fans Are Intense | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "NPUNDzAXPk8",
-      "viewsPerHour": 74,
+      "viewsPerHour": 67,
       "views": 1427,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "WATCH LIVE: First lady Melania Trump hosts Russian and Ukrainian officials after Oleshky ceasefire",
       "channel": "PBS NewsHour",
       "videoId": "UWrQ-ryD934",
-      "viewsPerHour": 65,
+      "viewsPerHour": 59,
       "views": 1226,
-      "ageHours": 18.9
+      "ageHours": 20.9
     }
   ]
 }
