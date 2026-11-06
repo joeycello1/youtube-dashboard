@@ -500,7 +500,7 @@
     },
     {
       "keyword": "The Daily Show, AI",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -513,10 +513,6 @@
     {
       "keyword": "Corbell, anomalous, George Knapp, UAP, whistleblower",
       "matches": 1
-    },
-    {
-      "keyword": "Corbell, UFO, George Knapp, Grusch, UAP",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -524,185 +520,169 @@
       "title": "GOP Turns on Trump & Rep. Constantino Blasts \"A**holes\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "-nY5b9fBHxw",
-      "viewsPerHour": 162929,
-      "views": 1682738,
-      "ageHours": 10.3
+      "viewsPerHour": 152341,
+      "views": 1880448,
+      "ageHours": 12.3
     },
     {
       "title": "Midterm Blowout: Dems Batter GOP & Elon Musk Is Out $500 Million | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "MaThY_vYxvw",
-      "viewsPerHour": 90252,
-      "views": 3098997,
-      "ageHours": 34.3
+      "viewsPerHour": 85584,
+      "views": 3111216,
+      "ageHours": 36.4
     },
     {
       "title": "Trump Reacts to Midterm Defeat by Focusing on the Ballroom | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "5XiKG7HC7_s",
-      "viewsPerHour": 37013,
-      "views": 924260,
-      "ageHours": 25
+      "viewsPerHour": 34615,
+      "views": 934155,
+      "ageHours": 27
     },
     {
       "title": "Teddy Schleifer on Elon Musk’s $500M Election Flop | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "zg6y2MMfOIg",
-      "viewsPerHour": 20317,
-      "views": 179663,
-      "ageHours": 8.8
+      "viewsPerHour": 18805,
+      "views": 204189,
+      "ageHours": 10.9
     },
     {
       "title": "PBS News Hour full episode, Nov. 5, 2026",
       "channel": "PBS NewsHour",
       "videoId": "OWEQwyJYCJQ",
-      "viewsPerHour": 10767,
+      "viewsPerHour": 9310,
       "views": 138736,
-      "ageHours": 12.9
+      "ageHours": 14.9
     },
     {
       "title": "Erica Chenoweth on the 3.5% Rule & Nonviolent Resistance | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "R4_kjdNnDlg",
-      "viewsPerHour": 7458,
-      "views": 244810,
-      "ageHours": 32.8
+      "viewsPerHour": 7073,
+      "views": 246425,
+      "ageHours": 34.8
     },
     {
       "title": "The Rainbow Under The Ocean",
       "channel": "The Rest Is Science",
       "videoId": "TD4tDKXfGc4",
-      "viewsPerHour": 6729,
-      "views": 250586,
-      "ageHours": 37.2
-    },
-    {
-      "title": "The Arctic Has a Hidden Leak | NOVA | PBS",
-      "channel": "NOVA",
-      "videoId": "yT1Yyc6qlwA",
-      "viewsPerHour": 5557,
-      "views": 265698,
-      "ageHours": 47.8
+      "viewsPerHour": 6501,
+      "views": 255201,
+      "ageHours": 39.3
     },
     {
       "title": "Hackers turned supermarket smart-fridges into heaters & no law makes them fix it",
       "channel": "Louis Rossmann",
       "videoId": "yR8H9hnRJkY",
-      "viewsPerHour": 3497,
+      "viewsPerHour": 3239,
       "views": 88356,
-      "ageHours": 25.3
-    },
-    {
-      "title": "Massive power grab:' new book profiles DOGE's purge of the civil service",
-      "channel": "MS NOW",
-      "videoId": "QpviE4hJibY",
-      "viewsPerHour": 1129,
-      "views": 2202,
-      "ageHours": 2
+      "ageHours": 27.3
     },
     {
       "title": "State lawmakers seek greater control over what universities can teach",
       "channel": "PBS NewsHour",
       "videoId": "hwxP9pDs8IQ",
-      "viewsPerHour": 1108,
+      "viewsPerHour": 962,
       "views": 14641,
-      "ageHours": 13.2
+      "ageHours": 15.2
     },
     {
       "title": "On 'Settle In,' D.L. Hughley recounts his confrontation with Bill Cosby",
       "channel": "PBS NewsHour",
       "videoId": "jBe7HmLvDOo",
-      "viewsPerHour": 1012,
+      "viewsPerHour": 877,
       "views": 13275,
-      "ageHours": 13.1
-    },
-    {
-      "title": "election reaction & thoughts on \"it's too risky in an election year!\"",
-      "channel": "Louis Rossmann",
-      "videoId": "n4qeI4r_E2Q",
-      "viewsPerHour": 735,
-      "views": 34493,
-      "ageHours": 47
+      "ageHours": 15.1
     },
     {
       "title": "What Actually Happens When Nobody Has to Work?",
       "channel": "Chris Lehto",
       "videoId": "GPfXfkin2FY",
-      "viewsPerHour": 691,
-      "views": 12381,
-      "ageHours": 17.9
+      "viewsPerHour": 631,
+      "views": 12584,
+      "ageHours": 19.9
     },
     {
       "title": "Interview: All of Physics in One Book with Hakeem Oluseyi | Particles of Thought",
       "channel": "NOVA",
       "videoId": "LuNdwUhdksQ",
-      "viewsPerHour": 604,
-      "views": 15892,
-      "ageHours": 26.3
+      "viewsPerHour": 579,
+      "views": 16411,
+      "ageHours": 28.3
+    },
+    {
+      "title": "Massive power grab:' new book profiles DOGE's purge of the civil service",
+      "channel": "MS NOW",
+      "videoId": "QpviE4hJibY",
+      "viewsPerHour": 555,
+      "views": 2202,
+      "ageHours": 4
     },
     {
       "title": "Conan Meets The Producer Of An Unauthorized \"Heated Rivalry\" Musical | Conan O'Brien Needs A Fan",
       "channel": "Conan O'Brien",
       "videoId": "jEjQgjXNeLA",
-      "viewsPerHour": 556,
+      "viewsPerHour": 514,
       "views": 13533,
-      "ageHours": 24.3
+      "ageHours": 26.3
     },
     {
       "title": "Boston Marathon Bombing: As It Happened | Full Documentary",
       "channel": "Real Stories",
       "videoId": "b9GOS6L1bzY",
-      "viewsPerHour": 480,
-      "views": 9512,
-      "ageHours": 19.8
+      "viewsPerHour": 456,
+      "views": 9958,
+      "ageHours": 21.8
     },
     {
       "title": "UT professor pulls hit & run on my employee's car: cmon man.... ",
       "channel": "Louis Rossmann",
       "videoId": "ydVElnkdIGg",
-      "viewsPerHour": 363,
+      "viewsPerHour": 331,
       "views": 7586,
-      "ageHours": 20.9
-    },
-    {
-      "title": "Were the midterms an 'extinction-level event' for Republic",
-      "channel": "MS NOW",
-      "videoId": "NiiEnWRzrVo",
-      "viewsPerHour": 263,
-      "views": 5307,
-      "ageHours": 20.2
+      "ageHours": 22.9
     },
     {
       "title": "If You Got Paid to Stay Home, Would You Still Go?",
       "channel": "Chris Lehto",
       "videoId": "D4nGESFrXZY",
-      "viewsPerHour": 257,
-      "views": 9940,
-      "ageHours": 38.7
+      "viewsPerHour": 246,
+      "views": 10033,
+      "ageHours": 40.8
+    },
+    {
+      "title": "Were the midterms an 'extinction-level event' for Republic",
+      "channel": "MS NOW",
+      "videoId": "NiiEnWRzrVo",
+      "viewsPerHour": 239,
+      "views": 5307,
+      "ageHours": 22.2
     },
     {
       "title": "How can Dems keep momentum in red states for 2028? Here's what Kentucky Gov. Beshear thinks",
       "channel": "MS NOW",
       "videoId": "t8LGTZ7hNFc",
-      "viewsPerHour": 113,
+      "viewsPerHour": 102,
       "views": 2276,
-      "ageHours": 20.2
+      "ageHours": 22.2
     },
     {
       "title": "Steven Yeun's Korean Fans Are Intense | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "NPUNDzAXPk8",
-      "viewsPerHour": 67,
+      "viewsPerHour": 61,
       "views": 1427,
-      "ageHours": 21.3
+      "ageHours": 23.3
     },
     {
       "title": "WATCH LIVE: First lady Melania Trump hosts Russian and Ukrainian officials after Oleshky ceasefire",
       "channel": "PBS NewsHour",
       "videoId": "UWrQ-ryD934",
-      "viewsPerHour": 59,
+      "viewsPerHour": 53,
       "views": 1226,
-      "ageHours": 20.9
+      "ageHours": 22.9
     }
   ]
 }
