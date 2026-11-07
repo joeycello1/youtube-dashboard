@@ -18,7 +18,7 @@
     },
     {
       "channel": "The Daily Show",
-      "count": 16
+      "count": 15
     },
     {
       "channel": "Chris Lehto",
@@ -30,7 +30,7 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 11
+      "count": 10
     },
     {
       "channel": "NOVA",
@@ -104,7 +104,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "count": 14
+      "count": 13
     },
     {
       "keyword": "AI",
@@ -116,7 +116,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 11
+      "count": 10
     },
     {
       "keyword": "NOVA",
@@ -238,7 +238,7 @@
     },
     {
       "date": "2026-10-30",
-      "videos": 9
+      "videos": 8
     },
     {
       "date": "2026-10-29",
@@ -270,7 +270,7 @@
     },
     {
       "date": "2026-10-22",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-10-21",
@@ -524,185 +524,177 @@
       "title": "GOP Turns on Trump & Rep. Constantino Blasts \"A**holes\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "-nY5b9fBHxw",
-      "viewsPerHour": 146748,
+      "viewsPerHour": 133570,
       "views": 2978087,
-      "ageHours": 20.3
+      "ageHours": 22.3
     },
     {
       "title": "Midterm Blowout: Dems Batter GOP & Elon Musk Is Out $500 Million | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "MaThY_vYxvw",
-      "viewsPerHour": 72154,
+      "viewsPerHour": 69035,
       "views": 3196660,
-      "ageHours": 44.3
+      "ageHours": 46.3
     },
     {
       "title": "Voters Stay Misinformed with AI, Elon Floats Flying Car & Robot Bodyguards Kick Ass | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "zDx4HyMOI2k",
-      "viewsPerHour": 33963,
+      "viewsPerHour": 28685,
       "views": 369551,
-      "ageHours": 10.9
+      "ageHours": 12.9
     },
     {
       "title": "Trump Reacts to Midterm Defeat by Focusing on the Ballroom | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "5XiKG7HC7_s",
-      "viewsPerHour": 28090,
+      "viewsPerHour": 26568,
       "views": 981393,
-      "ageHours": 34.9
+      "ageHours": 36.9
     },
     {
       "title": "Teddy Schleifer on Elon Musk’s $500M Election Flop | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "zg6y2MMfOIg",
-      "viewsPerHour": 17128,
+      "viewsPerHour": 15480,
       "views": 322156,
-      "ageHours": 18.8
-    },
-    {
-      "title": "They Located FOUR Extraterrestrial Bases - Dr. Paul Smith | ep.106",
-      "channel": "Area 52",
-      "videoId": "bYEpMSSayKE",
-      "viewsPerHour": 7454,
-      "views": 46846,
-      "ageHours": 6.3
-    },
-    {
-      "title": "PBS News Hour full episode, Nov. 5, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "OWEQwyJYCJQ",
-      "viewsPerHour": 6071,
-      "views": 138736,
-      "ageHours": 22.9
+      "ageHours": 20.8
     },
     {
       "title": "Erica Chenoweth on the 3.5% Rule & Nonviolent Resistance | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "R4_kjdNnDlg",
-      "viewsPerHour": 5957,
+      "viewsPerHour": 5690,
       "views": 254899,
-      "ageHours": 42.8
+      "ageHours": 44.8
     },
     {
-      "title": "The Rainbow Under The Ocean",
-      "channel": "The Rest Is Science",
-      "videoId": "TD4tDKXfGc4",
-      "viewsPerHour": 5843,
-      "views": 275819,
-      "ageHours": 47.2
+      "title": "They Located FOUR Extraterrestrial Bases - Dr. Paul Smith | ep.106",
+      "channel": "Area 52",
+      "videoId": "bYEpMSSayKE",
+      "viewsPerHour": 5653,
+      "views": 46846,
+      "ageHours": 8.3
+    },
+    {
+      "title": "PBS News Hour full episode, Nov. 5, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "OWEQwyJYCJQ",
+      "viewsPerHour": 5582,
+      "views": 138736,
+      "ageHours": 24.9
     },
     {
       "title": "Hackers turned supermarket smart-fridges into heaters & no law makes them fix it",
       "channel": "Louis Rossmann",
       "videoId": "yR8H9hnRJkY",
-      "viewsPerHour": 2508,
+      "viewsPerHour": 2373,
       "views": 88356,
-      "ageHours": 35.2
+      "ageHours": 37.2
     },
     {
       "title": "We will hold them accountable': Rep.-elect on priorities for January",
       "channel": "MS NOW",
       "videoId": "ODcSW-3jFX0",
-      "viewsPerHour": 1084,
+      "viewsPerHour": 817,
       "views": 6643,
-      "ageHours": 6.1
+      "ageHours": 8.1
     },
     {
       "title": "Conan & Sona React To Matt Gourley's Secret \"Late Night\" Ad | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "niiOl84cMlA",
-      "viewsPerHour": 893,
+      "viewsPerHour": 701,
       "views": 6511,
-      "ageHours": 7.3
+      "ageHours": 9.3
     },
     {
       "title": "State lawmakers seek greater control over what universities can teach",
       "channel": "PBS NewsHour",
       "videoId": "hwxP9pDs8IQ",
-      "viewsPerHour": 632,
+      "viewsPerHour": 582,
       "views": 14641,
-      "ageHours": 23.2
+      "ageHours": 25.2
     },
     {
       "title": "On 'Settle In,' D.L. Hughley recounts his confrontation with Bill Cosby",
       "channel": "PBS NewsHour",
       "videoId": "jBe7HmLvDOo",
-      "viewsPerHour": 575,
+      "viewsPerHour": 529,
       "views": 13275,
-      "ageHours": 23.1
+      "ageHours": 25.1
     },
     {
       "title": "Interview: All of Physics in One Book with Hakeem Oluseyi | Particles of Thought",
       "channel": "NOVA",
       "videoId": "LuNdwUhdksQ",
-      "viewsPerHour": 510,
+      "viewsPerHour": 484,
       "views": 18518,
-      "ageHours": 36.3
+      "ageHours": 38.3
     },
     {
       "title": "What Actually Happens When Nobody Has to Work?",
       "channel": "Chris Lehto",
       "videoId": "GPfXfkin2FY",
-      "viewsPerHour": 471,
+      "viewsPerHour": 439,
       "views": 13124,
-      "ageHours": 27.9
+      "ageHours": 29.9
     },
     {
       "title": "Boston Marathon Bombing: As It Happened | Full Documentary",
       "channel": "Real Stories",
       "videoId": "b9GOS6L1bzY",
-      "viewsPerHour": 429,
+      "viewsPerHour": 402,
       "views": 12790,
-      "ageHours": 29.8
+      "ageHours": 31.8
     },
     {
       "title": "Conan Meets The Producer Of An Unauthorized \"Heated Rivalry\" Musical | Conan O'Brien Needs A Fan",
       "channel": "Conan O'Brien",
       "videoId": "jEjQgjXNeLA",
-      "viewsPerHour": 395,
+      "viewsPerHour": 373,
       "views": 13533,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
       "title": "UT professor pulls hit & run on my employee's car: cmon man.... ",
       "channel": "Louis Rossmann",
       "videoId": "ydVElnkdIGg",
-      "viewsPerHour": 246,
+      "viewsPerHour": 231,
       "views": 7586,
-      "ageHours": 30.9
+      "ageHours": 32.9
     },
     {
       "title": "Massive power grab:' new book profiles DOGE's purge of the civil service",
       "channel": "MS NOW",
       "videoId": "QpviE4hJibY",
-      "viewsPerHour": 185,
+      "viewsPerHour": 158,
       "views": 2202,
-      "ageHours": 11.9
+      "ageHours": 13.9
     },
     {
       "title": "Visionquest, Nocturne & What We're Watching Right Now | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "Yn7y56JgD6g",
-      "viewsPerHour": 143,
+      "viewsPerHour": 119,
       "views": 1467,
-      "ageHours": 10.3
+      "ageHours": 12.3
     },
     {
       "title": "WATCH LIVE: Blanche holds news conference on Model Cities Initiative as top DOJ officials resign",
       "channel": "PBS NewsHour",
       "videoId": "ZqO4vZe0YFg",
-      "viewsPerHour": 99,
+      "viewsPerHour": 80,
       "views": 804,
-      "ageHours": 8.1
+      "ageHours": 10.1
     },
     {
       "title": "Steven Yeun's Korean Fans Are Intense | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "NPUNDzAXPk8",
-      "viewsPerHour": 46,
+      "viewsPerHour": 43,
       "views": 1427,
-      "ageHours": 31.3
+      "ageHours": 33.3
     }
   ]
 }
