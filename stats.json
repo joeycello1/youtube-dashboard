@@ -1,24 +1,28 @@
 {
   "videosPerChannel": [
     {
+      "channel": "Louis Rossmann",
+      "count": 13
+    },
+    {
+      "channel": "Jeremy Corbell",
+      "count": 6
+    },
+    {
+      "channel": "MS NOW",
+      "count": 3
+    },
+    {
+      "channel": "History",
+      "count": 54
+    },
+    {
       "channel": "Real Stories",
       "count": 45
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 12
-    },
-    {
       "channel": "The Daily Show",
       "count": 15
-    },
-    {
-      "channel": "MS NOW",
-      "count": 1
-    },
-    {
-      "channel": "History",
-      "count": 53
     },
     {
       "channel": "More Perfect Union",
@@ -57,10 +61,6 @@
       "count": 8
     },
     {
-      "channel": "Jeremy Corbell",
-      "count": 4
-    },
-    {
       "channel": "Mayim Bialik",
       "count": 5
     },
@@ -79,6 +79,26 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "Louis Rossmann, AI",
+      "count": 1
+    },
+    {
+      "keyword": "Corbell, UFO, George Knapp, UAP",
+      "count": 1
+    },
+    {
+      "keyword": "MS NOW",
+      "count": 3
+    },
+    {
+      "keyword": "Corbell, UFO, anomalous, George Knapp, UAP, whistleblower",
+      "count": 1
+    },
+    {
+      "keyword": "NOVA",
+      "count": 40
+    },
+    {
       "keyword": "Real Stories, NOVA",
       "count": 1
     },
@@ -89,14 +109,6 @@
     {
       "keyword": "The Daily Show",
       "count": 13
-    },
-    {
-      "keyword": "MS NOW",
-      "count": 1
-    },
-    {
-      "keyword": "NOVA",
-      "count": 39
     },
     {
       "keyword": "More Perfect Union",
@@ -204,6 +216,10 @@
     }
   ],
   "dailySummary": [
+    {
+      "date": "2026-11-08",
+      "videos": 6
+    },
     {
       "date": "2026-11-07",
       "videos": 4
@@ -447,6 +463,26 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "Louis Rossmann, AI",
+      "matches": 1
+    },
+    {
+      "keyword": "Corbell, UFO, George Knapp, UAP",
+      "matches": 1
+    },
+    {
+      "keyword": "MS NOW",
+      "matches": 3
+    },
+    {
+      "keyword": "Corbell, UFO, anomalous, George Knapp, UAP, whistleblower",
+      "matches": 1
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 5
+    },
+    {
       "keyword": "Real Stories, NOVA",
       "matches": 1
     },
@@ -457,14 +493,6 @@
     {
       "keyword": "The Daily Show",
       "matches": 13
-    },
-    {
-      "keyword": "MS NOW",
-      "matches": 1
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 4
     },
     {
       "keyword": "More Perfect Union",
@@ -512,89 +540,121 @@
       "title": "Jon Stewart and The Best F**king News Team Cover the 2026 Midterm Elections | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "7BcWRwyYaYw",
-      "viewsPerHour": 94734,
-      "views": 2016782,
-      "ageHours": 21.3
-    },
-    {
-      "title": "Voters Stay Misinformed with AI, Elon Floats Flying Car & Robot Bodyguards Kick Ass | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "zDx4HyMOI2k",
-      "viewsPerHour": 15231,
-      "views": 714085,
-      "ageHours": 46.9
+      "viewsPerHour": 89761,
+      "views": 2090697,
+      "ageHours": 23.3
     },
     {
       "title": "What the Media is Missing About Democrats’ Midterm Victories",
       "channel": "More Perfect Union",
       "videoId": "LYLPCXBKvvo",
-      "viewsPerHour": 13678,
-      "views": 561617,
-      "ageHours": 41.1
+      "viewsPerHour": 13239,
+      "views": 570105,
+      "ageHours": 43.1
+    },
+    {
+      "title": "Trump wants ALL Alaska Senate votes given to GOP incumbent | Deadline: White House Weekly Highlights",
+      "channel": "MS NOW",
+      "videoId": "QfEEJYkxGCI",
+      "viewsPerHour": 12762,
+      "views": 156912,
+      "ageHours": 12.3
     },
     {
       "title": "They Located FOUR Extraterrestrial Bases - Dr. Paul Smith | ep.106",
       "channel": "Area 52",
       "videoId": "bYEpMSSayKE",
-      "viewsPerHour": 7663,
-      "views": 324048,
-      "ageHours": 42.3
+      "viewsPerHour": 7436,
+      "views": 329329,
+      "ageHours": 44.3
+    },
+    {
+      "title": "Trump REJECTS voter concerns with WH shakeup | The Beat with Ari Melber Weekly Highlights",
+      "channel": "MS NOW",
+      "videoId": "s-ld0eF3VBM",
+      "viewsPerHour": 7254,
+      "views": 81916,
+      "ageHours": 11.3
+    },
+    {
+      "title": "Did Midterms Just Change UFO Disclosure?",
+      "channel": "Jeremy Corbell",
+      "videoId": "vvZiSfzlHYU",
+      "viewsPerHour": 4842,
+      "views": 40164,
+      "ageHours": 8.3
+    },
+    {
+      "title": "BLUE WAVE sends a doctor to the Senate | All In with Chris Hayes Weekly Highlights",
+      "channel": "MS NOW",
+      "videoId": "SW4YIyngjDU",
+      "viewsPerHour": 4538,
+      "views": 46693,
+      "ageHours": 10.3
     },
     {
       "title": "Man buys ebook he's not allowed to read, can't get refund 🤦 ",
       "channel": "Louis Rossmann",
       "videoId": "GC9-U0q0cYI",
-      "viewsPerHour": 4129,
+      "viewsPerHour": 3925,
       "views": 159374,
-      "ageHours": 38.6
+      "ageHours": 40.6
     },
     {
-      "title": "Kamala Harris to Dems: 'Lead with RUTHLESSNESS' in fight against 'RECKLESS' Trump",
-      "channel": "MS NOW",
-      "videoId": "wakS4ABxPsI",
-      "viewsPerHour": 2109,
-      "views": 55775,
-      "ageHours": 26.4
+      "title": "Oak Island’s 200-Year Mystery | The Curse of Oak Island (S1, E1) | Full Episode",
+      "channel": "History",
+      "videoId": "UmT3Vt_6SOk",
+      "viewsPerHour": 2056,
+      "views": 29386,
+      "ageHours": 14.3
     },
     {
       "title": "Best Moments of Season 13 | The Curse of Oak Island",
       "channel": "History",
       "videoId": "IxNHOmwP6zQ",
-      "viewsPerHour": 1825,
-      "views": 73519,
-      "ageHours": 40.3
+      "viewsPerHour": 1750,
+      "views": 74009,
+      "ageHours": 42.3
+    },
+    {
+      "title": "\"WHO OWNS THE UFO ISSUE NOW?\"",
+      "channel": "Jeremy Corbell",
+      "videoId": "FUk5jFDgRiA",
+      "viewsPerHour": 1119,
+      "views": 13641,
+      "ageHours": 12.2
+    },
+    {
+      "title": "Etsy changes terms to train AI on your creations, while blocking you from doing that to them 🤡 ",
+      "channel": "Louis Rossmann",
+      "videoId": "zrlLUUdqDJI",
+      "viewsPerHour": 834,
+      "views": 1460,
+      "ageHours": 1.7
     },
     {
       "title": "Teen Exorcists in Ukraine: The Most Bizarre Exorcism Tour Ever Filmed",
       "channel": "Real Stories",
       "videoId": "v2JMdQZ3e1k",
-      "viewsPerHour": 594,
-      "views": 10269,
-      "ageHours": 17.3
+      "viewsPerHour": 553,
+      "views": 10661,
+      "ageHours": 19.3
     },
     {
       "title": "Conan & Sona React To Matt Gourley's Secret \"Late Night\" Ad | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "niiOl84cMlA",
-      "viewsPerHour": 150,
+      "viewsPerHour": 144,
       "views": 6511,
-      "ageHours": 43.3
+      "ageHours": 45.3
     },
     {
       "title": "Apple whistleblowers win, subscription scam ends. THANK YOU FOR REACHING OUT!",
       "channel": "Louis Rossmann",
       "videoId": "q4CxCRWB6rc",
-      "viewsPerHour": 128,
+      "viewsPerHour": 115,
       "views": 2278,
-      "ageHours": 17.9
-    },
-    {
-      "title": "Visionquest, Nocturne & What We're Watching Right Now | Bley's Arcade",
-      "channel": "Conan O'Brien",
-      "videoId": "Yn7y56JgD6g",
-      "viewsPerHour": 32,
-      "views": 1467,
-      "ageHours": 46.3
+      "ageHours": 19.9
     }
   ]
 }
