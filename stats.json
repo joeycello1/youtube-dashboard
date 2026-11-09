@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 6
+      "count": 3
     },
     {
       "channel": "The Daily Show",
@@ -80,7 +80,7 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 3
     },
     {
       "keyword": "The Daily Show",
@@ -218,7 +218,7 @@
   "dailySummary": [
     {
       "date": "2026-11-08",
-      "videos": 11
+      "videos": 8
     },
     {
       "date": "2026-11-07",
@@ -460,7 +460,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 3
     },
     {
       "keyword": "The Daily Show",
@@ -540,121 +540,97 @@
       "title": "Jon Stewart and The Best F**king News Team Cover the 2026 Midterm Elections | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "7BcWRwyYaYw",
-      "viewsPerHour": 60334,
+      "viewsPerHour": 57427,
       "views": 2371017,
-      "ageHours": 39.3
+      "ageHours": 41.3
     },
     {
       "title": "What Would Jon Stewart Be Doing if Not Comedy? Not Working for his Brother | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "wnU1TzSwIH0",
-      "viewsPerHour": 17108,
+      "viewsPerHour": 15139,
       "views": 261734,
-      "ageHours": 15.3
-    },
-    {
-      "title": "Trump wants ALL Alaska Senate votes given to GOP incumbent | Deadline: White House Weekly Highlights",
-      "channel": "MS NOW",
-      "videoId": "QfEEJYkxGCI",
-      "viewsPerHour": 5544,
-      "views": 156912,
-      "ageHours": 28.3
+      "ageHours": 17.3
     },
     {
       "title": "Georgia’s Next Governor on How Democrats Can Make Their Victory Last | The Interview",
       "channel": "The Interview",
       "videoId": "xs5kwuQcFgo",
-      "viewsPerHour": 4306,
+      "viewsPerHour": 3817,
       "views": 66936,
-      "ageHours": 15.5
-    },
-    {
-      "title": "This moment is ‘poetic justice’: MS Dem on Scott Colom’s Senate race lead",
-      "channel": "MS NOW",
-      "videoId": "4hVMQzTfHR4",
-      "viewsPerHour": 3077,
-      "views": 40319,
-      "ageHours": 13.1
-    },
-    {
-      "title": "Trump REJECTS voter concerns with WH shakeup | The Beat with Ari Melber Weekly Highlights",
-      "channel": "MS NOW",
-      "videoId": "s-ld0eF3VBM",
-      "viewsPerHour": 3001,
-      "views": 81916,
-      "ageHours": 27.3
+      "ageHours": 17.5
     },
     {
       "title": "Did Midterms Just Change UFO Disclosure?",
       "channel": "Jeremy Corbell",
       "videoId": "vvZiSfzlHYU",
-      "viewsPerHour": 2925,
+      "viewsPerHour": 2703,
       "views": 71070,
-      "ageHours": 24.3
+      "ageHours": 26.3
     },
     {
-      "title": "BLUE WAVE sends a doctor to the Senate | All In with Chris Hayes Weekly Highlights",
+      "title": "This moment is ‘poetic justice’: MS Dem on Scott Colom’s Senate race lead",
       "channel": "MS NOW",
-      "videoId": "SW4YIyngjDU",
-      "viewsPerHour": 1776,
-      "views": 46693,
-      "ageHours": 26.3
+      "videoId": "4hVMQzTfHR4",
+      "viewsPerHour": 2671,
+      "views": 40319,
+      "ageHours": 15.1
     },
     {
       "title": "Oak Island’s 200-Year Mystery | The Curse of Oak Island (S1, E1) | Full Episode",
       "channel": "History",
       "videoId": "UmT3Vt_6SOk",
-      "viewsPerHour": 1168,
+      "viewsPerHour": 1096,
       "views": 35392,
-      "ageHours": 30.3
+      "ageHours": 32.3
     },
     {
       "title": "\"WHO OWNS THE UFO ISSUE NOW?\"",
       "channel": "Jeremy Corbell",
       "videoId": "FUk5jFDgRiA",
-      "viewsPerHour": 572,
+      "viewsPerHour": 534,
       "views": 16127,
-      "ageHours": 28.2
+      "ageHours": 30.2
     },
     {
       "title": "Teen Exorcists in Ukraine: The Most Bizarre Exorcism Tour Ever Filmed",
       "channel": "Real Stories",
       "videoId": "v2JMdQZ3e1k",
-      "viewsPerHour": 348,
+      "viewsPerHour": 329,
       "views": 12272,
-      "ageHours": 35.3
+      "ageHours": 37.3
     },
     {
       "title": "‘We can walk and chew gum at the same time’: Dem Rep-Elect on corruption and affordability concerns",
       "channel": "MS NOW",
       "videoId": "OfvBJjY36eA",
-      "viewsPerHour": 199,
+      "viewsPerHour": 171,
       "views": 2446,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "Voters know ‘corruption is WHY prices are high’: Dem Rep-Elect on new Congress priorities",
       "channel": "MS NOW",
       "videoId": "9yR-AM7rrNY",
-      "viewsPerHour": 145,
+      "viewsPerHour": 126,
       "views": 1910,
-      "ageHours": 13.1
+      "ageHours": 15.1
     },
     {
       "title": "Etsy changes terms to train AI on your creations, while blocking you from doing that to them 🤡 ",
       "channel": "Louis Rossmann",
       "videoId": "zrlLUUdqDJI",
-      "viewsPerHour": 82,
+      "viewsPerHour": 74,
       "views": 1460,
-      "ageHours": 17.8
+      "ageHours": 19.7
     },
     {
       "title": "Apple whistleblowers win, subscription scam ends. THANK YOU FOR REACHING OUT!",
       "channel": "Louis Rossmann",
       "videoId": "q4CxCRWB6rc",
-      "viewsPerHour": 64,
+      "viewsPerHour": 60,
       "views": 2278,
-      "ageHours": 35.9
+      "ageHours": 37.9
     }
   ]
 }
