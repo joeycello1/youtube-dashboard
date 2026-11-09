@@ -2,7 +2,23 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 6
+      "count": 5
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 3
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 10
+    },
+    {
+      "channel": "NOVA",
+      "count": 24
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 12
     },
     {
       "channel": "Last Week Tonight",
@@ -22,7 +38,7 @@
     },
     {
       "channel": "Real Stories",
-      "count": 45
+      "count": 43
     },
     {
       "channel": "The Daily Show",
@@ -31,10 +47,6 @@
     {
       "channel": "The Interview",
       "count": 9
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 11
     },
     {
       "channel": "Jeremy Corbell",
@@ -47,14 +59,6 @@
     {
       "channel": "Area 52",
       "count": 6
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 10
-    },
-    {
-      "channel": "NOVA",
-      "count": 23
     },
     {
       "channel": "Diary of a CEO",
@@ -74,13 +78,29 @@
     },
     {
       "channel": "Jonathan Pie",
-      "count": 4
+      "count": 3
     }
   ],
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 5
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 3
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 10
+    },
+    {
+      "keyword": "NOVA",
+      "count": 40
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 11
     },
     {
       "keyword": "Last Week Tonight",
@@ -100,7 +120,7 @@
     },
     {
       "keyword": "Real Stories",
-      "count": 42
+      "count": 40
     },
     {
       "keyword": "The Daily Show",
@@ -123,16 +143,8 @@
       "count": 1
     },
     {
-      "keyword": "NOVA",
-      "count": 39
-    },
-    {
       "keyword": "Real Stories, NOVA",
       "count": 1
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 10
     },
     {
       "keyword": "More Perfect Union",
@@ -141,10 +153,6 @@
     {
       "keyword": "UAP, UFO",
       "count": 1
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 10
     },
     {
       "keyword": "The Daily Show, AI",
@@ -188,7 +196,7 @@
     },
     {
       "keyword": "Jonathan Pie",
-      "count": 4
+      "count": 3
     },
     {
       "keyword": "Real Stories, testimony",
@@ -218,11 +226,11 @@
   "dailySummary": [
     {
       "date": "2026-11-09",
-      "videos": 6
+      "videos": 14
     },
     {
       "date": "2026-11-08",
-      "videos": 11
+      "videos": 8
     },
     {
       "date": "2026-11-07",
@@ -258,7 +266,7 @@
     },
     {
       "date": "2026-10-30",
-      "videos": 8
+      "videos": 7
     },
     {
       "date": "2026-10-29",
@@ -454,7 +462,7 @@
     },
     {
       "date": "2026-09-10",
-      "videos": 4
+      "videos": 1
     },
     {
       "date": "2026-08-15",
@@ -464,6 +472,22 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
+      "matches": 5
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 3
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 6
+    },
+    {
+      "keyword": "Louis Rossmann",
       "matches": 6
     },
     {
@@ -488,7 +512,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "matches": 14
+      "matches": 13
     },
     {
       "keyword": "The Interview",
@@ -507,28 +531,16 @@
       "matches": 1
     },
     {
-      "keyword": "NOVA",
-      "matches": 5
-    },
-    {
       "keyword": "Real Stories, NOVA",
       "matches": 1
     },
     {
-      "keyword": "Louis Rossmann",
-      "matches": 5
-    },
-    {
       "keyword": "More Perfect Union",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "UAP, UFO",
       "matches": 1
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 7
     },
     {
       "keyword": "The Daily Show, AI",
@@ -540,161 +552,185 @@
       "title": "Pete Hegseth: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "LO5iHyYa0XM",
-      "viewsPerHour": 248073,
-      "views": 2428082,
-      "ageHours": 9.8
+      "viewsPerHour": 264839,
+      "views": 3121221,
+      "ageHours": 11.8
     },
     {
       "title": "S13 E29: Midterm Results & Pete Hegseth: 11/8/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "UlW28SlFO8k",
-      "viewsPerHour": 60519,
-      "views": 804689,
-      "ageHours": 13.3
+      "viewsPerHour": 58365,
+      "views": 892636,
+      "ageHours": 15.3
     },
     {
       "title": "What Would Jon Stewart Be Doing if Not Comedy? Not Working for his Brother | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "wnU1TzSwIH0",
-      "viewsPerHour": 23560,
-      "views": 642983,
-      "ageHours": 27.3
+      "viewsPerHour": 22805,
+      "views": 667945,
+      "ageHours": 29.3
     },
     {
       "title": "Why Does Evolution Keep Inventing Mind Control?",
       "channel": "The Rest Is Science",
       "videoId": "h6OQYb2jxRQ",
-      "viewsPerHour": 16507,
-      "views": 318445,
-      "ageHours": 19.3
+      "viewsPerHour": 16313,
+      "views": 347297,
+      "ageHours": 21.3
     },
     {
-      "title": "Bigfoot, Cyclops & History’s Legendary Creatures | In Search of Aliens",
-      "channel": "History",
-      "videoId": "UmQbZzE1oJs",
-      "viewsPerHour": 4432,
-      "views": 98777,
-      "ageHours": 22.3
+      "title": "Hackers set French blood bank freezers to heat to 110°C, alarms stopped it in time",
+      "channel": "Louis Rossmann",
+      "videoId": "KXkH2rzar_Q",
+      "viewsPerHour": 14995,
+      "views": 93223,
+      "ageHours": 6.2
     },
     {
       "title": "Georgia’s Next Governor on How Democrats Can Make Their Victory Last | The Interview",
       "channel": "The Interview",
       "videoId": "xs5kwuQcFgo",
-      "viewsPerHour": 4425,
-      "views": 121858,
-      "ageHours": 27.5
+      "viewsPerHour": 4221,
+      "views": 124669,
+      "ageHours": 29.5
+    },
+    {
+      "title": "Bigfoot, Cyclops & History’s Legendary Creatures | In Search of Aliens",
+      "channel": "History",
+      "videoId": "UmQbZzE1oJs",
+      "viewsPerHour": 4205,
+      "views": 102121,
+      "ageHours": 24.3
+    },
+    {
+      "title": "LISTEN LIVE: Supreme Court hears case on holding federal agents liable for violating Constitution",
+      "channel": "PBS NewsHour",
+      "videoId": "ldIP9SdZHvA",
+      "viewsPerHour": 3734,
+      "views": 16938,
+      "ageHours": 4.5
     },
     {
       "title": "Did Midterms Just Change UFO Disclosure?",
       "channel": "Jeremy Corbell",
       "videoId": "vvZiSfzlHYU",
-      "viewsPerHour": 2504,
-      "views": 90882,
-      "ageHours": 36.3
+      "viewsPerHour": 2419,
+      "views": 92622,
+      "ageHours": 38.3
     },
     {
-      "title": "‘Just kidding’: Trump CLAIMS offering Dana White the WH Press Secretary role was a ‘JOKE’",
-      "channel": "MS NOW",
-      "videoId": "XJW3lD52rag",
-      "viewsPerHour": 1803,
-      "views": 10760,
-      "ageHours": 6
-    },
-    {
-      "title": "Bad messaging': Trump DEFENDS Iran war amid nationwide ECONOMIC ANXIETY",
-      "channel": "MS NOW",
-      "videoId": "eYQzrGouIiE",
-      "viewsPerHour": 1616,
-      "views": 9831,
-      "ageHours": 6.1
+      "title": "Dustin Hoffman Part I (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "RMi372vmDQk",
+      "viewsPerHour": 2196,
+      "views": 7229,
+      "ageHours": 3.3
     },
     {
       "title": "Malcolm Gladwell Has A Challenge For America",
       "channel": "MS NOW",
       "videoId": "Vrju5DCJoF0",
-      "viewsPerHour": 1611,
+      "viewsPerHour": 1400,
       "views": 21404,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
-      "title": "This moment is ‘poetic justice’: MS Dem on Scott Colom’s Senate race lead",
+      "title": "‘Just kidding’: Trump CLAIMS offering Dana White the WH Press Secretary role was a ‘JOKE’",
       "channel": "MS NOW",
-      "videoId": "4hVMQzTfHR4",
-      "viewsPerHour": 1607,
-      "views": 40319,
-      "ageHours": 25.1
+      "videoId": "XJW3lD52rag",
+      "viewsPerHour": 1351,
+      "views": 10760,
+      "ageHours": 8
+    },
+    {
+      "title": "Bad messaging': Trump DEFENDS Iran war amid nationwide ECONOMIC ANXIETY",
+      "channel": "MS NOW",
+      "videoId": "eYQzrGouIiE",
+      "viewsPerHour": 1216,
+      "views": 9831,
+      "ageHours": 8.1
     },
     {
       "title": "Oak Island’s 200-Year Mystery | The Curse of Oak Island (S1, E1) | Full Episode",
       "channel": "History",
       "videoId": "UmT3Vt_6SOk",
-      "viewsPerHour": 943,
-      "views": 39864,
-      "ageHours": 42.3
+      "viewsPerHour": 903,
+      "views": 39999,
+      "ageHours": 44.3
+    },
+    {
+      "title": "WATCH LIVE: House returns to Washington after blowout election for Democrats",
+      "channel": "PBS NewsHour",
+      "videoId": "faweL0xlwAE",
+      "viewsPerHour": 881,
+      "views": 3790,
+      "ageHours": 4.3
     },
     {
       "title": "World's Heaviest Woman: Renee's Battle With Obesity and Her Final Hope",
       "channel": "Real Stories",
       "videoId": "yVMZJ4FFfnA",
-      "viewsPerHour": 879,
-      "views": 20465,
-      "ageHours": 23.3
+      "viewsPerHour": 825,
+      "views": 20857,
+      "ageHours": 25.3
+    },
+    {
+      "title": "WATCH LIVE: Hegseth speaks at the Naval War College as possible impeachment vote looms",
+      "channel": "PBS NewsHour",
+      "videoId": "bEgAnGqLZZY",
+      "viewsPerHour": 647,
+      "views": 1654,
+      "ageHours": 2.6
+    },
+    {
+      "title": "WATCH: Peter asks Maryland Gov. Wes Moore about his plans for 2028",
+      "channel": "MS NOW",
+      "videoId": "Ec7wUbMND8M",
+      "viewsPerHour": 487,
+      "views": 911,
+      "ageHours": 1.9
     },
     {
       "title": "\"WHO OWNS THE UFO ISSUE NOW?\"",
       "channel": "Jeremy Corbell",
       "videoId": "FUk5jFDgRiA",
-      "viewsPerHour": 434,
-      "views": 17456,
-      "ageHours": 40.2
-    },
-    {
-      "title": "Teen Exorcists in Ukraine: The Most Bizarre Exorcism Tour Ever Filmed",
-      "channel": "Real Stories",
-      "videoId": "v2JMdQZ3e1k",
-      "viewsPerHour": 284,
-      "views": 13439,
-      "ageHours": 47.3
+      "viewsPerHour": 415,
+      "views": 17504,
+      "ageHours": 42.2
     },
     {
       "title": "The Hidden Math Controlling How Fast You Walk",
       "channel": "Chris Lehto",
       "videoId": "6VBRJgmLz7g",
-      "viewsPerHour": 189,
-      "views": 3084,
-      "ageHours": 16.4
+      "viewsPerHour": 181,
+      "views": 3326,
+      "ageHours": 18.4
     },
     {
-      "title": "‘We can walk and chew gum at the same time’: Dem Rep-Elect on corruption and affordability concerns",
+      "title": "Julia Louis-Dreyfus on making her Broadway debut with Allison Janney in 'Other Dessert Cities'",
       "channel": "MS NOW",
-      "videoId": "OfvBJjY36eA",
-      "viewsPerHour": 101,
-      "views": 2446,
-      "ageHours": 24.3
-    },
-    {
-      "title": "Voters know ‘corruption is WHY prices are high’: Dem Rep-Elect on new Congress priorities",
-      "channel": "MS NOW",
-      "videoId": "9yR-AM7rrNY",
-      "viewsPerHour": 76,
-      "views": 1910,
-      "ageHours": 25.1
+      "videoId": "EV58FvGFHjo",
+      "viewsPerHour": 141,
+      "views": 243,
+      "ageHours": 1.7
     },
     {
       "title": "Etsy changes terms to train AI on your creations, while blocking you from doing that to them 🤡 ",
       "channel": "Louis Rossmann",
       "videoId": "zrlLUUdqDJI",
-      "viewsPerHour": 49,
+      "viewsPerHour": 46,
       "views": 1460,
-      "ageHours": 29.7
+      "ageHours": 31.7
     },
     {
-      "title": "Apple whistleblowers win, subscription scam ends. THANK YOU FOR REACHING OUT!",
-      "channel": "Louis Rossmann",
-      "videoId": "q4CxCRWB6rc",
-      "viewsPerHour": 48,
-      "views": 2278,
-      "ageHours": 47.9
+      "title": "Evolution: On the Run | Full Documentary | NOVA | PBS",
+      "channel": "NOVA",
+      "videoId": "KZPkIyqCod8",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 3.5
     }
   ]
 }
