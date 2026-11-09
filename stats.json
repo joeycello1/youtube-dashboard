@@ -2,7 +2,27 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 3
+      "count": 6
+    },
+    {
+      "channel": "Last Week Tonight",
+      "count": 6
+    },
+    {
+      "channel": "Chris Lehto",
+      "count": 12
+    },
+    {
+      "channel": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "channel": "History",
+      "count": 55
+    },
+    {
+      "channel": "Real Stories",
+      "count": 45
     },
     {
       "channel": "The Daily Show",
@@ -21,14 +41,6 @@
       "count": 6
     },
     {
-      "channel": "History",
-      "count": 54
-    },
-    {
-      "channel": "Real Stories",
-      "count": 44
-    },
-    {
       "channel": "More Perfect Union",
       "count": 27
     },
@@ -41,24 +53,12 @@
       "count": 10
     },
     {
-      "channel": "Chris Lehto",
-      "count": 11
-    },
-    {
       "channel": "NOVA",
-      "count": 24
-    },
-    {
-      "channel": "The Rest Is Science",
-      "count": 4
+      "count": 23
     },
     {
       "channel": "Diary of a CEO",
       "count": 2
-    },
-    {
-      "channel": "Last Week Tonight",
-      "count": 4
     },
     {
       "channel": "Mayim Bialik",
@@ -80,7 +80,27 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 3
+      "count": 6
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "count": 6
+    },
+    {
+      "keyword": "AI",
+      "count": 11
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "keyword": "UFO",
+      "count": 42
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 42
     },
     {
       "keyword": "The Daily Show",
@@ -104,7 +124,7 @@
     },
     {
       "keyword": "NOVA",
-      "count": 40
+      "count": 39
     },
     {
       "keyword": "Real Stories, NOVA",
@@ -131,28 +151,8 @@
       "count": 1
     },
     {
-      "keyword": "AI",
-      "count": 10
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 41
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "count": 4
-    },
-    {
-      "keyword": "UFO",
-      "count": 41
-    },
-    {
       "keyword": "AI, artificial intelligence",
       "count": 2
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "count": 4
     },
     {
       "keyword": "More Perfect Union, AI",
@@ -217,8 +217,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-11-09",
+      "videos": 6
+    },
+    {
       "date": "2026-11-08",
-      "videos": 8
+      "videos": 11
     },
     {
       "date": "2026-11-07",
@@ -450,7 +454,7 @@
     },
     {
       "date": "2026-09-10",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-08-15",
@@ -460,6 +464,26 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
+      "matches": 6
+    },
+    {
+      "keyword": "Last Week Tonight",
+      "matches": 2
+    },
+    {
+      "keyword": "AI",
+      "matches": 4
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "matches": 2
+    },
+    {
+      "keyword": "UFO",
+      "matches": 2
+    },
+    {
+      "keyword": "Real Stories",
       "matches": 3
     },
     {
@@ -504,125 +528,181 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "The Daily Show, AI",
-      "matches": 1
-    },
-    {
-      "keyword": "AI",
-      "matches": 3
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 2
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "matches": 1
-    },
-    {
-      "keyword": "UFO",
       "matches": 1
     }
   ],
   "mostViral48h": [
     {
+      "title": "Pete Hegseth: Last Week Tonight with John Oliver (HBO)",
+      "channel": "Last Week Tonight",
+      "videoId": "LO5iHyYa0XM",
+      "viewsPerHour": 170708,
+      "views": 987849,
+      "ageHours": 5.8
+    },
+    {
+      "title": "S13 E29: Midterm Results & Pete Hegseth: 11/8/26: Last Week Tonight with John Oliver",
+      "channel": "Last Week Tonight",
+      "videoId": "UlW28SlFO8k",
+      "viewsPerHour": 63642,
+      "views": 591581,
+      "ageHours": 9.3
+    },
+    {
       "title": "Jon Stewart and The Best F**king News Team Cover the 2026 Midterm Elections | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "7BcWRwyYaYw",
-      "viewsPerHour": 59250,
-      "views": 2683293,
-      "ageHours": 45.3
+      "viewsPerHour": 57225,
+      "views": 2706146,
+      "ageHours": 47.3
     },
     {
       "title": "What Would Jon Stewart Be Doing if Not Comedy? Not Working for his Brother | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "wnU1TzSwIH0",
-      "viewsPerHour": 25769,
-      "views": 548606,
-      "ageHours": 21.3
+      "viewsPerHour": 24748,
+      "views": 576401,
+      "ageHours": 23.3
+    },
+    {
+      "title": "Why Does Evolution Keep Inventing Mind Control?",
+      "channel": "The Rest Is Science",
+      "videoId": "h6OQYb2jxRQ",
+      "viewsPerHour": 16394,
+      "views": 250680,
+      "ageHours": 15.3
+    },
+    {
+      "title": "‘Just kidding’: Trump CLAIMS offering Dana White the WH Press Secretary role was a ‘JOKE’",
+      "channel": "MS NOW",
+      "videoId": "XJW3lD52rag",
+      "viewsPerHour": 5466,
+      "views": 10760,
+      "ageHours": 2
     },
     {
       "title": "Georgia’s Next Governor on How Democrats Can Make Their Victory Last | The Interview",
       "channel": "The Interview",
       "videoId": "xs5kwuQcFgo",
-      "viewsPerHour": 5201,
-      "views": 112001,
-      "ageHours": 21.5
+      "viewsPerHour": 4861,
+      "views": 114419,
+      "ageHours": 23.5
+    },
+    {
+      "title": "Bigfoot, Cyclops & History’s Legendary Creatures | In Search of Aliens",
+      "channel": "History",
+      "videoId": "UmQbZzE1oJs",
+      "viewsPerHour": 4836,
+      "views": 88445,
+      "ageHours": 18.3
+    },
+    {
+      "title": "Bad messaging': Trump DEFENDS Iran war amid nationwide ECONOMIC ANXIETY",
+      "channel": "MS NOW",
+      "videoId": "eYQzrGouIiE",
+      "viewsPerHour": 4719,
+      "views": 9831,
+      "ageHours": 2.1
     },
     {
       "title": "Did Midterms Just Change UFO Disclosure?",
       "channel": "Jeremy Corbell",
       "videoId": "vvZiSfzlHYU",
-      "viewsPerHour": 2866,
-      "views": 86807,
-      "ageHours": 30.3
+      "viewsPerHour": 2731,
+      "views": 88203,
+      "ageHours": 32.3
+    },
+    {
+      "title": "Malcolm Gladwell Has A Challenge For America",
+      "channel": "MS NOW",
+      "videoId": "Vrju5DCJoF0",
+      "viewsPerHour": 2305,
+      "views": 21404,
+      "ageHours": 9.3
     },
     {
       "title": "This moment is ‘poetic justice’: MS Dem on Scott Colom’s Senate race lead",
       "channel": "MS NOW",
       "videoId": "4hVMQzTfHR4",
-      "viewsPerHour": 2112,
+      "viewsPerHour": 1911,
       "views": 40319,
-      "ageHours": 19.1
+      "ageHours": 21.1
     },
     {
       "title": "Oak Island’s 200-Year Mystery | The Curse of Oak Island (S1, E1) | Full Episode",
       "channel": "History",
       "videoId": "UmT3Vt_6SOk",
-      "viewsPerHour": 1081,
-      "views": 39219,
-      "ageHours": 36.3
+      "viewsPerHour": 1029,
+      "views": 39404,
+      "ageHours": 38.3
+    },
+    {
+      "title": "World's Heaviest Woman: Renee's Battle With Obesity and Her Final Hope",
+      "channel": "Real Stories",
+      "videoId": "yVMZJ4FFfnA",
+      "viewsPerHour": 964,
+      "views": 18603,
+      "ageHours": 19.3
     },
     {
       "title": "\"WHO OWNS THE UFO ISSUE NOW?\"",
       "channel": "Jeremy Corbell",
       "videoId": "FUk5jFDgRiA",
-      "viewsPerHour": 503,
-      "views": 17206,
-      "ageHours": 34.2
+      "viewsPerHour": 476,
+      "views": 17231,
+      "ageHours": 36.2
     },
     {
       "title": "Teen Exorcists in Ukraine: The Most Bizarre Exorcism Tour Ever Filmed",
       "channel": "Real Stories",
       "videoId": "v2JMdQZ3e1k",
-      "viewsPerHour": 322,
-      "views": 13282,
-      "ageHours": 41.3
+      "viewsPerHour": 307,
+      "views": 13284,
+      "ageHours": 43.3
+    },
+    {
+      "title": "The Hidden Math Controlling How Fast You Walk",
+      "channel": "Chris Lehto",
+      "videoId": "6VBRJgmLz7g",
+      "viewsPerHour": 197,
+      "views": 2435,
+      "ageHours": 12.4
     },
     {
       "title": "‘We can walk and chew gum at the same time’: Dem Rep-Elect on corruption and affordability concerns",
       "channel": "MS NOW",
       "videoId": "OfvBJjY36eA",
-      "viewsPerHour": 134,
+      "viewsPerHour": 120,
       "views": 2446,
-      "ageHours": 18.3
+      "ageHours": 20.3
     },
     {
       "title": "Voters know ‘corruption is WHY prices are high’: Dem Rep-Elect on new Congress priorities",
       "channel": "MS NOW",
       "videoId": "9yR-AM7rrNY",
-      "viewsPerHour": 100,
+      "viewsPerHour": 90,
       "views": 1910,
-      "ageHours": 19.1
+      "ageHours": 21.1
     },
     {
       "title": "Etsy changes terms to train AI on your creations, while blocking you from doing that to them 🤡 ",
       "channel": "Louis Rossmann",
       "videoId": "zrlLUUdqDJI",
-      "viewsPerHour": 61,
+      "viewsPerHour": 57,
       "views": 1460,
-      "ageHours": 23.7
+      "ageHours": 25.7
     },
     {
       "title": "Apple whistleblowers win, subscription scam ends. THANK YOU FOR REACHING OUT!",
       "channel": "Louis Rossmann",
       "videoId": "q4CxCRWB6rc",
-      "viewsPerHour": 54,
+      "viewsPerHour": 52,
       "views": 2278,
-      "ageHours": 41.9
+      "ageHours": 43.9
     }
   ]
 }
