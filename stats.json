@@ -5,20 +5,20 @@
       "count": 5
     },
     {
-      "channel": "The Daily Show",
-      "count": 14
+      "channel": "Conan O'Brien",
+      "count": 11
     },
     {
       "channel": "PBS NewsHour",
       "count": 5
     },
     {
-      "channel": "Conan O'Brien",
-      "count": 9
+      "channel": "NOVA",
+      "count": 25
     },
     {
-      "channel": "NOVA",
-      "count": 24
+      "channel": "The Daily Show",
+      "count": 14
     },
     {
       "channel": "Louis Rossmann",
@@ -38,11 +38,11 @@
     },
     {
       "channel": "History",
-      "count": 55
+      "count": 54
     },
     {
       "channel": "Real Stories",
-      "count": 43
+      "count": 42
     },
     {
       "channel": "The Interview",
@@ -58,7 +58,7 @@
     },
     {
       "channel": "Area 52",
-      "count": 6
+      "count": 5
     },
     {
       "channel": "Diary of a CEO",
@@ -74,7 +74,7 @@
     },
     {
       "channel": "Nat Geo",
-      "count": 2
+      "count": 1
     },
     {
       "channel": "Jonathan Pie",
@@ -87,6 +87,18 @@
       "count": 5
     },
     {
+      "keyword": "Conan O'Brien",
+      "count": 11
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 4
+    },
+    {
+      "keyword": "NOVA",
+      "count": 40
+    },
+    {
       "keyword": "The Daily Show, MS NOW",
       "count": 1
     },
@@ -97,18 +109,6 @@
     {
       "keyword": "PBS NewsHour, AI",
       "count": 1
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 4
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 9
-    },
-    {
-      "keyword": "NOVA",
-      "count": 40
     },
     {
       "keyword": "Louis Rossmann",
@@ -128,11 +128,11 @@
     },
     {
       "keyword": "UFO",
-      "count": 42
+      "count": 41
     },
     {
       "keyword": "Real Stories",
-      "count": 40
+      "count": 38
     },
     {
       "keyword": "The Interview",
@@ -234,11 +234,11 @@
   "dailySummary": [
     {
       "date": "2026-11-10",
-      "videos": 8
+      "videos": 16
     },
     {
       "date": "2026-11-09",
-      "videos": 11
+      "videos": 6
     },
     {
       "date": "2026-11-08",
@@ -470,7 +470,7 @@
     },
     {
       "date": "2026-09-11",
-      "videos": 5
+      "videos": 1
     },
     {
       "date": "2026-08-15",
@@ -483,6 +483,18 @@
       "matches": 5
     },
     {
+      "keyword": "Conan O'Brien",
+      "matches": 9
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 4
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 6
+    },
+    {
       "keyword": "The Daily Show, MS NOW",
       "matches": 1
     },
@@ -493,18 +505,6 @@
     {
       "keyword": "PBS NewsHour, AI",
       "matches": 1
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 4
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 7
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 5
     },
     {
       "keyword": "Louis Rossmann",
@@ -528,7 +528,7 @@
     },
     {
       "keyword": "Real Stories",
-      "matches": 3
+      "matches": 2
     },
     {
       "keyword": "The Interview",
@@ -568,169 +568,177 @@
       "title": "Trump Hopes for Heaven on \"60 Minutes\" & Stephen Miller Becomes Chief of Staff | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "wrAuG5d2pvI",
-      "viewsPerHour": 314275,
-      "views": 4179778,
-      "ageHours": 13.3
+      "viewsPerHour": 318175,
+      "views": 4873721,
+      "ageHours": 15.3
     },
     {
       "title": "Pete Hegseth: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "LO5iHyYa0XM",
-      "viewsPerHour": 190599,
-      "views": 6441404,
-      "ageHours": 33.8
+      "viewsPerHour": 185141,
+      "views": 6630552,
+      "ageHours": 35.8
     },
     {
       "title": "Rachel Maddow on the Midterms & Examining the DOJ in “Department of Fate” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "0Tglmmk6epY",
-      "viewsPerHour": 94059,
-      "views": 1204118,
-      "ageHours": 12.8
+      "viewsPerHour": 99569,
+      "views": 1475586,
+      "ageHours": 14.8
     },
     {
       "title": "S13 E29: Midterm Results & Pete Hegseth: 11/8/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "UlW28SlFO8k",
-      "viewsPerHour": 35093,
-      "views": 1309120,
-      "ageHours": 37.3
+      "viewsPerHour": 34027,
+      "views": 1338022,
+      "ageHours": 39.3
     },
     {
       "title": "Precap: The Midterms Have Desi Lydic Feeling the \"Opposite of Despair\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "otNdvBqWKeU",
-      "viewsPerHour": 20326,
-      "views": 296121,
-      "ageHours": 14.6
+      "viewsPerHour": 19206,
+      "views": 318561,
+      "ageHours": 16.6
     },
     {
       "title": "Why Does Evolution Keep Inventing Mind Control?",
       "channel": "The Rest Is Science",
       "videoId": "h6OQYb2jxRQ",
-      "viewsPerHour": 12377,
-      "views": 535910,
-      "ageHours": 43.3
+      "viewsPerHour": 12157,
+      "views": 550905,
+      "ageHours": 45.3
+    },
+    {
+      "title": "WATCH LIVE: House expected to hold preliminary Hegseth impeachment vote as GOP chooses next leader",
+      "channel": "PBS NewsHour",
+      "videoId": "-ssZgDUn1cA",
+      "viewsPerHour": 8893,
+      "views": 44810,
+      "ageHours": 5
     },
     {
       "title": "PBS News Hour full episode, Nov. 9, 2026",
       "channel": "PBS NewsHour",
       "videoId": "nvOuuuy9Y00",
-      "viewsPerHour": 7728,
+      "viewsPerHour": 6905,
       "views": 130825,
-      "ageHours": 16.9
+      "ageHours": 18.9
+    },
+    {
+      "title": "Conan Tries To Name New Kids On The Block Songs | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "sLuyszpJnfs",
+      "viewsPerHour": 3166,
+      "views": 19995,
+      "ageHours": 6.3
+    },
+    {
+      "title": "Push to impeach Hegseth will make Trump 'double down' on his support: Lemire",
+      "channel": "MS NOW",
+      "videoId": "6dtGVcK43ko",
+      "viewsPerHour": 3155,
+      "views": 5999,
+      "ageHours": 1.9
     },
     {
       "title": "Hackers set French blood bank freezers to heat to 110°C, alarms stopped it in time",
       "channel": "Louis Rossmann",
       "videoId": "KXkH2rzar_Q",
-      "viewsPerHour": 3303,
+      "viewsPerHour": 3082,
       "views": 93223,
-      "ageHours": 28.2
-    },
-    {
-      "title": "Bigfoot, Cyclops & History’s Legendary Creatures | In Search of Aliens",
-      "channel": "History",
-      "videoId": "UmQbZzE1oJs",
-      "viewsPerHour": 2730,
-      "views": 126386,
-      "ageHours": 46.3
+      "ageHours": 30.2
     },
     {
       "title": "DOJ HAS WITHERED' under Donald Trump, Rachel Maddow says of her new book",
       "channel": "MS NOW",
       "videoId": "bR1vvYCbxlc",
-      "viewsPerHour": 2592,
+      "viewsPerHour": 2184,
       "views": 27990,
-      "ageHours": 10.8
+      "ageHours": 12.8
+    },
+    {
+      "title": "Could Being Too Clean Make Us Sick? | NOVA | PBS",
+      "channel": "NOVA",
+      "videoId": "gajt1kSxdYM",
+      "viewsPerHour": 1762,
+      "views": 7599,
+      "ageHours": 4.3
     },
     {
       "title": "MS NOW reacts to GOP Rep. Massie’s impeachment articles against Hegseth | COMPILATION",
       "channel": "MS NOW",
       "videoId": "l9vR1ppUZug",
-      "viewsPerHour": 2018,
+      "viewsPerHour": 1581,
       "views": 14726,
-      "ageHours": 7.3
-    },
-    {
-      "title": "Trump makes BASELESS election 'FRAUD' claims after saying he would accept the results",
-      "channel": "MS NOW",
-      "videoId": "sDsMXfilvKY",
-      "viewsPerHour": 1673,
-      "views": 10425,
-      "ageHours": 6.2
+      "ageHours": 9.3
     },
     {
       "title": "WATCH LIVE: Senate returns to Capitol Hill days after Democrats win back control",
       "channel": "PBS NewsHour",
       "videoId": "9c14zjOzPu4",
-      "viewsPerHour": 1507,
+      "viewsPerHour": 1347,
       "views": 25671,
-      "ageHours": 17
+      "ageHours": 19.1
     },
     {
-      "title": "LISTEN LIVE: Supreme Court hears case on holding federal agents liable for violating Constitution",
+      "title": "Trump makes BASELESS election 'FRAUD' claims after saying he would accept the results",
+      "channel": "MS NOW",
+      "videoId": "sDsMXfilvKY",
+      "viewsPerHour": 1264,
+      "views": 10425,
+      "ageHours": 8.2
+    },
+    {
+      "title": "Character was on the ballot': Dem who flipped scandal-plagued Max Miller's seat",
+      "channel": "MS NOW",
+      "videoId": "VObhn94GUmE",
+      "viewsPerHour": 672,
+      "views": 1255,
+      "ageHours": 1.9
+    },
+    {
+      "title": "WATCH LIVE: House Democrats may address Hegseth impeachment push, priorities for next Congress",
       "channel": "PBS NewsHour",
-      "videoId": "ldIP9SdZHvA",
-      "viewsPerHour": 638,
-      "views": 16938,
-      "ageHours": 26.5
+      "videoId": "7yNUD2Uf0No",
+      "viewsPerHour": 559,
+      "views": 1687,
+      "ageHours": 3
     },
     {
-      "title": "World's Heaviest Woman: Renee's Battle With Obesity and Her Final Hope",
-      "channel": "Real Stories",
-      "videoId": "yVMZJ4FFfnA",
-      "viewsPerHour": 561,
-      "views": 26525,
-      "ageHours": 47.3
+      "title": "WATCH LIVE: Senate considers bills on permitting, survivor justice as GOP mulls future leadership",
+      "channel": "PBS NewsHour",
+      "videoId": "oGVlSxzwD0I",
+      "viewsPerHour": 558,
+      "views": 1630,
+      "ageHours": 2.9
+    },
+    {
+      "title": "A Broadway Producer Pitches \"Conan O'Brien Needs A Friend: The Musical\" (Full Episode)",
+      "channel": "Conan O'Brien",
+      "videoId": "RTHkJZ0FnFI",
+      "viewsPerHour": 432,
+      "views": 1000,
+      "ageHours": 2.3
     },
     {
       "title": "Dustin Hoffman Part I (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "RMi372vmDQk",
-      "viewsPerHour": 286,
+      "viewsPerHour": 265,
       "views": 7229,
-      "ageHours": 25.3
-    },
-    {
-      "title": "WATCH LIVE: House returns to Washington after blowout election for Democrats",
-      "channel": "PBS NewsHour",
-      "videoId": "faweL0xlwAE",
-      "viewsPerHour": 144,
-      "views": 3790,
-      "ageHours": 26.3
+      "ageHours": 27.3
     },
     {
       "title": "The Hidden Math Controlling How Fast You Walk",
       "channel": "Chris Lehto",
       "videoId": "6VBRJgmLz7g",
-      "viewsPerHour": 102,
-      "views": 4107,
-      "ageHours": 40.4
-    },
-    {
-      "title": "WATCH LIVE: Hegseth speaks at the Naval War College as possible impeachment vote looms",
-      "channel": "PBS NewsHour",
-      "videoId": "bEgAnGqLZZY",
-      "viewsPerHour": 67,
-      "views": 1654,
-      "ageHours": 24.6
-    },
-    {
-      "title": "WATCH: Peter asks Maryland Gov. Wes Moore about his plans for 2028",
-      "channel": "MS NOW",
-      "videoId": "Ec7wUbMND8M",
-      "viewsPerHour": 38,
-      "views": 911,
-      "ageHours": 23.9
-    },
-    {
-      "title": "Julia Louis-Dreyfus on making her Broadway debut with Allison Janney in 'Other Dessert Cities'",
-      "channel": "MS NOW",
-      "videoId": "EV58FvGFHjo",
-      "viewsPerHour": 10,
-      "views": 243,
-      "ageHours": 23.7
+      "viewsPerHour": 98,
+      "views": 4167,
+      "ageHours": 42.4
     },
     {
       "title": "Evolution: On the Run | Full Documentary | NOVA | PBS",
@@ -738,7 +746,7 @@
       "videoId": "KZPkIyqCod8",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 25.5
+      "ageHours": 27.5
     }
   ]
 }
