@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 5
+      "count": 4
     },
     {
       "channel": "PBS NewsHour",
@@ -22,7 +22,7 @@
     },
     {
       "channel": "Last Week Tonight",
-      "count": 6
+      "count": 5
     },
     {
       "channel": "Chris Lehto",
@@ -42,7 +42,7 @@
     },
     {
       "channel": "The Daily Show",
-      "count": 14
+      "count": 11
     },
     {
       "channel": "The Interview",
@@ -84,7 +84,7 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 5
+      "count": 4
     },
     {
       "keyword": "PBS NewsHour",
@@ -104,7 +104,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "count": 6
+      "count": 5
     },
     {
       "keyword": "AI",
@@ -124,7 +124,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "count": 13
+      "count": 10
     },
     {
       "keyword": "The Interview",
@@ -226,7 +226,7 @@
   "dailySummary": [
     {
       "date": "2026-11-09",
-      "videos": 14
+      "videos": 13
     },
     {
       "date": "2026-11-08",
@@ -250,7 +250,7 @@
     },
     {
       "date": "2026-11-03",
-      "videos": 8
+      "videos": 5
     },
     {
       "date": "2026-11-02",
@@ -282,7 +282,7 @@
     },
     {
       "date": "2026-10-26",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-10-25",
@@ -468,7 +468,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "PBS NewsHour",
@@ -548,153 +548,145 @@
       "title": "Pete Hegseth: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "LO5iHyYa0XM",
-      "viewsPerHour": 195240,
+      "viewsPerHour": 178835,
       "views": 4253902,
-      "ageHours": 21.8
+      "ageHours": 23.8
     },
     {
       "title": "S13 E29: Midterm Results & Pete Hegseth: 11/8/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "UlW28SlFO8k",
-      "viewsPerHour": 42692,
+      "viewsPerHour": 39566,
       "views": 1079962,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
       "title": "What Would Jon Stewart Be Doing if Not Comedy? Not Working for his Brother | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "wnU1TzSwIH0",
-      "viewsPerHour": 18449,
+      "viewsPerHour": 17556,
       "views": 724893,
-      "ageHours": 39.3
+      "ageHours": 41.3
     },
     {
       "title": "Why Does Evolution Keep Inventing Mind Control?",
       "channel": "The Rest Is Science",
       "videoId": "h6OQYb2jxRQ",
-      "viewsPerHour": 13982,
+      "viewsPerHour": 13143,
       "views": 437536,
-      "ageHours": 31.3
+      "ageHours": 33.3
     },
     {
       "title": "Hackers set French blood bank freezers to heat to 110°C, alarms stopped it in time",
       "channel": "Louis Rossmann",
       "videoId": "KXkH2rzar_Q",
-      "viewsPerHour": 5747,
+      "viewsPerHour": 5117,
       "views": 93223,
-      "ageHours": 16.2
+      "ageHours": 18.2
     },
     {
       "title": "Georgia’s Next Governor on How Democrats Can Make Their Victory Last | The Interview",
       "channel": "The Interview",
       "videoId": "xs5kwuQcFgo",
-      "viewsPerHour": 3311,
+      "viewsPerHour": 3152,
       "views": 130910,
-      "ageHours": 39.5
+      "ageHours": 41.5
     },
     {
       "title": "Bigfoot, Cyclops & History’s Legendary Creatures | In Search of Aliens",
       "channel": "History",
       "videoId": "UmQbZzE1oJs",
-      "viewsPerHour": 3174,
+      "viewsPerHour": 3000,
       "views": 108849,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
       "title": "LISTEN LIVE: Supreme Court hears case on holding federal agents liable for violating Constitution",
       "channel": "PBS NewsHour",
       "videoId": "ldIP9SdZHvA",
-      "viewsPerHour": 1165,
+      "viewsPerHour": 1024,
       "views": 16938,
-      "ageHours": 14.5
-    },
-    {
-      "title": "Malcolm Gladwell Has A Challenge For America",
-      "channel": "MS NOW",
-      "videoId": "Vrju5DCJoF0",
-      "viewsPerHour": 846,
-      "views": 21404,
-      "ageHours": 25.3
+      "ageHours": 16.5
     },
     {
       "title": "World's Heaviest Woman: Renee's Battle With Obesity and Her Final Hope",
       "channel": "Real Stories",
       "videoId": "yVMZJ4FFfnA",
-      "viewsPerHour": 627,
+      "viewsPerHour": 593,
       "views": 22118,
-      "ageHours": 35.3
+      "ageHours": 37.3
     },
     {
       "title": "‘Just kidding’: Trump CLAIMS offering Dana White the WH Press Secretary role was a ‘JOKE’",
       "channel": "MS NOW",
       "videoId": "XJW3lD52rag",
-      "viewsPerHour": 599,
+      "viewsPerHour": 539,
       "views": 10760,
-      "ageHours": 18
-    },
-    {
-      "title": "Dustin Hoffman Part I (Full Episode) | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "RMi372vmDQk",
-      "viewsPerHour": 544,
-      "views": 7229,
-      "ageHours": 13.3
+      "ageHours": 20
     },
     {
       "title": "Bad messaging': Trump DEFENDS Iran war amid nationwide ECONOMIC ANXIETY",
       "channel": "MS NOW",
       "videoId": "eYQzrGouIiE",
-      "viewsPerHour": 544,
+      "viewsPerHour": 490,
       "views": 9831,
-      "ageHours": 18.1
+      "ageHours": 20.1
+    },
+    {
+      "title": "Dustin Hoffman Part I (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "RMi372vmDQk",
+      "viewsPerHour": 473,
+      "views": 7229,
+      "ageHours": 15.3
     },
     {
       "title": "WATCH LIVE: House returns to Washington after blowout election for Democrats",
       "channel": "PBS NewsHour",
       "videoId": "faweL0xlwAE",
-      "viewsPerHour": 265,
+      "viewsPerHour": 232,
       "views": 3790,
-      "ageHours": 14.3
-    },
-    {
-      "title": "WATCH LIVE: Hegseth speaks at the Naval War College as possible impeachment vote looms",
-      "channel": "PBS NewsHour",
-      "videoId": "bEgAnGqLZZY",
-      "viewsPerHour": 132,
-      "views": 1654,
-      "ageHours": 12.6
+      "ageHours": 16.3
     },
     {
       "title": "The Hidden Math Controlling How Fast You Walk",
       "channel": "Chris Lehto",
       "videoId": "6VBRJgmLz7g",
-      "viewsPerHour": 129,
+      "viewsPerHour": 120,
       "views": 3646,
-      "ageHours": 28.4
+      "ageHours": 30.4
+    },
+    {
+      "title": "WATCH LIVE: Hegseth speaks at the Naval War College as possible impeachment vote looms",
+      "channel": "PBS NewsHour",
+      "videoId": "bEgAnGqLZZY",
+      "viewsPerHour": 114,
+      "views": 1654,
+      "ageHours": 14.6
     },
     {
       "title": "WATCH: Peter asks Maryland Gov. Wes Moore about his plans for 2028",
       "channel": "MS NOW",
       "videoId": "Ec7wUbMND8M",
-      "viewsPerHour": 77,
+      "viewsPerHour": 66,
       "views": 911,
-      "ageHours": 11.9
+      "ageHours": 13.9
     },
     {
       "title": "Etsy changes terms to train AI on your creations, while blocking you from doing that to them 🤡 ",
       "channel": "Louis Rossmann",
       "videoId": "zrlLUUdqDJI",
-      "viewsPerHour": 35,
+      "viewsPerHour": 33,
       "views": 1460,
-      "ageHours": 41.7
+      "ageHours": 43.7
     },
     {
       "title": "Julia Louis-Dreyfus on making her Broadway debut with Allison Janney in 'Other Dessert Cities'",
       "channel": "MS NOW",
       "videoId": "EV58FvGFHjo",
-      "viewsPerHour": 21,
+      "viewsPerHour": 18,
       "views": 243,
-      "ageHours": 11.7
+      "ageHours": 13.7
     },
     {
       "title": "Evolution: On the Run | Full Documentary | NOVA | PBS",
@@ -702,7 +694,7 @@
       "videoId": "KZPkIyqCod8",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 13.5
+      "ageHours": 15.5
     }
   ]
 }
