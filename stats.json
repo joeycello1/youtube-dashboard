@@ -1,16 +1,36 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 8
+    },
+    {
       "channel": "MS NOW",
-      "count": 5
+      "count": 6
+    },
+    {
+      "channel": "History",
+      "count": 54
+    },
+    {
+      "channel": "Chris Lehto",
+      "count": 13
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 12
+    },
+    {
+      "channel": "More Perfect Union",
+      "count": 27
+    },
+    {
+      "channel": "Real Stories",
+      "count": 43
     },
     {
       "channel": "Conan O'Brien",
       "count": 11
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 5
     },
     {
       "channel": "NOVA",
@@ -21,28 +41,12 @@
       "count": 14
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 11
-    },
-    {
       "channel": "Last Week Tonight",
       "count": 4
     },
     {
-      "channel": "Chris Lehto",
-      "count": 12
-    },
-    {
       "channel": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "channel": "History",
-      "count": 54
-    },
-    {
-      "channel": "Real Stories",
-      "count": 42
     },
     {
       "channel": "The Interview",
@@ -51,10 +55,6 @@
     {
       "channel": "Jeremy Corbell",
       "count": 6
-    },
-    {
-      "channel": "More Perfect Union",
-      "count": 26
     },
     {
       "channel": "Area 52",
@@ -83,16 +83,36 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "PBS NewsHour",
+      "count": 7
+    },
+    {
       "keyword": "MS NOW",
-      "count": 5
+      "count": 6
+    },
+    {
+      "keyword": "UFO",
+      "count": 41
+    },
+    {
+      "keyword": "UAP, UFO",
+      "count": 2
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 11
+    },
+    {
+      "keyword": "More Perfect Union",
+      "count": 22
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 39
     },
     {
       "keyword": "Conan O'Brien",
       "count": 11
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 4
     },
     {
       "keyword": "NOVA",
@@ -111,10 +131,6 @@
       "count": 1
     },
     {
-      "keyword": "Louis Rossmann",
-      "count": 10
-    },
-    {
       "keyword": "Last Week Tonight",
       "count": 4
     },
@@ -125,14 +141,6 @@
     {
       "keyword": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "keyword": "UFO",
-      "count": 41
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 38
     },
     {
       "keyword": "The Interview",
@@ -152,14 +160,6 @@
     },
     {
       "keyword": "Real Stories, NOVA",
-      "count": 1
-    },
-    {
-      "keyword": "More Perfect Union",
-      "count": 21
-    },
-    {
-      "keyword": "UAP, UFO",
       "count": 1
     },
     {
@@ -234,7 +234,7 @@
   "dailySummary": [
     {
       "date": "2026-11-10",
-      "videos": 16
+      "videos": 25
     },
     {
       "date": "2026-11-09",
@@ -469,26 +469,42 @@
       "videos": 5
     },
     {
-      "date": "2026-09-11",
-      "videos": 1
-    },
-    {
       "date": "2026-08-15",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour",
+      "matches": 7
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 5
+      "matches": 6
+    },
+    {
+      "keyword": "UFO",
+      "matches": 2
+    },
+    {
+      "keyword": "UAP, UFO",
+      "matches": 2
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 7
+    },
+    {
+      "keyword": "More Perfect Union",
+      "matches": 2
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 3
     },
     {
       "keyword": "Conan O'Brien",
       "matches": 8
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 4
     },
     {
       "keyword": "NOVA",
@@ -507,10 +523,6 @@
       "matches": 1
     },
     {
-      "keyword": "Louis Rossmann",
-      "matches": 6
-    },
-    {
       "keyword": "Last Week Tonight",
       "matches": 2
     },
@@ -520,14 +532,6 @@
     },
     {
       "keyword": "The Rest Is Science",
-      "matches": 2
-    },
-    {
-      "keyword": "UFO",
-      "matches": 1
-    },
-    {
-      "keyword": "Real Stories",
       "matches": 2
     },
     {
@@ -551,14 +555,6 @@
       "matches": 1
     },
     {
-      "keyword": "More Perfect Union",
-      "matches": 1
-    },
-    {
-      "keyword": "UAP, UFO",
-      "matches": 1
-    },
-    {
       "keyword": "The Daily Show, AI",
       "matches": 1
     }
@@ -568,169 +564,233 @@
       "title": "Trump Hopes for Heaven on \"60 Minutes\" & Stephen Miller Becomes Chief of Staff | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "wrAuG5d2pvI",
-      "viewsPerHour": 301101,
+      "viewsPerHour": 272862,
       "views": 5808323,
-      "ageHours": 19.3
+      "ageHours": 21.3
+    },
+    {
+      "title": "LIVE: House takes first vote on Hegseth impeachment effort",
+      "channel": "MS NOW",
+      "videoId": "zNmImcV1cjI",
+      "viewsPerHour": 271840,
+      "views": 501693,
+      "ageHours": 1.8
     },
     {
       "title": "Pete Hegseth: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "LO5iHyYa0XM",
-      "viewsPerHour": 175007,
+      "viewsPerHour": 166645,
       "views": 6962863,
-      "ageHours": 39.8
+      "ageHours": 41.8
     },
     {
       "title": "Rachel Maddow on the Midterms & Examining the DOJ in “Department of Fate” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "0Tglmmk6epY",
-      "viewsPerHour": 98073,
+      "viewsPerHour": 88655,
       "views": 1843021,
-      "ageHours": 18.8
+      "ageHours": 20.8
     },
     {
       "title": "S13 E29: Midterm Results & Pete Hegseth: 11/8/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "UlW28SlFO8k",
-      "viewsPerHour": 32124,
+      "viewsPerHour": 30708,
       "views": 1390786,
-      "ageHours": 43.3
+      "ageHours": 45.3
     },
     {
       "title": "Precap: The Midterms Have Desi Lydic Feeling the \"Opposite of Despair\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "otNdvBqWKeU",
-      "viewsPerHour": 16945,
+      "viewsPerHour": 15445,
       "views": 348372,
-      "ageHours": 20.6
+      "ageHours": 22.6
+    },
+    {
+      "title": "We Investigated The Only NFL Team Without A Billionaire Owner",
+      "channel": "More Perfect Union",
+      "videoId": "_ftZJlpOsYY",
+      "viewsPerHour": 7520,
+      "views": 41834,
+      "ageHours": 5.6
+    },
+    {
+      "title": "New York Times vs. Brave could make browser paywall blockers illegal: DMCA needs reform",
+      "channel": "Louis Rossmann",
+      "videoId": "rQrC-YSZnBg",
+      "viewsPerHour": 5854,
+      "views": 21880,
+      "ageHours": 3.7
     },
     {
       "title": "PBS News Hour full episode, Nov. 9, 2026",
       "channel": "PBS NewsHour",
       "videoId": "nvOuuuy9Y00",
-      "viewsPerHour": 5708,
+      "viewsPerHour": 5251,
       "views": 130825,
-      "ageHours": 22.9
+      "ageHours": 24.9
     },
     {
       "title": "WATCH LIVE: House expected to hold preliminary Hegseth impeachment vote as GOP chooses next leader",
       "channel": "PBS NewsHour",
       "videoId": "-ssZgDUn1cA",
-      "viewsPerHour": 4973,
+      "viewsPerHour": 4071,
       "views": 44810,
-      "ageHours": 9
+      "ageHours": 11
     },
     {
       "title": "Hackers set French blood bank freezers to heat to 110°C, alarms stopped it in time",
       "channel": "Louis Rossmann",
       "videoId": "KXkH2rzar_Q",
-      "viewsPerHour": 2724,
+      "viewsPerHour": 2574,
       "views": 93223,
-      "ageHours": 34.2
+      "ageHours": 36.2
+    },
+    {
+      "title": "PBS News Hour live episode, Nov. 10, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "RgU3x2Awh-4",
+      "viewsPerHour": 2121,
+      "views": 6866,
+      "ageHours": 3.2
     },
     {
       "title": "Could Being Too Clean Make Us Sick? | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "gajt1kSxdYM",
-      "viewsPerHour": 2284,
+      "viewsPerHour": 1841,
       "views": 18926,
-      "ageHours": 8.3
+      "ageHours": 10.3
     },
     {
       "title": "Conan Tries To Name New Kids On The Block Songs | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "sLuyszpJnfs",
-      "viewsPerHour": 1943,
+      "viewsPerHour": 1628,
       "views": 19995,
-      "ageHours": 10.3
+      "ageHours": 12.3
     },
     {
       "title": "DOJ HAS WITHERED' under Donald Trump, Rachel Maddow says of her new book",
       "channel": "MS NOW",
       "videoId": "bR1vvYCbxlc",
-      "viewsPerHour": 1667,
+      "viewsPerHour": 1490,
       "views": 27990,
-      "ageHours": 16.8
+      "ageHours": 18.8
     },
     {
       "title": "WATCH LIVE: Senate returns to Capitol Hill days after Democrats win back control",
       "channel": "PBS NewsHour",
       "videoId": "9c14zjOzPu4",
-      "viewsPerHour": 1115,
+      "viewsPerHour": 1026,
       "views": 25671,
-      "ageHours": 23
+      "ageHours": 25
     },
     {
       "title": "MS NOW reacts to GOP Rep. Massie’s impeachment articles against Hegseth | COMPILATION",
       "channel": "MS NOW",
       "videoId": "l9vR1ppUZug",
-      "viewsPerHour": 1108,
+      "viewsPerHour": 964,
       "views": 14726,
-      "ageHours": 13.3
+      "ageHours": 15.3
+    },
+    {
+      "title": "A breakdown of the impeachment articles filed against Pete Hegseth",
+      "channel": "PBS NewsHour",
+      "videoId": "ACdqJKBj4vM",
+      "viewsPerHour": 960,
+      "views": 1793,
+      "ageHours": 1.9
     },
     {
       "title": "Push to impeach Hegseth will make Trump 'double down' on his support: Lemire",
       "channel": "MS NOW",
       "videoId": "6dtGVcK43ko",
-      "viewsPerHour": 1021,
+      "viewsPerHour": 762,
       "views": 5999,
-      "ageHours": 5.9
+      "ageHours": 7.9
     },
     {
       "title": "Trump makes BASELESS election 'FRAUD' claims after saying he would accept the results",
       "channel": "MS NOW",
       "videoId": "sDsMXfilvKY",
-      "viewsPerHour": 853,
+      "viewsPerHour": 733,
       "views": 10425,
-      "ageHours": 12.2
+      "ageHours": 14.2
     },
     {
-      "title": "WATCH LIVE: House Democrats may address Hegseth impeachment push, priorities for next Congress",
-      "channel": "PBS NewsHour",
-      "videoId": "7yNUD2Uf0No",
-      "viewsPerHour": 241,
-      "views": 1687,
-      "ageHours": 7
+      "title": "Hidden Caverns Beneath the Ranch | The Secret of Skinwalker Ranch (S2, E6) | Full Episode",
+      "channel": "History",
+      "videoId": "g04fZoaVHoQ",
+      "viewsPerHour": 610,
+      "views": 1396,
+      "ageHours": 2.3
     },
     {
-      "title": "WATCH LIVE: Senate considers bills on permitting, survivor justice as GOP mulls future leadership",
-      "channel": "PBS NewsHour",
-      "videoId": "oGVlSxzwD0I",
-      "viewsPerHour": 236,
-      "views": 1630,
-      "ageHours": 6.9
+      "title": "The Most Shocking Land Grab in Papua New Guinea’s History",
+      "channel": "Real Stories",
+      "videoId": "0jHAKG7EDCs",
+      "viewsPerHour": 499,
+      "views": 3632,
+      "ageHours": 7.3
+    },
+    {
+      "title": "Two Agents Saw a Black Triangle. Their Reports Don't Match.",
+      "channel": "Chris Lehto",
+      "videoId": "wGV8TmSm0mU",
+      "viewsPerHour": 308,
+      "views": 1127,
+      "ageHours": 3.7
     },
     {
       "title": "Dustin Hoffman Part I (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "RMi372vmDQk",
-      "viewsPerHour": 231,
+      "viewsPerHour": 217,
       "views": 7229,
-      "ageHours": 31.3
+      "ageHours": 33.3
+    },
+    {
+      "title": "WATCH LIVE: House Democrats may address Hegseth impeachment push, priorities for next Congress",
+      "channel": "PBS NewsHour",
+      "videoId": "7yNUD2Uf0No",
+      "viewsPerHour": 188,
+      "views": 1687,
+      "ageHours": 9
+    },
+    {
+      "title": "WATCH LIVE: Senate considers bills on permitting, survivor justice as GOP mulls future leadership",
+      "channel": "PBS NewsHour",
+      "videoId": "oGVlSxzwD0I",
+      "viewsPerHour": 183,
+      "views": 1630,
+      "ageHours": 8.9
+    },
+    {
+      "title": "They want us to fight': Jeffries outlines priorities as Democrats prepare to take power",
+      "channel": "PBS NewsHour",
+      "videoId": "zrksErnD3AA",
+      "viewsPerHour": 173,
+      "views": 282,
+      "ageHours": 1.6
     },
     {
       "title": "Character was on the ballot': Dem who flipped scandal-plagued Max Miller's seat",
       "channel": "MS NOW",
       "videoId": "VObhn94GUmE",
-      "viewsPerHour": 215,
+      "viewsPerHour": 160,
       "views": 1255,
-      "ageHours": 5.8
+      "ageHours": 7.8
     },
     {
       "title": "A Broadway Producer Pitches \"Conan O'Brien Needs A Friend: The Musical\" (Full Episode)",
       "channel": "Conan O'Brien",
       "videoId": "RTHkJZ0FnFI",
-      "viewsPerHour": 159,
+      "viewsPerHour": 121,
       "views": 1000,
-      "ageHours": 6.3
-    },
-    {
-      "title": "The Hidden Math Controlling How Fast You Walk",
-      "channel": "Chris Lehto",
-      "videoId": "6VBRJgmLz7g",
-      "viewsPerHour": 91,
-      "views": 4200,
-      "ageHours": 46.4
+      "ageHours": 8.3
     },
     {
       "title": "Evolution: On the Run | Full Documentary | NOVA | PBS",
@@ -738,7 +798,7 @@
       "videoId": "KZPkIyqCod8",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 31.5
+      "ageHours": 33.5
     }
   ]
 }
