@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "PBS NewsHour",
-      "count": 8
+      "count": 6
     },
     {
       "channel": "MS NOW",
@@ -38,7 +38,7 @@
     },
     {
       "channel": "The Daily Show",
-      "count": 14
+      "count": 12
     },
     {
       "channel": "Last Week Tonight",
@@ -84,7 +84,7 @@
   "keywordFrequency": [
     {
       "keyword": "PBS NewsHour",
-      "count": 7
+      "count": 6
     },
     {
       "keyword": "MS NOW",
@@ -124,11 +124,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "count": 12
-    },
-    {
-      "keyword": "PBS NewsHour, AI",
-      "count": 1
+      "count": 10
     },
     {
       "keyword": "Last Week Tonight",
@@ -234,7 +230,7 @@
   "dailySummary": [
     {
       "date": "2026-11-10",
-      "videos": 25
+      "videos": 23
     },
     {
       "date": "2026-11-09",
@@ -258,7 +254,7 @@
     },
     {
       "date": "2026-11-04",
-      "videos": 7
+      "videos": 5
     },
     {
       "date": "2026-11-03",
@@ -476,7 +472,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "PBS NewsHour",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "MS NOW",
@@ -517,10 +513,6 @@
     {
       "keyword": "The Daily Show",
       "matches": 10
-    },
-    {
-      "keyword": "PBS NewsHour, AI",
-      "matches": 1
     },
     {
       "keyword": "Last Week Tonight",
@@ -564,225 +556,209 @@
       "title": "Trump Hopes for Heaven on \"60 Minutes\" & Stephen Miller Becomes Chief of Staff | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "wrAuG5d2pvI",
-      "viewsPerHour": 229640,
+      "viewsPerHour": 212888,
       "views": 5808323,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
       "title": "Pete Hegseth: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "LO5iHyYa0XM",
-      "viewsPerHour": 152064,
+      "viewsPerHour": 145730,
       "views": 6962863,
-      "ageHours": 45.8
-    },
-    {
-      "title": "LIVE: House takes first vote on Hegseth impeachment effort",
-      "channel": "MS NOW",
-      "videoId": "zNmImcV1cjI",
-      "viewsPerHour": 85729,
-      "views": 501693,
-      "ageHours": 5.9
+      "ageHours": 47.8
     },
     {
       "title": "Rachel Maddow on the Midterms & Examining the DOJ in “Department of Fate” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "0Tglmmk6epY",
-      "viewsPerHour": 74330,
+      "viewsPerHour": 68807,
       "views": 1843021,
-      "ageHours": 24.8
+      "ageHours": 26.8
+    },
+    {
+      "title": "LIVE: House takes first vote on Hegseth impeachment effort",
+      "channel": "MS NOW",
+      "videoId": "zNmImcV1cjI",
+      "viewsPerHour": 63972,
+      "views": 501693,
+      "ageHours": 7.8
     },
     {
       "title": "Precap: The Midterms Have Desi Lydic Feeling the \"Opposite of Despair\" | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "otNdvBqWKeU",
-      "viewsPerHour": 13115,
+      "viewsPerHour": 12201,
       "views": 348372,
-      "ageHours": 26.6
-    },
-    {
-      "title": "PBS News Hour full episode, Nov. 9, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "nvOuuuy9Y00",
-      "viewsPerHour": 4523,
-      "views": 130825,
-      "ageHours": 28.9
+      "ageHours": 28.6
     },
     {
       "title": "We Investigated The Only NFL Team Without A Billionaire Owner",
       "channel": "More Perfect Union",
       "videoId": "_ftZJlpOsYY",
-      "viewsPerHour": 4372,
+      "viewsPerHour": 3619,
       "views": 41834,
-      "ageHours": 9.6
+      "ageHours": 11.6
     },
     {
       "title": "WATCH LIVE: House expected to hold preliminary Hegseth impeachment vote as GOP chooses next leader",
       "channel": "PBS NewsHour",
       "videoId": "-ssZgDUn1cA",
-      "viewsPerHour": 2985,
+      "viewsPerHour": 2635,
       "views": 44810,
-      "ageHours": 15
+      "ageHours": 17
     },
     {
       "title": "New York Times vs. Brave could make browser paywall blockers illegal: DMCA needs reform",
       "channel": "Louis Rossmann",
       "videoId": "rQrC-YSZnBg",
-      "viewsPerHour": 2825,
+      "viewsPerHour": 2248,
       "views": 21880,
-      "ageHours": 7.7
+      "ageHours": 9.7
     },
     {
       "title": "Hackers set French blood bank freezers to heat to 110°C, alarms stopped it in time",
       "channel": "Louis Rossmann",
       "videoId": "KXkH2rzar_Q",
-      "viewsPerHour": 2318,
+      "viewsPerHour": 2208,
       "views": 93223,
-      "ageHours": 40.2
+      "ageHours": 42.2
     },
     {
       "title": "Could Being Too Clean Make Us Sick? | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "gajt1kSxdYM",
-      "viewsPerHour": 1325,
+      "viewsPerHour": 1163,
       "views": 18926,
-      "ageHours": 14.3
+      "ageHours": 16.3
     },
     {
       "title": "DOJ HAS WITHERED' under Donald Trump, Rachel Maddow says of her new book",
       "channel": "MS NOW",
       "videoId": "bR1vvYCbxlc",
-      "viewsPerHour": 1228,
+      "viewsPerHour": 1129,
       "views": 27990,
-      "ageHours": 22.8
+      "ageHours": 24.8
     },
     {
       "title": "Conan Tries To Name New Kids On The Block Songs | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "sLuyszpJnfs",
-      "viewsPerHour": 1227,
+      "viewsPerHour": 1094,
       "views": 19995,
-      "ageHours": 16.3
+      "ageHours": 18.3
     },
     {
       "title": "PBS News Hour live episode, Nov. 10, 2026",
       "channel": "PBS NewsHour",
       "videoId": "RgU3x2Awh-4",
-      "viewsPerHour": 948,
+      "viewsPerHour": 744,
       "views": 6866,
-      "ageHours": 7.2
-    },
-    {
-      "title": "WATCH LIVE: Senate returns to Capitol Hill days after Democrats win back control",
-      "channel": "PBS NewsHour",
-      "videoId": "9c14zjOzPu4",
-      "viewsPerHour": 884,
-      "views": 25671,
-      "ageHours": 29
+      "ageHours": 9.2
     },
     {
       "title": "MS NOW reacts to GOP Rep. Massie’s impeachment articles against Hegseth | COMPILATION",
       "channel": "MS NOW",
       "videoId": "l9vR1ppUZug",
-      "viewsPerHour": 763,
+      "viewsPerHour": 692,
       "views": 14726,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "Trump makes BASELESS election 'FRAUD' claims after saying he would accept the results",
       "channel": "MS NOW",
       "videoId": "sDsMXfilvKY",
-      "viewsPerHour": 572,
+      "viewsPerHour": 516,
       "views": 10425,
-      "ageHours": 18.2
+      "ageHours": 20.2
     },
     {
       "title": "Push to impeach Hegseth will make Trump 'double down' on his support: Lemire",
       "channel": "MS NOW",
       "videoId": "6dtGVcK43ko",
-      "viewsPerHour": 505,
+      "viewsPerHour": 433,
       "views": 5999,
-      "ageHours": 11.9
+      "ageHours": 13.9
     },
     {
       "title": "The Most Shocking Land Grab in Papua New Guinea’s History",
       "channel": "Real Stories",
       "videoId": "0jHAKG7EDCs",
-      "viewsPerHour": 322,
+      "viewsPerHour": 274,
       "views": 3632,
-      "ageHours": 11.3
+      "ageHours": 13.3
     },
     {
       "title": "A breakdown of the impeachment articles filed against Pete Hegseth",
       "channel": "PBS NewsHour",
       "videoId": "ACdqJKBj4vM",
-      "viewsPerHour": 305,
+      "viewsPerHour": 228,
       "views": 1793,
-      "ageHours": 5.9
-    },
-    {
-      "title": "Hidden Caverns Beneath the Ranch | The Secret of Skinwalker Ranch (S2, E6) | Full Episode",
-      "channel": "History",
-      "videoId": "g04fZoaVHoQ",
-      "viewsPerHour": 222,
-      "views": 1396,
-      "ageHours": 6.3
+      "ageHours": 7.9
     },
     {
       "title": "Dustin Hoffman Part I (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "RMi372vmDQk",
-      "viewsPerHour": 194,
+      "viewsPerHour": 184,
       "views": 7229,
-      "ageHours": 37.3
+      "ageHours": 39.3
+    },
+    {
+      "title": "Hidden Caverns Beneath the Ranch | The Secret of Skinwalker Ranch (S2, E6) | Full Episode",
+      "channel": "History",
+      "videoId": "g04fZoaVHoQ",
+      "viewsPerHour": 169,
+      "views": 1396,
+      "ageHours": 8.3
     },
     {
       "title": "Two Agents Saw a Black Triangle. Their Reports Don't Match.",
       "channel": "Chris Lehto",
       "videoId": "wGV8TmSm0mU",
-      "viewsPerHour": 147,
+      "viewsPerHour": 117,
       "views": 1127,
-      "ageHours": 7.7
+      "ageHours": 9.7
     },
     {
       "title": "WATCH LIVE: House Democrats may address Hegseth impeachment push, priorities for next Congress",
       "channel": "PBS NewsHour",
       "videoId": "7yNUD2Uf0No",
-      "viewsPerHour": 130,
+      "viewsPerHour": 113,
       "views": 1687,
-      "ageHours": 13
+      "ageHours": 15
     },
     {
       "title": "WATCH LIVE: Senate considers bills on permitting, survivor justice as GOP mulls future leadership",
       "channel": "PBS NewsHour",
       "videoId": "oGVlSxzwD0I",
-      "viewsPerHour": 126,
+      "viewsPerHour": 109,
       "views": 1630,
-      "ageHours": 12.9
+      "ageHours": 14.9
     },
     {
       "title": "Character was on the ballot': Dem who flipped scandal-plagued Max Miller's seat",
       "channel": "MS NOW",
       "videoId": "VObhn94GUmE",
-      "viewsPerHour": 106,
+      "viewsPerHour": 91,
       "views": 1255,
-      "ageHours": 11.8
+      "ageHours": 13.8
     },
     {
       "title": "A Broadway Producer Pitches \"Conan O'Brien Needs A Friend: The Musical\" (Full Episode)",
       "channel": "Conan O'Brien",
       "videoId": "RTHkJZ0FnFI",
-      "viewsPerHour": 81,
+      "viewsPerHour": 70,
       "views": 1000,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "They want us to fight': Jeffries outlines priorities as Democrats prepare to take power",
       "channel": "PBS NewsHour",
       "videoId": "zrksErnD3AA",
-      "viewsPerHour": 50,
+      "viewsPerHour": 37,
       "views": 282,
-      "ageHours": 5.6
+      "ageHours": 7.6
     },
     {
       "title": "Evolution: On the Run | Full Documentary | NOVA | PBS",
@@ -790,7 +766,7 @@
       "videoId": "KZPkIyqCod8",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 37.5
+      "ageHours": 39.5
     }
   ]
 }
