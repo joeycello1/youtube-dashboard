@@ -1,28 +1,28 @@
 {
   "videosPerChannel": [
     {
-      "channel": "The Daily Show",
-      "count": 14
+      "channel": "MS NOW",
+      "count": 5
     },
     {
       "channel": "PBS NewsHour",
-      "count": 8
+      "count": 7
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 13
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 14
     },
     {
       "channel": "The Rest Is Science",
       "count": 5
     },
     {
-      "channel": "MS NOW",
-      "count": 4
-    },
-    {
       "channel": "History",
       "count": 53
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 12
     },
     {
       "channel": "Louis Rossmann",
@@ -83,24 +83,32 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "The Daily Show, AI",
-      "count": 2
+      "keyword": "MS NOW, AI",
+      "count": 1
+    },
+    {
+      "keyword": "MS NOW",
+      "count": 3
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 8
+      "count": 7
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 13
     },
     {
       "keyword": "The Daily Show",
       "count": 11
     },
     {
-      "keyword": "The Rest Is Science",
-      "count": 5
+      "keyword": "The Daily Show, AI",
+      "count": 2
     },
     {
-      "keyword": "MS NOW",
-      "count": 3
+      "keyword": "The Rest Is Science",
+      "count": 5
     },
     {
       "keyword": "MS NOW, Associated Press",
@@ -109,10 +117,6 @@
     {
       "keyword": "NOVA",
       "count": 41
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 12
     },
     {
       "keyword": "Louis Rossmann",
@@ -230,11 +234,11 @@
   "dailySummary": [
     {
       "date": "2026-11-12",
-      "videos": 5
+      "videos": 12
     },
     {
       "date": "2026-11-11",
-      "videos": 16
+      "videos": 12
     },
     {
       "date": "2026-11-10",
@@ -258,7 +262,7 @@
     },
     {
       "date": "2026-11-05",
-      "videos": 9
+      "videos": 8
     },
     {
       "date": "2026-11-04",
@@ -270,7 +274,7 @@
     },
     {
       "date": "2026-11-02",
-      "videos": 8
+      "videos": 7
     },
     {
       "date": "2026-11-01",
@@ -475,24 +479,32 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "The Daily Show, AI",
-      "matches": 2
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 8
-    },
-    {
-      "keyword": "The Daily Show",
-      "matches": 10
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "matches": 2
+      "keyword": "MS NOW, AI",
+      "matches": 1
     },
     {
       "keyword": "MS NOW",
       "matches": 3
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 7
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 11
+    },
+    {
+      "keyword": "The Daily Show, AI",
+      "matches": 2
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "matches": 2
     },
     {
       "keyword": "MS NOW, Associated Press",
@@ -501,10 +513,6 @@
     {
       "keyword": "NOVA",
       "matches": 5
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 6
     },
     {
       "keyword": "Louis Rossmann",
@@ -524,7 +532,7 @@
     },
     {
       "keyword": "Real Stories",
-      "matches": 3
+      "matches": 2
     },
     {
       "keyword": "The Daily Show, MS NOW",
@@ -564,209 +572,225 @@
       "title": "Hegseth Impeachment Fails After 11 Dems Play Hooky & Blue Wave Comes for Boebert | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "xpzI21vOJLE",
-      "viewsPerHour": 175831,
-      "views": 2514736,
-      "ageHours": 14.3
+      "viewsPerHour": 174586,
+      "views": 2846429,
+      "ageHours": 16.3
     },
     {
       "title": "The Nvidia Honeypot Chinese Sexpionage Scandal, Explained | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "HA0ulwcacFI",
-      "viewsPerHour": 149543,
-      "views": 5729415,
-      "ageHours": 38.3
+      "viewsPerHour": 145403,
+      "views": 5861876,
+      "ageHours": 40.3
     },
     {
       "title": "WATCH LIVE: SS United States, once world’s fastest ocean liner, sinks to become reef off Florida",
       "channel": "PBS NewsHour",
       "videoId": "HqTd-iEu5KM",
-      "viewsPerHour": 112222,
+      "viewsPerHour": 97836,
       "views": 1527824,
-      "ageHours": 13.6
+      "ageHours": 15.6
+    },
+    {
+      "title": "Pet Tarot Readings, Designer Collars & Doggy BBLs? Lewis Black on Pampered Pets | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "tVBJ3JhFKGE",
+      "viewsPerHour": 38749,
+      "views": 265881,
+      "ageHours": 6.9
     },
     {
       "title": "Sports War: Tomlin Tackles Minecraft & Ailing Dutchman Gets the Gift of Gambling | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "_QxRaeBF9nw",
-      "viewsPerHour": 21109,
-      "views": 593991,
-      "ageHours": 28.1
+      "viewsPerHour": 19963,
+      "views": 601720,
+      "ageHours": 30.1
     },
     {
       "title": "The Secrets Michael Keeps From Himself",
       "channel": "The Rest Is Science",
       "videoId": "rNM9ToViH-Q",
-      "viewsPerHour": 9391,
-      "views": 161673,
-      "ageHours": 17.2
+      "viewsPerHour": 9336,
+      "views": 179416,
+      "ageHours": 19.2
     },
     {
       "title": "Ron Howard on Richard Avedon’s Creative Courage & Preserving Artistry | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "SC033ROD-2s",
-      "viewsPerHour": 8511,
-      "views": 109042,
-      "ageHours": 12.8
+      "viewsPerHour": 8369,
+      "views": 123972,
+      "ageHours": 14.8
     },
     {
       "title": "We Investigated The Only NFL Team Without A Billionaire Owner",
       "channel": "More Perfect Union",
       "videoId": "_ftZJlpOsYY",
-      "viewsPerHour": 7458,
-      "views": 339882,
-      "ageHours": 45.6
+      "viewsPerHour": 7645,
+      "views": 363742,
+      "ageHours": 47.6
     },
     {
       "title": "Kathryn Hahn on Improvising with Nicolas Cage in “Madden” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "nw4c2o16S1I",
-      "viewsPerHour": 6514,
-      "views": 239707,
-      "ageHours": 36.8
+      "viewsPerHour": 6259,
+      "views": 242854,
+      "ageHours": 38.8
     },
     {
       "title": "WATCH: Historic ocean liner SS United States sinks off Florida coast",
       "channel": "PBS NewsHour",
       "videoId": "C-lNtopJ_t0",
-      "viewsPerHour": 6421,
+      "viewsPerHour": 5613,
       "views": 89249,
-      "ageHours": 13.9
-    },
-    {
-      "title": "BREAKING: Scott Colom WINS Mississippi Senate race making HISTORY",
-      "channel": "MS NOW",
-      "videoId": "FVEf1o3Mg00",
-      "viewsPerHour": 3133,
-      "views": 56086,
-      "ageHours": 17.9
+      "ageHours": 15.9
     },
     {
       "title": "Are These Artifacts Proof of Treasure? | The Curse of Oak Island",
       "channel": "History",
       "videoId": "Qd9QYzLpiiI",
-      "viewsPerHour": 3030,
-      "views": 67562,
-      "ageHours": 22.3
+      "viewsPerHour": 2986,
+      "views": 72565,
+      "ageHours": 24.3
+    },
+    {
+      "title": "Taps With Andy Richter (Full Episode) | Conan O'Brien Needs A Fan",
+      "channel": "Conan O'Brien",
+      "videoId": "MDxA_WS3g4U",
+      "viewsPerHour": 2891,
+      "views": 18218,
+      "ageHours": 6.3
+    },
+    {
+      "title": "BREAKING: Scott Colom WINS Mississippi Senate race making HISTORY",
+      "channel": "MS NOW",
+      "videoId": "FVEf1o3Mg00",
+      "viewsPerHour": 2818,
+      "views": 56086,
+      "ageHours": 19.9
     },
     {
       "title": "Hidden Caverns Beneath the Ranch | The Secret of Skinwalker Ranch (S2, E6) | Full Episode",
       "channel": "History",
       "videoId": "g04fZoaVHoQ",
-      "viewsPerHour": 2081,
-      "views": 88005,
-      "ageHours": 42.3
+      "viewsPerHour": 2043,
+      "views": 90494,
+      "ageHours": 44.3
+    },
+    {
+      "title": "Not an AI race but an AI WAR against China': Ruhle",
+      "channel": "MS NOW",
+      "videoId": "8i4ejhc_kMs",
+      "viewsPerHour": 742,
+      "views": 1393,
+      "ageHours": 1.9
+    },
+    {
+      "title": "WATCH LIVE: Mayor Mamdani holds briefing on deadly Brooklyn building collapse",
+      "channel": "PBS NewsHour",
+      "videoId": "vmtJTL3qhaU",
+      "viewsPerHour": 609,
+      "views": 1563,
+      "ageHours": 2.6
     },
     {
       "title": "Removing SmartTV spyware should be legal - we asked the copyright office for a DMCA exemption",
       "channel": "Louis Rossmann",
       "videoId": "HAnUSd9cX4E",
-      "viewsPerHour": 652,
+      "viewsPerHour": 607,
       "views": 17792,
-      "ageHours": 27.3
+      "ageHours": 29.3
     },
     {
       "title": "New York Times vs. Brave could make browser paywall blockers illegal: DMCA needs reform",
       "channel": "Louis Rossmann",
       "videoId": "rQrC-YSZnBg",
-      "viewsPerHour": 500,
+      "viewsPerHour": 478,
       "views": 21880,
-      "ageHours": 43.7
+      "ageHours": 45.8
+    },
+    {
+      "title": "WATCH LIVE: Senate considers judicial nomination and more",
+      "channel": "PBS NewsHour",
+      "videoId": "IZakQaaTs1s",
+      "viewsPerHour": 360,
+      "views": 795,
+      "ageHours": 2.2
     },
     {
       "title": "AG saying Garcia's 'LAWYER UP' post is a threat means Bannon, Patel's past rhetoric are too: Baker",
       "channel": "MS NOW",
       "videoId": "wHlA-1kczG8",
-      "viewsPerHour": 397,
+      "viewsPerHour": 357,
       "views": 7064,
-      "ageHours": 17.8
+      "ageHours": 19.8
+    },
+    {
+      "title": "How worried should we be about A.I. warfare?",
+      "channel": "MS NOW",
+      "videoId": "X0kiHM2O0Ng",
+      "viewsPerHour": 291,
+      "views": 592,
+      "ageHours": 2
     },
     {
       "title": "Two Agents Saw a Black Triangle. Their Reports Don't Match.",
       "channel": "Chris Lehto",
       "videoId": "wGV8TmSm0mU",
-      "viewsPerHour": 296,
-      "views": 12922,
-      "ageHours": 43.7
+      "viewsPerHour": 284,
+      "views": 12974,
+      "ageHours": 45.7
     },
     {
       "title": "PBS News Hour live episode, Nov. 11, 2026",
       "channel": "PBS NewsHour",
       "videoId": "jtoBiDGfCM4",
-      "viewsPerHour": 285,
+      "viewsPerHour": 257,
       "views": 5350,
-      "ageHours": 18.8
+      "ageHours": 20.8
     },
     {
       "title": "Monumental and historic': Sharpton instantly reacts to Colom’s STUNNING Mississippi Senate win",
       "channel": "MS NOW",
       "videoId": "QD14UJ1MvcA",
-      "viewsPerHour": 222,
+      "viewsPerHour": 199,
       "views": 3899,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
-      "title": "The Most Shocking Land Grab in Papua New Guinea’s History",
-      "channel": "Real Stories",
-      "videoId": "0jHAKG7EDCs",
-      "viewsPerHour": 212,
-      "views": 10047,
-      "ageHours": 47.3
-    },
-    {
-      "title": "WATCH LIVE: House meets for legislative business after Republicans block Hegseth impeachment effort",
-      "channel": "PBS NewsHour",
-      "videoId": "Dk7-yt9-RTE",
-      "viewsPerHour": 197,
-      "views": 5220,
-      "ageHours": 26.4
+      "title": "Why Damian Lillard Doesn't Celebrate After Nailing A Shot | CONAN on TBS",
+      "channel": "Conan O'Brien",
+      "videoId": "ZRjrPa_gxsQ",
+      "viewsPerHour": 150,
+      "views": 496,
+      "ageHours": 3.3
     },
     {
       "title": "White House threatens Democrats over plans to investigate Trump officials",
       "channel": "PBS NewsHour",
       "videoId": "5kB2yoUQBHk",
-      "viewsPerHour": 162,
+      "viewsPerHour": 146,
       "views": 2882,
-      "ageHours": 17.7
+      "ageHours": 19.7
     },
     {
       "title": "Dustin Hoffman Part II (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "LYMxj390Ygw",
-      "viewsPerHour": 137,
+      "viewsPerHour": 127,
       "views": 3471,
-      "ageHours": 25.3
-    },
-    {
-      "title": "WATCH LIVE: Senate considers bill on permitting after Thune survives vote to remain GOP leader",
-      "channel": "PBS NewsHour",
-      "videoId": "vgcSqX8VRjw",
-      "viewsPerHour": 46,
-      "views": 1133,
-      "ageHours": 24.9
+      "ageHours": 27.3
     },
     {
       "title": "Sen. Coons on Huang affair, Iran war and why Trump should fire Hegseth",
       "channel": "PBS NewsHour",
       "videoId": "1rAwWJHrSo8",
-      "viewsPerHour": 6,
+      "viewsPerHour": 5,
       "views": 102,
-      "ageHours": 17.6
-    },
-    {
-      "title": "‘Make life BETTER for everyday Americans’: Rep.-Elect Stout on her priorities in Congress",
-      "channel": "MS NOW",
-      "videoId": "N_jYZuwnyxQ",
-      "viewsPerHour": 4,
-      "views": 89,
-      "ageHours": 23.8
-    },
-    {
-      "title": "WATCH LIVE: Trump marks Veterans Day with wreath laying, remarks at Arlington National Cemetery",
-      "channel": "PBS NewsHour",
-      "videoId": "dl7iry5z9EQ",
-      "viewsPerHour": 0,
-      "views": 1,
-      "ageHours": 23.5
+      "ageHours": 19.6
     }
   ]
 }
