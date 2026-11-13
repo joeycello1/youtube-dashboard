@@ -2,7 +2,23 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 5
+      "count": 4
+    },
+    {
+      "channel": "Area 52",
+      "count": 6
+    },
+    {
+      "channel": "Real Stories",
+      "count": 42
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 8
+    },
+    {
+      "channel": "More Perfect Union",
+      "count": 28
     },
     {
       "channel": "The Daily Show",
@@ -13,20 +29,12 @@
       "count": 13
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 8
-    },
-    {
       "channel": "NOVA",
       "count": 26
     },
     {
-      "channel": "Real Stories",
-      "count": 42
-    },
-    {
       "channel": "Conan O'Brien",
-      "count": 13
+      "count": 12
     },
     {
       "channel": "The Rest Is Science",
@@ -41,10 +49,6 @@
       "count": 12
     },
     {
-      "channel": "More Perfect Union",
-      "count": 27
-    },
-    {
       "channel": "Last Week Tonight",
       "count": 4
     },
@@ -55,10 +59,6 @@
     {
       "channel": "Jeremy Corbell",
       "count": 6
-    },
-    {
-      "channel": "Area 52",
-      "count": 5
     },
     {
       "channel": "Diary of a CEO",
@@ -83,12 +83,32 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "MS NOW, AI",
-      "count": 3
+      "keyword": "MS NOW",
+      "count": 1
+    },
+    {
+      "keyword": "UFO, Grusch, UAP",
+      "count": 1
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 38
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 7
+    },
+    {
+      "keyword": "More Perfect Union",
+      "count": 23
     },
     {
       "keyword": "The Daily Show",
-      "count": 11
+      "count": 12
+    },
+    {
+      "keyword": "MS NOW, AI",
+      "count": 2
     },
     {
       "keyword": "Louis Rossmann",
@@ -99,10 +119,6 @@
       "count": 1
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 7
-    },
-    {
       "keyword": "MS NOW, Associated Press",
       "count": 1
     },
@@ -111,20 +127,12 @@
       "count": 42
     },
     {
-      "keyword": "Real Stories",
-      "count": 38
-    },
-    {
-      "keyword": "MS NOW",
-      "count": 1
-    },
-    {
       "keyword": "Conan O'Brien",
-      "count": 13
+      "count": 12
     },
     {
       "keyword": "The Daily Show, AI",
-      "count": 2
+      "count": 1
     },
     {
       "keyword": "The Rest Is Science",
@@ -137,10 +145,6 @@
     {
       "keyword": "UAP, UFO",
       "count": 2
-    },
-    {
-      "keyword": "More Perfect Union",
-      "count": 22
     },
     {
       "keyword": "The Daily Show, MS NOW",
@@ -238,11 +242,11 @@
   "dailySummary": [
     {
       "date": "2026-11-13",
-      "videos": 8
+      "videos": 15
     },
     {
       "date": "2026-11-12",
-      "videos": 16
+      "videos": 12
     },
     {
       "date": "2026-11-11",
@@ -266,7 +270,7 @@
     },
     {
       "date": "2026-11-06",
-      "videos": 7
+      "videos": 6
     },
     {
       "date": "2026-11-05",
@@ -278,7 +282,7 @@
     },
     {
       "date": "2026-11-03",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-11-02",
@@ -473,22 +477,38 @@
       "videos": 2
     },
     {
-      "date": "2026-09-14",
-      "videos": 1
-    },
-    {
       "date": "2026-08-15",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "MS NOW, AI",
-      "matches": 3
+      "keyword": "MS NOW",
+      "matches": 1
+    },
+    {
+      "keyword": "UFO, Grusch, UAP",
+      "matches": 1
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 4
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 7
+    },
+    {
+      "keyword": "More Perfect Union",
+      "matches": 2
     },
     {
       "keyword": "The Daily Show",
-      "matches": 11
+      "matches": 12
+    },
+    {
+      "keyword": "MS NOW, AI",
+      "matches": 2
     },
     {
       "keyword": "Louis Rossmann",
@@ -499,24 +519,12 @@
       "matches": 1
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 7
-    },
-    {
       "keyword": "MS NOW, Associated Press",
       "matches": 1
     },
     {
       "keyword": "NOVA",
-      "matches": 6
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 3
-    },
-    {
-      "keyword": "MS NOW",
-      "matches": 1
+      "matches": 5
     },
     {
       "keyword": "Conan O'Brien",
@@ -537,10 +545,6 @@
     {
       "keyword": "UAP, UFO",
       "matches": 1
-    },
-    {
-      "keyword": "More Perfect Union",
-      "matches": 2
     },
     {
       "keyword": "The Daily Show, MS NOW",
@@ -580,201 +584,217 @@
       "title": "Jensen Huang Steps Down as Affairs Pile Up & Scott Colom Paints Mississippi Blue | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "RX59M5t7240",
-      "viewsPerHour": 170212,
-      "views": 2435320,
-      "ageHours": 14.3
+      "viewsPerHour": 166419,
+      "views": 2710422,
+      "ageHours": 16.3
     },
     {
       "title": "Hegseth Impeachment Fails After 11 Dems Play Hooky & Blue Wave Comes for Boebert | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "xpzI21vOJLE",
-      "viewsPerHour": 100643,
-      "views": 3856697,
-      "ageHours": 38.3
+      "viewsPerHour": 96340,
+      "views": 3882473,
+      "ageHours": 40.3
     },
     {
       "title": "Heather Cox Richardson on America’s Political History  & “Letters from an American” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "W-o2X4C24lg",
-      "viewsPerHour": 29366,
-      "views": 376463,
-      "ageHours": 12.8
+      "viewsPerHour": 29783,
+      "views": 440761,
+      "ageHours": 14.8
     },
     {
       "title": "Pet Tarot Readings, Designer Collars & Doggy BBLs? Lewis Black on Pampered Pets | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "tVBJ3JhFKGE",
-      "viewsPerHour": 26056,
-      "views": 752469,
-      "ageHours": 28.9
+      "viewsPerHour": 24793,
+      "views": 765058,
+      "ageHours": 30.9
+    },
+    {
+      "title": "Trash Ladies: Grace Meets the Pond-Diving Grannies Cleaning Up Cape Cod | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "auMligQUxas",
+      "viewsPerHour": 18818,
+      "views": 129927,
+      "ageHours": 6.9
+    },
+    {
+      "title": "Airport Food Has a Price Limit. We Tracked Down the Companies Breaking It",
+      "channel": "More Perfect Union",
+      "videoId": "35ypZJ3Zc0Y",
+      "viewsPerHour": 11308,
+      "views": 28250,
+      "ageHours": 2.5
+    },
+    {
+      "title": "Researcher Discusses Top UFO Cases of All Time - Vinnie Adams | ep. 107",
+      "channel": "Area 52",
+      "videoId": "dhayjLhr0eA",
+      "viewsPerHour": 7863,
+      "views": 18034,
+      "ageHours": 2.3
     },
     {
       "title": "The most insane story' rocks Big Tech and has national security implications for Washington",
       "channel": "MS NOW",
       "videoId": "NEJfHzsJIUQ",
-      "viewsPerHour": 7790,
+      "viewsPerHour": 6647,
       "views": 89623,
-      "ageHours": 11.5
-    },
-    {
-      "title": "PBS News Hour full episode, Nov. 12, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "RTgmjLhrXVM",
-      "viewsPerHour": 6588,
-      "views": 108826,
-      "ageHours": 16.5
-    },
-    {
-      "title": "Mattel & Convey demand 4,000 euro penalty over \"Uno\" in a 3D printed card holder description",
-      "channel": "Louis Rossmann",
-      "videoId": "qnlDQ9TiToU",
-      "viewsPerHour": 6468,
-      "views": 89911,
-      "ageHours": 13.9
+      "ageHours": 13.5
     },
     {
       "title": "The Secrets Michael Keeps From Himself",
       "channel": "The Rest Is Science",
       "videoId": "rNM9ToViH-Q",
-      "viewsPerHour": 6114,
-      "views": 252099,
-      "ageHours": 41.2
+      "viewsPerHour": 5933,
+      "views": 256364,
+      "ageHours": 43.2
+    },
+    {
+      "title": "PBS News Hour full episode, Nov. 12, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "RTgmjLhrXVM",
+      "viewsPerHour": 5883,
+      "views": 108826,
+      "ageHours": 18.5
+    },
+    {
+      "title": "Mattel & Convey demand 4,000 euro penalty over \"Uno\" in a 3D printed card holder description",
+      "channel": "Louis Rossmann",
+      "videoId": "qnlDQ9TiToU",
+      "viewsPerHour": 5662,
+      "views": 89911,
+      "ageHours": 15.9
     },
     {
       "title": "Ron Howard on Richard Avedon’s Creative Courage & Preserving Artistry | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "SC033ROD-2s",
-      "viewsPerHour": 5177,
-      "views": 190684,
-      "ageHours": 36.8
-    },
-    {
-      "title": "Are These Artifacts Proof of Treasure? | The Curse of Oak Island",
-      "channel": "History",
-      "videoId": "Qd9QYzLpiiI",
-      "viewsPerHour": 2208,
-      "views": 102264,
-      "ageHours": 46.3
+      "viewsPerHour": 4966,
+      "views": 192724,
+      "ageHours": 38.8
     },
     {
       "title": "The Einstein Time Glitch | What the Physics?!",
       "channel": "NOVA",
       "videoId": "lBLWUdL21OQ",
-      "viewsPerHour": 1979,
-      "views": 45007,
-      "ageHours": 22.7
+      "viewsPerHour": 1878,
+      "views": 46422,
+      "ageHours": 24.7
     },
     {
       "title": "BREAKING ELECTION ALERT: Democrat WINS governor's race in DEEP-RED Kansas",
       "channel": "MS NOW",
       "videoId": "DSyHDixL9D4",
-      "viewsPerHour": 1337,
+      "viewsPerHour": 1204,
       "views": 23977,
-      "ageHours": 17.9
+      "ageHours": 19.9
+    },
+    {
+      "title": "WATCH LIVE: Brooklyn community leaders hold meeting on building collapse",
+      "channel": "PBS NewsHour",
+      "videoId": "oBXJ7SfsoMs",
+      "viewsPerHour": 1138,
+      "views": 2829,
+      "ageHours": 2.5
+    },
+    {
+      "title": "Is it legal to build a border wall through a U.S. National Park?",
+      "channel": "MS NOW",
+      "videoId": "hb0ma_Y-hi0",
+      "viewsPerHour": 726,
+      "views": 1625,
+      "ageHours": 2.2
     },
     {
       "title": "Taps With Andy Richter (Full Episode) | Conan O'Brien Needs A Fan",
       "channel": "Conan O'Brien",
       "videoId": "MDxA_WS3g4U",
-      "viewsPerHour": 643,
+      "viewsPerHour": 601,
       "views": 18218,
-      "ageHours": 28.3
-    },
-    {
-      "title": "Nvidia fallout could COMPLICATE U.S.-China trade talks: Semafor",
-      "channel": "MS NOW",
-      "videoId": "MqsW-qltRs4",
-      "viewsPerHour": 539,
-      "views": 3209,
-      "ageHours": 6
+      "ageHours": 30.3
     },
     {
       "title": "A look inside Somalia, where USAID cuts have life-or-death consequences",
       "channel": "PBS NewsHour",
       "videoId": "8wTzRNKxirY",
-      "viewsPerHour": 484,
+      "viewsPerHour": 434,
       "views": 8209,
-      "ageHours": 17
+      "ageHours": 18.9
+    },
+    {
+      "title": "Nvidia fallout could COMPLICATE U.S.-China trade talks: Semafor",
+      "channel": "MS NOW",
+      "videoId": "MqsW-qltRs4",
+      "viewsPerHour": 405,
+      "views": 3209,
+      "ageHours": 7.9
     },
     {
       "title": "A Brief But Spectacular take on finding purpose after military service",
       "channel": "PBS NewsHour",
       "videoId": "T_CdO91wShI",
-      "viewsPerHour": 426,
+      "viewsPerHour": 382,
       "views": 7173,
-      "ageHours": 16.8
+      "ageHours": 18.8
     },
     {
       "title": "Does The Reagan Presidency Still Influence American Politics?",
       "channel": "Real Stories",
       "videoId": "lCwfMzlCwW0",
-      "viewsPerHour": 296,
-      "views": 6898,
-      "ageHours": 23.3
+      "viewsPerHour": 281,
+      "views": 7102,
+      "ageHours": 25.3
+    },
+    {
+      "title": "The Hidden Cost of War: Veterans and PTSD After Iraq & Afghanistan",
+      "channel": "Real Stories",
+      "videoId": "dQ-qGJlG8y0",
+      "viewsPerHour": 235,
+      "views": 541,
+      "ageHours": 2.3
     },
     {
       "title": "PBS News Hour live episode, Nov. 12, 2026",
       "channel": "PBS NewsHour",
       "videoId": "AVWE1uxNquE",
-      "viewsPerHour": 246,
+      "viewsPerHour": 223,
       "views": 4703,
-      "ageHours": 19.1
-    },
-    {
-      "title": "WATCH LIVE: Mayor Mamdani holds briefing on deadly Brooklyn building collapse",
-      "channel": "PBS NewsHour",
-      "videoId": "vmtJTL3qhaU",
-      "viewsPerHour": 64,
-      "views": 1563,
-      "ageHours": 24.6
-    },
-    {
-      "title": "Not an AI race but an AI WAR against China': Ruhle",
-      "channel": "MS NOW",
-      "videoId": "8i4ejhc_kMs",
-      "viewsPerHour": 58,
-      "views": 1393,
-      "ageHours": 23.9
-    },
-    {
-      "title": "WATCH LIVE: Senate considers judicial nomination and more",
-      "channel": "PBS NewsHour",
-      "videoId": "IZakQaaTs1s",
-      "viewsPerHour": 33,
-      "views": 795,
-      "ageHours": 24.2
-    },
-    {
-      "title": "How worried should we be about A.I. warfare?",
-      "channel": "MS NOW",
-      "videoId": "X0kiHM2O0Ng",
-      "viewsPerHour": 25,
-      "views": 592,
-      "ageHours": 24.1
+      "ageHours": 21.1
     },
     {
       "title": "Why Damian Lillard Doesn't Celebrate After Nailing A Shot | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "ZRjrPa_gxsQ",
-      "viewsPerHour": 20,
+      "viewsPerHour": 18,
       "views": 496,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
       "title": "New York building collapse kills 8, including 2 children",
       "channel": "PBS NewsHour",
       "videoId": "nzl4zK3GLtw",
-      "viewsPerHour": 16,
+      "viewsPerHour": 15,
       "views": 288,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "News Wrap: 1 killed and 4 injured in D.C. shooting",
       "channel": "PBS NewsHour",
       "videoId": "e5Qw94MRYhM",
-      "viewsPerHour": 4,
+      "viewsPerHour": 3,
       "views": 64,
-      "ageHours": 17.8
+      "ageHours": 19.8
+    },
+    {
+      "title": "Once a global leader in containing measles, U.S. now struggles with surge",
+      "channel": "PBS NewsHour",
+      "videoId": "oyum0B3XtMg",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 2.5
     }
   ]
 }
