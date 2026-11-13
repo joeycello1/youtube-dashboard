@@ -1,12 +1,20 @@
 {
   "videosPerChannel": [
     {
-      "channel": "PBS NewsHour",
+      "channel": "MS NOW",
       "count": 5
     },
     {
-      "channel": "MS NOW",
-      "count": 3
+      "channel": "The Daily Show",
+      "count": 14
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 13
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 8
     },
     {
       "channel": "NOVA",
@@ -21,20 +29,12 @@
       "count": 13
     },
     {
-      "channel": "The Daily Show",
-      "count": 12
-    },
-    {
       "channel": "The Rest Is Science",
       "count": 4
     },
     {
       "channel": "History",
       "count": 52
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 12
     },
     {
       "channel": "Chris Lehto",
@@ -83,8 +83,24 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "MS NOW, AI",
+      "count": 3
+    },
+    {
+      "keyword": "The Daily Show",
+      "count": 11
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 12
+    },
+    {
+      "keyword": "PBS NewsHour, AI",
+      "count": 1
+    },
+    {
       "keyword": "PBS NewsHour",
-      "count": 5
+      "count": 7
     },
     {
       "keyword": "MS NOW, Associated Press",
@@ -99,10 +115,6 @@
       "count": 38
     },
     {
-      "keyword": "MS NOW, AI",
-      "count": 1
-    },
-    {
       "keyword": "MS NOW",
       "count": 1
     },
@@ -111,20 +123,12 @@
       "count": 13
     },
     {
-      "keyword": "The Daily Show",
-      "count": 9
-    },
-    {
       "keyword": "The Daily Show, AI",
       "count": 2
     },
     {
       "keyword": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 11
     },
     {
       "keyword": "UFO",
@@ -232,6 +236,10 @@
     }
   ],
   "dailySummary": [
+    {
+      "date": "2026-11-13",
+      "videos": 8
+    },
     {
       "date": "2026-11-12",
       "videos": 16
@@ -475,8 +483,24 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "MS NOW, AI",
+      "matches": 3
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 11
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 6
+    },
+    {
+      "keyword": "PBS NewsHour, AI",
+      "matches": 1
+    },
+    {
       "keyword": "PBS NewsHour",
-      "matches": 5
+      "matches": 7
     },
     {
       "keyword": "MS NOW, Associated Press",
@@ -491,32 +515,20 @@
       "matches": 3
     },
     {
-      "keyword": "MS NOW, AI",
-      "matches": 1
-    },
-    {
       "keyword": "MS NOW",
       "matches": 1
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 8
-    },
-    {
-      "keyword": "The Daily Show",
-      "matches": 9
+      "matches": 7
     },
     {
       "keyword": "The Daily Show, AI",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "The Rest Is Science",
       "matches": 2
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 5
     },
     {
       "keyword": "UFO",
@@ -565,156 +577,212 @@
   ],
   "mostViral48h": [
     {
+      "title": "Jensen Huang Steps Down as Affairs Pile Up & Scott Colom Paints Mississippi Blue | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "RX59M5t7240",
+      "viewsPerHour": 169747,
+      "views": 1747199,
+      "ageHours": 10.3
+    },
+    {
       "title": "Hegseth Impeachment Fails After 11 Dems Play Hooky & Blue Wave Comes for Boebert | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "xpzI21vOJLE",
-      "viewsPerHour": 116993,
-      "views": 3778162,
-      "ageHours": 32.3
+      "viewsPerHour": 110690,
+      "views": 3797347,
+      "ageHours": 34.3
     },
     {
       "title": "Pet Tarot Readings, Designer Collars & Doggy BBLs? Lewis Black on Pampered Pets | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "tVBJ3JhFKGE",
-      "viewsPerHour": 30919,
-      "views": 706554,
-      "ageHours": 22.9
+      "viewsPerHour": 28914,
+      "views": 718906,
+      "ageHours": 24.9
     },
     {
-      "title": "Sports War: Tomlin Tackles Minecraft & Ailing Dutchman Gets the Gift of Gambling | The Daily Show",
+      "title": "Heather Cox Richardson on America’s Political History  & “Letters from an American” | The Daily Show",
       "channel": "The Daily Show",
-      "videoId": "_QxRaeBF9nw",
-      "viewsPerHour": 14036,
-      "views": 647509,
-      "ageHours": 46.1
+      "videoId": "W-o2X4C24lg",
+      "viewsPerHour": 26634,
+      "views": 234516,
+      "ageHours": 8.8
+    },
+    {
+      "title": "The most insane story' rocks Big Tech and has national security implications for Washington",
+      "channel": "MS NOW",
+      "videoId": "NEJfHzsJIUQ",
+      "viewsPerHour": 11966,
+      "views": 89623,
+      "ageHours": 7.5
+    },
+    {
+      "title": "Mattel & Convey demand 4,000 euro penalty over \"Uno\" in a 3D printed card holder description",
+      "channel": "Louis Rossmann",
+      "videoId": "qnlDQ9TiToU",
+      "viewsPerHour": 9094,
+      "views": 89911,
+      "ageHours": 9.9
+    },
+    {
+      "title": "PBS News Hour full episode, Nov. 12, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "RTgmjLhrXVM",
+      "viewsPerHour": 8703,
+      "views": 108826,
+      "ageHours": 12.5
     },
     {
       "title": "The Secrets Michael Keeps From Himself",
       "channel": "The Rest Is Science",
       "videoId": "rNM9ToViH-Q",
-      "viewsPerHour": 6821,
-      "views": 240131,
-      "ageHours": 35.2
+      "viewsPerHour": 6547,
+      "views": 243672,
+      "ageHours": 37.2
     },
     {
       "title": "Ron Howard on Richard Avedon’s Creative Courage & Preserving Artistry | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "SC033ROD-2s",
-      "viewsPerHour": 5986,
-      "views": 184398,
-      "ageHours": 30.8
-    },
-    {
-      "title": "The Einstein Time Glitch | What the Physics?!",
-      "channel": "NOVA",
-      "videoId": "lBLWUdL21OQ",
-      "viewsPerHour": 2452,
-      "views": 40996,
-      "ageHours": 16.7
+      "viewsPerHour": 5666,
+      "views": 185946,
+      "ageHours": 32.8
     },
     {
       "title": "Are These Artifacts Proof of Treasure? | The Curse of Oak Island",
       "channel": "History",
       "videoId": "Qd9QYzLpiiI",
-      "viewsPerHour": 2439,
-      "views": 98250,
-      "ageHours": 40.3
+      "viewsPerHour": 2352,
+      "views": 99471,
+      "ageHours": 42.3
+    },
+    {
+      "title": "The Einstein Time Glitch | What the Physics?!",
+      "channel": "NOVA",
+      "videoId": "lBLWUdL21OQ",
+      "viewsPerHour": 2240,
+      "views": 41957,
+      "ageHours": 18.7
     },
     {
       "title": "BREAKING ELECTION ALERT: Democrat WINS governor's race in DEEP-RED Kansas",
       "channel": "MS NOW",
       "videoId": "DSyHDixL9D4",
-      "viewsPerHour": 2014,
+      "viewsPerHour": 1723,
       "views": 23977,
-      "ageHours": 11.9
+      "ageHours": 13.9
+    },
+    {
+      "title": "Nvidia fallout could COMPLICATE U.S.-China trade talks: Semafor",
+      "channel": "MS NOW",
+      "videoId": "MqsW-qltRs4",
+      "viewsPerHour": 1656,
+      "views": 3209,
+      "ageHours": 1.9
     },
     {
       "title": "Taps With Andy Richter (Full Episode) | Conan O'Brien Needs A Fan",
       "channel": "Conan O'Brien",
       "videoId": "MDxA_WS3g4U",
-      "viewsPerHour": 817,
+      "viewsPerHour": 750,
       "views": 18218,
-      "ageHours": 22.3
+      "ageHours": 24.3
+    },
+    {
+      "title": "A look inside Somalia, where USAID cuts have life-or-death consequences",
+      "channel": "PBS NewsHour",
+      "videoId": "8wTzRNKxirY",
+      "viewsPerHour": 635,
+      "views": 8209,
+      "ageHours": 12.9
+    },
+    {
+      "title": "A Brief But Spectacular take on finding purpose after military service",
+      "channel": "PBS NewsHour",
+      "videoId": "T_CdO91wShI",
+      "viewsPerHour": 560,
+      "views": 7173,
+      "ageHours": 12.8
     },
     {
       "title": "Removing SmartTV spyware should be legal - we asked the copyright office for a DMCA exemption",
       "channel": "Louis Rossmann",
       "videoId": "HAnUSd9cX4E",
-      "viewsPerHour": 393,
+      "viewsPerHour": 376,
       "views": 17792,
-      "ageHours": 45.3
+      "ageHours": 47.3
     },
     {
       "title": "Does The Reagan Presidency Still Influence American Politics?",
       "channel": "Real Stories",
       "videoId": "lCwfMzlCwW0",
-      "viewsPerHour": 361,
-      "views": 6232,
-      "ageHours": 17.3
+      "viewsPerHour": 330,
+      "views": 6365,
+      "ageHours": 19.3
     },
     {
       "title": "PBS News Hour live episode, Nov. 12, 2026",
       "channel": "PBS NewsHour",
       "videoId": "AVWE1uxNquE",
-      "viewsPerHour": 359,
+      "viewsPerHour": 311,
       "views": 4703,
-      "ageHours": 13.1
-    },
-    {
-      "title": "WATCH LIVE: Mayor Mamdani holds briefing on deadly Brooklyn building collapse",
-      "channel": "PBS NewsHour",
-      "videoId": "vmtJTL3qhaU",
-      "viewsPerHour": 84,
-      "views": 1563,
-      "ageHours": 18.6
+      "ageHours": 15.1
     },
     {
       "title": "Dustin Hoffman Part II (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "LYMxj390Ygw",
-      "viewsPerHour": 80,
+      "viewsPerHour": 77,
       "views": 3471,
-      "ageHours": 43.3
+      "ageHours": 45.3
+    },
+    {
+      "title": "WATCH LIVE: Mayor Mamdani holds briefing on deadly Brooklyn building collapse",
+      "channel": "PBS NewsHour",
+      "videoId": "vmtJTL3qhaU",
+      "viewsPerHour": 76,
+      "views": 1563,
+      "ageHours": 20.6
     },
     {
       "title": "Not an AI race but an AI WAR against China': Ruhle",
       "channel": "MS NOW",
       "videoId": "8i4ejhc_kMs",
-      "viewsPerHour": 78,
+      "viewsPerHour": 70,
       "views": 1393,
-      "ageHours": 17.9
+      "ageHours": 19.9
     },
     {
       "title": "WATCH LIVE: Senate considers judicial nomination and more",
       "channel": "PBS NewsHour",
       "videoId": "IZakQaaTs1s",
-      "viewsPerHour": 44,
+      "viewsPerHour": 39,
       "views": 795,
-      "ageHours": 18.2
+      "ageHours": 20.2
     },
     {
       "title": "How worried should we be about A.I. warfare?",
       "channel": "MS NOW",
       "videoId": "X0kiHM2O0Ng",
-      "viewsPerHour": 33,
+      "viewsPerHour": 30,
       "views": 592,
-      "ageHours": 18
+      "ageHours": 20
     },
     {
       "title": "Why Damian Lillard Doesn't Celebrate After Nailing A Shot | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "ZRjrPa_gxsQ",
-      "viewsPerHour": 26,
+      "viewsPerHour": 23,
       "views": 496,
-      "ageHours": 19.3
+      "ageHours": 21.3
     },
     {
       "title": "New York building collapse kills 8, including 2 children",
       "channel": "PBS NewsHour",
       "videoId": "nzl4zK3GLtw",
-      "viewsPerHour": 24,
+      "viewsPerHour": 21,
       "views": 288,
-      "ageHours": 11.8
+      "ageHours": 13.8
     },
     {
       "title": "News Wrap: 1 killed and 4 injured in D.C. shooting",
@@ -722,7 +790,7 @@
       "videoId": "e5Qw94MRYhM",
       "viewsPerHour": 5,
       "views": 64,
-      "ageHours": 11.7
+      "ageHours": 13.8
     }
   ]
 }
