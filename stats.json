@@ -1,12 +1,24 @@
 {
   "videosPerChannel": [
     {
+      "channel": "The Daily Show",
+      "count": 14
+    },
+    {
+      "channel": "The Interview",
+      "count": 9
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 13
+    },
+    {
       "channel": "MS NOW",
-      "count": 4
+      "count": 3
     },
     {
       "channel": "PBS NewsHour",
-      "count": 3
+      "count": 1
     },
     {
       "channel": "History",
@@ -14,7 +26,7 @@
     },
     {
       "channel": "Conan O'Brien",
-      "count": 12
+      "count": 11
     },
     {
       "channel": "Area 52",
@@ -22,19 +34,11 @@
     },
     {
       "channel": "Real Stories",
-      "count": 42
+      "count": 41
     },
     {
       "channel": "More Perfect Union",
       "count": 28
-    },
-    {
-      "channel": "The Daily Show",
-      "count": 14
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 13
     },
     {
       "channel": "NOVA",
@@ -51,10 +55,6 @@
     {
       "channel": "Last Week Tonight",
       "count": 4
-    },
-    {
-      "channel": "The Interview",
-      "count": 8
     },
     {
       "channel": "Jeremy Corbell",
@@ -83,12 +83,24 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "The Daily Show",
+      "count": 12
+    },
+    {
+      "keyword": "The Interview",
+      "count": 8
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 12
+    },
+    {
       "keyword": "MS NOW",
-      "count": 4
+      "count": 3
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 3
+      "count": 1
     },
     {
       "keyword": "NOVA",
@@ -96,7 +108,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 12
+      "count": 11
     },
     {
       "keyword": "UFO, Grusch, UAP",
@@ -104,19 +116,11 @@
     },
     {
       "keyword": "Real Stories",
-      "count": 38
+      "count": 37
     },
     {
       "keyword": "More Perfect Union",
       "count": 23
-    },
-    {
-      "keyword": "The Daily Show",
-      "count": 12
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 12
     },
     {
       "keyword": "The Daily Show, AI",
@@ -145,10 +149,6 @@
     {
       "keyword": "AI",
       "count": 10
-    },
-    {
-      "keyword": "The Interview",
-      "count": 7
     },
     {
       "keyword": "Louis Rossmann, AI",
@@ -230,11 +230,11 @@
   "dailySummary": [
     {
       "date": "2026-11-14",
-      "videos": 4
+      "videos": 7
     },
     {
       "date": "2026-11-13",
-      "videos": 12
+      "videos": 9
     },
     {
       "date": "2026-11-12",
@@ -258,7 +258,7 @@
     },
     {
       "date": "2026-11-07",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-11-06",
@@ -270,7 +270,7 @@
     },
     {
       "date": "2026-11-04",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-11-03",
@@ -290,7 +290,7 @@
     },
     {
       "date": "2026-10-30",
-      "videos": 6
+      "videos": 5
     },
     {
       "date": "2026-10-29",
@@ -466,7 +466,7 @@
     },
     {
       "date": "2026-09-15",
-      "videos": 2
+      "videos": 1
     },
     {
       "date": "2026-08-15",
@@ -475,12 +475,24 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "The Daily Show",
+      "matches": 12
+    },
+    {
+      "keyword": "The Interview",
+      "matches": 2
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 5
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 4
+      "matches": 3
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 3
+      "matches": 1
     },
     {
       "keyword": "NOVA",
@@ -501,14 +513,6 @@
     {
       "keyword": "More Perfect Union",
       "matches": 2
-    },
-    {
-      "keyword": "The Daily Show",
-      "matches": 11
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 5
     },
     {
       "keyword": "The Daily Show, AI",
@@ -539,10 +543,6 @@
       "matches": 1
     },
     {
-      "keyword": "The Interview",
-      "matches": 1
-    },
-    {
       "keyword": "Louis Rossmann, AI",
       "matches": 1
     },
@@ -553,10 +553,6 @@
     {
       "keyword": "Corbell, UFO, anomalous, George Knapp, UAP, whistleblower",
       "matches": 1
-    },
-    {
-      "keyword": "Real Stories, NOVA",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -564,145 +560,129 @@
       "title": "Jensen Huang Steps Down as Affairs Pile Up & Scott Colom Paints Mississippi Blue | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "RX59M5t7240",
-      "viewsPerHour": 104787,
-      "views": 4011322,
-      "ageHours": 38.3
+      "viewsPerHour": 101737,
+      "views": 4097931,
+      "ageHours": 40.3
     },
     {
-      "title": "Why the air travel nightmare isn't over even though the ground stop is lifted",
-      "channel": "MS NOW",
-      "videoId": "FCJ41ZZI0jY",
-      "viewsPerHour": 25741,
-      "views": 302770,
-      "ageHours": 11.8
+      "title": "Jon Stewart on Stephen Miller & Desi on Scott Colom's Mississippi Win | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "zpUnm09lTUk",
+      "viewsPerHour": 98504,
+      "views": 520490,
+      "ageHours": 5.3
     },
     {
       "title": "Heather Cox Richardson on America’s Political History  & “Letters from an American” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "W-o2X4C24lg",
-      "viewsPerHour": 23592,
-      "views": 868006,
-      "ageHours": 36.8
+      "viewsPerHour": 23195,
+      "views": 899767,
+      "ageHours": 38.8
+    },
+    {
+      "title": "Why the air travel nightmare isn't over even though the ground stop is lifted",
+      "channel": "MS NOW",
+      "videoId": "FCJ41ZZI0jY",
+      "viewsPerHour": 22002,
+      "views": 302770,
+      "ageHours": 13.8
     },
     {
       "title": "Airport Food Has a Price Limit. We Tracked Down the Companies Breaking It",
       "channel": "More Perfect Union",
       "videoId": "35ypZJ3Zc0Y",
-      "viewsPerHour": 12680,
-      "views": 310559,
-      "ageHours": 24.5
+      "viewsPerHour": 12805,
+      "views": 339207,
+      "ageHours": 26.5
     },
     {
       "title": "Trash Ladies: Grace Meets the Pond-Diving Grannies Cleaning Up Cape Cod | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "auMligQUxas",
-      "viewsPerHour": 9666,
-      "views": 279343,
-      "ageHours": 28.9
+      "viewsPerHour": 9180,
+      "views": 283651,
+      "ageHours": 30.9
     },
     {
       "title": "Researcher Discusses Top UFO Cases of All Time - Vinnie Adams | ep. 107",
       "channel": "Area 52",
       "videoId": "dhayjLhr0eA",
-      "viewsPerHour": 7739,
-      "views": 187961,
-      "ageHours": 24.3
+      "viewsPerHour": 7390,
+      "views": 194261,
+      "ageHours": 26.3
+    },
+    {
+      "title": "Glowforge can disable an $8000 laser cutter if you hurt their feelings",
+      "channel": "Louis Rossmann",
+      "videoId": "sLv2XfkMGec",
+      "viewsPerHour": 7385,
+      "views": 42432,
+      "ageHours": 5.7
     },
     {
       "title": "Origins of Island Treasure Revealed? | The Curse of Oak Island",
       "channel": "History",
       "videoId": "Zi02FPPp2P0",
-      "viewsPerHour": 6283,
-      "views": 140003,
-      "ageHours": 22.3
+      "viewsPerHour": 6110,
+      "views": 148359,
+      "ageHours": 24.3
     },
     {
       "title": "WATCH LIVE: Duffy, Mullin give update as nationwide ground stop of air traffic is lifted",
       "channel": "PBS NewsHour",
       "videoId": "CAHVL87tFfI",
-      "viewsPerHour": 3415,
+      "viewsPerHour": 3018,
       "views": 51771,
-      "ageHours": 15.2
+      "ageHours": 17.2
     },
     {
       "title": "Redo the House': Tim Snyder urges Democrats to act fast and enact transformational change",
       "channel": "MS NOW",
       "videoId": "EmWOliQ_heo",
-      "viewsPerHour": 2864,
+      "viewsPerHour": 2446,
       "views": 33493,
-      "ageHours": 11.7
+      "ageHours": 13.7
     },
     {
       "title": "Mattel & Convey demand 4,000 euro penalty over \"Uno\" in a 3D printed card holder description",
       "channel": "Louis Rossmann",
       "videoId": "qnlDQ9TiToU",
-      "viewsPerHour": 2374,
+      "viewsPerHour": 2255,
       "views": 89911,
-      "ageHours": 37.9
+      "ageHours": 39.9
+    },
+    {
+      "title": "Olivia Wilde Hit Bottom. Here's How She Bounced Back With ‘The Invite’ and More. | The Interview",
+      "channel": "The Interview",
+      "videoId": "oHceU_lpCqo",
+      "viewsPerHour": 1535,
+      "views": 8508,
+      "ageHours": 5.5
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Nov. 13 | Audio Only",
       "channel": "MS NOW",
       "videoId": "jkFadnIdx4A",
-      "viewsPerHour": 1628,
+      "viewsPerHour": 1387,
       "views": 18791,
-      "ageHours": 11.5
-    },
-    {
-      "title": "The Einstein Time Glitch | What the Physics?!",
-      "channel": "NOVA",
-      "videoId": "lBLWUdL21OQ",
-      "viewsPerHour": 1240,
-      "views": 57933,
-      "ageHours": 46.7
+      "ageHours": 13.5
     },
     {
       "title": "The Greatest Legal Movies & TV Shows Ever (Feat. Team Coco Lawyer David Melmed) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "klXVgzHat9Y",
-      "viewsPerHour": 1079,
+      "viewsPerHour": 994,
       "views": 25133,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "The Hidden Cost of War: Veterans and PTSD After Iraq & Afghanistan",
       "channel": "Real Stories",
       "videoId": "dQ-qGJlG8y0",
-      "viewsPerHour": 263,
-      "views": 6391,
-      "ageHours": 24.3
-    },
-    {
-      "title": "Does The Reagan Presidency Still Influence American Politics?",
-      "channel": "Real Stories",
-      "videoId": "lCwfMzlCwW0",
-      "viewsPerHour": 172,
-      "views": 8153,
-      "ageHours": 47.3
-    },
-    {
-      "title": "WATCH LIVE: Brooklyn community leaders hold meeting on building collapse",
-      "channel": "PBS NewsHour",
-      "videoId": "oBXJ7SfsoMs",
-      "viewsPerHour": 116,
-      "views": 2829,
-      "ageHours": 24.5
-    },
-    {
-      "title": "Is it legal to build a border wall through a U.S. National Park?",
-      "channel": "MS NOW",
-      "videoId": "hb0ma_Y-hi0",
-      "viewsPerHour": 67,
-      "views": 1625,
-      "ageHours": 24.2
-    },
-    {
-      "title": "Once a global leader in containing measles, U.S. now struggles with surge",
-      "channel": "PBS NewsHour",
-      "videoId": "oyum0B3XtMg",
-      "viewsPerHour": 0,
-      "views": 0,
-      "ageHours": 24.5
+      "viewsPerHour": 256,
+      "views": 6722,
+      "ageHours": 26.3
     }
   ]
 }
