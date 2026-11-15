@@ -10,7 +10,7 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 13
+      "count": 12
     },
     {
       "channel": "MS NOW",
@@ -42,7 +42,7 @@
     },
     {
       "channel": "NOVA",
-      "count": 26
+      "count": 25
     },
     {
       "channel": "The Rest Is Science",
@@ -92,7 +92,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 12
+      "count": 11
     },
     {
       "keyword": "MS NOW",
@@ -104,7 +104,7 @@
     },
     {
       "keyword": "NOVA",
-      "count": 43
+      "count": 42
     },
     {
       "keyword": "Conan O'Brien",
@@ -290,7 +290,7 @@
     },
     {
       "date": "2026-10-30",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-10-29",
@@ -465,10 +465,6 @@
       "videos": 4
     },
     {
-      "date": "2026-09-15",
-      "videos": 1
-    },
-    {
       "date": "2026-08-15",
       "videos": 1
     }
@@ -549,10 +545,6 @@
     {
       "keyword": "Corbell, UFO, George Knapp, UAP",
       "matches": 1
-    },
-    {
-      "keyword": "Corbell, UFO, anomalous, George Knapp, UAP, whistleblower",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -560,129 +552,129 @@
       "title": "Jensen Huang Steps Down as Affairs Pile Up & Scott Colom Paints Mississippi Blue | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "RX59M5t7240",
-      "viewsPerHour": 95548,
+      "viewsPerHour": 91414,
       "views": 4232854,
-      "ageHours": 44.3
+      "ageHours": 46.3
     },
     {
       "title": "Jon Stewart on Stephen Miller & Desi on Scott Colom's Mississippi Win | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "zpUnm09lTUk",
-      "viewsPerHour": 93948,
+      "viewsPerHour": 77304,
       "views": 874197,
-      "ageHours": 9.3
+      "ageHours": 11.3
     },
     {
       "title": "Heather Cox Richardson on America’s Political History  & “Letters from an American” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "W-o2X4C24lg",
-      "viewsPerHour": 22435,
+      "viewsPerHour": 21432,
       "views": 960520,
-      "ageHours": 42.8
+      "ageHours": 44.8
     },
     {
       "title": "Why the air travel nightmare isn't over even though the ground stop is lifted",
       "channel": "MS NOW",
       "videoId": "FCJ41ZZI0jY",
-      "viewsPerHour": 17026,
+      "viewsPerHour": 15302,
       "views": 302770,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "Airport Food Has a Price Limit. We Tracked Down the Companies Breaking It",
       "channel": "More Perfect Union",
       "videoId": "35ypZJ3Zc0Y",
-      "viewsPerHour": 12420,
+      "viewsPerHour": 11655,
       "views": 378958,
-      "ageHours": 30.5
+      "ageHours": 32.5
     },
     {
       "title": "Trash Ladies: Grace Meets the Pond-Diving Grannies Cleaning Up Cape Cod | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "auMligQUxas",
-      "viewsPerHour": 8313,
+      "viewsPerHour": 7862,
       "views": 290269,
-      "ageHours": 34.9
+      "ageHours": 36.9
     },
     {
       "title": "Researcher Discusses Top UFO Cases of All Time - Vinnie Adams | ep. 107",
       "channel": "Area 52",
       "videoId": "dhayjLhr0eA",
-      "viewsPerHour": 6758,
+      "viewsPerHour": 6338,
       "views": 204802,
-      "ageHours": 30.3
+      "ageHours": 32.3
     },
     {
       "title": "Origins of Island Treasure Revealed? | The Curse of Oak Island",
       "channel": "History",
       "videoId": "Zi02FPPp2P0",
-      "viewsPerHour": 5772,
+      "viewsPerHour": 5391,
       "views": 163378,
-      "ageHours": 28.3
+      "ageHours": 30.3
     },
     {
       "title": "Glowforge can disable an $8000 laser cutter if you hurt their feelings",
       "channel": "Louis Rossmann",
       "videoId": "sLv2XfkMGec",
-      "viewsPerHour": 4344,
+      "viewsPerHour": 3605,
       "views": 42432,
-      "ageHours": 9.8
+      "ageHours": 11.8
     },
     {
       "title": "WATCH LIVE: Duffy, Mullin give update as nationwide ground stop of air traffic is lifted",
       "channel": "PBS NewsHour",
       "videoId": "CAHVL87tFfI",
-      "viewsPerHour": 2445,
+      "viewsPerHour": 2233,
       "views": 51771,
-      "ageHours": 21.2
+      "ageHours": 23.2
     },
     {
       "title": "Mattel & Convey demand 4,000 euro penalty over \"Uno\" in a 3D printed card holder description",
       "channel": "Louis Rossmann",
       "videoId": "qnlDQ9TiToU",
-      "viewsPerHour": 2048,
+      "viewsPerHour": 1959,
       "views": 89911,
-      "ageHours": 43.9
-    },
-    {
-      "title": "Olivia Wilde Hit Bottom. Here's How She Bounced Back With ‘The Invite’ and More. | The Interview",
-      "channel": "The Interview",
-      "videoId": "oHceU_lpCqo",
-      "viewsPerHour": 1944,
-      "views": 18595,
-      "ageHours": 9.6
+      "ageHours": 45.9
     },
     {
       "title": "Redo the House': Tim Snyder urges Democrats to act fast and enact transformational change",
       "channel": "MS NOW",
       "videoId": "EmWOliQ_heo",
-      "viewsPerHour": 1891,
+      "viewsPerHour": 1699,
       "views": 33493,
-      "ageHours": 17.7
+      "ageHours": 19.7
+    },
+    {
+      "title": "Olivia Wilde Hit Bottom. Here's How She Bounced Back With ‘The Invite’ and More. | The Interview",
+      "channel": "The Interview",
+      "videoId": "oHceU_lpCqo",
+      "viewsPerHour": 1608,
+      "views": 18595,
+      "ageHours": 11.6
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Nov. 13 | Audio Only",
       "channel": "MS NOW",
       "videoId": "jkFadnIdx4A",
-      "viewsPerHour": 1070,
+      "viewsPerHour": 960,
       "views": 18791,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
       "title": "The Greatest Legal Movies & TV Shows Ever (Feat. Team Coco Lawyer David Melmed) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "klXVgzHat9Y",
-      "viewsPerHour": 858,
+      "viewsPerHour": 803,
       "views": 25133,
-      "ageHours": 29.3
+      "ageHours": 31.3
     },
     {
       "title": "The Hidden Cost of War: Veterans and PTSD After Iraq & Afghanistan",
       "channel": "Real Stories",
       "videoId": "dQ-qGJlG8y0",
-      "viewsPerHour": 231,
+      "viewsPerHour": 217,
       "views": 7015,
-      "ageHours": 30.3
+      "ageHours": 32.3
     }
   ]
 }
