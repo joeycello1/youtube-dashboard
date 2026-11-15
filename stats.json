@@ -512,7 +512,7 @@
     },
     {
       "keyword": "The Rest Is Science",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "UFO",
@@ -536,73 +536,73 @@
       "title": "Sean Duffy: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "GC0dAsRl0ao",
-      "viewsPerHour": 110094,
-      "views": 2945178,
-      "ageHours": 26.8
+      "viewsPerHour": 105578,
+      "views": 3036606,
+      "ageHours": 28.8
     },
     {
       "title": "Jon Stewart on Stephen Miller & Desi on Scott Colom's Mississippi Win | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "zpUnm09lTUk",
-      "viewsPerHour": 53873,
-      "views": 1685344,
-      "ageHours": 31.3
+      "viewsPerHour": 52052,
+      "views": 1733039,
+      "ageHours": 33.3
     },
     {
       "title": "Hegseth ANXIOUSLY deflecting from the HOT SEAT | Deadline: White House Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "hNu61xuWPKs",
-      "viewsPerHour": 3307,
+      "viewsPerHour": 3009,
       "views": 67099,
-      "ageHours": 20.3
-    },
-    {
-      "title": "Schrodinger's contract",
-      "channel": "Louis Rossmann",
-      "videoId": "FYLEb5owS7c",
-      "viewsPerHour": 2164,
-      "views": 11235,
-      "ageHours": 5.2
+      "ageHours": 22.3
     },
     {
       "title": "Colom's 'MONUMENTAL & HISTORIC' victory in Mississippi | The Beat with Ari Melber Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "meSK6PbyfFQ",
-      "viewsPerHour": 2084,
+      "viewsPerHour": 1887,
       "views": 40194,
-      "ageHours": 19.3
+      "ageHours": 21.3
+    },
+    {
+      "title": "Schrodinger's contract",
+      "channel": "Louis Rossmann",
+      "videoId": "FYLEb5owS7c",
+      "viewsPerHour": 1560,
+      "views": 11235,
+      "ageHours": 7.2
     },
     {
       "title": "Olivia Wilde Hit Bottom. Here's How She Bounced Back With ‘The Invite’ and More. | The Interview",
       "channel": "The Interview",
       "videoId": "oHceU_lpCqo",
-      "viewsPerHour": 1542,
-      "views": 48625,
-      "ageHours": 31.5
+      "viewsPerHour": 1511,
+      "views": 50684,
+      "ageHours": 33.6
     },
     {
       "title": "Glowforge can disable an $8000 laser cutter if you hurt their feelings",
       "channel": "Louis Rossmann",
       "videoId": "sLv2XfkMGec",
-      "viewsPerHour": 1337,
+      "viewsPerHour": 1257,
       "views": 42432,
-      "ageHours": 31.7
+      "ageHours": 33.8
     },
     {
       "title": "Sentenced To Death At 19: Did Texas Send the Wrong Man to Death Row?",
       "channel": "Real Stories",
       "videoId": "mdMF6boosoM",
-      "viewsPerHour": 759,
-      "views": 20693,
-      "ageHours": 27.3
+      "viewsPerHour": 734,
+      "views": 21511,
+      "ageHours": 29.3
     },
     {
       "title": "First Ever Spaceship Catch Livestream (Starship 42) ",
       "channel": "Chris Lehto",
       "videoId": "X0SfILhP6OY",
-      "viewsPerHour": 106,
-      "views": 2509,
-      "ageHours": 23.6
+      "viewsPerHour": 101,
+      "views": 2594,
+      "ageHours": 25.6
     }
   ]
 }
