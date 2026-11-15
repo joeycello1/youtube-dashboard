@@ -540,105 +540,81 @@
       "title": "Sean Duffy: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "GC0dAsRl0ao",
-      "viewsPerHour": 123567,
-      "views": 2564902,
-      "ageHours": 20.8
+      "viewsPerHour": 118149,
+      "views": 2688777,
+      "ageHours": 22.8
     },
     {
       "title": "Jon Stewart on Stephen Miller & Desi on Scott Colom's Mississippi Win | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "zpUnm09lTUk",
-      "viewsPerHour": 59915,
-      "views": 1515224,
-      "ageHours": 25.3
+      "viewsPerHour": 57857,
+      "views": 1578908,
+      "ageHours": 27.3
     },
     {
-      "title": "Airport Food Has a Price Limit. We Tracked Down the Companies Breaking It",
-      "channel": "More Perfect Union",
-      "videoId": "35ypZJ3Zc0Y",
-      "viewsPerHour": 9986,
-      "views": 464317,
-      "ageHours": 46.5
-    },
-    {
-      "title": "Researcher Discusses Top UFO Cases of All Time - Vinnie Adams | ep. 107",
-      "channel": "Area 52",
-      "videoId": "dhayjLhr0eA",
-      "viewsPerHour": 5173,
-      "views": 239463,
+      "title": "Origins of Island Treasure Revealed? | The Curse of Oak Island",
+      "channel": "History",
+      "videoId": "Zi02FPPp2P0",
+      "viewsPerHour": 4149,
+      "views": 192048,
       "ageHours": 46.3
     },
     {
       "title": "Hegseth ANXIOUSLY deflecting from the HOT SEAT | Deadline: White House Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "hNu61xuWPKs",
-      "viewsPerHour": 4695,
+      "viewsPerHour": 4118,
       "views": 67099,
-      "ageHours": 14.3
-    },
-    {
-      "title": "Origins of Island Treasure Revealed? | The Curse of Oak Island",
-      "channel": "History",
-      "videoId": "Zi02FPPp2P0",
-      "viewsPerHour": 4263,
-      "views": 188803,
-      "ageHours": 44.3
+      "ageHours": 16.3
     },
     {
       "title": "Colom's 'MONUMENTAL & HISTORIC' victory in Mississippi | The Beat with Ari Melber Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "meSK6PbyfFQ",
-      "viewsPerHour": 3023,
+      "viewsPerHour": 2628,
       "views": 40194,
-      "ageHours": 13.3
-    },
-    {
-      "title": "Glowforge can disable an $8000 laser cutter if you hurt their feelings",
-      "channel": "Louis Rossmann",
-      "videoId": "sLv2XfkMGec",
-      "viewsPerHour": 1648,
-      "views": 42432,
-      "ageHours": 25.8
+      "ageHours": 15.3
     },
     {
       "title": "Olivia Wilde Hit Bottom. Here's How She Bounced Back With ‘The Invite’ and More. | The Interview",
       "channel": "The Interview",
       "videoId": "oHceU_lpCqo",
-      "viewsPerHour": 1640,
-      "views": 41898,
-      "ageHours": 25.5
+      "viewsPerHour": 1614,
+      "views": 44471,
+      "ageHours": 27.5
+    },
+    {
+      "title": "Glowforge can disable an $8000 laser cutter if you hurt their feelings",
+      "channel": "Louis Rossmann",
+      "videoId": "sLv2XfkMGec",
+      "viewsPerHour": 1529,
+      "views": 42432,
+      "ageHours": 27.8
     },
     {
       "title": "Sentenced To Death At 19: Did Texas Send the Wrong Man to Death Row?",
       "channel": "Real Stories",
       "videoId": "mdMF6boosoM",
-      "viewsPerHour": 878,
-      "views": 18699,
-      "ageHours": 21.3
+      "viewsPerHour": 833,
+      "views": 19396,
+      "ageHours": 23.3
     },
     {
       "title": "The Greatest Legal Movies & TV Shows Ever (Feat. Team Coco Lawyer David Melmed) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "klXVgzHat9Y",
-      "viewsPerHour": 555,
+      "viewsPerHour": 531,
       "views": 25133,
-      "ageHours": 45.3
-    },
-    {
-      "title": "The Hidden Cost of War: Veterans and PTSD After Iraq & Afghanistan",
-      "channel": "Real Stories",
-      "videoId": "dQ-qGJlG8y0",
-      "viewsPerHour": 168,
-      "views": 7756,
-      "ageHours": 46.3
+      "ageHours": 47.3
     },
     {
       "title": "First Ever Spaceship Catch Livestream (Starship 42) ",
       "channel": "Chris Lehto",
       "videoId": "X0SfILhP6OY",
-      "viewsPerHour": 134,
-      "views": 2363,
-      "ageHours": 17.6
+      "viewsPerHour": 125,
+      "views": 2449,
+      "ageHours": 19.6
     }
   ]
 }
