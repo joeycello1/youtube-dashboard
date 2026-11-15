@@ -484,11 +484,11 @@
     },
     {
       "keyword": "The Daily Show",
-      "matches": 12
+      "matches": 11
     },
     {
       "keyword": "The Interview",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "Louis Rossmann",
@@ -540,105 +540,105 @@
       "title": "Sean Duffy: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "GC0dAsRl0ao",
-      "viewsPerHour": 131344,
-      "views": 2463757,
-      "ageHours": 18.8
+      "viewsPerHour": 123567,
+      "views": 2564902,
+      "ageHours": 20.8
     },
     {
       "title": "Jon Stewart on Stephen Miller & Desi on Scott Colom's Mississippi Win | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "zpUnm09lTUk",
-      "viewsPerHour": 62692,
-      "views": 1460142,
-      "ageHours": 23.3
+      "viewsPerHour": 59915,
+      "views": 1515224,
+      "ageHours": 25.3
     },
     {
       "title": "Airport Food Has a Price Limit. We Tracked Down the Companies Breaking It",
       "channel": "More Perfect Union",
       "videoId": "35ypZJ3Zc0Y",
-      "viewsPerHour": 10116,
-      "views": 450131,
-      "ageHours": 44.5
-    },
-    {
-      "title": "Hegseth ANXIOUSLY deflecting from the HOT SEAT | Deadline: White House Weekly Highlights",
-      "channel": "MS NOW",
-      "videoId": "hNu61xuWPKs",
-      "viewsPerHour": 5458,
-      "views": 67099,
-      "ageHours": 12.3
+      "viewsPerHour": 9986,
+      "views": 464317,
+      "ageHours": 46.5
     },
     {
       "title": "Researcher Discusses Top UFO Cases of All Time - Vinnie Adams | ep. 107",
       "channel": "Area 52",
       "videoId": "dhayjLhr0eA",
-      "viewsPerHour": 5334,
-      "views": 236249,
-      "ageHours": 44.3
+      "viewsPerHour": 5173,
+      "views": 239463,
+      "ageHours": 46.3
+    },
+    {
+      "title": "Hegseth ANXIOUSLY deflecting from the HOT SEAT | Deadline: White House Weekly Highlights",
+      "channel": "MS NOW",
+      "videoId": "hNu61xuWPKs",
+      "viewsPerHour": 4695,
+      "views": 67099,
+      "ageHours": 14.3
     },
     {
       "title": "Origins of Island Treasure Revealed? | The Curse of Oak Island",
       "channel": "History",
       "videoId": "Zi02FPPp2P0",
-      "viewsPerHour": 4410,
-      "views": 186491,
-      "ageHours": 42.3
+      "viewsPerHour": 4263,
+      "views": 188803,
+      "ageHours": 44.3
     },
     {
       "title": "Colom's 'MONUMENTAL & HISTORIC' victory in Mississippi | The Beat with Ari Melber Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "meSK6PbyfFQ",
-      "viewsPerHour": 3558,
+      "viewsPerHour": 3023,
       "views": 40194,
-      "ageHours": 11.3
+      "ageHours": 13.3
     },
     {
       "title": "Glowforge can disable an $8000 laser cutter if you hurt their feelings",
       "channel": "Louis Rossmann",
       "videoId": "sLv2XfkMGec",
-      "viewsPerHour": 1786,
+      "viewsPerHour": 1648,
       "views": 42432,
-      "ageHours": 23.8
+      "ageHours": 25.8
     },
     {
       "title": "Olivia Wilde Hit Bottom. Here's How She Bounced Back With ‘The Invite’ and More. | The Interview",
       "channel": "The Interview",
       "videoId": "oHceU_lpCqo",
-      "viewsPerHour": 1696,
-      "views": 39934,
-      "ageHours": 23.5
+      "viewsPerHour": 1640,
+      "views": 41898,
+      "ageHours": 25.5
     },
     {
       "title": "Sentenced To Death At 19: Did Texas Send the Wrong Man to Death Row?",
       "channel": "Real Stories",
       "videoId": "mdMF6boosoM",
-      "viewsPerHour": 935,
-      "views": 18032,
-      "ageHours": 19.3
+      "viewsPerHour": 878,
+      "views": 18699,
+      "ageHours": 21.3
     },
     {
       "title": "The Greatest Legal Movies & TV Shows Ever (Feat. Team Coco Lawyer David Melmed) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "klXVgzHat9Y",
-      "viewsPerHour": 581,
+      "viewsPerHour": 555,
       "views": 25133,
-      "ageHours": 43.3
+      "ageHours": 45.3
     },
     {
       "title": "The Hidden Cost of War: Veterans and PTSD After Iraq & Afghanistan",
       "channel": "Real Stories",
       "videoId": "dQ-qGJlG8y0",
-      "viewsPerHour": 173,
-      "views": 7665,
-      "ageHours": 44.3
+      "viewsPerHour": 168,
+      "views": 7756,
+      "ageHours": 46.3
     },
     {
       "title": "First Ever Spaceship Catch Livestream (Starship 42) ",
       "channel": "Chris Lehto",
       "videoId": "X0SfILhP6OY",
-      "viewsPerHour": 145,
-      "views": 2263,
-      "ageHours": 15.6
+      "viewsPerHour": 134,
+      "views": 2363,
+      "ageHours": 17.6
     }
   ]
 }
