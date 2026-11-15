@@ -13,16 +13,8 @@
       "count": 12
     },
     {
-      "channel": "MS NOW",
-      "count": 3
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 1
-    },
-    {
       "channel": "History",
-      "count": 53
+      "count": 52
     },
     {
       "channel": "Conan O'Brien",
@@ -95,14 +87,6 @@
       "count": 11
     },
     {
-      "keyword": "MS NOW",
-      "count": 3
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "count": 1
-    },
-    {
       "keyword": "NOVA",
       "count": 42
     },
@@ -132,7 +116,7 @@
     },
     {
       "keyword": "UFO",
-      "count": 39
+      "count": 38
     },
     {
       "keyword": "UAP, UFO",
@@ -230,7 +214,7 @@
   "dailySummary": [
     {
       "date": "2026-11-14",
-      "videos": 7
+      "videos": 3
     },
     {
       "date": "2026-11-13",
@@ -462,7 +446,7 @@
     },
     {
       "date": "2026-09-16",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-08-15",
@@ -481,14 +465,6 @@
     {
       "keyword": "Louis Rossmann",
       "matches": 5
-    },
-    {
-      "keyword": "MS NOW",
-      "matches": 3
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 1
     },
     {
       "keyword": "NOVA",
@@ -548,105 +524,73 @@
       "title": "Jon Stewart on Stephen Miller & Desi on Scott Colom's Mississippi Win | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "zpUnm09lTUk",
-      "viewsPerHour": 57201,
+      "viewsPerHour": 50588,
       "views": 874197,
-      "ageHours": 15.3
-    },
-    {
-      "title": "Why the air travel nightmare isn't over even though the ground stop is lifted",
-      "channel": "MS NOW",
-      "videoId": "FCJ41ZZI0jY",
-      "viewsPerHour": 12743,
-      "views": 302770,
-      "ageHours": 23.8
+      "ageHours": 17.3
     },
     {
       "title": "Airport Food Has a Price Limit. We Tracked Down the Companies Breaking It",
       "channel": "More Perfect Union",
       "videoId": "35ypZJ3Zc0Y",
-      "viewsPerHour": 10385,
+      "viewsPerHour": 9846,
       "views": 378958,
-      "ageHours": 36.5
+      "ageHours": 38.5
     },
     {
       "title": "Trash Ladies: Grace Meets the Pond-Diving Grannies Cleaning Up Cape Cod | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "auMligQUxas",
-      "viewsPerHour": 7098,
+      "viewsPerHour": 6767,
       "views": 290269,
-      "ageHours": 40.9
+      "ageHours": 42.9
     },
     {
       "title": "Researcher Discusses Top UFO Cases of All Time - Vinnie Adams | ep. 107",
       "channel": "Area 52",
       "videoId": "dhayjLhr0eA",
-      "viewsPerHour": 5644,
+      "viewsPerHour": 5350,
       "views": 204802,
-      "ageHours": 36.3
+      "ageHours": 38.3
     },
     {
       "title": "Origins of Island Treasure Revealed? | The Curse of Oak Island",
       "channel": "History",
       "videoId": "Zi02FPPp2P0",
-      "viewsPerHour": 4766,
+      "viewsPerHour": 4503,
       "views": 163378,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
       "title": "Glowforge can disable an $8000 laser cutter if you hurt their feelings",
       "channel": "Louis Rossmann",
       "videoId": "sLv2XfkMGec",
-      "viewsPerHour": 2695,
+      "viewsPerHour": 2392,
       "views": 42432,
-      "ageHours": 15.7
-    },
-    {
-      "title": "WATCH LIVE: Duffy, Mullin give update as nationwide ground stop of air traffic is lifted",
-      "channel": "PBS NewsHour",
-      "videoId": "CAHVL87tFfI",
-      "viewsPerHour": 1906,
-      "views": 51771,
-      "ageHours": 27.2
-    },
-    {
-      "title": "Redo the House': Tim Snyder urges Democrats to act fast and enact transformational change",
-      "channel": "MS NOW",
-      "videoId": "EmWOliQ_heo",
-      "viewsPerHour": 1414,
-      "views": 33493,
-      "ageHours": 23.7
+      "ageHours": 17.7
     },
     {
       "title": "Olivia Wilde Hit Bottom. Here's How She Bounced Back With ‘The Invite’ and More. | The Interview",
       "channel": "The Interview",
       "videoId": "oHceU_lpCqo",
-      "viewsPerHour": 1196,
+      "viewsPerHour": 1060,
       "views": 18595,
-      "ageHours": 15.5
-    },
-    {
-      "title": "The Last Word with Lawrence O'Donnell - Nov. 13 | Audio Only",
-      "channel": "MS NOW",
-      "videoId": "jkFadnIdx4A",
-      "viewsPerHour": 798,
-      "views": 18791,
-      "ageHours": 23.5
+      "ageHours": 17.5
     },
     {
       "title": "The Greatest Legal Movies & TV Shows Ever (Feat. Team Coco Lawyer David Melmed) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "klXVgzHat9Y",
-      "viewsPerHour": 712,
+      "viewsPerHour": 674,
       "views": 25133,
-      "ageHours": 35.3
+      "ageHours": 37.3
     },
     {
       "title": "The Hidden Cost of War: Veterans and PTSD After Iraq & Afghanistan",
       "channel": "Real Stories",
       "videoId": "dQ-qGJlG8y0",
-      "viewsPerHour": 193,
+      "viewsPerHour": 183,
       "views": 7015,
-      "ageHours": 36.3
+      "ageHours": 38.3
     }
   ]
 }
