@@ -1,6 +1,10 @@
 {
   "videosPerChannel": [
     {
+      "channel": "Louis Rossmann",
+      "count": 13
+    },
+    {
       "channel": "MS NOW",
       "count": 2
     },
@@ -18,23 +22,19 @@
     },
     {
       "channel": "The Daily Show",
-      "count": 14
+      "count": 13
     },
     {
       "channel": "The Interview",
       "count": 9
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 12
-    },
-    {
       "channel": "History",
-      "count": 52
+      "count": 51
     },
     {
       "channel": "Conan O'Brien",
-      "count": 11
+      "count": 9
     },
     {
       "channel": "Area 52",
@@ -42,11 +42,11 @@
     },
     {
       "channel": "More Perfect Union",
-      "count": 28
+      "count": 27
     },
     {
       "channel": "NOVA",
-      "count": 25
+      "count": 24
     },
     {
       "channel": "The Rest Is Science",
@@ -79,6 +79,10 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "Louis Rossmann",
+      "count": 12
+    },
+    {
       "keyword": "MS NOW",
       "count": 2
     },
@@ -96,23 +100,19 @@
     },
     {
       "keyword": "The Daily Show",
-      "count": 12
+      "count": 11
     },
     {
       "keyword": "The Interview",
       "count": 8
     },
     {
-      "keyword": "Louis Rossmann",
-      "count": 11
-    },
-    {
       "keyword": "NOVA",
-      "count": 42
+      "count": 41
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 11
+      "count": 9
     },
     {
       "keyword": "UFO, Grusch, UAP",
@@ -120,7 +120,7 @@
     },
     {
       "keyword": "More Perfect Union",
-      "count": 23
+      "count": 22
     },
     {
       "keyword": "The Daily Show, AI",
@@ -132,7 +132,7 @@
     },
     {
       "keyword": "UFO",
-      "count": 38
+      "count": 37
     },
     {
       "keyword": "UAP, UFO",
@@ -222,7 +222,7 @@
   "dailySummary": [
     {
       "date": "2026-11-15",
-      "videos": 2
+      "videos": 3
     },
     {
       "date": "2026-11-14",
@@ -250,7 +250,7 @@
     },
     {
       "date": "2026-11-08",
-      "videos": 8
+      "videos": 7
     },
     {
       "date": "2026-11-07",
@@ -262,7 +262,7 @@
     },
     {
       "date": "2026-11-05",
-      "videos": 8
+      "videos": 6
     },
     {
       "date": "2026-11-04",
@@ -457,15 +457,15 @@
       "videos": 4
     },
     {
-      "date": "2026-09-16",
-      "videos": 3
-    },
-    {
       "date": "2026-08-15",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 6
+    },
     {
       "keyword": "MS NOW",
       "matches": 2
@@ -480,7 +480,7 @@
     },
     {
       "keyword": "Real Stories",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "The Daily Show",
@@ -489,10 +489,6 @@
     {
       "keyword": "The Interview",
       "matches": 1
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 5
     },
     {
       "keyword": "NOVA",
@@ -520,7 +516,7 @@
     },
     {
       "keyword": "UFO",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "UAP, UFO",
@@ -540,81 +536,73 @@
       "title": "Sean Duffy: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "GC0dAsRl0ao",
-      "viewsPerHour": 118149,
-      "views": 2688777,
-      "ageHours": 22.8
+      "viewsPerHour": 114474,
+      "views": 2833263,
+      "ageHours": 24.8
     },
     {
       "title": "Jon Stewart on Stephen Miller & Desi on Scott Colom's Mississippi Win | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "zpUnm09lTUk",
-      "viewsPerHour": 57857,
-      "views": 1578908,
-      "ageHours": 27.3
-    },
-    {
-      "title": "Origins of Island Treasure Revealed? | The Curse of Oak Island",
-      "channel": "History",
-      "videoId": "Zi02FPPp2P0",
-      "viewsPerHour": 4149,
-      "views": 192048,
-      "ageHours": 46.3
+      "viewsPerHour": 55857,
+      "views": 1635635,
+      "ageHours": 29.3
     },
     {
       "title": "Hegseth ANXIOUSLY deflecting from the HOT SEAT | Deadline: White House Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "hNu61xuWPKs",
-      "viewsPerHour": 4118,
+      "viewsPerHour": 3669,
       "views": 67099,
-      "ageHours": 16.3
+      "ageHours": 18.3
+    },
+    {
+      "title": "Schrodinger's contract",
+      "channel": "Louis Rossmann",
+      "videoId": "FYLEb5owS7c",
+      "viewsPerHour": 3522,
+      "views": 11235,
+      "ageHours": 3.2
     },
     {
       "title": "Colom's 'MONUMENTAL & HISTORIC' victory in Mississippi | The Beat with Ari Melber Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "meSK6PbyfFQ",
-      "viewsPerHour": 2628,
+      "viewsPerHour": 2325,
       "views": 40194,
-      "ageHours": 15.3
+      "ageHours": 17.3
     },
     {
       "title": "Olivia Wilde Hit Bottom. Here's How She Bounced Back With ‘The Invite’ and More. | The Interview",
       "channel": "The Interview",
       "videoId": "oHceU_lpCqo",
-      "viewsPerHour": 1614,
-      "views": 44471,
-      "ageHours": 27.5
+      "viewsPerHour": 1578,
+      "views": 46612,
+      "ageHours": 29.5
     },
     {
       "title": "Glowforge can disable an $8000 laser cutter if you hurt their feelings",
       "channel": "Louis Rossmann",
       "videoId": "sLv2XfkMGec",
-      "viewsPerHour": 1529,
+      "viewsPerHour": 1427,
       "views": 42432,
-      "ageHours": 27.8
+      "ageHours": 29.7
     },
     {
       "title": "Sentenced To Death At 19: Did Texas Send the Wrong Man to Death Row?",
       "channel": "Real Stories",
       "videoId": "mdMF6boosoM",
-      "viewsPerHour": 833,
-      "views": 19396,
-      "ageHours": 23.3
-    },
-    {
-      "title": "The Greatest Legal Movies & TV Shows Ever (Feat. Team Coco Lawyer David Melmed) | Bley's Arcade",
-      "channel": "Conan O'Brien",
-      "videoId": "klXVgzHat9Y",
-      "viewsPerHour": 531,
-      "views": 25133,
-      "ageHours": 47.3
+      "viewsPerHour": 793,
+      "views": 20044,
+      "ageHours": 25.3
     },
     {
       "title": "First Ever Spaceship Catch Livestream (Starship 42) ",
       "channel": "Chris Lehto",
       "videoId": "X0SfILhP6OY",
-      "viewsPerHour": 125,
-      "views": 2449,
-      "ageHours": 19.6
+      "viewsPerHour": 115,
+      "views": 2493,
+      "ageHours": 21.6
     }
   ]
 }
