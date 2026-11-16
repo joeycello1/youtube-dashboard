@@ -1,12 +1,24 @@
 {
   "videosPerChannel": [
     {
-      "channel": "Louis Rossmann",
-      "count": 13
+      "channel": "MS NOW",
+      "count": 4
     },
     {
-      "channel": "MS NOW",
-      "count": 2
+      "channel": "History",
+      "count": 53
+    },
+    {
+      "channel": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "channel": "Real Stories",
+      "count": 43
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 13
     },
     {
       "channel": "Chris Lehto",
@@ -17,20 +29,12 @@
       "count": 5
     },
     {
-      "channel": "Real Stories",
-      "count": 42
-    },
-    {
       "channel": "The Daily Show",
       "count": 13
     },
     {
       "channel": "The Interview",
       "count": 9
-    },
-    {
-      "channel": "History",
-      "count": 51
     },
     {
       "channel": "Conan O'Brien",
@@ -47,10 +51,6 @@
     {
       "channel": "NOVA",
       "count": 24
-    },
-    {
-      "channel": "The Rest Is Science",
-      "count": 4
     },
     {
       "channel": "Jeremy Corbell",
@@ -79,12 +79,24 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "Louis Rossmann",
-      "count": 12
+      "keyword": "MS NOW",
+      "count": 4
     },
     {
-      "keyword": "MS NOW",
-      "count": 2
+      "keyword": "UFO",
+      "count": 39
+    },
+    {
+      "keyword": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 39
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 12
     },
     {
       "keyword": "UAP",
@@ -93,10 +105,6 @@
     {
       "keyword": "Last Week Tonight",
       "count": 5
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 38
     },
     {
       "keyword": "The Daily Show",
@@ -125,14 +133,6 @@
     {
       "keyword": "The Daily Show, AI",
       "count": 1
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "count": 4
-    },
-    {
-      "keyword": "UFO",
-      "count": 37
     },
     {
       "keyword": "UAP, UFO",
@@ -222,7 +222,7 @@
   "dailySummary": [
     {
       "date": "2026-11-15",
-      "videos": 3
+      "videos": 9
     },
     {
       "date": "2026-11-14",
@@ -463,12 +463,24 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "Louis Rossmann",
-      "matches": 6
+      "keyword": "MS NOW",
+      "matches": 4
     },
     {
-      "keyword": "MS NOW",
+      "keyword": "UFO",
+      "matches": 3
+    },
+    {
+      "keyword": "The Rest Is Science",
       "matches": 2
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 5
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 6
     },
     {
       "keyword": "UAP",
@@ -477,10 +489,6 @@
     {
       "keyword": "Last Week Tonight",
       "matches": 3
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 4
     },
     {
       "keyword": "The Daily Show",
@@ -511,23 +519,11 @@
       "matches": 1
     },
     {
-      "keyword": "The Rest Is Science",
-      "matches": 1
-    },
-    {
-      "keyword": "UFO",
-      "matches": 1
-    },
-    {
       "keyword": "UAP, UFO",
       "matches": 1
     },
     {
       "keyword": "The Daily Show, MS NOW",
-      "matches": 1
-    },
-    {
-      "keyword": "AI",
       "matches": 1
     }
   ],
@@ -536,73 +532,121 @@
       "title": "Sean Duffy: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "GC0dAsRl0ao",
-      "viewsPerHour": 105578,
+      "viewsPerHour": 98739,
       "views": 3036606,
-      "ageHours": 28.8
+      "ageHours": 30.8
     },
     {
       "title": "Jon Stewart on Stephen Miller & Desi on Scott Colom's Mississippi Win | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "zpUnm09lTUk",
-      "viewsPerHour": 52052,
-      "views": 1733039,
-      "ageHours": 33.3
+      "viewsPerHour": 50507,
+      "views": 1782194,
+      "ageHours": 35.3
+    },
+    {
+      "title": "What's The Deal With Boomers?",
+      "channel": "The Rest Is Science",
+      "videoId": "NpWIkpNomn8",
+      "viewsPerHour": 12940,
+      "views": 42608,
+      "ageHours": 3.3
+    },
+    {
+      "title": "Alien Artifacts That Could Rewrite History | In Search of Aliens",
+      "channel": "History",
+      "videoId": "ieSgx2CduOU",
+      "viewsPerHour": 2861,
+      "views": 18010,
+      "ageHours": 6.3
     },
     {
       "title": "Hegseth ANXIOUSLY deflecting from the HOT SEAT | Deadline: White House Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "hNu61xuWPKs",
-      "viewsPerHour": 3009,
+      "viewsPerHour": 2762,
       "views": 67099,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "Colom's 'MONUMENTAL & HISTORIC' victory in Mississippi | The Beat with Ari Melber Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "meSK6PbyfFQ",
-      "viewsPerHour": 1887,
+      "viewsPerHour": 1726,
       "views": 40194,
-      "ageHours": 21.3
-    },
-    {
-      "title": "Schrodinger's contract",
-      "channel": "Louis Rossmann",
-      "videoId": "FYLEb5owS7c",
-      "viewsPerHour": 1560,
-      "views": 11235,
-      "ageHours": 7.2
+      "ageHours": 23.3
     },
     {
       "title": "Olivia Wilde Hit Bottom. Here's How She Bounced Back With ‘The Invite’ and More. | The Interview",
       "channel": "The Interview",
       "videoId": "oHceU_lpCqo",
-      "viewsPerHour": 1511,
+      "viewsPerHour": 1426,
       "views": 50684,
-      "ageHours": 33.6
+      "ageHours": 35.5
+    },
+    {
+      "title": "Colom TRIUMPHS over Mississippi’s history of violent resistance to Black political participation",
+      "channel": "MS NOW",
+      "videoId": "EOSrf8sm9O4",
+      "viewsPerHour": 1374,
+      "views": 5058,
+      "ageHours": 3.7
+    },
+    {
+      "title": "Schrodinger's contract",
+      "channel": "Louis Rossmann",
+      "videoId": "FYLEb5owS7c",
+      "viewsPerHour": 1222,
+      "views": 11235,
+      "ageHours": 9.2
+    },
+    {
+      "title": "Government UFO Secrets | UFO Conspiracy: Hunt for the Truth | Special",
+      "channel": "History",
+      "videoId": "Wj3tcfwePEE",
+      "viewsPerHour": 1196,
+      "views": 2733,
+      "ageHours": 2.3
     },
     {
       "title": "Glowforge can disable an $8000 laser cutter if you hurt their feelings",
       "channel": "Louis Rossmann",
       "videoId": "sLv2XfkMGec",
-      "viewsPerHour": 1257,
+      "viewsPerHour": 1187,
       "views": 42432,
-      "ageHours": 33.8
+      "ageHours": 35.7
+    },
+    {
+      "title": "THIS IMPACTS FAMILIES:' Senator-elect Colom comments on airport delays after FAA ground stop",
+      "channel": "MS NOW",
+      "videoId": "SpsXScIT5-g",
+      "viewsPerHour": 910,
+      "views": 1863,
+      "ageHours": 2
     },
     {
       "title": "Sentenced To Death At 19: Did Texas Send the Wrong Man to Death Row?",
       "channel": "Real Stories",
       "videoId": "mdMF6boosoM",
-      "viewsPerHour": 734,
+      "viewsPerHour": 688,
       "views": 21511,
-      "ageHours": 29.3
+      "ageHours": 31.3
+    },
+    {
+      "title": "Oil Pirates: Hunting Inside the Dangerous Red Zone",
+      "channel": "Real Stories",
+      "videoId": "pgDyRrMx3c0",
+      "viewsPerHour": 621,
+      "views": 4523,
+      "ageHours": 7.3
     },
     {
       "title": "First Ever Spaceship Catch Livestream (Starship 42) ",
       "channel": "Chris Lehto",
       "videoId": "X0SfILhP6OY",
-      "viewsPerHour": 101,
-      "views": 2594,
-      "ageHours": 25.6
+      "viewsPerHour": 95,
+      "views": 2630,
+      "ageHours": 27.6
     }
   ]
 }
