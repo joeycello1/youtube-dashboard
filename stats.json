@@ -488,7 +488,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "matches": 3
+      "matches": 2
     },
     {
       "keyword": "The Daily Show",
@@ -532,121 +532,121 @@
       "title": "Sean Duffy: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "GC0dAsRl0ao",
-      "viewsPerHour": 92711,
+      "viewsPerHour": 87376,
       "views": 3036606,
-      "ageHours": 32.8
+      "ageHours": 34.8
     },
     {
       "title": "Jon Stewart on Stephen Miller & Desi on Scott Colom's Mississippi Win | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "zpUnm09lTUk",
-      "viewsPerHour": 47798,
+      "viewsPerHour": 45365,
       "views": 1782194,
-      "ageHours": 37.3
+      "ageHours": 39.3
     },
     {
       "title": "What's The Deal With Boomers?",
       "channel": "The Rest Is Science",
       "videoId": "NpWIkpNomn8",
-      "viewsPerHour": 8051,
+      "viewsPerHour": 5843,
       "views": 42608,
-      "ageHours": 5.3
+      "ageHours": 7.3
     },
     {
       "title": "Hegseth ANXIOUSLY deflecting from the HOT SEAT | Deadline: White House Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "hNu61xuWPKs",
-      "viewsPerHour": 2552,
+      "viewsPerHour": 2372,
       "views": 67099,
-      "ageHours": 26.3
+      "ageHours": 28.3
     },
     {
       "title": "Alien Artifacts That Could Rewrite History | In Search of Aliens",
       "channel": "History",
       "videoId": "ieSgx2CduOU",
-      "viewsPerHour": 2171,
+      "viewsPerHour": 1749,
       "views": 18010,
-      "ageHours": 8.3
+      "ageHours": 10.3
     },
     {
       "title": "Colom's 'MONUMENTAL & HISTORIC' victory in Mississippi | The Beat with Ari Melber Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "meSK6PbyfFQ",
-      "viewsPerHour": 1589,
+      "viewsPerHour": 1473,
       "views": 40194,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
       "title": "Olivia Wilde Hit Bottom. Here's How She Bounced Back With ‘The Invite’ and More. | The Interview",
       "channel": "The Interview",
       "videoId": "oHceU_lpCqo",
-      "viewsPerHour": 1350,
+      "viewsPerHour": 1282,
       "views": 50684,
-      "ageHours": 37.5
+      "ageHours": 39.5
     },
     {
       "title": "Glowforge can disable an $8000 laser cutter if you hurt their feelings",
       "channel": "Louis Rossmann",
       "videoId": "sLv2XfkMGec",
-      "viewsPerHour": 1124,
+      "viewsPerHour": 1068,
       "views": 42432,
-      "ageHours": 37.7
+      "ageHours": 39.7
     },
     {
       "title": "Schrodinger's contract",
       "channel": "Louis Rossmann",
       "videoId": "FYLEb5owS7c",
-      "viewsPerHour": 1004,
+      "viewsPerHour": 852,
       "views": 11235,
-      "ageHours": 11.2
+      "ageHours": 13.2
     },
     {
       "title": "Colom TRIUMPHS over Mississippi’s history of violent resistance to Black political participation",
       "channel": "MS NOW",
       "videoId": "EOSrf8sm9O4",
-      "viewsPerHour": 890,
+      "viewsPerHour": 658,
       "views": 5058,
-      "ageHours": 5.7
+      "ageHours": 7.7
     },
     {
       "title": "Sentenced To Death At 19: Did Texas Send the Wrong Man to Death Row?",
       "channel": "Real Stories",
       "videoId": "mdMF6boosoM",
-      "viewsPerHour": 646,
+      "viewsPerHour": 610,
       "views": 21511,
-      "ageHours": 33.3
+      "ageHours": 35.3
     },
     {
       "title": "Government UFO Secrets | UFO Conspiracy: Hunt for the Truth | Special",
       "channel": "History",
       "videoId": "Wj3tcfwePEE",
-      "viewsPerHour": 638,
+      "viewsPerHour": 435,
       "views": 2733,
-      "ageHours": 4.3
+      "ageHours": 6.3
     },
     {
       "title": "Oil Pirates: Hunting Inside the Dangerous Red Zone",
       "channel": "Real Stories",
       "videoId": "pgDyRrMx3c0",
-      "viewsPerHour": 487,
+      "viewsPerHour": 401,
       "views": 4523,
-      "ageHours": 9.3
+      "ageHours": 11.3
     },
     {
       "title": "THIS IMPACTS FAMILIES:' Senator-elect Colom comments on airport delays after FAA ground stop",
       "channel": "MS NOW",
       "videoId": "SpsXScIT5-g",
-      "viewsPerHour": 460,
+      "viewsPerHour": 308,
       "views": 1863,
-      "ageHours": 4
+      "ageHours": 6
     },
     {
       "title": "First Ever Spaceship Catch Livestream (Starship 42) ",
       "channel": "Chris Lehto",
       "videoId": "X0SfILhP6OY",
-      "viewsPerHour": 89,
+      "viewsPerHour": 83,
       "views": 2630,
-      "ageHours": 29.6
+      "ageHours": 31.6
     }
   ]
 }
