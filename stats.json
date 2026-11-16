@@ -2,7 +2,15 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 5
+      "count": 8
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 3
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 8
     },
     {
       "channel": "Diary of a CEO",
@@ -22,7 +30,7 @@
     },
     {
       "channel": "Real Stories",
-      "count": 43
+      "count": 42
     },
     {
       "channel": "Louis Rossmann",
@@ -41,10 +49,6 @@
       "count": 9
     },
     {
-      "channel": "Conan O'Brien",
-      "count": 9
-    },
-    {
       "channel": "Area 52",
       "count": 6
     },
@@ -54,7 +58,7 @@
     },
     {
       "channel": "NOVA",
-      "count": 24
+      "count": 23
     },
     {
       "channel": "Jeremy Corbell",
@@ -80,7 +84,15 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 5
+      "count": 8
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 3
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 8
     },
     {
       "keyword": "AI",
@@ -120,11 +132,7 @@
     },
     {
       "keyword": "NOVA",
-      "count": 41
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 9
+      "count": 40
     },
     {
       "keyword": "UFO, Grusch, UAP",
@@ -200,7 +208,7 @@
     },
     {
       "keyword": "Real Stories, testimony",
-      "count": 3
+      "count": 2
     },
     {
       "keyword": "AI, artificial intelligence, UAP",
@@ -222,7 +230,7 @@
   "dailySummary": [
     {
       "date": "2026-11-16",
-      "videos": 6
+      "videos": 13
     },
     {
       "date": "2026-11-15",
@@ -262,7 +270,7 @@
     },
     {
       "date": "2026-11-06",
-      "videos": 6
+      "videos": 4
     },
     {
       "date": "2026-11-05",
@@ -458,7 +466,7 @@
     },
     {
       "date": "2026-09-17",
-      "videos": 3
+      "videos": 1
     },
     {
       "date": "2026-08-15",
@@ -468,7 +476,15 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 5
+      "matches": 8
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 3
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 7
     },
     {
       "keyword": "AI",
@@ -511,10 +527,6 @@
       "matches": 4
     },
     {
-      "keyword": "Conan O'Brien",
-      "matches": 6
-    },
-    {
       "keyword": "UFO, Grusch, UAP",
       "matches": 1
     },
@@ -540,129 +552,169 @@
       "title": "Alligator Alcatraz: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "dtKt6BiTfFk",
-      "viewsPerHour": 136494,
-      "views": 1341896,
-      "ageHours": 9.8
+      "viewsPerHour": 143405,
+      "views": 1691277,
+      "ageHours": 11.8
     },
     {
       "title": "Russian Honeypot: I Was Trained To Control A Man's Mind With Sex! | John Kiriakou & Aliia Roza",
       "channel": "Diary of a CEO",
       "videoId": "1mDHHi398ig",
-      "viewsPerHour": 107997,
-      "views": 1007644,
-      "ageHours": 9.3
-    },
-    {
-      "title": "Sean Duffy: Last Week Tonight with John Oliver (HBO)",
-      "channel": "Last Week Tonight",
-      "videoId": "GC0dAsRl0ao",
-      "viewsPerHour": 78571,
-      "views": 3676807,
-      "ageHours": 46.8
+      "viewsPerHour": 120395,
+      "views": 1359603,
+      "ageHours": 11.3
     },
     {
       "title": "S13 E30: The FAA, Alligator Alcatraz & Season Finale: 11/15/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "EPCJ4i3bmBY",
-      "viewsPerHour": 46526,
-      "views": 620313,
-      "ageHours": 13.3
+      "viewsPerHour": 45462,
+      "views": 695340,
+      "ageHours": 15.3
     },
     {
       "title": "What's The Deal With Boomers?",
       "channel": "The Rest Is Science",
       "videoId": "NpWIkpNomn8",
-      "viewsPerHour": 13715,
-      "views": 265171,
-      "ageHours": 19.3
+      "viewsPerHour": 13569,
+      "views": 288978,
+      "ageHours": 21.3
     },
     {
       "title": "Government UFO Secrets | UFO Conspiracy: Hunt for the Truth | Special",
       "channel": "History",
       "videoId": "Wj3tcfwePEE",
-      "viewsPerHour": 8626,
-      "views": 158099,
-      "ageHours": 18.3
+      "viewsPerHour": 8182,
+      "views": 166008,
+      "ageHours": 20.3
     },
     {
-      "title": "Lawrence: Decency WON in Ohio | The Last Word Weekly Highlights",
-      "channel": "MS NOW",
-      "videoId": "SZaGMLABUOo",
-      "viewsPerHour": 3003,
-      "views": 46042,
-      "ageHours": 15.3
+      "title": "Adam Brody (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "bzFbtAt_wiQ",
+      "viewsPerHour": 3152,
+      "views": 13511,
+      "ageHours": 4.3
     },
     {
       "title": "Alien Artifacts That Could Rewrite History | In Search of Aliens",
       "channel": "History",
       "videoId": "ieSgx2CduOU",
-      "viewsPerHour": 2791,
-      "views": 62342,
-      "ageHours": 22.3
+      "viewsPerHour": 2756,
+      "views": 66975,
+      "ageHours": 24.3
     },
     {
-      "title": "Secy. Duffy refuses responsibility over nationwide FAA ground stop",
+      "title": "Lawrence: Decency WON in Ohio | The Last Word Weekly Highlights",
       "channel": "MS NOW",
-      "videoId": "nfDdsg0a4cY",
-      "viewsPerHour": 1347,
-      "views": 8359,
-      "ageHours": 6.2
+      "videoId": "SZaGMLABUOo",
+      "viewsPerHour": 2662,
+      "views": 46042,
+      "ageHours": 17.3
     },
     {
       "title": "How Scott Colom FLIPPED Mississippi BLUE | The 11th Hour with Ali Velshi Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "WUMn9snjb5c",
-      "viewsPerHour": 1218,
+      "viewsPerHour": 1072,
       "views": 17462,
-      "ageHours": 14.3
+      "ageHours": 16.3
     },
     {
-      "title": "Sentenced To Death At 19: Did Texas Send the Wrong Man to Death Row?",
-      "channel": "Real Stories",
-      "videoId": "mdMF6boosoM",
-      "viewsPerHour": 629,
-      "views": 29770,
-      "ageHours": 47.3
+      "title": "Secy. Duffy refuses responsibility over nationwide FAA ground stop",
+      "channel": "MS NOW",
+      "videoId": "nfDdsg0a4cY",
+      "viewsPerHour": 1023,
+      "views": 8359,
+      "ageHours": 8.2
+    },
+    {
+      "title": "‘The job of a lifetime’: Willie to depart Morning Joe after nearly 20 years",
+      "channel": "MS NOW",
+      "videoId": "bj1EftycnlQ",
+      "viewsPerHour": 727,
+      "views": 1652,
+      "ageHours": 2.3
     },
     {
       "title": "Schrodinger's contract",
       "channel": "Louis Rossmann",
       "videoId": "FYLEb5owS7c",
-      "viewsPerHour": 445,
+      "viewsPerHour": 413,
       "views": 11235,
-      "ageHours": 25.2
+      "ageHours": 27.2
+    },
+    {
+      "title": "‘The job of a lifetime’: Willie to depart Morning Joe after nearly 20 years",
+      "channel": "MS NOW",
+      "videoId": "9hDhMMjIsg4",
+      "viewsPerHour": 405,
+      "views": 755,
+      "ageHours": 1.9
     },
     {
       "title": "Oil Pirates: Hunting Inside the Dangerous Red Zone",
       "channel": "Real Stories",
       "videoId": "pgDyRrMx3c0",
-      "viewsPerHour": 386,
-      "views": 8994,
-      "ageHours": 23.3
+      "viewsPerHour": 371,
+      "views": 9386,
+      "ageHours": 25.3
+    },
+    {
+      "title": "WATCH: Trump on Nvidia fallout and meeting with Xi",
+      "channel": "PBS NewsHour",
+      "videoId": "gHsRKrQvj2E",
+      "viewsPerHour": 290,
+      "views": 877,
+      "ageHours": 3
+    },
+    {
+      "title": "Bryan Cranston announces ‘All My Sons’ coming to Broadway this spring",
+      "channel": "MS NOW",
+      "videoId": "oAPZHaiYHWs",
+      "viewsPerHour": 251,
+      "views": 740,
+      "ageHours": 3
     },
     {
       "title": "Colom TRIUMPHS over Mississippi’s history of violent resistance to Black political participation",
       "channel": "MS NOW",
       "videoId": "EOSrf8sm9O4",
-      "viewsPerHour": 256,
+      "viewsPerHour": 233,
       "views": 5058,
-      "ageHours": 19.7
+      "ageHours": 21.7
     },
     {
       "title": "THIS IMPACTS FAMILIES:' Senator-elect Colom comments on airport delays after FAA ground stop",
       "channel": "MS NOW",
       "videoId": "SpsXScIT5-g",
-      "viewsPerHour": 103,
+      "viewsPerHour": 93,
       "views": 1863,
-      "ageHours": 18.1
+      "ageHours": 20.1
     },
     {
       "title": "First Ever Spaceship Catch Livestream (Starship 42) ",
       "channel": "Chris Lehto",
       "videoId": "X0SfILhP6OY",
-      "viewsPerHour": 64,
-      "views": 2776,
-      "ageHours": 43.6
+      "viewsPerHour": 61,
+      "views": 2789,
+      "ageHours": 45.6
+    },
+    {
+      "title": "WATCH LIVE: A closer look at Democrats’ blue wave and your 2026 election questions",
+      "channel": "PBS NewsHour",
+      "videoId": "zAOw6DQNPcE",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 2.4
+    },
+    {
+      "title": "WATCH LIVE: Senate convenes to consider judicial nomination",
+      "channel": "PBS NewsHour",
+      "videoId": "rKmd434CZPM",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 3.6
     }
   ]
 }
