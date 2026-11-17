@@ -520,7 +520,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "matches": 10
+      "matches": 9
     },
     {
       "keyword": "The Interview",
@@ -545,10 +545,6 @@
     {
       "keyword": "UAP, UFO",
       "matches": 1
-    },
-    {
-      "keyword": "The Daily Show, MS NOW",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -556,185 +552,185 @@
       "title": "Russian Honeypot: I Was Trained To Control A Man's Mind With Sex! | John Kiriakou & Aliia Roza",
       "channel": "Diary of a CEO",
       "videoId": "1mDHHi398ig",
-      "viewsPerHour": 132056,
-      "views": 2547597,
-      "ageHours": 19.3
+      "viewsPerHour": 128512,
+      "views": 2736381,
+      "ageHours": 21.3
     },
     {
       "title": "Alligator Alcatraz: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "dtKt6BiTfFk",
-      "viewsPerHour": 129291,
-      "views": 2559016,
-      "ageHours": 19.8
+      "viewsPerHour": 124616,
+      "views": 2715824,
+      "ageHours": 21.8
     },
     {
       "title": "S13 E30: The FAA, Alligator Alcatraz & Season Finale: 11/15/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "EPCJ4i3bmBY",
-      "viewsPerHour": 39192,
-      "views": 912930,
-      "ageHours": 23.3
+      "viewsPerHour": 36585,
+      "views": 925416,
+      "ageHours": 25.3
     },
     {
       "title": "BREAKING: United Airlines reports WIDESPREAD outage DAYS after ground stop, NO flights taking off",
       "channel": "MS NOW",
       "videoId": "yWeF8rmnzGI",
-      "viewsPerHour": 23629,
+      "viewsPerHour": 16203,
       "views": 103152,
-      "ageHours": 4.4
-    },
-    {
-      "title": "What's HAPPENING?': Series of BIZARRE tech outages across U.S. CONFOUND experts",
-      "channel": "MS NOW",
-      "videoId": "svpyPbAdx7g",
-      "viewsPerHour": 16463,
-      "views": 67209,
-      "ageHours": 4.1
+      "ageHours": 6.4
     },
     {
       "title": "What's The Deal With Boomers?",
       "channel": "The Rest Is Science",
       "videoId": "NpWIkpNomn8",
-      "viewsPerHour": 12505,
-      "views": 366357,
-      "ageHours": 29.3
+      "viewsPerHour": 12049,
+      "views": 377102,
+      "ageHours": 31.3
+    },
+    {
+      "title": "What's HAPPENING?': Series of BIZARRE tech outages across U.S. CONFOUND experts",
+      "channel": "MS NOW",
+      "videoId": "svpyPbAdx7g",
+      "viewsPerHour": 11048,
+      "views": 67209,
+      "ageHours": 6.1
     },
     {
       "title": "Government UFO Secrets | UFO Conspiracy: Hunt for the Truth | Special",
       "channel": "History",
       "videoId": "Wj3tcfwePEE",
-      "viewsPerHour": 6742,
-      "views": 190738,
-      "ageHours": 28.3
+      "viewsPerHour": 6585,
+      "views": 199462,
+      "ageHours": 30.3
     },
     {
       "title": "PBS News Hour live episode, Nov. 16, 2026",
       "channel": "PBS NewsHour",
       "videoId": "tUhcNwPtNxg",
-      "viewsPerHour": 3264,
+      "viewsPerHour": 2451,
       "views": 19683,
-      "ageHours": 6
+      "ageHours": 8
     },
     {
       "title": "Alien Artifacts That Could Rewrite History | In Search of Aliens",
       "channel": "History",
       "videoId": "ieSgx2CduOU",
-      "viewsPerHour": 2433,
-      "views": 78573,
-      "ageHours": 32.3
-    },
-    {
-      "title": "Marantz receiver pushes updated privacy policy that covers immigration status w/ no disagree button",
-      "channel": "Louis Rossmann",
-      "videoId": "yjztDQCe9_0",
-      "viewsPerHour": 2030,
-      "views": 10646,
-      "ageHours": 5.2
+      "viewsPerHour": 2394,
+      "views": 82105,
+      "ageHours": 34.3
     },
     {
       "title": "Lawrence: Decency WON in Ohio | The Last Word Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "SZaGMLABUOo",
-      "viewsPerHour": 1820,
+      "viewsPerHour": 1687,
       "views": 46042,
-      "ageHours": 25.3
+      "ageHours": 27.3
+    },
+    {
+      "title": "Marantz receiver pushes updated privacy policy that covers immigration status w/ no disagree button",
+      "channel": "Louis Rossmann",
+      "videoId": "yjztDQCe9_0",
+      "viewsPerHour": 1469,
+      "views": 10646,
+      "ageHours": 7.2
     },
     {
       "title": "Adam Brody (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "bzFbtAt_wiQ",
-      "viewsPerHour": 1100,
+      "viewsPerHour": 946,
       "views": 13511,
-      "ageHours": 12.3
-    },
-    {
-      "title": "Inside Taiwan's Black Society: Bo-Jiao, Wanhua, and Three Knives Six Eyes",
-      "channel": "Real Stories",
-      "videoId": "axsDLHdLE3c",
-      "viewsPerHour": 721,
-      "views": 6695,
-      "ageHours": 9.3
+      "ageHours": 14.3
     },
     {
       "title": "How Scott Colom FLIPPED Mississippi BLUE | The 11th Hour with Ali Velshi Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "WUMn9snjb5c",
-      "viewsPerHour": 719,
+      "viewsPerHour": 664,
       "views": 17462,
-      "ageHours": 24.3
+      "ageHours": 26.3
+    },
+    {
+      "title": "Inside Taiwan's Black Society: Bo-Jiao, Wanhua, and Three Knives Six Eyes",
+      "channel": "Real Stories",
+      "videoId": "axsDLHdLE3c",
+      "viewsPerHour": 644,
+      "views": 7270,
+      "ageHours": 11.3
     },
     {
       "title": "Secy. Duffy refuses responsibility over nationwide FAA ground stop",
       "channel": "MS NOW",
       "videoId": "nfDdsg0a4cY",
-      "viewsPerHour": 517,
+      "viewsPerHour": 460,
       "views": 8359,
-      "ageHours": 16.2
+      "ageHours": 18.2
     },
     {
       "title": "Schrodinger's contract",
       "channel": "Louis Rossmann",
       "videoId": "FYLEb5owS7c",
-      "viewsPerHour": 319,
+      "viewsPerHour": 302,
       "views": 11235,
-      "ageHours": 35.2
+      "ageHours": 37.2
     },
     {
       "title": "Oil Pirates: Hunting Inside the Dangerous Red Zone",
       "channel": "Real Stories",
       "videoId": "pgDyRrMx3c0",
-      "viewsPerHour": 306,
-      "views": 10170,
-      "ageHours": 33.3
+      "viewsPerHour": 290,
+      "views": 10231,
+      "ageHours": 35.3
     },
     {
       "title": "News Wrap: Trump departs for trip to Asia, meetings with Xi and Putin",
       "channel": "PBS NewsHour",
       "videoId": "cWcsiXEazQU",
-      "viewsPerHour": 204,
+      "viewsPerHour": 135,
       "views": 789,
-      "ageHours": 3.9
+      "ageHours": 5.9
     },
     {
       "title": "‘The job of a lifetime’: Willie to depart Morning Joe after nearly 20 years",
       "channel": "MS NOW",
       "videoId": "bj1EftycnlQ",
-      "viewsPerHour": 161,
+      "viewsPerHour": 135,
       "views": 1652,
-      "ageHours": 10.3
+      "ageHours": 12.3
     },
     {
       "title": "WATCH: Trump on Nvidia fallout and meeting with Xi",
       "channel": "PBS NewsHour",
       "videoId": "gHsRKrQvj2E",
-      "viewsPerHour": 80,
+      "viewsPerHour": 67,
       "views": 877,
-      "ageHours": 11
+      "ageHours": 13
     },
     {
       "title": "‘The job of a lifetime’: Willie to depart Morning Joe after nearly 20 years",
       "channel": "MS NOW",
       "videoId": "9hDhMMjIsg4",
-      "viewsPerHour": 77,
+      "viewsPerHour": 64,
       "views": 755,
-      "ageHours": 9.9
+      "ageHours": 11.9
     },
     {
       "title": "Bryan Cranston announces ‘All My Sons’ coming to Broadway this spring",
       "channel": "MS NOW",
       "videoId": "oAPZHaiYHWs",
-      "viewsPerHour": 68,
+      "viewsPerHour": 57,
       "views": 740,
-      "ageHours": 10.9
+      "ageHours": 13
     },
     {
       "title": "U.S. works to close loophole that let China access advanced AI chips",
       "channel": "PBS NewsHour",
       "videoId": "S5Caer27f9Q",
-      "viewsPerHour": 4,
+      "viewsPerHour": 3,
       "views": 16,
-      "ageHours": 3.7
+      "ageHours": 5.7
     },
     {
       "title": "WATCH LIVE: A closer look at Democrats’ blue wave and your 2026 election questions",
@@ -742,7 +738,7 @@
       "videoId": "zAOw6DQNPcE",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 10.4
+      "ageHours": 12.4
     },
     {
       "title": "WATCH LIVE: Senate convenes to consider judicial nomination",
@@ -750,7 +746,7 @@
       "videoId": "rKmd434CZPM",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 11.6
+      "ageHours": 13.6
     }
   ]
 }
