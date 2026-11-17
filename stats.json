@@ -1,12 +1,20 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 6
+    },
+    {
       "channel": "MS NOW",
       "count": 8
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 3
+      "channel": "Louis Rossmann",
+      "count": 14
+    },
+    {
+      "channel": "Real Stories",
+      "count": 43
     },
     {
       "channel": "Conan O'Brien",
@@ -22,19 +30,11 @@
     },
     {
       "channel": "History",
-      "count": 53
+      "count": 52
     },
     {
       "channel": "The Rest Is Science",
-      "count": 5
-    },
-    {
-      "channel": "Real Stories",
-      "count": 42
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 13
+      "count": 4
     },
     {
       "channel": "Chris Lehto",
@@ -83,12 +83,24 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "PBS NewsHour, AI",
+      "count": 2
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 4
+    },
+    {
       "keyword": "MS NOW",
       "count": 8
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 3
+      "keyword": "Louis Rossmann",
+      "count": 13
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 40
     },
     {
       "keyword": "Conan O'Brien",
@@ -104,19 +116,11 @@
     },
     {
       "keyword": "UFO",
-      "count": 38
+      "count": 37
     },
     {
       "keyword": "The Rest Is Science",
-      "count": 5
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 39
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 12
+      "count": 4
     },
     {
       "keyword": "UAP",
@@ -230,11 +234,11 @@
   "dailySummary": [
     {
       "date": "2026-11-16",
-      "videos": 13
+      "videos": 20
     },
     {
       "date": "2026-11-15",
-      "videos": 7
+      "videos": 5
     },
     {
       "date": "2026-11-14",
@@ -290,7 +294,7 @@
     },
     {
       "date": "2026-11-01",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-10-31",
@@ -465,22 +469,30 @@
       "videos": 6
     },
     {
-      "date": "2026-09-17",
-      "videos": 1
-    },
-    {
       "date": "2026-08-15",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "PBS NewsHour, AI",
+      "matches": 2
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 4
+    },
+    {
       "keyword": "MS NOW",
       "matches": 8
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 3
+      "keyword": "Louis Rossmann",
+      "matches": 6
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 6
     },
     {
       "keyword": "Conan O'Brien",
@@ -501,14 +513,6 @@
     {
       "keyword": "The Rest Is Science",
       "matches": 2
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 5
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 5
     },
     {
       "keyword": "UAP",
@@ -549,148 +553,188 @@
   ],
   "mostViral48h": [
     {
-      "title": "Alligator Alcatraz: Last Week Tonight with John Oliver (HBO)",
-      "channel": "Last Week Tonight",
-      "videoId": "dtKt6BiTfFk",
-      "viewsPerHour": 137366,
-      "views": 2169704,
-      "ageHours": 15.8
-    },
-    {
       "title": "Russian Honeypot: I Was Trained To Control A Man's Mind With Sex! | John Kiriakou & Aliia Roza",
       "channel": "Diary of a CEO",
       "videoId": "1mDHHi398ig",
-      "viewsPerHour": 134808,
-      "views": 2061787,
-      "ageHours": 15.3
+      "viewsPerHour": 135541,
+      "views": 2345268,
+      "ageHours": 17.3
+    },
+    {
+      "title": "Alligator Alcatraz: Last Week Tonight with John Oliver (HBO)",
+      "channel": "Last Week Tonight",
+      "videoId": "dtKt6BiTfFk",
+      "viewsPerHour": 133192,
+      "views": 2371327,
+      "ageHours": 17.8
+    },
+    {
+      "title": "BREAKING: United Airlines reports WIDESPREAD outage DAYS after ground stop, NO flights taking off",
+      "channel": "MS NOW",
+      "videoId": "yWeF8rmnzGI",
+      "viewsPerHour": 43404,
+      "views": 103152,
+      "ageHours": 2.4
     },
     {
       "title": "S13 E30: The FAA, Alligator Alcatraz & Season Finale: 11/15/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "EPCJ4i3bmBY",
-      "viewsPerHour": 43484,
-      "views": 839090,
-      "ageHours": 19.3
+      "viewsPerHour": 41701,
+      "views": 888450,
+      "ageHours": 21.3
+    },
+    {
+      "title": "What's HAPPENING?': Series of BIZARRE tech outages across U.S. CONFOUND experts",
+      "channel": "MS NOW",
+      "videoId": "svpyPbAdx7g",
+      "viewsPerHour": 32103,
+      "views": 67209,
+      "ageHours": 2.1
     },
     {
       "title": "What's The Deal With Boomers?",
       "channel": "The Rest Is Science",
       "videoId": "NpWIkpNomn8",
-      "viewsPerHour": 13137,
-      "views": 332351,
-      "ageHours": 25.3
+      "viewsPerHour": 12917,
+      "views": 352743,
+      "ageHours": 27.3
     },
     {
       "title": "Government UFO Secrets | UFO Conspiracy: Hunt for the Truth | Special",
       "channel": "History",
       "videoId": "Wj3tcfwePEE",
-      "viewsPerHour": 7355,
-      "views": 178667,
-      "ageHours": 24.3
+      "viewsPerHour": 7017,
+      "views": 184544,
+      "ageHours": 26.3
+    },
+    {
+      "title": "PBS News Hour live episode, Nov. 16, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "tUhcNwPtNxg",
+      "viewsPerHour": 4870,
+      "views": 19683,
+      "ageHours": 4
+    },
+    {
+      "title": "Marantz receiver pushes updated privacy policy that covers immigration status w/ no disagree button",
+      "channel": "Louis Rossmann",
+      "videoId": "yjztDQCe9_0",
+      "viewsPerHour": 3269,
+      "views": 10646,
+      "ageHours": 3.3
     },
     {
       "title": "Alien Artifacts That Could Rewrite History | In Search of Aliens",
       "channel": "History",
       "videoId": "ieSgx2CduOU",
-      "viewsPerHour": 2579,
-      "views": 72975,
-      "ageHours": 28.3
+      "viewsPerHour": 2508,
+      "views": 76023,
+      "ageHours": 30.3
     },
     {
       "title": "Lawrence: Decency WON in Ohio | The Last Word Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "SZaGMLABUOo",
-      "viewsPerHour": 2162,
+      "viewsPerHour": 1975,
       "views": 46042,
-      "ageHours": 21.3
+      "ageHours": 23.3
     },
     {
       "title": "Adam Brody (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "bzFbtAt_wiQ",
-      "viewsPerHour": 1630,
+      "viewsPerHour": 1312,
       "views": 13511,
-      "ageHours": 8.3
+      "ageHours": 10.3
+    },
+    {
+      "title": "Inside Taiwan's Black Society: Bo-Jiao, Wanhua, and Three Knives Six Eyes",
+      "channel": "Real Stories",
+      "videoId": "axsDLHdLE3c",
+      "viewsPerHour": 807,
+      "views": 5895,
+      "ageHours": 7.3
     },
     {
       "title": "How Scott Colom FLIPPED Mississippi BLUE | The 11th Hour with Ali Velshi Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "WUMn9snjb5c",
-      "viewsPerHour": 860,
+      "viewsPerHour": 783,
       "views": 17462,
-      "ageHours": 20.3
+      "ageHours": 22.3
     },
     {
       "title": "Secy. Duffy refuses responsibility over nationwide FAA ground stop",
       "channel": "MS NOW",
       "videoId": "nfDdsg0a4cY",
-      "viewsPerHour": 687,
+      "viewsPerHour": 590,
       "views": 8359,
-      "ageHours": 12.2
+      "ageHours": 14.2
+    },
+    {
+      "title": "News Wrap: Trump departs for trip to Asia, meetings with Xi and Putin",
+      "channel": "PBS NewsHour",
+      "videoId": "cWcsiXEazQU",
+      "viewsPerHour": 422,
+      "views": 789,
+      "ageHours": 1.9
     },
     {
       "title": "Schrodinger's contract",
       "channel": "Louis Rossmann",
       "videoId": "FYLEb5owS7c",
-      "viewsPerHour": 360,
+      "viewsPerHour": 338,
       "views": 11235,
-      "ageHours": 31.2
+      "ageHours": 33.2
     },
     {
       "title": "Oil Pirates: Hunting Inside the Dangerous Red Zone",
       "channel": "Real Stories",
       "videoId": "pgDyRrMx3c0",
-      "viewsPerHour": 337,
-      "views": 9872,
-      "ageHours": 29.3
+      "viewsPerHour": 320,
+      "views": 10031,
+      "ageHours": 31.3
     },
     {
       "title": "‘The job of a lifetime’: Willie to depart Morning Joe after nearly 20 years",
       "channel": "MS NOW",
       "videoId": "bj1EftycnlQ",
-      "viewsPerHour": 263,
+      "viewsPerHour": 199,
       "views": 1652,
-      "ageHours": 6.3
-    },
-    {
-      "title": "Colom TRIUMPHS over Mississippi’s history of violent resistance to Black political participation",
-      "channel": "MS NOW",
-      "videoId": "EOSrf8sm9O4",
-      "viewsPerHour": 197,
-      "views": 5058,
-      "ageHours": 25.7
-    },
-    {
-      "title": "‘The job of a lifetime’: Willie to depart Morning Joe after nearly 20 years",
-      "channel": "MS NOW",
-      "videoId": "9hDhMMjIsg4",
-      "viewsPerHour": 129,
-      "views": 755,
-      "ageHours": 5.9
+      "ageHours": 8.3
     },
     {
       "title": "WATCH: Trump on Nvidia fallout and meeting with Xi",
       "channel": "PBS NewsHour",
       "videoId": "gHsRKrQvj2E",
-      "viewsPerHour": 125,
+      "viewsPerHour": 97,
       "views": 877,
-      "ageHours": 7
+      "ageHours": 9
+    },
+    {
+      "title": "‘The job of a lifetime’: Willie to depart Morning Joe after nearly 20 years",
+      "channel": "MS NOW",
+      "videoId": "9hDhMMjIsg4",
+      "viewsPerHour": 96,
+      "views": 755,
+      "ageHours": 7.9
     },
     {
       "title": "Bryan Cranston announces ‘All My Sons’ coming to Broadway this spring",
       "channel": "MS NOW",
       "videoId": "oAPZHaiYHWs",
-      "viewsPerHour": 106,
+      "viewsPerHour": 83,
       "views": 740,
-      "ageHours": 7
+      "ageHours": 9
     },
     {
-      "title": "THIS IMPACTS FAMILIES:' Senator-elect Colom comments on airport delays after FAA ground stop",
-      "channel": "MS NOW",
-      "videoId": "SpsXScIT5-g",
-      "viewsPerHour": 77,
-      "views": 1863,
-      "ageHours": 24.1
+      "title": "U.S. works to close loophole that let China access advanced AI chips",
+      "channel": "PBS NewsHour",
+      "videoId": "S5Caer27f9Q",
+      "viewsPerHour": 9,
+      "views": 16,
+      "ageHours": 1.7
     },
     {
       "title": "WATCH LIVE: A closer look at Democrats’ blue wave and your 2026 election questions",
@@ -698,7 +742,7 @@
       "videoId": "zAOw6DQNPcE",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 6.4
+      "ageHours": 8.4
     },
     {
       "title": "WATCH LIVE: Senate convenes to consider judicial nomination",
@@ -706,7 +750,7 @@
       "videoId": "rKmd434CZPM",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 7.6
+      "ageHours": 9.6
     }
   ]
 }
