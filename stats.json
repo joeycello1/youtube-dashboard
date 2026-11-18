@@ -1,16 +1,20 @@
 {
   "videosPerChannel": [
     {
-      "channel": "MS NOW",
-      "count": 9
+      "channel": "Conan O'Brien",
+      "count": 12
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 8
     },
     {
       "channel": "The Daily Show",
       "count": 13
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 8
+      "channel": "MS NOW",
+      "count": 7
     },
     {
       "channel": "Louis Rossmann",
@@ -27,10 +31,6 @@
     {
       "channel": "NOVA",
       "count": 25
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 10
     },
     {
       "channel": "Mayim Bialik",
@@ -58,7 +58,7 @@
     },
     {
       "channel": "The Interview",
-      "count": 9
+      "count": 8
     },
     {
       "channel": "Area 52",
@@ -83,20 +83,24 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "MS NOW",
-      "count": 9
+      "keyword": "Conan O'Brien",
+      "count": 12
     },
     {
-      "keyword": "The Daily Show, AI",
-      "count": 4
+      "keyword": "PBS NewsHour",
+      "count": 6
     },
     {
       "keyword": "The Daily Show",
       "count": 9
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 6
+      "keyword": "MS NOW",
+      "count": 7
+    },
+    {
+      "keyword": "The Daily Show, AI",
+      "count": 4
     },
     {
       "keyword": "Louis Rossmann",
@@ -117,10 +121,6 @@
     {
       "keyword": "NOVA",
       "count": 41
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 10
     },
     {
       "keyword": "UFO, UAP",
@@ -221,20 +221,16 @@
     {
       "keyword": "AI, UAP",
       "count": 1
-    },
-    {
-      "keyword": "The Interview, AI",
-      "count": 1
     }
   ],
   "dailySummary": [
     {
       "date": "2026-11-18",
-      "videos": 9
+      "videos": 16
     },
     {
       "date": "2026-11-17",
-      "videos": 24
+      "videos": 18
     },
     {
       "date": "2026-11-16",
@@ -258,7 +254,7 @@
     },
     {
       "date": "2026-11-11",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-11-10",
@@ -466,7 +462,7 @@
     },
     {
       "date": "2026-09-19",
-      "videos": 3
+      "videos": 2
     },
     {
       "date": "2026-08-15",
@@ -475,20 +471,24 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "MS NOW",
-      "matches": 9
-    },
-    {
-      "keyword": "The Daily Show, AI",
-      "matches": 4
-    },
-    {
-      "keyword": "The Daily Show",
+      "keyword": "Conan O'Brien",
       "matches": 8
     },
     {
       "keyword": "PBS NewsHour",
       "matches": 6
+    },
+    {
+      "keyword": "The Daily Show",
+      "matches": 9
+    },
+    {
+      "keyword": "MS NOW",
+      "matches": 7
+    },
+    {
+      "keyword": "The Daily Show, AI",
+      "matches": 4
     },
     {
       "keyword": "Louis Rossmann",
@@ -508,11 +508,7 @@
     },
     {
       "keyword": "NOVA",
-      "matches": 5
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 6
+      "matches": 4
     },
     {
       "keyword": "UFO, UAP",
@@ -560,273 +556,273 @@
       "title": "Trump Shrugs Off Nationwide Outages & Iran Is So Pissed They Might Dirty Bomb Him | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "roK-JOtgEOA",
-      "viewsPerHour": 167580,
-      "views": 2404413,
-      "ageHours": 14.3
+      "viewsPerHour": 159737,
+      "views": 2603036,
+      "ageHours": 16.3
     },
     {
       "title": "The FAA Crashes Out Over a Router & Why Is Trump Protecting AI and Jensen Huang? | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "now0emhNT4A",
-      "viewsPerHour": 149906,
-      "views": 5600865,
-      "ageHours": 37.4
+      "viewsPerHour": 144208,
+      "views": 5668908,
+      "ageHours": 39.3
     },
     {
       "title": "Ad-Rock & Mike D on Beastie Boys’ Debut Album “Licensed to Ill”’s 40th Anniversary | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "m09PWB5d9dA",
-      "viewsPerHour": 27224,
-      "views": 1003026,
-      "ageHours": 36.8
+      "viewsPerHour": 26429,
+      "views": 1025231,
+      "ageHours": 38.8
+    },
+    {
+      "title": "Can Polarized Identical Twins Solve America's Political Divide? Grace Finds Out | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "srK8GMd89kw",
+      "viewsPerHour": 23074,
+      "views": 161343,
+      "ageHours": 7
     },
     {
       "title": "Daniel Susskind on Raising Kids in the Age of AI | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "nZvsuU0-F5Y",
-      "viewsPerHour": 7240,
-      "views": 93128,
-      "ageHours": 12.9
+      "viewsPerHour": 6944,
+      "views": 102844,
+      "ageHours": 14.8
     },
     {
-      "title": "PBS News Hour full episode, Nov. 17, 2026",
+      "title": "WATCH LIVE: Senate gavels in after Peltola declared winner in Alaska, expanding Democratic majority",
       "channel": "PBS NewsHour",
-      "videoId": "r2E6knuBNdk",
-      "viewsPerHour": 6611,
-      "views": 111706,
-      "ageHours": 16.9
+      "videoId": "LlGUSTMOMC0",
+      "viewsPerHour": 6222,
+      "views": 28334,
+      "ageHours": 4.6
     },
     {
       "title": "UFO Crashes Aren’t Accidents. They’re Gifts, or a Trap | Dr. Jacques Vallée",
       "channel": "Mayim Bialik",
       "videoId": "DrNR1M_H-vo",
-      "viewsPerHour": 6132,
-      "views": 179964,
-      "ageHours": 29.3
+      "viewsPerHour": 6041,
+      "views": 189050,
+      "ageHours": 31.3
+    },
+    {
+      "title": "PBS News Hour full episode, Nov. 17, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "r2E6knuBNdk",
+      "viewsPerHour": 5928,
+      "views": 111706,
+      "ageHours": 18.8
+    },
+    {
+      "title": "WATCH LIVE: DHS Secretary Mullin testifies on worldwide threats amid tech outages, Iran warnings",
+      "channel": "PBS NewsHour",
+      "videoId": "l5wr86Vo8z0",
+      "viewsPerHour": 5188,
+      "views": 23992,
+      "ageHours": 4.6
+    },
+    {
+      "title": "LIVE: DHS Secretary Markwayne Mullin, DNI Director Clayton TESTIFY",
+      "channel": "MS NOW",
+      "videoId": "7dX-Cj892eQ",
+      "viewsPerHour": 4657,
+      "views": 63854,
+      "ageHours": 13.7
     },
     {
       "title": "Dangerous Energy Spikes Detected | The Secret of Skinwalker Ranch (S2, E7) | Full Episode",
       "channel": "History",
       "videoId": "eIV-e2R6LK8",
-      "viewsPerHour": 4351,
-      "views": 79827,
-      "ageHours": 18.3
+      "viewsPerHour": 4161,
+      "views": 84449,
+      "ageHours": 20.3
     },
     {
       "title": "Colom's Historic Win, Bessent's Bunker Move & Nvidia's Huang Hangover - Precap | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "896lwT0hFuk",
-      "viewsPerHour": 3941,
-      "views": 154688,
-      "ageHours": 39.3
+      "viewsPerHour": 3787,
+      "views": 156018,
+      "ageHours": 41.2
     },
     {
       "title": "Britain's UFO Secrets: The Royal Family, Alien Craft & a Sinister Agenda",
       "channel": "Jeremy Corbell",
       "videoId": "h0PgbpWVoEM",
-      "viewsPerHour": 3492,
-      "views": 126910,
-      "ageHours": 36.3
+      "viewsPerHour": 3377,
+      "views": 129305,
+      "ageHours": 38.3
+    },
+    {
+      "title": "Sona Struggled To Play The Whistle Onstage With Conan's Band | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "NKV-8t54D0M",
+      "viewsPerHour": 3203,
+      "views": 20137,
+      "ageHours": 6.3
     },
     {
       "title": "Einstein Tried to Disprove Quantum Theory. He Made It Weirder | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "LWLmAR1VxHI",
-      "viewsPerHour": 3094,
-      "views": 61471,
-      "ageHours": 19.9
+      "viewsPerHour": 2922,
+      "views": 63752,
+      "ageHours": 21.8
     },
     {
       "title": "Nintendo takes Picofly modchip firmware off GitHub with a DMCA notice that claims no Nintendo code",
       "channel": "Louis Rossmann",
       "videoId": "-TLCGUpoD6c",
-      "viewsPerHour": 2900,
+      "viewsPerHour": 2580,
       "views": 45617,
-      "ageHours": 15.7
+      "ageHours": 17.7
+    },
+    {
+      "title": "WATCH LIVE: House convenes as Democrats nominate Hakeem Jeffries for House speaker",
+      "channel": "PBS NewsHour",
+      "videoId": "KhG8fW5ziwg",
+      "viewsPerHour": 1380,
+      "views": 6352,
+      "ageHours": 4.6
     },
     {
       "title": "PBS News Hour live episode, Nov. 17, 2026",
       "channel": "PBS NewsHour",
       "videoId": "OiEVSEnasxw",
-      "viewsPerHour": 1066,
+      "viewsPerHour": 970,
       "views": 21082,
-      "ageHours": 19.8
+      "ageHours": 21.7
     },
     {
       "title": "Audible changed terms & told users after, says continued use means they already agreed",
       "channel": "Louis Rossmann",
       "videoId": "gv7TafROkLg",
-      "viewsPerHour": 1026,
+      "viewsPerHour": 956,
       "views": 27164,
-      "ageHours": 26.5
+      "ageHours": 28.4
     },
     {
       "title": "‘They’re scared’: National security officials ON EDGE about tech incidents as Trump NEGLECTS crisis",
       "channel": "MS NOW",
       "videoId": "bKjk6qt1Q9w",
-      "viewsPerHour": 987,
+      "viewsPerHour": 890,
       "views": 17686,
-      "ageHours": 17.9
+      "ageHours": 19.9
     },
     {
       "title": "Conan Is Waiting For Hallmark To Reach Out About Christmas Movie Role | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "xsR4c-1oDiQ",
-      "viewsPerHour": 844,
+      "viewsPerHour": 790,
       "views": 23911,
-      "ageHours": 28.3
+      "ageHours": 30.3
     },
     {
       "title": "Nonsensical ILLOGICAL explanations': Nicolle rips Trump admin’s awful response to UNUSUAL outages",
       "channel": "MS NOW",
       "videoId": "sAAFX8_1xRA",
-      "viewsPerHour": 750,
+      "viewsPerHour": 677,
       "views": 13551,
-      "ageHours": 18.1
+      "ageHours": 20
     },
     {
       "title": "I Escaped Warren Jeffs: House of Hiding, United Order, and a Screwed Window",
       "channel": "Real Stories",
       "videoId": "flM44fOtgXk",
-      "viewsPerHour": 556,
-      "views": 9478,
-      "ageHours": 17
+      "viewsPerHour": 526,
+      "views": 9983,
+      "ageHours": 19
     },
     {
       "title": "\"FOUND DISSECTED HUMAN BODIES\"",
       "channel": "Jeremy Corbell",
       "videoId": "muA5EmQ_fwE",
-      "viewsPerHour": 486,
-      "views": 19168,
-      "ageHours": 39.4
+      "viewsPerHour": 467,
+      "views": 19314,
+      "ageHours": 41.4
     },
     {
       "title": "Inside Honduras’ Femicide Crisis: Ashley Lilibet Salinas and the Women Fighting Back",
       "channel": "Real Stories",
       "videoId": "WF1mXH1H1BM",
-      "viewsPerHour": 420,
-      "views": 9799,
-      "ageHours": 23.3
+      "viewsPerHour": 397,
+      "views": 10046,
+      "ageHours": 25.3
     },
     {
       "title": "WATCH LIVE: Duffy joins families of midair collision victims to push for aviation safety bill",
       "channel": "PBS NewsHour",
       "videoId": "veE4Ao8KOmc",
-      "viewsPerHour": 362,
+      "viewsPerHour": 322,
       "views": 5601,
-      "ageHours": 15.5
+      "ageHours": 17.4
+    },
+    {
+      "title": "Dustin Hoffman Remembers Robin Williams' Fencing Skills | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "Zn4xhV4EoF0",
+      "viewsPerHour": 304,
+      "views": 1003,
+      "ageHours": 3.3
     },
     {
       "title": "Confusing response to shutdowns highlights SHEER INCOMPETENCE of Trump's clown car Cabinet",
       "channel": "MS NOW",
       "videoId": "WEwAQrswNLs",
-      "viewsPerHour": 303,
+      "viewsPerHour": 260,
       "views": 3603,
-      "ageHours": 11.9
+      "ageHours": 13.9
     },
     {
       "title": "Marantz receiver pushes updated privacy policy that covers immigration status w/ no disagree button",
       "channel": "Louis Rossmann",
       "videoId": "yjztDQCe9_0",
-      "viewsPerHour": 246,
+      "viewsPerHour": 235,
       "views": 10646,
-      "ageHours": 43.3
-    },
-    {
-      "title": "WATCH LIVE: Senate meets for legislative business",
-      "channel": "PBS NewsHour",
-      "videoId": "RevRCl2NFFc",
-      "viewsPerHour": 243,
-      "views": 6410,
-      "ageHours": 26.4
-    },
-    {
-      "title": "Inside Taiwan's Black Society: Bo-Jiao, Wanhua, and Three Knives Six Eyes",
-      "channel": "Real Stories",
-      "videoId": "axsDLHdLE3c",
-      "viewsPerHour": 225,
-      "views": 10668,
-      "ageHours": 47.3
-    },
-    {
-      "title": "Trump trading national security for ‘photo-op’ alongside Xi and Putin: Fmr. CIA officer",
-      "channel": "MS NOW",
-      "videoId": "-BsSgC-CF8o",
-      "viewsPerHour": 153,
-      "views": 3651,
-      "ageHours": 23.9
+      "ageHours": 45.2
     },
     {
       "title": "What you need to know about still uncalled House races",
       "channel": "MS NOW",
       "videoId": "CCbKwogpfx8",
-      "viewsPerHour": 116,
+      "viewsPerHour": 87,
       "views": 687,
-      "ageHours": 5.9
-    },
-    {
-      "title": "Terrible idea!’: Sen. Coons REACTS to Nvidia CEO saying he’d be ‘honored’ to return",
-      "channel": "MS NOW",
-      "videoId": "yt0HWVRTewg",
-      "viewsPerHour": 89,
-      "views": 2128,
-      "ageHours": 23.9
-    },
-    {
-      "title": "WATCH LIVE: Duffy holds news conference as he seeks $50 billion for air traffic control updates",
-      "channel": "PBS NewsHour",
-      "videoId": "fn6J_-ANoqA",
-      "viewsPerHour": 43,
-      "views": 1057,
-      "ageHours": 24.6
-    },
-    {
-      "title": "Knows how to help get ‘agenda of change’ done: Gillibrand on why she supports Schumer to lead Senate",
-      "channel": "MS NOW",
-      "videoId": "hmk0urbb0wQ",
-      "viewsPerHour": 43,
-      "views": 1024,
-      "ageHours": 23.9
+      "ageHours": 7.9
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Nov. 17 | Audio Only",
       "channel": "MS NOW",
       "videoId": "iFmzPBZrvBg",
-      "viewsPerHour": 26,
+      "viewsPerHour": 22,
       "views": 299,
-      "ageHours": 11.7
-    },
-    {
-      "title": "WATCH LIVE: House meets for legislative business",
-      "channel": "PBS NewsHour",
-      "videoId": "kT3NzHg0n-U",
-      "viewsPerHour": 20,
-      "views": 518,
-      "ageHours": 25.7
+      "ageHours": 13.6
     },
     {
       "title": "Conan Wants A Surf Lesson From Adam Brody | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "0lcAfdZmr3U",
-      "viewsPerHour": 15,
+      "viewsPerHour": 14,
       "views": 381,
-      "ageHours": 25.3
+      "ageHours": 27.3
     },
     {
       "title": "News Wrap: U.S. no longer considered a measles-free nation",
       "channel": "PBS NewsHour",
       "videoId": "26QeEcnniGs",
-      "viewsPerHour": 11,
+      "viewsPerHour": 10,
       "views": 193,
-      "ageHours": 17.8
+      "ageHours": 19.7
     },
     {
       "title": "How to engage with your teenager and help them feel heard",
       "channel": "MS NOW",
       "videoId": "pYyECFYqgfc",
-      "viewsPerHour": 7,
+      "viewsPerHour": 6,
       "views": 122,
-      "ageHours": 18.2
+      "ageHours": 20.1
     },
     {
       "title": "What's in Trump's $50 billion air traffic control overhaul plan",
@@ -834,7 +830,7 @@
       "videoId": "KPZ8noGDeUA",
       "viewsPerHour": 1,
       "views": 19,
-      "ageHours": 17.6
+      "ageHours": 19.5
     }
   ]
 }
