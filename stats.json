@@ -1,12 +1,24 @@
 {
   "videosPerChannel": [
     {
-      "channel": "MS NOW",
-      "count": 10
-    },
-    {
       "channel": "PBS NewsHour",
       "count": 8
+    },
+    {
+      "channel": "MS NOW",
+      "count": 11
+    },
+    {
+      "channel": "History",
+      "count": 51
+    },
+    {
+      "channel": "NOVA",
+      "count": 25
+    },
+    {
+      "channel": "Real Stories",
+      "count": 43
     },
     {
       "channel": "Conan O'Brien",
@@ -29,24 +41,12 @@
       "count": 13
     },
     {
-      "channel": "Real Stories",
-      "count": 42
-    },
-    {
-      "channel": "NOVA",
-      "count": 24
-    },
-    {
       "channel": "Diary of a CEO",
       "count": 1
     },
     {
       "channel": "Last Week Tonight",
       "count": 5
-    },
-    {
-      "channel": "History",
-      "count": 51
     },
     {
       "channel": "The Rest Is Science",
@@ -66,7 +66,7 @@
     },
     {
       "channel": "More Perfect Union",
-      "count": 26
+      "count": 25
     },
     {
       "channel": "Inside AI",
@@ -83,12 +83,28 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "MS NOW",
-      "count": 10
+      "keyword": "PBS NewsHour",
+      "count": 6
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 5
+      "keyword": "MS NOW",
+      "count": 11
+    },
+    {
+      "keyword": "UFO",
+      "count": 37
+    },
+    {
+      "keyword": "PBS NewsHour, AI",
+      "count": 2
+    },
+    {
+      "keyword": "NOVA",
+      "count": 41
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 40
     },
     {
       "keyword": "Conan O'Brien",
@@ -119,28 +135,12 @@
       "count": 3
     },
     {
-      "keyword": "PBS NewsHour, AI",
-      "count": 3
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 39
-    },
-    {
-      "keyword": "NOVA",
-      "count": 40
-    },
-    {
       "keyword": "AI",
       "count": 11
     },
     {
       "keyword": "Last Week Tonight",
       "count": 5
-    },
-    {
-      "keyword": "UFO",
-      "count": 36
     },
     {
       "keyword": "The Rest Is Science",
@@ -160,7 +160,7 @@
     },
     {
       "keyword": "More Perfect Union",
-      "count": 21
+      "count": 20
     },
     {
       "keyword": "UAP, UFO",
@@ -225,20 +225,16 @@
     {
       "keyword": "The Interview, AI",
       "count": 1
-    },
-    {
-      "keyword": "artificial intelligence",
-      "count": 1
     }
   ],
   "dailySummary": [
     {
       "date": "2026-11-17",
-      "videos": 22
+      "videos": 31
     },
     {
       "date": "2026-11-16",
-      "videos": 12
+      "videos": 7
     },
     {
       "date": "2026-11-15",
@@ -469,22 +465,34 @@
       "videos": 3
     },
     {
-      "date": "2026-09-18",
-      "videos": 2
-    },
-    {
       "date": "2026-08-15",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "MS NOW",
-      "matches": 10
+      "keyword": "PBS NewsHour",
+      "matches": 6
     },
     {
-      "keyword": "PBS NewsHour",
+      "keyword": "MS NOW",
+      "matches": 11
+    },
+    {
+      "keyword": "UFO",
+      "matches": 3
+    },
+    {
+      "keyword": "PBS NewsHour, AI",
+      "matches": 2
+    },
+    {
+      "keyword": "NOVA",
       "matches": 5
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 6
     },
     {
       "keyword": "Conan O'Brien",
@@ -515,28 +523,12 @@
       "matches": 1
     },
     {
-      "keyword": "PBS NewsHour, AI",
-      "matches": 3
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 5
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 4
-    },
-    {
       "keyword": "AI",
       "matches": 1
     },
     {
       "keyword": "Last Week Tonight",
       "matches": 3
-    },
-    {
-      "keyword": "UFO",
-      "matches": 2
     },
     {
       "keyword": "The Rest Is Science",
@@ -564,257 +556,289 @@
       "title": "The FAA Crashes Out Over a Router & Why Is Trump Protecting AI and Jensen Huang? | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "now0emhNT4A",
-      "viewsPerHour": 223358,
-      "views": 4311736,
-      "ageHours": 19.3
+      "viewsPerHour": 216131,
+      "views": 4605634,
+      "ageHours": 21.3
     },
     {
       "title": "Russian Honeypot: I Was Trained To Control A Man's Mind With Sex! | John Kiriakou & Aliia Roza",
       "channel": "Diary of a CEO",
       "videoId": "1mDHHi398ig",
-      "viewsPerHour": 99379,
-      "views": 3903952,
-      "ageHours": 39.3
+      "viewsPerHour": 97782,
+      "views": 4037286,
+      "ageHours": 41.3
     },
     {
       "title": "Alligator Alcatraz: Last Week Tonight with John Oliver (HBO)",
       "channel": "Last Week Tonight",
       "videoId": "dtKt6BiTfFk",
-      "viewsPerHour": 79115,
-      "views": 3147537,
-      "ageHours": 39.8
+      "viewsPerHour": 76592,
+      "views": 3200731,
+      "ageHours": 41.8
     },
     {
       "title": "Ad-Rock & Mike D on Beastie Boys’ Debut Album “Licensed to Ill”’s 40th Anniversary | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "m09PWB5d9dA",
-      "viewsPerHour": 26618,
-      "views": 500022,
-      "ageHours": 18.8
+      "viewsPerHour": 29109,
+      "views": 605194,
+      "ageHours": 20.8
     },
     {
       "title": "S13 E30: The FAA, Alligator Alcatraz & Season Finale: 11/15/26: Last Week Tonight with John Oliver",
       "channel": "Last Week Tonight",
       "videoId": "EPCJ4i3bmBY",
-      "viewsPerHour": 24708,
-      "views": 1069488,
-      "ageHours": 43.3
+      "viewsPerHour": 23965,
+      "views": 1085401,
+      "ageHours": 45.3
+    },
+    {
+      "title": "‘They’re scared’: National security officials ON EDGE about tech incidents as Trump NEGLECTS crisis",
+      "channel": "MS NOW",
+      "videoId": "bKjk6qt1Q9w",
+      "viewsPerHour": 9438,
+      "views": 17686,
+      "ageHours": 1.9
+    },
+    {
+      "title": "Nonsensical ILLOGICAL explanations': Nicolle rips Trump admin’s awful response to UNUSUAL outages",
+      "channel": "MS NOW",
+      "videoId": "sAAFX8_1xRA",
+      "viewsPerHour": 6761,
+      "views": 13551,
+      "ageHours": 2
     },
     {
       "title": "PBS News Hour full episode, Nov. 16, 2026",
       "channel": "PBS NewsHour",
       "videoId": "2jGv-4tg9x8",
-      "viewsPerHour": 7116,
+      "viewsPerHour": 6546,
       "views": 164022,
-      "ageHours": 23.1
+      "ageHours": 25.1
     },
     {
       "title": "UFO Crashes Aren’t Accidents. They’re Gifts, or a Trap | Dr. Jacques Vallée",
       "channel": "Mayim Bialik",
       "videoId": "DrNR1M_H-vo",
-      "viewsPerHour": 6450,
-      "views": 72821,
-      "ageHours": 11.3
+      "viewsPerHour": 6383,
+      "views": 84858,
+      "ageHours": 13.3
     },
     {
       "title": "Colom's Historic Win, Bessent's Bunker Move & Nvidia's Huang Hangover - Precap | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "896lwT0hFuk",
-      "viewsPerHour": 6130,
-      "views": 129927,
-      "ageHours": 21.2
+      "viewsPerHour": 5849,
+      "views": 135714,
+      "ageHours": 23.2
+    },
+    {
+      "title": "PBS News Hour live episode, Nov. 17, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "OiEVSEnasxw",
+      "viewsPerHour": 5653,
+      "views": 21082,
+      "ageHours": 3.7
     },
     {
       "title": "Britain's UFO Secrets: The Royal Family, Alien Craft & a Sinister Agenda",
       "channel": "Jeremy Corbell",
       "videoId": "h0PgbpWVoEM",
-      "viewsPerHour": 4770,
-      "views": 87233,
-      "ageHours": 18.3
+      "viewsPerHour": 4711,
+      "views": 95604,
+      "ageHours": 20.3
     },
     {
-      "title": "BREAKING: United Airlines reports WIDESPREAD outage DAYS after ground stop, NO flights taking off",
-      "channel": "MS NOW",
-      "videoId": "yWeF8rmnzGI",
-      "viewsPerHour": 4235,
-      "views": 103152,
-      "ageHours": 24.4
+      "title": "Dangerous Energy Spikes Detected | The Secret of Skinwalker Ranch (S2, E7) | Full Episode",
+      "channel": "History",
+      "videoId": "eIV-e2R6LK8",
+      "viewsPerHour": 3482,
+      "views": 7993,
+      "ageHours": 2.3
+    },
+    {
+      "title": "Einstein Tried to Disprove Quantum Theory. He Made It Weirder | NOVA | PBS",
+      "channel": "NOVA",
+      "videoId": "LWLmAR1VxHI",
+      "viewsPerHour": 2712,
+      "views": 10346,
+      "ageHours": 3.8
     },
     {
       "title": "Audible changed terms & told users after, says continued use means they already agreed",
       "channel": "Louis Rossmann",
       "videoId": "gv7TafROkLg",
-      "viewsPerHour": 3232,
+      "viewsPerHour": 2609,
       "views": 27164,
-      "ageHours": 8.4
-    },
-    {
-      "title": "What's HAPPENING?': Series of BIZARRE tech outages across U.S. CONFOUND experts",
-      "channel": "MS NOW",
-      "videoId": "svpyPbAdx7g",
-      "viewsPerHour": 2792,
-      "views": 67209,
-      "ageHours": 24.1
+      "ageHours": 10.4
     },
     {
       "title": "Conan Is Waiting For Hallmark To Reach Out About Christmas Movie Role | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "xsR4c-1oDiQ",
-      "viewsPerHour": 2326,
+      "viewsPerHour": 1946,
       "views": 23911,
-      "ageHours": 10.3
+      "ageHours": 12.3
+    },
+    {
+      "title": "Inside Honduras’ Femicide Crisis: Ashley Lilibet Salinas and the Women Fighting Back",
+      "channel": "Real Stories",
+      "videoId": "WF1mXH1H1BM",
+      "viewsPerHour": 816,
+      "views": 5949,
+      "ageHours": 7.3
     },
     {
       "title": "\"FOUND DISSECTED HUMAN BODIES\"",
       "channel": "Jeremy Corbell",
       "videoId": "muA5EmQ_fwE",
-      "viewsPerHour": 792,
-      "views": 16939,
-      "ageHours": 21.4
+      "viewsPerHour": 748,
+      "views": 17489,
+      "ageHours": 23.4
     },
     {
       "title": "WATCH LIVE: Senate meets for legislative business",
       "channel": "PBS NewsHour",
       "videoId": "RevRCl2NFFc",
-      "viewsPerHour": 769,
+      "viewsPerHour": 620,
       "views": 6410,
-      "ageHours": 8.3
-    },
-    {
-      "title": "PBS News Hour live episode, Nov. 16, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "tUhcNwPtNxg",
-      "viewsPerHour": 756,
-      "views": 19683,
-      "ageHours": 26
+      "ageHours": 10.3
     },
     {
       "title": "Trump trading national security for ‘photo-op’ alongside Xi and Putin: Fmr. CIA officer",
       "channel": "MS NOW",
       "videoId": "-BsSgC-CF8o",
-      "viewsPerHour": 625,
+      "viewsPerHour": 465,
       "views": 3651,
-      "ageHours": 5.8
+      "ageHours": 7.8
     },
     {
       "title": "SHUT IT DOWN: Democrats hear voters loud and clear on ICE prisons",
       "channel": "MS NOW",
       "videoId": "nY6Na7kKOdg",
-      "viewsPerHour": 522,
+      "viewsPerHour": 449,
       "views": 6411,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "New documentary explores history of crime and punishment in America",
       "channel": "PBS NewsHour",
       "videoId": "sloZpX5LKsI",
-      "viewsPerHour": 464,
+      "viewsPerHour": 426,
       "views": 10506,
-      "ageHours": 22.6
-    },
-    {
-      "title": "Trump arrives in the Philippines for meetings with world leaders",
-      "channel": "MS NOW",
-      "videoId": "192f9H7BWrY",
-      "viewsPerHour": 424,
-      "views": 5166,
-      "ageHours": 12.2
-    },
-    {
-      "title": "Marantz receiver pushes updated privacy policy that covers immigration status w/ no disagree button",
-      "channel": "Louis Rossmann",
-      "videoId": "yjztDQCe9_0",
-      "viewsPerHour": 422,
-      "views": 10646,
-      "ageHours": 25.2
+      "ageHours": 24.6
     },
     {
       "title": "Adam Brody (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "bzFbtAt_wiQ",
-      "viewsPerHour": 419,
+      "viewsPerHour": 394,
       "views": 13511,
-      "ageHours": 32.3
+      "ageHours": 34.3
+    },
+    {
+      "title": "Marantz receiver pushes updated privacy policy that covers immigration status w/ no disagree button",
+      "channel": "Louis Rossmann",
+      "videoId": "yjztDQCe9_0",
+      "viewsPerHour": 391,
+      "views": 10646,
+      "ageHours": 27.2
+    },
+    {
+      "title": "Trump arrives in the Philippines for meetings with world leaders",
+      "channel": "MS NOW",
+      "videoId": "192f9H7BWrY",
+      "viewsPerHour": 364,
+      "views": 5166,
+      "ageHours": 14.2
     },
     {
       "title": "Blue wave CONSEQUENCES: Dems to honor Jan. 6 police, overriding GOP effort to bury Trump’s disgrace",
       "channel": "MS NOW",
       "videoId": "A6jQMCqcSBY",
-      "viewsPerHour": 383,
+      "viewsPerHour": 329,
       "views": 4707,
-      "ageHours": 12.3
-    },
-    {
-      "title": "Terrible idea!’: Sen. Coons REACTS to Nvidia CEO saying he’d be ‘honored’ to return",
-      "channel": "MS NOW",
-      "videoId": "yt0HWVRTewg",
-      "viewsPerHour": 367,
-      "views": 2128,
-      "ageHours": 5.8
+      "ageHours": 14.3
     },
     {
       "title": "Inside Taiwan's Black Society: Bo-Jiao, Wanhua, and Three Knives Six Eyes",
       "channel": "Real Stories",
       "videoId": "axsDLHdLE3c",
-      "viewsPerHour": 340,
+      "viewsPerHour": 318,
       "views": 9962,
-      "ageHours": 29.3
+      "ageHours": 31.3
+    },
+    {
+      "title": "Terrible idea!’: Sen. Coons REACTS to Nvidia CEO saying he’d be ‘honored’ to return",
+      "channel": "MS NOW",
+      "videoId": "yt0HWVRTewg",
+      "viewsPerHour": 273,
+      "views": 2128,
+      "ageHours": 7.8
     },
     {
       "title": "‘A matter of how she’s going to win’: Mary Peltola edges closer to victory in Alaska's Senate race",
       "channel": "MS NOW",
       "videoId": "EnaLukvnA74",
-      "viewsPerHour": 252,
+      "viewsPerHour": 227,
       "views": 4451,
-      "ageHours": 17.6
+      "ageHours": 19.6
     },
     {
       "title": "Knows how to help get ‘agenda of change’ done: Gillibrand on why she supports Schumer to lead Senate",
       "channel": "MS NOW",
       "videoId": "hmk0urbb0wQ",
-      "viewsPerHour": 176,
+      "viewsPerHour": 131,
       "views": 1024,
-      "ageHours": 5.8
+      "ageHours": 7.8
     },
     {
       "title": "WATCH LIVE: Duffy holds news conference as he seeks $50 billion for air traffic control updates",
       "channel": "PBS NewsHour",
       "videoId": "fn6J_-ANoqA",
-      "viewsPerHour": 161,
+      "viewsPerHour": 123,
       "views": 1057,
-      "ageHours": 6.6
+      "ageHours": 8.6
+    },
+    {
+      "title": "News Wrap: U.S. no longer considered a measles-free nation",
+      "channel": "PBS NewsHour",
+      "videoId": "26QeEcnniGs",
+      "viewsPerHour": 112,
+      "views": 193,
+      "ageHours": 1.7
+    },
+    {
+      "title": "How to engage with your teenager and help them feel heard",
+      "channel": "MS NOW",
+      "videoId": "pYyECFYqgfc",
+      "viewsPerHour": 58,
+      "views": 122,
+      "ageHours": 2.1
     },
     {
       "title": "WATCH LIVE: House meets for legislative business",
       "channel": "PBS NewsHour",
       "videoId": "kT3NzHg0n-U",
-      "viewsPerHour": 68,
+      "viewsPerHour": 54,
       "views": 518,
-      "ageHours": 7.6
+      "ageHours": 9.6
     },
     {
       "title": "Conan Wants A Surf Lesson From Adam Brody | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "0lcAfdZmr3U",
-      "viewsPerHour": 52,
+      "viewsPerHour": 41,
       "views": 381,
-      "ageHours": 7.3
+      "ageHours": 9.3
     },
     {
-      "title": "News Wrap: Trump departs for trip to Asia, meetings with Xi and Putin",
+      "title": "What's in Trump's $50 billion air traffic control overhaul plan",
       "channel": "PBS NewsHour",
-      "videoId": "cWcsiXEazQU",
-      "viewsPerHour": 33,
-      "views": 789,
-      "ageHours": 23.9
-    },
-    {
-      "title": "U.S. works to close loophole that let China access advanced AI chips",
-      "channel": "PBS NewsHour",
-      "videoId": "S5Caer27f9Q",
-      "viewsPerHour": 1,
-      "views": 16,
-      "ageHours": 23.7
+      "videoId": "KPZ8noGDeUA",
+      "viewsPerHour": 13,
+      "views": 19,
+      "ageHours": 1.5
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Nov. 16 | Audio Only",
@@ -822,7 +846,7 @@
       "videoId": "SYMaqpqGr38",
       "viewsPerHour": 0,
       "views": 3,
-      "ageHours": 17.5
+      "ageHours": 19.5
     },
     {
       "title": "Space Wars | Full Documentary | NOVA | PBS",
@@ -830,7 +854,7 @@
       "videoId": "eFAPAK3qhhw",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 30.4
+      "ageHours": 32.4
     }
   ]
 }
