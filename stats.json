@@ -83,8 +83,12 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "MS NOW, AI",
+      "count": 1
+    },
+    {
       "keyword": "MS NOW",
-      "count": 7
+      "count": 6
     },
     {
       "keyword": "Louis Rossmann, artificial intelligence",
@@ -230,11 +234,11 @@
   "dailySummary": [
     {
       "date": "2026-11-21",
-      "videos": 5
+      "videos": 6
     },
     {
       "date": "2026-11-20",
-      "videos": 18
+      "videos": 17
     },
     {
       "date": "2026-11-19",
@@ -475,8 +479,12 @@
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "MS NOW, AI",
+      "matches": 1
+    },
+    {
       "keyword": "MS NOW",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "Louis Rossmann, artificial intelligence",
@@ -568,249 +576,233 @@
       "title": "Sleepy Trump Gets Chummy with Putin and Xi & Accomplishes “Nothing of Substance” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "wf98yIbLwSg",
-      "viewsPerHour": 86150,
-      "views": 2783589,
-      "ageHours": 32.3
+      "viewsPerHour": 81781,
+      "views": 2807586,
+      "ageHours": 34.3
     },
     {
       "title": "NEW MAGA MERCH: Introducing Trump Muffs for a Gloat-Free Thanksgiving | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "5U4397ea-uQ",
-      "viewsPerHour": 21011,
-      "views": 479743,
-      "ageHours": 22.8
-    },
-    {
-      "title": "Michelle Wolf Diagnoses What's Wrong with Women's Healthcare | The Daily Show",
-      "channel": "The Daily Show",
-      "videoId": "kcYOv3f_O2E",
-      "viewsPerHour": 14073,
-      "views": 661362,
-      "ageHours": 47
+      "viewsPerHour": 19821,
+      "views": 492604,
+      "ageHours": 24.9
     },
     {
       "title": "Trump Promised Mass Deportations In Springfield, Ohio. Now They’re Happening.",
       "channel": "More Perfect Union",
       "videoId": "Fa2HWrfesrM",
-      "viewsPerHour": 12054,
-      "views": 195768,
-      "ageHours": 16.2
+      "viewsPerHour": 11654,
+      "views": 212802,
+      "ageHours": 18.3
     },
     {
       "title": "I Tracked Down Every Astronaut Who Saw A UFO",
       "channel": "Area 52",
       "videoId": "IClps-J_jWk",
-      "viewsPerHour": 10329,
-      "views": 189012,
-      "ageHours": 18.3
+      "viewsPerHour": 9854,
+      "views": 200212,
+      "ageHours": 20.3
+    },
+    {
+      "title": "MS NOW reacts to Trump’s 'jovial mood' after meeting with autocrats | COMPILATION",
+      "channel": "MS NOW",
+      "videoId": "vo_1m0Y66ww",
+      "viewsPerHour": 6754,
+      "views": 45859,
+      "ageHours": 6.8
     },
     {
       "title": "Alien Bodies Recovered From UFO Crashes. Who’s Still Hiding Them After 80 Years | Dan Farah",
       "channel": "Mayim Bialik",
       "videoId": "P7rQUbKIi0M",
-      "viewsPerHour": 5851,
-      "views": 136292,
-      "ageHours": 23.3
+      "viewsPerHour": 5543,
+      "views": 140323,
+      "ageHours": 25.3
     },
     {
       "title": "Gemma Chan on Sundance Award-Winner “Josephine” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "KLoKOHNrlv4",
-      "viewsPerHour": 5218,
-      "views": 160712,
-      "ageHours": 30.8
+      "viewsPerHour": 4966,
+      "views": 162984,
+      "ageHours": 32.8
     },
     {
       "title": "Evidence of Weapons Found! | The Curse of Oak Island",
       "channel": "History",
       "videoId": "pjxBM55vUkQ",
-      "viewsPerHour": 5071,
-      "views": 82616,
-      "ageHours": 16.3
-    },
-    {
-      "title": "Trump's biggest takeaway from China trip: Embarrassment",
-      "channel": "MS NOW",
-      "videoId": "FBvfbnYtoec",
-      "viewsPerHour": 1831,
-      "views": 11059,
-      "ageHours": 6
+      "viewsPerHour": 4619,
+      "views": 84589,
+      "ageHours": 18.3
     },
     {
       "title": "EXCLUSIVE: Trump admin AXED criminal investigation into GOP senator allegedly POISONING water supply",
       "channel": "MS NOW",
       "videoId": "G9VxEfNSgJA",
-      "viewsPerHour": 1734,
+      "viewsPerHour": 1486,
       "views": 21012,
-      "ageHours": 12.1
+      "ageHours": 14.1
+    },
+    {
+      "title": "Trump's biggest takeaway from China trip: Embarrassment",
+      "channel": "MS NOW",
+      "videoId": "FBvfbnYtoec",
+      "viewsPerHour": 1372,
+      "views": 11059,
+      "ageHours": 8.1
     },
     {
       "title": "PBS News Hour live episode, Nov. 20, 2026",
       "channel": "PBS NewsHour",
       "videoId": "EUk2y4hj0js",
-      "viewsPerHour": 1537,
+      "viewsPerHour": 1329,
       "views": 19881,
-      "ageHours": 12.9
-    },
-    {
-      "title": "Trump Cabinet members sued over softening anti-fraud law",
-      "channel": "MS NOW",
-      "videoId": "plvxPMLx4eQ",
-      "viewsPerHour": 1504,
-      "views": 9577,
-      "ageHours": 6.4
+      "ageHours": 15
     },
     {
       "title": "What the historic Trump, Xi and Putin summit signals to the world",
       "channel": "PBS NewsHour",
       "videoId": "y3WfO4cu5f0",
-      "viewsPerHour": 1411,
+      "viewsPerHour": 1189,
       "views": 15282,
-      "ageHours": 10.8
+      "ageHours": 12.8
+    },
+    {
+      "title": "Trump Cabinet members sued over softening anti-fraud law",
+      "channel": "MS NOW",
+      "videoId": "plvxPMLx4eQ",
+      "viewsPerHour": 1142,
+      "views": 9577,
+      "ageHours": 8.4
     },
     {
       "title": "Louis makes the news, Apple Store staff pushing subscription trials without consent ",
       "channel": "Louis Rossmann",
       "videoId": "NOHAZtfvaD4",
-      "viewsPerHour": 903,
+      "viewsPerHour": 865,
       "views": 41166,
-      "ageHours": 45.6
+      "ageHours": 47.6
     },
     {
       "title": "Texas SB 1711 would ban 3D printed guns as other states push printer blocking",
       "channel": "Louis Rossmann",
       "videoId": "I5_1LKdiOsE",
-      "viewsPerHour": 779,
+      "viewsPerHour": 626,
       "views": 6471,
-      "ageHours": 8.3
-    },
-    {
-      "title": "Conan Conducts A Staff Review With Team Coco COO Sarah Federowicz | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "e7PJRehglY4",
-      "viewsPerHour": 676,
-      "views": 31303,
-      "ageHours": 46.3
+      "ageHours": 10.3
     },
     {
       "title": "What is Ghost DNA? | Particles of Thought | Ella Al-Shamahi",
       "channel": "NOVA",
       "videoId": "kEmAsA8sPHo",
-      "viewsPerHour": 638,
-      "views": 27290,
-      "ageHours": 42.8
+      "viewsPerHour": 614,
+      "views": 27525,
+      "ageHours": 44.8
     },
     {
       "title": "alprradar.com needs your help to take down flock, axon fusus & the rest of them",
       "channel": "Louis Rossmann",
       "videoId": "4FI_0OrVc_4",
-      "viewsPerHour": 495,
+      "viewsPerHour": 470,
       "views": 19106,
-      "ageHours": 38.6
-    },
-    {
-      "title": "PEOPLE ARE AT THEIR WITS' END': Dems blast Trump & GOP for still doing nothing to fix economy",
-      "channel": "MS NOW",
-      "videoId": "Aoz5xjYYIcY",
-      "viewsPerHour": 426,
-      "views": 2761,
-      "ageHours": 6.5
-    },
-    {
-      "title": "Matt Gourley Talks James Bond & Melancholy Fall Films (Feat. Sean Doherty) | Bley's Arcade",
-      "channel": "Conan O'Brien",
-      "videoId": "EBhJtinB_Uw",
-      "viewsPerHour": 341,
-      "views": 4876,
-      "ageHours": 14.3
+      "ageHours": 40.6
     },
     {
       "title": "FTX Scandal: Inside the Money, Greed and Deception of Sam Bankman-Fried",
       "channel": "Real Stories",
       "videoId": "YNfw6MwjrHc",
-      "viewsPerHour": 337,
-      "views": 14262,
-      "ageHours": 42.3
+      "viewsPerHour": 333,
+      "views": 14762,
+      "ageHours": 44.3
+    },
+    {
+      "title": "PEOPLE ARE AT THEIR WITS' END': Dems blast Trump & GOP for still doing nothing to fix economy",
+      "channel": "MS NOW",
+      "videoId": "Aoz5xjYYIcY",
+      "viewsPerHour": 325,
+      "views": 2761,
+      "ageHours": 8.5
+    },
+    {
+      "title": "Matt Gourley Talks James Bond & Melancholy Fall Films (Feat. Sean Doherty) | Bley's Arcade",
+      "channel": "Conan O'Brien",
+      "videoId": "EBhJtinB_Uw",
+      "viewsPerHour": 299,
+      "views": 4876,
+      "ageHours": 16.3
     },
     {
       "title": "WATCH LIVE: Trump hosts news conference after meeting with Xi, Putin",
       "channel": "PBS NewsHour",
       "videoId": "XBt_02mMN7U",
-      "viewsPerHour": 248,
+      "viewsPerHour": 225,
       "views": 4827,
-      "ageHours": 19.4
-    },
-    {
-      "title": "Mounting tech disruptions raise concerns about U.S. cybersecurity",
-      "channel": "PBS NewsHour",
-      "videoId": "sMXbLqY4ius",
-      "viewsPerHour": 193,
-      "views": 2274,
-      "ageHours": 11.8
+      "ageHours": 21.5
     },
     {
       "title": "WATCH LIVE: Senate convenes ahead of Thanksgiving recess",
       "channel": "PBS NewsHour",
       "videoId": "2qVuRMqRBIs",
-      "viewsPerHour": 191,
+      "viewsPerHour": 174,
       "views": 3936,
-      "ageHours": 20.6
+      "ageHours": 22.6
+    },
+    {
+      "title": "Mounting tech disruptions raise concerns about U.S. cybersecurity",
+      "channel": "PBS NewsHour",
+      "videoId": "sMXbLqY4ius",
+      "viewsPerHour": 164,
+      "views": 2274,
+      "ageHours": 13.8
     },
     {
       "title": "WARNING: Dems allege Trump officials DESTROYING documents",
       "channel": "MS NOW",
       "videoId": "9004wKpeHyA",
-      "viewsPerHour": 168,
+      "viewsPerHour": 151,
       "views": 2987,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "There's Always Another Bonus. That's How the System Keeps You.",
       "channel": "Chris Lehto",
       "videoId": "NvBDlN-tN4Y",
-      "viewsPerHour": 155,
-      "views": 2898,
-      "ageHours": 18.7
+      "viewsPerHour": 144,
+      "views": 2975,
+      "ageHours": 20.7
     },
     {
       "title": "If AI Does Everything, What's the Point of Being Human?",
       "channel": "Chris Lehto",
       "videoId": "XSACOmMnmn0",
-      "viewsPerHour": 145,
-      "views": 6144,
-      "ageHours": 42.3
+      "viewsPerHour": 140,
+      "views": 6190,
+      "ageHours": 44.3
     },
     {
       "title": "Dems gear up to GO HARD on Trump for 'White House Epstein COVER-UP'",
       "channel": "MS NOW",
       "videoId": "hH2CReAWqUY",
-      "viewsPerHour": 97,
+      "viewsPerHour": 82,
       "views": 1124,
-      "ageHours": 11.6
-    },
-    {
-      "title": "The battle for Senate Majority Leader HEATS UP",
-      "channel": "MS NOW",
-      "videoId": "Y6bfgeZz32o",
-      "viewsPerHour": 61,
-      "views": 1441,
-      "ageHours": 23.7
+      "ageHours": 13.6
     },
     {
       "title": "Jerrod Carmichael: Cocaine Makes Entertainment Better | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "l050sc_jv_4",
-      "viewsPerHour": 13,
+      "viewsPerHour": 12,
       "views": 544,
-      "ageHours": 43.3
+      "ageHours": 45.3
     },
     {
       "title": "Josh Shapiro on foreign policy, Democratic wins and his 2028 ambitions",
       "channel": "PBS NewsHour",
       "videoId": "Nzz3YTsYVkU",
-      "viewsPerHour": 9,
+      "viewsPerHour": 8,
       "views": 104,
-      "ageHours": 11.6
+      "ageHours": 13.6
     }
   ]
 }
