@@ -1,8 +1,24 @@
 {
   "videosPerChannel": [
     {
+      "channel": "PBS NewsHour",
+      "count": 8
+    },
+    {
       "channel": "MS NOW",
-      "count": 6
+      "count": 7
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 12
+    },
+    {
+      "channel": "More Perfect Union",
+      "count": 26
+    },
+    {
+      "channel": "History",
+      "count": 51
     },
     {
       "channel": "Area 52",
@@ -10,11 +26,7 @@
     },
     {
       "channel": "Chris Lehto",
-      "count": 15
-    },
-    {
-      "channel": "PBS NewsHour",
-      "count": 8
+      "count": 14
     },
     {
       "channel": "The Daily Show",
@@ -37,20 +49,12 @@
       "count": 26
     },
     {
-      "channel": "Conan O'Brien",
-      "count": 11
-    },
-    {
       "channel": "Diary of a CEO",
       "count": 2
     },
     {
       "channel": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "channel": "History",
-      "count": 50
     },
     {
       "channel": "Jeremy Corbell",
@@ -63,10 +67,6 @@
     {
       "channel": "The Interview",
       "count": 8
-    },
-    {
-      "channel": "More Perfect Union",
-      "count": 25
     },
     {
       "channel": "Inside AI",
@@ -83,8 +83,28 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "MS NOW",
+      "keyword": "PBS NewsHour",
       "count": 6
+    },
+    {
+      "keyword": "MS NOW",
+      "count": 7
+    },
+    {
+      "keyword": "PBS NewsHour, AI",
+      "count": 2
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 12
+    },
+    {
+      "keyword": "More Perfect Union",
+      "count": 21
+    },
+    {
+      "keyword": "NOVA",
+      "count": 44
     },
     {
       "keyword": "UFO, testimony, UAP",
@@ -95,20 +115,8 @@
       "count": 13
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 6
-    },
-    {
       "keyword": "The Daily Show",
       "count": 10
-    },
-    {
-      "keyword": "PBS NewsHour, AI",
-      "count": 1
-    },
-    {
-      "keyword": "PBS NewsHour, AI, artificial intelligence",
-      "count": 1
     },
     {
       "keyword": "Louis Rossmann",
@@ -117,14 +125,6 @@
     {
       "keyword": "Real Stories",
       "count": 40
-    },
-    {
-      "keyword": "NOVA",
-      "count": 43
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 11
     },
     {
       "keyword": "AI, artificial intelligence",
@@ -169,10 +169,6 @@
     {
       "keyword": "UFO, Grusch, UAP",
       "count": 1
-    },
-    {
-      "keyword": "More Perfect Union",
-      "count": 20
     },
     {
       "keyword": "UAP, UFO",
@@ -225,20 +221,16 @@
     {
       "keyword": "AI, artificial intelligence, UAP",
       "count": 2
-    },
-    {
-      "keyword": "AI, UAP",
-      "count": 1
     }
   ],
   "dailySummary": [
     {
       "date": "2026-11-20",
-      "videos": 15
+      "videos": 23
     },
     {
       "date": "2026-11-19",
-      "videos": 17
+      "videos": 13
     },
     {
       "date": "2026-11-18",
@@ -469,18 +461,34 @@
       "videos": 4
     },
     {
-      "date": "2026-09-21",
-      "videos": 1
-    },
-    {
       "date": "2026-08-15",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "MS NOW",
+      "keyword": "PBS NewsHour",
       "matches": 6
+    },
+    {
+      "keyword": "MS NOW",
+      "matches": 7
+    },
+    {
+      "keyword": "PBS NewsHour, AI",
+      "matches": 2
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
+    },
+    {
+      "keyword": "More Perfect Union",
+      "matches": 1
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 5
     },
     {
       "keyword": "UFO, testimony, UAP",
@@ -491,20 +499,8 @@
       "matches": 3
     },
     {
-      "keyword": "PBS NewsHour",
-      "matches": 6
-    },
-    {
       "keyword": "The Daily Show",
       "matches": 10
-    },
-    {
-      "keyword": "PBS NewsHour, AI",
-      "matches": 1
-    },
-    {
-      "keyword": "PBS NewsHour, AI, artificial intelligence",
-      "matches": 1
     },
     {
       "keyword": "Louis Rossmann",
@@ -513,14 +509,6 @@
     {
       "keyword": "Real Stories",
       "matches": 6
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 4
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 7
     },
     {
       "keyword": "AI, artificial intelligence",
@@ -568,257 +556,281 @@
       "title": "Sleepy Trump Gets Chummy with Putin and Xi & Accomplishes “Nothing of Substance” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "wf98yIbLwSg",
-      "viewsPerHour": 118121,
-      "views": 2398722,
-      "ageHours": 20.3
+      "viewsPerHour": 111338,
+      "views": 2483942,
+      "ageHours": 22.3
     },
     {
       "title": "Peltola Beats Dan Sullivan x2 in Alaska & Manila Gives Trump a Warm \"YMCA\" Welcome | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "ORuXRjti77Y",
-      "viewsPerHour": 62059,
-      "views": 2748807,
-      "ageHours": 44.3
+      "viewsPerHour": 59697,
+      "views": 2763699,
+      "ageHours": 46.3
     },
     {
       "title": "Senator Bernie Sanders: Iran Wasn't Trump's Idea. Someone Else Pushed Him Into It!",
       "channel": "Diary of a CEO",
       "videoId": "eocM1C3HfQg",
-      "viewsPerHour": 53766,
-      "views": 2112547,
-      "ageHours": 39.3
+      "viewsPerHour": 52643,
+      "views": 2173842,
+      "ageHours": 41.3
     },
     {
       "title": "NEW MAGA MERCH: Introducing Trump Muffs for a Gloat-Free Thanksgiving | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "5U4397ea-uQ",
-      "viewsPerHour": 27671,
-      "views": 299647,
-      "ageHours": 10.8
+      "viewsPerHour": 26108,
+      "views": 335001,
+      "ageHours": 12.8
     },
     {
       "title": "Michelle Wolf Diagnoses What's Wrong with Women's Healthcare | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "kcYOv3f_O2E",
-      "viewsPerHour": 17391,
-      "views": 608534,
-      "ageHours": 35
+      "viewsPerHour": 16679,
+      "views": 617032,
+      "ageHours": 37
+    },
+    {
+      "title": "Trump Promised Mass Deportations In Springfield, Ohio. Now They’re Happening.",
+      "channel": "More Perfect Union",
+      "videoId": "Fa2HWrfesrM",
+      "viewsPerHour": 12372,
+      "views": 77199,
+      "ageHours": 6.2
     },
     {
       "title": "I Tracked Down Every Astronaut Who Saw A UFO",
       "channel": "Area 52",
       "videoId": "IClps-J_jWk",
-      "viewsPerHour": 10640,
-      "views": 66980,
+      "viewsPerHour": 11418,
+      "views": 94741,
+      "ageHours": 8.3
+    },
+    {
+      "title": "EXCLUSIVE: Trump admin AXED criminal investigation into GOP senator allegedly POISONING water supply",
+      "channel": "MS NOW",
+      "videoId": "G9VxEfNSgJA",
+      "viewsPerHour": 9933,
+      "views": 21012,
+      "ageHours": 2.1
+    },
+    {
+      "title": "Evidence of Weapons Found! | The Curse of Oak Island",
+      "channel": "History",
+      "videoId": "pjxBM55vUkQ",
+      "viewsPerHour": 7391,
+      "views": 46506,
       "ageHours": 6.3
+    },
+    {
+      "title": "PBS News Hour live episode, Nov. 20, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "EUk2y4hj0js",
+      "viewsPerHour": 6770,
+      "views": 19881,
+      "ageHours": 2.9
     },
     {
       "title": "Gemma Chan on Sundance Award-Winner “Josephine” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "KLoKOHNrlv4",
-      "viewsPerHour": 6886,
-      "views": 129417,
-      "ageHours": 18.8
+      "viewsPerHour": 6512,
+      "views": 135439,
+      "ageHours": 20.8
     },
     {
       "title": "Alien Bodies Recovered From UFO Crashes. Who’s Still Hiding Them After 80 Years | Dan Farah",
       "channel": "Mayim Bialik",
       "videoId": "P7rQUbKIi0M",
-      "viewsPerHour": 6437,
-      "views": 72675,
-      "ageHours": 11.3
+      "viewsPerHour": 6262,
+      "views": 83240,
+      "ageHours": 13.3
     },
     {
       "title": "Chloe Radcliffe on Her Comedy Central Stand-up Special “Eyes Down Here” | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "qNQRioHhI8c",
-      "viewsPerHour": 4950,
-      "views": 211662,
-      "ageHours": 42.8
+      "viewsPerHour": 4772,
+      "views": 213573,
+      "ageHours": 44.8
     },
     {
       "title": "PBS News Hour full episode, Nov. 19, 2026",
       "channel": "PBS NewsHour",
       "videoId": "56GuOAuCpMU",
-      "viewsPerHour": 4422,
+      "viewsPerHour": 4067,
       "views": 101579,
-      "ageHours": 23
-    },
-    {
-      "title": "Mapping Cancer's Life Story",
-      "channel": "The Rest Is Science",
-      "videoId": "0ofe5RQGHMk",
-      "viewsPerHour": 2720,
-      "views": 128382,
-      "ageHours": 47.2
+      "ageHours": 25
     },
     {
       "title": "LIVE: Trump holds press conference after BLUE WAVE",
       "channel": "MS NOW",
       "videoId": "ZMgQCs_EyN4",
-      "viewsPerHour": 1478,
+      "viewsPerHour": 1340,
       "views": 28845,
-      "ageHours": 19.5
+      "ageHours": 21.5
     },
     {
-      "title": "Nicolle says NOPE to Elon Musk's 'I'm not MAGA' rebrand after his disastrous DOGE killed THOUSANDS",
-      "channel": "MS NOW",
-      "videoId": "poaT5ZdpwHw",
-      "viewsPerHour": 1248,
-      "views": 30389,
-      "ageHours": 24.4
+      "title": "Mounting tech disruptions raise concerns about U.S. cybersecurity",
+      "channel": "PBS NewsHour",
+      "videoId": "sMXbLqY4ius",
+      "viewsPerHour": 1257,
+      "views": 2274,
+      "ageHours": 1.8
     },
     {
       "title": "Louis makes the news, Apple Store staff pushing subscription trials without consent ",
       "channel": "Louis Rossmann",
       "videoId": "NOHAZtfvaD4",
-      "viewsPerHour": 1225,
+      "viewsPerHour": 1156,
       "views": 41166,
-      "ageHours": 33.6
+      "ageHours": 35.6
+    },
+    {
+      "title": "Matt Gourley Talks James Bond & Melancholy Fall Films (Feat. Sean Doherty) | Bley's Arcade",
+      "channel": "Conan O'Brien",
+      "videoId": "EBhJtinB_Uw",
+      "viewsPerHour": 1135,
+      "views": 4876,
+      "ageHours": 4.3
     },
     {
       "title": "Conan Conducts A Staff Review With Team Coco COO Sarah Federowicz | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "e7PJRehglY4",
-      "viewsPerHour": 913,
+      "viewsPerHour": 863,
       "views": 31303,
-      "ageHours": 34.3
+      "ageHours": 36.3
     },
     {
       "title": "What is Ghost DNA? | Particles of Thought | Ella Al-Shamahi",
       "channel": "NOVA",
       "videoId": "kEmAsA8sPHo",
-      "viewsPerHour": 783,
-      "views": 24110,
-      "ageHours": 30.8
+      "viewsPerHour": 759,
+      "views": 24888,
+      "ageHours": 32.8
     },
     {
-      "title": "PBS News Hour live episode, Nov. 19, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "-6-Gtfw2cKA",
-      "viewsPerHour": 739,
-      "views": 18618,
-      "ageHours": 25.2
+      "title": "Dems gear up to GO HARD on Trump for 'White House Epstein COVER-UP'",
+      "channel": "MS NOW",
+      "videoId": "hH2CReAWqUY",
+      "viewsPerHour": 697,
+      "views": 1124,
+      "ageHours": 1.6
     },
     {
       "title": "alprradar.com needs your help to take down flock, axon fusus & the rest of them",
       "channel": "Louis Rossmann",
       "videoId": "4FI_0OrVc_4",
-      "viewsPerHour": 718,
+      "viewsPerHour": 668,
       "views": 19106,
-      "ageHours": 26.6
+      "ageHours": 28.6
     },
     {
       "title": "WATCH LIVE: Trump hosts news conference after meeting with Xi, Putin",
       "channel": "PBS NewsHour",
       "videoId": "XBt_02mMN7U",
-      "viewsPerHour": 648,
+      "viewsPerHour": 511,
       "views": 4827,
-      "ageHours": 7.4
-    },
-    {
-      "title": "WARNING: Dems allege Trump officials DESTROYING documents",
-      "channel": "MS NOW",
-      "videoId": "9004wKpeHyA",
-      "viewsPerHour": 517,
-      "views": 2987,
-      "ageHours": 5.8
+      "ageHours": 9.4
     },
     {
       "title": "House music pioneer Crystal Waters celebrates the genre's influence and impact",
       "channel": "PBS NewsHour",
       "videoId": "SPFBpZ9CY_g",
-      "viewsPerHour": 495,
+      "viewsPerHour": 455,
       "views": 11480,
-      "ageHours": 23.2
+      "ageHours": 25.2
+    },
+    {
+      "title": "WARNING: Dems allege Trump officials DESTROYING documents",
+      "channel": "MS NOW",
+      "videoId": "9004wKpeHyA",
+      "viewsPerHour": 384,
+      "views": 2987,
+      "ageHours": 7.8
     },
     {
       "title": "WATCH LIVE: Senate convenes ahead of Thanksgiving recess",
       "channel": "PBS NewsHour",
       "videoId": "2qVuRMqRBIs",
-      "viewsPerHour": 458,
+      "viewsPerHour": 372,
       "views": 3936,
-      "ageHours": 8.6
+      "ageHours": 10.6
     },
     {
       "title": "FTX Scandal: Inside the Money, Greed and Deception of Sam Bankman-Fried",
       "channel": "Real Stories",
       "videoId": "YNfw6MwjrHc",
-      "viewsPerHour": 362,
-      "views": 10954,
-      "ageHours": 30.3
+      "viewsPerHour": 360,
+      "views": 11634,
+      "ageHours": 32.3
     },
     {
       "title": "Dem vows to pursue Epstein probe after provocative new report",
       "channel": "MS NOW",
       "videoId": "n07FJBuslS4",
-      "viewsPerHour": 337,
+      "viewsPerHour": 304,
       "views": 6164,
-      "ageHours": 18.3
+      "ageHours": 20.3
     },
     {
       "title": "Huna' wins National Book Award, but author denied visa to attend ceremony",
       "channel": "PBS NewsHour",
       "videoId": "FwmOWWNmg8k",
-      "viewsPerHour": 285,
+      "viewsPerHour": 262,
       "views": 6642,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "There's Always Another Bonus. That's How the System Keeps You.",
       "channel": "Chris Lehto",
       "videoId": "NvBDlN-tN4Y",
-      "viewsPerHour": 260,
-      "views": 1737,
-      "ageHours": 6.7
+      "viewsPerHour": 245,
+      "views": 2122,
+      "ageHours": 8.7
     },
     {
       "title": "If AI Does Everything, What's the Point of Being Human?",
       "channel": "Chris Lehto",
       "videoId": "XSACOmMnmn0",
-      "viewsPerHour": 194,
-      "views": 5864,
-      "ageHours": 30.3
+      "viewsPerHour": 184,
+      "views": 5934,
+      "ageHours": 32.3
     },
     {
       "title": "The battle for Senate Majority Leader HEATS UP",
       "channel": "MS NOW",
       "videoId": "Y6bfgeZz32o",
-      "viewsPerHour": 123,
+      "viewsPerHour": 105,
       "views": 1441,
-      "ageHours": 11.7
+      "ageHours": 13.7
+    },
+    {
+      "title": "Josh Shapiro on foreign policy, Democratic wins and his 2028 ambitions",
+      "channel": "PBS NewsHour",
+      "videoId": "Nzz3YTsYVkU",
+      "viewsPerHour": 65,
+      "views": 104,
+      "ageHours": 1.6
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Nov. 19 | Audio Only",
       "channel": "MS NOW",
       "videoId": "O7l1Vl9T6z4",
-      "viewsPerHour": 30,
+      "viewsPerHour": 27,
       "views": 533,
-      "ageHours": 17.8
+      "ageHours": 19.8
     },
     {
       "title": "Jerrod Carmichael: Cocaine Makes Entertainment Better | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "l050sc_jv_4",
-      "viewsPerHour": 17,
+      "viewsPerHour": 16,
       "views": 544,
-      "ageHours": 31.3
-    },
-    {
-      "title": "International Court of Justice finds Myanmar guilty of genocide against Rohingya",
-      "channel": "PBS NewsHour",
-      "videoId": "HPv8KtKwoyM",
-      "viewsPerHour": 4,
-      "views": 92,
-      "ageHours": 23.6
-    },
-    {
-      "title": "Anthropic's trillion-dollar valuation tests its promise to develop AI responsibly",
-      "channel": "PBS NewsHour",
-      "videoId": "lk2xz_RXZ5w",
-      "viewsPerHour": 4,
-      "views": 87,
-      "ageHours": 23.7
+      "ageHours": 33.3
     }
   ]
 }
