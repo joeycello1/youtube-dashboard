@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 5
+      "count": 3
     },
     {
       "channel": "Real Stories",
@@ -18,11 +18,11 @@
     },
     {
       "channel": "Louis Rossmann",
-      "count": 16
+      "count": 15
     },
     {
       "channel": "Conan O'Brien",
-      "count": 11
+      "count": 9
     },
     {
       "channel": "More Perfect Union",
@@ -30,7 +30,7 @@
     },
     {
       "channel": "History",
-      "count": 50
+      "count": 49
     },
     {
       "channel": "Area 52",
@@ -46,7 +46,7 @@
     },
     {
       "channel": "NOVA",
-      "count": 26
+      "count": 25
     },
     {
       "channel": "Diary of a CEO",
@@ -80,7 +80,7 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 5
+      "count": 3
     },
     {
       "keyword": "Real Stories",
@@ -100,7 +100,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "count": 11
+      "count": 9
     },
     {
       "keyword": "More Perfect Union",
@@ -108,7 +108,7 @@
     },
     {
       "keyword": "NOVA",
-      "count": 44
+      "count": 43
     },
     {
       "keyword": "UFO, testimony, UAP",
@@ -124,7 +124,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "count": 14
+      "count": 13
     },
     {
       "keyword": "AI, artificial intelligence",
@@ -136,7 +136,7 @@
     },
     {
       "keyword": "UFO",
-      "count": 34
+      "count": 33
     },
     {
       "keyword": "UFO, UAP",
@@ -222,7 +222,7 @@
     },
     {
       "date": "2026-11-21",
-      "videos": 7
+      "videos": 5
     },
     {
       "date": "2026-11-20",
@@ -258,7 +258,7 @@
     },
     {
       "date": "2026-11-12",
-      "videos": 5
+      "videos": 3
     },
     {
       "date": "2026-11-11",
@@ -278,7 +278,7 @@
     },
     {
       "date": "2026-11-07",
-      "videos": 3
+      "videos": 2
     },
     {
       "date": "2026-11-06",
@@ -458,7 +458,7 @@
     },
     {
       "date": "2026-09-23",
-      "videos": 3
+      "videos": 1
     },
     {
       "date": "2026-08-15",
@@ -468,11 +468,11 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 5
+      "matches": 3
     },
     {
       "keyword": "Real Stories",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "The Daily Show, AI",
@@ -512,7 +512,7 @@
     },
     {
       "keyword": "Louis Rossmann",
-      "matches": 8
+      "matches": 7
     },
     {
       "keyword": "AI, artificial intelligence",
@@ -524,7 +524,7 @@
     },
     {
       "keyword": "UFO",
-      "matches": 3
+      "matches": 2
     },
     {
       "keyword": "UFO, UAP",
@@ -548,113 +548,65 @@
       "title": "Jon Stewart on Unregulated AI & Michael Kosta on Tech Outages and Trump's APEC Nap | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "_wN_Cw2V8SU",
-      "viewsPerHour": 48155,
-      "views": 1220977,
-      "ageHours": 25.4
-    },
-    {
-      "title": "Trump Promised Mass Deportations In Springfield, Ohio. Now They’re Happening.",
-      "channel": "More Perfect Union",
-      "videoId": "Fa2HWrfesrM",
-      "viewsPerHour": 13579,
-      "views": 601651,
-      "ageHours": 44.3
-    },
-    {
-      "title": "I Tracked Down Every Astronaut Who Saw A UFO",
-      "channel": "Area 52",
-      "videoId": "IClps-J_jWk",
-      "viewsPerHour": 6368,
-      "views": 295240,
-      "ageHours": 46.4
-    },
-    {
-      "title": "Trump 'fantasy world', Senate SHOWDOWN, MAGA? MAGA who? | All In with Chris Hayes Weekly Highlights",
-      "channel": "MS NOW",
-      "videoId": "RwUgrz7A1mk",
-      "viewsPerHour": 2471,
-      "views": 35491,
-      "ageHours": 14.4
+      "viewsPerHour": 43449,
+      "views": 1272135,
+      "ageHours": 29.3
     },
     {
       "title": "Hakeem Jeffries on Trump’s ‘Out of Control’ Executive Branch | The Interview",
       "channel": "The Interview",
       "videoId": "Y0X1CAuVhmE",
-      "viewsPerHour": 2310,
-      "views": 59161,
-      "ageHours": 25.6
+      "viewsPerHour": 2188,
+      "views": 64617,
+      "ageHours": 29.5
+    },
+    {
+      "title": "Trump 'fantasy world', Senate SHOWDOWN, MAGA? MAGA who? | All In with Chris Hayes Weekly Highlights",
+      "channel": "MS NOW",
+      "videoId": "RwUgrz7A1mk",
+      "viewsPerHour": 1941,
+      "views": 35491,
+      "ageHours": 18.3
     },
     {
       "title": "Longtime MAGA figures face NEW REALITY | The Beat with Ari Melber Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "PxYYWrJpMzk",
-      "viewsPerHour": 2300,
+      "viewsPerHour": 1832,
       "views": 35343,
-      "ageHours": 15.4
-    },
-    {
-      "title": "Evidence of Weapons Found! | The Curse of Oak Island",
-      "channel": "History",
-      "videoId": "pjxBM55vUkQ",
-      "viewsPerHour": 2215,
-      "views": 98262,
-      "ageHours": 44.4
+      "ageHours": 19.3
     },
     {
       "title": "Meet The Ohio Dads That Hunt Child Predators Online",
       "channel": "Real Stories",
       "videoId": "r1jhP3csCnE",
-      "viewsPerHour": 531,
-      "views": 11351,
-      "ageHours": 21.4
+      "viewsPerHour": 471,
+      "views": 11908,
+      "ageHours": 25.3
     },
     {
       "title": "WTF': Tech outages with no 'coherent explanation | Deadline: White House Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "SlmK4tyd1lY",
-      "viewsPerHour": 456,
+      "viewsPerHour": 367,
       "views": 7453,
-      "ageHours": 16.4
-    },
-    {
-      "title": "‘Texans don’t want ICE killing people here’: TX Lt. Gov-Elect on Homan’s vow to increase ICE arrests",
-      "channel": "MS NOW",
-      "videoId": "5Ie4OUD-cLU",
-      "viewsPerHour": 272,
-      "views": 6163,
-      "ageHours": 22.7
-    },
-    {
-      "title": "‘Embarrassing for the nation’: Fmr. judge SLAMS judiciary hearings as GOP scramble to confirm judges",
-      "channel": "MS NOW",
-      "videoId": "_j3WXWOelwc",
-      "viewsPerHour": 187,
-      "views": 4130,
-      "ageHours": 22.1
+      "ageHours": 20.3
     },
     {
       "title": "Texas SB 1711 would ban 3D printed guns as other states push printer blocking",
       "channel": "Louis Rossmann",
       "videoId": "I5_1LKdiOsE",
-      "viewsPerHour": 178,
+      "viewsPerHour": 161,
       "views": 6471,
-      "ageHours": 36.4
+      "ageHours": 40.3
     },
     {
       "title": "Matt Gourley Talks James Bond & Melancholy Fall Films (Feat. Sean Doherty) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "EBhJtinB_Uw",
-      "viewsPerHour": 115,
+      "viewsPerHour": 105,
       "views": 4876,
-      "ageHours": 42.4
-    },
-    {
-      "title": "There's Always Another Bonus. That's How the System Keeps You.",
-      "channel": "Chris Lehto",
-      "videoId": "NvBDlN-tN4Y",
-      "viewsPerHour": 81,
-      "views": 3786,
-      "ageHours": 46.7
+      "ageHours": 46.3
     }
   ]
 }
