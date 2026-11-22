@@ -2,7 +2,7 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 7
+      "count": 6
     },
     {
       "channel": "Real Stories",
@@ -21,10 +21,6 @@
       "count": 16
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 1
-    },
-    {
       "channel": "Conan O'Brien",
       "count": 11
     },
@@ -34,7 +30,7 @@
     },
     {
       "channel": "History",
-      "count": 51
+      "count": 50
     },
     {
       "channel": "Area 52",
@@ -84,7 +80,7 @@
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 6
+      "count": 5
     },
     {
       "keyword": "Real Stories",
@@ -104,10 +100,6 @@
     },
     {
       "keyword": "Louis Rossmann, artificial intelligence",
-      "count": 1
-    },
-    {
-      "keyword": "PBS NewsHour",
       "count": 1
     },
     {
@@ -148,7 +140,7 @@
     },
     {
       "keyword": "UFO",
-      "count": 35
+      "count": 34
     },
     {
       "keyword": "UFO, UAP",
@@ -229,8 +221,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-11-22",
+      "videos": 2
+    },
+    {
       "date": "2026-11-21",
-      "videos": 12
+      "videos": 8
     },
     {
       "date": "2026-11-20",
@@ -466,7 +462,7 @@
     },
     {
       "date": "2026-09-23",
-      "videos": 4
+      "videos": 3
     },
     {
       "date": "2026-08-15",
@@ -476,7 +472,7 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "Real Stories",
@@ -496,10 +492,6 @@
     },
     {
       "keyword": "Louis Rossmann, artificial intelligence",
-      "matches": 1
-    },
-    {
-      "keyword": "PBS NewsHour",
       "matches": 1
     },
     {
@@ -564,153 +556,137 @@
       "title": "Jon Stewart on Unregulated AI & Michael Kosta on Tech Outages and Trump's APEC Nap | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "_wN_Cw2V8SU",
-      "viewsPerHour": 62496,
-      "views": 955383,
-      "ageHours": 15.3
+      "viewsPerHour": 60079,
+      "views": 1038759,
+      "ageHours": 17.3
     },
     {
       "title": "Trump Promised Mass Deportations In Springfield, Ohio. Now They’re Happening.",
       "channel": "More Perfect Union",
       "videoId": "Fa2HWrfesrM",
-      "viewsPerHour": 15103,
-      "views": 517100,
-      "ageHours": 34.2
+      "viewsPerHour": 14674,
+      "views": 531809,
+      "ageHours": 36.2
     },
     {
       "title": "NEW MAGA MERCH: Introducing Trump Muffs for a Gloat-Free Thanksgiving | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "5U4397ea-uQ",
-      "viewsPerHour": 14181,
-      "views": 579042,
-      "ageHours": 40.8
+      "viewsPerHour": 13757,
+      "views": 589283,
+      "ageHours": 42.8
     },
     {
       "title": "I Tracked Down Every Astronaut Who Saw A UFO",
       "channel": "Area 52",
       "videoId": "IClps-J_jWk",
-      "viewsPerHour": 7378,
-      "views": 267814,
-      "ageHours": 36.3
+      "viewsPerHour": 7185,
+      "views": 275197,
+      "ageHours": 38.3
+    },
+    {
+      "title": "Trump 'fantasy world', Senate SHOWDOWN, MAGA? MAGA who? | All In with Chris Hayes Weekly Highlights",
+      "channel": "MS NOW",
+      "videoId": "RwUgrz7A1mk",
+      "viewsPerHour": 5637,
+      "views": 35491,
+      "ageHours": 6.3
     },
     {
       "title": "Alien Bodies Recovered From UFO Crashes. Who’s Still Hiding Them After 80 Years | Dan Farah",
       "channel": "Mayim Bialik",
       "videoId": "P7rQUbKIi0M",
-      "viewsPerHour": 5531,
-      "views": 228387,
-      "ageHours": 41.3
+      "viewsPerHour": 5563,
+      "views": 240853,
+      "ageHours": 43.3
+    },
+    {
+      "title": "Longtime MAGA figures face NEW REALITY | The Beat with Ari Melber Weekly Highlights",
+      "channel": "MS NOW",
+      "videoId": "PxYYWrJpMzk",
+      "viewsPerHour": 4842,
+      "views": 35343,
+      "ageHours": 7.3
     },
     {
       "title": "Hakeem Jeffries on Trump’s ‘Out of Control’ Executive Branch | The Interview",
       "channel": "The Interview",
       "videoId": "Y0X1CAuVhmE",
-      "viewsPerHour": 3097,
-      "views": 48144,
-      "ageHours": 15.5
+      "viewsPerHour": 2915,
+      "views": 51155,
+      "ageHours": 17.6
     },
     {
       "title": "Evidence of Weapons Found! | The Curse of Oak Island",
       "channel": "History",
       "videoId": "pjxBM55vUkQ",
-      "viewsPerHour": 2782,
-      "views": 95415,
-      "ageHours": 34.3
+      "viewsPerHour": 2650,
+      "views": 96193,
+      "ageHours": 36.3
     },
     {
       "title": "MS NOW reacts to Trump’s 'jovial mood' after meeting with autocrats | COMPILATION",
       "channel": "MS NOW",
       "videoId": "vo_1m0Y66ww",
-      "viewsPerHour": 2014,
+      "viewsPerHour": 1851,
       "views": 45859,
-      "ageHours": 22.8
+      "ageHours": 24.8
     },
     {
       "title": "WTF': Tech outages with no 'coherent explanation | Deadline: White House Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "SlmK4tyd1lY",
-      "viewsPerHour": 1185,
+      "viewsPerHour": 899,
       "views": 7453,
-      "ageHours": 6.3
+      "ageHours": 8.3
     },
     {
       "title": "Meet The Ohio Dads That Hunt Child Predators Online",
       "channel": "Real Stories",
       "videoId": "r1jhP3csCnE",
-      "viewsPerHour": 759,
-      "views": 8570,
-      "ageHours": 11.3
-    },
-    {
-      "title": "What the historic Trump, Xi and Putin summit signals to the world",
-      "channel": "PBS NewsHour",
-      "videoId": "y3WfO4cu5f0",
-      "viewsPerHour": 530,
-      "views": 15282,
-      "ageHours": 28.8
+      "viewsPerHour": 700,
+      "views": 9311,
+      "ageHours": 13.3
     },
     {
       "title": "‘Texans don’t want ICE killing people here’: TX Lt. Gov-Elect on Homan’s vow to increase ICE arrests",
       "channel": "MS NOW",
       "videoId": "5Ie4OUD-cLU",
-      "viewsPerHour": 488,
+      "viewsPerHour": 421,
       "views": 6163,
-      "ageHours": 12.6
-    },
-    {
-      "title": "Trump's biggest takeaway from China trip: Embarrassment",
-      "channel": "MS NOW",
-      "videoId": "FBvfbnYtoec",
-      "viewsPerHour": 460,
-      "views": 11059,
-      "ageHours": 24
-    },
-    {
-      "title": "Trump Cabinet members sued over softening anti-fraud law",
-      "channel": "MS NOW",
-      "videoId": "plvxPMLx4eQ",
-      "viewsPerHour": 393,
-      "views": 9577,
-      "ageHours": 24.4
+      "ageHours": 14.6
     },
     {
       "title": "‘Embarrassing for the nation’: Fmr. judge SLAMS judiciary hearings as GOP scramble to confirm judges",
       "channel": "MS NOW",
       "videoId": "_j3WXWOelwc",
-      "viewsPerHour": 345,
+      "viewsPerHour": 295,
       "views": 4130,
-      "ageHours": 12
+      "ageHours": 14
     },
     {
       "title": "Texas SB 1711 would ban 3D printed guns as other states push printer blocking",
       "channel": "Louis Rossmann",
       "videoId": "I5_1LKdiOsE",
-      "viewsPerHour": 246,
+      "viewsPerHour": 229,
       "views": 6471,
-      "ageHours": 26.3
+      "ageHours": 28.3
     },
     {
       "title": "Matt Gourley Talks James Bond & Melancholy Fall Films (Feat. Sean Doherty) | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "EBhJtinB_Uw",
-      "viewsPerHour": 151,
+      "viewsPerHour": 142,
       "views": 4876,
-      "ageHours": 32.3
-    },
-    {
-      "title": "PEOPLE ARE AT THEIR WITS' END': Dems blast Trump & GOP for still doing nothing to fix economy",
-      "channel": "MS NOW",
-      "videoId": "Aoz5xjYYIcY",
-      "viewsPerHour": 113,
-      "views": 2761,
-      "ageHours": 24.5
+      "ageHours": 34.3
     },
     {
       "title": "There's Always Another Bonus. That's How the System Keeps You.",
       "channel": "Chris Lehto",
       "videoId": "NvBDlN-tN4Y",
-      "viewsPerHour": 98,
-      "views": 3598,
-      "ageHours": 36.7
+      "viewsPerHour": 93,
+      "views": 3610,
+      "ageHours": 38.7
     }
   ]
 }
