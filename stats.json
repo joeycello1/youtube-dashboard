@@ -2,7 +2,19 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 8
+      "count": 10
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 2
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 10
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 15
     },
     {
       "channel": "Diary of a CEO",
@@ -18,7 +30,7 @@
     },
     {
       "channel": "Real Stories",
-      "count": 45
+      "count": 44
     },
     {
       "channel": "The Daily Show",
@@ -29,16 +41,8 @@
       "count": 9
     },
     {
-      "channel": "Louis Rossmann",
-      "count": 14
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 9
-    },
-    {
       "channel": "More Perfect Union",
-      "count": 25
+      "count": 24
     },
     {
       "channel": "Area 52",
@@ -74,13 +78,25 @@
     },
     {
       "channel": "Jonathan Pie",
-      "count": 3
+      "count": 2
     }
   ],
   "keywordFrequency": [
     {
       "keyword": "MS NOW",
-      "count": 7
+      "count": 9
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 2
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 10
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 14
     },
     {
       "keyword": "AI",
@@ -115,12 +131,8 @@
       "count": 1
     },
     {
-      "keyword": "Conan O'Brien",
-      "count": 9
-    },
-    {
       "keyword": "More Perfect Union",
-      "count": 20
+      "count": 19
     },
     {
       "keyword": "NOVA",
@@ -133,10 +145,6 @@
     {
       "keyword": "The Daily Show",
       "count": 9
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 13
     },
     {
       "keyword": "AI, artificial intelligence",
@@ -204,11 +212,11 @@
     },
     {
       "keyword": "Jonathan Pie",
-      "count": 3
+      "count": 2
     },
     {
       "keyword": "Real Stories, testimony",
-      "count": 2
+      "count": 1
     },
     {
       "keyword": "AI, artificial intelligence, UAP",
@@ -218,7 +226,7 @@
   "dailySummary": [
     {
       "date": "2026-11-23",
-      "videos": 7
+      "videos": 13
     },
     {
       "date": "2026-11-22",
@@ -458,7 +466,7 @@
     },
     {
       "date": "2026-09-24",
-      "videos": 4
+      "videos": 1
     },
     {
       "date": "2026-08-15",
@@ -468,7 +476,19 @@
   "topKeywordsWeek": [
     {
       "keyword": "MS NOW",
-      "matches": 7
+      "matches": 9
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 2
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "matches": 8
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 8
     },
     {
       "keyword": "AI",
@@ -488,7 +508,7 @@
     },
     {
       "keyword": "Real Stories",
-      "matches": 6
+      "matches": 5
     },
     {
       "keyword": "The Daily Show, AI",
@@ -501,10 +521,6 @@
     {
       "keyword": "Louis Rossmann, artificial intelligence",
       "matches": 1
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 7
     },
     {
       "keyword": "More Perfect Union",
@@ -521,10 +537,6 @@
     {
       "keyword": "The Daily Show",
       "matches": 9
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 7
     },
     {
       "keyword": "AI, artificial intelligence",
@@ -548,105 +560,145 @@
       "title": "The Man Who Predicted The Last Crash WARNS A Recession Starts If These 2 Fail! | Steve Eisman",
       "channel": "Diary of a CEO",
       "videoId": "4Unch--PmW0",
-      "viewsPerHour": 92970,
-      "views": 863639,
-      "ageHours": 9.3
+      "viewsPerHour": 96978,
+      "views": 1097089,
+      "ageHours": 11.3
     },
     {
       "title": "BREAKING ELECTION ALERT: Dems finish BLUE WAVE with new flip",
       "channel": "MS NOW",
       "videoId": "aBephx5tl3A",
-      "viewsPerHour": 21170,
+      "viewsPerHour": 18950,
       "views": 365686,
-      "ageHours": 17.3
+      "ageHours": 19.3
     },
     {
       "title": "How A Rock Changed Our Teeth Forever",
       "channel": "The Rest Is Science",
       "videoId": "ajZY0a6F3NY",
-      "viewsPerHour": 10070,
-      "views": 194326,
-      "ageHours": 19.3
+      "viewsPerHour": 9691,
+      "views": 206609,
+      "ageHours": 21.3
     },
     {
       "title": "Could Advanced Technology Be Hidden in History? | In Search of Aliens",
       "channel": "History",
       "videoId": "xGEk0MjGmI4",
-      "viewsPerHour": 8018,
-      "views": 178722,
-      "ageHours": 22.3
+      "viewsPerHour": 7672,
+      "views": 186541,
+      "ageHours": 24.3
+    },
+    {
+      "title": "Paybyphone's dark pattern rakes in 50 million a year, good find @bnwlkr ",
+      "channel": "Louis Rossmann",
+      "videoId": "JVhw22OQB0M",
+      "viewsPerHour": 5823,
+      "views": 42616,
+      "ageHours": 7.3
+    },
+    {
+      "title": "Eric Idle (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "m3ezi7ZnT_0",
+      "viewsPerHour": 3392,
+      "views": 14628,
+      "ageHours": 4.3
     },
     {
       "title": "These are DICTATORS, MURDERERS!': Trump SLAMMED for 'my friend' Putin social media post",
       "channel": "MS NOW",
       "videoId": "9yGmHxTjMEw",
-      "viewsPerHour": 2854,
+      "viewsPerHour": 2171,
       "views": 18345,
-      "ageHours": 6.4
+      "ageHours": 8.5
     },
     {
       "title": "WHAT?! Trump’s meeting with Putin | The 11th Hour Highlights",
       "channel": "MS NOW",
       "videoId": "NHs-MkFl0EY",
-      "viewsPerHour": 1914,
+      "viewsPerHour": 1702,
       "views": 31186,
-      "ageHours": 16.3
+      "ageHours": 18.3
     },
     {
       "title": "Trump feels the BLUE WAVE crash | The Last Word Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "TsPUmDpiDkE",
-      "viewsPerHour": 1857,
+      "viewsPerHour": 1663,
       "views": 32117,
-      "ageHours": 17.3
+      "ageHours": 19.3
+    },
+    {
+      "title": "WATCH LIVE: First lady Melania Trump welcomes the White House Christmas Tree",
+      "channel": "PBS NewsHour",
+      "videoId": "NWwUpFDOGuk",
+      "viewsPerHour": 1361,
+      "views": 2560,
+      "ageHours": 1.9
+    },
+    {
+      "title": "China ‘is way behind’ on chips and we need to keep them behind for natl. security: Fmr. Ambassador",
+      "channel": "MS NOW",
+      "videoId": "fsyEHAgtye0",
+      "viewsPerHour": 907,
+      "views": 1588,
+      "ageHours": 1.8
     },
     {
       "title": "88 Acres of Anarchy:  Inside The Future of America's Most Revolutionary Skatepark",
       "channel": "Real Stories",
       "videoId": "6UIGxQxzSco",
-      "viewsPerHour": 673,
-      "views": 15683,
-      "ageHours": 23.3
+      "viewsPerHour": 635,
+      "views": 16070,
+      "ageHours": 25.3
     },
     {
       "title": "MS NOW Highlights - November 22",
       "channel": "MS NOW",
       "videoId": "kMYA3OHBhtE",
-      "viewsPerHour": 394,
+      "viewsPerHour": 298,
       "views": 2480,
-      "ageHours": 6.3
-    },
-    {
-      "title": "Meet The Ohio Dads That Hunt Child Predators Online",
-      "channel": "Real Stories",
-      "videoId": "r1jhP3csCnE",
-      "viewsPerHour": 303,
-      "views": 14346,
-      "ageHours": 47.3
+      "ageHours": 8.3
     },
     {
       "title": "Is Stephen Miller 'THE MOST POWERFUL MAN IN THE WORLD?' | MS NOW REACTS",
       "channel": "MS NOW",
       "videoId": "jk7rZQMLEzw",
-      "viewsPerHour": 277,
+      "viewsPerHour": 249,
       "views": 5027,
-      "ageHours": 18.2
-    },
-    {
-      "title": "‘It's LUNACY!’: Joe SLAMS Trump for doubling-down on Putin ‘my friend’ statement",
-      "channel": "MS NOW",
-      "videoId": "j6gkhghS7cE",
-      "viewsPerHour": 247,
-      "views": 1383,
-      "ageHours": 5.6
+      "ageHours": 20.2
     },
     {
       "title": "It's time to TURN THE PAGE' Van Hollen discusses Senate Leader run AGAINST Chuck Schumer",
       "channel": "MS NOW",
       "videoId": "mr0ToQTQSjU",
-      "viewsPerHour": 203,
+      "viewsPerHour": 183,
       "views": 3762,
-      "ageHours": 18.5
+      "ageHours": 20.5
+    },
+    {
+      "title": "‘It's LUNACY!’: Joe SLAMS Trump for doubling-down on Putin ‘my friend’ statement",
+      "channel": "MS NOW",
+      "videoId": "j6gkhghS7cE",
+      "viewsPerHour": 181,
+      "views": 1383,
+      "ageHours": 7.6
+    },
+    {
+      "title": "Bon Appétit's Jamila Robinson shares ways to SAVE on THANKSGIVING",
+      "channel": "MS NOW",
+      "videoId": "1qM96qZbGYM",
+      "viewsPerHour": 170,
+      "views": 368,
+      "ageHours": 2.2
+    },
+    {
+      "title": "WATCH LIVE: Trump delivers address at the Justice Department",
+      "channel": "PBS NewsHour",
+      "videoId": "pwJDvWZCYNM",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 3.5
     }
   ]
 }
