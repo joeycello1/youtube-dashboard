@@ -2,11 +2,19 @@
   "videosPerChannel": [
     {
       "channel": "MS NOW",
-      "count": 3
+      "count": 4
+    },
+    {
+      "channel": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "channel": "History",
+      "count": 50
     },
     {
       "channel": "Real Stories",
-      "count": 44
+      "count": 45
     },
     {
       "channel": "The Daily Show",
@@ -26,11 +34,7 @@
     },
     {
       "channel": "More Perfect Union",
-      "count": 26
-    },
-    {
-      "channel": "History",
-      "count": 49
+      "count": 25
     },
     {
       "channel": "Area 52",
@@ -51,10 +55,6 @@
     {
       "channel": "Diary of a CEO",
       "count": 2
-    },
-    {
-      "channel": "The Rest Is Science",
-      "count": 4
     },
     {
       "channel": "Jeremy Corbell",
@@ -79,12 +79,24 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "MS NOW, AI",
+      "count": 1
+    },
+    {
       "keyword": "MS NOW",
       "count": 3
     },
     {
+      "keyword": "The Rest Is Science",
+      "count": 5
+    },
+    {
+      "keyword": "UFO",
+      "count": 34
+    },
+    {
       "keyword": "Real Stories",
-      "count": 41
+      "count": 42
     },
     {
       "keyword": "The Daily Show, AI",
@@ -104,7 +116,7 @@
     },
     {
       "keyword": "More Perfect Union",
-      "count": 21
+      "count": 20
     },
     {
       "keyword": "NOVA",
@@ -129,14 +141,6 @@
     {
       "keyword": "AI, artificial intelligence",
       "count": 1
-    },
-    {
-      "keyword": "The Rest Is Science",
-      "count": 4
-    },
-    {
-      "keyword": "UFO",
-      "count": 33
     },
     {
       "keyword": "UFO, UAP",
@@ -218,11 +222,11 @@
   "dailySummary": [
     {
       "date": "2026-11-22",
-      "videos": 2
+      "videos": 7
     },
     {
       "date": "2026-11-21",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-11-20",
@@ -457,22 +461,30 @@
       "videos": 5
     },
     {
-      "date": "2026-09-23",
-      "videos": 1
-    },
-    {
       "date": "2026-08-15",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "MS NOW, AI",
+      "matches": 1
+    },
+    {
       "keyword": "MS NOW",
       "matches": 3
     },
     {
+      "keyword": "The Rest Is Science",
+      "matches": 2
+    },
+    {
+      "keyword": "UFO",
+      "matches": 2
+    },
+    {
       "keyword": "Real Stories",
-      "matches": 5
+      "matches": 6
     },
     {
       "keyword": "The Daily Show, AI",
@@ -519,14 +531,6 @@
       "matches": 1
     },
     {
-      "keyword": "The Rest Is Science",
-      "matches": 1
-    },
-    {
-      "keyword": "UFO",
-      "matches": 1
-    },
-    {
       "keyword": "UFO, UAP",
       "matches": 1
     },
@@ -548,57 +552,89 @@
       "title": "Jon Stewart on Unregulated AI & Michael Kosta on Tech Outages and Trump's APEC Nap | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "_wN_Cw2V8SU",
-      "viewsPerHour": 40878,
-      "views": 1360642,
-      "ageHours": 33.3
+      "viewsPerHour": 39624,
+      "views": 1398042,
+      "ageHours": 35.3
+    },
+    {
+      "title": "How A Rock Changed Our Teeth Forever",
+      "channel": "The Rest Is Science",
+      "videoId": "ajZY0a6F3NY",
+      "viewsPerHour": 11392,
+      "views": 37496,
+      "ageHours": 3.3
+    },
+    {
+      "title": "Could Advanced Technology Be Hidden in History? | In Search of Aliens",
+      "channel": "History",
+      "videoId": "xGEk0MjGmI4",
+      "viewsPerHour": 9504,
+      "views": 59740,
+      "ageHours": 6.3
+    },
+    {
+      "title": "Is Stephen Miller 'THE MOST POWERFUL MAN IN THE WORLD?' | MS NOW REACTS",
+      "channel": "MS NOW",
+      "videoId": "jk7rZQMLEzw",
+      "viewsPerHour": 2317,
+      "views": 5027,
+      "ageHours": 2.2
     },
     {
       "title": "Hakeem Jeffries on Trump’s ‘Out of Control’ Executive Branch | The Interview",
       "channel": "The Interview",
       "videoId": "Y0X1CAuVhmE",
-      "viewsPerHour": 2117,
-      "views": 71020,
-      "ageHours": 33.5
+      "viewsPerHour": 2049,
+      "views": 72813,
+      "ageHours": 35.5
+    },
+    {
+      "title": "It's time to TURN THE PAGE' Van Hollen discusses Senate Leader run AGAINST Chuck Schumer",
+      "channel": "MS NOW",
+      "videoId": "mr0ToQTQSjU",
+      "viewsPerHour": 1496,
+      "views": 3762,
+      "ageHours": 2.5
     },
     {
       "title": "Trump 'fantasy world', Senate SHOWDOWN, MAGA? MAGA who? | All In with Chris Hayes Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "RwUgrz7A1mk",
-      "viewsPerHour": 1592,
+      "viewsPerHour": 1461,
       "views": 35491,
-      "ageHours": 22.3
+      "ageHours": 24.3
     },
     {
       "title": "Longtime MAGA figures face NEW REALITY | The Beat with Ari Melber Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "PxYYWrJpMzk",
-      "viewsPerHour": 1517,
+      "viewsPerHour": 1397,
       "views": 35343,
-      "ageHours": 23.3
+      "ageHours": 25.3
+    },
+    {
+      "title": "88 Acres of Anarchy:  Inside The Future of America's Most Revolutionary Skatepark",
+      "channel": "Real Stories",
+      "videoId": "6UIGxQxzSco",
+      "viewsPerHour": 945,
+      "views": 6883,
+      "ageHours": 7.3
     },
     {
       "title": "Meet The Ohio Dads That Hunt Child Predators Online",
       "channel": "Real Stories",
       "videoId": "r1jhP3csCnE",
-      "viewsPerHour": 434,
-      "views": 12698,
-      "ageHours": 29.3
-    },
-    {
-      "title": "WTF': Tech outages with no 'coherent explanation | Deadline: White House Weekly Highlights",
-      "channel": "MS NOW",
-      "videoId": "SlmK4tyd1lY",
-      "viewsPerHour": 307,
-      "views": 7453,
-      "ageHours": 24.3
+      "viewsPerHour": 415,
+      "views": 12979,
+      "ageHours": 31.3
     },
     {
       "title": "Texas SB 1711 would ban 3D printed guns as other states push printer blocking",
       "channel": "Louis Rossmann",
       "videoId": "I5_1LKdiOsE",
-      "viewsPerHour": 146,
+      "viewsPerHour": 140,
       "views": 6471,
-      "ageHours": 44.3
+      "ageHours": 46.3
     }
   ]
 }
