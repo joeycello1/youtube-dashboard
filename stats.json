@@ -520,7 +520,7 @@
     },
     {
       "keyword": "AI",
-      "matches": 3
+      "matches": 2
     },
     {
       "keyword": "The Daily Show",
@@ -545,10 +545,6 @@
     {
       "keyword": "Corbell, anomalous, George Knapp, UAP, whistleblower",
       "matches": 1
-    },
-    {
-      "keyword": "Last Week Tonight",
-      "matches": 1
     }
   ],
   "mostViral48h": [
@@ -556,89 +552,89 @@
       "title": "BREAKING ELECTION ALERT: Dems finish BLUE WAVE with new flip",
       "channel": "MS NOW",
       "videoId": "aBephx5tl3A",
-      "viewsPerHour": 50271,
+      "viewsPerHour": 39413,
       "views": 365686,
-      "ageHours": 7.3
+      "ageHours": 9.3
     },
     {
       "title": "Jon Stewart on Unregulated AI & Michael Kosta on Tech Outages and Trump's APEC Nap | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "_wN_Cw2V8SU",
-      "viewsPerHour": 36911,
-      "views": 1524001,
-      "ageHours": 41.3
+      "viewsPerHour": 35979,
+      "views": 1557587,
+      "ageHours": 43.3
     },
     {
       "title": "How A Rock Changed Our Teeth Forever",
       "channel": "The Rest Is Science",
       "videoId": "ajZY0a6F3NY",
-      "viewsPerHour": 12710,
-      "views": 118168,
-      "ageHours": 9.3
+      "viewsPerHour": 12109,
+      "views": 136849,
+      "ageHours": 11.3
     },
     {
       "title": "Could Advanced Technology Be Hidden in History? | In Search of Aliens",
       "channel": "History",
       "videoId": "xGEk0MjGmI4",
-      "viewsPerHour": 10225,
-      "views": 125676,
-      "ageHours": 12.3
+      "viewsPerHour": 9758,
+      "views": 139495,
+      "ageHours": 14.3
     },
     {
       "title": "WHAT?! Trump’s meeting with Putin | The 11th Hour Highlights",
       "channel": "MS NOW",
       "videoId": "NHs-MkFl0EY",
-      "viewsPerHour": 4954,
+      "viewsPerHour": 3758,
       "views": 31186,
-      "ageHours": 6.3
+      "ageHours": 8.3
     },
     {
       "title": "Trump feels the BLUE WAVE crash | The Last Word Weekly Highlights",
       "channel": "MS NOW",
       "videoId": "TsPUmDpiDkE",
-      "viewsPerHour": 4404,
+      "viewsPerHour": 3455,
       "views": 32117,
-      "ageHours": 7.3
+      "ageHours": 9.3
     },
     {
       "title": "Hakeem Jeffries on Trump’s ‘Out of Control’ Executive Branch | The Interview",
       "channel": "The Interview",
       "videoId": "Y0X1CAuVhmE",
-      "viewsPerHour": 1869,
-      "views": 77636,
-      "ageHours": 41.5
+      "viewsPerHour": 1806,
+      "views": 78666,
+      "ageHours": 43.6
     },
     {
       "title": "88 Acres of Anarchy:  Inside The Future of America's Most Revolutionary Skatepark",
       "channel": "Real Stories",
       "videoId": "6UIGxQxzSco",
-      "viewsPerHour": 934,
-      "views": 12419,
-      "ageHours": 13.3
+      "viewsPerHour": 872,
+      "views": 13338,
+      "ageHours": 15.3
     },
     {
       "title": "Is Stephen Miller 'THE MOST POWERFUL MAN IN THE WORLD?' | MS NOW REACTS",
       "channel": "MS NOW",
       "videoId": "jk7rZQMLEzw",
-      "viewsPerHour": 615,
+      "viewsPerHour": 494,
       "views": 5027,
-      "ageHours": 8.2
+      "ageHours": 10.2
     },
     {
       "title": "It's time to TURN THE PAGE' Van Hollen discusses Senate Leader run AGAINST Chuck Schumer",
       "channel": "MS NOW",
       "videoId": "mr0ToQTQSjU",
-      "viewsPerHour": 442,
+      "viewsPerHour": 357,
       "views": 3762,
-      "ageHours": 8.5
+      "ageHours": 10.5
     },
     {
       "title": "Meet The Ohio Dads That Hunt Child Predators Online",
       "channel": "Real Stories",
       "videoId": "r1jhP3csCnE",
-      "viewsPerHour": 365,
-      "views": 13624,
-      "ageHours": 37.3
+      "viewsPerHour": 351,
+      "views": 13782,
+      "ageHours": 39.3
     }
   ]
 }
