@@ -6,7 +6,7 @@
     },
     {
       "channel": "PBS NewsHour",
-      "count": 5
+      "count": 8
     },
     {
       "channel": "Real Stories",
@@ -34,7 +34,7 @@
     },
     {
       "channel": "The Daily Show",
-      "count": 13
+      "count": 10
     },
     {
       "channel": "The Interview",
@@ -66,7 +66,7 @@
     },
     {
       "channel": "Last Week Tonight",
-      "count": 5
+      "count": 4
     },
     {
       "channel": "Inside AI",
@@ -83,16 +83,16 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "MS NOW, AI",
-      "count": 1
-    },
-    {
       "keyword": "MS NOW",
       "count": 10
     },
     {
       "keyword": "PBS NewsHour",
-      "count": 5
+      "count": 8
+    },
+    {
+      "keyword": "MS NOW, AI",
+      "count": 1
     },
     {
       "keyword": "Real Stories",
@@ -120,7 +120,7 @@
     },
     {
       "keyword": "The Daily Show, AI",
-      "count": 4
+      "count": 2
     },
     {
       "keyword": "The Interview",
@@ -144,7 +144,7 @@
     },
     {
       "keyword": "The Daily Show",
-      "count": 9
+      "count": 8
     },
     {
       "keyword": "AI, artificial intelligence",
@@ -164,7 +164,7 @@
     },
     {
       "keyword": "Last Week Tonight",
-      "count": 5
+      "count": 4
     },
     {
       "keyword": "UAP",
@@ -225,8 +225,12 @@
   ],
   "dailySummary": [
     {
+      "date": "2026-11-24",
+      "videos": 6
+    },
+    {
       "date": "2026-11-23",
-      "videos": 20
+      "videos": 17
     },
     {
       "date": "2026-11-22",
@@ -250,7 +254,7 @@
     },
     {
       "date": "2026-11-17",
-      "videos": 12
+      "videos": 9
     },
     {
       "date": "2026-11-16",
@@ -282,7 +286,7 @@
     },
     {
       "date": "2026-11-09",
-      "videos": 5
+      "videos": 4
     },
     {
       "date": "2026-11-08",
@@ -471,16 +475,16 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "MS NOW, AI",
-      "matches": 1
-    },
-    {
       "keyword": "MS NOW",
       "matches": 10
     },
     {
       "keyword": "PBS NewsHour",
-      "matches": 5
+      "matches": 8
+    },
+    {
+      "keyword": "MS NOW, AI",
+      "matches": 1
     },
     {
       "keyword": "Real Stories",
@@ -548,177 +552,201 @@
       "title": "The Man Who Predicted The Last Crash WARNS A Recession Starts If These 2 Fail! | Steve Eisman",
       "channel": "Diary of a CEO",
       "videoId": "4Unch--PmW0",
-      "viewsPerHour": 89571,
-      "views": 1906474,
-      "ageHours": 21.3
+      "viewsPerHour": 86319,
+      "views": 2010175,
+      "ageHours": 23.3
     },
     {
-      "title": "BREAKING ELECTION ALERT: Dems finish BLUE WAVE with new flip",
-      "channel": "MS NOW",
-      "videoId": "aBephx5tl3A",
-      "viewsPerHour": 12494,
-      "views": 365686,
-      "ageHours": 29.3
+      "title": "PBS News Hour full episode, Nov. 23, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "hzxVR4_4VRU",
+      "viewsPerHour": 29810,
+      "views": 208241,
+      "ageHours": 7
+    },
+    {
+      "title": "The science of how pets see and respond to screens",
+      "channel": "PBS NewsHour",
+      "videoId": "p5iPiQHMs94",
+      "viewsPerHour": 16799,
+      "views": 120389,
+      "ageHours": 7.2
     },
     {
       "title": "How A Rock Changed Our Teeth Forever",
       "channel": "The Rest Is Science",
       "videoId": "ajZY0a6F3NY",
-      "viewsPerHour": 8225,
-      "views": 257390,
-      "ageHours": 31.3
+      "viewsPerHour": 7883,
+      "views": 262459,
+      "ageHours": 33.3
     },
     {
       "title": "Could Advanced Technology Be Hidden in History? | In Search of Aliens",
       "channel": "History",
       "videoId": "xGEk0MjGmI4",
-      "viewsPerHour": 6327,
-      "views": 216937,
-      "ageHours": 34.3
+      "viewsPerHour": 6102,
+      "views": 221425,
+      "ageHours": 36.3
     },
     {
       "title": "PBS News Hour live episode, Nov. 23, 2026",
       "channel": "PBS NewsHour",
       "videoId": "6rnikyWY3kQ",
-      "viewsPerHour": 2917,
+      "viewsPerHour": 2289,
       "views": 21299,
-      "ageHours": 7.3
+      "ageHours": 9.3
     },
     {
       "title": "Paybyphone's dark pattern rakes in 50 million a year, good find @bnwlkr ",
       "channel": "Louis Rossmann",
       "videoId": "JVhw22OQB0M",
-      "viewsPerHour": 2465,
+      "viewsPerHour": 2209,
       "views": 42616,
-      "ageHours": 17.3
+      "ageHours": 19.3
+    },
+    {
+      "title": "What's driving up the cost of Thanksgiving dinner",
+      "channel": "PBS NewsHour",
+      "videoId": "0a38ya4ancw",
+      "viewsPerHour": 1641,
+      "views": 11246,
+      "ageHours": 6.9
     },
     {
       "title": "MAGA SHOCK! Democrats make ELECTION history",
       "channel": "MS NOW",
       "videoId": "cE8uvWg6GAE",
-      "viewsPerHour": 1565,
+      "viewsPerHour": 1160,
       "views": 8982,
-      "ageHours": 5.7
-    },
-    {
-      "title": "WHAT?! Trump’s meeting with Putin | The 11th Hour Highlights",
-      "channel": "MS NOW",
-      "videoId": "NHs-MkFl0EY",
-      "viewsPerHour": 1102,
-      "views": 31186,
-      "ageHours": 28.3
-    },
-    {
-      "title": "Trump feels the BLUE WAVE crash | The Last Word Weekly Highlights",
-      "channel": "MS NOW",
-      "videoId": "TsPUmDpiDkE",
-      "viewsPerHour": 1097,
-      "views": 32117,
-      "ageHours": 29.3
-    },
-    {
-      "title": "Eric Idle (Full Episode) | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "m3ezi7ZnT_0",
-      "viewsPerHour": 1024,
-      "views": 14628,
-      "ageHours": 14.3
+      "ageHours": 7.7
     },
     {
       "title": "These are DICTATORS, MURDERERS!': Trump SLAMMED for 'my friend' Putin social media post",
       "channel": "MS NOW",
       "videoId": "9yGmHxTjMEw",
-      "viewsPerHour": 996,
+      "viewsPerHour": 898,
       "views": 18345,
-      "ageHours": 18.4
+      "ageHours": 20.4
+    },
+    {
+      "title": "Eric Idle (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "m3ezi7ZnT_0",
+      "viewsPerHour": 898,
+      "views": 14628,
+      "ageHours": 16.3
     },
     {
       "title": "88 Acres of Anarchy:  Inside The Future of America's Most Revolutionary Skatepark",
       "channel": "Real Stories",
       "videoId": "6UIGxQxzSco",
-      "viewsPerHour": 521,
-      "views": 18398,
-      "ageHours": 35.3
+      "viewsPerHour": 503,
+      "views": 18771,
+      "ageHours": 37.3
     },
     {
       "title": "Parkland Doctors, Secret Service Impostors and the South Knoll Shot - JFK Reexamined",
       "channel": "Real Stories",
       "videoId": "SLXWUV6fxXM",
-      "viewsPerHour": 501,
-      "views": 5655,
-      "ageHours": 11.3
+      "viewsPerHour": 460,
+      "views": 6110,
+      "ageHours": 13.3
+    },
+    {
+      "title": "Incoming senator: 'Trumpcare, Medicare For All, just give people healthcare'",
+      "channel": "MS NOW",
+      "videoId": "wKtoNgZLYi0",
+      "viewsPerHour": 265,
+      "views": 457,
+      "ageHours": 1.7
+    },
+    {
+      "title": "Trump nominees just can’t give a straight answer about simple facts ",
+      "channel": "MS NOW",
+      "videoId": "0YHV9cSrKhc",
+      "viewsPerHour": 222,
+      "views": 352,
+      "ageHours": 1.6
     },
     {
       "title": "Ex-Trump staffer EXPOSES Trump world for building APOCALYPSE BUNKERS while understating AI threat",
       "channel": "MS NOW",
       "videoId": "4VC3364SU8g",
-      "viewsPerHour": 282,
+      "viewsPerHour": 207,
       "views": 1575,
-      "ageHours": 5.6
+      "ageHours": 7.6
     },
     {
       "title": "WATCH LIVE: First lady Melania Trump welcomes the White House Christmas Tree",
       "channel": "PBS NewsHour",
       "videoId": "NWwUpFDOGuk",
-      "viewsPerHour": 216,
+      "viewsPerHour": 185,
       "views": 2560,
-      "ageHours": 11.9
+      "ageHours": 13.9
     },
     {
       "title": "MS NOW Highlights - November 22",
       "channel": "MS NOW",
       "videoId": "kMYA3OHBhtE",
-      "viewsPerHour": 136,
+      "viewsPerHour": 122,
       "views": 2480,
-      "ageHours": 18.3
+      "ageHours": 20.3
     },
     {
       "title": "China ‘is way behind’ on chips and we need to keep them behind for natl. security: Fmr. Ambassador",
       "channel": "MS NOW",
       "videoId": "fsyEHAgtye0",
-      "viewsPerHour": 135,
+      "viewsPerHour": 116,
       "views": 1588,
-      "ageHours": 11.7
+      "ageHours": 13.7
     },
     {
       "title": "Experts weigh national security implications of Huang's return to Nvidia",
       "channel": "PBS NewsHour",
       "videoId": "AneLMREfTLQ",
-      "viewsPerHour": 108,
+      "viewsPerHour": 80,
       "views": 629,
-      "ageHours": 5.8
+      "ageHours": 7.8
     },
     {
       "title": "They lost loved ones to cancer. Why did Trump’s DOJ DROP the case?",
       "channel": "MS NOW",
       "videoId": "cCILAoJgvbs",
-      "viewsPerHour": 98,
+      "viewsPerHour": 73,
       "views": 581,
-      "ageHours": 6
+      "ageHours": 8
     },
     {
       "title": "‘It's LUNACY!’: Joe SLAMS Trump for doubling-down on Putin ‘my friend’ statement",
       "channel": "MS NOW",
       "videoId": "j6gkhghS7cE",
-      "viewsPerHour": 79,
+      "viewsPerHour": 71,
       "views": 1383,
-      "ageHours": 17.6
+      "ageHours": 19.6
+    },
+    {
+      "title": "The Last Word with Lawrence O'Donnell - Nov. 23 | Audio Only",
+      "channel": "MS NOW",
+      "videoId": "GmXY0LRAqF0",
+      "viewsPerHour": 57,
+      "views": 89,
+      "ageHours": 1.6
     },
     {
       "title": "News Wrap: Storms threaten Thanksgiving travel as airlines rebound from tech failures",
       "channel": "PBS NewsHour",
       "videoId": "atD0LhjbobE",
-      "viewsPerHour": 75,
+      "viewsPerHour": 56,
       "views": 431,
-      "ageHours": 5.7
+      "ageHours": 7.7
     },
     {
       "title": "Bon Appétit's Jamila Robinson shares ways to SAVE on THANKSGIVING",
       "channel": "MS NOW",
       "videoId": "1qM96qZbGYM",
-      "viewsPerHour": 30,
+      "viewsPerHour": 26,
       "views": 368,
-      "ageHours": 12.1
+      "ageHours": 14.1
     },
     {
       "title": "WATCH LIVE: Trump delivers address at the Justice Department",
@@ -726,7 +754,7 @@
       "videoId": "pwJDvWZCYNM",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 13.5
+      "ageHours": 15.5
     }
   ]
 }
