@@ -484,7 +484,7 @@
     },
     {
       "keyword": "NOVA",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "MS NOW, AI",
@@ -508,7 +508,7 @@
     },
     {
       "keyword": "UFO",
-      "matches": 2
+      "matches": 1
     },
     {
       "keyword": "The Daily Show, AI",
@@ -544,209 +544,201 @@
       "title": "The Man Who Predicted The Last Crash WARNS A Recession Starts If These 2 Fail! | Steve Eisman",
       "channel": "Diary of a CEO",
       "videoId": "4Unch--PmW0",
-      "viewsPerHour": 69543,
-      "views": 2593080,
-      "ageHours": 37.3
+      "viewsPerHour": 67797,
+      "views": 2663351,
+      "ageHours": 39.3
     },
     {
       "title": "PBS News Hour full episode, Nov. 23, 2026",
       "channel": "PBS NewsHour",
       "videoId": "hzxVR4_4VRU",
-      "viewsPerHour": 9923,
+      "viewsPerHour": 9061,
       "views": 208241,
-      "ageHours": 21
-    },
-    {
-      "title": "How A Rock Changed Our Teeth Forever",
-      "channel": "The Rest Is Science",
-      "videoId": "ajZY0a6F3NY",
-      "viewsPerHour": 6359,
-      "views": 300746,
-      "ageHours": 47.3
+      "ageHours": 23
     },
     {
       "title": "The science of how pets see and respond to screens",
       "channel": "PBS NewsHour",
       "videoId": "p5iPiQHMs94",
-      "viewsPerHour": 5688,
+      "viewsPerHour": 5197,
       "views": 120389,
-      "ageHours": 21.2
+      "ageHours": 23.2
     },
     {
       "title": "Conan's Doctor Told Him He Has Amazing Strength… For His Age | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "AuNZt5mcRto",
-      "viewsPerHour": 3418,
+      "viewsPerHour": 2754,
       "views": 28323,
+      "ageHours": 10.3
+    },
+    {
+      "title": "The Chaotic Physics of the Butterfly Effect | What the Physics?!",
+      "channel": "NOVA",
+      "videoId": "OLeQAxWhn6E",
+      "viewsPerHour": 1250,
+      "views": 10361,
       "ageHours": 8.3
     },
     {
       "title": "Paybyphone's dark pattern rakes in 50 million a year, good find @bnwlkr ",
       "channel": "Louis Rossmann",
       "videoId": "JVhw22OQB0M",
-      "viewsPerHour": 1280,
+      "viewsPerHour": 1208,
       "views": 42616,
-      "ageHours": 33.3
-    },
-    {
-      "title": "The Chaotic Physics of the Butterfly Effect | What the Physics?!",
-      "channel": "NOVA",
-      "videoId": "OLeQAxWhn6E",
-      "viewsPerHour": 1170,
-      "views": 7361,
-      "ageHours": 6.3
-    },
-    {
-      "title": "This is the imperial presidency': Jong-Fast reacts to Trump's influence in Huang's reinstatement",
-      "channel": "MS NOW",
-      "videoId": "bWPpiu3WRBE",
-      "viewsPerHour": 1097,
-      "views": 5211,
-      "ageHours": 4.8
+      "ageHours": 35.3
     },
     {
       "title": "PBS News Hour live episode, Nov. 23, 2026",
       "channel": "PBS NewsHour",
       "videoId": "6rnikyWY3kQ",
-      "viewsPerHour": 914,
+      "viewsPerHour": 842,
       "views": 21299,
-      "ageHours": 23.3
+      "ageHours": 25.3
+    },
+    {
+      "title": "This is the imperial presidency': Jong-Fast reacts to Trump's influence in Huang's reinstatement",
+      "channel": "MS NOW",
+      "videoId": "bWPpiu3WRBE",
+      "viewsPerHour": 772,
+      "views": 5211,
+      "ageHours": 6.7
     },
     {
       "title": "Conan Hosted An Accidental Meet & Greet On The NYC Subway | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "EmLSPn_uF8o",
-      "viewsPerHour": 845,
+      "viewsPerHour": 614,
       "views": 4475,
-      "ageHours": 5.3
+      "ageHours": 7.3
     },
     {
       "title": "Maddow dings Trump on A.I. slop dump",
       "channel": "MS NOW",
       "videoId": "9TkIvfzRQzI",
-      "viewsPerHour": 670,
+      "viewsPerHour": 580,
       "views": 8612,
-      "ageHours": 12.9
+      "ageHours": 14.9
     },
     {
       "title": "What's driving up the cost of Thanksgiving dinner",
       "channel": "PBS NewsHour",
       "videoId": "0a38ya4ancw",
-      "viewsPerHour": 539,
+      "viewsPerHour": 492,
       "views": 11246,
-      "ageHours": 20.9
+      "ageHours": 22.9
     },
     {
       "title": "Eric Idle (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "m3ezi7ZnT_0",
-      "viewsPerHour": 483,
+      "viewsPerHour": 453,
       "views": 14628,
-      "ageHours": 30.3
+      "ageHours": 32.3
     },
     {
       "title": "The Rachel Maddow Show - Nov. 23 | Audio Only",
       "channel": "MS NOW",
       "videoId": "olPkDHR4r8o",
-      "viewsPerHour": 454,
+      "viewsPerHour": 391,
       "views": 5582,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "MAGA SHOCK! Democrats make ELECTION history",
       "channel": "MS NOW",
       "videoId": "cE8uvWg6GAE",
-      "viewsPerHour": 413,
+      "viewsPerHour": 378,
       "views": 8982,
-      "ageHours": 21.7
-    },
-    {
-      "title": "‘Trump wants to do WHATEVER IS BEST FOR TRUMP’: Niall Stanage on Jensen Huang’s return",
-      "channel": "MS NOW",
-      "videoId": "IHNz9ubxtkk",
-      "viewsPerHour": 357,
-      "views": 3676,
-      "ageHours": 10.3
+      "ageHours": 23.7
     },
     {
       "title": "Parkland Doctors, Secret Service Impostors and the South Knoll Shot - JFK Reexamined",
       "channel": "Real Stories",
       "videoId": "SLXWUV6fxXM",
-      "viewsPerHour": 346,
-      "views": 9440,
-      "ageHours": 27.3
+      "viewsPerHour": 337,
+      "views": 9864,
+      "ageHours": 29.3
+    },
+    {
+      "title": "‘Trump wants to do WHATEVER IS BEST FOR TRUMP’: Niall Stanage on Jensen Huang’s return",
+      "channel": "MS NOW",
+      "videoId": "IHNz9ubxtkk",
+      "viewsPerHour": 299,
+      "views": 3676,
+      "ageHours": 12.3
     },
     {
       "title": "WATCH LIVE: Blanche holds news conference on combatting cyber-enabled scams",
       "channel": "PBS NewsHour",
       "videoId": "wl4coFS1v0g",
-      "viewsPerHour": 220,
+      "viewsPerHour": 170,
       "views": 1478,
-      "ageHours": 6.7
+      "ageHours": 8.7
     },
     {
       "title": "Ben Shapiro on Trump, Israel and the future of the Republican Party",
       "channel": "PBS NewsHour",
       "videoId": "zmTbmaHkL_s",
-      "viewsPerHour": 157,
+      "viewsPerHour": 107,
       "views": 678,
-      "ageHours": 4.3
+      "ageHours": 6.3
     },
     {
       "title": "Ex-Trump staffer EXPOSES Trump world for building APOCALYPSE BUNKERS while understating AI threat",
       "channel": "MS NOW",
       "videoId": "4VC3364SU8g",
-      "viewsPerHour": 73,
+      "viewsPerHour": 67,
       "views": 1575,
-      "ageHours": 21.6
-    },
-    {
-      "title": "Incoming senator: 'Trumpcare, Medicare For All, just give people healthcare'",
-      "channel": "MS NOW",
-      "videoId": "wKtoNgZLYi0",
-      "viewsPerHour": 29,
-      "views": 457,
-      "ageHours": 15.7
+      "ageHours": 23.6
     },
     {
       "title": "Experts weigh national security implications of Huang's return to Nvidia",
       "channel": "PBS NewsHour",
       "videoId": "AneLMREfTLQ",
-      "viewsPerHour": 29,
+      "viewsPerHour": 26,
       "views": 629,
-      "ageHours": 21.8
+      "ageHours": 23.8
+    },
+    {
+      "title": "Incoming senator: 'Trumpcare, Medicare For All, just give people healthcare'",
+      "channel": "MS NOW",
+      "videoId": "wKtoNgZLYi0",
+      "viewsPerHour": 26,
+      "views": 457,
+      "ageHours": 17.7
     },
     {
       "title": "They lost loved ones to cancer. Why did Trump’s DOJ DROP the case?",
       "channel": "MS NOW",
       "videoId": "cCILAoJgvbs",
-      "viewsPerHour": 26,
+      "viewsPerHour": 24,
       "views": 581,
-      "ageHours": 22
+      "ageHours": 24
     },
     {
       "title": "Trump nominees just can’t give a straight answer about simple facts ",
       "channel": "MS NOW",
       "videoId": "0YHV9cSrKhc",
-      "viewsPerHour": 23,
+      "viewsPerHour": 20,
       "views": 352,
-      "ageHours": 15.6
+      "ageHours": 17.6
     },
     {
       "title": "News Wrap: Storms threaten Thanksgiving travel as airlines rebound from tech failures",
       "channel": "PBS NewsHour",
       "videoId": "atD0LhjbobE",
-      "viewsPerHour": 20,
+      "viewsPerHour": 18,
       "views": 431,
-      "ageHours": 21.7
+      "ageHours": 23.7
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Nov. 23 | Audio Only",
       "channel": "MS NOW",
       "videoId": "GmXY0LRAqF0",
-      "viewsPerHour": 6,
+      "viewsPerHour": 5,
       "views": 89,
-      "ageHours": 15.6
+      "ageHours": 17.6
     },
     {
       "title": "Trump delivers remarks at 2026 Turkey Pardoning amid Nvidia scandal fallout",
@@ -754,7 +746,7 @@
       "videoId": "Fs12VnA2EQA",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 3.6
+      "ageHours": 5.6
     }
   ]
 }
