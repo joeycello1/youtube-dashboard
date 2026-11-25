@@ -1,12 +1,28 @@
 {
   "videosPerChannel": [
     {
-      "channel": "MS NOW",
-      "count": 11
-    },
-    {
       "channel": "PBS NewsHour",
       "count": 8
+    },
+    {
+      "channel": "MS NOW",
+      "count": 9
+    },
+    {
+      "channel": "History",
+      "count": 50
+    },
+    {
+      "channel": "Louis Rossmann",
+      "count": 15
+    },
+    {
+      "channel": "Jeremy Corbell",
+      "count": 8
+    },
+    {
+      "channel": "Real Stories",
+      "count": 46
     },
     {
       "channel": "Conan O'Brien",
@@ -17,24 +33,12 @@
       "count": 24
     },
     {
-      "channel": "Real Stories",
-      "count": 45
-    },
-    {
-      "channel": "Louis Rossmann",
-      "count": 14
-    },
-    {
       "channel": "Diary of a CEO",
       "count": 3
     },
     {
       "channel": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "channel": "History",
-      "count": 49
     },
     {
       "channel": "The Daily Show",
@@ -61,10 +65,6 @@
       "count": 5
     },
     {
-      "channel": "Jeremy Corbell",
-      "count": 6
-    },
-    {
       "channel": "Last Week Tonight",
       "count": 3
     },
@@ -83,16 +83,36 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "MS NOW",
-      "count": 9
-    },
-    {
       "keyword": "PBS NewsHour",
       "count": 8
     },
     {
+      "keyword": "MS NOW",
+      "count": 8
+    },
+    {
+      "keyword": "UFO",
+      "count": 35
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "count": 14
+    },
+    {
+      "keyword": "Corbell, anomalous, George Knapp, UAP, whistleblower",
+      "count": 3
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 44
+    },
+    {
       "keyword": "Conan O'Brien",
       "count": 11
+    },
+    {
+      "keyword": "Corbell, UFO, George Knapp, UAP",
+      "count": 2
     },
     {
       "keyword": "NOVA",
@@ -100,15 +120,7 @@
     },
     {
       "keyword": "MS NOW, AI",
-      "count": 2
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 43
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "count": 13
+      "count": 1
     },
     {
       "keyword": "AI",
@@ -117,10 +129,6 @@
     {
       "keyword": "The Rest Is Science",
       "count": 4
-    },
-    {
-      "keyword": "UFO",
-      "count": 34
     },
     {
       "keyword": "The Daily Show, AI",
@@ -159,10 +167,6 @@
       "count": 1
     },
     {
-      "keyword": "Corbell, anomalous, George Knapp, UAP, whistleblower",
-      "count": 2
-    },
-    {
       "keyword": "Last Week Tonight",
       "count": 3
     },
@@ -177,10 +181,6 @@
     {
       "keyword": "UAP, UFO",
       "count": 2
-    },
-    {
-      "keyword": "Corbell, UFO, George Knapp, UAP",
-      "count": 1
     },
     {
       "keyword": "Corbell, UFO, anomalous, George Knapp, UAP, whistleblower",
@@ -226,11 +226,11 @@
   "dailySummary": [
     {
       "date": "2026-11-24",
-      "videos": 16
+      "videos": 25
     },
     {
       "date": "2026-11-23",
-      "videos": 10
+      "videos": 4
     },
     {
       "date": "2026-11-22",
@@ -471,16 +471,36 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "MS NOW",
-      "matches": 9
-    },
-    {
       "keyword": "PBS NewsHour",
       "matches": 8
     },
     {
+      "keyword": "MS NOW",
+      "matches": 8
+    },
+    {
+      "keyword": "UFO",
+      "matches": 2
+    },
+    {
+      "keyword": "Louis Rossmann",
+      "matches": 7
+    },
+    {
+      "keyword": "Corbell, anomalous, George Knapp, UAP, whistleblower",
+      "matches": 1
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 5
+    },
+    {
       "keyword": "Conan O'Brien",
       "matches": 8
+    },
+    {
+      "keyword": "Corbell, UFO, George Knapp, UAP",
+      "matches": 1
     },
     {
       "keyword": "NOVA",
@@ -488,15 +508,7 @@
     },
     {
       "keyword": "MS NOW, AI",
-      "matches": 2
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 5
-    },
-    {
-      "keyword": "Louis Rossmann",
-      "matches": 6
+      "matches": 1
     },
     {
       "keyword": "AI",
@@ -505,10 +517,6 @@
     {
       "keyword": "The Rest Is Science",
       "matches": 2
-    },
-    {
-      "keyword": "UFO",
-      "matches": 1
     },
     {
       "keyword": "The Daily Show, AI",
@@ -544,193 +552,209 @@
       "title": "The Man Who Predicted The Last Crash WARNS A Recession Starts If These 2 Fail! | Steve Eisman",
       "channel": "Diary of a CEO",
       "videoId": "4Unch--PmW0",
-      "viewsPerHour": 67797,
-      "views": 2663351,
-      "ageHours": 39.3
+      "viewsPerHour": 66320,
+      "views": 2738747,
+      "ageHours": 41.3
     },
     {
       "title": "PBS News Hour full episode, Nov. 23, 2026",
       "channel": "PBS NewsHour",
       "videoId": "hzxVR4_4VRU",
-      "viewsPerHour": 9061,
+      "viewsPerHour": 8332,
       "views": 208241,
-      "ageHours": 23
+      "ageHours": 25
+    },
+    {
+      "title": "PBS News Hour live episode, Nov. 24, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "JraC2AfZwcY",
+      "viewsPerHour": 7058,
+      "views": 19192,
+      "ageHours": 2.7
+    },
+    {
+      "title": "Electricity Unleashes the Unknown | The Secret of Skinwalker Ranch | Full Episode",
+      "channel": "History",
+      "videoId": "D9n75e3AF-Y",
+      "viewsPerHour": 5059,
+      "views": 11622,
+      "ageHours": 2.3
     },
     {
       "title": "The science of how pets see and respond to screens",
       "channel": "PBS NewsHour",
       "videoId": "p5iPiQHMs94",
-      "viewsPerHour": 5197,
+      "viewsPerHour": 4782,
       "views": 120389,
-      "ageHours": 23.2
+      "ageHours": 25.2
     },
     {
       "title": "Conan's Doctor Told Him He Has Amazing Strength… For His Age | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "AuNZt5mcRto",
-      "viewsPerHour": 2754,
+      "viewsPerHour": 2304,
       "views": 28323,
-      "ageHours": 10.3
+      "ageHours": 12.3
+    },
+    {
+      "title": "Capital One adds forced arbitration to bank accounts: former CFPB Director Rohit Chopra chimes in!",
+      "channel": "Louis Rossmann",
+      "videoId": "E4NDLjgPnS0",
+      "viewsPerHour": 1543,
+      "views": 4162,
+      "ageHours": 2.7
     },
     {
       "title": "The Chaotic Physics of the Butterfly Effect | What the Physics?!",
       "channel": "NOVA",
       "videoId": "OLeQAxWhn6E",
-      "viewsPerHour": 1250,
-      "views": 10361,
-      "ageHours": 8.3
+      "viewsPerHour": 1324,
+      "views": 13636,
+      "ageHours": 10.3
     },
     {
       "title": "Paybyphone's dark pattern rakes in 50 million a year, good find @bnwlkr ",
       "channel": "Louis Rossmann",
       "videoId": "JVhw22OQB0M",
-      "viewsPerHour": 1208,
+      "viewsPerHour": 1142,
       "views": 42616,
-      "ageHours": 35.3
+      "ageHours": 37.3
     },
     {
-      "title": "PBS News Hour live episode, Nov. 23, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "6rnikyWY3kQ",
-      "viewsPerHour": 842,
-      "views": 21299,
-      "ageHours": 25.3
+      "title": "Rob Lowe: From 80s Heartthrob to Scandal and Redemption",
+      "channel": "Real Stories",
+      "videoId": "2tEyR_6xzG0",
+      "viewsPerHour": 750,
+      "views": 4708,
+      "ageHours": 6.3
+    },
+    {
+      "title": "\"SPHERES HAVE BEEN SEEN FOR HUNDREDS OF YEARS\"",
+      "channel": "Jeremy Corbell",
+      "videoId": "wQKPoMgQ2Yg",
+      "viewsPerHour": 663,
+      "views": 3515,
+      "ageHours": 5.3
     },
     {
       "title": "This is the imperial presidency': Jong-Fast reacts to Trump's influence in Huang's reinstatement",
       "channel": "MS NOW",
       "videoId": "bWPpiu3WRBE",
-      "viewsPerHour": 772,
+      "viewsPerHour": 595,
       "views": 5211,
-      "ageHours": 6.7
-    },
-    {
-      "title": "Conan Hosted An Accidental Meet & Greet On The NYC Subway | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "EmLSPn_uF8o",
-      "viewsPerHour": 614,
-      "views": 4475,
-      "ageHours": 7.3
+      "ageHours": 8.8
     },
     {
       "title": "Maddow dings Trump on A.I. slop dump",
       "channel": "MS NOW",
       "videoId": "9TkIvfzRQzI",
-      "viewsPerHour": 580,
+      "viewsPerHour": 511,
       "views": 8612,
-      "ageHours": 14.9
+      "ageHours": 16.9
+    },
+    {
+      "title": "Conan Hosted An Accidental Meet & Greet On The NYC Subway | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "EmLSPn_uF8o",
+      "viewsPerHour": 481,
+      "views": 4475,
+      "ageHours": 9.3
     },
     {
       "title": "What's driving up the cost of Thanksgiving dinner",
       "channel": "PBS NewsHour",
       "videoId": "0a38ya4ancw",
-      "viewsPerHour": 492,
+      "viewsPerHour": 452,
       "views": 11246,
-      "ageHours": 22.9
+      "ageHours": 24.9
     },
     {
       "title": "Eric Idle (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "m3ezi7ZnT_0",
-      "viewsPerHour": 453,
+      "viewsPerHour": 427,
       "views": 14628,
-      "ageHours": 32.3
+      "ageHours": 34.3
     },
     {
       "title": "The Rachel Maddow Show - Nov. 23 | Audio Only",
       "channel": "MS NOW",
       "videoId": "olPkDHR4r8o",
-      "viewsPerHour": 391,
+      "viewsPerHour": 342,
       "views": 5582,
-      "ageHours": 14.3
-    },
-    {
-      "title": "MAGA SHOCK! Democrats make ELECTION history",
-      "channel": "MS NOW",
-      "videoId": "cE8uvWg6GAE",
-      "viewsPerHour": 378,
-      "views": 8982,
-      "ageHours": 23.7
+      "ageHours": 16.3
     },
     {
       "title": "Parkland Doctors, Secret Service Impostors and the South Knoll Shot - JFK Reexamined",
       "channel": "Real Stories",
       "videoId": "SLXWUV6fxXM",
-      "viewsPerHour": 337,
-      "views": 9864,
-      "ageHours": 29.3
+      "viewsPerHour": 330,
+      "views": 10328,
+      "ageHours": 31.3
     },
     {
       "title": "‘Trump wants to do WHATEVER IS BEST FOR TRUMP’: Niall Stanage on Jensen Huang’s return",
       "channel": "MS NOW",
       "videoId": "IHNz9ubxtkk",
-      "viewsPerHour": 299,
+      "viewsPerHour": 257,
       "views": 3676,
-      "ageHours": 12.3
+      "ageHours": 14.3
+    },
+    {
+      "title": "Army plans explosive detonation in Iowa despite residents' concerns",
+      "channel": "PBS NewsHour",
+      "videoId": "ND1vt-58N4c",
+      "viewsPerHour": 169,
+      "views": 281,
+      "ageHours": 1.7
     },
     {
       "title": "WATCH LIVE: Blanche holds news conference on combatting cyber-enabled scams",
       "channel": "PBS NewsHour",
       "videoId": "wl4coFS1v0g",
-      "viewsPerHour": 170,
+      "viewsPerHour": 138,
       "views": 1478,
-      "ageHours": 8.7
+      "ageHours": 10.7
     },
     {
       "title": "Ben Shapiro on Trump, Israel and the future of the Republican Party",
       "channel": "PBS NewsHour",
       "videoId": "zmTbmaHkL_s",
-      "viewsPerHour": 107,
+      "viewsPerHour": 81,
       "views": 678,
-      "ageHours": 6.3
+      "ageHours": 8.3
     },
     {
-      "title": "Ex-Trump staffer EXPOSES Trump world for building APOCALYPSE BUNKERS while understating AI threat",
-      "channel": "MS NOW",
-      "videoId": "4VC3364SU8g",
-      "viewsPerHour": 67,
-      "views": 1575,
-      "ageHours": 23.6
-    },
-    {
-      "title": "Experts weigh national security implications of Huang's return to Nvidia",
+      "title": "N.C. Democrat reflects on flipping longtime GOP seat: 'It's a new day in the South'",
       "channel": "PBS NewsHour",
-      "videoId": "AneLMREfTLQ",
-      "viewsPerHour": 26,
-      "views": 629,
-      "ageHours": 23.8
+      "videoId": "bSCWgB358OI",
+      "viewsPerHour": 53,
+      "views": 84,
+      "ageHours": 1.6
+    },
+    {
+      "title": "Can art be a ‘COMPANION’? Meditation teacher explains how art SAVES LIVES",
+      "channel": "MS NOW",
+      "videoId": "kjqGXQv_fZA",
+      "viewsPerHour": 25,
+      "views": 41,
+      "ageHours": 1.6
     },
     {
       "title": "Incoming senator: 'Trumpcare, Medicare For All, just give people healthcare'",
       "channel": "MS NOW",
       "videoId": "wKtoNgZLYi0",
-      "viewsPerHour": 26,
+      "viewsPerHour": 23,
       "views": 457,
-      "ageHours": 17.7
-    },
-    {
-      "title": "They lost loved ones to cancer. Why did Trump’s DOJ DROP the case?",
-      "channel": "MS NOW",
-      "videoId": "cCILAoJgvbs",
-      "viewsPerHour": 24,
-      "views": 581,
-      "ageHours": 24
+      "ageHours": 19.7
     },
     {
       "title": "Trump nominees just can’t give a straight answer about simple facts ",
       "channel": "MS NOW",
       "videoId": "0YHV9cSrKhc",
-      "viewsPerHour": 20,
-      "views": 352,
-      "ageHours": 17.6
-    },
-    {
-      "title": "News Wrap: Storms threaten Thanksgiving travel as airlines rebound from tech failures",
-      "channel": "PBS NewsHour",
-      "videoId": "atD0LhjbobE",
       "viewsPerHour": 18,
-      "views": 431,
-      "ageHours": 23.7
+      "views": 352,
+      "ageHours": 19.6
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Nov. 23 | Audio Only",
@@ -738,7 +762,15 @@
       "videoId": "GmXY0LRAqF0",
       "viewsPerHour": 5,
       "views": 89,
-      "ageHours": 17.6
+      "ageHours": 19.6
+    },
+    {
+      "title": "UFO SPHERES: Seen for 500 Years. What Are They?",
+      "channel": "Jeremy Corbell",
+      "videoId": "Qi_y-JDE20o",
+      "viewsPerHour": 0,
+      "views": 3,
+      "ageHours": 9.3
     },
     {
       "title": "Trump delivers remarks at 2026 Turkey Pardoning amid Nvidia scandal fallout",
@@ -746,7 +778,7 @@
       "videoId": "Fs12VnA2EQA",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 5.6
+      "ageHours": 7.6
     }
   ]
 }
