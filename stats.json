@@ -1,12 +1,36 @@
 {
   "videosPerChannel": [
     {
+      "channel": "Reuters",
+      "count": 3
+    },
+    {
+      "channel": "Associated Press",
+      "count": 3
+    },
+    {
       "channel": "MS NOW",
-      "count": 7
+      "count": 6
+    },
+    {
+      "channel": "Real Stories",
+      "count": 46
+    },
+    {
+      "channel": "The Daily Show",
+      "count": 9
+    },
+    {
+      "channel": "Conan O'Brien",
+      "count": 13
     },
     {
       "channel": "PBS NewsHour",
-      "count": 8
+      "count": 9
+    },
+    {
+      "channel": "Post Disclosure World",
+      "count": 15
     },
     {
       "channel": "History",
@@ -17,20 +41,20 @@
       "count": 15
     },
     {
+      "channel": "Disclosure Team",
+      "count": 5
+    },
+    {
       "channel": "Jeremy Corbell",
       "count": 8
     },
     {
-      "channel": "Real Stories",
-      "count": 46
-    },
-    {
-      "channel": "Conan O'Brien",
-      "count": 11
-    },
-    {
       "channel": "NOVA",
       "count": 24
+    },
+    {
+      "channel": "Theories of Everything",
+      "count": 1
     },
     {
       "channel": "Diary of a CEO",
@@ -41,12 +65,12 @@
       "count": 4
     },
     {
-      "channel": "The Daily Show",
-      "count": 8
+      "channel": "Project Unity",
+      "count": 5
     },
     {
       "channel": "The Interview",
-      "count": 9
+      "count": 8
     },
     {
       "channel": "More Perfect Union",
@@ -62,7 +86,11 @@
     },
     {
       "channel": "Mayim Bialik",
-      "count": 5
+      "count": 3
+    },
+    {
+      "channel": "Inside The Black Vault",
+      "count": 1
     },
     {
       "channel": "Last Week Tonight",
@@ -83,16 +111,40 @@
   ],
   "keywordFrequency": [
     {
-      "keyword": "MS NOW",
-      "count": 7
+      "keyword": "Reuters",
+      "count": 3
     },
     {
-      "keyword": "PBS NewsHour",
+      "keyword": "Associated Press",
+      "count": 3
+    },
+    {
+      "keyword": "MS NOW",
+      "count": 6
+    },
+    {
+      "keyword": "Real Stories",
+      "count": 44
+    },
+    {
+      "keyword": "The Daily Show",
       "count": 8
     },
     {
+      "keyword": "Conan O'Brien",
+      "count": 13
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 9
+    },
+    {
+      "keyword": "Grusch, UFO",
+      "count": 2
+    },
+    {
       "keyword": "UFO",
-      "count": 35
+      "count": 53
     },
     {
       "keyword": "Louis Rossmann",
@@ -101,14 +153,6 @@
     {
       "keyword": "Corbell, anomalous, George Knapp, UAP, whistleblower",
       "count": 3
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 44
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 11
     },
     {
       "keyword": "Corbell, UFO, George Knapp, UAP",
@@ -132,7 +176,7 @@
     },
     {
       "keyword": "The Interview",
-      "count": 9
+      "count": 8
     },
     {
       "keyword": "Louis Rossmann, artificial intelligence",
@@ -145,10 +189,6 @@
     {
       "keyword": "UFO, testimony, UAP",
       "count": 2
-    },
-    {
-      "keyword": "The Daily Show",
-      "count": 7
     },
     {
       "keyword": "AI, artificial intelligence",
@@ -175,6 +215,10 @@
       "count": 1
     },
     {
+      "keyword": "UFO, George Knapp",
+      "count": 1
+    },
+    {
       "keyword": "UAP, UFO",
       "count": 2
     },
@@ -187,8 +231,20 @@
       "count": 1
     },
     {
+      "keyword": "Grusch, UFO, whistleblower",
+      "count": 1
+    },
+    {
+      "keyword": "UFO, whistleblower",
+      "count": 1
+    },
+    {
       "keyword": "More Perfect Union, AI",
       "count": 5
+    },
+    {
+      "keyword": "UFO, UAP, whistleblower",
+      "count": 1
     },
     {
       "keyword": "Corbell, UFO, George Knapp, Grusch, UAP",
@@ -200,6 +256,10 @@
     },
     {
       "keyword": "testimony, UAP, UFO",
+      "count": 1
+    },
+    {
+      "keyword": "UFO, Grusch",
       "count": 1
     },
     {
@@ -215,30 +275,34 @@
       "count": 1
     },
     {
+      "keyword": "George Knapp, UFO, anomalous, Corbell, Grusch, UAP, whistleblower",
+      "count": 1
+    },
+    {
       "keyword": "AI, artificial intelligence, UAP",
-      "count": 2
+      "count": 1
     }
   ],
   "dailySummary": [
     {
       "date": "2026-11-25",
-      "videos": 7
+      "videos": 23
     },
     {
       "date": "2026-11-24",
-      "videos": 16
+      "videos": 13
     },
     {
       "date": "2026-11-23",
-      "videos": 4
+      "videos": 5
     },
     {
       "date": "2026-11-22",
-      "videos": 3
+      "videos": 5
     },
     {
       "date": "2026-11-21",
-      "videos": 4
+      "videos": 5
     },
     {
       "date": "2026-11-20",
@@ -246,11 +310,11 @@
     },
     {
       "date": "2026-11-19",
-      "videos": 12
+      "videos": 14
     },
     {
       "date": "2026-11-18",
-      "videos": 8
+      "videos": 7
     },
     {
       "date": "2026-11-17",
@@ -262,7 +326,7 @@
     },
     {
       "date": "2026-11-15",
-      "videos": 5
+      "videos": 6
     },
     {
       "date": "2026-11-14",
@@ -274,15 +338,15 @@
     },
     {
       "date": "2026-11-12",
-      "videos": 3
+      "videos": 4
     },
     {
       "date": "2026-11-11",
-      "videos": 2
+      "videos": 3
     },
     {
       "date": "2026-11-10",
-      "videos": 6
+      "videos": 9
     },
     {
       "date": "2026-11-09",
@@ -290,19 +354,19 @@
     },
     {
       "date": "2026-11-08",
-      "videos": 5
+      "videos": 6
     },
     {
       "date": "2026-11-07",
-      "videos": 2
+      "videos": 3
     },
     {
       "date": "2026-11-06",
-      "videos": 3
+      "videos": 5
     },
     {
       "date": "2026-11-05",
-      "videos": 3
+      "videos": 4
     },
     {
       "date": "2026-11-04",
@@ -326,7 +390,7 @@
     },
     {
       "date": "2026-10-30",
-      "videos": 4
+      "videos": 5
     },
     {
       "date": "2026-10-29",
@@ -338,7 +402,7 @@
     },
     {
       "date": "2026-10-27",
-      "videos": 3
+      "videos": 4
     },
     {
       "date": "2026-10-26",
@@ -354,7 +418,7 @@
     },
     {
       "date": "2026-10-23",
-      "videos": 3
+      "videos": 4
     },
     {
       "date": "2026-10-22",
@@ -378,7 +442,7 @@
     },
     {
       "date": "2026-10-17",
-      "videos": 4
+      "videos": 5
     },
     {
       "date": "2026-10-16",
@@ -402,7 +466,7 @@
     },
     {
       "date": "2026-10-11",
-      "videos": 3
+      "videos": 4
     },
     {
       "date": "2026-10-10",
@@ -422,7 +486,7 @@
     },
     {
       "date": "2026-10-06",
-      "videos": 3
+      "videos": 2
     },
     {
       "date": "2026-10-05",
@@ -442,11 +506,11 @@
     },
     {
       "date": "2026-10-01",
-      "videos": 5
+      "videos": 6
     },
     {
       "date": "2026-09-30",
-      "videos": 1
+      "videos": 2
     },
     {
       "date": "2026-09-29",
@@ -462,7 +526,7 @@
     },
     {
       "date": "2026-09-26",
-      "videos": 3
+      "videos": 1
     },
     {
       "date": "2026-08-15",
@@ -471,16 +535,40 @@
   ],
   "topKeywordsWeek": [
     {
-      "keyword": "MS NOW",
-      "matches": 7
+      "keyword": "Reuters",
+      "matches": 3
     },
     {
-      "keyword": "PBS NewsHour",
+      "keyword": "Associated Press",
+      "matches": 3
+    },
+    {
+      "keyword": "MS NOW",
+      "matches": 6
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 6
+    },
+    {
+      "keyword": "The Daily Show",
       "matches": 8
     },
     {
+      "keyword": "Conan O'Brien",
+      "matches": 8
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 9
+    },
+    {
+      "keyword": "Grusch, UFO",
+      "matches": 1
+    },
+    {
       "keyword": "UFO",
-      "matches": 2
+      "matches": 8
     },
     {
       "keyword": "Louis Rossmann",
@@ -489,14 +577,6 @@
     {
       "keyword": "Corbell, anomalous, George Knapp, UAP, whistleblower",
       "matches": 1
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 5
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "matches": 6
     },
     {
       "keyword": "Corbell, UFO, George Knapp, UAP",
@@ -508,7 +588,7 @@
     },
     {
       "keyword": "AI",
-      "matches": 3
+      "matches": 4
     },
     {
       "keyword": "The Rest Is Science",
@@ -535,190 +615,282 @@
       "matches": 2
     },
     {
-      "keyword": "The Daily Show",
-      "matches": 6
-    },
-    {
       "keyword": "AI, artificial intelligence",
       "matches": 1
     }
   ],
   "mostViral48h": [
     {
+      "title": "The True Meaning of Thanksgiving: Family, Fox News Scandals & Pardoned Turkeys | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "EqwH_J3CalM",
+      "viewsPerHour": 51199,
+      "views": 228885,
+      "ageHours": 4.5
+    },
+    {
+      "title": "WATCH: Loud booms as U.S. Army detonates lead azide stockpile in Iowa",
+      "channel": "PBS NewsHour",
+      "videoId": "zbC6dECvRlg",
+      "viewsPerHour": 13099,
+      "views": 38474,
+      "ageHours": 2.9
+    },
+    {
       "title": "PBS News Hour full episode, Nov. 24, 2026",
       "channel": "PBS NewsHour",
       "videoId": "D4h35g_yrKk",
-      "viewsPerHour": 8707,
+      "viewsPerHour": 8139,
       "views": 148113,
-      "ageHours": 17
+      "ageHours": 18.2
     },
     {
       "title": "Electricity Unleashes the Unknown | The Secret of Skinwalker Ranch | Full Episode",
       "channel": "History",
       "videoId": "D9n75e3AF-Y",
-      "viewsPerHour": 8121,
-      "views": 148501,
-      "ageHours": 18.3
+      "viewsPerHour": 7813,
+      "views": 152127,
+      "ageHours": 19.5
+    },
+    {
+      "title": "David Grusch Drops a Truly BIZARRE Revelation",
+      "channel": "Post Disclosure World",
+      "videoId": "bxhUVcFkgyw",
+      "viewsPerHour": 6463,
+      "views": 28891,
+      "ageHours": 4.5
+    },
+    {
+      "title": "ALTERNATE REALITY!': Sam Stein SLAMS Jensen Huang's apology",
+      "channel": "MS NOW",
+      "videoId": "7AlusG6-294",
+      "viewsPerHour": 5189,
+      "views": 3942,
+      "ageHours": 0.8
+    },
+    {
+      "title": "WATCH LIVE: Army offers update after detonating lead azide stockpile in Iowa",
+      "channel": "PBS NewsHour",
+      "videoId": "ssC9DCtBXpA",
+      "viewsPerHour": 4650,
+      "views": 11716,
+      "ageHours": 2.5
+    },
+    {
+      "title": "LIVE: Army officials hold a press conference after detonating lead azide in Iowa",
+      "channel": "Associated Press",
+      "videoId": "Dy8fXGjlrwI",
+      "viewsPerHour": 3671,
+      "views": 3475,
+      "ageHours": 0.9
+    },
+    {
+      "title": "30 F**king Years of Thanksgiving Bits: Jordan Klepper & Grace Kuhlenschmidt Dig In | The Daily Show",
+      "channel": "The Daily Show",
+      "videoId": "QzLKDL651yI",
+      "viewsPerHour": 3185,
+      "views": 4704,
+      "ageHours": 1.5
+    },
+    {
+      "title": "Plumes of smoke rise as the US army detonates lead azide in Iowa",
+      "channel": "Associated Press",
+      "videoId": "wpl4gKqAaoE",
+      "viewsPerHour": 3011,
+      "views": 1631,
+      "ageHours": 0.5
     },
     {
       "title": "Bob Woodward reveals why he's naming sources in new book 'Secrets'",
       "channel": "PBS NewsHour",
       "videoId": "aBWfnH9JWNU",
-      "viewsPerHour": 2113,
+      "viewsPerHour": 1977,
       "views": 36335,
-      "ageHours": 17.2
+      "ageHours": 18.4
+    },
+    {
+      "title": "Robin Williams Wore A Mosquito Net To Dinner At Eric Idle's House | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "KBo7b7sEGHs",
+      "viewsPerHour": 1902,
+      "views": 10409,
+      "ageHours": 5.5
     },
     {
       "title": "UFO SPHERES: Seen for 500 Years. What Are They?",
       "channel": "Jeremy Corbell",
       "videoId": "Qi_y-JDE20o",
-      "viewsPerHour": 1379,
-      "views": 34885,
-      "ageHours": 25.3
+      "viewsPerHour": 1472,
+      "views": 38989,
+      "ageHours": 26.5
     },
     {
-      "title": "Republicans have been FURIOUS: Bipartisan calls to PROBE Jensen Huang, Trump Admin. ",
-      "channel": "MS NOW",
-      "videoId": "uawkif_rP6c",
-      "viewsPerHour": 1294,
-      "views": 7733,
-      "ageHours": 6
+      "title": "LIVE: Kilmar Ábrego García holds a press conference after landing in Spain",
+      "channel": "Associated Press",
+      "videoId": "9FEXHur1v_I",
+      "viewsPerHour": 1240,
+      "views": 3091,
+      "ageHours": 2.5
+    },
+    {
+      "title": "Martin Short Explains Why Canadians Are So Funny | Conan O'Brien Needs A Friend",
+      "channel": "Conan O'Brien",
+      "videoId": "1pkL6DOSR6Y",
+      "viewsPerHour": 1127,
+      "views": 2782,
+      "ageHours": 2.5
     },
     {
       "title": "The Chaotic Physics of the Butterfly Effect | What the Physics?!",
       "channel": "NOVA",
       "videoId": "OLeQAxWhn6E",
-      "viewsPerHour": 1144,
-      "views": 30078,
-      "ageHours": 26.3
+      "viewsPerHour": 1112,
+      "views": 30550,
+      "ageHours": 27.5
+    },
+    {
+      "title": "Republicans have been FURIOUS: Bipartisan calls to PROBE Jensen Huang, Trump Admin. ",
+      "channel": "MS NOW",
+      "videoId": "uawkif_rP6c",
+      "viewsPerHour": 1080,
+      "views": 7733,
+      "ageHours": 7.2
     },
     {
       "title": "PBS News Hour live episode, Nov. 24, 2026",
       "channel": "PBS NewsHour",
       "videoId": "JraC2AfZwcY",
-      "viewsPerHour": 1026,
+      "viewsPerHour": 965,
       "views": 19192,
-      "ageHours": 18.7
+      "ageHours": 19.9
     },
     {
       "title": "Conan's Doctor Told Him He Has Amazing Strength… For His Age | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "AuNZt5mcRto",
-      "viewsPerHour": 1001,
+      "viewsPerHour": 961,
       "views": 28323,
-      "ageHours": 28.3
+      "ageHours": 29.5
     },
     {
       "title": "Deals Drama Drive' traces how the Mondavi family helped spark Napa Valley's wine boom",
       "channel": "PBS NewsHour",
       "videoId": "rj9W41_Sxuw",
-      "viewsPerHour": 543,
+      "viewsPerHour": 507,
       "views": 9219,
-      "ageHours": 17
+      "ageHours": 18.2
+    },
+    {
+      "title": "Abrego Garcia lands in Spain after US departure deal",
+      "channel": "Reuters",
+      "videoId": "LI7cRpQEuEE",
+      "viewsPerHour": 434,
+      "views": 171,
+      "ageHours": 0.4
     },
     {
       "title": "Rob Lowe: From 80s Heartthrob to Scandal and Redemption",
       "channel": "Real Stories",
       "videoId": "2tEyR_6xzG0",
-      "viewsPerHour": 389,
-      "views": 8660,
-      "ageHours": 22.3
+      "viewsPerHour": 378,
+      "views": 8856,
+      "ageHours": 23.4
     },
     {
       "title": "\"SPHERES HAVE BEEN SEEN FOR HUNDREDS OF YEARS\"",
       "channel": "Jeremy Corbell",
       "videoId": "wQKPoMgQ2Yg",
-      "viewsPerHour": 342,
-      "views": 7282,
-      "ageHours": 21.3
+      "viewsPerHour": 330,
+      "views": 7423,
+      "ageHours": 22.5
     },
     {
-      "title": "Parkland Doctors, Secret Service Impostors and the South Knoll Shot - JFK Reexamined",
+      "title": "LIVE: NYSE opening bell rings",
+      "channel": "Reuters",
+      "videoId": "bQ-36I9GHyM",
+      "viewsPerHour": 241,
+      "views": 504,
+      "ageHours": 2.1
+    },
+    {
+      "title": "Ariana Grande and the Manchester Arena Bombing As It Happened",
       "channel": "Real Stories",
-      "videoId": "SLXWUV6fxXM",
-      "viewsPerHour": 305,
-      "views": 14415,
-      "ageHours": 47.3
+      "videoId": "BoYUKd-s0gE",
+      "viewsPerHour": 219,
+      "views": 311,
+      "ageHours": 1.4
     },
     {
       "title": "Capital One adds forced arbitration to bank accounts: former CFPB Director Rohit Chopra chimes in!",
       "channel": "Louis Rossmann",
       "videoId": "E4NDLjgPnS0",
-      "viewsPerHour": 223,
+      "viewsPerHour": 209,
       "views": 4162,
-      "ageHours": 18.7
+      "ageHours": 19.9
     },
     {
-      "title": "This is the imperial presidency': Jong-Fast reacts to Trump's influence in Huang's reinstatement",
-      "channel": "MS NOW",
-      "videoId": "bWPpiu3WRBE",
-      "viewsPerHour": 211,
-      "views": 5211,
-      "ageHours": 24.7
+      "title": "LIVE: Millions hit the road ahead of Thanksgiving holiday",
+      "channel": "Reuters",
+      "videoId": "BekCBzrh7gM",
+      "viewsPerHour": 186,
+      "views": 205,
+      "ageHours": 1.1
     },
     {
       "title": "Conan Hosted An Accidental Meet & Greet On The NYC Subway | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "EmLSPn_uF8o",
-      "viewsPerHour": 177,
+      "viewsPerHour": 169,
       "views": 4475,
-      "ageHours": 25.3
+      "ageHours": 26.5
     },
     {
       "title": "Ukrainian morale is 'grimly determined' as Russian attacks escalate",
       "channel": "MS NOW",
       "videoId": "143Niv5VJdE",
-      "viewsPerHour": 142,
+      "viewsPerHour": 129,
       "views": 1671,
-      "ageHours": 11.8
+      "ageHours": 12.9
     },
     {
-      "title": "WATCH LIVE: Blanche holds news conference on combatting cyber-enabled scams",
-      "channel": "PBS NewsHour",
-      "videoId": "wl4coFS1v0g",
-      "viewsPerHour": 55,
-      "views": 1478,
-      "ageHours": 26.7
+      "title": "1933 Magenta Italy UFO Crash Deep Dive - Graeme Rendall & Sean Raasch (Re-release)",
+      "channel": "Disclosure Team",
+      "videoId": "BQro7bmBPlY",
+      "viewsPerHour": 111,
+      "views": 2499,
+      "ageHours": 22.5
     },
     {
       "title": "The new vaccines that could revolutionize cancer treatment",
       "channel": "MS NOW",
       "videoId": "LZ03AQL5Dus",
-      "viewsPerHour": 36,
+      "viewsPerHour": 33,
       "views": 420,
-      "ageHours": 11.7
-    },
-    {
-      "title": "Ben Shapiro on Trump, Israel and the future of the Republican Party",
-      "channel": "PBS NewsHour",
-      "videoId": "zmTbmaHkL_s",
-      "viewsPerHour": 28,
-      "views": 678,
-      "ageHours": 24.3
+      "ageHours": 12.9
     },
     {
       "title": "Army plans explosive detonation in Iowa despite residents' concerns",
       "channel": "PBS NewsHour",
       "videoId": "ND1vt-58N4c",
-      "viewsPerHour": 16,
+      "viewsPerHour": 15,
       "views": 281,
-      "ageHours": 17.6
+      "ageHours": 18.8
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Nov. 24 | Audio Only",
       "channel": "MS NOW",
       "videoId": "xCKladepRCI",
-      "viewsPerHour": 9,
+      "viewsPerHour": 8,
       "views": 107,
-      "ageHours": 11.6
+      "ageHours": 12.8
     },
     {
       "title": "N.C. Democrat reflects on flipping longtime GOP seat: 'It's a new day in the South'",
       "channel": "PBS NewsHour",
       "videoId": "bSCWgB358OI",
-      "viewsPerHour": 5,
+      "viewsPerHour": 4,
       "views": 84,
-      "ageHours": 17.6
+      "ageHours": 18.8
     },
     {
       "title": "Can art be a ‘COMPANION’? Meditation teacher explains how art SAVES LIVES",
@@ -726,15 +898,15 @@
       "videoId": "kjqGXQv_fZA",
       "viewsPerHour": 2,
       "views": 41,
-      "ageHours": 17.6
+      "ageHours": 18.8
     },
     {
-      "title": "Trump delivers remarks at 2026 Turkey Pardoning amid Nvidia scandal fallout",
-      "channel": "MS NOW",
-      "videoId": "Fs12VnA2EQA",
+      "title": "WATCH: 3 expert tips for holiday shopping this year",
+      "channel": "PBS NewsHour",
+      "videoId": "yCGo_8Rh8bg",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 23.6
+      "ageHours": 2.5
     }
   ]
 }
