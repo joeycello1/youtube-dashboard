@@ -540,7 +540,7 @@
     },
     {
       "keyword": "Real Stories",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "MS NOW",
@@ -552,7 +552,7 @@
     },
     {
       "keyword": "AI",
-      "matches": 5
+      "matches": 4
     },
     {
       "keyword": "Louis Rossmann",
@@ -572,7 +572,7 @@
     },
     {
       "keyword": "NOVA",
-      "matches": 4
+      "matches": 3
     },
     {
       "keyword": "The Daily Show",
@@ -580,7 +580,7 @@
     },
     {
       "keyword": "Conan O'Brien",
-      "matches": 7
+      "matches": 6
     },
     {
       "keyword": "Grusch, UFO",
@@ -628,393 +628,369 @@
       "title": "The Hacker Who Hunts Predators: Do These 3 Things Before You Get Hacked! | Ryan \"0day\" Montgomery",
       "channel": "Diary of a CEO",
       "videoId": "Uj81Qo15wBc",
-      "viewsPerHour": 63493,
-      "views": 462783,
-      "ageHours": 7.3
+      "viewsPerHour": 66855,
+      "views": 621175,
+      "ageHours": 9.3
     },
     {
       "title": "The True Meaning of Thanksgiving: Family, Fox News Scandals & Pardoned Turkeys | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "EqwH_J3CalM",
-      "viewsPerHour": 41986,
-      "views": 1061793,
-      "ageHours": 25.3
+      "viewsPerHour": 40305,
+      "views": 1100005,
+      "ageHours": 27.3
     },
     {
       "title": "The Ancient Weapon Physicists Can’t Get Enough Of",
       "channel": "The Rest Is Science",
       "videoId": "_EGH2helCxE",
-      "viewsPerHour": 9720,
-      "views": 147796,
-      "ageHours": 15.2
-    },
-    {
-      "title": "PBS News Hour full episode, Nov. 25, 2026",
-      "channel": "PBS NewsHour",
-      "videoId": "FCXErIo9PRE",
-      "viewsPerHour": 8658,
-      "views": 121347,
-      "ageHours": 14
+      "viewsPerHour": 9439,
+      "views": 162425,
+      "ageHours": 17.2
     },
     {
       "title": "30 F**king Years of Thanksgiving Bits: Jordan Klepper & Grace Kuhlenschmidt Dig In | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "QzLKDL651yI",
-      "viewsPerHour": 7880,
-      "views": 175700,
-      "ageHours": 22.3
+      "viewsPerHour": 7609,
+      "views": 184891,
+      "ageHours": 24.3
+    },
+    {
+      "title": "PBS News Hour full episode, Nov. 25, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "FCXErIo9PRE",
+      "viewsPerHour": 7576,
+      "views": 121347,
+      "ageHours": 16
     },
     {
       "title": "What Could This Stone Structure Be? | The Curse of Oak Island",
       "channel": "History",
       "videoId": "ltkmJ2crsww",
-      "viewsPerHour": 7187,
-      "views": 145831,
-      "ageHours": 20.3
+      "viewsPerHour": 6826,
+      "views": 152179,
+      "ageHours": 22.3
     },
     {
       "title": "New report shows EXTREME MEASURES Trump considered to reinstall Nvidia CEO",
       "channel": "MS NOW",
       "videoId": "bWBUfjx3LuM",
-      "viewsPerHour": 5833,
+      "viewsPerHour": 4821,
       "views": 55661,
-      "ageHours": 9.5
+      "ageHours": 11.5
     },
     {
       "title": "Electricity Unleashes the Unknown | The Secret of Skinwalker Ranch | Full Episode",
       "channel": "History",
       "videoId": "D9n75e3AF-Y",
-      "viewsPerHour": 4451,
-      "views": 179316,
-      "ageHours": 40.3
+      "viewsPerHour": 4270,
+      "views": 180608,
+      "ageHours": 42.3
     },
     {
       "title": "New York law \"banning subscriptions\" in cars is garbage: Kathy Hochul is lying to your face.",
       "channel": "Louis Rossmann",
       "videoId": "nPEbCUHV5HM",
-      "viewsPerHour": 2903,
+      "viewsPerHour": 2511,
       "views": 37213,
-      "ageHours": 12.8
+      "ageHours": 14.8
     },
     {
       "title": "David Grusch Drops a Truly BIZARRE Revelation",
       "channel": "Post Disclosure World",
       "videoId": "bxhUVcFkgyw",
-      "viewsPerHour": 2551,
-      "views": 64523,
-      "ageHours": 25.3
+      "viewsPerHour": 2451,
+      "views": 66884,
+      "ageHours": 27.3
     },
     {
       "title": "Fuel tanker crash kills at least 31 people in Egypt",
       "channel": "Associated Press",
       "videoId": "guvi6cecGSA",
-      "viewsPerHour": 2230,
+      "viewsPerHour": 1917,
       "views": 27410,
-      "ageHours": 12.3
+      "ageHours": 14.3
     },
     {
       "title": "From her apartment, photographer captures unique view of Macy's Thanksgiving Day Parade",
       "channel": "PBS NewsHour",
       "videoId": "K_QpBRAKq4I",
-      "viewsPerHour": 2167,
+      "viewsPerHour": 1910,
       "views": 32276,
-      "ageHours": 14.9
-    },
-    {
-      "title": "Army blows up bomb chemicals in Iowa despite fears of a toxic plume",
-      "channel": "Associated Press",
-      "videoId": "zvws49oisek",
-      "viewsPerHour": 2022,
-      "views": 13481,
-      "ageHours": 6.7
+      "ageHours": 16.9
     },
     {
       "title": "BREAKING: Pete Hegseth floated use of WARTIME LAW to FORCE Nvidia into Jensen Huang reinstatement",
       "channel": "MS NOW",
       "videoId": "qI-TkGmwIn0",
-      "viewsPerHour": 1954,
+      "viewsPerHour": 1735,
       "views": 30990,
-      "ageHours": 15.9
+      "ageHours": 17.9
+    },
+    {
+      "title": "Army blows up bomb chemicals in Iowa despite fears of a toxic plume",
+      "channel": "Associated Press",
+      "videoId": "zvws49oisek",
+      "viewsPerHour": 1555,
+      "views": 13481,
+      "ageHours": 8.7
     },
     {
       "title": "Aerial video shows a king tide in San Francisco amplified by the super El Niño",
       "channel": "Associated Press",
       "videoId": "9IVoxGcG2D4",
-      "viewsPerHour": 1696,
+      "viewsPerHour": 1512,
       "views": 27926,
-      "ageHours": 16.5
+      "ageHours": 18.5
     },
     {
       "title": "WATCH: Loud booms as U.S. Army detonates lead azide stockpile in Iowa",
       "channel": "PBS NewsHour",
       "videoId": "zbC6dECvRlg",
-      "viewsPerHour": 1620,
+      "viewsPerHour": 1494,
       "views": 38474,
-      "ageHours": 23.8
-    },
-    {
-      "title": "UFO SPHERES: Seen for 500 Years. What Are They?",
-      "channel": "Jeremy Corbell",
-      "videoId": "Qi_y-JDE20o",
-      "viewsPerHour": 1598,
-      "views": 75602,
-      "ageHours": 47.3
-    },
-    {
-      "title": "Watch the moment San Francisco pier collapses in king tides",
-      "channel": "Associated Press",
-      "videoId": "L9drRazAbKM",
-      "viewsPerHour": 1090,
-      "views": 5037,
-      "ageHours": 4.6
+      "ageHours": 25.8
     },
     {
       "title": "PBS News Hour live episode, Nov. 25, 2026",
       "channel": "PBS NewsHour",
       "videoId": "vVQz7_5UT9I",
-      "viewsPerHour": 998,
+      "viewsPerHour": 895,
       "views": 17422,
-      "ageHours": 17.5
-    },
-    {
-      "title": "Trump's vanity projects got $300M mystery boost as midterms posed threat to funding: NYT",
-      "channel": "MS NOW",
-      "videoId": "SXiL6v5HfLA",
-      "viewsPerHour": 809,
-      "views": 8397,
-      "ageHours": 10.4
+      "ageHours": 19.5
     },
     {
       "title": "Inside Europe’s GHB Boom - From Groningen’s Hardstyle Buses to Ibiza ERs",
       "channel": "Real Stories",
       "videoId": "VwlKYbGKeyc",
-      "viewsPerHour": 755,
-      "views": 3208,
-      "ageHours": 4.3
+      "viewsPerHour": 765,
+      "views": 4782,
+      "ageHours": 6.3
+    },
+    {
+      "title": "Watch the moment San Francisco pier collapses in king tides",
+      "channel": "Associated Press",
+      "videoId": "L9drRazAbKM",
+      "viewsPerHour": 760,
+      "views": 5037,
+      "ageHours": 6.6
+    },
+    {
+      "title": "Trump's vanity projects got $300M mystery boost as midterms posed threat to funding: NYT",
+      "channel": "MS NOW",
+      "videoId": "SXiL6v5HfLA",
+      "viewsPerHour": 678,
+      "views": 8397,
+      "ageHours": 12.4
     },
     {
       "title": "Meet the young maestro leading the Chicago Symphony Orchestra",
       "channel": "PBS NewsHour",
       "videoId": "82ex7sYhyis",
-      "viewsPerHour": 647,
+      "viewsPerHour": 567,
       "views": 9108,
-      "ageHours": 14.1
+      "ageHours": 16.1
     },
     {
       "title": "Ariana Grande and the Manchester Arena Bombing As It Happened",
       "channel": "Real Stories",
       "videoId": "BoYUKd-s0gE",
-      "viewsPerHour": 521,
-      "views": 11584,
-      "ageHours": 22.2
+      "viewsPerHour": 512,
+      "views": 12419,
+      "ageHours": 24.2
     },
     {
       "title": "WATCH LIVE: Army offers update after detonating lead azide stockpile in Iowa",
       "channel": "PBS NewsHour",
       "videoId": "ssC9DCtBXpA",
-      "viewsPerHour": 502,
+      "viewsPerHour": 462,
       "views": 11716,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "Robin Williams Wore A Mosquito Net To Dinner At Eric Idle's House | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "KBo7b7sEGHs",
-      "viewsPerHour": 396,
+      "viewsPerHour": 368,
       "views": 10409,
-      "ageHours": 26.3
+      "ageHours": 28.3
     },
     {
       "title": "The data center next door: Japanese push back on AI boom",
       "channel": "Reuters",
       "videoId": "tHymDFYhZKE",
-      "viewsPerHour": 305,
+      "viewsPerHour": 269,
       "views": 4501,
-      "ageHours": 14.7
-    },
-    {
-      "title": "I don't think they care': Neguse says Trump admin is oblivious to Americans' economic pain",
-      "channel": "MS NOW",
-      "videoId": "qgt6AwblvDo",
-      "viewsPerHour": 230,
-      "views": 2435,
-      "ageHours": 10.6
+      "ageHours": 16.7
     },
     {
       "title": "Rob Lowe: From 80s Heartthrob to Scandal and Redemption",
       "channel": "Real Stories",
       "videoId": "2tEyR_6xzG0",
-      "viewsPerHour": 226,
-      "views": 10011,
-      "ageHours": 44.3
+      "viewsPerHour": 218,
+      "views": 10094,
+      "ageHours": 46.3
+    },
+    {
+      "title": "I don't think they care': Neguse says Trump admin is oblivious to Americans' economic pain",
+      "channel": "MS NOW",
+      "videoId": "qgt6AwblvDo",
+      "viewsPerHour": 193,
+      "views": 2435,
+      "ageHours": 12.6
     },
     {
       "title": "\"SPHERES HAVE BEEN SEEN FOR HUNDREDS OF YEARS\"",
       "channel": "Jeremy Corbell",
       "videoId": "wQKPoMgQ2Yg",
-      "viewsPerHour": 193,
-      "views": 8347,
-      "ageHours": 43.3
+      "viewsPerHour": 185,
+      "views": 8392,
+      "ageHours": 45.3
     },
     {
       "title": "ALTERNATE REALITY!': Sam Stein SLAMS Jensen Huang's apology",
       "channel": "MS NOW",
       "videoId": "7AlusG6-294",
-      "viewsPerHour": 183,
+      "viewsPerHour": 167,
       "views": 3942,
-      "ageHours": 21.6
+      "ageHours": 23.6
     },
     {
       "title": "LIVE: Mamdani gives a briefing after the Macy’s Thanksgiving Day Parade was postponed",
       "channel": "Associated Press",
       "videoId": "O8S8A1knLrY",
-      "viewsPerHour": 177,
+      "viewsPerHour": 157,
       "views": 2784,
-      "ageHours": 15.7
+      "ageHours": 17.7
     },
     {
       "title": "LIVE: Army officials hold a press conference after detonating lead azide in Iowa",
       "channel": "Associated Press",
       "videoId": "Dy8fXGjlrwI",
-      "viewsPerHour": 160,
+      "viewsPerHour": 146,
       "views": 3475,
-      "ageHours": 21.8
+      "ageHours": 23.8
     },
     {
       "title": "How Trump's newest tariffs could impact Americans and the economy",
       "channel": "PBS NewsHour",
       "videoId": "DFT80onrsz8",
-      "viewsPerHour": 141,
+      "viewsPerHour": 125,
       "views": 2231,
-      "ageHours": 15.9
+      "ageHours": 17.9
     },
     {
       "title": "LIVE: Kilmar Ábrego García holds a press conference after landing in Spain",
       "channel": "Associated Press",
       "videoId": "9FEXHur1v_I",
-      "viewsPerHour": 133,
+      "viewsPerHour": 122,
       "views": 3091,
-      "ageHours": 23.3
+      "ageHours": 25.3
     },
     {
       "title": "Martin Short Explains Why Canadians Are So Funny | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "1pkL6DOSR6Y",
-      "viewsPerHour": 119,
+      "viewsPerHour": 110,
       "views": 2782,
-      "ageHours": 23.3
-    },
-    {
-      "title": "LIVE: Flooding hits California as El Nino storms fuel king tides",
-      "channel": "Reuters",
-      "videoId": "TjHqGlhW3MU",
-      "viewsPerHour": 103,
-      "views": 431,
-      "ageHours": 4.2
+      "ageHours": 25.3
     },
     {
       "title": "Capital One adds forced arbitration to bank accounts: former CFPB Director Rohit Chopra chimes in!",
       "channel": "Louis Rossmann",
       "videoId": "E4NDLjgPnS0",
-      "viewsPerHour": 102,
+      "viewsPerHour": 97,
       "views": 4162,
-      "ageHours": 40.7
-    },
-    {
-      "title": "Conan Hosted An Accidental Meet & Greet On The NYC Subway | Conan O'Brien Needs A Friend",
-      "channel": "Conan O'Brien",
-      "videoId": "EmLSPn_uF8o",
-      "viewsPerHour": 95,
-      "views": 4475,
-      "ageHours": 47.3
+      "ageHours": 42.7
     },
     {
       "title": "1933 Magenta Italy UFO Crash Deep Dive - Graeme Rendall & Sean Raasch (Re-release)",
       "channel": "Disclosure Team",
       "videoId": "BQro7bmBPlY",
-      "viewsPerHour": 94,
-      "views": 4081,
-      "ageHours": 43.3
+      "viewsPerHour": 95,
+      "views": 4316,
+      "ageHours": 45.3
     },
     {
       "title": "Plumes of smoke rise as the US army detonates lead azide in Iowa",
       "channel": "Associated Press",
       "videoId": "wpl4gKqAaoE",
-      "viewsPerHour": 76,
+      "viewsPerHour": 70,
       "views": 1631,
-      "ageHours": 21.4
+      "ageHours": 23.4
+    },
+    {
+      "title": "LIVE: Flooding hits California as El Nino storms fuel king tides",
+      "channel": "Reuters",
+      "videoId": "TjHqGlhW3MU",
+      "viewsPerHour": 70,
+      "views": 431,
+      "ageHours": 6.2
     },
     {
       "title": "Nigeria seizes over $220 million in meth and arrests 5 Mexican suspects",
       "channel": "Associated Press",
       "videoId": "8QS478_E99I",
-      "viewsPerHour": 69,
+      "viewsPerHour": 59,
       "views": 779,
-      "ageHours": 11.3
+      "ageHours": 13.3
     },
     {
       "title": "The Last Word with Lawrence O'Donnell - Nov. 25 | Audio Only",
       "channel": "MS NOW",
       "videoId": "WpBidvrbLXA",
-      "viewsPerHour": 66,
+      "viewsPerHour": 55,
       "views": 641,
-      "ageHours": 9.7
-    },
-    {
-      "title": "Tom Hiddleston, Dolly and Galileo: Frank DiLella’s Broadway preview",
-      "channel": "MS NOW",
-      "videoId": "W9xJyEIH_dI",
-      "viewsPerHour": 57,
-      "views": 244,
-      "ageHours": 4.3
+      "ageHours": 11.8
     },
     {
       "title": "News Wrap: Severe weather threatens holiday travel for millions",
       "channel": "PBS NewsHour",
       "videoId": "M-kone3vQTQ",
-      "viewsPerHour": 48,
+      "viewsPerHour": 43,
       "views": 758,
-      "ageHours": 15.8
+      "ageHours": 17.8
     },
     {
-      "title": "Swiss aid group spots migrant boats as Canary Islands arrivals hit record high",
-      "channel": "Associated Press",
-      "videoId": "O7K7RIVfPwc",
-      "viewsPerHour": 45,
-      "views": 459,
-      "ageHours": 10.3
+      "title": "Tom Hiddleston, Dolly and Galileo: Frank DiLella’s Broadway preview",
+      "channel": "MS NOW",
+      "videoId": "W9xJyEIH_dI",
+      "viewsPerHour": 39,
+      "views": 244,
+      "ageHours": 6.3
     },
     {
       "title": "Does red light therapy REALLY work?",
       "channel": "MS NOW",
       "videoId": "8e9cbWXdIdw",
-      "viewsPerHour": 42,
+      "viewsPerHour": 38,
       "views": 702,
-      "ageHours": 16.6
+      "ageHours": 18.6
+    },
+    {
+      "title": "Swiss aid group spots migrant boats as Canary Islands arrivals hit record high",
+      "channel": "Associated Press",
+      "videoId": "O7K7RIVfPwc",
+      "viewsPerHour": 37,
+      "views": 459,
+      "ageHours": 12.3
     },
     {
       "title": "Macy's Thanksgiving Day Parade postponed, Iowa detonation, Trump tariffs | Reuters World News",
       "channel": "Reuters",
       "videoId": "m53bU25OUfU",
-      "viewsPerHour": 37,
+      "viewsPerHour": 33,
       "views": 602,
-      "ageHours": 16.1
+      "ageHours": 18.1
     },
     {
       "title": "LIVE: NYSE opening bell rings",
       "channel": "Reuters",
       "videoId": "bQ-36I9GHyM",
-      "viewsPerHour": 22,
+      "viewsPerHour": 20,
       "views": 504,
-      "ageHours": 22.9
-    },
-    {
-      "title": "LIVE: Russian cargo spacecraft docks at International Space Station‌",
-      "channel": "Reuters",
-      "videoId": "0cIIZ4gmfFI",
-      "viewsPerHour": 10,
-      "views": 36,
-      "ageHours": 3.7
+      "ageHours": 24.9
     },
     {
       "title": "LIVE: Millions hit the road ahead of Thanksgiving holiday",
@@ -1022,31 +998,39 @@
       "videoId": "BekCBzrh7gM",
       "viewsPerHour": 9,
       "views": 205,
-      "ageHours": 21.9
+      "ageHours": 23.9
     },
     {
       "title": "LIVE: Soccer teams PSG and AS Roma hold post-match press conferences",
       "channel": "Reuters",
       "videoId": "ymVBriw1uhM",
-      "viewsPerHour": 9,
+      "viewsPerHour": 8,
       "views": 140,
-      "ageHours": 16.2
+      "ageHours": 18.2
     },
     {
       "title": "Abrego Garcia lands in Spain after US departure deal",
       "channel": "Reuters",
       "videoId": "LI7cRpQEuEE",
-      "viewsPerHour": 8,
+      "viewsPerHour": 7,
       "views": 171,
-      "ageHours": 21.2
+      "ageHours": 23.2
+    },
+    {
+      "title": "LIVE: Russian cargo spacecraft docks at International Space Station‌",
+      "channel": "Reuters",
+      "videoId": "0cIIZ4gmfFI",
+      "viewsPerHour": 6,
+      "views": 36,
+      "ageHours": 5.7
     },
     {
       "title": "From smoke to power: Punjab turns stubble-burning problem into income",
       "channel": "Reuters",
       "videoId": "a_8dpYXcB_o",
-      "viewsPerHour": 8,
+      "viewsPerHour": 5,
       "views": 30,
-      "ageHours": 3.9
+      "ageHours": 5.9
     },
     {
       "title": "WATCH: 3 expert tips for holiday shopping this year",
@@ -1054,7 +1038,7 @@
       "videoId": "yCGo_8Rh8bg",
       "viewsPerHour": 0,
       "views": 0,
-      "ageHours": 23.3
+      "ageHours": 25.3
     }
   ]
 }
