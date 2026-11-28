@@ -1,20 +1,36 @@
 {
   "videosPerChannel": [
     {
+      "channel": "Reuters",
+      "count": 7
+    },
+    {
+      "channel": "PBS NewsHour",
+      "count": 7
+    },
+    {
+      "channel": "MS NOW",
+      "count": 6
+    },
+    {
       "channel": "Associated Press",
       "count": 8
     },
     {
-      "channel": "MS NOW",
-      "count": 3
+      "channel": "The Hill",
+      "count": 1
+    },
+    {
+      "channel": "Real Stories",
+      "count": 47
+    },
+    {
+      "channel": "History",
+      "count": 50
     },
     {
       "channel": "Area 52",
       "count": 7
-    },
-    {
-      "channel": "Reuters",
-      "count": 5
     },
     {
       "channel": "Conan O'Brien",
@@ -25,24 +41,12 @@
       "count": 25
     },
     {
-      "channel": "PBS NewsHour",
-      "count": 7
-    },
-    {
       "channel": "The Daily Show",
       "count": 4
     },
     {
-      "channel": "History",
-      "count": 50
-    },
-    {
       "channel": "Louis Rossmann",
       "count": 15
-    },
-    {
-      "channel": "Real Stories",
-      "count": 46
     },
     {
       "channel": "Diary of a CEO",
@@ -111,32 +115,40 @@
   ],
   "keywordFrequency": [
     {
+      "keyword": "Reuters",
+      "count": 7
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "count": 5
+    },
+    {
+      "keyword": "MS NOW",
+      "count": 5
+    },
+    {
       "keyword": "Associated Press",
       "count": 8
     },
     {
-      "keyword": "MS NOW",
-      "count": 2
+      "keyword": "AI",
+      "count": 16
     },
     {
-      "keyword": "UFO, USO",
-      "count": 1
-    },
-    {
-      "keyword": "Reuters",
-      "count": 5
-    },
-    {
-      "keyword": "Conan O'Brien",
-      "count": 13
+      "keyword": "Real Stories",
+      "count": 45
     },
     {
       "keyword": "NOVA",
       "count": 44
     },
     {
-      "keyword": "PBS NewsHour",
-      "count": 5
+      "keyword": "UFO, USO",
+      "count": 1
+    },
+    {
+      "keyword": "Conan O'Brien",
+      "count": 13
     },
     {
       "keyword": "The Daily Show",
@@ -157,14 +169,6 @@
     {
       "keyword": "Louis Rossmann",
       "count": 14
-    },
-    {
-      "keyword": "Real Stories",
-      "count": 44
-    },
-    {
-      "keyword": "AI",
-      "count": 15
     },
     {
       "keyword": "The Rest Is Science, AI",
@@ -298,11 +302,11 @@
   "dailySummary": [
     {
       "date": "2026-11-27",
-      "videos": 21
+      "videos": 36
     },
     {
       "date": "2026-11-26",
-      "videos": 14
+      "videos": 7
     },
     {
       "date": "2026-11-25",
@@ -537,42 +541,46 @@
       "videos": 2
     },
     {
-      "date": "2026-09-28",
-      "videos": 1
-    },
-    {
       "date": "2026-08-15",
       "videos": 1
     }
   ],
   "topKeywordsWeek": [
     {
+      "keyword": "Reuters",
+      "matches": 7
+    },
+    {
+      "keyword": "PBS NewsHour",
+      "matches": 5
+    },
+    {
+      "keyword": "MS NOW",
+      "matches": 5
+    },
+    {
       "keyword": "Associated Press",
       "matches": 8
     },
     {
-      "keyword": "MS NOW",
-      "matches": 2
+      "keyword": "AI",
+      "matches": 4
+    },
+    {
+      "keyword": "Real Stories",
+      "matches": 7
+    },
+    {
+      "keyword": "NOVA",
+      "matches": 5
     },
     {
       "keyword": "UFO, USO",
       "matches": 1
     },
     {
-      "keyword": "Reuters",
-      "matches": 5
-    },
-    {
       "keyword": "Conan O'Brien",
       "matches": 8
-    },
-    {
-      "keyword": "NOVA",
-      "matches": 4
-    },
-    {
-      "keyword": "PBS NewsHour",
-      "matches": 5
     },
     {
       "keyword": "The Daily Show",
@@ -593,14 +601,6 @@
     {
       "keyword": "Louis Rossmann",
       "matches": 4
-    },
-    {
-      "keyword": "Real Stories",
-      "matches": 6
-    },
-    {
-      "keyword": "AI",
-      "matches": 3
     },
     {
       "keyword": "The Rest Is Science, AI",
@@ -644,281 +644,337 @@
       "title": "The Hacker Who Hunts Predators: Do These 3 Things Before You Get Hacked! | Ryan \"0day\" Montgomery",
       "channel": "Diary of a CEO",
       "videoId": "Uj81Qo15wBc",
-      "viewsPerHour": 68414,
-      "views": 2687589,
-      "ageHours": 39.3
+      "viewsPerHour": 67570,
+      "views": 2790141,
+      "ageHours": 41.3
     },
     {
       "title": "Black Friday Sales Bring Out the Worst in Humanity | The Daily Show",
       "channel": "The Daily Show",
       "videoId": "8ahMVU2Rndw",
-      "viewsPerHour": 34086,
-      "views": 316579,
-      "ageHours": 9.3
+      "viewsPerHour": 32140,
+      "views": 363057,
+      "ageHours": 11.3
     },
     {
       "title": "He Designed a SECRET Museum for the Government - Allan Lavigne | ep. 108",
       "channel": "Area 52",
       "videoId": "bBRAdazkG7Q",
-      "viewsPerHour": 13561,
-      "views": 85245,
-      "ageHours": 6.3
-    },
-    {
-      "title": "The Ancient Weapon Physicists Can’t Get Enough Of",
-      "channel": "The Rest Is Science",
-      "videoId": "_EGH2helCxE",
-      "viewsPerHour": 6434,
-      "views": 303670,
-      "ageHours": 47.2
+      "viewsPerHour": 13779,
+      "views": 114291,
+      "ageHours": 8.3
     },
     {
       "title": "These Stunning Paintings Are Around 37,000 Years Old | NOVA | PBS",
       "channel": "NOVA",
       "videoId": "kss72f5jxGk",
-      "viewsPerHour": 4965,
-      "views": 39891,
-      "ageHours": 8
+      "viewsPerHour": 5281,
+      "views": 53035,
+      "ageHours": 10
     },
     {
-      "title": "‘HORROR’ Kushner ‘out of his depth’ on Putin",
+      "title": "PBS News Hour live episode, Nov. 27, 2026",
+      "channel": "PBS NewsHour",
+      "videoId": "eH2YMuE_FAs",
+      "viewsPerHour": 4795,
+      "views": 18959,
+      "ageHours": 4
+    },
+    {
+      "title": "Knight's Templar Clues Around The World | The Curse of Oak Island",
+      "channel": "History",
+      "videoId": "jTf9qfUBWPs",
+      "viewsPerHour": 4415,
+      "views": 27834,
+      "ageHours": 6.3
+    },
+    {
+      "title": "Trump siding with Russia over Ukraine an ‘EMBARRASSMENT to the country’: Republican Rep.",
       "channel": "MS NOW",
-      "videoId": "fgIsfNmoGfw",
-      "viewsPerHour": 3338,
-      "views": 20379,
-      "ageHours": 6.1
+      "videoId": "Uqfvqf_snvI",
+      "viewsPerHour": 3289,
+      "views": 10484,
+      "ageHours": 3.2
     },
     {
       "title": "Unearth 2026's Best Finds | The Curse of Oak Island",
       "channel": "History",
       "videoId": "20Grlp_LkuQ",
-      "viewsPerHour": 3151,
-      "views": 89164,
-      "ageHours": 28.3
+      "viewsPerHour": 3019,
+      "views": 91508,
+      "ageHours": 30.3
+    },
+    {
+      "title": "‘HORROR’ Kushner ‘out of his depth’ on Putin",
+      "channel": "MS NOW",
+      "videoId": "fgIsfNmoGfw",
+      "viewsPerHour": 2512,
+      "views": 20379,
+      "ageHours": 8.1
     },
     {
       "title": "PBS News Hour full episode, Nov. 26, 2026",
       "channel": "PBS NewsHour",
       "videoId": "wJL1wUDX-tE",
-      "viewsPerHour": 2615,
+      "viewsPerHour": 2398,
       "views": 57961,
-      "ageHours": 22.2
+      "ageHours": 24.2
     },
     {
       "title": "UNTENABLE' for this small group of AI leaders to chart 'the future of humanity': Kevin Roose",
       "channel": "MS NOW",
       "videoId": "a2sWwrdOZ-4",
-      "viewsPerHour": 1552,
+      "viewsPerHour": 1424,
       "views": 34592,
-      "ageHours": 22.3
+      "ageHours": 24.3
+    },
+    {
+      "title": "Nicolle and Maddow on Trump’s ‘piping hot’ SCANDAL and not waiting for heroes | TBP compilation",
+      "channel": "MS NOW",
+      "videoId": "Ti7_POXpQAY",
+      "viewsPerHour": 1360,
+      "views": 2641,
+      "ageHours": 1.9
     },
     {
       "title": "Windows 11 baseline protection will allow programs to block PCs that fail security checks",
       "channel": "Louis Rossmann",
       "videoId": "-zzw9w3YtsI",
-      "viewsPerHour": 920,
+      "viewsPerHour": 866,
       "views": 29694,
-      "ageHours": 32.3
+      "ageHours": 34.3
+    },
+    {
+      "title": "LIVE: Bolivian workers protest against government",
+      "channel": "Reuters",
+      "videoId": "jX221tOsA2E",
+      "viewsPerHour": 807,
+      "views": 1323,
+      "ageHours": 1.6
     },
     {
       "title": "New York law \"banning subscriptions\" in cars is garbage: Kathy Hochul is lying to your face.",
       "channel": "Louis Rossmann",
       "videoId": "nPEbCUHV5HM",
-      "viewsPerHour": 830,
+      "viewsPerHour": 795,
       "views": 37213,
-      "ageHours": 44.8
+      "ageHours": 46.8
     },
     {
       "title": "Conan and the Quazys (Full Episode) | Conan O'Brien Needs A Friend",
       "channel": "Conan O'Brien",
       "videoId": "SbZL1SXuVbE",
-      "viewsPerHour": 821,
+      "viewsPerHour": 765,
       "views": 22296,
-      "ageHours": 27.1
+      "ageHours": 29.2
+    },
+    {
+      "title": "Tupac’s Last Night in Vegas: The Details Everyone Missed",
+      "channel": "Real Stories",
+      "videoId": "46Q-TmkUvqE",
+      "viewsPerHour": 686,
+      "views": 4308,
+      "ageHours": 6.3
+    },
+    {
+      "title": "Ukrainian children return from Russia in an operation mediated by Melania Trump",
+      "channel": "Associated Press",
+      "videoId": "vX6zpjB5YzA",
+      "viewsPerHour": 644,
+      "views": 3461,
+      "ageHours": 5.4
+    },
+    {
+      "title": "‘Work twice as hard for half as much’: What Dems’ HISTORIC firsts mean under Trump",
+      "channel": "MS NOW",
+      "videoId": "6M9KN70Bnbw",
+      "viewsPerHour": 561,
+      "views": 1849,
+      "ageHours": 3.3
     },
     {
       "title": "GTA VI & Car Movies | Bley's Arcade",
       "channel": "Conan O'Brien",
       "videoId": "4FTZ8ChIJjM",
-      "viewsPerHour": 605,
+      "viewsPerHour": 487,
       "views": 5018,
-      "ageHours": 8.3
+      "ageHours": 10.3
     },
     {
       "title": "Inside Europe’s GHB Boom - From Groningen’s Hardstyle Buses to Ibiza ERs",
       "channel": "Real Stories",
       "videoId": "VwlKYbGKeyc",
-      "viewsPerHour": 416,
-      "views": 15068,
-      "ageHours": 36.2
+      "viewsPerHour": 412,
+      "views": 15753,
+      "ageHours": 38.3
     },
     {
-      "title": "PBS News Hour full episode, Nov. 26, 2026",
+      "title": "Parts of the US clean up, power outages being restored after Thanksgiving storm soaks East Coast",
+      "channel": "Associated Press",
+      "videoId": "LZPdMu17AEk",
+      "viewsPerHour": 356,
+      "views": 847,
+      "ageHours": 2.4
+    },
+    {
+      "title": "American consumers face pitfalls with rise of 'buy now, pay later'",
       "channel": "PBS NewsHour",
-      "videoId": "CfsGyfdf-lI",
-      "viewsPerHour": 402,
-      "views": 9901,
-      "ageHours": 24.6
+      "videoId": "HsMi0KY3tpA",
+      "viewsPerHour": 320,
+      "views": 606,
+      "ageHours": 1.9
     },
     {
       "title": "How women in Israel are playing larger roles in the military",
       "channel": "PBS NewsHour",
       "videoId": "KE3XihZkahg",
-      "viewsPerHour": 294,
+      "viewsPerHour": 240,
       "views": 2603,
-      "ageHours": 8.9
-    },
-    {
-      "title": "Heavy rain, wind and flooding plague much of US on Thanksgiving holiday",
-      "channel": "Associated Press",
-      "videoId": "nDBxabp1JxU",
-      "viewsPerHour": 273,
-      "views": 7297,
-      "ageHours": 26.7
+      "ageHours": 10.9
     },
     {
       "title": "The best strategies for holiday shopping in the age of AI",
       "channel": "PBS NewsHour",
       "videoId": "iZqL5OYjM5M",
-      "viewsPerHour": 255,
+      "viewsPerHour": 234,
       "views": 5841,
-      "ageHours": 22.9
+      "ageHours": 24.9
     },
     {
-      "title": "Gérard Depardieu is ordered to stand trial for rape and sexual assault",
-      "channel": "Associated Press",
-      "videoId": "gJx8I8DvplM",
-      "viewsPerHour": 238,
-      "views": 6975,
-      "ageHours": 29.3
+      "title": "CA rejects wealth tax, but progressives may TRY AGAIN (Plus: Early 2028 nominee favorites) | RISING",
+      "channel": "The Hill",
+      "videoId": "rv8LAdviu1w",
+      "viewsPerHour": 225,
+      "views": 1191,
+      "ageHours": 5.3
     },
     {
       "title": "How women in Israel are playing larger roles in the military",
       "channel": "PBS NewsHour",
       "videoId": "LEt7EGPtQvA",
-      "viewsPerHour": 235,
+      "viewsPerHour": 215,
       "views": 5267,
-      "ageHours": 22.4
+      "ageHours": 24.4
     },
     {
       "title": "Stuntman Steven Ho Attacks Conan With A Marker | CONAN on TBS",
       "channel": "Conan O'Brien",
       "videoId": "KD211Ui7Hwg",
-      "viewsPerHour": 161,
+      "viewsPerHour": 126,
       "views": 1174,
-      "ageHours": 7.3
+      "ageHours": 9.3
     },
     {
       "title": "LIVE: Shoppers in Virginia search for Black Friday bargains",
       "channel": "Reuters",
       "videoId": "S9tI1JyvHMM",
-      "viewsPerHour": 157,
+      "viewsPerHour": 126,
       "views": 1273,
-      "ageHours": 8.1
+      "ageHours": 10.1
     },
     {
       "title": "Mexico seeks U.S. talks over SpaceX use of Mexican airspace",
       "channel": "Associated Press",
       "videoId": "3YcItkKMTwE",
-      "viewsPerHour": 134,
+      "viewsPerHour": 118,
       "views": 1921,
-      "ageHours": 14.3
+      "ageHours": 16.3
     },
     {
-      "title": "EU leaders are divided over budget spending as they weigh a $49B loan to Ukraine",
+      "title": "Protests erupt in Puerto Rico's capital as living standards deteriorate",
       "channel": "Associated Press",
-      "videoId": "5bQhQAM1L5c",
-      "viewsPerHour": 119,
-      "views": 3382,
-      "ageHours": 28.4
+      "videoId": "WcE1hr0Ut-o",
+      "viewsPerHour": 105,
+      "views": 298,
+      "ageHours": 2.8
     },
     {
       "title": "Estonia prepares to close its border crossings with Russia",
       "channel": "Associated Press",
       "videoId": "uPSb5V94V14",
-      "viewsPerHour": 105,
+      "viewsPerHour": 91,
       "views": 1390,
-      "ageHours": 13.3
+      "ageHours": 15.3
     },
     {
       "title": "Scientists use drones and poop-sniffing dogs to check orca health",
       "channel": "Associated Press",
       "videoId": "F3YPS-mbbZ4",
-      "viewsPerHour": 73,
+      "viewsPerHour": 56,
       "views": 496,
-      "ageHours": 6.8
+      "ageHours": 8.8
     },
     {
-      "title": "WATCH LIVE: President Trump and first lady call U.S. service members on Thanksgiving",
+      "title": "How online gambling is changing the game and impacting athletes",
       "channel": "PBS NewsHour",
-      "videoId": "beasdZ4SomA",
-      "viewsPerHour": 72,
-      "views": 1967,
-      "ageHours": 27.4
+      "videoId": "aHB5sU4FdV0",
+      "viewsPerHour": 41,
+      "views": 73,
+      "ageHours": 1.8
     },
     {
       "title": "Has gentle parenting gone TOO FAR? Psychologist weighs in on breaking generational cycles",
       "channel": "MS NOW",
       "videoId": "q5-a2AGQAxY",
-      "viewsPerHour": 50,
+      "viewsPerHour": 38,
       "views": 315,
-      "ageHours": 6.3
+      "ageHours": 8.3
     },
     {
       "title": "LIVE: Nuremberg's Christmas market opens",
       "channel": "Reuters",
       "videoId": "CNqmQxEPJ0Y",
-      "viewsPerHour": 46,
+      "viewsPerHour": 35,
       "views": 309,
-      "ageHours": 6.7
+      "ageHours": 8.8
+    },
+    {
+      "title": "Bargain hunters beat the sunrise to Black Friday deals",
+      "channel": "Reuters",
+      "videoId": "YkMLnjoLsHg",
+      "viewsPerHour": 26,
+      "views": 54,
+      "ageHours": 2.1
     },
     {
       "title": "LIVE: Shoppers look for Black Friday bargains in New York",
       "channel": "Reuters",
       "videoId": "wy7_qJjxHVU",
-      "viewsPerHour": 18,
+      "viewsPerHour": 16,
       "views": 235,
-      "ageHours": 13
+      "ageHours": 15
     },
     {
       "title": "Heavy rains flood streets and main square in northern Peru",
       "channel": "Associated Press",
       "videoId": "Jo6Poj8rc84",
-      "viewsPerHour": 14,
+      "viewsPerHour": 11,
       "views": 82,
-      "ageHours": 5.8
+      "ageHours": 7.8
     },
     {
       "title": "LIVE: Funeral prayers for people killed in Egypt's deadly tanker explosion",
       "channel": "Reuters",
       "videoId": "l4gsLRzCtEk",
-      "viewsPerHour": 9,
+      "viewsPerHour": 8,
       "views": 116,
-      "ageHours": 12.6
+      "ageHours": 14.6
     },
     {
       "title": "European Council President Costa says no long term budget agreement reached",
       "channel": "Associated Press",
       "videoId": "mZbb1trdsYU",
-      "viewsPerHour": 8,
+      "viewsPerHour": 7,
       "views": 92,
-      "ageHours": 11.8
+      "ageHours": 13.8
     },
     {
-      "title": "Heartbroken mother returns to site of Hong Kong fire one year later | REUTERS",
+      "title": "LIVE: Bolivian workers protest against government",
       "channel": "Reuters",
-      "videoId": "7YYItbh_pPE",
-      "viewsPerHour": 4,
-      "views": 105,
-      "ageHours": 25.1
-    },
-    {
-      "title": "Despite political divide, Americans often 'speak in one voice'",
-      "channel": "PBS NewsHour",
-      "videoId": "izO0aDNBwig",
-      "viewsPerHour": 3,
-      "views": 76,
-      "ageHours": 23.6
+      "videoId": "UjKx31gXXUs",
+      "viewsPerHour": 0,
+      "views": 0,
+      "ageHours": 1.9
     }
   ]
 }
